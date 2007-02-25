@@ -1,5 +1,20 @@
 # This is a makefile that builds the sme-nob translation parser
 
+# Here I put in some documentation (to be moved to docu pages)
+# The thing is that it still does not work, except for one-tag entries.
+# The idea is to link 3 transducers:
+# 
+# isme.fst          biilla:biila+N+Sg+Acc
+# smesmj-inter.fst         biila+N+Sg+Acc:bijlla+N+Sg+Acc
+# smj.save                                bijlla+N+Sg+Acc:bijlav
+# 
+# and as a result get smesmj.fst, giving biilla:bijlav, boađát:kommst, etc.
+
+# The -inter.fst file matches lexeme to lexeme and tagstring to tagstring
+# On each side, we have our ordinary transducers mapping from representation
+# to actual wordforms.
+
+
 LEXC = lexc -utf8
 XFST = xfst -utf8
 
@@ -9,8 +24,9 @@ smenob.fst: ../bin/smenob.fst
 	@echo
 	@echo "*** Building smenob.fst ***" 
 	@echo
-	@printf "read regex [ [@\"~/gt/sme/bin/sme.fst\" ] .o. \
-	[@\"../bin/smenob-inter.fst\"] .o. [@\"~/st/nob/bin/nob.fst\"] ] ; \n\
+	@printf "read regex [ [[@\"~/gt/sme/bin/sme.fst\" ] .o. \
+	[@\"../bin/smenob-inter.fst\"]] .o. [@\"../bin/smenob-inter.fst\"] .o. \
+	[@\"~/st/nob/bin/nob.fst\"] ] ; \n\
 	save stack ../bin/smenob.fst \n\
 	quit \n" > ../../tmp/smenob-save-script
 	$(XFST) < ../../tmp/smenob-save-script
