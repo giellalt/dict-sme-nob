@@ -115,7 +115,9 @@ Multichar_Symbols
  +Ani +Mal +Fem +Sur +Plc +Org +Obj
 
 
+! Indices
 
+i d 1 2 3
 
 
 LEXICON Root
@@ -132,20 +134,23 @@ Conjunction ;
 !Adposition ;
 
 LEXICON m
- +N+Sg:+N+Msc+Sg N ;
- +N+Pl:+N+Msc+Pl N ;
+ +N+Sg+Nomi:+N+Msc+Sg+Indef # ;
+ +N+Pl+Nomi:+N+Msc+Pl+Indef # ;
+ +N+Sg+Nomd:+N+Msc+Sg+Def # ;
+ +N+Pl+Nomd:+N+Msc+Pl+Def # ;
+		  
+LEXICON f 
+ +N+Sg+Nomi:+N+Fem+Sg+Indef # ;
+ +N+Sg+Nomi:+N+Fem+Pl+Indef # ;
+ +N+Sg+Nomd:+N+Fem+Sg+Def # ;
+ +N+Sg+Nomd:+N+Fem+Pl+Def # ;
+		  
+LEXICON n 
+ +N+Sg+Nomi:+N+Neu+Sg+Indef # ;
+ +N+Pl+Nomi:+N+Neu+Pl+Indef # ;
+ +N+Sg+Nomd:+N+Neu+Sg+Def # ;
+ +N+Pl+Nomd:+N+Neu+Pl+Def # ;
 
-LEXICON f
- +N+Sg:+N+Fem+Sg N ;
- +N+Sg:+N+Fem+Pl N ;
-
-LEXICON n
- +N+Sg:+N+Neu+Sg N ;
- +N+Pl:+N+Neu+Pl N ;
-
-LEXICON N
-+Nom:+Indef # ;
-+Nom:+Def # ;
 
  
 LEXICON a
@@ -157,9 +162,9 @@ LEXICON v
 +Ind+Prt PN ;
 
 LEXICON PN
-+Sg1: # ;
-+Sg2: # ;
-+Sg3: # ;
++Sg1:1 # ;
++Sg2:2 # ;
++Sg3:3 # ;
 
 
 
