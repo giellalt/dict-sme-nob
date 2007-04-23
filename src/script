@@ -1,0 +1,4 @@
+echo alle tre
+read regex [ [@"isme.fst"] .o. [@"sn.fst"] .o. [@"nob.fst"] ] ;
+echo kompiler
+save stack smenob.fst ;
