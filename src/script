@@ -1,4 +1,17 @@
+echo
 echo alle tre
-read regex [ [@"isme.fst"] .o. [@"sn.fst"] .o. [@"nob.fst"] ] ;
+echo
+read regex [ [@"/Users/trond/gt/sme/bin/isme.fst"]
+             .o. 
+             [@"../bin/smenob-inter.fst"] 
+             .o. 
+             [@"/Users/trond/st/nob/bin/nob.save"] 
+           ] ;
+echo           
 echo kompiler
-save stack smenob.fst ;
+echo
+save stack ../bin/smenob.fst ;
+echo
+echo ferdig
+echo
+
