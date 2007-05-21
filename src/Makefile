@@ -14,19 +14,25 @@
 # On each side, we have our ordinary transducers mapping from representation
 # to actual wordforms.
 
+# The problem is that it works only when there is no ambigouous output.
+# og : og+CC .x. og+CC : ja+CC .x. ja+CC : ja works fine, but the problem is multiple output:
+# isme.fst          biilla:biila+N+Sg+Acc
+#                          biila+N+Sg+Gen
+
+
 
 LEXC = lexc -utf8
 XFST = xfst -utf8
 
 smenob.fst: ../bin/smenob.fst
-../bin/smenob.fst: ../bin/smenob-inter.fst ~/gt/sme/bin/sme.fst \
-	~/st/nob/bin/nob.fst
+../bin/smenob.fst: ../bin/smenob-inter.fst ~/gt/sme/bin/sme.save \
+	~/st/nob/bin/nob.save
 	@echo
 	@echo "*** Building smenob.fst ***" 
 	@echo
-	@printf "read regex [ [[@\"~/gt/sme/bin/sme.fst\" ] .o. \
+	@printf "read regex [ [[@\"~/gt/sme/bin/isme.fst\" ] .o. \
 	[@\"../bin/smenob-inter.fst\"]] .o. [@\"../bin/smenob-inter.fst\"] .o. \
-	[@\"~/st/nob/bin/nob.fst\"] ] ; \n\
+	[@\"~/st/nob/bin/nob.save\"] ] ; \n\
 	save stack ../bin/smenob.fst \n\
 	quit \n" > ../../tmp/smenob-save-script
 	$(XFST) < ../../tmp/smenob-save-script
