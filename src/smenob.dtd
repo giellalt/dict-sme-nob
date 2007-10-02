@@ -1,0 +1,13 @@
+<!ELEMENT r (e+) >
+<!ELEMENT e (lgr mgr+)>
+<!ELEMENT lg (l lc+)>
+<!ELEMENT l (#PCDATA)>
+<!ELEMENT lc (#PCDATA)>
+
+<!ELEMENT mg (tg+)>
+<!ELEMENT tg (t+ xg*)>
+
+<!ELEMENT t (#PCDATA)>
+<!ELEMENT xg ((x xt?)+)>
+<!ELEMENT x (#PCDATA)>
+<!ELEMENT xt (#PCDATA)>
