@@ -925,6 +925,9 @@
             <lc>bahčit [ bohčit]</lc>
         </lg>
         <mg>
+	</mg>
+    </e>
+	
     <e>
         <lg>
             <l>baika</l>
@@ -1355,13 +1358,15 @@
             </tg>
 	</mg>
     </e>
+   
     <e>
         <lg>
-            <l>basuhit</l></lg>
+            <l>basuhit</l>
+	</lg>
         <mg>
-            <tg>
-                <t>å helligholde</t><t>å holde hellig</t>
-            </tg>
+	  <tg>
+	    <t>å helligholde</t><t>å holde hellig</t>
+	  </tg>
 	</mg>
     </e>
     <e>
@@ -1369,7 +1374,11 @@
             <l>batnit</l>
             <lc>batnit [ botnit]</lc>
         </lg>
-        <mg></mg>
+        <mg>
+	  <tg>
+	  </tg>
+	</mg>
+    </e>
     <e>
         <lg>
             <l>bavssa</l>
@@ -2786,15 +2795,19 @@
                 <t>hjulbeint</t>
             </tg>
 	</mg>
-    </e><lg><l>boaggejuolgi</l></lg>
-        <mg>
-            <tg>
-                <t>hjulbeint</t>
-            </tg>
-	</mg>
     </e>
     <e>
-        <lg>
+      <lg>
+      <l>boaggejuolgi</l>
+      </lg>
+      <mg>
+	<tg>
+	  <t>hjulbeint</t>
+	</tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
             <l>boaggi</l>
             <lc>, boakkit, bokkiid</lc>
         </lg>
@@ -2803,6 +2816,7 @@
                 <t>en som er hjulbeint</t>
             </tg>
 	</mg>
+    </e>
     <e>
         <lg>
             <l>boaggi</l>
@@ -5901,6 +5915,9 @@
         <mg>
             <tg>
                 <t>å kysse</t>
+	    </tg>
+	</mg>
+    </e>
     <e>
         <lg>
             <l>cummá</l>
@@ -12267,6 +12284,7 @@
                 <xt>et hvitt skinn</xt>
             </xg></tg>
 	</mg>
+    </e>
     <e>
         <lg>
             <l>gahkit</l>
@@ -28182,12 +28200,19 @@
             <l>máddi</l></lg>
         <mg>
             <tg>
-                <t>sør ( lulli)</t><xg>
-                <x>máttás</x>
-                <xt>sørover</xt><xt>mot sør</t><xg>
-                <x>máddin</x>
-                <xt>i sør</xt><xt>sørpå</xt><xt>fra sør </xt>
-            </xg></tg>
+                <t>sør ( lulli)</t>
+		<xg>
+		  <x>máttás</x>
+		  <xt>sørover</xt>
+		  <xt>mot sør</xt>
+		</xg>
+		<xg>
+		  <x>máddin</x>
+		  <xt>i sør</xt>
+		  <xt>sørpå</xt>
+		  <xt>fra sør </xt>
+		</xg>
+	    </tg>
 	</mg>
     </e>
     <e>
@@ -32490,8 +32515,10 @@
             <l>ovttas</l></lg>
         <mg>
             <tg>
-                <t>sammen</t><xg>
-                <x>ovttas bargat)</t>
+                <t>sammen</t>
+		<xg>
+		  <x>ovttas bargat)</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -33311,22 +33338,29 @@
     </e>
     <e>
         <lg>
-            <l>rievdadit</l></lg>
+            <l>rievdadit</l>
+	</lg>
         <mg>
             <tg>
-                <t>å forandre</t><xg>
-                <x> muktit</t><t>nuppastuhttit</x>
-            </xg></tg>
+                <t>å forandre</t>
+		<xg>
+		  <x> muktit</x>
+		</xg>
+		<xg>
+		  <x>nuppastuhttit</x>
+		</xg>
+	    </tg>
 	</mg>
     </e>
     <e>
         <lg>
             <l>rievdat</l>
-            <lc>, [dat] rievddai, rivdet</lc>
+            <lc>[dat] rievddai, rivdet</lc>
         </lg>
         <mg>
             <tg>
-                <t>å drive</t><t>reke</t>
+                <t>å drive</t>
+		<t>reke</t>
             </tg>
 	</mg>
 	<mg>
@@ -33612,14 +33646,20 @@
             <l>ristáhčči</l></lg>
         <mg>
             <tg>
-                <t>en gudfar</t><xg>
-                <x>risteadni</x>
-                <xt>gudmor</t><xg>
-                <x>ristbárdni</x>
-                <xt>gudsønn</t><xg>
-                <x>ristnieida</x>
-                <xt>guddatter</xt>
-            </xg></tg>
+                <t>en gudfar</t>
+		<xg>
+		  <x>risteadni</x>
+		  <xt>gudmor</xt>
+		</xg>
+		<xg>
+		  <x>ristbárdni</x>
+		  <xt>gudsønn</xt>
+		</xg>
+		<xg>
+		  <x>ristnieida</x>
+		  <xt>guddatter</xt>
+	        </xg>
+	    </tg>
 	</mg>
     </e>
     <e>
@@ -33629,8 +33669,10 @@
         </lg>
         <mg>
             <tg>
-                <t>rim</t><xg>
-                <x>ritni lea muorain ja biergasiin) </t>
+                <t>rim</t>
+		<xg>
+		  <x>ritni lea muorain ja biergasiin) </x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -33647,12 +33689,18 @@
     </e>
     <e>
         <lg>
-            <l>rivttes</l></lg>
+            <l>rivttes</l>
+	</lg>
         <mg>
             <tg>
-                <t>rett</t><t>riktig</t><xg>
-                <x> rievttes)</t>
+                <t>rett</t>
+		<xg>
+		  <x> rievttes</x>
+		</xg>
             </tg>
+	    <tg>
+	      <t>riktig</t>
+	    </tg>
 	</mg>
     </e>
     <e>
@@ -34786,11 +34834,14 @@
     </e>
     <e>
         <lg>
-            <l>ruvgalit</l></lg>
+            <l>ruvgalit</l>
+	</lg>
         <mg>
             <tg>
-                <t>å fare i en rekke</t><xg>
-                <x>eallu ruvgalii)</t>
+                <t>å fare i en rekke</t>
+		<xg>
+		  <x>eallu ruvgalii</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -35192,11 +35243,17 @@
     </e>
     <e>
         <lg>
-            <l>ráigge</l></lg>
+            <l>ráigge</l>
+	</lg>
         <mg>
             <tg>
-                <t>gjennom</t><t>bortover</t><xg>
-                <x>uksa-ráigge</t><t>geaidno-ráigge)</t>
+                <t>gjennom</t>
+		<t>bortover</t>
+		<xg>
+		  <x>uksa-ráigge</x>
+		  <x>geai
+dno-ráigge)</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -39551,16 +39608,7 @@
             </tg>
 	</mg>
     </e>
-    <e>
-        <lg>
-            <l>suorbma</l>
-            <lc>, suorpmat, surbmii</lc>
-        </lg>
-        <mg>
-            <tg>
-                <t>en finger</t><xg>
-                <x>juolgesuorbma</x>
-                <xt>ei tå
+
     <e>
         <lg>
             <l>suorbma</l>
@@ -41756,15 +41804,7 @@
             </tg>
 	</mg>
     </e>
-    <e>
-        <lg>
-            <l>vearredahkki</l></lg>
-        <mg>
-            <tg>
-                <t>en forbryter</t>
-            </tg>
-	</mg>
-    <e>
+   <e>
         <lg>
             <l>vearredahku</l></lg>
         <mg>
@@ -41772,6 +41812,7 @@
                 <t>en forbrytelse</t>
             </tg>
 	</mg>
+    </e>
     <e>
         <lg>
             <l>vearreoahppa</l></lg>
@@ -43006,8 +43047,10 @@
             <l>vuojuhit</l></lg>
         <mg>
             <tg>
-                <t>å senke</t><xg>
-                <x> vuodjudit)</t>
+                <t>å senke</t>
+		<xg>
+                <x> vuodjudit</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -43076,8 +43119,10 @@
             <l>vuolde</l></lg>
         <mg>
             <tg>
-                <t>under</t><xg>
-                <x>dat lea beavddi vuolde)</t>
+                <t>under</t>
+		<xg>
+                <x>dat lea beavddi vuolde</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -43142,10 +43187,17 @@
             <l>vuolle-</l></lg>
         <mg>
             <tg>
-                <t>nedre-</t><t>ner-</t><xg>
-                <x>vuollegeahčen<tg>
-                <t>i nerenden)</t>
-            </tg>
+	      <t>nedre-</t>
+	      <xg>
+		<x>vuollegeahčen</x>
+	      </xg>
+	    </tg>
+	    <tg>
+	      <t>i nerenden</t>
+	    </tg>
+	    <tg>
+	      <t>ner-</t>
+	    </tg>
 	</mg>
     </e>
     <e>
@@ -43173,8 +43225,10 @@
             <l>vuollái</l></lg>
         <mg>
             <tg>
-                <t>under</t><xg>
-                <x>bija dan beavddi vuollái)</t>
+                <t>under</t>
+		<xg>
+		  <x>bija dan beavddi vuollái</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -43203,8 +43257,11 @@
             <l>vuolás</l></lg>
         <mg>
             <tg>
-                <t>ned</t><t>nedover</t><xg>
-                <x> vulos)</t>
+                <t>ned</t>
+		<t>nedover</t>
+		<xg>
+                <x> vulos</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -43399,8 +43456,10 @@
             <l>vuosehit</l></lg>
         <mg>
             <tg>
-                <t>å vise</t><xg>
-                <x> čájehit)</t>
+                <t>å vise</t>
+		<xg>
+                <x> čájehit</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -43495,8 +43554,11 @@
             <l>vuosttažettiin</l></lg>
         <mg>
             <tg>
-                <t>først</t><t>i begynnelsen</t><xg>
-                <x> vuohččan)</t>
+                <t>først</t>
+		<t>i begynnelsen</t>
+		<xg>
+		  <x> vuohččan</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -43505,9 +43567,11 @@
             <l>vuostá</l></lg>
         <mg>
             <tg>
-                <t>mot</t><xg>
-                <x>seainni vuostá<tg>
-                <t>mot veggen)</t>
+                <t>mot</t>
+		<xg>
+		  <x>seainni vuostá</x>
+		  <xt>mot veggen</xt>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -43646,8 +43710,10 @@
             <l>vuovssadit</l></lg>
         <mg>
             <tg>
-                <t>å spy</t><xg>
-                <x> vuoksit)</t>
+                <t>å spy</t>
+		<xg>
+                <x> vuoksit</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -44204,29 +44270,31 @@
             <l>vánit</l></lg>
         <mg>
             <tg>
-                <t>knapt</t><t>neppe</t><xg>
-                <x> illá)</t>
-            </tg>
+	      <t>knapt</t><t>neppe</t>
+	      <xg>
+		<x> illá</x>
+	      </xg>
+	    </tg>
 	</mg>
     </e>
     <e>
         <lg>
-            <l>vánta</l>
-            <lc>, vánttat, vánttas [olmmoš]</lc>
-        </lg>
-        <mg>
-            <tg>
-                <t>vant</t><t>øvet</t>
-            </tg>
+	  <l>vánta</l>
+	  <lc>, vánttat, vánttas [olmmoš]</lc>
+	</lg>
+	<mg>
+	  <tg>
+	    <t>vant</t><t>øvet</t>
+	  </tg>
 	</mg>
     </e>
     <e>
-        <lg>
-            <l>váraheapmi</l>
-            <lc>, -heamit, várahis [olmmoš]</lc>
-        </lg>
-        <mg>
-            <tg>
+      <lg>
+	<l>váraheapmi</l>
+	<lc>, -heamit, várahis [olmmoš]</lc>
+      </lg>
+      <mg>
+	<tg>
                 <t>uforsiktig</t>
             </tg>
 	</mg>
@@ -45137,6 +45205,7 @@
                 <t>å somle</t>
             </tg>
 	</mg>
+    </e>
     <e>
         <lg>
             <l>ájihit</l></lg>
@@ -45241,8 +45310,10 @@
             <l>ále</l></lg>
         <mg>
             <tg>
-                <t>bestandig</t><xg>
-                <x> álo)</t>
+                <t>bestandig</t>
+		<xg>
+                <x> álo</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -45331,8 +45402,10 @@
             <l>álo</l></lg>
         <mg>
             <tg>
-                <t>alltid</t><xg>
-                <x> ále)</t>
+                <t>alltid</t>
+		<xg>
+                <x> ále</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -45548,8 +45621,10 @@
             <l>árkkášit</l></lg>
         <mg>
             <tg>
-                <t>å synes synd i</t><xg>
-                <x>mon árkkášan du)</t>
+                <t>å synes synd i</t>
+		<xg>
+                <x>mon árkkášan du</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -45831,8 +45906,10 @@
             <l>ávkkuhit</l></lg>
         <mg>
             <tg>
-                <t>å nytte</t><t>å gagne</t><xg>
-                <x> ábuhit)</t>
+                <t>å nytte</t><t>å gagne</t>
+		<xg>
+                <x> ábuhit</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -46231,8 +46308,10 @@
             <l>čađat</l></lg>
         <mg>
             <tg>
-                <t>alltid</t><t>bestandig</t><xg>
-                <x> álo)</t>
+                <t>alltid</t><t>bestandig</t>
+		<xg>
+                <x> álo</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -46515,8 +46594,10 @@
             <l>čielggadit</l></lg>
         <mg>
             <tg>
-                <t>å forklare</t><xg>
-                <x> čilget)</t>
+                <t>å forklare</t>
+		<xg>
+                <x> čilget)</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -47055,8 +47136,10 @@
             <l>čohkkedit</l></lg>
         <mg>
             <tg>
-                <t>å sette seg</t><xg>
-                <x> čohkánit)</t>
+                <t>å sette seg</t>
+		<xg>
+                <x> čohkánit)</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -47109,8 +47192,10 @@
             <l>čohkánit</l></lg>
         <mg>
             <tg>
-                <t>å sette seg</t><xg>
-                <x> čohkkedit)</t>
+                <t>å sette seg</t>
+		<xg>
+                <x> čohkkedit</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -47928,8 +48013,10 @@
             <l>čájehit</l></lg>
         <mg>
             <tg>
-                <t>å vise</t><xg>
-                <x> vuosehit)</t>
+                <t>å vise</t>
+		<xg>
+		  <x> vuosehit</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -48044,8 +48131,10 @@
             <l>čáskadit</l></lg>
         <mg>
             <tg>
-                <t>å slukke</t><xg>
-                <x> jáddadit)</t>
+                <t>å slukke</t>
+		<xg>
+		  <x> jáddadit</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -48638,8 +48727,10 @@
             <l>šláttardit</l></lg>
         <mg>
             <tg>
-                <t>å sladre</t><xg>
-                <x> juorrudit)</t>
+                <t>å sladre</t>
+		<xg>
+		  <x> juorrudit</x>
+		</xg>
             </tg>
 	</mg>
     </e>
@@ -48670,8 +48761,11 @@
             <l>šoalkaliidni</l></lg>
         <mg>
             <tg>
-                <t>kvitt skjerf </t><xg>
-                <x>vilges liidni</t><t>mii irggis lea náittosheajain)</t>
+                <t>kvitt skjerf </t>
+		<xg>
+		  <x>vilges liidni</x>
+		  <x>mii irggis lea náittosheajain)</x>
+		</xg>
             </tg>
 	</mg>
     </e>
