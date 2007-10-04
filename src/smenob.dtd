@@ -1,5 +1,5 @@
 <!ELEMENT r (e+) >
-<!ELEMENT e (lgr mgr+)>
+<!ELEMENT e (lg mg+)>
 <!ELEMENT lg (l lc+)>
 <!ELEMENT l (#PCDATA)>
 <!ELEMENT lc (#PCDATA)>
