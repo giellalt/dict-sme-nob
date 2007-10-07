@@ -2,12 +2,40 @@
 <!ELEMENT e (lg,mg+)>
 <!ELEMENT lg (l,lc+)>
 <!ELEMENT l (#PCDATA)>
+<!ATTLIST l 
+      pos ( a | s | v | adv | po | pr | pron | i | pcle | num | cc | cs ) #IMPLIED
+>      
+
 <!ELEMENT lc (#PCDATA)>
 
 <!ELEMENT mg (tg+)>
 <!ELEMENT tg (t+,xg*)>
 
 <!ELEMENT t (#PCDATA)>
+<!ATTLIST tox 
+      pos ( a | m | f | n | v | adv | p | pron | i | cc | cs | im ) #IMPLIED
+>      
 <!ELEMENT xg ((x,xt?)+)>
 <!ELEMENT x (#PCDATA)>
 <!ELEMENT xt (#PCDATA)>
+
+
+<!--
+This document is not quite finished yet...
+
+Here are the pos tags:
+ a  = Adjective
+ m  = Masculine (nob)
+ f  = Feminine (nob) 
+ n  = Neuter (nob), noun (sme)
+ v  = verb
+ adv  = adverb
+ p  = preposition (nob)
+ pr = preposition (sme)
+ po = postposition (sme)
+ pron  = pronoun
+ i  = interjection
+ cc  = conjunction
+ cs  = subjunction
+ im = infinitive mark å (nob)
+-->
