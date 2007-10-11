@@ -12,7 +12,7 @@
 <!ELEMENT tg (t+,xg*)>
 
 <!ELEMENT t (#PCDATA)>
-<!ATTLIST tox 
+<!ATTLIST t 
       pos ( a | m | f | n | v | adv | p | pron | i | cc | cs | im ) #IMPLIED
 >      
 <!ELEMENT xg ((x,xt?)+)>
@@ -38,4 +38,16 @@ Here are the pos tags:
  cc  = conjunction
  cs  = subjunction
  im = infinitive mark å (nob)
+ 
+Documenting
+(the tags are short due to a manual cleanup)
+r  root
+e  entry
+l  lemma
+lc lemma comment 
+m  meaning
+t  translation
+x  example
+xt example translation
+.g group 
 -->
