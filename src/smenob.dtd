@@ -3,7 +3,7 @@
 <!ELEMENT lg (l,lc+)>
 <!ELEMENT l (#PCDATA)>
 <!ATTLIST l 
-      pos ( a | s | v | adv | po | pr | pron | i | pcle | num | cc | cs ) #IMPLIED
+      pos ( a | s | v | adv | po | pr | pron | i | pcle | num | cc | cs | x ) #IMPLIED
 >      
 
 <!ELEMENT lc (#PCDATA)>
@@ -13,7 +13,7 @@
 
 <!ELEMENT t (#PCDATA)>
 <!ATTLIST t 
-      pos ( a | S | m | f | n | v | adv | p | pron | i | cc | cs | im ) #IMPLIED
+      pos ( a | S | m | f | n | v | adv | p | pron | i | cc | cs | im | x ) #IMPLIED
 >      
 <!ELEMENT xg ((x,xt?)+)>
 <!ELEMENT x (#PCDATA)>
@@ -39,7 +39,8 @@ Here are the pos tags:
  cc  = conjunction
  cs  = subjunction
  im = infinitive mark å (nob)
- 
+ x  = still no pos
+
 Documenting
 (the tags are short due to a manual cleanup)
 r  root
