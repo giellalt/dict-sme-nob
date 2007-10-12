@@ -1,9 +1,9 @@
 <!ELEMENT r (e+) >
 <!ELEMENT e (lg,mg+)>
-<!ELEMENT lg (l,lc+)>
+<!ELEMENT lg (l,lc*)>
 <!ELEMENT l (#PCDATA)>
 <!ATTLIST l 
-      pos ( a | s | v | adv | po | pr | pron | i | pcle | num | cc | cs | x ) #IMPLIED
+      pos ( a | n | v | adv | po | pr | pron | i | pcle | num | cc | cs | x ) #IMPLIED
 >      
 
 <!ELEMENT lc (#PCDATA)>
