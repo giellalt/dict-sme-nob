@@ -13,7 +13,7 @@
 
 <!ELEMENT t (#PCDATA)>
 <!ATTLIST t 
-      pos ( a | m | f | n | v | adv | p | pron | i | cc | cs | im ) #IMPLIED
+      pos ( a | S | m | f | n | v | adv | p | pron | i | cc | cs | im ) #IMPLIED
 >      
 <!ELEMENT xg ((x,xt?)+)>
 <!ELEMENT x (#PCDATA)>
@@ -28,6 +28,7 @@ Here are the pos tags:
  m  = Masculine (nob)
  f  = Feminine (nob) 
  n  = Neuter (nob), noun (sme)
+ S  = noun, still not given gender (nob)
  v  = verb
  adv  = adverb
  p  = preposition (nob)
