@@ -1,5 +1,11 @@
 #!/usr/bin/perl -w
 
+# Minimalistic perl script to move from risten input to 
+# xml output.
+# Using twig or something advanced would clearly be better.
+# On the other hand side, this works.
+# Well, what twig etc gives is contitionality. Here there is one input only.
+
 use encoding 'utf-8';
 
 while ($line = <> ) {
