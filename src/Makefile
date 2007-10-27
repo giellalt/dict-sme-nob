@@ -1,5 +1,7 @@
 # This is a makefile that builds the sme-nob translation parser
 
+# It should be rewritten with Twig or something similar instead of 
+# the shellscript we have now
 
 LEXC = lexc -utf8
 XFST = xfst -utf8
@@ -14,8 +16,8 @@ XFST = xfst -utf8
 #Then make xfst read it with the command read lexc.
 # The trick is that only the first <t node may be chosen, there may be several.
 
-smenob.fst: ../bin/smenob.fst ../bin/smedic.fst
-../bin/smenob.fst: smenob.xml
+smenob.fst: ../bin/smenob.fst
+../bin/smenob.fst: smenob.xml  ../bin/smenob.html
 	@echo
 	@echo "*** Building smenob.fst ***" 
 	@echo
@@ -24,6 +26,7 @@ smenob.fst: ../bin/smenob.fst ../bin/smedic.fst
 	@echo
 	@echo "*** Calling xfst to compile lexc ***"
 	@printf "read lexc < ../bin/sn.lexc \n\
+	save ../bin/ismenob.fst \n\
 	invert net \n\
 	save ../bin/smenob.fst \n\
 	quit \n" > ../../tmp/smenob-save-script
@@ -35,7 +38,7 @@ smenob.html: ../bin/smenob.html
 	@echo
 	@echo "*** Building smenob.html ***" 
 	@echo
-	@echo "*** Note: You need the tool xsltproc for this ***"
+	@echo "*** Note: We now use the xsltproc tool ***"
 	@xsltproc smenob.xsl smenob.xml > ../bin/smenob.html
 
 # fst for the Sámi words in the dictionary
