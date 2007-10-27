@@ -19,17 +19,24 @@ smenob.fst: ../bin/smenob.fst ../bin/smedic.fst
 	@echo
 	@echo "*** Building smenob.fst ***" 
 	@echo
-	@echo "LEXICON Root" > ../bin/sn.lexc
-	@cat smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | sed 's/pos=/£/g' | cut -d"£" -f2 | cut -d">" -f2 | cut -d"<" -f1 | tr ' ' '_' > ../bin/n.dic
-	@paste -d":" ../bin/s.dic ../bin/n.dic > ../bin/sn.list
-	@cat ../sn.list | sed 's/$/ # ;/g' >> ../bin/sn.lexc
-	@printf "read lexc < sn.lexc \n\
-	save stack ../bin/smenob.fst \n\
+	@echo "*** Reading shellscript smenobpairs.sh ***"
+	@./smenobpairs.sh
+	@echo
+	@echo "*** Calling xfst to compile lexc ***"
+	@printf "read lexc < ../bin/sn.lexc \n\
+	invert net \n\
+	save ../bin/smenob.fst \n\
 	quit \n" > ../../tmp/smenob-save-script
 	$(XFST) < ../../tmp/smenob-save-script
 	@rm -rf ../../tmp/smenob-save-script
 
-
+smenob.html: ../bin/smenob.html
+../bin/smenob.html: smenob.xml smenob.xsl
+	@echo
+	@echo "*** Building smenob.html ***" 
+	@echo
+	@echo "*** Note: You need the tool xsltproc for this ***"
+	@xsltproc smenob.xsl smenob.xml > ../bin/smenob.html
 
 # fst for the Sámi words in the dictionary
 
@@ -51,4 +58,8 @@ smedic.fst: ../bin/smedic.fst
 	quit \n" > ../../tmp/smedic-save-script
 	$(XFST) < ../../tmp/smedic-save-script
 	@rm -rf ../../tmp/smedic-save-script
+
+clean:
+	@rm -f ../bin/*fst ../bin/*dic ../*lexc ../bin/*list
+
 
