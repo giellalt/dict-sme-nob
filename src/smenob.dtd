@@ -3,7 +3,7 @@
 <!ELEMENT lg (l,lc*)>
 <!ELEMENT l (#PCDATA)>
 <!ATTLIST l 
-      pos ( a | n | v | adv | po | pr | pron | i | pcle | num | cc | cs | x ) #IMPLIED
+      pos ( a | n | v | adv | po | pr | pron | i | pcle | num | cc | cs | npl | x ) #IMPLIED
 >      
 
 <!ELEMENT lc (#PCDATA)>
@@ -13,7 +13,7 @@
 
 <!ELEMENT t (#PCDATA)>
 <!ATTLIST t 
-      pos ( a | S | m | f | n | v | adv | p | pron | i | cc | cs | im | x ) #IMPLIED
+      pos ( a | S | m | f | n | v | adv | p | pron | i | cc | cs | im | mpl | fpl | npl | x ) #IMPLIED
 >      
 <!ELEMENT xg ((x,xt?)+)>
 <!ELEMENT x (#PCDATA)>
