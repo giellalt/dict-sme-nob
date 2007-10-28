@@ -54000,6 +54000,16 @@
   </e>
   <e>
     <lg>
+      <l pos="x">aktan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">sammen med</t>
+       </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="x">oktan</l>
     </lg>
     <mg>
@@ -54023,12 +54033,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">oktasaš</l>
+      <l pos="a">oktasaš</l>
       <lc>-saččat, -sažžii</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="x">felles</t>
+        <t pos="a">felles</t>
       </tg>
     </mg>
   </e>
@@ -54038,12 +54048,27 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">gang</t>
+        <t pos="x">sammen</t>
       </tg>
     </mg>
     <mg>
       <tg>
+        <t pos="m">en gang</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="x">aktii</l>
+    </lg>
+    <mg>
+      <tg>
         <t pos="x">sammen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="m">en gang</t>
       </tg>
     </mg>
   </e>
@@ -54130,6 +54155,47 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="adv">olggobealde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">utenfor</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">aktan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">aleine</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">aktanaga</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">aleine</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">aktiivvalaččat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">aktivt</t>
+      </tg>
+    </mg>
+  </e>
+  
   <e>
     <lg>
       <l pos="x">olgguštit</l>
@@ -211208,6 +211274,16 @@
     <mg>
       <tg>
         <t pos="p">fra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">ok</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">ok</t>
       </tg>
     </mg>
   </e>
