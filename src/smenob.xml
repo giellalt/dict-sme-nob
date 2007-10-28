@@ -467,23 +467,23 @@
   </e>
   <e>
     <lg>
-      <l pos="n">aiddo</l>
+      <l pos="adv">aiddo</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">just</t>
-        <t pos="x">nettopp</t>
+        <t pos="adv">just</t>
+        <t pos="adv">nettopp</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">ain</l>
+      <l pos="adv">ain</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">enda</t>
-        <t pos="x">ennå</t>
+        <t pos="adv">enda</t>
+        <t pos="adv">ennå</t>
         <xg>
           <x>ain buoret</x>
           <x>son lea ain dáppe</x>
@@ -595,22 +595,26 @@
   </e>
   <e>
     <lg>
-      <l pos="x">aktiviseret</l>
+      <l pos="v">aktiviseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">aktivisere</t>
+        <t pos="v">aktivisere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">ala</l>
+      <l pos="po">ala</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">på</t>
-        <t pos="x">oppå (bija dan beavddi ala)</t>
+        <t pos="p">på</t>
+        <t pos="p">oppå</t>
+        <xg>
+          <x>bija dan beavddi ala</x>
+          <xt>sett den på bordet</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -620,7 +624,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">alarmsystem</t>
+        <t pos="n">alarmsystem</t>
       </tg>
     </mg>
   </e>
@@ -652,24 +656,24 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">albinisme</t>
+        <t pos="m">albinisme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">albma</l>
+      <l pos="a">albma</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">ordentlig</t>
-        <t pos="x">skikkelig</t>
+        <t pos="a">ordentlig</t>
+        <t pos="a">skikkelig</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">albmi</l>
+      <l pos="n">albmi</l>
       <lc>, almmit</lc>
     </lg>
     <mg>
@@ -680,11 +684,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">albmosii</l>
+      <l pos="adv">albmosii</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">åpenbart</t>
+        <t pos="adv">åpenbart</t>
       </tg>
     </mg>
   </e>
@@ -704,35 +708,37 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">albumin</t>
+        <t pos="m">albumin</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">albumpa</l>
+      <l pos="n">album</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">album</t>
+        <t pos="n">album</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">alccesan</l>
+      <l pos="pron">alccesan</l>
     </lg>
     <mg>
       <tg>
         <t pos="x">(til) meg sjøl</t>
-        <t pos="x">(dutnje) alccesat</t>
-        <t pos="x">(sutnje) alccesis</t>
-        <t pos="x">(munnuide) alcceseame</t>
-        <t pos="x">(dudnuide) alcceseatte</t>
-        <t pos="x">(sudnuide) alcceseaskka</t>
-        <t pos="x">(midjiide) alcceseamet</t>
-        <t pos="x">(didjiide) alcceseattet</t>
-        <t pos="x">(sidjiide) alcceseaset</t>
+        <xg>       
+        <x>(dutnje) alccesat</x>
+        <x>(sutnje) alccesis</x>
+        <x>(munnuide) alcceseame</x>
+        <x>(dudnuide) alcceseatte</x>
+        <x>(sudnuide) alcceseaskka</x>
+        <x>(midjiide) alcceseamet</x>
+        <x>(didjiide) alcceseattet</x>
+        <x>(sidjiide) alcceseaset</x>
+       </xg>
       </tg>
     </mg>
   </e>
@@ -744,14 +750,16 @@
     <mg>
       <tg>
         <t pos="x">(hos) meg sjøl</t>
-        <t pos="x">(dus) alddát</t>
-        <t pos="x">(sus) alddis</t>
-        <t pos="x">(munnos) alddáme</t>
-        <t pos="x">(dudnos) alddáde</t>
-        <t pos="x">(sudnos) alddiska</t>
-        <t pos="x">(mis) alddámet</t>
-        <t pos="x">(dis) alddádet</t>
-        <t pos="x">(sis) alddiset</t>
+        <xg>
+          <x>(dus) alddát</x>
+          <x>(sus) alddis</x>
+          <x>(munnos) alddáme</x>
+          <x>(dudnos) alddáde</x>
+          <x>(sudnos) alddiska</x>
+          <x>(mis) alddámet</x>
+          <x>(dis) alddádet</x>
+          <x>(sis) alddiset</x>
+         </xg>
       </tg>
     </mg>
   </e>
@@ -1711,11 +1719,11 @@
   </e>
   <e>
     <lg>
-      <l pos="m">antikommunisma</l>
+      <l pos="n">antikommunisma</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">antikommunisme</t>
+        <t pos="m">antikommunisme</t>
       </tg>
     </mg>
   </e>
@@ -211173,7 +211181,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pr">på grunn av</t>
+        <t pos="p">på grunn av</t>
       </tg>
     </mg>
   </e>
@@ -211284,6 +211292,141 @@
     <mg>
       <tg>
         <t pos="adv">ok</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">vel</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">enda</t>
+        <xg>
+          <x>Son ii leat vel boahtán</x>
+          <xt>Hun har ikke kommet enda</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nr</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">nr</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="cs">nugo</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="cs">sliksom</t>
+        <t pos="cs">som</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dehálaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">viktig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">dihte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="p">på grunn av</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">seamma</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">samme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">čuovvovaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">følgende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="v">sihkkarastit</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="v">sikre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ovdamearka</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">eksempel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ekonoma</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="m">økonom</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="v">gč</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="v">jfr</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">fylka</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">fylke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">stivra</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">styre</t>
       </tg>
     </mg>
   </e>
