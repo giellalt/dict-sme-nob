@@ -5,6 +5,8 @@
 
 <xsl:template match="r">
 <html>
+ <head><meta charset="UTF-8"/>
+ </head>
  <body>
   <xsl:apply-templates/>
  </body>
