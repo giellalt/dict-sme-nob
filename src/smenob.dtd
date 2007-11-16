@@ -13,7 +13,7 @@
 
 <!ELEMENT t (#PCDATA)>
 <!ATTLIST t 
-      pos ( a | S | m | f | n | v | adv | p | pron | i | cc | cs | im | mpl | fpl | npl | x ) #REQUIRED
+      pos ( a | a5 | S | m | f | n | v | adv | p | pron | i | cc | cs | im | mpl | fpl | npl | x ) #REQUIRED
 >      
 <!ELEMENT xg ((x,xt?)+)>
 <!ELEMENT x (#PCDATA)>
