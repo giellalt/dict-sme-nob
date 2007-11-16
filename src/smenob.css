@@ -25,7 +25,7 @@ lc
 }
 
 lc:before {
-    content: " Kommentar: ";
+    content: "  ";  
     font-style: italic;
     font-size:small;
 }
