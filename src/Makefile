@@ -16,7 +16,7 @@ XFST = xfst -utf8
 #Then make xfst read it with the command read lexc.
 # The trick is that only the first <t node may be chosen, there may be several.
 
-smenob.fst: ../bin/smenob.fst
+smenob.fst: ../bin/smenob.fst ../bin/smedic.fst
 ../bin/smenob.fst: smenob.xml  ../bin/smenob.html
 	@echo
 	@echo "*** Building smenob.fst ***" 
