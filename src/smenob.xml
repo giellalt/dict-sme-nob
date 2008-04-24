@@ -127,7 +127,7 @@
   <e>
     <lg>
       <l pos="a">allat</l>
-      <lc>allagat, alla [viessu]</lc>
+      <lc>allagat, alla</lc>
     </lg>
     <mg>
       <tg>
@@ -241,7 +241,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">likevel</t>
+        <t pos="adv">likevel</t>
       </tg>
     </mg>
   </e>
@@ -261,7 +261,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">rart</t>
+        <t pos="a1">rar</t>
         <t pos="x">på en rar måte</t>
       </tg>
     </mg>
@@ -304,7 +304,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">tynn</t>
+        <t pos="a1">tynn</t>
       </tg>
     </mg>
   </e>
@@ -436,7 +436,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">hellig</t>
+        <t pos="a2">hellig</t>
       </tg>
     </mg>
   </e>
@@ -457,6 +457,10 @@
     <mg>
       <tg>
         <t pos="a">fast</t>
+        <xg>
+	  <x>sus lea bistevaš virgi</x>
+	  <xt>han har fast jobb</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -477,7 +481,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">som er hjulbeint</t>
+        <t pos="a3">hjulbeint</t>
       </tg>
     </mg>
   </e>
@@ -683,11 +687,11 @@
   </e>
   <e>
     <lg>
-      <l pos="a">Doasku</l>
+      <l pos="prop">Doasku</l>
     </lg>
     <mg>
       <tg>
-        <t pos="a">Torsken</t>
+        <t pos="prop">Torsken</t>
       </tg>
     </mg>
   </e>
@@ -885,7 +889,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">oppe</t>
+        <t pos="adv">oppe</t>
         <t pos="x">oppe fra</t>
       </tg>
     </mg>
@@ -1907,34 +1911,9 @@
         <t pos="n">margbein</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">ađa</l>
-    </lg>
     <mg>
       <tg>
         <t pos="n">godt hold</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">ađa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="n">margebein</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">ađa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">marg</t>
       </tg>
     </mg>
   </e>
@@ -3903,6 +3882,7 @@
     <mg>
       <tg>
         <t pos="m">høyde</t>
+        <t pos="m">bakketopp</t>
       </tg>
     </mg>
   </e>
@@ -3914,16 +3894,6 @@
     <mg>
       <tg>
         <t pos="n">fettlag</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">aláš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">bakketopp</t>
       </tg>
     </mg>
   </e>
@@ -6418,16 +6388,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">arkiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">arkiv</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">arkiivanummar</l>
     </lg>
     <mg>
@@ -6493,16 +6453,6 @@
     <mg>
       <tg>
         <t pos="m">armatur</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">armatuvra</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">armatur</t>
       </tg>
     </mg>
   </e>
@@ -7161,16 +7111,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">asfáltaemulšuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">asfaltemulsjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">asfáltahat</l>
     </lg>
     <mg>
@@ -7804,16 +7744,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">assosiašuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">assosiasjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">astigmatisma</l>
     </lg>
     <mg>
@@ -7920,16 +7850,6 @@
     <mg>
       <tg>
         <t pos="m">asymmetri</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">asymmetriija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">asymmetri</t>
       </tg>
     </mg>
   </e>
@@ -8073,16 +7993,6 @@
     <mg>
       <tg>
         <t pos="m">gave</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">attáldat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">talent</t>
       </tg>
     </mg>
   </e>
@@ -8413,27 +8323,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">avis</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">aviisa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">avis</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">aviisa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">avis</t>
+        <t pos="f">avis</t>
       </tg>
     </mg>
   </e>
@@ -9004,16 +8894,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">badjedoaba</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">overordnet begrep</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">badjeláiggebargu</l>
     </lg>
     <mg>
@@ -9029,16 +8909,6 @@
     <mg>
       <tg>
         <t pos="f">overtid</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">badjeláigi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">overtid</t>
       </tg>
     </mg>
   </e>
@@ -9261,15 +9131,6 @@
     <mg>
       <tg>
         <t pos="m">stjert</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bađuš</l>
-    </lg>
-    <mg>
-      <tg>
         <t pos="m">fuglestjert</t>
       </tg>
     </mg>
@@ -9303,11 +9164,6 @@
         <t pos="m">regi</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bagadallan</l>
-    </lg>
     <mg>
       <tg>
         <t pos="S">veiledning</t>
@@ -9333,11 +9189,6 @@
         <t pos="m">instruktør</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bagadalli</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">konsulent</t>
@@ -9945,31 +9796,21 @@
     <mg>
       <tg>
         <t pos="m">bak</t>
-        <t pos="m">bakende</t>
-        <xg>
-          <x>vuotnabahta</x>
-          <xt>en fjordbotn</xt>
-        </xg>
+        <t pos="f">rumpe</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bahta</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">pose</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bahta</l>
-    </lg>
     <mg>
       <tg>
-        <t pos="S">rumpe</t>
+        <t pos="m">bunn</t>
+        <xg>
+          <x>vuotnabahta</x>
+          <xt>en fjordbotn</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -10321,16 +10162,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">baján</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">torden</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bajánnjuolla</l>
     </lg>
     <mg>
@@ -10395,17 +10226,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">heading</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bajilčála</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">overskrift</t>
+        <t pos="f">overskrift</t>
       </tg>
     </mg>
   </e>
@@ -11022,11 +10843,6 @@
         <t pos="m">frykt</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">ballu</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">angst</t>
@@ -11061,16 +10877,6 @@
     <mg>
       <tg>
         <t pos="f">tue</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">balsa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">stor tue</t>
       </tg>
     </mg>
   </e>
@@ -11182,16 +10988,6 @@
     <mg>
       <tg>
         <t pos="S">deputert</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">balva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">sky</t>
       </tg>
     </mg>
   </e>
@@ -11575,11 +11371,6 @@
         <t pos="m">arbeider</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bargi</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">arbeidstaker</t>
@@ -11695,16 +11486,6 @@
     <mg>
       <tg>
         <t pos="S">arbeidsmiljøloven</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bargobiraslávdegoddi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">arbeidsmiljøkomité</t>
       </tg>
     </mg>
   </e>
@@ -11830,31 +11611,12 @@
   </e>
   <e>
     <lg>
-      <l pos="n">bargohárjáneapmi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">praksis</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bargohárjehallan</l>
     </lg>
     <mg>
       <tg>
         <t pos="m">arbeidspraksis</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bargohárjehallan</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">utplassering</t>
+        <t pos="f">utplassering</t>
       </tg>
     </mg>
   </e>
@@ -12055,15 +11817,6 @@
     <mg>
       <tg>
         <t pos="S">arbeidsseminar</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bargoseminára</l>
-    </lg>
-    <mg>
-      <tg>
         <t pos="m">workshop</t>
       </tg>
     </mg>
@@ -12301,16 +12054,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">barta</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">hytte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bárvi</l>
     </lg>
     <mg>
@@ -12363,16 +12106,6 @@
     <lg>
       <l pos="n">basaldat</l>
       <lc>-dagat, -dahkii</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">vaskeklut</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">basaldat</l>
     </lg>
     <mg>
       <tg>
@@ -12540,24 +12273,9 @@
         <t pos="f">skei</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">baste</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">skjesluk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">baste</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">skje</t>
       </tg>
     </mg>
   </e>
@@ -12579,16 +12297,6 @@
     <mg>
       <tg>
         <t pos="f">tang</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">basttat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">tang</t>
       </tg>
     </mg>
   </e>
@@ -13050,26 +12758,6 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">spord</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beahcet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">fiskehale</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beahcet</l>
-    </lg>
-    <mg>
-      <tg>
         <t pos="m">fiskespord</t>
       </tg>
     </mg>
@@ -13192,17 +12880,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">dagligstue</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beaivelatnja</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">stue</t>
+        <t pos="f">dagligstue</t>
+        <t pos="f">stue</t>
       </tg>
     </mg>
   </e>
@@ -13256,21 +12935,6 @@
         <t pos="m">dag</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beaivi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">dag</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beaivi</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">dato</t>
@@ -13432,37 +13096,18 @@
   </e>
   <e>
     <lg>
-      <l pos="n">bealdu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">åker</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bealgi</l>
       <lc>bealggit, belggiid</lc>
     </lg>
     <mg>
       <tg>
         <t pos="m">tommelfinger</t>
+        <t pos="m">tommel</t>
       </tg>
     </mg>
     <mg>
       <tg>
         <t pos="f">stortå</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bealgi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">tommel</t>
       </tg>
     </mg>
   </e>
@@ -13679,24 +13324,9 @@
         <t pos="n">øre</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beallji</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">svømmefinne</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beallji</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">øre</t>
       </tg>
     </mg>
   </e>
@@ -13738,30 +13368,6 @@
     <mg>
       <tg>
         <t pos="m">hund</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beana</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">hund</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beaŋgil</l>
-      <lc>beaŋgilat</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">stengselsplass i Karasjok</t>
-        <xg>
-          <x>rávdnjás coagis jogas</x>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -13972,16 +13578,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">bearjadat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">fredag</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bearjjas</l>
       <lc>bearjasat</lc>
     </lg>
@@ -14058,16 +13654,6 @@
     <mg>
       <tg>
         <t pos="m">inkassoprovisjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bearranprovišuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">berranprovisjon</t>
       </tg>
     </mg>
   </e>
@@ -14216,7 +13802,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">neverløping</t>
+        <t pos="f">neverløping</t>
       </tg>
     </mg>
   </e>
@@ -14239,16 +13825,6 @@
     <mg>
       <tg>
         <t pos="f">never</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beassi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">never</t>
       </tg>
     </mg>
   </e>
@@ -14391,16 +13967,6 @@
     <mg>
       <tg>
         <t pos="n">bord</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beavdi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">bord</t>
       </tg>
     </mg>
   </e>
@@ -14567,16 +14133,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">bensinstašuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">bensinstasjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">benzen</l>
     </lg>
     <mg>
@@ -14616,14 +14172,9 @@
         <t pos="m">interesse</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beroštupmi</l>
-    </lg>
     <mg>
       <tg>
-        <t pos="S">engasjement</t>
+        <t pos="n">engasjement</t>
       </tg>
     </mg>
   </e>
@@ -14708,21 +14259,6 @@
         <t pos="f">linerle</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beštor</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">linerle</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">beštor</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">svale</t>
@@ -14853,16 +14389,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">biđus</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">matrett</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">biebmanláhka</l>
     </lg>
     <mg>
@@ -14983,16 +14509,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">biebmodárkkisteapmi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">matkontroll</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">biebmodoallu</l>
     </lg>
     <mg>
@@ -15000,11 +14516,6 @@
         <t pos="m">diett</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biebmodoallu</l>
-    </lg>
     <mg>
       <tg>
         <t pos="S">kosthold</t>
@@ -15157,17 +14668,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">diett</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biebmoruhta</l>
-    </lg>
-    <mg>
-      <tg>
         <t pos="m">kostgodtgjørelse</t>
+        <t pos="m">diett</t>
       </tg>
     </mg>
   </e>
@@ -15276,16 +14778,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">biedju</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">dyrehule</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bieggajorri</l>
     </lg>
     <mg>
@@ -15298,16 +14790,6 @@
     <lg>
       <l pos="n">biegga</l>
       <lc>biekkat, biggii</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">vind</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biegga</l>
     </lg>
     <mg>
       <tg>
@@ -15395,11 +14877,6 @@
         <t pos="S">absolutt veto</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biehttalus</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">nektelse</t>
@@ -15434,16 +14911,6 @@
     <mg>
       <tg>
         <t pos="m">bjelke</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bielka</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">loftbjelke</t>
       </tg>
     </mg>
   </e>
@@ -15485,26 +14952,6 @@
     <mg>
       <tg>
         <t pos="f">bjølle</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biellu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">bjellesau</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biellu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">bjelle</t>
       </tg>
     </mg>
   </e>
@@ -15585,28 +15032,6 @@
     <mg>
       <tg>
         <t pos="m">rein med svært grenete horn</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bierggas</l>
-      <lc>biergasat</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">ting</t>
-        <t pos="m">sak</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="x">bargobierggas</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="n">redskap</t>
       </tg>
     </mg>
   </e>
@@ -15809,16 +15234,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">biergu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">kjøtt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bierta</l>
     </lg>
     <mg>
@@ -15928,15 +15343,6 @@
       </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="n">bievla</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">barmark</t>
-      </tg>
-    </mg>
   </e>
   <e>
     <lg>
@@ -15986,16 +15392,6 @@
     <mg>
       <tg>
         <t pos="m">kort hale</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bieža</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">kort dyrehale</t>
       </tg>
     </mg>
   </e>
@@ -16062,21 +15458,11 @@
   <e>
     <lg>
       <l pos="n">bihci</l>
-      <lc>bizi</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="n">rim</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bihci</l>
     </lg>
     <mg>
       <tg>
         <t pos="m">rimfrost</t>
+        <t pos="n">rim</t>
       </tg>
     </mg>
   </e>
@@ -16220,16 +15606,6 @@
     </lg>
     <mg>
       <tg>
-        <t pos="n">stykke</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bihttá</l>
-    </lg>
-    <mg>
-      <tg>
         <t pos="m">bit</t>
       </tg>
     </mg>
@@ -16297,26 +15673,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">biibbal</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">bibel</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biibbal</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">bibel</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">biidnovahkku</l>
     </lg>
     <mg>
@@ -16333,16 +15689,6 @@
     <mg>
       <tg>
         <t pos="f">tjenestejente</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biigá</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">tjenestepike</t>
       </tg>
     </mg>
   </e>
@@ -16390,16 +15736,6 @@
     <lg>
       <l pos="n">biika</l>
       <lc>biikkat</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">pigg</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biika</l>
     </lg>
     <mg>
       <tg>
@@ -16590,26 +15926,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">biila</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">bil</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biila</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">bil</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">biilaluodda</l>
     </lg>
     <mg>
@@ -16686,16 +16002,6 @@
     <mg>
       <tg>
         <t pos="f">pipe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biipu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">pipe</t>
       </tg>
     </mg>
   </e>
@@ -16803,26 +16109,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">biktasat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="n">kostyme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biktasat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">garderobe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bilda</l>
     </lg>
     <mg>
@@ -16908,16 +16194,6 @@
     <mg>
       <tg>
         <t pos="m">bilisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bilisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">bilisme</t>
       </tg>
     </mg>
   </e>
@@ -17093,16 +16369,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">biografiija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">biografi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">biokemiija</l>
     </lg>
     <mg>
@@ -17141,17 +16407,7 @@
       </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="n">biologiija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">biologi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
+ <e>
     <lg>
       <l pos="n">biopsiija</l>
     </lg>
@@ -17262,41 +16518,16 @@
         <t pos="m">omgivelse</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biras</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">del av mannslue</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biras</l>
-    </lg>
     <mg>
       <tg>
         <t pos="m">kuliss</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biras</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">miljø</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">biras</l>
-    </lg>
     <mg>
       <tg>
         <t pos="S">omslag</t>
@@ -17337,16 +16568,6 @@
     <lg>
       <l pos="n">bircu</l>
       <lc>birccut</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="f">terning</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bircu</l>
     </lg>
     <mg>
       <tg>
@@ -17547,16 +16768,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">birranbeaivi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">døgn</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">birrán</l>
     </lg>
     <mg>
@@ -17687,16 +16898,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">bisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">bisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bismmačoahkkin</l>
     </lg>
     <mg>
@@ -17814,16 +17015,6 @@
       <tg>
         <t pos="f">børse</t>
         <t pos="n">gevær</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bissu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">bøsse</t>
       </tg>
     </mg>
   </e>
@@ -18202,26 +17393,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">bivdu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="f">jakt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bivdu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">fangst</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bivgebealdu</l>
     </lg>
     <mg>
@@ -18336,7 +17507,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">klehenger</t>
+        <t pos="m">klehenger</t>
       </tg>
     </mg>
   </e>
@@ -18346,7 +17517,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">klestang</t>
+        <t pos="f">klestang</t>
       </tg>
     </mg>
   </e>
@@ -18363,21 +17534,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">bivttas</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">klesplagg</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bivttasrádju</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">tøy lager</t>
+        <t pos="n">tøylager</t>
       </tg>
     </mg>
   </e>
@@ -18418,17 +17579,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">mildvær</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bivval</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">varmt vær</t>
+        <t pos="n">mildvær</t>
       </tg>
     </mg>
   </e>
@@ -18486,16 +17637,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">bleahkka</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">blikk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bliánta</l>
     </lg>
     <mg>
@@ -18530,7 +17671,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">blues</t>
+        <t pos="m">blues</t>
       </tg>
     </mg>
   </e>
@@ -18552,26 +17693,7 @@
     <mg>
       <tg>
         <t pos="n">skjær</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boađđu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">båe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boađđu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">skjær</t>
+        <t pos="m">båe</t>
       </tg>
     </mg>
   </e>
@@ -18581,7 +17703,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rotskudd</t>
+        <t pos="n">rotskudd</t>
       </tg>
     </mg>
   </e>
@@ -18598,11 +17720,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">boađusáŋgiruššan</l>
+      <l pos="a">boađusáŋgiruššan</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">resultatorientert</t>
+        <t pos="a">resultatorientert</t>
       </tg>
     </mg>
   </e>
@@ -18679,26 +17801,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">boađus</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="n">resultat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boađus</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">resultat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">boađusovttaláganvuohta</l>
     </lg>
     <mg>
@@ -18745,16 +17847,6 @@
     <mg>
       <tg>
         <t pos="n">belte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boagán</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">belte</t>
       </tg>
     </mg>
   </e>
@@ -18921,16 +18013,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">boaimmáš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">fjellvåk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">boaimmus</l>
     </lg>
     <mg>
@@ -18979,44 +18061,10 @@
         <t pos="n">brensel</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boaldámuš</l>
-    </lg>
     <mg>
       <tg>
-        <t pos="S">brennstoff</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boaldámuš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">brensel</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boaldámuš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">drivstoff</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boaldámuš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">brensel</t>
+        <t pos="n">brennstoff</t>
+        <t pos="n">drivstoff</t>
       </tg>
     </mg>
   </e>
@@ -19087,7 +18135,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">som er til skam</t>
+        <t pos="m">skamplett</t>
         <xg>
           <x>son lea midjiide boalgan</x>
           <xt>han (hun) er til skam for oss</xt>
@@ -19174,16 +18222,6 @@
     <mg>
       <tg>
         <t pos="m">bolt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boaltu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">bolt</t>
       </tg>
     </mg>
   </e>
@@ -19299,16 +18337,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">boarrásiidpenšuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">boarrasiidpensjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">boarrásiidsiida</l>
     </lg>
     <mg>
@@ -19344,7 +18372,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">musebol</t>
+        <t pos="n">musebol</t>
       </tg>
     </mg>
   </e>
@@ -19355,7 +18383,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">sess</t>
+        <t pos="m">sess</t>
         <xg>
           <x>siskkimusas goađis dahje lávus</x>
           <xt>den innerste plassen i telt eller gamme</xt>
@@ -19365,21 +18393,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">boaššu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">innerste del av telt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">boasttobiebman</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">feilernæring</t>
+        <t pos="f">feilernæring</t>
       </tg>
     </mg>
   </e>
@@ -19389,7 +18407,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">misbruk</t>
+        <t pos="m">misbruk</t>
       </tg>
     </mg>
   </e>
@@ -19399,7 +18417,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">missbruk</t>
+        <t pos="S">misbruk</t>
       </tg>
     </mg>
   </e>
@@ -19429,7 +18447,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">konsekutiv tolking</t>
+        <t pos="S">konsekutivtolking</t>
       </tg>
     </mg>
   </e>
@@ -19971,16 +18989,7 @@
     <mg>
       <tg>
         <t pos="m">rein</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">boazu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">reinsdyr</t>
+        <t pos="n">reinsdyr</t>
       </tg>
     </mg>
   </e>
@@ -20068,16 +19077,6 @@
       <tg>
         <t pos="m">botn</t>
         <t pos="m">bunn</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bodni</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">bunn</t>
       </tg>
     </mg>
   </e>
@@ -20239,46 +19238,12 @@
     <mg>
       <tg>
         <t pos="n">rør</t>
+        <t pos="n">sugerør</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bohcci</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">drikkerør</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bohcci</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">lite rør</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bohcci</l>
-    </lg>
     <mg>
       <tg>
         <t pos="S">nålfutteral</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bohcci</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">rør</t>
       </tg>
     </mg>
   </e>
@@ -20392,24 +19357,9 @@
         <t pos="m">geitebukk</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bohkká</l>
-    </lg>
     <mg>
       <tg>
         <t pos="S">bukk i laksestengsel, stengselsbukk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bohkká</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">bukk</t>
       </tg>
     </mg>
   </e>
@@ -20439,17 +19389,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">liten kratt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bohtoš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">liten nattpotte</t>
+        <t pos="f">nattpotte</t>
       </tg>
     </mg>
   </e>
@@ -59120,16 +58060,6 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ishavet</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">Jiekŋamearra</l>
-    </lg>
-    <mg>
-      <tg>
         <t pos="S">Nordishavet</t>
       </tg>
     </mg>
@@ -79643,16 +78573,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Norga</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">Norge</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">Norgga</l>
     </lg>
     <mg>
@@ -93515,16 +92435,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ruoŧŧa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">Sverige</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">ruovddagas</l>
     </lg>
     <mg>
@@ -103755,16 +102665,6 @@
     <mg>
       <tg>
         <t pos="n">Finland</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">Suopma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">Finland</t>
       </tg>
     </mg>
   </e>
@@ -127782,16 +126682,6 @@
     <mg>
       <tg>
         <t pos="x">addisjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">additiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">additiv</t>
       </tg>
     </mg>
   </e>
