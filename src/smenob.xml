@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE" "smenob.dtd">
-<?xml-stylesheet type="text/css" href="smenob.css"?><?xml-stylesheet type="text/xsl" href="smenob.xsl"?><r>
+<?xml-stylesheet type="text/css" href="smenob.css"?><?xml-stylesheet type="text/xsl" href="smenob.xsl"?>
+<r>
   <e>
     <lg>
       <l pos="a">ahccil</l>
@@ -15213,7 +15214,6 @@
         <t pos="x">barmark</t>
       </tg>
     </mg>
-  </e>
   </e>
   <e>
     <lg>
@@ -55899,7 +55899,6 @@
       <l pos="n">jahkodat</l>
     </lg>
     <mg>
-    <mg>
       <tg>
         <t pos="S">årgang</t>
       </tg>
@@ -89590,6 +89589,7 @@
         <t pos="S">reim</t>
       </tg>
     </mg>
+  </e>  
   <e>
     <lg>
       <l pos="n">ruopmaskearru</l>
@@ -141729,6 +141729,7 @@
         <xg>
          <x>Mun jerren dus</x>
          <xt>Jeg spør deg</xt>
+        </xg> 
       </tg>
     </mg>
   </e>
