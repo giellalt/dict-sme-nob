@@ -41,6 +41,15 @@ smenob.html: ../bin/smenob.html
 	@echo "*** Note: We now use the xsltproc tool ***"
 	@xsltproc smenob.xsl smenob.xml > ../bin/smenob.html
 
+macdict: macdict/smenob.xml
+macdict/smenob.xml: smenob.xml smenob2macdict.xsl
+	@echo
+	@echo "*** Building smenob.xml for MacOS X Dictionary ***" 
+	@echo
+	@echo "*** Note: We now use the xsltproc tool ***"
+	@xsltproc smenob2macdict.xsl $< > $@
+	@cd macdict && make
+
 # fst for the Sámi words in the dictionary
 
 #Pseudocode:
