@@ -5,6 +5,8 @@
 
 LEXC = lexc -utf8
 XFST = xfst -utf8
+GTHOME = ../../../../gt
+SMETESTING = $(GTHOME)/sme/testing
 
 # fst for the sme-nob dictionary
 
@@ -42,12 +44,22 @@ smenob.html: ../bin/smenob.html
 	@xsltproc smenob.xsl smenob.xml > ../bin/smenob.html
 
 macdict: macdict/smenob.xml
-macdict/smenob.xml: smenob.xml smenob2macdict.xsl
+macdict/smenob.xml: smenob.xml smenob2macdict.xsl add-paradigm.xsl
+	@echo
+	@echo "*** Extracting words from dictionary file. ***"
+	@echo
+	grep '<l pos' $< | perl -pe \
+		's/^.*pos="(.)">(.+)<.*$$/\2	\1/' > $(SMETESTING)/dictwords.txt
+	@echo
+	@echo "*** Generating paradigms. ***"
+	@echo
+	cd $(SMETESTING) && ./gen-paradigms.sh dictwords.txt
 	@echo
 	@echo "*** Building smenob.xml for MacOS X Dictionary ***" 
 	@echo
-	@echo "*** Note: We now use the xsltproc tool ***"
-	@xsltproc smenob2macdict.xsl $< > $@
+	@xsltproc --stringparam gtpath $(SMETESTING) \
+		add-paradigm.xsl $< > $@.tmp
+	@xsltproc smenob2macdict.xsl $@.tmp > $@
 	@cd macdict && make
 
 # fst for the Sámi words in the dictionary

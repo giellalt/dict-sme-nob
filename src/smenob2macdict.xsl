@@ -61,14 +61,17 @@
 END OF EXAMPLE! -->
 
 <xsl:template match="e">
- <d:entry id="{lg/l}" d:title="{lg/l}">
+ <d:entry d:title="{lg/l}">
     <xsl:attribute name="id">
       <xsl:value-of select="concat(lg/l,
                            '_',
                             lg/l/@pos
                             )"/>
     </xsl:attribute>
-   <d:index d:value="{lg/l}"/>
+    <xsl:if test="not(lg/paradigm)">
+      <d:index d:value="{lg/l}"/>
+    </xsl:if>
+   <xsl:apply-templates select="lg/paradigm"/>
    <h1><xsl:value-of select="lg/l"/></h1>
    <xsl:choose>
      <xsl:when test="count(mg/tg/t) = 1">
@@ -79,6 +82,14 @@ END OF EXAMPLE! -->
      </xsl:otherwise>
    </xsl:choose>
  </d:entry>
+</xsl:template>
+
+<xsl:template match="paradigm">
+  <xsl:apply-templates/>
+</xsl:template>
+
+<xsl:template match="wordform">
+  <d:index d:value="{.}"/>
 </xsl:template>
 
 <xsl:template match="mg">
@@ -125,7 +136,7 @@ END OF EXAMPLE! -->
   <xsl:apply-templates/>
  </sup>
 </xsl:template>
-
+-->
 <xsl:template match="xg">
   <xsl:apply-templates/>
 </xsl:template>
@@ -139,6 +150,6 @@ END OF EXAMPLE! -->
 <xsl:template match="xt">
   <xsl:apply-templates/>
 </xsl:template>
--->
+<!-- -->
 
 </xsl:stylesheet>
