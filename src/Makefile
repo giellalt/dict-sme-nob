@@ -57,9 +57,14 @@ macdict/smenob.xml: smenob.xml smenob2macdict.xsl add-paradigm.xsl
 	@echo
 	@echo "*** Building smenob.xml for MacOS X Dictionary ***" 
 	@echo
-	@xsltproc --stringparam gtpath $(SMETESTING) \
-		add-paradigm.xsl $< > $@.tmp
+	java -Xmx1024m \
+		org.apache.xalan.xslt.Process \
+		-in  $< \
+		-out $@.tmp \
+		-xsl add-paradigm.xsl \
+		-param gtpath $(SMETESTING)
 	@xsltproc smenob2macdict.xsl $@.tmp > $@
+	rm -f $@.tmp
 	@cd macdict && make
 
 # fst for the Sámi words in the dictionary
