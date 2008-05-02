@@ -20,6 +20,8 @@
              $gtpath,
             '/',
              l,
+            '_',
+             l/@pos,
             '.xml')"/>
   <lg>
    <xsl:apply-templates/>
