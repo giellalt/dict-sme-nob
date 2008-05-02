@@ -12,17 +12,18 @@
 <xsl:output method="xml"
             encoding="UTF-8"/>
 
- <xsl:param name="gtpath"/>
+ <xsl:param name="gtpath">../../../../gt/sme/testing</xsl:param>
 
 <xsl:template match="lg">
  <xsl:param name="document" select="concat(
+            'file:',
              $gtpath,
             '/',
              l,
             '.xml')"/>
   <lg>
-   <xsl:copy-of select="document($document)"/>
    <xsl:apply-templates/>
+   <xsl:copy-of select="document($document)"/>
   </lg>
 </xsl:template>
 
