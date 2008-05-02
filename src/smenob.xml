@@ -464,6 +464,11 @@
 	</xg>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <t pos="a">varig</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -4936,16 +4941,6 @@
     <mg>
       <tg>
         <t pos="m">almenningsrettshaver</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">almennetsullasaš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">almenningslignende</t>
       </tg>
     </mg>
   </e>
@@ -11573,16 +11568,6 @@
     <mg>
       <tg>
         <t pos="S">arbeidsuførhet</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">bargonávccalaš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">arbeidsfør</t>
       </tg>
     </mg>
   </e>
@@ -37397,16 +37382,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">erttet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">ribbe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">essea</l>
     </lg>
     <mg>
@@ -37587,16 +37562,6 @@
     <mg>
       <tg>
         <t pos="S">forslagstiller</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">evttohus</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">forslag</t>
       </tg>
     </mg>
   </e>
@@ -38082,16 +38047,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">fanas</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">båt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">fanasmohtor</l>
     </lg>
     <mg>
@@ -38547,16 +38502,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">feaskkir</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">gang</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">feastonuohttefanas</l>
     </lg>
     <mg>
@@ -38809,16 +38754,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">fielbmá</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">stille elv</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">fiellodáidni</l>
     </lg>
     <mg>
@@ -38974,16 +38909,6 @@
     <mg>
       <tg>
         <t pos="S">garnstativ</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">fierbmi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">fiskegarn</t>
       </tg>
     </mg>
   </e>
@@ -40590,16 +40515,6 @@
     <mg>
       <tg>
         <t pos="S">strandsnipe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">gáddi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">strand</t>
       </tg>
     </mg>
   </e>
@@ -111667,17 +111582,17 @@
   </e>
   <e>
     <lg>
-      <l pos="v">barffas</l>
+      <l pos="a">barffas</l>
       <lc>barfasat</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="m">som er lodden</t>
+        <t pos="a">lodden</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="m">med stritt hår</t>
+        <t pos="a">strihåret</t>
       </tg>
     </mg>
   </e>
@@ -115759,6 +115674,7 @@
     </lg>
     <mg>
       <tg>
+        <t pos="v">foreslå</t>
         <t pos="v">avgi innstilling</t>
       </tg>
     </mg>
@@ -115815,16 +115731,6 @@
     <mg>
       <tg>
         <t pos="v">delegere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">faskut</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">skrape</t>
       </tg>
     </mg>
   </e>
@@ -115890,26 +115796,6 @@
   </e>
   <e>
     <lg>
-      <l pos="v">fierralit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">rulle</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">fierrut</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">røre</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">fievrridit</l>
     </lg>
     <mg>
@@ -115970,26 +115856,6 @@
   </e>
   <e>
     <lg>
-      <l pos="v">fuolahit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">levere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">fuomášit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">registrere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">gabahahttit</l>
     </lg>
     <mg>
@@ -116015,16 +115881,6 @@
     <mg>
       <tg>
         <t pos="v">bake kake</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">gáibidit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">påfordre</t>
       </tg>
     </mg>
   </e>
@@ -116100,61 +115956,11 @@
   </e>
   <e>
     <lg>
-      <l pos="v">gárdut</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">sette opp et dårlig laksestengsel</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">garrajugahit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">hardlodde</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">gaskkalduhttit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">avbryte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">gávdnat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">finn</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">gávnnahit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">fastslå</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">gávppašit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">drive handel</t>
       </tg>
     </mg>
   </e>
@@ -116180,31 +115986,11 @@
   </e>
   <e>
     <lg>
-      <l pos="v">geahččat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">vokte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">geahpadit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">sette tråd i garnnål</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">gealdit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">lade</t>
       </tg>
     </mg>
   </e>
@@ -116230,16 +116016,6 @@
   </e>
   <e>
     <lg>
-      <l pos="v">geassit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">dra nota/ garnet</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">geatnegahttit</l>
     </lg>
     <mg>
@@ -116255,16 +116031,6 @@
     <mg>
       <tg>
         <t pos="v">sammenbinde to eller flere fiskegarn i lenke</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">geavahit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">disponere</t>
       </tg>
     </mg>
   </e>
@@ -116350,22 +116116,6 @@
   </e>
   <e>
     <lg>
-      <l pos="v">giddet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">feste</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="v">lukke</t>
-        <t pos="v">stenge</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">giebahuhttit</l>
     </lg>
     <mg>
@@ -116392,26 +116142,6 @@
     <mg>
       <tg>
         <t pos="v">håndheve</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">gieldit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">nedlegge forbud</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">giessat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">vikle</t>
       </tg>
     </mg>
   </e>
@@ -116447,41 +116177,11 @@
   </e>
   <e>
     <lg>
-      <l pos="v">giktit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">overtale</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">gilggodit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">misfarges</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">gilvit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">dyrke</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">girdit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">fly</t>
       </tg>
     </mg>
   </e>
@@ -116695,6 +116395,15 @@
     <lg>
       <l pos="v">gomihit</l>
     </lg>
+    <mg>
+      <tg>
+        <t pos="v">velte</t>
+      </tg>
+      <xg>
+      	<x>mun gomihan dan</x>
+      	<xt>jeg velter den</xt>
+     </xg>
+    </mg>
     <mg>
       <tg>
         <t pos="v">gjendrive</t>
@@ -121834,16 +121543,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">ackumuleret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">ackumulere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">ackvireret</l>
     </lg>
     <mg>
@@ -122688,16 +122387,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">akkommodašuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akkommodasjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">akkommoderet</l>
     </lg>
     <mg>
@@ -122728,36 +122417,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">akkumulatorbatteriija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akkumulatorbatteri</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">akkumuleret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akkumulere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">akkusatiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akkusativ</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">akkvireret</l>
     </lg>
     <mg>
@@ -122774,16 +122433,6 @@
     <mg>
       <tg>
         <t pos="x">keip på båt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">akrediteret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akreditere</t>
       </tg>
     </mg>
   </e>
@@ -122860,16 +122509,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">aktan</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">sammen med</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">aktii</l>
     </lg>
     <mg>
@@ -122885,31 +122524,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">aktiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">aktiv</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">aktioneret</l>
     </lg>
     <mg>
       <tg>
         <t pos="x">aktionere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">aktiviseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">aktivisere</t>
       </tg>
     </mg>
   </e>
@@ -124562,16 +124181,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">bandageret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">bandagere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">báŋku</l>
       <lc>báŋkkut</lc>
     </lg>
@@ -124646,18 +124255,6 @@
     <mg>
       <tg>
         <t pos="m">halvvoksen gutt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">barffas</l>
-      <lc>barfasat</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">som er lodden</t>
-        <t pos="m">med stritt hår</t>
       </tg>
     </mg>
   </e>
@@ -125018,11 +124615,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">binná</l>
+      <l pos="adv">binná</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">lite grann</t>
+        <t pos="adv">litt</t>
       </tg>
     </mg>
   </e>
@@ -125046,17 +124643,6 @@
       <tg>
         <t pos="x">skriking</t>
         <t pos="x">galing</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">bistevaš</l>
-      <lc>-vaččat, -važžii</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">varig</t>
       </tg>
     </mg>
   </e>
@@ -137548,6 +137134,11 @@
     </lg>
     <mg>
       <tg>
+        <t pos="S">ribbe</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
         <t pos="m">side (hos mennesker og dyr)</t>
       </tg>
     </mg>
@@ -137769,16 +137360,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">eufemisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">eufemisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">eurokommunisma</l>
     </lg>
     <mg>
@@ -137856,16 +137437,6 @@
     <mg>
       <tg>
         <t pos="n">øre (mynt)</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">evttohit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">foreslå</t>
       </tg>
     </mg>
   </e>
@@ -138439,16 +138010,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fallehit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">angripe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">falleret</l>
     </lg>
     <mg>
@@ -138500,7 +138061,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fanas</l>
+      <l pos="n">fanas</l>
       <lc>fatnasat</lc>
     </lg>
     <mg>
@@ -138553,16 +138114,6 @@
     <mg>
       <tg>
         <t pos="x">fantasere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">fantasiija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">fantasi</t>
       </tg>
     </mg>
   </e>
@@ -138671,16 +138222,6 @@
     <mg>
       <tg>
         <t pos="x">fariseisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">farmakologiija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">farmakologi</t>
       </tg>
     </mg>
   </e>
@@ -138822,7 +138363,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">faskut</l>
+      <l pos="v">faskut</l>
       <lc>[mon] faskkun</lc>
     </lg>
     <mg>
@@ -139000,7 +138541,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">feaskkir</l>
+      <l pos="n">feaskkir</l>
       <lc>feaskárat</lc>
     </lg>
     <mg>
@@ -139013,7 +138554,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">feasta</l>
+      <l pos="n">feasta</l>
       <lc>feasttat, festii</lc>
     </lg>
     <mg>
@@ -139039,16 +138580,6 @@
     <mg>
       <tg>
         <t pos="x">feilvurdere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">fembieret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">fembiere</t>
       </tg>
     </mg>
   </e>
@@ -139214,13 +138745,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fielbmá</l>
+      <l pos="n">fielbmá</l>
       <lc>fielmmát</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="f">lita</t>
-        <t pos="x">stille elv</t>
+        <t pos="f">lita stille elv</t>
         <t pos="x">stille sted på ei lita elv</t>
         <xg>
           <x>čiekŋalis jogaš, mas lea unnán rávdnji</x>
@@ -139253,7 +138783,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fierbmi</l>
+      <l pos="n">fierbmi</l>
       <lc>fierpmit, firpmiid</lc>
     </lg>
     <mg>
@@ -139264,18 +138794,23 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fierralit</l>
+      <l pos="v">fierralit</l>
     </lg>
     <mg>
       <tg>
+        <t pos="v">rulle</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
         <t pos="v">dette</t>
-        <t pos="x">falle overende</t>
+        <t pos="v">falle overende</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fierrat</l>
+      <l pos="v">fierrat</l>
       <lc>[dat] fierai, firret</lc>
     </lg>
     <mg>
@@ -139291,7 +138826,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fierrut</l>
+      <l pos="v">fierrut</l>
       <lc>[mon] fierun, [sii] firrot</lc>
     </lg>
     <mg>
@@ -139324,7 +138859,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fievrridit</l>
+      <l pos="v">fievrridit</l>
     </lg>
     <mg>
       <tg>
@@ -139346,17 +138881,17 @@
   </e>
   <e>
     <lg>
-      <l pos="x">figureret</l>
+      <l pos="v">figureret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">figurere</t>
+        <t pos="v">figurere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fihttet</l>
+      <l pos="v">fihttet</l>
       <lc>[sii] fihttejit</lc>
     </lg>
     <mg>
@@ -139379,11 +138914,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fikseret</l>
+      <l pos="v">fikseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fiksere</t>
+        <t pos="v">fiksere</t>
       </tg>
     </mg>
   </e>
@@ -139430,27 +138965,27 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fileret</l>
+      <l pos="v">fileret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">filere</t>
+        <t pos="v">filere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fileteret</l>
+      <l pos="v">fileteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">filetere</t>
+        <t pos="v">filetere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fillašuvvat</l>
+      <l pos="v">fillašuvvat</l>
       <lc>-šuvai</lc>
     </lg>
     <mg>
@@ -139461,7 +138996,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fillet</l>
+      <l pos="v">fillet</l>
       <lc>[sii] fillejit</lc>
     </lg>
     <mg>
@@ -139472,11 +139007,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">filmatiseret</l>
+      <l pos="v">filmatiseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">filmatisere</t>
+        <t pos="v">filmatisere</t>
       </tg>
     </mg>
   </e>
@@ -139502,31 +139037,31 @@
   </e>
   <e>
     <lg>
-      <l pos="x">filtreret</l>
+      <l pos="v">filtreret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">filtrere</t>
+        <t pos="v">filtrere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fineret</l>
+      <l pos="v">fineret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">finere</t>
+        <t pos="v">finere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fingeret</l>
+      <l pos="v">fingeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fingere</t>
+        <t pos="v">fingere</t>
       </tg>
     </mg>
   </e>
@@ -139543,21 +139078,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fisioneret</l>
+      <l pos="v">fisioneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fisionere</t>
+        <t pos="v">fisionere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fisjoneret</l>
+      <l pos="v">fisjoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fisjonere</t>
+        <t pos="v">fisjonere</t>
       </tg>
     </mg>
   </e>
@@ -139574,11 +139109,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fišoneret</l>
+      <l pos="v">fišoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fišonere</t>
+        <t pos="v">fišonere</t>
       </tg>
     </mg>
   </e>
@@ -139594,7 +139129,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fitnat</l>
+      <l pos="v">fitnat</l>
       <lc>(son) finai</lc>
     </lg>
     <mg>
@@ -139609,21 +139144,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">flamberet</l>
+      <l pos="v">flamberet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">flambere</t>
+        <t pos="v">flambere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">flaneret</l>
+      <l pos="v">flaneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">flanere</t>
+        <t pos="v">flanere</t>
       </tg>
     </mg>
   </e>
@@ -139639,31 +139174,31 @@
   </e>
   <e>
     <lg>
-      <l pos="x">flankeret</l>
+      <l pos="v">flankeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">flankere</t>
+        <t pos="v">flankere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">flatteret</l>
+      <l pos="v">flatteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">flattere</t>
+        <t pos="v">flattere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">flekteret</l>
+      <l pos="v">flekteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">flektere</t>
+        <t pos="v">flektere</t>
       </tg>
     </mg>
   </e>
@@ -139679,21 +139214,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">flirtet</l>
+      <l pos="v">flirtet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">flirte</t>
+        <t pos="v">flirte</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">floragraferet</l>
+      <l pos="v">floragraferet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">floragrafere</t>
+        <t pos="v">floragrafere</t>
       </tg>
     </mg>
   </e>
@@ -139709,11 +139244,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">floreret</l>
+      <l pos="v">floreret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">florere</t>
+        <t pos="v">florere</t>
       </tg>
     </mg>
   </e>
@@ -139729,41 +139264,41 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fluktueret</l>
+      <l pos="v">fluktueret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fluktuere</t>
+        <t pos="v">fluktuere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fluoresceret</l>
+      <l pos="v">fluoresceret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fluorescere</t>
+        <t pos="v">fluorescere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fluorideret</l>
+      <l pos="v">fluorideret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fluoridere</t>
+        <t pos="v">fluoridere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fluoriseret</l>
+      <l pos="v">fluoriseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fluorisere</t>
+        <t pos="v">fluorisere</t>
       </tg>
     </mg>
   </e>
@@ -139809,21 +139344,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fokuseret</l>
+      <l pos="v">fokuseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fokusere</t>
+        <t pos="v">fokusere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">folieret</l>
+      <l pos="v">folieret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">foliere</t>
+        <t pos="v">foliere</t>
       </tg>
     </mg>
   </e>
@@ -139859,11 +139394,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">formáliseret</l>
+      <l pos="v">formáliseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">formálisere</t>
+        <t pos="v">formálisere</t>
       </tg>
     </mg>
   </e>
@@ -139909,31 +139444,31 @@
   </e>
   <e>
     <lg>
-      <l pos="x">formeret</l>
+      <l pos="v">formeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">formere</t>
+        <t pos="v">formere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">formuleret</l>
+      <l pos="v">formuleret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">formulere</t>
+        <t pos="v">formulere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">forseret</l>
+      <l pos="v">forseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">forsere</t>
+        <t pos="v">forsere</t>
       </tg>
     </mg>
   </e>
@@ -139949,11 +139484,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fosforesceret</l>
+      <l pos="v">fosforesceret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fosforescere</t>
+        <t pos="v">fosforescere</t>
       </tg>
     </mg>
   </e>
@@ -139979,11 +139514,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fotograferet</l>
+      <l pos="v">fotograferet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fotografere</t>
+        <t pos="v">fotografere</t>
       </tg>
     </mg>
   </e>
@@ -139999,11 +139534,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fotokopieret</l>
+      <l pos="v">fotokopieret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fotokopiere</t>
+        <t pos="v">fotokopiere</t>
       </tg>
     </mg>
   </e>
@@ -140029,71 +139564,61 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fragmenteret</l>
+      <l pos="v">fragmenteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fragmentere</t>
+        <t pos="v">fragmentere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fraksjoneret</l>
+      <l pos="v">fraksjoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fraksjonere</t>
+        <t pos="v">fraksjonere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">frakšoneret</l>
+      <l pos="v">frakšoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">frakšonere</t>
+        <t pos="v">frakšonere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fraktioneret</l>
+      <l pos="v">fraktioneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fraktionere</t>
+        <t pos="v">fraktionere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fráŋket</l>
+      <l pos="v">frankeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fráŋke</t>
+        <t pos="v">frankere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">frankeret</l>
+      <l pos="v">frapperet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">frankere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">frapperet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">frappere</t>
+        <t pos="v">frappere</t>
       </tg>
     </mg>
   </e>
@@ -140109,31 +139634,31 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fraseret</l>
+      <l pos="v">fraseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">frasere</t>
+        <t pos="v">frasere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fraterniseret</l>
+      <l pos="v">fraterniseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fraternisere</t>
+        <t pos="v">fraternisere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">frekventeret</l>
+      <l pos="v">frekventeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">frekventere</t>
+        <t pos="v">frekventere</t>
       </tg>
     </mg>
   </e>
@@ -140169,41 +139694,41 @@
   </e>
   <e>
     <lg>
-      <l pos="x">friseret</l>
+      <l pos="v">friseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">frisere</t>
+        <t pos="v">frisere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">friteret</l>
+      <l pos="v">friteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fritere</t>
+        <t pos="v">fritere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fronderet</l>
+      <l pos="v">fronderet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">frondere</t>
+        <t pos="v">frondere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">frotteret</l>
+      <l pos="v">frotteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">frottere</t>
+        <t pos="v">frottere</t>
       </tg>
     </mg>
   </e>
@@ -140219,11 +139744,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">frustreret</l>
+      <l pos="v">frustreret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">frustrere</t>
+        <t pos="v">frustrere</t>
       </tg>
     </mg>
   </e>
@@ -140239,31 +139764,31 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fundamenteret</l>
+      <l pos="v">fundamenteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fundamentere</t>
+        <t pos="v">fundamentere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">funderet</l>
+      <l pos="v">funderet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fundere</t>
+        <t pos="v">fundere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fungeret</l>
+      <l pos="v">fungeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fungere</t>
+        <t pos="v">fungere</t>
       </tg>
     </mg>
   </e>
@@ -140279,21 +139804,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">funksjoneret</l>
+      <l pos="v">funksjoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">funksjonere</t>
+        <t pos="v">funksjonere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">funkšoneret</l>
+      <l pos="v">funkšoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">funkšonere</t>
+        <t pos="v">funkšonere</t>
       </tg>
     </mg>
   </e>
@@ -140309,17 +139834,17 @@
   </e>
   <e>
     <lg>
-      <l pos="x">funktioneret</l>
+      <l pos="v">funktioneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">funktionere</t>
+        <t pos="v">funktionere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fuobmát</l>
+      <l pos="v">fuobmát</l>
       <lc>[sii] fuobmájit</lc>
     </lg>
     <mg>
@@ -140344,7 +139869,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fuoikut</l>
+      <l pos="v">fuoikut</l>
       <lc>[son] fuoikkui, [sii] fuikot</lc>
     </lg>
     <mg>
@@ -140367,7 +139892,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fuolahit</l>
+      <l pos="v">fuolahit</l>
     </lg>
     <mg>
       <tg>
@@ -140376,7 +139901,7 @@
     </mg>
     <mg>
       <tg>
-        <t pos="x">atnit fuola</t>
+        <t pos="v">atnit fuola</t>
       </tg>
     </mg>
   </e>
@@ -140408,7 +139933,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fuollat</l>
+      <l pos="v">fuollat</l>
       <lc>[son] fuolai, [sii] fullet</lc>
     </lg>
     <mg>
@@ -140422,7 +139947,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fuomášit</l>
+      <l pos="v">fuomášit</l>
     </lg>
     <mg>
       <tg>
@@ -140458,47 +139983,47 @@
   </e>
   <e>
     <lg>
-      <l pos="x">furageret</l>
+      <l pos="v">furageret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">furagere</t>
+        <t pos="v">furagere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">furašeret</l>
+      <l pos="v">furašeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">furašere</t>
+        <t pos="v">furašere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">furasjeret</l>
+      <l pos="v">furasjeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">furasjere</t>
+        <t pos="v">furasjere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">furneret</l>
+      <l pos="v">furneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">furnere</t>
+        <t pos="v">furnere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">furrošit</l>
+      <l pos="v">furrošit</l>
     </lg>
     <mg>
       <tg>
@@ -140509,31 +140034,31 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fusioneret</l>
+      <l pos="v">fusioneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fusionere</t>
+        <t pos="v">fusionere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fusjoneret</l>
+      <l pos="v">fusjoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fusjonere</t>
+        <t pos="v">fusjonere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fušoneret</l>
+      <l pos="v">fušoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fušonere</t>
+        <t pos="v">fušonere</t>
       </tg>
     </mg>
   </e>
@@ -140635,7 +140160,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáđaštit</l>
+      <l pos="v">gáđaštit</l>
     </lg>
     <mg>
       <tg>
@@ -140645,7 +140170,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáddi</l>
+      <l pos="n">gáddi</l>
       <lc>gáttit</lc>
     </lg>
     <mg>
@@ -140656,13 +140181,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáddit</l>
+      <l pos="v">gáddit</l>
       <lc>[son] gáttii</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">tro</t>
-        <t pos="x">anta</t>
+        <t pos="v">anta</t>
       </tg>
     </mg>
   </e>
@@ -140688,19 +140213,19 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gádjut</l>
+      <l pos="v">gádjut</l>
       <lc>[son] gájui</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">berge</t>
-        <t pos="x">redde</t>
+        <t pos="v">redde</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gáđohus</l>
+      <l pos="v">gáđohus</l>
       <lc>-husat, -hussii</lc>
     </lg>
     <mg>
@@ -140711,7 +140236,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáfestaddat</l>
+      <l pos="v">gáfestaddat</l>
       <lc>-tattai</lc>
     </lg>
     <mg>
@@ -140766,23 +140291,23 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gageret</l>
+      <l pos="v">gageret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">gagere</t>
+        <t pos="v">gagere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gággat</l>
+      <l pos="v">gággat</l>
       <lc>[son] gákkai</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">bryte</t>
-        <t pos="x">velte</t>
+        <t pos="v">velte</t>
       </tg>
     </mg>
   </e>
@@ -140816,7 +140341,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gahčat</l>
+      <l pos="v">gahčat</l>
       <lc>[son] gažai</lc>
     </lg>
     <mg>
@@ -140831,7 +140356,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gahččat</l>
+      <l pos="v">gahččat</l>
       <lc>[dat] gahčai</lc>
     </lg>
     <mg>
@@ -140842,7 +140367,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáhččat</l>
+      <l pos="v">gáhččat</l>
       <lc>[son] gáhčai</lc>
     </lg>
     <mg>
@@ -140867,7 +140392,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gahkit</l>
+      <l pos="v">gahkit</l>
       <lc>[dat] gagii</lc>
     </lg>
     <mg>
@@ -140940,7 +140465,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáhtat</l>
+      <l pos="v">gáhtat</l>
       <lc>[son] gáđai</lc>
     </lg>
     <mg>
@@ -140951,14 +140476,14 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáhttet</l>
+      <l pos="v">gáhttet</l>
       <lc>[sii] gáhttejit</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">vokte</t>
-        <t pos="x">ta vare på</t>
-        <t pos="x">bevare</t>
+        <t pos="v">ta vare på</t>
+        <t pos="v">bevare</t>
       </tg>
     </mg>
   </e>
@@ -140997,7 +140522,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáibidit</l>
+      <l pos="v">gáibidit</l>
     </lg>
     <mg>
       <tg>
@@ -141040,13 +140565,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáidat</l>
+      <l pos="v">gáidat</l>
       <lc>[dat] gáiddai</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">vike</t>
-        <t pos="x">forsvinne</t>
+        <t pos="v">forsvinne</t>
       </tg>
     </mg>
   </e>
@@ -141074,7 +140599,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gaikánit</l>
+      <l pos="v">gaikánit</l>
     </lg>
     <mg>
       <tg>
@@ -141084,7 +140609,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gaikkihit</l>
+      <l pos="v">gaikkihit</l>
     </lg>
     <mg>
       <tg>
@@ -141094,13 +140619,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gaikut</l>
+      <l pos="v">gaikut</l>
       <lc>[son] gaikkui</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">rive</t>
-        <t pos="x">slite</t>
+        <t pos="v">slite</t>
       </tg>
     </mg>
   </e>
@@ -141118,13 +140643,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gaivát</l>
+      <l pos="v">gaivát</l>
       <lc>[sii] gaivájit</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">glane</t>
-        <t pos="x">glo</t>
+        <t pos="v">glo</t>
       </tg>
     </mg>
   </e>
@@ -141141,13 +140666,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáivut</l>
+      <l pos="v">gáivut</l>
       <lc>[son] gáivvui</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">vifte</t>
-        <t pos="x">fekte</t>
+        <t pos="v">fekte</t>
       </tg>
     </mg>
   </e>
@@ -141179,7 +140704,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gakcut</l>
+      <l pos="v">gakcut</l>
       <lc>[son] gavccui</lc>
     </lg>
     <mg>
@@ -141233,7 +140758,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gálašit</l>
+      <l pos="v">gálašit</l>
     </lg>
     <mg>
       <tg>
@@ -141274,7 +140799,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">galbmit</l>
+      <l pos="v">galbmit</l>
       <lc>galmmii</lc>
     </lg>
     <mg>
@@ -141285,7 +140810,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">galbmot</l>
+      <l pos="v">galbmot</l>
       <lc>[dat] galbmojit</lc>
     </lg>
     <mg>
@@ -141297,13 +140822,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáldet</l>
+      <l pos="v">gáldet</l>
       <lc>[sii] gáldejit</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">gjelde</t>
-        <t pos="x">kastrere</t>
+        <t pos="v">kastrere</t>
       </tg>
     </mg>
   </e>
@@ -141320,7 +140845,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gálgat</l>
+      <l pos="v">gálgat</l>
       <lc>[son] gálggai</lc>
     </lg>
     <mg>
@@ -141331,7 +140856,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">galgat</l>
+      <l pos="v">galgat</l>
       <lc>[son] galggai</lc>
     </lg>
     <mg>
@@ -141366,22 +140891,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">galkat</l>
+      <l pos="v">galkat</l>
       <lc>[dat] galkkai</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">sprette</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">gallánit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">bli mett</t>
       </tg>
     </mg>
   </e>
@@ -141412,7 +140927,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">galledit</l>
+      <l pos="v">galledit</l>
     </lg>
     <mg>
       <tg>
@@ -141450,7 +140965,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gallet</l>
+      <l pos="v">gallet</l>
       <lc>[sii] gallejit</lc>
     </lg>
     <mg>
@@ -141556,11 +141071,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">galopperet</l>
+      <l pos="v">galopperet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">galoppere</t>
+        <t pos="v">galoppere</t>
       </tg>
     </mg>
   </e>
@@ -141672,7 +141187,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gaŋkát</l>
+      <l pos="v">gaŋkát</l>
       <lc>[dat] gaŋkájit</lc>
     </lg>
     <mg>
@@ -141705,7 +141220,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gánnáhit</l>
+      <l pos="v">gánnáhit</l>
     </lg>
     <mg>
       <tg>
@@ -141754,11 +141269,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">garanteret</l>
+      <l pos="v">garanteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">garantere</t>
+        <t pos="v">garantere</t>
       </tg>
     </mg>
   </e>
@@ -141797,7 +141312,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">garderet</l>
+      <l pos="v">garderet</l>
     </lg>
     <mg>
       <tg>
@@ -141850,7 +141365,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gárdut</l>
+      <l pos="v">gárdut</l>
       <lc>[son] gárddui</lc>
     </lg>
     <mg>
@@ -141866,7 +141381,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gárget</l>
+      <l pos="v">gárget</l>
       <lc>[sii] gárgejit</lc>
     </lg>
     <mg>
@@ -141878,7 +141393,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gárgidit</l>
+      <l pos="v">gárgidit</l>
     </lg>
     <mg>
       <tg>
@@ -141914,21 +141429,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">garneret</l>
+      <l pos="v">garneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">garnere</t>
+        <t pos="v">garnere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">garnisoneret</l>
+      <l pos="v">garnisoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">garnisonere</t>
+        <t pos="v">garnisonere</t>
       </tg>
     </mg>
   </e>
@@ -141967,7 +141482,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">garrudit</l>
+      <l pos="v">garrudit</l>
     </lg>
     <mg>
       <tg>
@@ -141989,7 +141504,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gártat</l>
+      <l pos="v">gártat</l>
       <lc>[mon] gárttan</lc>
     </lg>
     <mg>
@@ -142014,7 +141529,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gárvodit</l>
+      <l pos="v">gárvodit</l>
     </lg>
     <mg>
       <tg>
@@ -142045,18 +141560,18 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gárvvistit</l>
+      <l pos="v">gárvvistit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">forberede</t>
-        <t pos="x">gjøre klar</t>
+        <t pos="v">gjøre klar</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gárvvohit</l>
+      <l pos="v">gárvvohit</l>
     </lg>
     <mg>
       <tg>
@@ -142088,7 +141603,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáržudit</l>
+      <l pos="v">gáržudit</l>
     </lg>
     <mg>
       <tg>
@@ -142098,7 +141613,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáržut</l>
+      <l pos="v">gáržut</l>
       <lc>gáržžui</lc>
     </lg>
     <mg>
@@ -142110,21 +141625,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gašeret</l>
+      <l pos="v">gašeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">gašere</t>
+        <t pos="v">gašere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gasjeret</l>
+      <l pos="v">gasjeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">gasjere</t>
+        <t pos="v">gasjere</t>
       </tg>
     </mg>
   </e>
@@ -142213,7 +141728,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáskit</l>
+      <l pos="v">gáskit</l>
       <lc>[son] gáskkii</lc>
     </lg>
     <mg>
@@ -142229,19 +141744,19 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gaskit</l>
+      <l pos="v">gaskit</l>
       <lc>[son] gaskkii</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">ribbe</t>
-        <t pos="x">plukke</t>
+        <t pos="v">plukke</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gaskkalduhttit</l>
+      <l pos="v">gaskkalduhttit</l>
       <lc>-duhtii</lc>
     </lg>
     <mg>
@@ -142252,7 +141767,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gaskkalduvvat</l>
+      <l pos="v">gaskkalduvvat</l>
       <lc>-duvai</lc>
     </lg>
     <mg>
@@ -142339,7 +141854,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gastit</l>
+      <l pos="v">gastit</l>
       <lc>[mon] gasttán</lc>
     </lg>
     <mg>
@@ -142350,7 +141865,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gásttašit</l>
+      <l pos="v">gásttašit</l>
     </lg>
     <mg>
       <tg>
@@ -142386,7 +141901,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gávastit</l>
+      <l pos="v">gávastit</l>
     </lg>
     <mg>
       <tg>
@@ -142439,7 +141954,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gávdnat</l>
+      <l pos="v">gávdnat</l>
       <lc>[son] gávnnai</lc>
     </lg>
     <mg>
@@ -142472,7 +141987,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gávdnot</l>
+      <l pos="v">gávdnot</l>
       <lc>[dat] gávdnojit</lc>
     </lg>
     <mg>
@@ -142494,19 +142009,19 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gávkat</l>
+      <l pos="v">gávkat</l>
       <lc>[son] gávkkai</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">glane</t>
-        <t pos="x">glo</t>
+        <t pos="v">glo</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gávnnadit</l>
+      <l pos="v">gávnnadit</l>
     </lg>
     <mg>
       <tg>
@@ -142516,7 +142031,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gávnnahaddat</l>
+      <l pos="v">gávnnahaddat</l>
       <lc>-hattai</lc>
     </lg>
     <mg>
@@ -142527,7 +142042,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gávnnahit</l>
+      <l pos="v">gávnnahit</l>
     </lg>
     <mg>
       <tg>
@@ -142579,7 +142094,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gávppašit</l>
+      <l pos="v">gávppašit</l>
     </lg>
     <mg>
       <tg>
@@ -142614,7 +142129,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gavvit</l>
+      <l pos="v">gavvit</l>
       <lc>[son] gavii</lc>
     </lg>
     <mg>
@@ -142655,12 +142170,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gažadit</l>
+      <l pos="v">gažadit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">spørre</t>
-        <t pos="x">intervjue</t>
+        <t pos="v">intervjue</t>
       </tg>
     </mg>
   </e>
@@ -142713,7 +142228,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gazzut</l>
+      <l pos="v">gazzut</l>
       <lc>[dat] gaccui</lc>
     </lg>
     <mg>
@@ -142765,7 +142280,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geahcat</l>
+      <l pos="v">geahcat</l>
       <lc>geazai, sii gehcet</lc>
     </lg>
     <mg>
@@ -142776,7 +142291,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geahččalit</l>
+      <l pos="v">geahččalit</l>
     </lg>
     <mg>
       <tg>
@@ -142802,13 +142317,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geahččat</l>
+      <l pos="v">geahččat</l>
       <lc>[son] geahčai, [sii] gehččet</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">se</t>
-        <t pos="x">se på</t>
+        <t pos="v">se på</t>
       </tg>
     </mg>
   </e>
@@ -142837,7 +142352,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geahkat</l>
+      <l pos="v">geahkat</l>
       <lc>[son] geagai, [sii] gehket</lc>
     </lg>
     <mg>
@@ -142887,12 +142402,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geahpedit</l>
+      <l pos="v">geahpedit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">lette</t>
-        <t pos="x">minske</t>
+        <t pos="v">minske</t>
       </tg>
     </mg>
   </e>
@@ -142909,7 +142424,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geaidit</l>
+      <l pos="v">geaidit</l>
       <lc>geiddii</lc>
     </lg>
     <mg>
@@ -142932,13 +142447,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geaigát</l>
+      <l pos="v">geaigát</l>
       <lc>[dat] geaigájit</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">stikke fram</t>
-        <t pos="x">stikke ut</t>
+        <t pos="v">stikke ut</t>
       </tg>
     </mg>
   </e>
@@ -142956,7 +142471,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gealdit</l>
+      <l pos="v">gealdit</l>
       <lc>[mon] gealddán, [sii] geldet</lc>
     </lg>
     <mg>
@@ -142970,13 +142485,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geallat</l>
+      <l pos="v">geallat</l>
       <lc>gealai, [sii] gellet</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">pusse</t>
-        <t pos="x">polere</t>
+        <t pos="v">polere</t>
       </tg>
     </mg>
   </e>
@@ -143053,7 +142568,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geardut</l>
+      <l pos="v">geardut</l>
       <lc>[son] gearddui, [sii] gerdot</lc>
     </lg>
     <mg>
@@ -143069,7 +142584,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geargat</l>
+      <l pos="v">geargat</l>
       <lc>[son] gearggai, [sii] gerget</lc>
     </lg>
     <mg>
@@ -143080,7 +142595,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gearjidit</l>
+      <l pos="v">gearjidit</l>
     </lg>
     <mg>
       <tg>
@@ -143101,12 +142616,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geasehit</l>
+      <l pos="v">geasehit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">kjøre</t>
-        <t pos="x">frakte</t>
+        <t pos="v">frakte</t>
       </tg>
     </mg>
   </e>
@@ -143122,7 +142637,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geassi</l>
+      <l pos="v">geassi</l>
       <lc>geasit, gesiid</lc>
     </lg>
     <mg>
@@ -143133,13 +142648,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geassit</l>
+      <l pos="v">geassit</l>
       <lc>[son] gesii</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">dra</t>
-        <t pos="x">trekke</t>
+        <t pos="v">trekke</t>
       </tg>
     </mg>
   </e>
@@ -143199,7 +142714,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geavahit</l>
+      <l pos="v">geavahit</l>
     </lg>
     <mg>
       <tg>
@@ -143252,7 +142767,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gefot</l>
+      <l pos="v">gefot</l>
       <lc>[sii] gefojit</lc>
     </lg>
     <mg>
@@ -143263,7 +142778,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">geiget</l>
+      <l pos="v">geiget</l>
       <lc>[sii] geigejit</lc>
     </lg>
     <mg>
@@ -143312,11 +142827,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gemineret</l>
+      <l pos="v">gemineret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">geminere</t>
+        <t pos="v">geminere</t>
       </tg>
     </mg>
   </e>
@@ -143353,21 +142868,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">genereret</l>
+      <l pos="v">genereret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">generere</t>
+        <t pos="v">generere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">generet</l>
+      <l pos="v">generet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">genere</t>
+        <t pos="v">genere</t>
       </tg>
     </mg>
   </e>
@@ -143463,11 +142978,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gereret</l>
+      <l pos="v">gereret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">gerere</t>
+        <t pos="v">gerere</t>
       </tg>
     </mg>
   </e>
@@ -143484,7 +142999,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gerget</l>
+      <l pos="v">gerget</l>
       <lc>[sii] gergejit</lc>
     </lg>
     <mg>
@@ -143505,29 +143020,29 @@
   </e>
   <e>
     <lg>
-      <l pos="x">germaniseret</l>
+      <l pos="v">germaniseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">germanisere</t>
+        <t pos="v">germanisere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gerret</l>
+      <l pos="v">gerret</l>
       <lc>[si] gerrejit</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">rose</t>
-        <t pos="x">skryte</t>
+        <t pos="v">skryte</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gessot</l>
+      <l pos="v">gessot</l>
       <lc>[dat] gessojit</lc>
     </lg>
     <mg>
@@ -143548,11 +143063,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gestikuleret</l>
+      <l pos="v">gestikuleret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">gestikulere</t>
+        <t pos="v">gestikulere</t>
       </tg>
     </mg>
   </e>
@@ -143584,7 +143099,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">giddanit</l>
+      <l pos="v">giddanit</l>
     </lg>
     <mg>
       <tg>
@@ -143604,7 +143119,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">giddet</l>
+      <l pos="v">giddet</l>
       <lc>[sii] giddejit</lc>
     </lg>
     <mg>
@@ -143615,12 +143130,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">giđđudit</l>
+      <l pos="v">giđđudit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">vrimle</t>
-        <t pos="x">flimre</t>
+        <t pos="v">flimre</t>
       </tg>
     </mg>
   </e>
@@ -143701,7 +143216,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gielaheapmi</l>
+      <l pos="v">gielaheapmi</l>
       <lc>-heamit</lc>
     </lg>
     <mg>
@@ -143750,7 +143265,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gieldit</l>
+      <l pos="v">gieldit</l>
       <lc>[son] gilddii</lc>
     </lg>
     <mg>
@@ -143778,7 +143293,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gielistit</l>
+      <l pos="v">gielistit</l>
     </lg>
     <mg>
       <tg>
@@ -143868,7 +143383,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gierdat</l>
+      <l pos="v">gierdat</l>
       <lc>[dat] gierddai, girdet</lc>
     </lg>
     <mg>
@@ -143934,14 +143449,14 @@
   </e>
   <e>
     <lg>
-      <l pos="x">giessat</l>
+      <l pos="v">giessat</l>
       <lc>[mon] giesan, [sii] gisset</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">vikle</t>
-        <t pos="x">surre</t>
-        <t pos="x">nøste</t>
+        <t pos="v">surre</t>
+        <t pos="v">nøste</t>
       </tg>
     </mg>
   </e>
@@ -143992,12 +143507,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gievvudit</l>
+      <l pos="v">gievvudit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">være vilter</t>
-        <t pos="x">oppskrudd</t>
+        <t pos="v">oppskrudd</t>
       </tg>
     </mg>
   </e>
@@ -144024,7 +143539,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gihčat</l>
+      <l pos="v">gihčat</l>
       <lc>[dat] gižai</lc>
     </lg>
     <mg>
@@ -144162,7 +143677,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">giitit</l>
+      <l pos="v">giitit</l>
       <lc>[mon] giittán</lc>
     </lg>
     <mg>
@@ -144206,7 +143721,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">giksat</l>
+      <l pos="v">giksat</l>
       <lc>[dat] givssai</lc>
     </lg>
     <mg>
@@ -144230,7 +143745,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">giktit</l>
+      <l pos="v">giktit</l>
       <lc>[dat] givttii</lc>
     </lg>
     <mg>
@@ -144263,11 +143778,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">giljotineret</l>
+      <l pos="v">giljotineret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">giljotinere</t>
+        <t pos="v">giljotinere</t>
       </tg>
     </mg>
   </e>
@@ -144307,13 +143822,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gillát</l>
+      <l pos="v">gillát</l>
       <lc>[sii] gillájit</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">tåle</t>
-        <t pos="x">holde ut</t>
+        <t pos="v">holde ut</t>
       </tg>
     </mg>
   </e>
@@ -144331,19 +143846,19 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gilljut</l>
+      <l pos="v">gilljut</l>
       <lc>[son] giljui</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">hyle</t>
-        <t pos="x">brøle</t>
+        <t pos="v">brøle</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gilvalit</l>
+      <l pos="v">gilvalit</l>
     </lg>
     <mg>
       <tg>
@@ -144353,7 +143868,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gilvit</l>
+      <l pos="v">gilvit</l>
       <lc>[son] gilvvii</lc>
     </lg>
     <mg>
@@ -144388,7 +143903,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gincut</l>
+      <l pos="v">gincut</l>
       <lc>[dat] ginccui</lc>
     </lg>
     <mg>
@@ -144411,7 +143926,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gipmat</l>
+      <l pos="v">gipmat</l>
       <lc>[dat] gimai</lc>
     </lg>
     <mg>
@@ -144441,7 +143956,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">girdit</l>
+      <l pos="v">girdit</l>
       <lc>[dat] girddii</lc>
     </lg>
     <mg>
@@ -144461,17 +143976,7 @@
       </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="x">gireret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">girere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
+gomih  <e>
     <lg>
       <l pos="x">girjái</l>
       <lc>girjás [bivttas]</lc>
@@ -145705,7 +145210,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">golgolaš</l>
+      <l pos="n">golgolaš</l>
       <lc>-laččat, -lažžii</lc>
     </lg>
     <mg>
@@ -145717,7 +145222,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">golka</l>
+      <l pos="n">golka</l>
       <lc>golkkat</lc>
     </lg>
     <mg>
@@ -145728,13 +145233,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gollat</l>
+      <l pos="v">gollat</l>
       <lc>[dat] golai</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">gå</t>
-        <t pos="x">svinne</t>
+        <t pos="v">svinne</t>
         <xg>
           <x>áigi gollá, ruđat gollet</x>
         </xg>
@@ -145798,16 +145303,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gomihit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">velte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">gonagas</l>
       <lc>-gasat, -gassii</lc>
     </lg>
@@ -145819,23 +145314,23 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gopmánit</l>
+      <l pos="v">gopmánit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">veltes</t>
-        <t pos="x">kvelve</t>
+        <t pos="v">kvelve</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">gopmirdit</l>
+      <l pos="v">gopmirdit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">bukke</t>
-        <t pos="x">bøye seg</t>
+        <t pos="v">bøye seg</t>
       </tg>
     </mg>
   </e>
@@ -145863,7 +145358,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gorgŋet</l>
+      <l pos="v">gorgŋet</l>
       <lc>[sii] gorgŋejit</lc>
     </lg>
     <mg>
@@ -145923,7 +145418,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gosádit</l>
+      <l pos="v">gosádit</l>
     </lg>
     <mg>
       <tg>
@@ -145976,7 +145471,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gossat</l>
+      <l pos="v">gossat</l>
       <lc>[son] gosai</lc>
     </lg>
     <mg>
@@ -146045,7 +145540,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">govdut</l>
+      <l pos="v">govdut</l>
       <lc>[dat] govddui</lc>
     </lg>
     <mg>
@@ -146056,7 +145551,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">govket</l>
+      <l pos="v">govket</l>
       <lc>[sii] govkejit</lc>
     </lg>
     <mg>
@@ -146067,7 +145562,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">govssahallat</l>
+      <l pos="v">govssahallat</l>
     </lg>
     <mg>
       <tg>
@@ -146093,21 +145588,6 @@
     <mg>
       <tg>
         <t pos="n">bilde</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">govvidit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">illustrere</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="v">fotografere</t>
       </tg>
     </mg>
   </e>
@@ -146702,12 +146182,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">guoddalit</l>
+      <l pos="v">guoddalit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">klage på</t>
-        <t pos="x">anklage</t>
+        <t pos="v">anklage</t>
       </tg>
     </mg>
   </e>
@@ -146750,7 +146230,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">guoddit</l>
+      <l pos="v">guoddit</l>
       <lc>(son) guttii, (sii) guddet</lc>
     </lg>
     <mg>
@@ -194858,19 +194338,19 @@
   </e>
   <e>
     <lg>
-      <l pos="x">vuolgit</l>
+      <l pos="v">vuolgit</l>
       <lc>[son] vulggii</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">dra</t>
-        <t pos="x">reise avsted</t>
+        <t pos="v">reise avsted</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">vuolidit</l>
+      <l pos="v">vuolidit</l>
     </lg>
     <mg>
       <tg>
