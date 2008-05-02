@@ -1632,26 +1632,6 @@
   </e>
   <e>
     <lg>
-      <l pos="a">Stuoragieddi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">Storslett</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="a">Suoma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a2">finsk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="a">uhkideaddji</l>
     </lg>
     <mg>
@@ -5759,11 +5739,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">ansettelse</l>
+      <l pos="n">ovddasvástadus</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">ovddasvástadus</t>
+        <t pos="S">ansvar</t>
       </tg>
     </mg>
   </e>
@@ -5939,16 +5919,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">anvisningsmyndighet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">anvisningsmyndighet</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">apartheida</l>
     </lg>
     <mg>
@@ -5999,7 +5969,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">apotehkka</l>
+      <l pos="n">apotehka</l>
     </lg>
     <mg>
       <tg>
@@ -12101,7 +12071,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">basseŋga</l>
+      <l pos="n">basseaŋga</l>
     </lg>
     <mg>
       <tg>
@@ -28186,7 +28156,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">dárbogokčangeatnegas-vuohta</l>
+      <l pos="n">dárbogokčangeatnegasvuohta</l>
     </lg>
     <mg>
       <tg>
@@ -38818,10 +38788,12 @@
   <e>
     <lg>
       <l pos="n">fidnu</l>
+      <lc>fitnut</lc>
     </lg>
     <mg>
       <tg>
         <t pos="S">yrke</t>
+        <t pos="m">beskjeftigelse</t>
       </tg>
     </mg>
   </e>
@@ -48044,16 +48016,6 @@
     <mg>
       <tg>
         <t pos="S">tapperom</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">golggotmánnu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">oktober</t>
       </tg>
     </mg>
   </e>
@@ -64470,11 +64432,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ligniidna</l>
+      <l pos="n">ligniidna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="n">lignin</t>
+        <t pos="m">ligning</t>
       </tg>
     </mg>
   </e>
@@ -89903,11 +89865,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">røntgen/EKG-latnja</l>
+      <l pos="n">EKG-latnja</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">røntgen/EKS</t>
+        <t pos="S">EKS-rom</t>
       </tg>
     </mg>
   </e>
@@ -104482,7 +104444,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">vealujursanmášiidna</l>
+      <l pos="n">vealujursanmašiidna</l>
     </lg>
     <mg>
       <tg>
@@ -121699,16 +121661,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">abandoneret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">abandonere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">abbonneret</l>
     </lg>
     <mg>
@@ -121734,26 +121686,6 @@
     <mg>
       <tg>
         <t pos="x">abdisere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">abessiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">abessiv</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">ablatiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">ablativ</t>
       </tg>
     </mg>
   </e>
@@ -121830,41 +121762,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">absorberet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">absorbere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">abstinenssymptoma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">abstinenssymptom</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">abstraheret</l>
     </lg>
     <mg>
       <tg>
         <t pos="x">abstrahere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">absurdisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">absurdisme</t>
       </tg>
     </mg>
   </e>
@@ -121887,16 +121789,6 @@
       <tg>
         <t pos="v">nytte</t>
         <t pos="x">gagne</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">accelereret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">accelerere</t>
       </tg>
     </mg>
   </e>
@@ -121932,31 +121824,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">acetylena</l>
+      <l pos="v">akkorderet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">acetylen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">acklimatiseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">acklimatisere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">ackorderet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">ackordere</t>
+        <t pos="v">akkordere</t>
       </tg>
     </mg>
   </e>
@@ -121977,26 +121849,6 @@
     <mg>
       <tg>
         <t pos="x">ackvirere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">adaptašuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">adaptasjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">adapteret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">adaptere</t>
       </tg>
     </mg>
   </e>
@@ -122040,16 +121892,6 @@
     <mg>
       <tg>
         <t pos="x">uforståelig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">adderet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">addere</t>
       </tg>
     </mg>
   </e>
@@ -122113,16 +121955,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">adessiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">adessiv</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">adhereret</l>
     </lg>
     <mg>
@@ -122139,16 +121971,6 @@
       <tg>
         <t pos="v">bli heftet</t>
         <t pos="v">bruke tid</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">adjektiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">adjektiv</t>
       </tg>
     </mg>
   </e>
@@ -122201,16 +122023,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">adjunktiiva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">adjunktiv</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">administrašuvdna</l>
     </lg>
     <mg>
@@ -122231,26 +122043,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">adposišuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">adposisjon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">adrenaliidna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">adrenalin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">adsorberet</l>
     </lg>
     <mg>
@@ -122266,26 +122058,6 @@
     <mg>
       <tg>
         <t pos="x">adstringere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">aduseren</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">aduseren</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">adviseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">advisere</t>
       </tg>
     </mg>
   </e>
@@ -122323,16 +122095,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">affikseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">affiksere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">affiseret</l>
     </lg>
     <mg>
@@ -122343,21 +122105,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">affixeret</l>
+      <l pos="v">affixeret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">affixere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">aforisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">aforisme</t>
+        <t pos="v">affiksere</t>
       </tg>
     </mg>
   </e>
@@ -122388,16 +122140,6 @@
     <mg>
       <tg>
         <t pos="x">agenda</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">agentuvra</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">agentur</t>
       </tg>
     </mg>
   </e>
@@ -122439,26 +122181,6 @@
     <mg>
       <tg>
         <t pos="x">agitere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">agnostisisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">agnostisisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">agrarpartiija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">agrarparti</t>
       </tg>
     </mg>
   </e>
@@ -122936,16 +122658,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">akademiija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akademi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">akademisma</l>
     </lg>
     <mg>
@@ -122976,16 +122688,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">akklimatiseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akklimatisere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">akkommodašuvdna</l>
     </lg>
     <mg>
@@ -123011,26 +122713,6 @@
     <mg>
       <tg>
         <t pos="x">akkompagnere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">akkorderet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akkordere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">akkrediteret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akkreditere</t>
       </tg>
     </mg>
   </e>
@@ -123102,16 +122784,6 @@
     <mg>
       <tg>
         <t pos="x">akreditere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">akselereret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">akselerere</t>
       </tg>
     </mg>
   </e>
@@ -124034,16 +123706,6 @@
     <mg>
       <tg>
         <t pos="x">salig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">A-vitamiidna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">A-vitamin</t>
       </tg>
     </mg>
   </e>
@@ -126180,16 +125842,6 @@
     <mg>
       <tg>
         <t pos="v">kveles</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">B-vitamiidna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">B-vitamin</t>
       </tg>
     </mg>
   </e>
@@ -129454,16 +129106,6 @@
           <x>ruđaid cuvket</x>
           <xt>å veksle penger</xt>
         </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">C-vitamiidna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">C-vitamin</t>
       </tg>
     </mg>
   </e>
@@ -133799,16 +133441,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">DNA-molekyla</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">DNA-molekyl</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">doadjit</l>
       <lc>[son] dojii, [sii] dodjet</lc>
     </lg>
@@ -134247,7 +133879,8 @@
   </e>
   <e>
     <lg>
-      <l pos="x">dodjit [son] dojii</l>
+      <l pos="x">dodjit</l>
+      <lc>[son] dojii</lc>
     </lg>
     <mg>
       <tg>
@@ -135950,16 +135583,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">D-vitamiidna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">D-vitamin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">dynamisma</l>
     </lg>
     <mg>
@@ -136360,7 +135983,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">eanandoallu [eana-]</l>
+      <l pos="x">eanandoallu</l>
       <lc>-doalut, -dollui</lc>
     </lg>
     <mg>
@@ -139013,11 +138636,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fargga [farga]</l>
+      <l pos="adv">fargga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">snart</t>
+        <t pos="adv">snart</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">farga</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">snart</t>
       </tg>
     </mg>
   </e>
@@ -139319,16 +138952,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fax+N+Sg+Nom</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">fax+N+Sg+Nom</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">feardna</l>
       <lc>feartnat</lc>
     </lg>
@@ -139513,17 +139136,17 @@
   </e>
   <e>
     <lg>
-      <l pos="x">fernissit</l>
+      <l pos="v">fernissit</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">fernisse</t>
+        <t pos="v">fernisse</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">fertet</l>
+      <l pos="v">fertet</l>
       <lc>[sii] fertejit</lc>
     </lg>
     <mg>
@@ -139552,7 +139175,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">fetisjisme</t>
+        <t pos="m">fetisjisme</t>
       </tg>
     </mg>
   </e>
@@ -139565,22 +139188,6 @@
       <tg>
         <t pos="v">få</t>
         <t pos="v">få tak i</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">fidnu</l>
-      <lc>fitnut</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">beskjeftigelse</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="n">yrke</t>
       </tg>
     </mg>
   </e>
@@ -141148,12 +140755,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gáffet [gáfet]</l>
+      <l pos="n">gáffet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">kaffe (kaffebønner</t>
-        <t pos="x">malt kaffe)</t>
+        <t pos="x">kaffebønner</t>
+        <t pos="x">malt kaffe</t>
       </tg>
     </mg>
   </e>
@@ -144804,7 +144411,8 @@
   </e>
   <e>
     <lg>
-      <l pos="x">gipmat [dat] gimai</l>
+      <l pos="x">gipmat</l>
+      <lc>[dat] gimai</lc>
     </lg>
     <mg>
       <tg>
@@ -146086,12 +145694,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">golggotmánnu</l>
+      <l pos="n">golggotmánnu</l>
       <lc>-mánu</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="x">oktober</t>
+        <t pos="m">oktober</t>
       </tg>
     </mg>
   </e>
@@ -152351,7 +151959,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">introspekšu</l>
+      <l pos="x">introspekšuvdna</l>
     </lg>
     <mg>
       <tg>
@@ -153326,12 +152934,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">jeret</l>
+      <l pos="n">jeret</l>
       <lc>jerehat</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="x">rips</t>
+        <t pos="m">rips</t>
       </tg>
     </mg>
   </e>
@@ -157626,14 +157234,14 @@
   </e>
   <e>
     <lg>
-      <l pos="x">kristtalaß</l>
+      <l pos="a">kristtalaš</l>
       <lc>-laččat, -lažžii</lc>
     </lg>
     <mg>
       <tg>
         <t pos="x">kristen</t>
         <xg>
-          <x>risttalaß</x>
+          <x>risttalaš</x>
         </xg>
       </tg>
     </mg>
@@ -160137,16 +159745,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">Ligniidna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">lignin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">ligroiidna</l>
     </lg>
     <mg>
@@ -162104,7 +161702,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">máđii [máđidja]</l>
+      <l pos="x">máđidja</l>
       <lc>máđijat</lc>
     </lg>
     <mg>
@@ -166224,32 +165822,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">musiceret</l>
+      <l pos="v">musiseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">musicere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">musiika</l>
-      <lc>-siikkat</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">musikk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">musiseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">musisere</t>
+        <t pos="v">musisere</t>
       </tg>
     </mg>
   </e>
@@ -166275,11 +165852,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">musseret</l>
+      <l pos="v">musseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">mussere</t>
+        <t pos="v">mussere</t>
       </tg>
     </mg>
   </e>
@@ -166305,11 +165882,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">muteret</l>
+      <l pos="v">muteret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">mutere</t>
+        <t pos="v">mutere</t>
       </tg>
     </mg>
   </e>
@@ -166357,21 +165934,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">mystifieret</l>
+      <l pos="v">mystifieret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">mystifiere</t>
+        <t pos="v">mystifiere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">mystifiseret</l>
+      <l pos="v">mystifiseret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">mystifisere</t>
+        <t pos="v">mystifisere</t>
       </tg>
     </mg>
   </e>
@@ -166397,21 +165974,21 @@
   </e>
   <e>
     <lg>
-      <l pos="x">møbleret</l>
+      <l pos="v">møbleret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">møblere</t>
+        <t pos="v">møblere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">möbleret</l>
+      <l pos="v">möbleret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">möblere</t>
+        <t pos="v">möblere</t>
       </tg>
     </mg>
   </e>
@@ -166466,12 +166043,12 @@
   </e>
   <e>
     <lg>
-      <l pos="x">nagadit</l>
+      <l pos="v">nagadit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">greie</t>
-        <t pos="x">klare</t>
+        <t pos="v">klare</t>
       </tg>
     </mg>
   </e>
@@ -166489,7 +166066,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">nágget</l>
+      <l pos="v">nágget</l>
       <lc>[sii] nággejit</lc>
     </lg>
     <mg>
@@ -166529,7 +166106,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">nagir</l>
+      <l pos="n">nagir</l>
       <lc>nahkárat</lc>
     </lg>
     <mg>
@@ -166540,18 +166117,18 @@
   </e>
   <e>
     <lg>
-      <l pos="x">nahkehit</l>
+      <l pos="v">nahkehit</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">putte</t>
-        <t pos="x">stikke</t>
+        <t pos="v">stikke</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">náhkkádit</l>
+      <l pos="v">náhkkádit</l>
     </lg>
     <mg>
       <tg>
@@ -173438,20 +173015,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">poletiika</l>
-      <lc>-tiikka</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">politikk</t>
-        <xg>
-          <x>poletihkka</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="x">politiakšuvdna</l>
     </lg>
     <mg>
@@ -180104,7 +179667,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">ruoktut [ruoktot]</l>
+      <l pos="x">ruoktut</l>
     </lg>
     <mg>
       <tg>
@@ -183602,16 +183165,6 @@
     <mg>
       <tg>
         <t pos="x">garvet skinn</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">SI-systema</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">SI-system</t>
       </tg>
     </mg>
   </e>
@@ -190511,11 +190064,11 @@
   </e>
   <e>
     <lg>
-      <l pos="x">transskriberet</l>
+      <l pos="v">transkriberet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">transskribere</t>
+        <t pos="v">transkribere</t>
       </tg>
     </mg>
   </e>
@@ -194102,7 +193655,18 @@
   </e>
   <e>
     <lg>
-      <l pos="x">viimma [viimmat]</l>
+      <l pos="adv">viimma</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">endelig</t>
+        <t pos="x">omsider</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">viimmat</l>
     </lg>
     <mg>
       <tg>
@@ -207281,7 +206845,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m XXX">nuppipoteansavealla</t>
+        <t pos="m">nuppipoteansaveallaXXX</t>
         <xg>
           <x></x>
         </xg>
@@ -207295,15 +206859,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="">ubevoktet øyeblikk</t>
-        <xg>
-          <x></x>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="">sjanse mens noen er opptatt med noe annet</t>
+        <t pos="n">ubevoktet øyeblikk</t>
         <xg>
           <x></x>
         </xg>
