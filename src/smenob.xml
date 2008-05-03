@@ -8148,11 +8148,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">avaleret</l>
+      <l pos="v">avaleret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">avalere</t>
+        <t pos="v">avalere</t>
       </tg>
     </mg>
   </e>
@@ -111138,16 +111138,6 @@
   </e>
   <e>
     <lg>
-      <l pos="v">bákŋat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">vake</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">balahit</l>
     </lg>
     <mg>
@@ -113832,16 +113822,6 @@
   </e>
   <e>
     <lg>
-      <l pos="v">coahkut</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">ebbe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">čoalluladdat</l>
     </lg>
     <mg>
@@ -114043,16 +114023,6 @@
     <mg>
       <tg>
         <t pos="v">rubbe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">čuvget</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">belyse</t>
       </tg>
     </mg>
   </e>
@@ -122663,7 +122633,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">bákŋat</l>
+      <l pos="v">bákŋat</l>
       <lc>báŋai</lc>
     </lg>
     <mg>
@@ -123962,16 +123932,6 @@
     <mg>
       <tg>
         <t pos="m">velsignelse</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">buressivdnidit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">velsigne</t>
       </tg>
     </mg>
   </e>
@@ -126024,13 +125984,13 @@
   </e>
   <e>
     <lg>
-      <l pos="x">coahkut</l>
+      <l pos="v">coahkut</l>
       <lc>coagui, cohkot</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">minke</t>
-        <t pos="x">synke</t>
+        <t pos="v">synke</t>
         <xg>
           <x>jávri, johka coahku</x>
         </xg>
@@ -127186,6 +127146,11 @@
       <tg>
         <t pos="v">skinne</t>
         <t pos="v">lyse</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="v">belyse</t>
       </tg>
     </mg>
   </e>
