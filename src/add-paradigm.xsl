@@ -25,7 +25,11 @@
             '.xml')"/>
   <lg>
    <xsl:apply-templates/>
-   <xsl:copy-of select="document($document)"/>
+   <xsl:if test="l/@pos = 'n'  or
+                 l/@pos = 'a'  or
+                 l/@pos = 'v'  ">
+     <xsl:copy-of select="document($document)"/>
+   </xsl:if>
   </lg>
 </xsl:template>
 

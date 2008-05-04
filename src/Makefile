@@ -43,13 +43,16 @@ smenob.html: ../bin/smenob.html
 	@echo "*** Note: We now use the xsltproc tool ***"
 	@xsltproc smenob.xsl smenob.xml > ../bin/smenob.html
 
+# Target to make a MacOS X/Dictionary.app compatible dictionary bundle:
 macdict: macdict/smenob.xml
 macdict/smenob.xml: smenob.xml smenob2macdict.xsl add-paradigm.xsl
 	@echo
 	@echo "*** Extracting words from dictionary file. ***"
 	@echo
-	grep '<l pos' $< | perl -pe \
-		's/^.*pos="(.)">(.+)<.*$$/\2	\1/' > $(SMETESTING)/dictwords.txt
+	grep '<l pos' $< | \
+		perl -pe 's/^.*pos="([^"]+)">(.+)<.*$$/\2	\1/' | \
+		grep '	[nav]$$' \
+		> $(SMETESTING)/dictwords.txt
 	@echo
 	@echo "*** Generating paradigms. ***"
 	@echo
