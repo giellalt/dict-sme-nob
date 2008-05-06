@@ -68,19 +68,16 @@ END OF EXAMPLE! -->
                             lg/l/@pos
                             )"/>
     </xsl:attribute>
-    <xsl:if test="not(lg/paradigm)">
+    <xsl:if test="not(lg/paradigm/wordform)">
       <d:index d:value="{lg/l}"/>
     </xsl:if>
    <xsl:apply-templates select="lg/paradigm"/>
    <h1><xsl:value-of select="lg/l"/></h1>
-   <xsl:choose>
-     <xsl:when test="count(mg/tg/t) = 1">
-      <p><xsl:value-of select="mg/tg/t[1]"/></p>
-     </xsl:when>
-     <xsl:otherwise>
+   <div>
+     <ol>
        <xsl:apply-templates select="mg"/>
-     </xsl:otherwise>
-   </xsl:choose>
+     </ol>
+   </div>
  </d:entry>
 </xsl:template>
 
@@ -92,51 +89,14 @@ END OF EXAMPLE! -->
   <d:index d:value="{.}"/>
 </xsl:template>
 
-<xsl:template match="mg">
- <div>
-  <xsl:apply-templates/>
- </div>
-</xsl:template>
+<xsl:template match="mg"><li><xsl:apply-templates/></li></xsl:template>
 
-<xsl:template match="tg">
- <ol>
-  <xsl:apply-templates/>
- </ol>
-</xsl:template>
+<xsl:template match="tg[not(last())]">; <xsl:apply-templates/></xsl:template>
+<xsl:template match="tg[last()]"><xsl:apply-templates/></xsl:template>
 
-<xsl:template match="t">
- <li>
-  <xsl:apply-templates/>
- </li>
-</xsl:template>
+<xsl:template match="t[1]"><xsl:value-of select="normalize-space(.)"/></xsl:template>
+<xsl:template match="t[position() > 1]">, <xsl:value-of select="normalize-space(.)"/></xsl:template>
 
-<!-- OLD CODE NOT USED YET:
-
-<xsl:template match="pos">
- <sup>
-  <xsl:apply-templates/>
- </sup>
-</xsl:template>
-
-<xsl:template match="mg">
-  <xsl:apply-templates/>
-</xsl:template>
-
-<xsl:template match="tg">
-  <xsl:apply-templates/>
-</xsl:template>
-
-<xsl:template match="t">
-
-  <xsl:apply-templates/>
-</xsl:template>
-
-<xsl:template match="t pos">
- <sup>
-  <xsl:apply-templates/>
- </sup>
-</xsl:template>
--->
 <xsl:template match="xg">
   <xsl:apply-templates/>
 </xsl:template>
@@ -150,6 +110,5 @@ END OF EXAMPLE! -->
 <xsl:template match="xt">
   <xsl:apply-templates/>
 </xsl:template>
-<!-- -->
 
 </xsl:stylesheet>
