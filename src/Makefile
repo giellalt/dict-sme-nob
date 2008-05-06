@@ -51,7 +51,7 @@ macdict/smenob.xml: smenob.xml smenob2macdict.xsl add-paradigm.xsl
 	@echo
 	grep '<l pos' $< | \
 		perl -pe 's/^.*pos="([^"]+)">(.+)<.*$$/\2	\1/' | \
-		grep '	[nav]$$' \
+		grep '	[nav]$$' | grep -v '^-' | sort -u \
 		> $(SMETESTING)/dictwords.txt
 	@echo
 	@echo "*** Generating paradigms. ***"
