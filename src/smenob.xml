@@ -119759,16 +119759,6 @@
   </e>
   <e>
     <lg>
-      <l pos="v">vuolggahit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">starte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">vuolidahttit</l>
     </lg>
     <mg>
@@ -119810,46 +119800,11 @@
   </e>
   <e>
     <lg>
-      <l pos="v">vuorbádit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">fordele</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="v">trekke lodd</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">vuordnut</l>
     </lg>
     <mg>
       <tg>
         <t pos="v">sverge</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">vuorjat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">sjikanere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">vuostálastit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">opponere mot</t>
       </tg>
     </mg>
   </e>
@@ -119890,16 +119845,6 @@
     <mg>
       <tg>
         <t pos="v">markedsføre</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">vuovdit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">realisere</t>
       </tg>
     </mg>
   </e>
@@ -192673,7 +192618,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">vuolggahit</l>
+      <l pos="v">vuolggahit</l>
     </lg>
     <mg>
       <tg>
@@ -192734,17 +192679,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">vuollánit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">gi seg</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">vuollat</l>
+      <l pos="v">vuollat</l>
       <lc>[mon] vuolan, [sii] vullet</lc>
     </lg>
     <mg>
@@ -192869,7 +192804,7 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="v">kaste lodd</t>
-        <t pos="x">trekke lodd</t>
+        <t pos="v">trekke lodd</t>
       </tg>
     </mg>
   </e>
