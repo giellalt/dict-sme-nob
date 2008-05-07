@@ -18339,7 +18339,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">utøvelse av reindrift</t>
+        <t pos="S">reindrift</t>
       </tg>
     </mg>
   </e>
@@ -18349,7 +18349,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kjøttmengde</t>
+        <t pos="m">kjøttmengde</t>
       </tg>
     </mg>
   </e>
@@ -18359,7 +18359,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">reinbeiteterreng</t>
+        <t pos="n">reinbeiteterreng</t>
       </tg>
     </mg>
   </e>
@@ -120276,7 +120276,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">ádju</l>
+      <l pos="n">ádju</l>
       <lc>ájut</lc>
     </lg>
     <mg>
@@ -120337,7 +120337,7 @@
   </e>
   <e>
     <lg>
-      <l pos="a">á†estus</l>
+      <l pos="a">áŧestus</l>
       <lc>-tusat, -tussii</lc>
     </lg>
     <mg>
@@ -120430,7 +120430,7 @@
   </e>
   <e>
     <lg>
-      <l pos="x">agglutineret</l>
+      <l pos="v">agglutineret</l>
     </lg>
     <mg>
       <tg>
@@ -123186,16 +123186,6 @@
       <tg>
         <t pos="x">skriking</t>
         <t pos="x">galing</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">bivackeret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">bivackere</t>
       </tg>
     </mg>
   </e>
@@ -153437,16 +153427,6 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="v">kockeleret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">kockelere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">kodifieret</l>
     </lg>
     <mg>
@@ -155072,16 +155052,6 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="v">krackeleret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">krackelere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">krakeleret</l>
     </lg>
     <mg>
@@ -155241,16 +155211,6 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="x">krittsystem</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">krockeret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">krockere</t>
       </tg>
     </mg>
   </e>
@@ -155797,16 +155757,6 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="x">laboratorium</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">lackeret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">lackere</t>
       </tg>
     </mg>
   </e>
@@ -188972,21 +188922,21 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">usurperet</l>
+      <l pos="v">usurperet</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">usurpere</t>
+        <t pos="v">usurpere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">utilisma</l>
+      <l pos="n">utilisma</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">utilisme</t>
+        <t pos="n">utilisme</t>
       </tg>
     </mg>
   </e>
@@ -188997,16 +188947,6 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="x">utilitarisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">utviklingsoptimisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">utviklingsoptimisme</t>
       </tg>
     </mg>
   </e>
@@ -189035,7 +188975,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">uvlu</l>
+      <l pos="n">uvlu</l>
       <lc>uvllut</lc>
     </lg>
     <mg>
@@ -189049,7 +188989,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">uvssot</l>
+      <l pos="n">uvssot</l>
       <lc>uvssohat</lc>
     </lg>
     <mg>
@@ -189063,7 +189003,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váccašit</l>
+      <l pos="v">váccašit</l>
     </lg>
     <mg>
       <tg>
@@ -189073,17 +189013,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">vaccineret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">vaccinere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">vađđa</l>
+      <l pos="n">vađđa</l>
       <lc>vađat</lc>
     </lg>
     <mg>
@@ -189094,7 +189024,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váddu</l>
+      <l pos="n">váddu</l>
       <lc>váttut</lc>
     </lg>
     <mg>
@@ -189106,19 +189036,19 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">vadjat</l>
+      <l pos="v">vadjat</l>
       <lc>[mon] vajan</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">klippe</t>
-        <t pos="x">skjære</t>
+        <t pos="v">skjære</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="x">vádjit</l>
+      <l pos="n">vádjit</l>
       <lc>vádjigat</lc>
     </lg>
     <mg>
@@ -189143,7 +189073,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váđot</l>
+      <l pos="n">váđot</l>
       <lc>váđohat</lc>
     </lg>
     <mg>
@@ -189154,7 +189084,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váfi</l>
+      <l pos="a">váfi</l>
       <lc>váfit, váfis [olmmái]</lc>
     </lg>
     <mg>
@@ -189194,11 +189124,11 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">vaginisma</l>
+      <l pos="n">vaginisma</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">vaginisme</t>
+        <t pos="m">vaginisme</t>
       </tg>
     </mg>
   </e>
@@ -189214,7 +189144,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">vahát</l>
+      <l pos="n">vahát</l>
       <lc>vahágat</lc>
     </lg>
     <mg>
@@ -189230,7 +189160,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">vahca</l>
+      <l pos="n">vahca</l>
       <lc>vaza</lc>
     </lg>
     <mg>
@@ -189241,7 +189171,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váhkar</l>
+      <l pos="n">váhkar</l>
       <lc>váhkara</lc>
     </lg>
     <mg>
@@ -189252,7 +189182,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">vahkku</l>
+      <l pos="n">vahkku</l>
       <lc>vahkut</lc>
     </lg>
     <mg>
@@ -189263,7 +189193,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váhnen</l>
+      <l pos="n">váhnen</l>
       <lc>váhnemat</lc>
     </lg>
     <mg>
@@ -189312,7 +189242,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váibmu</l>
+      <l pos="n">váibmu</l>
       <lc>váimmut</lc>
     </lg>
     <mg>
@@ -189334,7 +189264,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váidalus</l>
+      <l pos="n">váidalus</l>
       <lc>-lusat, -lussii</lc>
     </lg>
     <mg>
@@ -189346,7 +189276,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váidda</l>
+      <l pos="n">váidda</l>
       <lc>váidagat</lc>
     </lg>
     <mg>
@@ -189374,7 +189304,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váidni</l>
+      <l pos="n">váidni</l>
       <lc>váinnit</lc>
     </lg>
     <mg>
@@ -189423,7 +189353,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váikkuhus</l>
+      <l pos="n">váikkuhus</l>
       <lc>-husat, -hussii</lc>
     </lg>
     <mg>
@@ -189496,7 +189426,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váimmus</l>
+      <l pos="n">váimmus</l>
       <lc>váibmosat</lc>
     </lg>
     <mg>
@@ -189512,7 +189442,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">váimmusreakšuvdna</l>
+      <l pos="n">váimmusreakšuvdna</l>
     </lg>
     <mg>
       <tg>
