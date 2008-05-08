@@ -1738,6 +1738,16 @@
   </e>
   <e>
     <lg>
+      <l pos="n">allaskuvla</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">høgskole</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="n">ábegáhttu</l>
     </lg>
     <mg>
@@ -26776,6 +26786,7 @@
     </lg>
     <mg>
       <tg>
+        <t pos="a">vanlig</t>
         <t pos="a">allmenn</t>
       </tg>
     </mg>
@@ -33928,6 +33939,16 @@ dorvu  <e>
     <mg>
       <tg>
         <t pos="m">urbefolkningsprosjekt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">eamiálbmot</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">urbefolk</t>
       </tg>
     </mg>
   </e>
@@ -99665,6 +99686,11 @@ dorvu  <e>
     <lg>
       <l pos="n">ulbmil</l>
     </lg>
+    <mg>
+      <tg>
+        <t pos="S">mål</t>
+      </tg>
+    </mg>
     <mg>
       <tg>
         <t pos="S">formål</t>
@@ -166195,7 +166221,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">ollašuhttit</l>
+      <l pos="v">ollašuhttit</l>
       <lc>-šuhtii</lc>
     </lg>
     <mg>
@@ -166206,7 +166232,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">ollesolmmoš</l>
+      <l pos="n">ollesolmmoš</l>
     </lg>
     <mg>
       <tg>
@@ -166216,7 +166242,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">ollis</l>
+      <l pos="a">ollis</l>
       <lc>ollásat, olles [beaivi]</lc>
     </lg>
     <mg>
@@ -166240,7 +166266,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">ollu</l>
+      <l pos="adv">ollu</l>
       <lc>[olu]</lc>
     </lg>
     <mg>
@@ -166252,7 +166278,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">olmmái</l>
+      <l pos="n">olmmái</l>
       <lc>olbmát</lc>
     </lg>
     <mg>
@@ -166263,7 +166289,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">olmmáštallat</l>
+      <l pos="v">olmmáštallat</l>
       <lc>-talai</lc>
     </lg>
     <mg>
@@ -166277,7 +166303,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">olmmoš</l>
+      <l pos="n">olmmoš</l>
       <lc>olbmot, olmmožin</lc>
     </lg>
     <mg>
@@ -175989,7 +176015,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">sáhttit</l>
+      <l pos="v">sáhttit</l>
       <lc>[son] sáhtii</lc>
     </lg>
     <mg>
@@ -176001,7 +176027,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">sáhttu</l>
+      <l pos="n">sáhttu</l>
       <lc>sáhtut</lc>
     </lg>
     <mg>
