@@ -125691,7 +125691,7 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="xadv">dakko</l>
+      <l pos="adv">dakko</l>
     </lg>
     <mg>
       <tg>
@@ -132081,6 +132081,7 @@ dorvu  <e>
       <tg>
         <t pos="x">det meste</t>
       </tg>
+    </mg> 
   </e>
   <e>
     <lg>
@@ -132993,7 +132994,7 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos=cc">elege</l>
+      <l pos="cc">elege</l>
     </lg>
     <mg>
       <tg>
@@ -138069,9 +138070,19 @@ dorvu  <e>
       </tg>
     </mg>
   </e>
+   <e>
+    <lg>
+      <l pos="adv">gaskal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">mellom</t>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
-      <l pos="x">gaskal</l>
+      <l pos="pr">gaskal</l>
     </lg>
     <mg>
       <tg>
@@ -138079,6 +138090,16 @@ dorvu  <e>
         <xg>
           <x>gaskal Guovdageainnu ja Kárašjoga ) ( gaskka</x>
         </xg>
+      </tg>
+    </mg>
+  </e>
+ <e>
+    <lg>
+      <l pos="po">gaskal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">mellom</t>
       </tg>
     </mg>
   </e>
@@ -138100,7 +138121,7 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">gaskan</l>
+      <l pos="adv">gaskan</l>
     </lg>
     <mg>
       <tg>
@@ -138109,10 +138130,30 @@ dorvu  <e>
           <x>dat bázii gaskan</x>
           <xt>den ble ufullendt</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pr">gaskan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">halvferdig</t>
         <xg>
           <x>gaskan bora</x>
           <xt>midt i måltidet</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">gaskan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">halvferdig</t>
       </tg>
     </mg>
   </e>
@@ -138189,11 +138230,20 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">gaskka</l>
+      <l pos="po">gaskka</l>
     </lg>
     <mg>
       <tg>
         <t pos="x">mellom</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">gaskka</l>
+    </lg>
+    <mg>
+      <tg>
         <t pos="x">blant</t>
       </tg>
     </mg>
@@ -138221,7 +138271,29 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">gasku</l>
+      <l pos="adv">gasku</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">midt (i</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">gasku</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">midt (i</t>
+        <t pos="x">på</t>
+        <t pos="x">mellom)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pr">gasku</l>
     </lg>
     <mg>
       <tg>
@@ -138344,7 +138416,7 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">gávcci</l>
+      <l pos="num">gávcci</l>
     </lg>
     <mg>
       <tg>
@@ -153643,7 +153715,27 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">lahka</l>
+      <l pos="adv">lahka</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">nær</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">lahka</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">nær</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pr">lahka</l>
     </lg>
     <mg>
       <tg>
