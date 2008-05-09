@@ -13,7 +13,7 @@
 
 <!ELEMENT t (#PCDATA)>
 <!ATTLIST t 
-      pos ( a | a5 | S | m | f | n | v | adv | p | pron | i | cc | cs | im | mpl | fpl | npl | x ) #REQUIRED
+      pos ( a | a5 | S | m | f | n | v | adv | p | pron | i | cc | cs | im | mpl | fpl | npl | num | pcle | x ) #REQUIRED
 >      
 <!ELEMENT xg ((x,xt?)+)>
 <!ELEMENT x (#PCDATA)>
@@ -31,6 +31,8 @@ Here are the pos tags:
  S  = noun, still not given gender (nob)
  v  = verb
  adv  = adverb
+ num = numeral
+ pcle = particle
  p  = preposition (nob)
  pr = preposition (sme)
  po = postposition (sme)
