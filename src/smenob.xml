@@ -157976,13 +157976,32 @@ gomih  <e>
 !  </e>
   <e>
     <lg>
-      <l pos="x">maŋŋil</l>
+      <l pos="adv">maŋŋil</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">etterpå</t>
+        <t pos="x">siden</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">maŋŋil</l>
     </lg>
     <mg>
       <tg>
         <t pos="x">etter</t>
-        <t pos="x">etterpå</t>
-        <t pos="x">siden</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pr">maŋŋil</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">etter</t>
       </tg>
     </mg>
   </e>
@@ -159004,7 +159023,27 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">meattá</l>
+      <l pos="adv">meattá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">forbi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pr">meattá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">forbi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">meattá</l>
     </lg>
     <mg>
       <tg>
@@ -159414,7 +159453,29 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">miehtá</l>
+      <l pos="adv">miehtá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">langs</t>
+        <t pos="x">over</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">miehtá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">langs</t>
+        <t pos="x">over</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pr">miehtá</l>
     </lg>
     <mg>
       <tg>
@@ -159460,7 +159521,17 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">mielde</l>
+      <l pos="adv">mielde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">med</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">mielde</l>
     </lg>
     <mg>
       <tg>
@@ -165925,7 +165996,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">olus</l>
+      <l pos="n">olus</l>
     </lg>
     <mg>
       <tg>
@@ -165933,6 +166004,29 @@ gomih  <e>
         <xg>
           <x>máŋggas</x>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron">olus</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">mange personer</t>
+        <xg>
+          <x>máŋggas</x>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">olus</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">nesten (ikke)</t>
       </tg>
     </mg>
   </e>
@@ -166558,7 +166652,27 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">ovdal</l>
+      <l pos="pr">ovdal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">før</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">ovdal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">før</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">ovdal</l>
     </lg>
     <mg>
       <tg>
@@ -166598,9 +166712,19 @@ gomih  <e>
       </tg>
     </mg>
   </e>
-  <e>
+   <e>
     <lg>
-      <l pos="x">ovddas</l>
+      <l pos="adv">ovddas</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">i veien</t>
+      </tg>
+    </mg>
+  </e>
+ <e>
+    <lg>
+      <l pos="po">ovddas</l>
     </lg>
     <mg>
       <tg>
@@ -171322,7 +171446,37 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">rastá</l>
+      <l pos="po">rastá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">over</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="x">tvers av</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pr">rastá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">over</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="x">tvers av</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="adv">rastá</l>
     </lg>
     <mg>
       <tg>
@@ -178367,7 +178521,18 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">siste</l>
+      <l pos="adv">siste</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">inne</t>
+        <t pos="x">innenfra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="po">siste</l>
     </lg>
     <mg>
       <tg>
