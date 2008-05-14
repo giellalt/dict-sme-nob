@@ -33087,16 +33087,6 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="n">ealli</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">dyr</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">eallinagiásodat</l>
     </lg>
     <mg>
@@ -70955,16 +70945,6 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="n">njunni</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">nese</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">njunuščiekči</l>
     </lg>
     <mg>
@@ -82839,16 +82819,6 @@ dorvu  <e>
     <mg>
       <tg>
         <t pos="S">bråkjøling</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">roakči</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">deformasjon</t>
       </tg>
     </mg>
   </e>
@@ -103001,16 +102971,6 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="n">sieidi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">seide</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="pron">Soggovuotna</l>
     </lg>
     <mg>
@@ -109040,16 +109000,6 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="v">gođđat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">gyte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">gohpat</l>
     </lg>
     <mg>
@@ -113159,16 +113109,6 @@ dorvu  <e>
       </tg>
     </mg>
   </e>
-!  <e>
-!    <lg>
-!      <l pos="a">agálaš-</l>
-!    </lg>
-!    <mg>
-!      <tg>
-!        <t pos="x">evig</t>
-!      </tg>
-!    </mg>
-!  </e>
   <e>
     <lg>
       <l pos="n">agenda</l>
@@ -125850,21 +125790,6 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="v">duođaštit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">vidne</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="v">bekrefte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">duođaštus</l>
       <lc>-tusat, -dussii</lc>
     </lg>
@@ -132476,7 +132401,7 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">gappus</l>
+      <l pos="a">gappus</l>
       <lc>gabbosat</lc>
     </lg>
     <mg>
@@ -140086,11 +140011,11 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">hervii</l>
+      <l pos="a">hervii</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">morsom</t>
+        <t pos="a">morsom</t>
       </tg>
     </mg>
   </e>
@@ -140199,7 +140124,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">hiljet</l>
+      <l pos="a">hiljet</l>
     </lg>
     <mg>
       <tg>
@@ -141312,11 +141237,11 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">ihtážii</l>
+      <l pos="adv">ihtážii</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">til i morgen</t>
+        <t pos="adv">til i morgen</t>
       </tg>
     </mg>
   </e>
@@ -141365,7 +141290,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">ijat-beaivái</l>
+      <l pos="adv">ijat-beaivái</l>
     </lg>
     <mg>
       <tg>
@@ -141819,7 +141744,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">indireakta</l>
+      <l pos="a">indireakta</l>
     </lg>
     <mg>
       <tg>
@@ -142770,7 +142695,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">ipmašis</l>
+      <l pos="adv">ipmašis</l>
     </lg>
     <mg>
       <tg>
@@ -143666,7 +143591,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">jidnii</l>
+      <l pos="adv">jidnii</l>
     </lg>
     <mg>
       <tg>
@@ -152891,21 +152816,21 @@ gomih  <e>
       </tg>
     </mg>
   </e>
-!  <e>
-!    <lg>
-!      <l pos="n">maŋŋe-</l>
-!    </lg>
-!    <mg>
-!      <tg>
-!        <t pos="x">bak</t>
-!        <t pos="x">etter</t>
-!        <xg>
-!          <x>maŋŋejuolggit</x>
-!          <xt>bakbeina</xt>
-!        </xg>
-!      </tg>
-!    </mg>
-!  </e>
+  <e>
+    <lg>
+      <l pos="n">maŋŋe-</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">bak</t>
+        <t pos="x">etter</t>
+        <xg>
+          <x>maŋŋejuolggit</x>
+          <xt>bakbeina</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="adv">maŋŋil</l>
@@ -157102,16 +157027,6 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">natyrealla</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">naturell</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="a">návccaheapmi</l>
       <lc>-heamit, -hemiid, návccahis [olmmoš]</lc>
     </lg>
@@ -160767,13 +160682,12 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">olámuddu</l>
+      <l pos="n">olámuddu</l>
       <lc>-muttu</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="x">innen rekkevidde (olámuttus</t>
-        <t pos="x">olámuddui)</t>
+        <t pos="x">innen rekkevidde</t>
       </tg>
     </mg>
   </e>
@@ -161112,7 +161026,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">oppalohkái</l>
+      <l pos="a">oppalohkái</l>
     </lg>
     <mg>
       <tg>
@@ -168576,17 +168490,6 @@ gomih  <e>
       </tg>
     </mg>
   </e>
-!  <e>
-!    <lg>
-!      <l pos="x">rievttes</l>
-!    </lg>
-!    <mg>
-!      <tg>
-!        <t pos="x">rett</t>
-!        <t pos="x">riktig</t>
-!      </tg>
-!    </mg>
-!  </e>
   <e>
     <lg>
       <l pos="n">rievvár</l>
@@ -169046,22 +168949,6 @@ gomih  <e>
       </tg>
     </mg>
   </e>
-!  <e>
-!    <lg>
-!      <l pos="x">rivttes</l>
-!    </lg>
-!    <mg>
-!      <tg>
-!        <t pos="x">rett</t>
-!        <xg>
-!          <x>rievttes</x>
-!        </xg>
-!      </tg>
-!      <tg>
-!        <t pos="x">riktig</t>
-!      </tg>
-!    </mg>
-!  </e>
   <e>
     <lg>
       <l pos="v">rivvet</l>
@@ -170736,7 +170623,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">sahtedohko</l>
+      <l pos="a">sahtedohko</l>
     </lg>
     <mg>
       <tg>
@@ -172607,7 +172494,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">seremoniealla</l>
+      <l pos="n">seremoniealla</l>
     </lg>
     <mg>
       <tg>
@@ -174821,7 +174708,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">šlunkkas</l>
+      <l pos="a">šlunkkas</l>
       <lc>šlunkasat</lc>
     </lg>
     <mg>
@@ -180428,7 +180315,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">trippela</l>
+      <l pos="n">trippela</l>
     </lg>
     <mg>
       <tg>
@@ -180438,7 +180325,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">trippel</l>
+      <l pos="n">trippel</l>
     </lg>
     <mg>
       <tg>
@@ -182806,7 +182693,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="x">veaitalas</l>
+      <l pos="a">veaitalas</l>
     </lg>
     <mg>
       <tg>
@@ -185062,25 +184949,25 @@ gomih  <e>
       </tg>
     </mg>
   </e>
-!  <e>
-!    <lg>
-!      <l pos="n">vuolle-</l>
-!    </lg>
-!    <mg>
-!      <tg>
-!        <t pos="x">nedre-</t>
-!        <xg>
-!          <x>vuollegeahčen</x>
-!        </xg>
-!      </tg>
-!      <tg>
-!        <t pos="x">i nerenden</t>
-!      </tg>
-!      <tg>
-!        <t pos="x">ner-</t>
-!      </tg>
-!    </mg>
-!  </e>
+  <e>
+    <lg>
+      <l pos="n">vuolle-</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">nedre-</t>
+        <xg>
+          <x>vuollegeahčen</x>
+        </xg>
+      </tg>
+      <tg>
+        <t pos="x">i nerenden</t>
+      </tg>
+      <tg>
+        <t pos="x">ner-</t>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="adv">vuollin</l>
