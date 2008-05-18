@@ -25278,11 +25278,12 @@
     </lg>
     <mg>
       <tg>
-        <t pos="f">anvisning</t>
+        <t pos="f">adresse</t>
       </tg>
     </mg>
     <mg>
       <tg>
+        <t pos="f">anvisning</t>
         <t pos="S">henvisning</t>
       </tg>
     </mg>
@@ -107624,6 +107625,16 @@ dorvu  <e>
   </e>
   <e>
     <lg>
+      <l pos="v">táhpet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="v">tape</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="v">dájuhit</l>
     </lg>
     <mg>
@@ -108366,6 +108377,16 @@ dorvu  <e>
     <mg>
       <tg>
         <t pos="v">jorde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="x">eige</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">ikke heller</t>
       </tg>
     </mg>
   </e>
@@ -160361,11 +160382,11 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="n">ođđaáiggeteknologiija</l>
+      <l pos="npl">ođđasat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">nyteknologi</t>
+        <t pos="x">nyheter</t>
       </tg>
     </mg>
   </e>
