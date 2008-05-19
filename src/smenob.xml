@@ -262,7 +262,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="a1">rar</t>
+        <t pos="a">rar</t>
         <t pos="x">på en rar måte</t>
       </tg>
     </mg>
@@ -305,7 +305,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="a1">tynn</t>
+        <t pos="a">tynn</t>
       </tg>
     </mg>
   </e>
@@ -437,7 +437,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="a2">hellig</t>
+        <t pos="a">hellig</t>
       </tg>
     </mg>
   </e>
@@ -487,7 +487,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="a3">hjulbeint</t>
+        <t pos="a">hjulbeint</t>
       </tg>
     </mg>
   </e>
@@ -9328,16 +9328,15 @@
       <tg>
         <t pos="adv">heller</t>
         <t pos="adv">likevel</t>
-      </tg>
-      <xt>
+      <xg>
 	<x>muhto baicca</x>
 	<xt>men på den andre sida</xt>
-      </xt>
-      <xt>
+      </xg>
+      <xg>
 	<x>Dán vuonas ii lean ge sáidi deaŧalaččamus geasseguolli, muhto baicca dorski ja juksu.</x>
 	<xt>I denne fjorden er det nok ikke sei som er den viktigste sommerfisken, men heller torsk og hyse.</xt>
-      </xt>
-
+      </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -20623,7 +20622,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="a1">feit</t>
+        <t pos="a">feit</t>
       </tg>
     </mg>
   </e>
@@ -40527,7 +40526,7 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="pr">mellom</t>
+        <t pos="p">mellom</t>
       </tg>
     </mg>
   </e>
@@ -71811,12 +71810,12 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a2">skoltesamisk</t>
+        <t pos="a">skoltesamisk</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="a2">østsamisk</t>
+        <t pos="a">østsamisk</t>
       </tg>
     </mg>
   </e>
@@ -87671,7 +87670,6 @@ dorvu  <e>
         <t pos="S">separasjon</t>
       </tg>
     </mg>
-      <l pos="n">sirddolaš</l>
     <mg>
       <tg>
         <t pos="S">spesialisering</t>
@@ -105278,10 +105276,10 @@ dorvu  <e>
     <mg>
       <tg>
         <t pos="v">klippe</t>
-      </tg>
       <xg>
         <x>guolggaid beaskida muhto vuovttaid čuohppá</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -105363,11 +105361,11 @@ dorvu  <e>
     <mg>
       <tg>
         <t pos="v">bry seg om</t>
-      </tg>
       <xg>
         <x>mon beroštan das</x>
         <xt>jeg bryr meg om det</xt>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -106009,11 +106007,11 @@ dorvu  <e>
     <mg>
       <tg>
         <t pos="v">bli mildere</t>
-      </tg>
       <xg>
         <x>dálvet bivalda</x>
         <xt>vintrene blir mildere</xt>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -106076,21 +106074,21 @@ dorvu  <e>
       <tg>
         <t pos="v">fiske</t>
         <t pos="x">jakte</t>
-      </tg>
       <xg>
         <x>Muhto joddobuođuiguin bivdojuvvo luossa miehtá Deanu.</x>
         <xt>Men med posegarnstengsel blei det fiska laks langs heile Tana.</xt>
       </xg>
+      </tg>
     </mg>
     <mg>
       <tg>
         <t pos="v">be</t>
         <t pos="x">anmode</t>
-      </tg>
       <xg>
         <x>mon bivddán du vuolgit</x>
         <xt>jeg ber deg dra</xt>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -106771,11 +106769,11 @@ dorvu  <e>
       <tg>
         <t pos="v">spise</t>
         <t pos="x">ete</t>
-      </tg>
       <xg>
         <x>mon boran láibbi</x>
         <xt>jeg spiser brød</xt>
       </xg>
+      </tg>
     </mg>
     <mg>
       <tg>
@@ -109101,11 +109099,11 @@ dorvu  <e>
     <mg>
       <tg>
         <t pos="v">velte</t>
-      </tg>
       <xg>
       	<x>mun gomihan dan</x>
       	<xt>jeg velter den</xt>
      </xg>
+      </tg>
     </mg>
     <mg>
       <tg>
@@ -114237,7 +114235,7 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a1">tradisjonell</t>
+        <t pos="a">tradisjonell</t>
       </tg>
     </mg>
   </e>
@@ -115737,7 +115735,7 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a1">kvass</t>
+        <t pos="a">kvass</t>
       </tg>
     </mg>
   </e>
@@ -116402,7 +116400,7 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="pr">overfor</t>
+        <t pos="p">overfor</t>
         <xg>
           <x>min dálu buohta</x>
           <xt>overfor vårt hus</xt>
@@ -117320,8 +117318,8 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a1">pen</t>
-        <t pos="a1">vakker</t>
+        <t pos="a">pen</t>
+        <t pos="a">vakker</t>
       </tg>
     </mg>
   </e>
@@ -118182,7 +118180,7 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="vOA">čierastallat</l>
+      <l pos="v">čierastallat</l>
       <lc>[mon] -talan</lc>
     </lg>
     <mg>
@@ -119813,12 +119811,12 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a1">lys</t>
+        <t pos="a">lys</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="a1">blank</t>
+        <t pos="a">blank</t>
       </tg>
     </mg>
   </e>
@@ -121654,7 +121652,7 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a1">sunn</t>
+        <t pos="a">sunn</t>
       </tg>
     </mg>
   </e>
@@ -125230,8 +125228,8 @@ dorvu  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a1">trygg</t>
-        <t pos="a1">tillitsfull</t>
+        <t pos="a">trygg</t>
+        <t pos="a">tillitsfull</t>
       </tg>
     </mg>
   </e>
@@ -135742,7 +135740,7 @@ gomih  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a2">kjølig</t>
+        <t pos="a">kjølig</t>
         <xg>
           <x>goalššas lea go giđđat dahje geasset lea
         čoaskkis</x>
@@ -138978,10 +138976,10 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="v">glefse etter</t>
-      </tg>
       <xg>
         <x>beana hámssui mu</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -142200,7 +142198,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="">innovatiiva</l>
+      <l pos="a">innovatiiva</l>
     </lg>
     <mg>
       <tg>
@@ -142680,7 +142678,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="">introspekšuvdna</l>
+      <l pos="n">introspekšuvdna</l>
     </lg>
     <mg>
       <tg>
@@ -143338,7 +143336,7 @@ gomih  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a1">livløs</t>
+        <t pos="a">livløs</t>
         <xg>
           <x>dat lea hui jámas</x>
         </xg>
@@ -143550,10 +143548,10 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="v">være tett</t>
-      </tg>
       <xg>
         <x>dat jeahká čázi</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -143863,10 +143861,10 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="a">lys</t>
-      </tg>
       <xg>
         <x>náhkki lea jievjjas</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -144791,10 +144789,10 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="x">ustø</t>
-      </tg>
       <xg>
         <x>eatnovanas lea jurbolas</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -144978,11 +144976,11 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="x">kaffe</t>
-      </tg>
       <xg>
         <x>gáffe</x>
       </xg>
     </mg>
+      </tg>
   </e>
   <e>
     <lg>
@@ -160431,7 +160429,7 @@ gomih  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="a1">ny</t>
+        <t pos="a">ny</t>
       </tg>
     </mg>
   </e>
@@ -160441,7 +160439,7 @@ gomih  <e>
     </lg>
     <mg>
       <tg>
-        <t pos="x">nyheter</t>
+        <t pos="npl">nyheter</t>
       </tg>
     </mg>
   </e>
@@ -164101,7 +164099,7 @@ eallima</x>
   </e>
   <e>
     <lg>
-      <l pos="">presenteret</l>
+      <l pos="v">presenteret</l>
     </lg>
     <mg>
       <tg>
@@ -182608,8 +182606,13 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">gå (på beina)</t>
+        <t pos="v">gå</t>
+        <t pos="v">spasere</t>
       </tg>
+      <xg>
+	<x>Odne mun váccán johtilit bargui, go mus lea hoahppu.</x>
+	<xt>I dag går jeg fort til jobb, fordi jeg har det travelt.</xt>
+      </xg>
     </mg>
   </e>
   <e>
@@ -192421,7 +192424,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">tørt og hardt bein</t>
+        <t pos="n">tørt og hardt bein</t>
         <xg>
           <x></x>
         </xg>
@@ -192541,7 +192544,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">sekk av lomskinn</t>
+        <t pos="m">sekk av lomskinn</t>
         <xg>
           <x></x>
         </xg>
@@ -192655,7 +192658,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">sekk med leggskinn</t>
+        <t pos="m">sekk med leggskinn</t>
         <xg>
           <x></x>
         </xg>
@@ -192683,7 +192686,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">halvparten så lett sekk</t>
+        <t pos="S">halvparten så lett sekk</t>
         <xg>
           <x></x>
         </xg>
@@ -192699,7 +192702,7 @@ eallima</x>
       <tg>
         <t pos="m">kløvsekk </t>
         <xg>
-          <x>til reinkløv)</x>
+          <x>til reinkløv</x>
         </xg>
       </tg>
     </mg>
@@ -192803,7 +192806,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">bek til bord</t>
+        <t pos="S">bek til bord</t>
         <xg>
           <x></x>
         </xg>
@@ -192839,7 +192842,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">bek til surring</t>
+        <t pos="S">bek til surring</t>
         <xg>
           <x></x>
         </xg>
@@ -193105,7 +193108,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">framspring på kinnbenet</t>
+        <t pos="S">framspring på kinnbenet</t>
         <xg>
           <x></x>
         </xg>
@@ -193189,7 +193192,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">del av en </t>
+        <t pos="S">del av en </t>
         <xg>
           <x>større) reinflokk</x>
         </xg>
@@ -193287,7 +193290,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">smak av å ha ligget for lenge</t>
+        <t pos="S">smak av å ha ligget for lenge</t>
         <xg>
           <x></x>
         </xg>
@@ -193301,7 +193304,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">ubehagelig smak </t>
+        <t pos="S">ubehagelig smak </t>
         <xg>
           <x>f.eks. av rå fisk, ukokt blod)</x>
         </xg>
@@ -193505,7 +193508,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">bekreftende utsagn</t>
+        <t pos="S">bekreftende utsagn</t>
         <xg>
           <x></x>
         </xg>
@@ -193533,7 +193536,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">fortellende setning</t>
+        <t pos="S">fortellende setning</t>
         <xg>
           <x></x>
         </xg>
@@ -193617,7 +193620,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">spørrende setning</t>
+        <t pos="S">spørrende setning</t>
         <xg>
           <x></x>
         </xg>
@@ -193653,7 +193656,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">bundet slør</t>
+        <t pos="S">bundet slør</t>
         <xg>
           <x></x>
         </xg>
@@ -193749,7 +193752,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">sammenføket snø</t>
+        <t pos="S">sammenføket snø</t>
         <xg>
           <x></x>
         </xg>
@@ -193777,7 +193780,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">forlenget marg</t>
+        <t pos="S">forlenget marg</t>
         <xg>
           <x></x>
         </xg>
@@ -193785,7 +193788,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">den forlengede marg</t>
+        <t pos="S">den forlengede marg</t>
         <xg>
           <x></x>
         </xg>
@@ -193799,7 +193802,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">bunnstokkene i et stabbur</t>
+        <t pos="S">bunnstokkene i et stabbur</t>
         <xg>
           <x></x>
         </xg>
@@ -194035,7 +194038,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">liten bjelle</t>
+        <t pos="S">liten bjelle</t>
         <xg>
           <x></x>
         </xg>
@@ -194393,7 +194396,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">kryss </t>
+        <t pos="S">kryss </t>
         <xg>
           <x>musikalsk)</x>
         </xg>
@@ -194655,7 +194658,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">reinmerke med forandring</t>
+        <t pos="S">reinmerke med forandring</t>
         <xg>
           <x></x>
         </xg>
@@ -194663,7 +194666,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">reinmerke med endring</t>
+        <t pos="S">reinmerke med endring</t>
         <xg>
           <x></x>
         </xg>
@@ -194671,7 +194674,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">ommerket reinmerke</t>
+        <t pos="S">ommerket reinmerke</t>
         <xg>
           <x></x>
         </xg>
@@ -194961,7 +194964,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">langhåret pesk</t>
+        <t pos="S">langhåret pesk</t>
         <xg>
           <x></x>
         </xg>
@@ -195011,7 +195014,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">tykk pesk</t>
+        <t pos="S">tykk pesk</t>
         <xg>
           <x></x>
         </xg>
@@ -195019,7 +195022,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">pesk av tykt høstskinn</t>
+        <t pos="S">pesk av tykt høstskinn</t>
         <xg>
           <x></x>
         </xg>
@@ -195033,7 +195036,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">langhåret pesk</t>
+        <t pos="S">langhåret pesk</t>
         <xg>
           <x></x>
         </xg>
@@ -195047,7 +195050,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">korthåret reinkalvskinnspesk</t>
+        <t pos="S">korthåret reinkalvskinnspesk</t>
         <xg>
           <x></x>
         </xg>
@@ -195069,7 +195072,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">det bøyde </t>
+        <t pos="S">det bøyde </t>
         <xg>
           <x>ovale el. runde) sidestykke på kiste el. treeske </x>
         </xg>
@@ -195077,7 +195080,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">det indre sidestykke på en lue</t>
+        <t pos="S">det indre sidestykke på en lue</t>
         <xg>
           <x></x>
         </xg>
@@ -195085,7 +195088,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">sidestykke på en pose</t>
+        <t pos="S">sidestykke på en pose</t>
         <xg>
           <x></x>
         </xg>
@@ -195093,7 +195096,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">øverste bord på langsiden av en sledekar</t>
+        <t pos="S">øverste bord på langsiden av en sledekar</t>
         <xg>
           <x></x>
         </xg>
@@ -195101,7 +195104,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">øverste og nederste bord på langsiden av en høykarm</t>
+        <t pos="S">øverste og nederste bord på langsiden av en høykarm</t>
         <xg>
           <x></x>
         </xg>
@@ -195123,7 +195126,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">tiden mellom to flyttinger</t>
+        <t pos="S">tiden mellom to flyttinger</t>
         <xg>
           <x></x>
         </xg>
@@ -195179,7 +195182,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">så langt en hund kan høres mellom</t>
+        <t pos="S">så langt en hund kan høres mellom</t>
         <xg>
           <x></x>
         </xg>
@@ -195193,7 +195196,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">mellomrommet mellom leddene</t>
+        <t pos="S">mellomrommet mellom leddene</t>
         <xg>
           <x></x>
         </xg>
@@ -195207,7 +195210,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">avstanden mellom de enkelte ting</t>
+        <t pos="S">avstanden mellom de enkelte ting</t>
         <xg>
           <x></x>
         </xg>
@@ -195291,7 +195294,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">forsiring på koftekanten </t>
+        <t pos="S">forsiring på koftekanten </t>
         <xg>
           <x>bare på mannskofte) bestående av to røde ulltråder eller to dobbeltråder, hver dannet av en rød og en blå, som med hvit el. gul lintråd sys fast et lite stykke fra hverandre</x>
         </xg>
@@ -195485,7 +195488,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">kort slitt ting</t>
+        <t pos="S">kort slitt ting</t>
         <xg>
           <x></x>
         </xg>
@@ -195655,7 +195658,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">få til å kveles</t>
+        <t pos="S">få til å kveles</t>
         <xg>
           <x></x>
         </xg>
@@ -195827,7 +195830,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">krakk med hull igjennom, til å ha småbarn stående i</t>
+        <t pos="S">krakk med hull igjennom, til å ha småbarn stående i</t>
         <xg>
           <x></x>
         </xg>
@@ -195947,7 +195950,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">finsk kvinne </t>
+        <t pos="S">finsk kvinne </t>
         <xg>
           <x>på russisk)</x>
         </xg>
@@ -196019,7 +196022,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">klaffer for å dekke for synet</t>
+        <t pos="S">klaffer for å dekke for synet</t>
         <xg>
           <x></x>
         </xg>
@@ -196097,7 +196100,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">sandbanke hvor det er stengselsplass</t>
+        <t pos="S">sandbanke hvor det er stengselsplass</t>
         <xg>
           <x></x>
         </xg>
@@ -196261,7 +196264,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">stykke som stikker ut på noe</t>
+        <t pos="S">stykke som stikker ut på noe</t>
         <xg>
           <x></x>
         </xg>
@@ -196275,7 +196278,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">lang avkvistet bjørkestamme </t>
+        <t pos="S">lang avkvistet bjørkestamme </t>
         <xg>
           <x>til sammenbinding av flåtedel)</x>
         </xg>
@@ -196289,7 +196292,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">motorisk organ</t>
+        <t pos="S">motorisk organ</t>
         <xg>
           <x></x>
         </xg>
@@ -196353,7 +196356,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">fjerdedels liter</t>
+        <t pos="S">fjerdedels liter</t>
         <xg>
           <x></x>
         </xg>
@@ -196381,7 +196384,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">meget lavt kjørel av staver</t>
+        <t pos="S">meget lavt kjørel av staver</t>
         <xg>
           <x></x>
         </xg>
@@ -196389,7 +196392,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">meget lavt trekar av staver</t>
+        <t pos="S">meget lavt trekar av staver</t>
         <xg>
           <x></x>
         </xg>
@@ -196809,7 +196812,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">det som er galt</t>
+        <t pos="S">det som er galt</t>
         <xg>
           <x></x>
         </xg>
@@ -197007,7 +197010,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="">ubevoktet øyeblikk</t>
+        <t pos="S">ubevoktet øyeblikk</t>
         <xg>
           <x></x>
         </xg>
@@ -197015,7 +197018,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="">sjanse mens noen er opptatt med noe annet</t>
+        <t pos="S">sjanse mens noen er opptatt med noe annet</t>
         <xg>
           <x></x>
         </xg>
