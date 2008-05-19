@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE" "smenob.dtd">
+<!DOCTYPE rootdict PUBLIC "-//XMLmind//DTD smenob//SE" "smenob.dtd">
 <?xml-stylesheet type="text/css" href="smenob.css"?><?xml-stylesheet type="text/xsl" href="smenob.xsl"?>
-<r>
+<rootdict>
   <e>
     <lg>
       <l pos="a">ahccil</l>
@@ -153373,10 +153373,10 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="m">skåkbue</t>
-      </tg>
       <xg>
         <x>luohkká gullá heasttaleŋggiide</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -154182,26 +154182,28 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="v">betale</t>
-      </tg>
       <xg>
         <x>mon mávssán dan</x>
       </xg>
+      </tg>
     </mg>
     <mg>
       <tg>
         <t pos="v">koste</t>
-      </tg>
       <xg>
-        <x>ollu dat máksá?</x>
+        <x>Man ollu dat máksá?</x>
+        <xt>Hvor mye koster det?</xt>
       </xg>
+      </tg>
     </mg>
     <mg>
       <tg>
         <t pos="v">bety</t>
-      </tg>
       <xg>
         <x>sátni 'hupmat' máksá 'hállat'</x>
+        <xt>ordet 'hupmat' betyr 'hállat'</xt>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -157878,11 +157880,11 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="n">tantebarn</t>
-      </tg>
       <xg>
         <x>muoŧŧal lea dat geasa lea muoŧŧá</x>
         <xt>muoŧŧal er den som en er moster til</xt>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -157894,10 +157896,10 @@ gomih  <e>
       <tg>
         <t pos="f">tante</t>
         <t pos="x">moster</t>
-      </tg>
       <xg>
         <x>muoŧŧá lea eatni oabbá, nuorat go eadni</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -159458,10 +159460,10 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="v">ha ørene bakover</t>
-      </tg>
       <xg>
         <x>bahás beana dahje heasta njabbá</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -159762,10 +159764,10 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="m">sagnfigur</t>
-      </tg>
       <xg>
         <x>áhkká, mii gulai dološ sámi cukcasiidda</x>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -161260,7 +161262,7 @@ gomih  <e>
   </e>
   <e>
     <lg>
-      <l pos="v5">oađđit</l>
+      <l pos="v">oađđit</l>
       <lc>[son] ođii</lc>
     </lg>
     <mg>
@@ -166902,7 +166904,7 @@ eallima</x>
       <tg>
         <t pos="v">drøfte</t>
         <t pos="v">konferere med</t>
-        <t pos="v">konsultere</t>>
+        <t pos="v">konsultere</t>
       </tg>
     </mg>
   </e>
@@ -184214,11 +184216,11 @@ eallima</x>
       <tg>
         <t pos="v">gå</t>
         <t pos="v">spasere</t>
-      </tg>
       <xg>
 	<x>Odne mun váccán johtilit bargui, go mus lea hoahppu.</x>
 	<xt>I dag går jeg fort til jobb, fordi jeg har det travelt.</xt>
       </xg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -187003,7 +187005,7 @@ eallima</x>
   </e>
   <e>
     <lg>
-      <l pos="p">vuostá</l>
+      <l pos="po">vuostá</l>
     </lg>
     <mg>
       <tg>
@@ -196872,7 +196874,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m XXX">mastiska</t>
+        <t pos="m">mastiska</t>
         <xg>
           <x></x>
         </xg>
@@ -196886,7 +196888,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m XXX">asfáltamastiska</t>
+        <t pos="m">asfaltmastiska</t>
         <xg>
           <x></x>
         </xg>
@@ -198238,7 +198240,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m XXX">duopparbil</t>
+        <t pos="m">duopparbil</t>
         <xg>
           <x></x>
         </xg>
@@ -198603,9 +198605,6 @@ eallima</x>
     <mg>
       <tg>
         <t pos="n">ubevoktet øyeblikk</t>
-        <xg>
-          <x></x>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -198617,18 +198616,13 @@ eallima</x>
     <mg>
       <tg>
         <t pos="S">ubevoktet øyeblikk</t>
-        <xg>
-          <x></x>
-        </xg>
       </tg>
     </mg>
     <mg>
       <tg>
         <t pos="S">sjanse mens noen er opptatt med noe annet</t>
-        <xg>
-          <x></x>
-        </xg>
       </tg>
     </mg>
   </e>
-</r>
+</rootdict>
+
