@@ -1,4 +1,4 @@
-<!ELEMENT rootdict (e*) >
+<!ELEMENT rootdict (e)+ >
 <!ELEMENT e (lg,mg+) >
 <!ELEMENT lg (l,lc*) >
 <!ELEMENT l (#PCDATA) >
