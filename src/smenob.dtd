@@ -1,17 +1,17 @@
-<!ELEMENT r (e+) >
-<!ELEMENT e (lg,mg+)>
-<!ELEMENT lg (l,lc*)>
-<!ELEMENT l (#PCDATA)>
+<!ELEMENT rootdict (e*) >
+<!ELEMENT e (lg,mg+) >
+<!ELEMENT lg (l,lc*) >
+<!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
       pos ( a | n | v | adv | po | pr | pron | rel | pers | i | pcle | num | cc | cs | npl | prop | x ) #REQUIRED
 >      
 
-<!ELEMENT lc (#PCDATA)>
+<!ELEMENT lc (#PCDATA) >
 
-<!ELEMENT mg (tg+)>
-<!ELEMENT tg (t+,xg*)>
+<!ELEMENT mg (tg+) >
+<!ELEMENT tg (t+,xg*) >
 
-<!ELEMENT t (#PCDATA)>
+<!ELEMENT t (#PCDATA) >
 <!ATTLIST t 
       pos ( a | a5 | S | m | f | n | v | adv | p | pron | prop | i | cc | cs | im | mpl | fpl | npl | num | pcle | x ) #REQUIRED
 >      
