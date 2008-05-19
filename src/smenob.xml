@@ -9322,6 +9322,26 @@
   </e>
   <e>
     <lg>
+      <l pos="adv">baicca</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">heller</t>
+        <t pos="adv">likevel</t>
+      </tg>
+      <xt>
+	<x>muhto baicca</x>
+	<xt>men på den andre sida</xt>
+      </xt>
+      <xt>
+	<x>Dán vuonas ii lean ge sáidi deaŧalaččamus geasseguolli, muhto baicca dorski ja juksu.</x>
+	<xt>I denne fjorden er det nok ikke sei som er den viktigste sommerfisken, men heller torsk og hyse.</xt>
+      </xt>
+
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="n">báidnin</l>
     </lg>
     <mg>
@@ -37797,11 +37817,31 @@ dorvu  <e>
   </e>
   <e>
     <lg>
-      <l pos="n">formálalaš</l>
+      <l pos="a">formálalaš</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">formell</t>
+        <t pos="a">formell</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">fágalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">faglig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">doaresfágalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tverrfaglig</t>
       </tg>
     </mg>
   </e>
@@ -105943,6 +105983,17 @@ dorvu  <e>
   </e>
   <e>
     <lg>
+      <l pos="v">bisuhit</l>
+      <lc>[dat] bisuha</lc>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="v">beholde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="v">bivaldaddat</l>
     </lg>
     <mg>
@@ -106026,6 +106077,10 @@ dorvu  <e>
         <t pos="v">fiske</t>
         <t pos="x">jakte</t>
       </tg>
+      <xg>
+        <x>Muhto joddobuođuiguin bivdojuvvo luossa miehtá Deanu.</x>
+        <xt>Men med posegarnstengsel blei det fiska laks langs heile Tana.</xt>
+      </xg>
     </mg>
     <mg>
       <tg>
@@ -161657,6 +161712,11 @@ gomih  <e>
           <x>diibmu ovddida</x>
           <xt>klokka går for fort</xt>
         </xg>
+        <xg>
+          <x>SI ulbmil lea dutkama bokte nannet ja ovddidit sámi giela, kultuvrra ja servodat-
+eallima</x>
+          <xt>SIs mål er via forsking å styrke og fremme samisk språk, kultur og samfunnsliv</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -175858,6 +175918,16 @@ gomih  <e>
     <mg>
       <tg>
         <t pos="x">spandere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">spáitil</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">effektiv</t>
       </tg>
     </mg>
   </e>
