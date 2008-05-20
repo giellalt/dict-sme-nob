@@ -1,4 +1,4 @@
-<!ELEMENT r (#PCDATA|e)* >
+<!ELEMENT r (e+) >
 <!ELEMENT e (lg,mg+) >
 <!ELEMENT lg (l,lc*) >
 <!ELEMENT l (#PCDATA) >
