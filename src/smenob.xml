@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rootdict PUBLIC "-//XMLmind//DTD smenob//SE" "smenob.dtd">
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE" "smenob.dtd">
 <?xml-stylesheet type="text/css" href="smenob.css"?>
 <?xml-stylesheet type="text/xsl" href="smenob.xsl"?>
-<rootdict>
+<r>
   <e>
     <lg>
       <l pos="a">ahccil</l>
@@ -113799,11 +113799,6 @@ dorvu  <e>
       </tg>
     </mg>
   </e>
-    <mg>
-      <tg>
-        <t pos="v">lokke</t>
-      </tg>
-    </mg>
   <e>
     <lg>
       <l pos="v">váfistit</l>
@@ -201900,4 +201895,4 @@ eallima</x>
       </tg>
     </mg>
   </e>  
-</rootdict>
+</r>
