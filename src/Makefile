@@ -92,6 +92,6 @@ smedic.fst: ../bin/smedic.fst
 	@rm -rf ../../tmp/smedic-save-script
 
 clean:
-	@rm -f ../bin/*fst ../bin/*dic ../*lexc ../bin/*list
+	@rm -f ../bin/*fst ../bin/*dic ../bin/*lexc ../bin/*list
 
 
