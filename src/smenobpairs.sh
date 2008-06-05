@@ -5,9 +5,9 @@
 
 echo "LEXICON Root" > ../bin/sn.lexc
 
-cat smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | sed 's/pos=/£/g' | cut -d"£" -f2 | cut -d">" -f2 | cut -d"<" -f1 | grep '[A-Za-z]' | tr ' ' '_' > ../bin/s.dic
+cat smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | sed 's/pos=/£/g' | cut -d"£" -f2 | cut -d">" -f2 | cut -d"<" -f1 | grep '[A-Za-z0-9]' | tr ' ' '_' > ../bin/s.dic
+cat smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | sed 's/pos=/£/g' | cut -d"£" -f3 | cut -d">" -f2 | cut -d"<" -f1 | grep '[A-Za-z0-9]' | tr ' ' '_' > ../bin/n.dic
 
-cat smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | sed 's/pos=/£/g' | cut -d"£" -f3 | cut -d">" -f2 | cut -d"<" -f1 | grep '[A-Za-z]' | tr ' ' '_' > ../bin/n.dic
 
 paste -d":" ../bin/s.dic ../bin/n.dic > ../bin/sn.list
 
