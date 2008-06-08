@@ -3,10 +3,22 @@
 # It should be rewritten with Twig or something similar instead of 
 # the shellscript we have now
 
+# =========== Tools: ============= #
 LEXC = lexc -utf8
 XFST = xfst -utf8
-GTHOME = ../../../../gt
-SMETESTING = $(GTHOME)/sme/testing
+SSH  = /usr/bin/ssh
+
+# =========== Paths & files: ============= #
+GTHOME      = ../../../../gt
+SMETESTING  = $(GTHOME)/sme/testing
+SMENOBMAC   = ./macdict/objects
+SMENOBNAME  = Nordsamisk-norsk ordbok.dictionary
+SMENOBZIP   = smenob-mac.dictionary.tgz
+UPLOADDIR   = sd@giellatekno.uit.no:xtdoc/sd/src/documentation/content/xdocs
+DOWNLOADDIR = http://www.divvun.no/static_files
+
+# =========== Other: ============= #
+DATE = $(shell date +%Y%m%d)
 
 # fst for the sme-nob dictionary
 
@@ -70,6 +82,27 @@ macdict/smenob.xml: smenob.xml smenob2macdict.xsl add-paradigm.xsl
 	rm -f $@.tmp
 	@cd macdict && make
 
+upload-macdict:
+	@echo
+	@echo "*** TAR-ing and ZIP-ing smenob Mac dictionary ***"
+	@echo
+	tar -czf $(SMENOBZIP) "$(SMENOBMAC)/$(SMENOBNAME)"
+	@echo
+	@echo "*** Uploading smenob Mac dictionary to www.divvun.no ***"
+	@echo
+	@scp $(SMENOBZIP) $(UPLOADDIR)/static_files/$(DATE)-$(SMENOBZIP)
+	@$(SSH) sd@divvun.no \
+		"cd staticfiles/ && ln -sf $(DATE)-$(SMENOBZIP) $(SMENOBZIP)"
+	@echo
+	@echo "*** New zip file for smenob Mac dictionary now available at: ***"
+	@echo
+	@echo "$(DOWNLOADDIR)/$(DATE)-$(SMENOBZIP)"
+	@echo
+	@echo "*** Permlink to newest version is always: ***"
+	@echo
+	@echo "$(DOWNLOADDIR)/$(SMENOBZIP)"
+	@echo
+
 # fst for the Sámi words in the dictionary
 
 #Pseudocode:
@@ -84,7 +117,8 @@ smedic.fst: ../bin/smedic.fst
 	@echo
 	@echo "*** Building smedic.fst ***" 
 	@echo
-	@cat smenob.xml | grep '<l pos=' | cut -d">" -f2 | cut -d"<" -f1 > ../bin/s.dic
+	@cat smenob.xml | grep '<l pos=' | cut -d">" -f2 | \
+		cut -d"<" -f1 > ../bin/s.dic
 	@printf "read text < ../bin/s.dic \n\
 	save stack ../bin/smedic.fst \n\
 	quit \n" > ../../tmp/smedic-save-script
