@@ -22,6 +22,10 @@
       <tg>
         <t pos="a">kjedelig</t>
         <t pos="a">utrivelig</t>
+        <xg>
+          <x>Mus lea ahkit</x>
+          <xt>Jeg kjeder meg</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -32,6 +36,10 @@
     <mg>
       <tg>
         <t pos="a">egentlig</t>
+        <xg>
+          <x>Riikkanamma "Norga" mearkkaša aitosaččat "davvimáđii"</x>
+          <xt>Landsnavnet "Norge" betyr egentlig "nord-veg"</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -63,6 +71,10 @@
       <tg>
         <t pos="a">ordentlig</t>
         <t pos="a">skikkelig</t>
+      <xg>
+        <x>Lei imaš, go buvddas eai vuovdde albma varramárffiid.</x>
+        <xt>Det var rart at butikken ikke selger skikkelige blodpølser</xt>
+      </xg>
       </tg>
     </mg>
   </e>
@@ -302,11 +314,15 @@
   <e>
     <lg>
       <l pos="a">asehaš</l>
-      <lc>-haččat, -hažžii, asehis (náhkki)</lc>
+      <lc>-haččat, -hažžii</lc>
     </lg>
     <mg>
       <tg>
         <t pos="a">tynn</t>
+        <xg>
+          <x>Sus lea asehis náhkki</x>
+          <xt>Hun har tynn hud</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -816,7 +832,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">likevel</t>
+        <t pos="adv">likevel</t>
       </tg>
     </mg>
   </e>
@@ -868,6 +884,10 @@
     <mg>
       <tg>
         <t pos="adv">også</t>
+        <xg>
+          <x>Oidnen maiddái Niillasa</x>
+          <xt>Jeg så Nils også</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -908,6 +928,19 @@
     <mg>
       <tg>
         <t pos="adv">samme</t>
+        <xg>
+          <x>Árvolassáneapmi lei jagis 1997 sullii seamma dásis goappaš riikkain</x>
+          <xt>Verdistigningen var i 1997 omtrent på samme nivå i begge landa</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="adv">like</t>
+        <xg>
+          <x>Soabadanráđis galget leat golbma miellahttu ja seamma ollu várrelahttut</x>
+          <xt>I forliksrådet skal det være tre medlemmer og like mange varamedlemmer</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -918,6 +951,10 @@
     <mg>
       <tg>
         <t pos="adv">både</t>
+        <xg>
+        <x>Dat lea sihke buorre ja heittot</x>
+        <xt>Det er både bra og dårlig</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -1079,6 +1116,16 @@
     <lg>
       <l pos="a">gaskaahkásaš</l>
     </lg>
+    <mg>
+      <tg>
+        <t pos="a">middelaldrende</t>
+        <t pos="a">oldboys</t>
+        <xg>
+          <x>Guorahallan ii muital, makkár eallindilli lea mánáin, nuorain ja gaskaahkásaš olbmuin</x>
+          <xt>Undersøkelsen forteller ikke jvilke levekår barn, unge og middelaldrende har</xt>
+        </xg>  
+      </tg>
+    </mg>
     <mg>
       <tg>
         <t pos="a">oldboys</t>
@@ -1508,16 +1555,6 @@
   </e>
   <e>
     <lg>
-      <l pos="a">Ruoŧa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">svensk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="a">sáttat</l>
     </lg>
     <mg>
@@ -1653,6 +1690,19 @@
     <mg>
       <tg>
         <t pos="cs">så</t>
+        <xg>
+          <x>Go bárdni bođii dálluii, de Øi lei áibbas galmmas.</x>
+          <xt>Da sønnen kom til gards, var Øi helt kald</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="cs">ja</t>
+        <xg>
+          <x>Jugatgo káfe? De jugan</x>
+          <xt>Driker d kaffe? Ja, takk</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -2318,11 +2368,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Áhkárvuotna</l>
+      <l pos="prop">Áhkárvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Akkarfjord</t>
+        <t pos="prop">Akkarfjord</t>
       </tg>
     </mg>
   </e>
@@ -2389,11 +2439,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Áhkkávággi</l>
+      <l pos="prop">Áhkkávággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kjerringdalen</t>
+        <t pos="prop">Kjerringdalen</t>
       </tg>
     </mg>
   </e>
@@ -2483,7 +2533,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">Trålerkomiteen</t>
+        <t pos="m">trålerkomitè</t>
       </tg>
     </mg>
   </e>
@@ -2539,11 +2589,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Áhtávuotna</l>
+      <l pos="prop">Áhtávuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Efjorden</t>
+        <t pos="prop">Efjorden</t>
       </tg>
     </mg>
   </e>
@@ -3084,11 +3134,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Áilu</l>
+      <l pos="prop">Áilu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Helgøya</t>
+        <t pos="prop">Helgøya</t>
       </tg>
     </mg>
   </e>
@@ -3154,11 +3204,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Áisejohka</l>
+      <l pos="prop">Áisejohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Andselv</t>
+        <t pos="prop">Andselv</t>
       </tg>
     </mg>
   </e>
@@ -3424,31 +3474,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ákšovuonbahta</l>
+      <l pos="prop">Ákšovuonbahta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Øksfjordbotn</t>
+        <t pos="prop">Øksfjordbotn</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ákšovuonvuopmi</l>
+      <l pos="prop">Ákšovuonvuopmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Oksfjorddalen</t>
+        <t pos="prop">Oksfjorddalen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ákšovuotna</l>
+      <l pos="prop">Ákšovuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Øksfjord</t>
+        <t pos="prop">Øksfjord</t>
       </tg>
     </mg>
   </e>
@@ -3672,7 +3722,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">Fremtredende form</t>
+        <t pos="f">fremtredelsesform</t>
       </tg>
     </mg>
   </e>
@@ -3879,21 +3929,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Álddajohka</l>
+      <l pos="prop">Álddajohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Meskelva</t>
+        <t pos="prop">Meskelva</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Álddanjárga</l>
+      <l pos="prop">Álddanjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Meskelv</t>
+        <t pos="prop">Meskelv</t>
       </tg>
     </mg>
   </e>
@@ -4270,11 +4320,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Alimusriekti</l>
+      <l pos="prop">Alimusriekti</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Høyesterett</t>
+        <t pos="prop">Høyesterett</t>
       </tg>
     </mg>
   </e>
@@ -4754,11 +4804,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Álpesuolu</l>
+      <l pos="prop">Álpesuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Altesula</t>
+        <t pos="prop">Altesula</t>
       </tg>
     </mg>
   </e>
@@ -5197,11 +5247,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Anár</l>
+      <l pos="prop">Anár</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Enare</t>
+        <t pos="prop">Enare</t>
       </tg>
     </mg>
   </e>
@@ -5247,11 +5297,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ánddasuolu</l>
+      <l pos="prop">Ánddasuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Andøy</t>
+        <t pos="prop">Andøy</t>
       </tg>
     </mg>
   </e>
@@ -5397,11 +5447,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ánnejohka</l>
+      <l pos="prop">Ánnejohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vestre Jakobselv</t>
+        <t pos="prop">Vestre Jakobselv</t>
       </tg>
     </mg>
   </e>
@@ -5747,11 +5797,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Áppošborri</l>
+      <l pos="prop">Áppošborri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Abelsborg</t>
+        <t pos="prop">Abelsborg</t>
       </tg>
     </mg>
   </e>
@@ -5767,11 +5817,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Áravuopmi</l>
+      <l pos="prop">Áravuopmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Vassdalen</t>
+        <t pos="prop">Vassdalen</t>
       </tg>
     </mg>
   </e>
@@ -6897,121 +6947,121 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Avvil</l>
+      <l pos="prop">Avvil</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Ivalo</t>
+        <t pos="prop">Ivalo</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Deatnu</l>
+      <l pos="prop">Deatnu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Tana</t>
+        <t pos="prop">Tana</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Gilbbesjávri</l>
+      <l pos="prop">Gilbbesjávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Kilpisjärvi</t>
+        <t pos="prop">Kilpisjärvi</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Girkonjárga</l>
+      <l pos="prop">Girkonjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Kirkenes</t>
+        <t pos="prop">Kirkenes</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Heahttá</l>
+      <l pos="prop">Heahttá</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Hetta</t>
+        <t pos="prop">Hetta</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Jiellevárri</l>
+      <l pos="prop">Jiellevárri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Gällivare</t>
+        <t pos="prop">Gällivare</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Johkamohkki</l>
+      <l pos="prop">Johkamohkki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Jokkmokk</t>
+        <t pos="prop">Jokkmokk</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Leavdnja</l>
+      <l pos="prop">Leavdnja</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Lakselv</t>
+        <t pos="prop">Lakselv</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Lujávri</l>
+      <l pos="prop">Lujávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Lovozero</t>
+        <t pos="prop">Lovozero</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Porsáŋgu</l>
+      <l pos="prop">Porsáŋgu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Porsanger</t>
+        <t pos="prop">Porsanger</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Skánit</l>
+      <l pos="prop">Skánit</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Skånland</t>
+        <t pos="prop">Skånland</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Várjjat</l>
+      <l pos="prop">Várjjat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Varanger</t>
+        <t pos="prop">Varanger</t>
       </tg>
     </mg>
   </e>
@@ -9135,21 +9185,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Átteváhki</l>
+      <l pos="prop">Átteváhki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Advik</t>
+        <t pos="prop">Advik</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Áttir</l>
+      <l pos="prop">Áttir</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Andørja</t>
+        <t pos="prop">Andørja</t>
       </tg>
     </mg>
   </e>
@@ -9375,11 +9425,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ávačuohttu</l>
+      <l pos="prop">Ávačuohttu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lille Tamsøya</t>
+        <t pos="prop">Lille Tamsøya</t>
       </tg>
     </mg>
   </e>
@@ -9600,7 +9650,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">AV-lager</t>
+        <t pos="n">AV-lager</t>
       </tg>
     </mg>
   </e>
@@ -9636,11 +9686,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ávva</l>
+      <l pos="prop">Ávva</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Havøya</t>
+        <t pos="prop">Havøya</t>
       </tg>
     </mg>
   </e>
@@ -10518,31 +10568,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Báhčaveadji</l>
+      <l pos="prop">Báhčaveadji</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Pasvik</t>
+        <t pos="prop">Pasvik</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Báhčaveaivuotna</l>
+      <l pos="prop">Báhčaveaivuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bøkfjord</t>
+        <t pos="prop">Bøkfjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Báhcavuotna</l>
+      <l pos="prop">Báhcavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Båtsfjord</t>
+        <t pos="prop">Båtsfjord</t>
       </tg>
     </mg>
   </e>
@@ -10558,11 +10608,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Báhccavuotna</l>
+      <l pos="prop">Báhccavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Balsfjord</t>
+        <t pos="prop">Balsfjord</t>
       </tg>
     </mg>
   </e>
@@ -10628,11 +10678,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Báhkavuotna</l>
+      <l pos="prop">Báhkavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bakfjord</t>
+        <t pos="prop">Bakfjord</t>
       </tg>
     </mg>
   </e>
@@ -11494,21 +11544,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Bálák</l>
+      <l pos="prop">Bálák</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ballangen</t>
+        <t pos="prop">Ballangen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Bálákvuovdi</l>
+      <l pos="prop">Bálákvuovdi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ballangsmark</t>
+        <t pos="prop">Ballangsmark</t>
       </tg>
     </mg>
   </e>
@@ -13364,11 +13414,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Báttár</l>
+      <l pos="prop">Báttár</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Baddern</t>
+        <t pos="prop">Baddern</t>
       </tg>
     </mg>
   </e>
@@ -13424,11 +13474,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Bávnnjajohka</l>
+      <l pos="prop">Bávnnjajohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bognelv</t>
+        <t pos="prop">Bognelv</t>
       </tg>
     </mg>
   </e>
@@ -13907,11 +13957,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Bealátjohka</l>
+      <l pos="prop">Bealátjohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hammerneselva</t>
+        <t pos="prop">Hammerneselva</t>
       </tg>
     </mg>
   </e>
@@ -14322,11 +14372,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Bearalváhki</l>
+      <l pos="prop">Bearalváhki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Berlevåg</t>
+        <t pos="prop">Berlevåg</t>
       </tg>
     </mg>
   </e>
@@ -14393,21 +14443,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Beardueatnu</l>
+      <l pos="prop">Beardueatnu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Barduelva</t>
+        <t pos="prop">Barduelva</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Beardu</l>
+      <l pos="prop">Beardu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bardu</t>
+        <t pos="prop">Bardu</t>
       </tg>
     </mg>
   </e>
@@ -14562,11 +14612,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Beaskevárri</l>
+      <l pos="prop">Beaskevárri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Peskfjellet</t>
+        <t pos="prop">Peskfjellet</t>
       </tg>
     </mg>
   </e>
@@ -14818,11 +14868,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Beavgohppi</l>
+      <l pos="prop">Beavgohppi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bevkop</t>
+        <t pos="prop">Bevkop</t>
       </tg>
     </mg>
   </e>
@@ -15594,11 +15644,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Biedjovággi</l>
+      <l pos="prop">Biedjovággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Biedjovággi</t>
+        <t pos="prop">Biedjovággi</t>
       </tg>
     </mg>
   </e>
@@ -15905,11 +15955,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Biergi</l>
+      <l pos="prop">Biergi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kiberg</t>
+        <t pos="prop">Kiberg</t>
       </tg>
     </mg>
   </e>
@@ -16076,21 +16126,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Biertavárri</l>
+      <l pos="prop">Biertavárri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Birtavarre</t>
+        <t pos="prop">Birtavarre</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Biesavuotna</l>
+      <l pos="prop">Biesavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Persfjord</t>
+        <t pos="prop">Persfjord</t>
       </tg>
     </mg>
   </e>
@@ -16116,11 +16166,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Bievák</l>
+      <l pos="prop">Bievák</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bø</t>
+        <t pos="prop">Bø</t>
       </tg>
     </mg>
   </e>
@@ -16380,11 +16430,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Bihpporčohkka</l>
+      <l pos="prop">Bihpporčohkka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Peppartind</t>
+        <t pos="prop">Peppartind</t>
       </tg>
     </mg>
   </e>
@@ -16930,11 +16980,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Bileahttavuovdin</l>
+      <l pos="prop">Bileahttavuovdin</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Billettsalg</t>
+        <t pos="prop">Billettsalg</t>
       </tg>
     </mg>
   </e>
@@ -17010,11 +17060,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Billájohka</l>
+      <l pos="prop">Billájohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Billefjordelv</t>
+        <t pos="prop">Billefjordelv</t>
       </tg>
     </mg>
   </e>
@@ -17240,11 +17290,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Birasgáhttendepartemeanta</l>
+      <l pos="prop">Birasgáhttendepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Miljøverndepartementet</t>
+        <t pos="prop">Miljøverndepartementet</t>
       </tg>
     </mg>
   </e>
@@ -17418,11 +17468,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Birgi</l>
+      <l pos="prop">Birgi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Berg</t>
+        <t pos="prop">Berg</t>
       </tg>
     </mg>
   </e>
@@ -17739,11 +17789,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Bissojohka</l>
+      <l pos="prop">Bissojohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Børselv</t>
+        <t pos="prop">Børselv</t>
       </tg>
     </mg>
   </e>
@@ -19050,11 +19100,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Boaresárku</l>
+      <l pos="prop">Boaresárku</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bergeby</t>
+        <t pos="prop">Bergeby</t>
       </tg>
     </mg>
   </e>
@@ -19064,7 +19114,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sirius</t>
+        <t pos="prop">Sirius</t>
       </tg>
     </mg>
   </e>
@@ -19226,11 +19276,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Boavva</l>
+      <l pos="prop">Boavva</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bogen</t>
+        <t pos="prop">Bogen</t>
       </tg>
     </mg>
   </e>
@@ -19396,11 +19446,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Boazodoalloláhka</l>
+      <l pos="prop">Boazodoalloláhka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Reindriftsloven</t>
+        <t pos="prop">Reindriftsloven</t>
       </tg>
     </mg>
   </e>
@@ -19410,7 +19460,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="m">rennæringslov</t>
+        <t pos="f">rennæringslov</t>
       </tg>
     </mg>
   </e>
@@ -19726,11 +19776,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Boazovuotna</l>
+      <l pos="prop">Boazovuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Reinfjord</t>
+        <t pos="prop">Reinfjord</t>
       </tg>
     </mg>
   </e>
@@ -20827,11 +20877,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Borsi</l>
+      <l pos="prop">Borsi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Porsa</t>
+        <t pos="prop">Porsa</t>
       </tg>
     </mg>
   </e>
@@ -22756,11 +22806,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Burgen</l>
+      <l pos="prop">Burgen</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vollan</t>
+        <t pos="prop">Vollan</t>
       </tg>
     </mg>
   </e>
@@ -22947,11 +22997,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Buvrovuotna</l>
+      <l pos="prop">Buvrovuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Burfjord</t>
+        <t pos="prop">Burfjord</t>
       </tg>
     </mg>
   </e>
@@ -23587,11 +23637,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čáhcegárnjárga</l>
+      <l pos="prop">Čáhcegárnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vidjenes</t>
+        <t pos="prop">Vidjenes</t>
       </tg>
     </mg>
   </e>
@@ -23797,11 +23847,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čáhcesuolu</l>
+      <l pos="prop">Čáhcesuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vadsø</t>
+        <t pos="prop">Vadsø</t>
       </tg>
     </mg>
   </e>
@@ -23851,7 +23901,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">CDI-boks</t>
+        <t pos="m">CDI-boks</t>
       </tg>
     </mg>
   </e>
@@ -24007,11 +24057,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čáhppesnjárga</l>
+      <l pos="prop">Čáhppesnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Svartnes</t>
+        <t pos="prop">Svartnes</t>
       </tg>
     </mg>
   </e>
@@ -24774,11 +24824,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čávkos</l>
+      <l pos="prop">Čávkos</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Oteren</t>
+        <t pos="prop">Oteren</t>
       </tg>
     </mg>
   </e>
@@ -24965,21 +25015,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ceavccageađgi</l>
+      <l pos="prop">Ceavccageađgi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Mortensnes</t>
+        <t pos="prop">Mortensnes</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Čeavetjávri</l>
+      <l pos="prop">Čeavetjávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sevettijärvi</t>
+        <t pos="prop">Sevettijärvi</t>
       </tg>
     </mg>
   </e>
@@ -25245,11 +25295,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čiekŋalvággi</l>
+      <l pos="prop">Čiekŋalvággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Signaldalen</t>
+        <t pos="prop">Signaldalen</t>
       </tg>
     </mg>
   </e>
@@ -25992,11 +26042,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čoahkkinortnegii</l>
+      <l pos="prop">Čoahkkinortnegii</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Til dagsorden</t>
+        <t pos="prop">Til dagsorden</t>
       </tg>
     </mg>
   </e>
@@ -26093,11 +26143,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čoalbmi</l>
+      <l pos="prop">Čoalbmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kjølmangen</t>
+        <t pos="prop">Kjølmangen</t>
       </tg>
     </mg>
   </e>
@@ -26460,11 +26510,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čohka-Láhttá</l>
+      <l pos="prop">Čohka-Láhttá</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Store Latøya</t>
+        <t pos="prop">Store Latøya</t>
       </tg>
     </mg>
   </e>
@@ -26520,11 +26570,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čohkkiras</l>
+      <l pos="prop">Čohkkiras</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Jukkasjärvi</t>
+        <t pos="prop">Jukkasjärvi</t>
       </tg>
     </mg>
   </e>
@@ -26645,21 +26695,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čorgaš</l>
+      <l pos="prop">Čorgaš</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordkinn</t>
+        <t pos="prop">Nordkinn</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Čorgašnjárga</l>
+      <l pos="prop">Čorgašnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordkinnhalvøya</t>
+        <t pos="prop">Nordkinnhalvøya</t>
       </tg>
     </mg>
   </e>
@@ -27136,11 +27186,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Cuokcavuotna</l>
+      <l pos="prop">Cuokcavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nuvsvåg</t>
+        <t pos="prop">Nuvsvåg</t>
       </tg>
     </mg>
   </e>
@@ -27256,11 +27306,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Čuolejávri</l>
+      <l pos="prop">Čuolejávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tjuolisjärvi</t>
+        <t pos="prop">Tjuolisjärvi</t>
       </tg>
     </mg>
   </e>
@@ -28058,11 +28108,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dáibaravuotna</l>
+      <l pos="prop">Dáibaravuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Mårøyfjord</t>
+        <t pos="prop">Mårøyfjord</t>
       </tg>
     </mg>
   </e>
@@ -28098,11 +28148,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dáigevuotna</l>
+      <l pos="prop">Dáigevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Dyfjord</t>
+        <t pos="prop">Dyfjord</t>
       </tg>
     </mg>
   </e>
@@ -28348,11 +28398,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dálmmát</l>
+      <l pos="prop">Dálmmát</l>
     </lg>
     <mg>
       <tg>
-        <t pos="f">Kjelmøya</t>
+        <t pos="prop">Kjelmøya</t>
       </tg>
     </mg>
   </e>
@@ -28808,11 +28858,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dárrosuolu</l>
+      <l pos="prop">Dárrosuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Norskholmen</t>
+        <t pos="prop">Norskholmen</t>
       </tg>
     </mg>
   </e>
@@ -29199,11 +29249,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dávggát</l>
+      <l pos="prop">Dávggát</l>
     </lg>
     <mg>
       <tg>
-        <t pos="f">Karlsvognen</t>
+        <t pos="prop">Karlsvogna</t>
         <xg>
           <x>Dávggat lea nástegovva</x>
         </xg>
@@ -29216,7 +29266,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">påkjenning</t>
+        <t pos="f">påkjenning</t>
       </tg>
     </mg>
   </e>
@@ -29312,11 +29362,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Davvimearra</l>
+      <l pos="prop">Davvimearra</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordsjøen</t>
+        <t pos="prop">Nordsjøen</t>
       </tg>
     </mg>
   </e>
@@ -29342,11 +29392,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dážagohppi</l>
+      <l pos="prop">Dážagohppi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Norskbukt</t>
+        <t pos="prop">Norskbukt</t>
       </tg>
     </mg>
   </e>
@@ -29602,11 +29652,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dearvvašvuođadepartemeanta</l>
+      <l pos="prop">Dearvvašvuođadepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Helsedepartementet</t>
+        <t pos="prop">Helsedepartementet</t>
       </tg>
     </mg>
   </e>
@@ -30329,11 +30379,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dielddanuorri</l>
+      <l pos="prop">Dielddanuorri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tjeldsund</t>
+        <t pos="prop">Tjeldsund</t>
       </tg>
     </mg>
   </e>
@@ -30419,21 +30469,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dieváideatnu</l>
+      <l pos="prop">Dieváideatnu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Divielva</t>
+        <t pos="prop">Divielva</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Dieváidvuovdi</l>
+      <l pos="prop">Dieváidvuovdi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Dividalen</t>
+        <t pos="prop">Dividalen</t>
       </tg>
     </mg>
   </e>
@@ -30769,7 +30819,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">EDB-konsulent</t>
+        <t pos="m">EDB-konsulent</t>
       </tg>
     </mg>
   </e>
@@ -30779,7 +30829,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">EDB-avdeling</t>
+        <t pos="f">EDB-avdeling</t>
       </tg>
     </mg>
   </e>
@@ -30789,7 +30839,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">dataskjerm</t>
+        <t pos="m">dataskjerm</t>
       </tg>
     </mg>
   </e>
@@ -31325,11 +31375,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Divrrák</l>
+      <l pos="prop">Divrrák</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Dyrøy</t>
+        <t pos="prop">Dyrøy</t>
       </tg>
     </mg>
   </e>
@@ -31345,11 +31395,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Divttasvuotna</l>
+      <l pos="prop">Divttasvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tysfjord</t>
+        <t pos="prop">Tysfjord</t>
       </tg>
     </mg>
   </e>
@@ -32745,11 +32795,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Donjevuotna</l>
+      <l pos="prop">Donjevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Mehamn</t>
+        <t pos="prop">Mehamn</t>
       </tg>
     </mg>
   </e>
@@ -32805,11 +32855,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Dorvonjárga</l>
+      <l pos="prop">Dorvonjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Dorvinjarga</t>
+        <t pos="prop">Dorvinjarga</t>
       </tg>
     </mg>
   </e>
@@ -33135,11 +33185,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Duikkášmuotki</l>
+      <l pos="prop">Duikkášmuotki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Alteidet</t>
+        <t pos="prop">Alteidet</t>
       </tg>
     </mg>
   </e>
@@ -33810,11 +33860,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Duorga</l>
+      <l pos="prop">Duorga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lenvikmarka</t>
+        <t pos="prop">Lenvikmarka</t>
       </tg>
     </mg>
   </e>
@@ -34160,11 +34210,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Duviika</l>
+      <l pos="prop">Duviika</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tovik</t>
+        <t pos="prop">Tovik</t>
       </tg>
     </mg>
   </e>
@@ -34191,20 +34241,21 @@
   <e>
     <lg>
       <l pos="n">dynámo</l>
-    </lg>
+    </lg>ell
     <mg>
-      <tg>
+igskogen
+<tg>
         <t pos="S">dynamo</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Eadjásuolu</l>
+      <l pos="prop">Eadjásuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Mannsholmen</t>
+        <t pos="prop">Mannsholmen</t>
       </tg>
     </mg>
   </e>
@@ -34270,21 +34321,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Eaibujohka</l>
+      <l pos="prop">Eaibujohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Eibyelv</t>
+        <t pos="prop">Eibyelv</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Eaibuvággi</l>
+      <l pos="prop">Eaibuvággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Eibydalen</t>
+        <t pos="prop">Eibydalen</t>
       </tg>
     </mg>
   </e>
@@ -34740,11 +34791,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">eallinfámolaš</l>
+      <l pos="a">eallinfámolaš</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">vital</t>
+        <t pos="a">vital</t>
       </tg>
     </mg>
   </e>
@@ -34754,7 +34805,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">livsløp</t>
+        <t pos="n">livsløp</t>
       </tg>
     </mg>
   </e>
@@ -34764,7 +34815,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">eksistensområde</t>
+        <t pos="n">eksistensområde</t>
       </tg>
     </mg>
   </e>
@@ -34774,7 +34825,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">livssynsorientering</t>
+        <t pos="f">livssynsorientering</t>
       </tg>
     </mg>
   </e>
@@ -34784,7 +34835,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">livssyn</t>
+        <t pos="n">livssyn</t>
       </tg>
     </mg>
   </e>
@@ -34794,7 +34845,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">livrente</t>
+        <t pos="f">livrente</t>
       </tg>
     </mg>
   </e>
@@ -34804,7 +34855,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">ressursgrunnlag</t>
+        <t pos="n">ressursgrunnlag</t>
       </tg>
     </mg>
   </e>
@@ -34814,12 +34865,12 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">levesett</t>
+        <t pos="n">levesett</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="S">livsstil</t>
+        <t pos="m">livsstil</t>
       </tg>
     </mg>
   </e>
@@ -34829,7 +34880,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">motivasjon</t>
+        <t pos="m">motivasjon</t>
       </tg>
     </mg>
   </e>
@@ -34909,7 +34960,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">ektefellepensjon</t>
+        <t pos="m">ektefellepensjon</t>
       </tg>
     </mg>
   </e>
@@ -34919,7 +34970,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">urskog</t>
+        <t pos="m">urskog</t>
       </tg>
     </mg>
   </e>
@@ -34949,7 +35000,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">enkeltfeste</t>
+        <t pos="n">enkeltfeste</t>
       </tg>
     </mg>
   </e>
@@ -34979,7 +35030,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">fradeling av jord</t>
+        <t pos="f">fradeling av jord</t>
       </tg>
     </mg>
   </e>
@@ -34989,12 +35040,12 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">gårdsplan</t>
+        <t pos="n">gårdsplan</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="S">terrengnivå</t>
+        <t pos="n">terrengnivå</t>
       </tg>
     </mg>
   </e>
@@ -35004,7 +35055,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">landskapslov</t>
+        <t pos="f">landskapslov</t>
       </tg>
     </mg>
   </e>
@@ -35014,7 +35065,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">terreng</t>
+        <t pos="n">terreng</t>
       </tg>
     </mg>
   </e>
@@ -35024,7 +35075,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">landskapsvernområde</t>
+        <t pos="n">landskapsvernområde</t>
       </tg>
     </mg>
   </e>
@@ -35034,7 +35085,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">landskyldinntekt</t>
+        <t pos="f">landskyldinntekt</t>
       </tg>
     </mg>
   </e>
@@ -35104,7 +35155,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">overflategrunneier</t>
+        <t pos="m">overflategrunneier</t>
       </tg>
     </mg>
   </e>
@@ -35114,7 +35165,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">jordoverflate</t>
+        <t pos="f">jordoverflate</t>
       </tg>
     </mg>
   </e>
@@ -35124,7 +35175,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">skjøteinnehaver</t>
+        <t pos="m">skjøteinnehaver</t>
       </tg>
     </mg>
   </e>
@@ -35134,7 +35185,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">skjøteformular</t>
+        <t pos="n">skjøteformular</t>
       </tg>
     </mg>
   </e>
@@ -35144,7 +35195,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">overskjøting</t>
+        <t pos="f">overskjøting</t>
       </tg>
     </mg>
   </e>
@@ -35154,7 +35205,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">besitter av grunn</t>
+        <t pos="m">oppsitter</t>
+        <t pos="m">grunneier</t>
       </tg>
     </mg>
   </e>
@@ -35204,7 +35256,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">jordskiftesogn</t>
+        <t pos="n">jordskiftesogn</t>
       </tg>
     </mg>
   </e>
@@ -35244,7 +35296,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">makeskifte</t>
+        <t pos="n">makeskifte</t>
       </tg>
     </mg>
   </e>
@@ -35264,7 +35316,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">landmåler utparsellering</t>
+        <t pos="m">landmåler</t>
+        <t pos="f">utparsellering</t>
       </tg>
     </mg>
   </e>
@@ -35304,7 +35357,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">matrikulering</t>
+        <t pos="f">matrikulering</t>
       </tg>
     </mg>
   </e>
@@ -35314,7 +35367,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">grunnforhold</t>
+        <t pos="n">grunnforhold</t>
       </tg>
     </mg>
   </e>
@@ -35324,7 +35377,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">bumann</t>
+        <t pos="m">bumann</t>
       </tg>
     </mg>
   </e>
@@ -35334,17 +35387,17 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">bureisningstiltak</t>
+        <t pos="n">bureisningstiltak</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Eanandoallodepartemeanta</l>
+      <l pos="prop">Eanandoallodepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Landbruksdepartementet</t>
+        <t pos="prop">Landbruksdepartementet</t>
       </tg>
     </mg>
   </e>
@@ -35364,7 +35417,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">landbruksformål</t>
+        <t pos="n">landbruksformål</t>
       </tg>
     </mg>
   </e>
@@ -35384,7 +35437,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">arealkrevende</t>
+        <t pos="a">arealkrevende</t>
       </tg>
     </mg>
   </e>
@@ -35424,7 +35477,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">peanøtt</t>
+        <t pos="f">peanøtt</t>
       </tg>
     </mg>
   </e>
@@ -35434,7 +35487,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">prøveflate</t>
+        <t pos="f">prøveflate</t>
       </tg>
     </mg>
   </e>
@@ -35444,7 +35497,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">skylddeling</t>
+        <t pos="f">skylddeling</t>
       </tg>
     </mg>
   </e>
@@ -35454,7 +35507,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">delingsloven</t>
+        <t pos="f">delingslov</t>
       </tg>
     </mg>
   </e>
@@ -35464,7 +35517,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">eiendomskart</t>
+        <t pos="n">eiendomskart</t>
       </tg>
     </mg>
   </e>
@@ -35474,7 +35527,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">bygselseddel</t>
+        <t pos="m">bygselseddel</t>
       </tg>
     </mg>
   </e>
@@ -35484,7 +35537,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">bygsel</t>
+        <t pos="m">bygsel</t>
       </tg>
     </mg>
   </e>
@@ -35494,7 +35547,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">festenummer</t>
+        <t pos="n">festenummer</t>
       </tg>
     </mg>
   </e>
@@ -35504,7 +35557,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">festekontrakt</t>
+        <t pos="f">festekontrakt</t>
       </tg>
     </mg>
   </e>
@@ -35514,7 +35567,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">sammenføyning</t>
+        <t pos="f">sammenføyning</t>
       </tg>
     </mg>
   </e>
@@ -35524,7 +35577,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">jordveg</t>
+        <t pos="m">jordveg</t>
       </tg>
     </mg>
   </e>
@@ -35544,7 +35597,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">landpattedyr</t>
+        <t pos="n">landpattedyr</t>
       </tg>
     </mg>
   </e>
@@ -35554,7 +35607,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">skjøte</t>
+        <t pos="n">skjøte</t>
       </tg>
     </mg>
   </e>
@@ -35574,7 +35627,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">utmålsprotokoll</t>
+        <t pos="m">utmålsprotokoll</t>
       </tg>
     </mg>
   </e>
@@ -35584,7 +35637,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">grunnboksblad</t>
+        <t pos="n">grunnboksblad</t>
       </tg>
     </mg>
   </e>
@@ -35614,7 +35667,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">jordsalgskontor</t>
+        <t pos="n">jordsalgskontor</t>
       </tg>
     </mg>
   </e>
@@ -35624,7 +35677,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">parsell</t>
+        <t pos="m">parsell</t>
       </tg>
     </mg>
   </e>
@@ -35674,7 +35727,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">landnåm</t>
+        <t pos="n">landnåm</t>
       </tg>
     </mg>
   </e>
@@ -35684,7 +35737,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">flertallsinnstilling</t>
+        <t pos="f">flertallsinnstilling</t>
       </tg>
     </mg>
   </e>
@@ -35694,7 +35747,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">flertallsvedtak</t>
+        <t pos="n">flertallsvedtak</t>
       </tg>
     </mg>
   </e>
@@ -35704,7 +35757,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">flertallsavgjørelse</t>
+        <t pos="m">flertallsavgjørelse</t>
       </tg>
     </mg>
   </e>
@@ -35714,7 +35767,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">flertallsvalg</t>
+        <t pos="n">flertallsvalg</t>
       </tg>
     </mg>
   </e>
@@ -35724,7 +35777,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">flertall</t>
+        <t pos="n">flertall</t>
       </tg>
     </mg>
   </e>
@@ -35734,7 +35787,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">enkelbillett</t>
+        <t pos="m">enkelbillett</t>
       </tg>
     </mg>
   </e>
@@ -35744,7 +35797,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">enkeltbruk</t>
+        <t pos="n">enkeltbruk</t>
       </tg>
     </mg>
   </e>
@@ -35754,7 +35807,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">enkeltrom</t>
+        <t pos="n">enkeltrom</t>
       </tg>
     </mg>
   </e>
@@ -35764,7 +35817,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">EAN-merking</t>
+        <t pos="f">EAN-merking</t>
       </tg>
     </mg>
   </e>
@@ -35774,7 +35827,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">jordbunn</t>
+        <t pos="m">jordbunn</t>
       </tg>
     </mg>
   </e>
@@ -35784,7 +35837,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kjerneutstikker</t>
+        <t pos="m">kjerneutstikker</t>
       </tg>
     </mg>
   </e>
@@ -35794,7 +35847,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">særegenhet</t>
+        <t pos="f">særegenhet</t>
       </tg>
     </mg>
   </e>
@@ -35804,7 +35857,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">avføringsmiddel</t>
+        <t pos="n">avføringsmiddel</t>
       </tg>
     </mg>
   </e>
@@ -35814,17 +35867,17 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">erkebispesete</t>
+        <t pos="n">erkebispesete</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Earnjoaski</l>
+      <l pos="prop">Earnjoaski</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Erdal</t>
+        <t pos="prop">Erdal</t>
       </tg>
     </mg>
   </e>
@@ -35834,7 +35887,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">avskjedsstund</t>
+        <t pos="f">avskjedsstund</t>
       </tg>
     </mg>
   </e>
@@ -35844,7 +35897,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">skilsmisse</t>
+        <t pos="f">skilsmisse</t>
       </tg>
     </mg>
   </e>
@@ -35854,7 +35907,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kvoteregulering</t>
+        <t pos="f">kvoteregulering</t>
       </tg>
     </mg>
   </e>
@@ -35864,7 +35917,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">ertepose</t>
+        <t pos="m">ertepose</t>
       </tg>
     </mg>
   </e>
@@ -35874,7 +35927,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">ert</t>
+        <t pos="f">ert</t>
       </tg>
     </mg>
   </e>
@@ -35884,7 +35937,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">skillekonstruksjon</t>
+        <t pos="m">skillekonstruksjon</t>
       </tg>
     </mg>
   </e>
@@ -35894,7 +35947,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">skille</t>
+        <t pos="n">skille</t>
       </tg>
     </mg>
   </e>
@@ -35904,7 +35957,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">ås på fiskehjell</t>
+        <t pos="m">fiskehjellsås</t>
       </tg>
     </mg>
   </e>
@@ -35914,7 +35967,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">prevensjon</t>
+        <t pos="m">prevensjon</t>
       </tg>
     </mg>
   </e>
@@ -35924,7 +35977,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">hinderbane</t>
+        <t pos="m">hinderbane</t>
       </tg>
     </mg>
   </e>
@@ -35964,7 +36017,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">underjordsdrift</t>
+        <t pos="f">underjordsdrift</t>
       </tg>
     </mg>
   </e>
@@ -35974,7 +36027,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">underjordisk parkeringshus</t>
+        <t pos="n">underjordisk parkeringshus</t>
       </tg>
     </mg>
   </e>
@@ -35984,7 +36037,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">morsmål</t>
+        <t pos="n">morsmål</t>
       </tg>
     </mg>
   </e>
@@ -35994,7 +36047,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">fjellsyre</t>
+        <t pos="f">fjellsyre</t>
       </tg>
     </mg>
   </e>
@@ -36004,7 +36057,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">eple</t>
+        <t pos="n">eple</t>
       </tg>
     </mg>
   </e>
@@ -36014,27 +36067,27 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">eddik</t>
+        <t pos="m">eddik</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">EDG-kantuvra</l>
+      <l pos="prop">EDG-kantuvra</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">EDB-kontor</t>
+        <t pos="prop">EDB-kontor</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">EDG-latnja</l>
+      <l pos="prop">EDG-latnja</l>
     </lg>
     <mg>
       <tg>
-        <t pos="n">EDB-rom</t>
+        <t pos="prop">EDB-rom</t>
       </tg>
     </mg>
   </e>
@@ -36044,7 +36097,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">editor</t>
+        <t pos="m">editor</t>
       </tg>
     </mg>
   </e>
@@ -36610,11 +36663,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Enodat</l>
+      <l pos="prop">Enodat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Enontekiö</t>
+        <t pos="prop">Enontekiö</t>
       </tg>
     </mg>
   </e>
@@ -37125,11 +37178,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Eurohpáluodda</l>
+      <l pos="prop">Eurohpáluodda</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Europaveg</t>
+        <t pos="prop">Europaveg</t>
       </tg>
     </mg>
   </e>
@@ -37145,11 +37198,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Evenášši</l>
+      <l pos="prop">Evenášši</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Evenes</t>
+        <t pos="prop">Evenes</t>
       </tg>
     </mg>
   </e>
@@ -37480,11 +37533,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Fálá</l>
+      <l pos="prop">Fálá</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kvaløya</t>
+        <t pos="prop">Kvaløya</t>
       </tg>
     </mg>
   </e>
@@ -38358,11 +38411,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Fielvuotna</l>
+      <l pos="prop">Fielvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Korsfjord</t>
+        <t pos="prop">Korsfjord</t>
       </tg>
     </mg>
   </e>
@@ -38998,21 +39051,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Finnmárku</l>
+      <l pos="prop">Finnmárku</l>
     </lg>
     <mg>
       <tg>
-        <t pos="f">Finnmark</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">fironat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">rørere</t>
+        <t pos="prop">Finnmark</t>
       </tg>
     </mg>
   </e>
@@ -39078,11 +39121,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Fiškonjárga</l>
+      <l pos="prop">Fiškonjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Fiskenes</t>
+        <t pos="prop">Fiskenes</t>
       </tg>
     </mg>
   </e>
@@ -39539,11 +39582,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Frostadiggeláhka</l>
+      <l pos="prop">Frostadiggeláhka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Frostatingslov</t>
+        <t pos="prop">Frostatingslov</t>
       </tg>
     </mg>
   </e>
@@ -39639,11 +39682,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Fuoitnjárga</l>
+      <l pos="prop">Fuoitnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bunes</t>
+        <t pos="prop">Bunes</t>
       </tg>
     </mg>
   </e>
@@ -40004,11 +40047,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gádde-Iččát</l>
+      <l pos="prop">Gádde-Iččát</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Rolvsøy</t>
+        <t pos="prop">Rolvsøy</t>
       </tg>
     </mg>
   </e>
@@ -40354,11 +40397,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gahpervággi</l>
+      <l pos="prop">Gahpervággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kaperdalen</t>
+        <t pos="prop">Kaperdalen</t>
       </tg>
     </mg>
   </e>
@@ -40374,11 +40417,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gahpirvuotna</l>
+      <l pos="prop">Gahpirvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kipparfjord</t>
+        <t pos="prop">Kipparfjord</t>
       </tg>
     </mg>
   </e>
@@ -40694,11 +40737,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gáivuotna</l>
+      <l pos="prop">Gáivuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kåfjord</t>
+        <t pos="prop">Kåfjord</t>
       </tg>
     </mg>
   </e>
@@ -40724,11 +40767,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gálbi</l>
+      <l pos="prop">Gálbi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Loppkalven</t>
+        <t pos="prop">Loppkalven</t>
       </tg>
     </mg>
   </e>
@@ -40799,11 +40842,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gáldu</l>
+      <l pos="prop">Gáldu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kjeldebotn</t>
+        <t pos="prop">Kjeldebotn</t>
       </tg>
     </mg>
   </e>
@@ -40819,11 +40862,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gálggašluokta</l>
+      <l pos="prop">Gálggašluokta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sandvik</t>
+        <t pos="prop">Sandvik</t>
       </tg>
     </mg>
   </e>
@@ -40969,11 +41012,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gállojohka</l>
+      <l pos="prop">Gállojohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Skallelv</t>
+        <t pos="prop">Skallelv</t>
       </tg>
     </mg>
   </e>
@@ -41029,11 +41072,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gálsa</l>
+      <l pos="prop">Gálsa</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Karlsøy</t>
+        <t pos="prop">Karlsøy</t>
       </tg>
     </mg>
   </e>
@@ -41294,11 +41337,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gáŋgaviika</l>
+      <l pos="prop">Gáŋgaviika</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Gamvik</t>
+        <t pos="prop">Gamvik</t>
       </tg>
     </mg>
   </e>
@@ -41354,11 +41397,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gáranasvuotna</l>
+      <l pos="prop">Gáranasvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ramfjord</t>
+        <t pos="prop">Ramfjord</t>
       </tg>
     </mg>
   </e>
@@ -41374,11 +41417,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gárasavvon</l>
+      <l pos="prop">Gárasavvon</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Karesuando</t>
+        <t pos="prop">Karesuando</t>
       </tg>
     </mg>
   </e>
@@ -41494,11 +41537,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gárgiáávži</l>
+      <l pos="prop">Gárgiáávži</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Gargiadalen</t>
+        <t pos="prop">Gargiadalen</t>
       </tg>
     </mg>
   </e>
@@ -41544,11 +41587,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gárnjárga</l>
+      <l pos="prop">Gárnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Karnes</t>
+        <t pos="prop">Karnes</t>
       </tg>
     </mg>
   </e>
@@ -42259,11 +42302,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gávkevuotna</l>
+      <l pos="prop">Gávkevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kåfjord</t>
+        <t pos="prop">Kåfjord</t>
       </tg>
     </mg>
   </e>
@@ -42629,11 +42672,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gávvalváhki</l>
+      <l pos="prop">Gávvalváhki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kabelvåg</t>
+        <t pos="prop">Kabelvåg</t>
       </tg>
     </mg>
   </e>
@@ -42649,11 +42692,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gávvir</l>
+      <l pos="prop">Gávvir</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kågen</t>
+        <t pos="prop">Kågen</t>
       </tg>
     </mg>
   </e>
@@ -44564,31 +44607,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Giehtavuotna</l>
+      <l pos="prop">Giehtavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kvæfjord</t>
+        <t pos="prop">Kvæfjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Gielas</l>
+      <l pos="prop">Gielas</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kjølen</t>
+        <t pos="prop">Kjølen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Gielda</l>
+      <l pos="prop">Gielda</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kildin</t>
+        <t pos="prop">Kildin</t>
       </tg>
     </mg>
   </e>
@@ -44844,11 +44887,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Giepma</l>
+      <l pos="prop">Giepma</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kemi</t>
+        <t pos="prop">Kemi</t>
       </tg>
     </mg>
   </e>
@@ -45979,21 +46022,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Goahtečorru</l>
+      <l pos="prop">Goahtečorru</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Breivikbotn</t>
+        <t pos="prop">Breivikbotn</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Goahtejávri</l>
+      <l pos="prop">Goahtejávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kotajärvi</t>
+        <t pos="prop">Kotajärvi</t>
       </tg>
     </mg>
   </e>
@@ -46009,11 +46052,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Goahtesullot</l>
+      <l pos="prop">Goahtesullot</l>
     </lg>
     <mg>
       <tg>
-        <t pos="f">Klokkerøy</t>
+        <t pos="prop">Klokkerøya</t>
       </tg>
     </mg>
   </e>
@@ -46239,11 +46282,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Goaskinvággi</l>
+      <l pos="prop">Goaskinvággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kjelvik</t>
+        <t pos="prop">Kjelvik</t>
       </tg>
     </mg>
   </e>
@@ -46624,11 +46667,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gohppi</l>
+      <l pos="prop">Gohppi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bukta</t>
+        <t pos="prop">Bukta</t>
       </tg>
     </mg>
   </e>
@@ -46794,11 +46837,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Golbmalohnjárga</l>
+      <l pos="prop">Golbmalohnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Trevikneset</t>
+        <t pos="prop">Trevikneset</t>
       </tg>
     </mg>
   </e>
@@ -46924,11 +46967,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Gollesuolu</l>
+      <l pos="prop">Gollesuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Gullholmen</t>
+        <t pos="prop">Gullholmen</t>
       </tg>
     </mg>
   </e>
@@ -47939,11 +47982,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guhkesnjárga</l>
+      <l pos="prop">Guhkesnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Langnes</t>
+        <t pos="prop">Langnes</t>
       </tg>
     </mg>
   </e>
@@ -48069,11 +48112,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guitanas</l>
+      <l pos="prop">Guitanas</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kvitnes</t>
+        <t pos="prop">Kvitnes</t>
       </tg>
     </mg>
   </e>
@@ -48089,11 +48132,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guladiggeláhka</l>
+      <l pos="prop">Guladiggeláhka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="f">Gulatingslov</t>
+        <t pos="prop">Gulatingslova</t>
       </tg>
     </mg>
   </e>
@@ -48489,31 +48532,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guohcamohkki</l>
+      <l pos="prop">Guohcamohkki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Breidvika</t>
+        <t pos="prop">Breidvika</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Guohcanuorri</l>
+      <l pos="prop">Guohcanuorri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Rotsund</t>
+        <t pos="prop">Rotsund</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Guohcavuopmi</l>
+      <l pos="prop">Guohcavuopmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Breivikeidet</t>
+        <t pos="prop">Breivikeidet</t>
       </tg>
     </mg>
   </e>
@@ -48684,11 +48727,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guolástusdepartemeanta</l>
+      <l pos="prop">Guolástusdepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Fiskeridepartementet</t>
+        <t pos="prop">Fiskeridepartementet</t>
       </tg>
     </mg>
   </e>
@@ -49124,21 +49167,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guolleveadji</l>
+      <l pos="prop">Guolleveadji</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Braselv</t>
+        <t pos="prop">Braselv</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Guonnegieddi</l>
+      <l pos="prop">Guonnegieddi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Valan, indre</t>
+        <t pos="prop">Valan, indre</t>
       </tg>
     </mg>
   </e>
@@ -49404,11 +49447,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guovdageaidnu</l>
+      <l pos="prop">Guovdageaidnu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kautokeino</t>
+        <t pos="prop">Kautokeino</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="prop">Troandin</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Trondheim</t>
       </tg>
     </mg>
   </e>
@@ -49874,11 +49927,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guovžajávri</l>
+      <l pos="prop">Guovžajávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bjørnevatn</t>
+        <t pos="prop">Bjørnevatn</t>
       </tg>
     </mg>
   </e>
@@ -50079,11 +50132,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Guvžajávri</l>
+      <l pos="prop">Guvžajávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bjørnevatnet</t>
+        <t pos="prop">Bjørnevatnet</t>
       </tg>
     </mg>
   </e>
@@ -50174,11 +50227,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Hábmer</l>
+      <l pos="prop">Hábmer</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hamarøy</t>
+        <t pos="prop">Hamarøy</t>
       </tg>
     </mg>
   </e>
@@ -50724,11 +50777,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Hánssagieddi</l>
+      <l pos="prop">Hánssagieddi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hansjord</t>
+        <t pos="prop">Hansjord</t>
       </tg>
     </mg>
   </e>
@@ -50784,11 +50837,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Hardangerfanas</l>
+      <l pos="prop">Hardangerfanas</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hardangerjekte</t>
+        <t pos="prop">Hardangerjekte</t>
       </tg>
     </mg>
   </e>
@@ -50879,11 +50932,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Hárrejohka</l>
+      <l pos="prop">Hárrejohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Harrelv</t>
+        <t pos="prop">Harrelv</t>
       </tg>
     </mg>
   </e>
@@ -51259,11 +51312,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Heallonjárga</l>
+      <l pos="prop">Heallonjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Fjelldal</t>
+        <t pos="prop">Fjelldal</t>
       </tg>
     </mg>
   </e>
@@ -51309,11 +51362,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Hearráriekti</l>
+      <l pos="prop">Hearráriekti</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Herredag</t>
+        <t pos="prop">Herredag</t>
       </tg>
     </mg>
   </e>
@@ -51394,11 +51447,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Heavošguoika</l>
+      <l pos="prop">Heavošguoika</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hestefoss</t>
+        <t pos="prop">Hestefoss</t>
       </tg>
     </mg>
   </e>
@@ -51709,11 +51762,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Hilssát</l>
+      <l pos="prop">Hilssát</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hillesøy</t>
+        <t pos="prop">Hillesøy</t>
       </tg>
     </mg>
   </e>
@@ -52324,11 +52377,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Iččát</l>
+      <l pos="prop">Iččát</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ingøy</t>
+        <t pos="prop">Ingøy</t>
       </tg>
     </mg>
   </e>
@@ -52414,11 +52467,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Idjavuonduottar</l>
+      <l pos="prop">Idjavuonduottar</l>
     </lg>
     <mg>
       <tg>
-        <t pos="n">Ifjordfjellet</t>
+        <t pos="prop">Ifjordfjellet</t>
       </tg>
     </mg>
   </e>
@@ -52794,21 +52847,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Iggavuotna</l>
+      <l pos="prop">Iggavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kaldfjorden</t>
+        <t pos="prop">Kaldfjorden</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ihkkot</l>
+      <l pos="prop">Ihkkot</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Store Ekkerøy</t>
+        <t pos="prop">Store Ekkerøy</t>
       </tg>
     </mg>
   </e>
@@ -52824,21 +52877,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Iidna</l>
+      <l pos="prop">Iidna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hinnøya</t>
+        <t pos="prop">Hinnøya</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Iinnasuolu</l>
+      <l pos="prop">Iinnasuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hinnøya</t>
+        <t pos="prop">Hinnøya</t>
       </tg>
     </mg>
   </e>
@@ -52854,11 +52907,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ijávri</l>
+      <l pos="prop">Ijávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ijärvi</t>
+        <t pos="prop">Ijärvi</t>
       </tg>
     </mg>
   </e>
@@ -53174,11 +53227,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Iŋggášguolbba</l>
+      <l pos="prop">Iŋggášguolbba</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Porsangermoen</t>
+        <t pos="prop">Porsangermoen</t>
       </tg>
     </mg>
   </e>
@@ -53414,21 +53467,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Irevuotna</l>
+      <l pos="prop">Irevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tufjord</t>
+        <t pos="prop">Tufjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Irgevuotna</l>
+      <l pos="prop">Irgevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Friarfjorden</t>
+        <t pos="prop">Friarfjorden</t>
       </tg>
     </mg>
   </e>
@@ -53524,31 +53577,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Islánda</l>
+      <l pos="prop">Islánda</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Island</t>
+        <t pos="prop">Island</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ittarvuotna</l>
+      <l pos="prop">Ittarvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lenangen</t>
+        <t pos="prop">Lenangen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ittunjárga</l>
+      <l pos="prop">Ittunjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lyngenhalvøya</t>
+        <t pos="prop">Lyngenhalvøya</t>
       </tg>
     </mg>
   </e>
@@ -53774,51 +53827,51 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ivgubahta</l>
+      <l pos="prop">Ivgubahta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Skibotn</t>
+        <t pos="prop">Skibotn</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ivgu</l>
+      <l pos="prop">Ivgu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lyngen</t>
+        <t pos="prop">Lyngen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ivgumuotki</l>
+      <l pos="prop">Ivgumuotki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lyngseidet</t>
+        <t pos="prop">Lyngseidet</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ivguvuotna</l>
+      <l pos="prop">Ivguvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lyngenfjord</t>
+        <t pos="prop">Lyngenfjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ivvárjohka</l>
+      <l pos="prop">Ivvárjohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ivvarjok</t>
+        <t pos="prop">Ivvarjok</t>
       </tg>
     </mg>
   </e>
@@ -54084,31 +54137,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Jáhkogohppi</l>
+      <l pos="prop">Jáhkogohppi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kårhamn</t>
+        <t pos="prop">Kårhamn</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Jáhkotnjárga</l>
+      <l pos="prop">Jáhkotnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Malangshalvøya</t>
+        <t pos="prop">Malangshalvøya</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Jáhkovuotna</l>
+      <l pos="prop">Jáhkovuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Revsbotn</t>
+        <t pos="prop">Revsbotn</t>
       </tg>
     </mg>
   </e>
@@ -54344,11 +54397,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Jávregáddi</l>
+      <l pos="prop">Jávregáddi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kjønna</t>
+        <t pos="prop">Kjønna</t>
       </tg>
     </mg>
   </e>
@@ -54524,11 +54577,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Jiekŋamearra</l>
+      <l pos="prop">Jiekŋamearra</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordishavet</t>
+        <t pos="prop">Nordishavet</t>
       </tg>
     </mg>
   </e>
@@ -54874,11 +54927,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Jietnagirji</l>
+      <l pos="prop">Jietnagirji</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Den talende bok</t>
+        <t pos="prop">Den talende bok</t>
       </tg>
     </mg>
   </e>
@@ -54914,11 +54967,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Joahkku</l>
+      <l pos="prop">Joahkku</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Stjernsund</t>
+        <t pos="prop">Stjernsund</t>
       </tg>
     </mg>
   </e>
@@ -55329,11 +55382,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Joganjálbmi</l>
+      <l pos="prop">Joganjálbmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Elvebakken</t>
+        <t pos="prop">Elvebakken</t>
       </tg>
     </mg>
   </e>
@@ -55369,31 +55422,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Johka</l>
+      <l pos="prop">Johka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bergsfjord</t>
+        <t pos="prop">Bergsfjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Johkangeahči</l>
+      <l pos="prop">Johkangeahči</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Digermulen</t>
+        <t pos="prop">Digermulen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Johkanjárga</l>
+      <l pos="prop">Johkanjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Elvenes</t>
+        <t pos="prop">Elvenes</t>
       </tg>
     </mg>
   </e>
@@ -55459,11 +55512,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Johtalusdepartemeanta</l>
+      <l pos="prop">Johtalusdepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Samferdselsdepartementet</t>
+        <t pos="prop">Samferdselsdepartementet</t>
       </tg>
     </mg>
   </e>
@@ -56314,11 +56367,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Jovnnanjárga</l>
+      <l pos="prop">Jovnnanjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Jonsnes</t>
+        <t pos="prop">Jonsnes</t>
       </tg>
     </mg>
   </e>
@@ -56985,11 +57038,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Juvravuonna</l>
+      <l pos="prop">Juvravuonna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Gandvik</t>
+        <t pos="prop">Gandvik</t>
       </tg>
     </mg>
   </e>
@@ -57255,21 +57308,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Karamearra</l>
+      <l pos="prop">Karamearra</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Karahavet</t>
+        <t pos="prop">Karahavet</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Kárášjohka</l>
+      <l pos="prop">Kárášjohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Karasjok</t>
+        <t pos="prop">Karasjok</t>
       </tg>
     </mg>
   </e>
@@ -57615,11 +57668,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Keaisváhki</l>
+      <l pos="prop">Keaisváhki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Gjesvær</t>
+        <t pos="prop">Gjesvær</t>
       </tg>
     </mg>
   </e>
@@ -59315,21 +59368,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ladnečoalbmi</l>
+      <l pos="prop">Ladnečoalbmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bussesund</t>
+        <t pos="prop">Bussesund</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ladnesuolu</l>
+      <l pos="prop">Ladnesuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">≈røya</t>
+        <t pos="prop">≈røya</t>
       </tg>
     </mg>
   </e>
@@ -59515,11 +59568,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Lággu</l>
+      <l pos="prop">Lággu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Laggo</t>
+        <t pos="prop">Laggo</t>
       </tg>
     </mg>
   </e>
@@ -59629,7 +59682,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">Guds gave</t>
+        <t pos="prop">Guds gave</t>
       </tg>
     </mg>
   </e>
@@ -59925,11 +59978,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Láhppi</l>
+      <l pos="prop">Láhppi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Loppa</t>
+        <t pos="prop">Loppa</t>
       </tg>
     </mg>
   </e>
@@ -60380,11 +60433,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Lákkovuotna</l>
+      <l pos="prop">Lákkovuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Langfjorden</t>
+        <t pos="prop">Langfjorden</t>
       </tg>
     </mg>
   </e>
@@ -61491,21 +61544,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Lavttejohka</l>
+      <l pos="prop">Lavttejohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Brennelva</t>
+        <t pos="prop">Brennelva</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Lavttevuotna</l>
+      <l pos="prop">Lavttevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vesterbotn</t>
+        <t pos="prop">Vesterbotn</t>
       </tg>
     </mg>
   </e>
@@ -61531,11 +61584,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Lávvonjárga</l>
+      <l pos="prop">Lávvonjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Teltnes</t>
+        <t pos="prop">Teltnes</t>
       </tg>
     </mg>
   </e>
@@ -61561,11 +61614,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Lávželuokta</l>
+      <l pos="prop">Lávželuokta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Rypefjord</t>
+        <t pos="prop">Rypefjord</t>
       </tg>
     </mg>
   </e>
@@ -61646,11 +61699,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Leaibbášvággi</l>
+      <l pos="prop">Leaibbášvággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Oldervik</t>
+        <t pos="prop">Oldervik</t>
       </tg>
     </mg>
   </e>
@@ -61676,21 +61729,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Leaibevuopmi</l>
+      <l pos="prop">Leaibevuopmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Oldereidnes</t>
+        <t pos="prop">Oldereidnes</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Leaibevuotna</l>
+      <l pos="prop">Leaibevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Olderfjord</t>
+        <t pos="prop">Olderfjord</t>
       </tg>
     </mg>
   </e>
@@ -61767,11 +61820,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Leaŋgáviika</l>
+      <l pos="prop">Leaŋgáviika</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lenvik</t>
+        <t pos="prop">Lenvik</t>
       </tg>
     </mg>
   </e>
@@ -62838,7 +62891,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">Biegenskap</t>
+        <t pos="n">biegenskap</t>
       </tg>
     </mg>
   </e>
@@ -63134,11 +63187,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Loabák</l>
+      <l pos="prop">Loabák</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lavangen</t>
+        <t pos="prop">Lavangen</t>
       </tg>
     </mg>
   </e>
@@ -63519,11 +63572,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Loddejávri</l>
+      <l pos="prop">Loddejávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Fuglevatn</t>
+        <t pos="prop">Fuglevatn</t>
       </tg>
     </mg>
   </e>
@@ -63549,11 +63602,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Lodegat</l>
+      <l pos="prop">Lodegat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lødingen</t>
+        <t pos="prop">Lødingen</t>
       </tg>
     </mg>
   </e>
@@ -65739,21 +65792,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Máhkarainuorri</l>
+      <l pos="prop">Máhkarainuorri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Magerøysundet</t>
+        <t pos="prop">Magerøysundet</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Máhkarávju</l>
+      <l pos="prop">Máhkarávju</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Magerøya</t>
+        <t pos="prop">Magerøya</t>
       </tg>
     </mg>
   </e>
@@ -66109,11 +66162,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Máksin</l>
+      <l pos="prop">Máksin</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kasse</t>
+        <t pos="prop">Kasse</t>
       </tg>
     </mg>
   </e>
@@ -66139,21 +66192,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Málatvuopmi</l>
+      <l pos="prop">Málatvuopmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Målselv</t>
+        <t pos="prop">Målselv</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Málatvuotna</l>
+      <l pos="prop">Málatvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Malangen</t>
+        <t pos="prop">Malangen</t>
       </tg>
     </mg>
   </e>
@@ -67054,21 +67107,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Márnuorri</l>
+      <l pos="prop">Márnuorri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Maursund</t>
+        <t pos="prop">Maursund</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Márregohppi</l>
+      <l pos="prop">Márregohppi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sørvær</t>
+        <t pos="prop">Sørvær</t>
       </tg>
     </mg>
   </e>
@@ -67334,11 +67387,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Mátta-Várjjat</l>
+      <l pos="prop">Mátta-Várjjat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sørvaranger</t>
+        <t pos="prop">Sørvaranger</t>
       </tg>
     </mg>
   </e>
@@ -67845,21 +67898,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Mearrabađaluokta</l>
+      <l pos="prop">Mearrabađaluokta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bottenviken</t>
+        <t pos="prop">Bottenviken</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Mearrabahta</l>
+      <l pos="prop">Mearrabahta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bottenhavet</t>
+        <t pos="prop">Bottenhavet</t>
       </tg>
     </mg>
   </e>
@@ -68095,11 +68148,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Meavki</l>
+      <l pos="prop">Meavki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Mauken</t>
+        <t pos="prop">Mauken</t>
       </tg>
     </mg>
   </e>
@@ -68505,11 +68558,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Miehtagohppi</l>
+      <l pos="prop">Miehtagohppi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Mevika</t>
+        <t pos="prop">Mevika</t>
       </tg>
     </mg>
   </e>
@@ -68821,11 +68874,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Miennavuotna</l>
+      <l pos="prop">Miennavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Risfjord</t>
+        <t pos="prop">Risfjord</t>
       </tg>
     </mg>
   </e>
@@ -70036,11 +70089,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Mororeakšuvdna</l>
+      <l pos="prop">Mororeakšuvdna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Mororeaksjon</t>
+        <t pos="prop">Mororeaksjon</t>
       </tg>
     </mg>
   </e>
@@ -70056,31 +70109,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Moskaluokta</l>
+      <l pos="prop">Moskaluokta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lakselvbukt</t>
+        <t pos="prop">Lakselvbukt</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Moskavuotna</l>
+      <l pos="prop">Moskavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ullsfjord</t>
+        <t pos="prop">Ullsfjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Moskavuovdi</l>
+      <l pos="prop">Moskavuovdi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lakselvdalen</t>
+        <t pos="prop">Lakselvdalen</t>
       </tg>
     </mg>
   </e>
@@ -70165,7 +70218,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">Reguleringsråd</t>
+        <t pos="n">reguleringsråd</t>
       </tg>
     </mg>
   </e>
@@ -70556,21 +70609,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Muorral</l>
+      <l pos="prop">Muorral</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Snefjord</t>
+        <t pos="prop">Snefjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Muorralvuotna</l>
+      <l pos="prop">Muorralvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Snefjorden</t>
+        <t pos="prop">Snefjorden</t>
       </tg>
     </mg>
   </e>
@@ -70616,21 +70669,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Muosát</l>
+      <l pos="prop">Muosát</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Måsøy</t>
+        <t pos="prop">Måsøy</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Muotkevuotna</l>
+      <l pos="prop">Muotkevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Eidvågen</t>
+        <t pos="prop">Eidvågen</t>
       </tg>
     </mg>
   </e>
@@ -70796,11 +70849,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Måsske</l>
+      <l pos="prop">Måsske</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Musken</t>
+        <t pos="prop">Musken</t>
       </tg>
     </mg>
   </e>
@@ -71401,31 +71454,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Návuotna</l>
+      <l pos="prop">Návuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kvænangen</t>
+        <t pos="prop">Kvænangen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Návvuotna</l>
+      <l pos="prop">Návvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Neverfjord</t>
+        <t pos="prop">Neverfjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">NC-vuogádat</l>
+      <l pos="prop">NC-vuogádat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">NC-systemet</t>
+        <t pos="prop">NC-systemet</t>
       </tg>
     </mg>
   </e>
@@ -71721,21 +71774,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Nieidaluokta</l>
+      <l pos="prop">Nieidaluokta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Trollvik</t>
+        <t pos="prop">Trollvik</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Nieidavuovdi</l>
+      <l pos="prop">Nieidavuovdi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Andersdalen</t>
+        <t pos="prop">Andersdalen</t>
       </tg>
     </mg>
   </e>
@@ -72167,11 +72220,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Njávdán</l>
+      <l pos="prop">Njávdán</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Neiden</t>
+        <t pos="prop">Neiden</t>
       </tg>
     </mg>
   </e>
@@ -72297,11 +72350,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Njeareveadji</l>
+      <l pos="prop">Njeareveadji</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Nervei</t>
+        <t pos="prop">Nervei</t>
       </tg>
     </mg>
   </e>
@@ -72327,11 +72380,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Njiđggujohka</l>
+      <l pos="prop">Njiđggujohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vesterelv</t>
+        <t pos="prop">Vesterelv</t>
       </tg>
     </mg>
   </e>
@@ -72562,11 +72615,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Njuohttejávri</l>
+      <l pos="prop">Njuohttejávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nuortijärvi</t>
+        <t pos="prop">Nuortijärvi</t>
       </tg>
     </mg>
   </e>
@@ -72952,52 +73005,42 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Nordkáhppa</l>
+      <l pos="prop">Nordkáhppa</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordkapp</t>
+        <t pos="prop">Nordkapp</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Nordkáhppašleađđu</l>
+      <l pos="prop">Nordkáhppašleađđu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordkapp-platå</t>
+        <t pos="prop">Nordkapp-platå</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Nordlánda</l>
+      <l pos="prop">Nordlánda</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordland</t>
+        <t pos="prop">Nordland</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Norga</l>
+      <l pos="prop">Norga</l>
       <lc>Norgga</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="n">Norge</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">Norgga</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">norsk</t>
+        <t pos="prop">Norge</t>
       </tg>
     </mg>
   </e>
@@ -73313,21 +73356,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Nuorri</l>
+      <l pos="prop">Nuorri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Hopseidet</t>
+        <t pos="prop">Hopseidet</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Nuortabađaeana</l>
+      <l pos="prop">Nuortabađaeana</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Østerbotten</t>
+        <t pos="prop">Østerbotten</t>
       </tg>
     </mg>
   </e>
@@ -73348,21 +73391,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Nuortamearra</l>
+      <l pos="prop">Nuortamearra</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Østersjø</t>
+        <t pos="prop">Østersjø</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Nuortaváhki</l>
+      <l pos="prop">Nuortaváhki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordvågen</t>
+        <t pos="prop">Nordvågen</t>
       </tg>
     </mg>
   </e>
@@ -74713,11 +74756,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Oarddojohka</l>
+      <l pos="prop">Oarddojohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Syltefjordelv</t>
+        <t pos="prop">Syltefjordelv</t>
       </tg>
     </mg>
   </e>
@@ -75341,11 +75384,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ođasmahttindepartemeanta</l>
+      <l pos="prop">Ođasmahttindepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Moderniseringsdepartementet</t>
+        <t pos="prop">Moderniseringsdepartementet</t>
       </tg>
     </mg>
   </e>
@@ -75608,11 +75651,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ohcejohka</l>
+      <l pos="prop">Ohcejohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Utsjok</t>
+        <t pos="prop">Utsjok</t>
       </tg>
     </mg>
   </e>
@@ -76328,11 +76371,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Olgoriikadepartemeanta</l>
+      <l pos="prop">Olgoriikadepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Utenriksdepartementet</t>
+        <t pos="prop">Utenriksdepartementet</t>
       </tg>
     </mg>
   </e>
@@ -76593,11 +76636,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Olmmáivággi</l>
+      <l pos="prop">Olmmáivággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Manndalen</t>
+        <t pos="prop">Manndalen</t>
       </tg>
     </mg>
   </e>
@@ -76673,11 +76716,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Omasvuotna</l>
+      <l pos="prop">Omasvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Storfjord</t>
+        <t pos="prop">Storfjord</t>
       </tg>
     </mg>
   </e>
@@ -76993,11 +77036,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">O-riekkis</l>
+      <l pos="prop">O-riekkis</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">O-ring</t>
+        <t pos="prop">O-ring</t>
       </tg>
     </mg>
   </e>
@@ -78140,11 +78183,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ovddádusbellodat</l>
+      <l pos="prop">Ovddádusbellodat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Fremskrittspartiet</t>
+        <t pos="prop">Fremskrittspartiet</t>
       </tg>
     </mg>
   </e>
@@ -78320,11 +78363,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ovsttarjohka</l>
+      <l pos="prop">Ovsttarjohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Austerelva</t>
+        <t pos="prop">Austerelva</t>
       </tg>
     </mg>
   </e>
@@ -79671,11 +79714,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">PP-bálvalus</l>
+      <l pos="prop">PP-bálvalus</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">PPB/PPT</t>
+        <t pos="prop">PPB/PPT</t>
       </tg>
     </mg>
   </e>
@@ -79861,11 +79904,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Presideanta</l>
+      <l pos="prop">Presideanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">President</t>
+        <t pos="prop">President</t>
       </tg>
     </mg>
   </e>
@@ -79885,7 +79928,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">Primærfarger</t>
+        <t pos="prop">Primærfarger</t>
       </tg>
     </mg>
   </e>
@@ -80931,11 +80974,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ráhkojohka</l>
+      <l pos="prop">Ráhkojohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Veineselv</t>
+        <t pos="prop">Veineselv</t>
       </tg>
     </mg>
   </e>
@@ -81061,11 +81104,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ráidná</l>
+      <l pos="prop">Ráidná</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Reinøya</t>
+        <t pos="prop">Reinøya</t>
       </tg>
     </mg>
   </e>
@@ -81161,31 +81204,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ráisa</l>
+      <l pos="prop">Ráisa</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordreisa</t>
+        <t pos="prop">Nordreisa</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ráisavuotna</l>
+      <l pos="prop">Ráisavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sørreisa</t>
+        <t pos="prop">Sørreisa</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ráiseatnu</l>
+      <l pos="prop">Ráiseatnu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Reisaelva</t>
+        <t pos="prop">Reisaelva</t>
       </tg>
     </mg>
   </e>
@@ -81366,11 +81409,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ráneš</l>
+      <l pos="prop">Ráneš</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ringvassøya</t>
+        <t pos="prop">Ringvassøya</t>
       </tg>
     </mg>
   </e>
@@ -81576,11 +81619,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Rásseloháidi</l>
+      <l pos="prop">Rásseloháidi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Salangseidet</t>
+        <t pos="prop">Salangseidet</t>
       </tg>
     </mg>
   </e>
@@ -81676,11 +81719,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Rávalgieddi</l>
+      <l pos="prop">Rávalgieddi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Ravelsnes</t>
+        <t pos="prop">Ravelsnes</t>
       </tg>
     </mg>
   </e>
@@ -81776,11 +81819,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Rávdá</l>
+      <l pos="prop">Rávdá</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Rødøy</t>
+        <t pos="prop">Rødøy</t>
       </tg>
     </mg>
   </e>
@@ -81866,11 +81909,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Rávdnjenjárga</l>
+      <l pos="prop">Rávdnjenjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Strømsnes</t>
+        <t pos="prop">Strømsnes</t>
       </tg>
     </mg>
   </e>
@@ -81916,11 +81959,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Rávjavuotna</l>
+      <l pos="prop">Rávjavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Rafjorden</t>
+        <t pos="prop">Rafjorden</t>
       </tg>
     </mg>
   </e>
@@ -81946,31 +81989,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Rávttošjohka</l>
+      <l pos="prop">Rávttošjohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Stabburselva</t>
+        <t pos="prop">Stabburselva</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Rávttošnjárga</l>
+      <l pos="prop">Rávttošnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Stabbursnes</t>
+        <t pos="prop">Stabbursnes</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Rávttošvuopmi</l>
+      <l pos="prop">Rávttošvuopmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Stabbursdalen</t>
+        <t pos="prop">Stabbursdalen</t>
       </tg>
     </mg>
   </e>
@@ -82071,21 +82114,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Reahkkejávri</l>
+      <l pos="prop">Reahkkejávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Räkkijärvi</t>
+        <t pos="prop">Räkkijärvi</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Reahpen</l>
+      <l pos="prop">Reahpen</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Reppen</t>
+        <t pos="prop">Reppen</t>
       </tg>
     </mg>
   </e>
@@ -82201,11 +82244,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Reaisavuotna</l>
+      <l pos="prop">Reaisavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bugøyfjorden</t>
+        <t pos="prop">Bugøyfjorden</t>
       </tg>
     </mg>
   </e>
@@ -83191,21 +83234,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Riehpponávži</l>
+      <l pos="prop">Riehpponávži</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Repparfjorddalen</t>
+        <t pos="prop">Repparfjorddalen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Riehppovuotna</l>
+      <l pos="prop">Riehppovuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Repparfjord</t>
+        <t pos="prop">Repparfjord</t>
       </tg>
     </mg>
   </e>
@@ -84131,11 +84174,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Riimmat</l>
+      <l pos="prop">Riimmat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nordmannset</t>
+        <t pos="prop">Nordmannset</t>
       </tg>
     </mg>
   </e>
@@ -84251,11 +84294,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Rissebákti</l>
+      <l pos="prop">Rissebákti</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Grasbakken</t>
+        <t pos="prop">Grasbakken</t>
       </tg>
     </mg>
   </e>
@@ -84331,11 +84374,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Rivtták</l>
+      <l pos="prop">Rivtták</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Gratangen</t>
+        <t pos="prop">Gratangen</t>
       </tg>
     </mg>
   </e>
@@ -84481,21 +84524,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Roavvenjárga</l>
+      <l pos="prop">Roavvenjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Rovaniemi</t>
+        <t pos="prop">Rovaniemi</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Roavvi</l>
+      <l pos="prop">Roavvi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Eidvågeidet</t>
+        <t pos="prop">Eidvågeidet</t>
       </tg>
     </mg>
   </e>
@@ -84721,11 +84764,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Romsa</l>
+      <l pos="prop">Romsa</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tromsø</t>
+        <t pos="prop">Tromsø</t>
       </tg>
     </mg>
   </e>
@@ -84735,47 +84778,47 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">ruhet</t>
+        <t pos="f">ruheit</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Romssanuorri</l>
+      <l pos="prop">Romssanuorri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tromsøysundet</t>
+        <t pos="prop">Tromsøysundet</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Romssasuolu</l>
+      <l pos="prop">Romssasuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tromsøya</t>
+        <t pos="prop">Tromsøya</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Romssavággi</l>
+      <l pos="prop">Romssavággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Tromsdalen</t>
+        <t pos="prop">Tromsdalen</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ropselv</l>
+      <l pos="prop">Ropselv</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Juranjohka</t>
+        <t pos="prop">Juranjohka</t>
       </tg>
     </mg>
   </e>
@@ -84785,17 +84828,17 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rosmarin</t>
+        <t pos="m">rosmarin</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Rovvejohka</l>
+      <l pos="prop">Rovvejohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nyborgelv</t>
+        <t pos="prop">Nyborgelv</t>
       </tg>
     </mg>
   </e>
@@ -84811,11 +84854,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">ruđalaš</l>
+      <l pos="a">ruđalaš</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">godt beslått med penger</t>
+        <t pos="a">rik</t>
       </tg>
     </mg>
   </e>
@@ -84840,7 +84883,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">avløpspumpe</t>
+        <t pos="f">avløpspumpe</t>
       </tg>
     </mg>
   </e>
@@ -84850,7 +84893,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">avløp</t>
+        <t pos="n">avløp</t>
       </tg>
     </mg>
   </e>
@@ -84860,7 +84903,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">avløpsrør</t>
+        <t pos="n">avløpsrør</t>
       </tg>
     </mg>
   </e>
@@ -84870,7 +84913,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">avløpsanlegg</t>
+        <t pos="n">avløpsanlegg</t>
       </tg>
     </mg>
   </e>
@@ -84880,17 +84923,18 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">brygge</t>
+        <t pos="f">brygge</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">ruhtaáššit</l>
+      <l pos="n">ruhtaášši</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">finans</t>
+        <t pos="m">finans</t>
+        <t pos="m">pengeaffære</t>
       </tg>
     </mg>
   </e>
@@ -84910,7 +84954,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">pengeplassering</t>
+        <t pos="f">pengeplassering</t>
       </tg>
     </mg>
   </e>
@@ -84920,7 +84964,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">innskuddsform</t>
+        <t pos="f">innskuddsform</t>
       </tg>
     </mg>
   </e>
@@ -84930,8 +84974,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finansieringsinstitusjon</t>
-        <t pos="S">finansieringsselskap</t>
+        <t pos="m">finansieringsinstitusjon</t>
+        <t pos="n">finansieringsselskap</t>
       </tg>
     </mg>
   </e>
@@ -84941,17 +84985,17 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finansieringshandling</t>
+        <t pos="f">finansieringshandling</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ruhtadandepartemeanta</l>
+      <l pos="prop">Ruhtadandepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Finansdepartementet</t>
+        <t pos="prop">Finansdepartementet</t>
       </tg>
     </mg>
   </e>
@@ -84961,7 +85005,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finanskostnad</t>
+        <t pos="m">finanskostnad</t>
       </tg>
     </mg>
   </e>
@@ -84971,7 +85015,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finansieringsdisposisjon</t>
+        <t pos="m">finansieringsdisposisjon</t>
       </tg>
     </mg>
   </e>
@@ -84981,7 +85025,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finansieringsplan</t>
+        <t pos="m">finansieringsplan</t>
       </tg>
     </mg>
   </e>
@@ -84991,7 +85035,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finansregnskapet</t>
+        <t pos="n">finansregnskap</t>
       </tg>
     </mg>
   </e>
@@ -85001,7 +85045,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finansinntekt</t>
+        <t pos="f">finansinntekt</t>
       </tg>
     </mg>
   </e>
@@ -85011,7 +85055,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finansieringsanalyse</t>
+        <t pos="m">finansieringsanalyse</t>
       </tg>
     </mg>
   </e>
@@ -85021,7 +85065,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">finansiering</t>
+        <t pos="f">finansiering</t>
       </tg>
     </mg>
   </e>
@@ -85031,7 +85075,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kasserer</t>
+        <t pos="m">kasserer</t>
       </tg>
     </mg>
   </e>
@@ -85041,7 +85085,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">økonomisjef</t>
+        <t pos="m">økonomisjef</t>
       </tg>
     </mg>
   </e>
@@ -85051,7 +85095,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">økonomiavdeling</t>
+        <t pos="f">økonomiavdeling</t>
       </tg>
     </mg>
   </e>
@@ -85061,7 +85105,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">pengeforvalter</t>
+        <t pos="m">pengeforvalter</t>
       </tg>
     </mg>
   </e>
@@ -85071,7 +85115,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kassakontor</t>
+        <t pos="n">kassakontor</t>
       </tg>
     </mg>
   </e>
@@ -85081,7 +85125,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">utbetalingskort</t>
+        <t pos="n">utbetalingskort</t>
       </tg>
     </mg>
   </e>
@@ -85101,7 +85145,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">pengeforbruk</t>
+        <t pos="n">pengeforbruk</t>
       </tg>
     </mg>
   </e>
@@ -85111,7 +85155,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">pengestrøm</t>
+        <t pos="m">pengestrøm</t>
       </tg>
     </mg>
   </e>
@@ -85121,7 +85165,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">pengeenhet</t>
+        <t pos="m">pengeenhet</t>
       </tg>
     </mg>
   </e>
@@ -85131,7 +85175,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">pengehusholdning</t>
+        <t pos="f">pengehusholdning</t>
       </tg>
     </mg>
   </e>
@@ -85141,7 +85185,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">postanvisning</t>
+        <t pos="f">postanvisning</t>
       </tg>
     </mg>
   </e>
@@ -85161,7 +85205,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">beløp</t>
+        <t pos="n">beløp</t>
       </tg>
     </mg>
   </e>
@@ -85171,7 +85215,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">feier</t>
+        <t pos="m">feier</t>
       </tg>
     </mg>
   </e>
@@ -85181,7 +85225,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">feiing</t>
+        <t pos="f">feiing</t>
       </tg>
     </mg>
   </e>
@@ -85191,7 +85235,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">feiemulighet</t>
+        <t pos="m">feiemulighet</t>
       </tg>
     </mg>
   </e>
@@ -85211,7 +85255,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rødkål</t>
+        <t pos="m">rødkål</t>
       </tg>
     </mg>
   </e>
@@ -85221,7 +85265,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">lappspove</t>
+        <t pos="f">lappspove</t>
       </tg>
     </mg>
   </e>
@@ -85231,7 +85275,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rødmoldstue</t>
+        <t pos="f">rødmoldstue</t>
       </tg>
     </mg>
   </e>
@@ -85241,7 +85285,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rødløk</t>
+        <t pos="m">rødløk</t>
       </tg>
     </mg>
   </e>
@@ -85251,7 +85295,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rødrev</t>
+        <t pos="m">rødrev</t>
       </tg>
     </mg>
   </e>
@@ -85261,7 +85305,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rødbete</t>
+        <t pos="m">rødbete</t>
       </tg>
     </mg>
   </e>
@@ -85271,7 +85315,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rødvingetrost</t>
+        <t pos="m">rødvingetrost</t>
       </tg>
     </mg>
   </e>
@@ -85281,7 +85325,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rutebil</t>
+        <t pos="m">rutebil</t>
       </tg>
     </mg>
   </e>
@@ -85291,7 +85335,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rullelager</t>
+        <t pos="n">rullelager</t>
       </tg>
     </mg>
   </e>
@@ -85301,7 +85345,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">somatisk undersøkelse</t>
+        <t pos="m">somatisk undersøkelse</t>
       </tg>
     </mg>
   </e>
@@ -85311,7 +85355,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kroppsbruk</t>
+        <t pos="m">kroppsbruk</t>
       </tg>
     </mg>
   </e>
@@ -85321,7 +85365,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kroppsspråk</t>
+        <t pos="n">kroppsspråk</t>
       </tg>
     </mg>
   </e>
@@ -85331,7 +85375,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kroppstilling</t>
+        <t pos="f">kroppstilling</t>
       </tg>
     </mg>
   </e>
@@ -85341,7 +85385,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kroppsmønster</t>
+        <t pos="n">kroppsmønster</t>
       </tg>
     </mg>
   </e>
@@ -85351,7 +85395,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kroppsdel</t>
+        <t pos="m">kroppsdel</t>
       </tg>
     </mg>
   </e>
@@ -85361,7 +85405,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kroppsvæske</t>
+        <t pos="f">kroppsvæske</t>
       </tg>
     </mg>
   </e>
@@ -85371,7 +85415,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">kroppstilpasning</t>
+        <t pos="f">kroppstilpasning</t>
       </tg>
     </mg>
   </e>
@@ -85381,7 +85425,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">runeinnskrift</t>
+        <t pos="f">runeinnskrift</t>
       </tg>
     </mg>
   </e>
@@ -85391,17 +85435,17 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rognkjeks</t>
+        <t pos="m">rognkjeks</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ruŋgu</l>
+      <l pos="prop">Ruŋgu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Spansdalen</t>
+        <t pos="prop">Spansdalen</t>
       </tg>
     </mg>
   </e>
@@ -85411,17 +85455,17 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">svømmefinne</t>
+        <t pos="m">svømmefinne</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ruobbá</l>
+      <l pos="prop">Ruobbá</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Rebbenesøya</t>
+        <t pos="prop">Rebbenesøya</t>
       </tg>
     </mg>
   </e>
@@ -85431,7 +85475,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">alke</t>
+        <t pos="m">alke</t>
       </tg>
     </mg>
   </e>
@@ -85441,17 +85485,17 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">rotgrønnsak</t>
+        <t pos="m">rotgrønnsak</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Ruohtogeahči</l>
+      <l pos="prop">Ruohtogeahči</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Skogende</t>
+        <t pos="prop">Skogende</t>
       </tg>
     </mg>
   </e>
@@ -85461,7 +85505,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">klamme</t>
+        <t pos="f">klamme</t>
       </tg>
     </mg>
   </e>
@@ -85491,7 +85535,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">paybackmetoden</t>
+        <t pos="m">paybackmetode</t>
       </tg>
     </mg>
   </e>
@@ -85657,12 +85701,12 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ruošša</l>
+      <l pos="prop">Ruošša</l>
       <lc>Ruoššas</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="n">Russland</t>
+        <t pos="prop">Russland</t>
       </tg>
     </mg>
   </e>
@@ -85698,11 +85742,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ruossavuotna</l>
+      <l pos="prop">Ruossavuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Korsfjorden</t>
+        <t pos="prop">Korsfjorden</t>
       </tg>
     </mg>
   </e>
@@ -85728,12 +85772,12 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ruoŧŧa</l>
+      <l pos="prop">Ruoŧŧa</l>
       <lc>Ruoŧa, Ruŧŧii</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="n">Sverige</t>
+        <t pos="prop">Sverige</t>
       </tg>
     </mg>
   </e>
@@ -85839,11 +85883,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ruovdevuotna</l>
+      <l pos="prop">Ruovdevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Jarfjord</t>
+        <t pos="prop">Jarfjord</t>
       </tg>
     </mg>
   </e>
@@ -86119,11 +86163,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">EKG-latnja</l>
+      <l pos="prop">EKG-latnja</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">EKS-rom</t>
+        <t pos="prop">EKS-rom</t>
       </tg>
     </mg>
   </e>
@@ -86309,11 +86353,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sáđgejohka</l>
+      <l pos="prop">Sáđgejohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sargejok</t>
+        <t pos="prop">Sargejok</t>
       </tg>
     </mg>
   </e>
@@ -86734,11 +86778,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sáitevuotna</l>
+      <l pos="prop">Sáitevuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Meltefjord</t>
+        <t pos="prop">Meltefjord</t>
       </tg>
     </mg>
   </e>
@@ -86974,31 +87018,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sállan</l>
+      <l pos="prop">Sállan</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sørøya</t>
+        <t pos="prop">Sørøya</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Sállannuorri</l>
+      <l pos="prop">Sállannuorri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sørøysund</t>
+        <t pos="prop">Sørøysund</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Sállir</l>
+      <l pos="prop">Sállir</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kvaløya</t>
+        <t pos="prop">Kvaløya</t>
       </tg>
     </mg>
   </e>
@@ -87044,11 +87088,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sáltejávri</l>
+      <l pos="prop">Sáltejávri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Saltvatn</t>
+        <t pos="prop">Saltvatn</t>
       </tg>
     </mg>
   </e>
@@ -87074,11 +87118,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sáltesávju</l>
+      <l pos="prop">Sáltesávju</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Veidnes</t>
+        <t pos="prop">Veidnes</t>
       </tg>
     </mg>
   </e>
@@ -87124,21 +87168,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sámediggeráđđi</l>
+      <l pos="prop">Sámediggeráđđi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="n">Sametingsrådet</t>
+        <t pos="prop">Sametingsrådet</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Sámediggi</l>
+      <l pos="prop">Sámediggi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sametinget</t>
+        <t pos="prop">Sametinget</t>
       </tg>
     </mg>
   </e>
@@ -87154,11 +87198,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sámekommišuvdna</l>
+      <l pos="prop">Sámekommišuvdna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Lappekommisjon</t>
+        <t pos="prop">Lappekommisjonen</t>
       </tg>
     </mg>
   </e>
@@ -87264,11 +87308,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sámmolvárri</l>
+      <l pos="prop">Sámmolvárri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Samuelsberg</t>
+        <t pos="prop">Samuelsberg</t>
       </tg>
     </mg>
   </e>
@@ -87284,11 +87328,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sápmi</l>
+      <l pos="prop">Sápmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="n">Sameland</t>
+        <t pos="prop">Sameland</t>
       </tg>
     </mg>
   </e>
@@ -87384,21 +87428,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sárranjárga</l>
+      <l pos="prop">Sárranjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sarnes</t>
+        <t pos="prop">Sarnes</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Sárravuotna</l>
+      <l pos="prop">Sárravuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sarnesfjorden</t>
+        <t pos="prop">Sarnesfjorden</t>
       </tg>
     </mg>
   </e>
@@ -87639,11 +87683,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sáttiidvuopmi</l>
+      <l pos="prop">Sáttiidvuopmi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sandemark</t>
+        <t pos="prop">Sandemark</t>
       </tg>
     </mg>
   </e>
@@ -87789,11 +87833,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sážžá</l>
+      <l pos="prop">Sážžá</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Senja</t>
+        <t pos="prop">Senja</t>
       </tg>
     </mg>
   </e>
@@ -88359,11 +88403,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Selešnjárga</l>
+      <l pos="prop">Selešnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Angsnes</t>
+        <t pos="prop">Angsnes</t>
       </tg>
     </mg>
   </e>
@@ -88990,11 +89034,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Siellakvuotna</l>
+      <l pos="prop">Siellakvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Salangen</t>
+        <t pos="prop">Salangen</t>
       </tg>
     </mg>
   </e>
@@ -89295,11 +89339,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sievju</l>
+      <l pos="prop">Sievju</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Seiland</t>
+        <t pos="prop">Seiland</t>
       </tg>
     </mg>
   </e>
@@ -89565,11 +89609,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Silvetváhki</l>
+      <l pos="prop">Silvetváhki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Segelvik</t>
+        <t pos="prop">Segelvik</t>
       </tg>
     </mg>
   </e>
@@ -90210,11 +90254,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">SI-systema</l>
+      <l pos="prop">SI-systema</l>
     </lg>
     <mg>
       <tg>
-        <t pos="n">SI-system</t>
+        <t pos="prop">SI-system</t>
       </tg>
     </mg>
   </e>
@@ -90300,11 +90344,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Siviláittardeaddji</l>
+      <l pos="prop">Siviláittardeaddji</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sivilombudsmannen</t>
+        <t pos="prop">Sivilombudsmannen</t>
       </tg>
     </mg>
   </e>
@@ -90375,11 +90419,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sivlu</l>
+      <l pos="prop">Sivlu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Forsøl</t>
+        <t pos="prop">Forsøl</t>
       </tg>
     </mg>
   </e>
@@ -90535,11 +90579,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Skánik</l>
+      <l pos="prop">Skánik</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Skånland</t>
+        <t pos="prop">Skånland</t>
       </tg>
     </mg>
   </e>
@@ -90630,31 +90674,31 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Skiervá</l>
+      <l pos="prop">Skiervá</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Skjervøy</t>
+        <t pos="prop">Skjervøy</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Skiessjohka</l>
+      <l pos="prop">Skiessjohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lille Porsanger</t>
+        <t pos="prop">Lille Porsanger</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Skiessvuotna</l>
+      <l pos="prop">Skiessvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Lille Porsangerfjord</t>
+        <t pos="prop">Lille Porsangerfjord</t>
       </tg>
     </mg>
   </e>
@@ -91142,11 +91186,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Skuvvanvárri</l>
+      <l pos="prop">Skuvvanvárri</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Skoganvarre</t>
+        <t pos="prop">Skoganvarre</t>
       </tg>
     </mg>
   </e>
@@ -91617,21 +91661,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Smiervuonjohka</l>
+      <l pos="prop">Smiervuonjohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Smørfjordelva</t>
+        <t pos="prop">Smørfjordelva</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Smiervuotna</l>
+      <l pos="prop">Smiervuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Smørfjord</t>
+        <t pos="prop">Smørfjord</t>
       </tg>
     </mg>
   </e>
@@ -92107,7 +92151,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">T-skjorte</t>
+        <t pos="f">T-skjorte</t>
       </tg>
     </mg>
   </e>
@@ -92413,11 +92457,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Sosiáladepartemeanta</l>
+      <l pos="prop">Sosiáladepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sosialdepartementet</t>
+        <t pos="prop">Sosialdepartementet</t>
       </tg>
     </mg>
   </e>
@@ -92913,11 +92957,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Spierta</l>
+      <l pos="prop">Spierta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sværholt</t>
+        <t pos="prop">Sværholt</t>
       </tg>
     </mg>
   </e>
@@ -94068,21 +94112,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Stuoragieddi</l>
+      <l pos="prop">Stuoragieddi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Storslett</t>
+        <t pos="prop">Storslett</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Stuoragohppi</l>
+      <l pos="prop">Stuoragohppi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Storbukt</t>
+        <t pos="prop">Storbukt</t>
       </tg>
     </mg>
   </e>
@@ -94508,11 +94552,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Suodjalusdepartemeanta</l>
+      <l pos="prop">Suodjalusdepartemeanta</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Forsvarsdepartementet</t>
+        <t pos="prop">Forsvarsdepartementet</t>
       </tg>
     </mg>
   </e>
@@ -94688,11 +94732,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Suoidneleakši</l>
+      <l pos="prop">Suoidneleakši</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Myrlandet</t>
+        <t pos="prop">Myrlandet</t>
       </tg>
     </mg>
   </e>
@@ -94888,12 +94932,12 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Suopma</l>
+      <l pos="prop">Suopma</l>
       <lc>Suomas, Supmii</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="n">Finland</t>
+        <t pos="prop">Finland</t>
       </tg>
     </mg>
   </e>
@@ -94994,11 +95038,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Suorggomohkki</l>
+      <l pos="prop">Suorggomohkki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Reiervik</t>
+        <t pos="prop">Reiervik</t>
       </tg>
     </mg>
   </e>
@@ -95064,11 +95108,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Suovka</l>
+      <l pos="prop">Suovka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Nyborgmoen</t>
+        <t pos="prop">Nyborgmoen</t>
       </tg>
     </mg>
   </e>
@@ -95898,7 +95942,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">TV-kanne</t>
+        <t pos="f">TV-kanne</t>
       </tg>
     </mg>
   </e>
@@ -96254,11 +96298,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">T-nađđa</l>
+      <l pos="prop">T-nađđa</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">T-arm</t>
+        <t pos="prop">T-arm</t>
       </tg>
     </mg>
   </e>
@@ -96544,11 +96588,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">T-revre</l>
+      <l pos="prop">T-revre</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">T-rør</t>
+        <t pos="prop">T-rør</t>
       </tg>
     </mg>
   </e>
@@ -96658,7 +96702,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">TV-overvåket område</t>
+        <t pos="n">TV-overvåket område</t>
       </tg>
     </mg>
   </e>
@@ -96668,7 +96712,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="S">hesteskoform</t>
+        <t pos="f">hesteskoform</t>
       </tg>
     </mg>
   </e>
@@ -96819,11 +96863,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Ulisuolu</l>
+      <l pos="prop">Ulisuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Uløya</t>
+        <t pos="prop">Uløya</t>
       </tg>
     </mg>
   </e>
@@ -96889,11 +96933,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">U-mohkki</l>
+      <l pos="prop">U-mohkki</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">U-sving</t>
+        <t pos="prop">U-sving</t>
       </tg>
     </mg>
   </e>
@@ -96909,11 +96953,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Unjárga</l>
+      <l pos="prop">Unjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Nesseby</t>
+        <t pos="prop">Nesseby</t>
       </tg>
     </mg>
   </e>
@@ -97039,21 +97083,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Uvdojohka</l>
+      <l pos="prop">Uvdojohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Munkelv</t>
+        <t pos="prop">Munkelv</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Uvdovuotna</l>
+      <l pos="prop">Uvdovuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Munkefjorden</t>
+        <t pos="prop">Munkefjorden</t>
       </tg>
     </mg>
   </e>
@@ -97129,11 +97173,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vággi</l>
+      <l pos="prop">Vággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vagge</t>
+        <t pos="prop">Vagge</t>
       </tg>
     </mg>
   </e>
@@ -98430,21 +98474,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Várdnasuolu</l>
+      <l pos="prop">Várdnasuolu</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vannøya</t>
+        <t pos="prop">Vannøya</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Várggát</l>
+      <l pos="prop">Várggát</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vardø</t>
+        <t pos="prop">Vardø</t>
       </tg>
     </mg>
   </e>
@@ -98530,21 +98574,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Várjavuonna</l>
+      <l pos="prop">Várjavuonna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Varangerfjord</t>
+        <t pos="prop">Varangerfjord</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Várnjárga</l>
+      <l pos="prop">Várnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Varangerhalvøya</t>
+        <t pos="prop">Varangerhalvøya</t>
       </tg>
     </mg>
   </e>
@@ -100402,11 +100446,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vieranjárga</l>
+      <l pos="prop">Vieranjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Veines</t>
+        <t pos="prop">Veines</t>
       </tg>
     </mg>
   </e>
@@ -100632,21 +100676,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Viestarbađaeana</l>
+      <l pos="prop">Viestarbađaeana</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vesterbotten</t>
+        <t pos="prop">Vesterbotten</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Viestterálas</l>
+      <l pos="prop">Viestterálas</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vesterålen</t>
+        <t pos="prop">Vesterålen</t>
       </tg>
     </mg>
   </e>
@@ -101170,11 +101214,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Voagat</l>
+      <l pos="prop">Voagat</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Vågan</t>
+        <t pos="prop">Vågan</t>
       </tg>
     </mg>
   </e>
@@ -101416,11 +101460,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vuođđoláhka</l>
+      <l pos="prop">Vuođđoláhka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Grunnloven</t>
+        <t pos="prop">Grunnloven</t>
       </tg>
     </mg>
   </e>
@@ -101902,11 +101946,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vuohpošnjárga</l>
+      <l pos="prop">Vuohpošnjárga</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Bringneshalvøya</t>
+        <t pos="prop">Bringneshalvøya</t>
       </tg>
     </mg>
   </e>
@@ -102491,11 +102535,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vuokkátdiggi</l>
+      <l pos="prop">Vuokkátdiggi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Omgangstinget</t>
+        <t pos="prop">Omgangstinget</t>
       </tg>
     </mg>
   </e>
@@ -103156,11 +103200,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vuopmegeahči</l>
+      <l pos="prop">Vuopmegeahči</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Trøssemark</t>
+        <t pos="prop">Trøssemark</t>
       </tg>
     </mg>
   </e>
@@ -103301,21 +103345,21 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vuorkeljohka</l>
+      <l pos="prop">Vuorkeljohka</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Kobbholmvassdraget</t>
+        <t pos="prop">Kobbholmvassdraget</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="n">Vuorkelvuotna</l>
+      <l pos="prop">Vuorkelvuotna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="m">Kobbholmfjorden</t>
+        <t pos="prop">Kobbholmfjorden</t>
       </tg>
     </mg>
   </e>
@@ -103862,11 +103906,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vuošvággi</l>
+      <l pos="prop">Vuošvággi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Furuflaten</t>
+        <t pos="prop">Furuflaten</t>
       </tg>
     </mg>
   </e>
@@ -103902,11 +103946,11 @@
   </e>
   <e>
     <lg>
-      <l pos="n">Vuotnasiida</l>
+      <l pos="prop">Vuotnasiida</l>
     </lg>
     <mg>
       <tg>
-        <t pos="S">Sjøvegan</t>
+        <t pos="prop">Sjøvegan</t>
       </tg>
     </mg>
   </e>
@@ -111105,16 +111149,6 @@
     <mg>
       <tg>
         <t pos="v">danne seg knute</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">Jaskkodehket</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">Stille - ro i salen</t>
       </tg>
     </mg>
   </e>
@@ -181499,11 +181533,11 @@ eallima</x>
   </e>
   <e>
     <lg>
-      <l pos="n">TV-prográmma</l>
+      <l pos="prop">TV-prográmma</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">TV-program</t>
+        <t pos="prop">TV-program</t>
       </tg>
     </mg>
   </e>
@@ -198147,7 +198181,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">St.Hans</t>
+        <t pos="m">St.Hans</t>
       </tg>
     </mg>
   </e>
@@ -199545,21 +199579,21 @@ eallima</x>
   </e>
    <e>
     <lg>
-      <l pos="n">Álaheadju</l>
+      <l pos="prop">Álaheadju</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Alta</t>
+        <t pos="prop">Alta</t>
       </tg>
     </mg>
   </e>
    <e>
     <lg>
-      <l pos="n">Áltá</l>
+      <l pos="prop">Áltá</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">Alta</t>
+        <t pos="prop">Alta</t>
       </tg>
     </mg>
   </e>
@@ -202620,22 +202654,22 @@ eallima</x>
     
 <e>
   <lg>
-    <l pos="n">Máze</l>
+    <l pos="prop">Máze</l>
   </lg>
   <mg>
     <tg>
-      <t pos="S">Máze</t>
+      <t pos="prop">Máze</t>
     </tg>
   </mg>
  </e>
   
 <e>
   <lg>
-    <l pos="n">Hammerfeasta</l>
+    <l pos="prop">Hammerfeasta</l>
   </lg>
   <mg>
     <tg>
-      <t pos="S">Hammerfest</t>
+      <t pos="prop">Hammerfest</t>
     </tg>
   </mg>
  </e>
@@ -203209,11 +203243,11 @@ eallima</x>
   
 <e>
   <lg>
-    <l pos="n">TV</l>
+    <l pos="prop">TV</l>
   </lg>
   <mg>
     <tg>
-      <t pos="S">TV</t>
+      <t pos="prop">TV</t>
     </tg>
   </mg>
  </e>
@@ -205041,4 +205075,676 @@ eallima</x>
     </tg>
   </mg>
  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Afrihká</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Afrika</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Albánia</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Albania</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Amerihká</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Amerika</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Anárjávri</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Enaresjøen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Basevuovdi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Helligskogen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Báidár</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Beiarn</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Beahcán</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Petsamo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Beahkkirvuotna</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Bekkarfjord</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Belgia</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Belgia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Biŧon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Piteå</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Bossogohpi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Bossekop</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Buolbmát</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Polmak</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Davvesiida</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Lebesby</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Dállogilli</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Korpilompelo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Dánmárku</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Danmark</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Duiska</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Tyskland</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Eanodat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Enontekiö</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Duortnus</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Torneå</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Englánda</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">England</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Gaska-Amerihká</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Mellom-Amerika</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Gaska-Nuorti</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Midtøsten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Gárjil</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Karelen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Gaskamearra</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Middelhavet</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Giebnegáisi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Kebnekaise</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Giron</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Kiruna</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Greika</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Hellas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Háhpárándi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Haparanda</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Helsset</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Helsingfors</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Hollánda</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Nederland</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Irlánda</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Irland</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Islánda</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Island</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Itália</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Italia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Jaskes áhpi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Stillehavet</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Jáhpan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Japan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Joganjálbmi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Joensuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Korea</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Korea</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Látvia</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Latvia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Lietuva</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Litauen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">London</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">London</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Lujávri</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Lovozero</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Lulli-Amerihká</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Sør-Amerika</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Nuortamearra</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Østersjøen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Norga</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Norge</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Nuortariika</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Østerrike</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Ránská</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Frankrike</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Románia</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Romania</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Ruošša</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Russland</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Ruoŧŧa</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Sverige</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Sibirjá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Sibir</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Skandinávia</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Skandinavia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Skotlánda</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Skotland</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Soađegilli</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Sodankylä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Sovjetlihttu</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Sovjetunionen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Stuorra-Británnia</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Storbritannia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Suoločielgi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Saariselkä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Suomaluokta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Finskebukta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Suopma</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Finland</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Šveica</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Sveits</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Ubmi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Umeå</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Váhčir</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Gällivare</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="prop">Ålánda</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="prop">Åland</t>
+      </tg>
+    </mg>
+  </e>
 </r>
+
