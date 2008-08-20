@@ -13,8 +13,9 @@
 
 <!ELEMENT t (#PCDATA) >
 <!ATTLIST t 
-      pos ( a | a5 | S | m | f | n | v | adv | p | pron | prop | i | cc | cs | im | mpl | fpl | npl | num | pcle | x ) #REQUIRED
+      pos ( a | a5 | S | m | f | n | v | adv | p | pron | prop | i | cc | cs | im | mpl | fpl | npl | num | pcle | s | x ) #REQUIRED
 >      
+
 <!ELEMENT xg ((x,xt?)+)>
 <!ELEMENT x (#PCDATA)>
 <!ELEMENT xt (#PCDATA)>
@@ -41,6 +42,7 @@ Here are the pos tags:
  cc  = conjunction
  cs  = subjunction
  im = infinitive mark å (nob)
+ s  = sentence, or explanation
  x  = still no pos
 
 Documenting
