@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE" "smenob.dtd">
-<?xml-stylesheet type="tekst/css" href="smenob.css"?>
-<?xml-stylesheet type="tekst/xsl" href="smenob.xsl"?>
+<?xml-stylesheet type="text/css" href="smenob.css"?>
+<?xml-stylesheet type="text/xsl" href="smenob.xsl"?>
 <r>
   <e>
     <lg>
@@ -276,7 +276,6 @@
     <mg>
       <tg>
         <t pos="a">rar</t>
-        <t pos="x">på en rar måte</t>
       </tg>
     </mg>
   </e>
@@ -853,7 +852,7 @@
     <mg>
       <tg>
         <t pos="adv">oppe</t>
-        <t pos="x">oppe fra</t>
+        <t pos="adv">oppe fra</t>
       </tg>
     </mg>
   </e>
@@ -1264,16 +1263,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">jurddariđđu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">brainstorming</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="a">konsešuvdnalaš</l>
     </lg>
     <mg>
@@ -1299,6 +1288,7 @@
     <mg>
       <tg>
         <t pos="m">allianse</t>
+        <t pos="n">forbund</t>
       </tg>
     </mg>
   </e>
@@ -1339,16 +1329,6 @@
     <mg>
       <tg>
         <t pos="n">laksestengselgarn</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">maŋŋestávdni</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">bakstavn</t>
       </tg>
     </mg>
   </e>
@@ -4376,8 +4356,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">rundbladet blåklokke</t>
-        <t pos="x">campanula rotundifolia</t>
+        <t pos="f">rundbladet blåklokke</t>
+        <t pos="m">campanula rotundifolia</t>
       </tg>
     </mg>
   </e>
@@ -4397,7 +4377,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">alken</t>
+        <t pos="n">alken</t>
       </tg>
     </mg>
   </e>
@@ -4629,7 +4609,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">høyde</t>
+        <t pos="m">høyde</t>
         <xg>
           <x>allodat lea 2 mehtera</x>
           <xt>høyden er 2 meter</xt>
@@ -4733,7 +4713,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">almmosorganisasjon</t>
+        <t pos="m">almmosorganisasjon</t>
       </tg>
     </mg>
   </e>
@@ -4778,7 +4758,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">almmustelefon</t>
+        <t pos="m">almmustelefon</t>
       </tg>
     </mg>
   </e>
@@ -4818,7 +4798,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">alpinisme</t>
+        <t pos="m">alpinisme</t>
       </tg>
     </mg>
   </e>
@@ -4828,7 +4808,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">altan</t>
+        <t pos="m">altan</t>
       </tg>
     </mg>
   </e>
@@ -4848,7 +4828,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">alternativ</t>
+        <t pos="n">alternativ</t>
       </tg>
     </mg>
   </e>
@@ -4858,7 +4838,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">altruisme</t>
+        <t pos="m">altruisme</t>
       </tg>
     </mg>
   </e>
@@ -4961,7 +4941,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">amatørisme</t>
+        <t pos="m">amatørisme</t>
       </tg>
     </mg>
   </e>
@@ -4971,7 +4951,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">amfetamin</t>
+        <t pos="m">amfetamin</t>
       </tg>
     </mg>
   </e>
@@ -4981,7 +4961,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">amfi</t>
+        <t pos="n">amfi</t>
       </tg>
     </mg>
   </e>
@@ -5001,7 +4981,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">amin</t>
+        <t pos="n">amin</t>
       </tg>
     </mg>
   </e>
@@ -5091,7 +5071,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">amnesti</t>
+        <t pos="n">amnesti</t>
       </tg>
     </mg>
   </e>
@@ -5151,7 +5131,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anabolisme</t>
+        <t pos="m">anabolisme</t>
       </tg>
     </mg>
   </e>
@@ -5161,7 +5141,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anaforapposisjon</t>
+        <t pos="m">anaforapposisjon</t>
       </tg>
     </mg>
   </e>
@@ -5171,7 +5151,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anagram</t>
+        <t pos="n">anagram</t>
       </tg>
     </mg>
   </e>
@@ -5181,7 +5161,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">analfabetisme</t>
+        <t pos="m">analfabetisme</t>
       </tg>
     </mg>
   </e>
@@ -5221,7 +5201,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anarki</t>
+        <t pos="n">anarki</t>
       </tg>
     </mg>
   </e>
@@ -5231,7 +5211,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anarkisme</t>
+        <t pos="m">anarkisme</t>
       </tg>
     </mg>
   </e>
@@ -5241,7 +5221,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anarkosyndikalisme</t>
+        <t pos="m">anarkosyndikalisme</t>
       </tg>
     </mg>
   </e>
@@ -5281,7 +5261,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anatem</t>
+        <t pos="n">anatema</t>
       </tg>
     </mg>
   </e>
@@ -5291,7 +5271,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anatomi</t>
+        <t pos="m">anatomi</t>
       </tg>
     </mg>
   </e>
@@ -5311,7 +5291,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">androgen</t>
+        <t pos="n">androgen</t>
       </tg>
     </mg>
   </e>
@@ -5331,7 +5311,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anestesi</t>
+        <t pos="m">anestesi</t>
       </tg>
     </mg>
   </e>
@@ -5391,7 +5371,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anilin</t>
+        <t pos="n">anilin</t>
       </tg>
     </mg>
   </e>
@@ -5401,7 +5381,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">animalisme</t>
+        <t pos="m">animalisme</t>
       </tg>
     </mg>
   </e>
@@ -5421,7 +5401,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">animatisme</t>
+        <t pos="m">animatisme</t>
       </tg>
     </mg>
   </e>
@@ -5431,7 +5411,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">animisme</t>
+        <t pos="m">animisme</t>
       </tg>
     </mg>
   </e>
@@ -5491,7 +5471,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">anodebatteri</t>
+        <t pos="n">anodebatteri</t>
       </tg>
     </mg>
   </e>
@@ -5531,7 +5511,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antagonisme</t>
+        <t pos="m">antagonisme</t>
       </tg>
     </mg>
   </e>
@@ -5551,7 +5531,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antifebrin</t>
+        <t pos="m">antifebrin</t>
       </tg>
     </mg>
   </e>
@@ -5591,7 +5571,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antimilitarisme</t>
+        <t pos="m">antimilitarisme</t>
       </tg>
     </mg>
   </e>
@@ -5601,7 +5581,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antipyrin</t>
+        <t pos="n">antipyrin</t>
       </tg>
     </mg>
   </e>
@@ -5611,7 +5591,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antisemittisme</t>
+        <t pos="m">antisemittisme</t>
       </tg>
     </mg>
   </e>
@@ -5621,7 +5601,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antisionisme</t>
+        <t pos="m">antisionisme</t>
       </tg>
     </mg>
   </e>
@@ -5631,7 +5611,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antitoksin</t>
+        <t pos="n">antitoksin</t>
       </tg>
     </mg>
   </e>
@@ -5651,7 +5631,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antropologi</t>
+        <t pos="m">antropologi</t>
       </tg>
     </mg>
   </e>
@@ -5671,7 +5651,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">antroposofi</t>
+        <t pos="m">antroposofi</t>
       </tg>
     </mg>
   </e>
@@ -5701,7 +5681,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">apogeuma</t>
+        <t pos="n">apogeuma</t>
       </tg>
     </mg>
   </e>
@@ -5721,7 +5701,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">apotek</t>
+        <t pos="n">apotek</t>
       </tg>
     </mg>
   </e>
@@ -5761,7 +5741,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">appellasjon</t>
+        <t pos="m">appellasjon</t>
       </tg>
     </mg>
   </e>
@@ -5771,7 +5751,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">appellativ</t>
+        <t pos="n">appellativ</t>
       </tg>
     </mg>
   </e>
@@ -5961,7 +5941,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">aristokrati</t>
+        <t pos="n">aristokrati</t>
       </tg>
     </mg>
   </e>
@@ -6011,7 +5991,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">arkeologi</t>
+        <t pos="m">arkeologi</t>
       </tg>
     </mg>
   </e>
@@ -7027,16 +7007,6 @@
   </e>
   <e>
     <lg>
-      <l pos="prop">Lujávri</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="prop">Lovozero</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="prop">Porsáŋgu</l>
     </lg>
     <mg>
@@ -7250,7 +7220,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">vaskemaskin</t>
+        <t pos="f">vaskemaskin</t>
       </tg>
     </mg>
   </e>
@@ -7260,7 +7230,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">vaskeservant</t>
+        <t pos="m">vaskeservant</t>
       </tg>
     </mg>
   </e>
@@ -7270,7 +7240,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">solskinn</t>
+        <t pos="n">solskinn</t>
       </tg>
     </mg>
   </e>
@@ -7280,7 +7250,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">solbolle</t>
+        <t pos="f">solbolle</t>
       </tg>
     </mg>
   </e>
@@ -7290,7 +7260,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">hundespann</t>
+        <t pos="n">hundespann</t>
       </tg>
     </mg>
   </e>
@@ -7300,7 +7270,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">påskedag</t>
+        <t pos="m">påskedag</t>
       </tg>
     </mg>
   </e>
@@ -7310,7 +7280,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">påskeaften</t>
+        <t pos="m">påskeaften</t>
       </tg>
     </mg>
   </e>
@@ -7320,7 +7290,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">påskeferie</t>
+        <t pos="m">påskeferie</t>
       </tg>
     </mg>
   </e>
@@ -7330,7 +7300,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">påskemarked</t>
+        <t pos="n">påskemarked</t>
       </tg>
     </mg>
   </e>
@@ -7340,7 +7310,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">påsketur</t>
+        <t pos="m">påsketur</t>
       </tg>
     </mg>
   </e>
@@ -7350,7 +7320,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">påskeaften</t>
+        <t pos="m">påskeaften</t>
       </tg>
     </mg>
   </e>
@@ -7360,7 +7330,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">liten hund</t>
+        <t pos="m">liten hund</t>
       </tg>
     </mg>
   </e>
@@ -7370,7 +7340,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bibliotek</t>
+        <t pos="n">bibliotek</t>
       </tg>
     </mg>
   </e>
@@ -7380,7 +7350,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kjæledyr</t>
+        <t pos="n">kjæledyr</t>
       </tg>
     </mg>
   </e>
@@ -7390,7 +7360,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kjøttgryte</t>
+        <t pos="f">kjøttgryte</t>
       </tg>
     </mg>
   </e>
@@ -7400,7 +7370,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kjøttsuppe</t>
+        <t pos="f">kjøttsuppe</t>
       </tg>
     </mg>
   </e>
@@ -7410,7 +7380,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bibel</t>
+        <t pos="m">bibel</t>
       </tg>
     </mg>
   </e>
@@ -7420,7 +7390,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">klesbutikk</t>
+        <t pos="m">klesbutikk</t>
       </tg>
     </mg>
   </e>
@@ -7431,7 +7401,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">gammelungkar</t>
+        <t pos="m">gammelungkar</t>
       </tg>
     </mg>
   </e>
@@ -7441,7 +7411,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">frimerke</t>
+        <t pos="n">frimerke</t>
       </tg>
     </mg>
   </e>
@@ -7451,7 +7421,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">reindriftssame</t>
+        <t pos="m">reindriftssame</t>
       </tg>
     </mg>
   </e>
@@ -7461,7 +7431,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">spisepause</t>
+        <t pos="m">spisepause</t>
       </tg>
     </mg>
   </e>
@@ -7471,7 +7441,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">matbutikk</t>
+        <t pos="m">matbutikk</t>
       </tg>
     </mg>
   </e>
@@ -7481,7 +7451,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">matlyst</t>
+        <t pos="f">matlyst</t>
       </tg>
     </mg>
   </e>
@@ -7491,7 +7461,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">brus</t>
+        <t pos="m">brus</t>
       </tg>
     </mg>
   </e>
@@ -7501,7 +7471,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">sykepleier</t>
+        <t pos="m">sykepleier</t>
       </tg>
     </mg>
   </e>
@@ -7511,7 +7481,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">sykepleier</t>
+        <t pos="m">sykepleier</t>
       </tg>
     </mg>
   </e>
@@ -7521,7 +7491,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bussjåfør</t>
+        <t pos="m">bussjåfør</t>
       </tg>
     </mg>
   </e>
@@ -7531,7 +7501,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">stedsnavn</t>
+        <t pos="n">stedsnavn</t>
       </tg>
     </mg>
   </e>
@@ -7541,7 +7511,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">liten gutt</t>
+        <t pos="m">liten gutt</t>
       </tg>
     </mg>
   </e>
@@ -7551,7 +7521,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">torvgamme</t>
+        <t pos="m">torvgamme</t>
       </tg>
     </mg>
   </e>
@@ -7561,7 +7531,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">nordsamisk</t>
+        <t pos="a">nordsamisk</t>
       </tg>
     </mg>
   </e>
@@ -7571,7 +7541,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">helsesenter</t>
+        <t pos="n">helsesenter</t>
       </tg>
     </mg>
   </e>
@@ -7581,7 +7551,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">hilsning</t>
+        <t pos="f">hilsning</t>
       </tg>
     </mg>
   </e>
@@ -7591,7 +7561,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">dataspill</t>
+        <t pos="n">dataspill</t>
       </tg>
     </mg>
   </e>
@@ -7601,7 +7571,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">timeplan</t>
+        <t pos="m">timeplan</t>
       </tg>
     </mg>
   </e>
@@ -7611,7 +7581,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">diskotek</t>
+        <t pos="n">diskotek</t>
       </tg>
     </mg>
   </e>
@@ -7621,7 +7591,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">nordmann</t>
+        <t pos="m">nordmann</t>
       </tg>
     </mg>
   </e>
@@ -7631,7 +7601,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">eple</t>
+        <t pos="n">eple</t>
       </tg>
     </mg>
   </e>
@@ -7642,7 +7612,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">elg</t>
+        <t pos="m">elg</t>
       </tg>
     </mg>
   </e>
@@ -7652,7 +7622,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">hustru</t>
+        <t pos="f">hustru</t>
       </tg>
     </mg>
   </e>
@@ -7662,7 +7632,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">ektemann</t>
+        <t pos="m">ektemann</t>
       </tg>
     </mg>
   </e>
@@ -7672,7 +7642,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">festival</t>
+        <t pos="m">festival</t>
       </tg>
     </mg>
   </e>
@@ -7682,7 +7652,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">fiolin</t>
+        <t pos="m">fiolin</t>
       </tg>
     </mg>
   </e>
@@ -7692,7 +7662,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">fadder</t>
+        <t pos="m">fadder</t>
       </tg>
     </mg>
   </e>
@@ -7702,7 +7672,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">sommer</t>
+        <t pos="m">sommer</t>
       </tg>
     </mg>
   </e>
@@ -7712,7 +7682,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">hefte</t>
+        <t pos="n">hefte</t>
       </tg>
     </mg>
   </e>
@@ -7722,7 +7692,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bygd</t>
+        <t pos="f">bygd</t>
       </tg>
     </mg>
   </e>
@@ -7732,7 +7702,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">gitar</t>
+        <t pos="m">gitar</t>
       </tg>
     </mg>
   </e>
@@ -7742,7 +7712,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">vårvinter</t>
+        <t pos="m">vårvinter</t>
       </tg>
     </mg>
   </e>
@@ -7752,7 +7722,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">forsommer</t>
+        <t pos="m">forsommer</t>
       </tg>
     </mg>
   </e>
@@ -7762,7 +7732,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">regle</t>
+        <t pos="f">regle</t>
       </tg>
     </mg>
   </e>
@@ -7772,7 +7742,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">lyst</t>
+        <t pos="f">lyst</t>
       </tg>
     </mg>
   </e>
@@ -7782,7 +7752,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">hylle</t>
+        <t pos="f">hylle</t>
       </tg>
     </mg>
   </e>
@@ -7792,7 +7762,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">internat</t>
+        <t pos="n">internat</t>
       </tg>
     </mg>
   </e>
@@ -7802,7 +7772,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">gudstjeneste</t>
+        <t pos="f">gudstjeneste</t>
       </tg>
     </mg>
   </e>
@@ -7812,7 +7782,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bekk</t>
+        <t pos="m">bekk</t>
       </tg>
     </mg>
   </e>
@@ -7822,7 +7792,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">joiker</t>
+        <t pos="m">joiker</t>
       </tg>
     </mg>
   </e>
@@ -7832,7 +7802,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">liter</t>
+        <t pos="m">liter</t>
       </tg>
     </mg>
   </e>
@@ -7842,7 +7812,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">blyant</t>
+        <t pos="m">blyant</t>
       </tg>
     </mg>
   </e>
@@ -7852,7 +7822,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">ferie</t>
+        <t pos="m">ferie</t>
       </tg>
     </mg>
   </e>
@@ -7862,7 +7832,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">lampe</t>
+        <t pos="f">lampe</t>
       </tg>
     </mg>
   </e>
@@ -7872,8 +7842,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">tranlampe</t>
-        <t pos="x">lampe</t>
+        <t pos="f">tranlampe</t>
+        <t pos="f">lampe</t>
       </tg>
     </mg>
   </e>
@@ -7883,7 +7853,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kam</t>
+        <t pos="m">kam</t>
       </tg>
     </mg>
   </e>
@@ -7893,7 +7863,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">ved bordet</t>
+        <t pos="adv">ved bordet</t>
       </tg>
     </mg>
   </e>
@@ -7903,7 +7873,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">heilo</t>
+        <t pos="m">heilo</t>
       </tg>
     </mg>
   </e>
@@ -7913,7 +7883,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">ugift kvinne</t>
+        <t pos="f">ugift kvinne</t>
       </tg>
     </mg>
   </e>
@@ -7923,7 +7893,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">post</t>
+        <t pos="m">post</t>
       </tg>
     </mg>
   </e>
@@ -7933,7 +7903,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">ved bålet</t>
+        <t pos="adv">ved bålet</t>
       </tg>
     </mg>
   </e>
@@ -7943,7 +7913,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">drosje</t>
+        <t pos="f">drosje</t>
       </tg>
     </mg>
   </e>
@@ -7953,7 +7923,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">sannhet</t>
+        <t pos="f">sannhet</t>
       </tg>
     </mg>
   </e>
@@ -7963,7 +7933,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">taksi</t>
+        <t pos="m">taksi</t>
       </tg>
     </mg>
   </e>
@@ -7973,7 +7943,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">husmor</t>
+        <t pos="f">husmor</t>
       </tg>
     </mg>
   </e>
@@ -7983,7 +7953,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">jordbruker</t>
+        <t pos="m">jordbruker</t>
       </tg>
     </mg>
   </e>
@@ -7993,7 +7963,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">fylkeskommune</t>
+        <t pos="m">fylkeskommune</t>
       </tg>
     </mg>
   </e>
@@ -8003,7 +7973,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">midnatt</t>
+        <t pos="adv">midnatt</t>
       </tg>
     </mg>
   </e>
@@ -8013,7 +7983,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">midnattsol</t>
+        <t pos="f">midnattsol</t>
       </tg>
     </mg>
   </e>
@@ -8023,7 +7993,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">vegkant</t>
+        <t pos="m">vegkant</t>
       </tg>
     </mg>
   </e>
@@ -8033,7 +8003,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">sommerferie</t>
+        <t pos="m">sommerferie</t>
       </tg>
     </mg>
   </e>
@@ -8043,7 +8013,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">sommerboplass</t>
+        <t pos="m">sommerboplass</t>
       </tg>
     </mg>
   </e>
@@ -8053,7 +8023,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">språksenter</t>
+        <t pos="n">språksenter</t>
       </tg>
     </mg>
   </e>
@@ -8063,7 +8033,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">språkkurs</t>
+        <t pos="n">språkkurs</t>
       </tg>
     </mg>
   </e>
@@ -8073,7 +8043,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bokbuss</t>
+        <t pos="m">bokbuss</t>
       </tg>
     </mg>
   </e>
@@ -8084,7 +8054,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bokhandel</t>
+        <t pos="m">bokhandel</t>
       </tg>
     </mg>
   </e>
@@ -8094,7 +8064,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bibliotek</t>
+        <t pos="n">bibliotek</t>
       </tg>
     </mg>
   </e>
@@ -8104,7 +8074,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">forfatter</t>
+        <t pos="m">forfatter</t>
       </tg>
     </mg>
   </e>
@@ -8114,7 +8084,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">skredder</t>
+        <t pos="m">skredder</t>
       </tg>
     </mg>
   </e>
@@ -8124,7 +8094,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">symaskin</t>
+        <t pos="f">symaskin</t>
       </tg>
     </mg>
   </e>
@@ -8134,7 +8104,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">villreinsbukk</t>
+        <t pos="m">villreinsbukk</t>
       </tg>
     </mg>
   </e>
@@ -8144,7 +8114,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">tørrkjøtt</t>
+        <t pos="n">tørrkjøtt</t>
       </tg>
     </mg>
   </e>
@@ -8154,7 +8124,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">tørrved</t>
+        <t pos="m">tørrved</t>
       </tg>
     </mg>
   </e>
@@ -8164,7 +8134,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bildebok</t>
+        <t pos="f">bildebok</t>
       </tg>
     </mg>
   </e>
@@ -8174,7 +8144,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">langfredag</t>
+        <t pos="m">langfredag</t>
       </tg>
     </mg>
   </e>
@@ -8184,7 +8154,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">fiske</t>
+        <t pos="n">fiske</t>
       </tg>
     </mg>
   </e>
@@ -8194,7 +8164,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">fisker</t>
+        <t pos="m">fisker</t>
       </tg>
     </mg>
   </e>
@@ -8204,7 +8174,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">nordlys</t>
+        <t pos="n">nordlys</t>
       </tg>
     </mg>
   </e>
@@ -8214,7 +8184,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">strandsnipe</t>
+        <t pos="f">strandsnipe</t>
       </tg>
     </mg>
   </e>
@@ -8224,7 +8194,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kafe</t>
+        <t pos="m">kafe</t>
       </tg>
     </mg>
   </e>
@@ -8234,7 +8204,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">gate</t>
+        <t pos="f">gate</t>
       </tg>
     </mg>
   </e>
@@ -8244,7 +8214,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">tind</t>
+        <t pos="m">tind</t>
       </tg>
     </mg>
   </e>
@@ -8254,7 +8224,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">skalle</t>
+        <t pos="m">skalle</t>
       </tg>
     </mg>
   </e>
@@ -8264,7 +8234,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kammers</t>
+        <t pos="n">kammers</t>
       </tg>
     </mg>
   </e>
@@ -8274,7 +8244,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">koftekledd person</t>
+        <t pos="m">koftekledd person</t>
       </tg>
     </mg>
   </e>
@@ -8284,7 +8254,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kristihimmelfartsdag</t>
+        <t pos="m">kristihimmelfartsdag</t>
       </tg>
     </mg>
   </e>
@@ -8294,7 +8264,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">lyngshest</t>
+        <t pos="m">lyngshest</t>
       </tg>
     </mg>
   </e>
@@ -8305,7 +8275,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">halvår</t>
+        <t pos="n">halvår</t>
       </tg>
     </mg>
   </e>
@@ -8315,7 +8285,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">isvei</t>
+        <t pos="m">isvei</t>
       </tg>
     </mg>
   </e>
@@ -8325,7 +8295,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">videregående skole</t>
+        <t pos="m">videregående skole</t>
       </tg>
     </mg>
   </e>
@@ -8335,7 +8305,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">elvebredd</t>
+        <t pos="m">elvebredd</t>
       </tg>
     </mg>
   </e>
@@ -8345,7 +8315,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">flyttsame</t>
+        <t pos="m">flyttsame</t>
       </tg>
     </mg>
   </e>
@@ -8355,7 +8325,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">journalist</t>
+        <t pos="m">journalist</t>
       </tg>
     </mg>
   </e>
@@ -8365,7 +8335,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">leder</t>
+        <t pos="m">leder</t>
       </tg>
     </mg>
   </e>
@@ -8375,7 +8345,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">drikk</t>
+        <t pos="m">drikk</t>
       </tg>
     </mg>
   </e>
@@ -8385,7 +8355,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">lulesamisk</t>
+        <t pos="a">lulesamisk</t>
       </tg>
     </mg>
   </e>
@@ -8395,7 +8365,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">julekort</t>
+        <t pos="n">julekort</t>
       </tg>
     </mg>
   </e>
@@ -8405,7 +8375,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">juleferie</t>
+        <t pos="m">juleferie</t>
       </tg>
     </mg>
   </e>
@@ -8415,7 +8385,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">julesang</t>
+        <t pos="m">julesang</t>
       </tg>
     </mg>
   </e>
@@ -8425,7 +8395,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">julaften</t>
+        <t pos="m">julaften</t>
       </tg>
     </mg>
   </e>
@@ -8435,7 +8405,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">julenisse</t>
+        <t pos="m">julenisse</t>
       </tg>
     </mg>
   </e>
@@ -8445,7 +8415,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">julepynt</t>
+        <t pos="m">julepynt</t>
       </tg>
     </mg>
   </e>
@@ -8455,7 +8425,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">mel</t>
+        <t pos="n">mel</t>
       </tg>
     </mg>
   </e>
@@ -8465,7 +8435,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">innsjøbredd</t>
+        <t pos="m">innsjøbredd</t>
       </tg>
     </mg>
   </e>
@@ -8475,7 +8445,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kalender</t>
+        <t pos="m">kalender</t>
       </tg>
     </mg>
   </e>
@@ -8485,7 +8455,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kino</t>
+        <t pos="m">kino</t>
       </tg>
     </mg>
   </e>
@@ -8495,7 +8465,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kor</t>
+        <t pos="n">kor</t>
       </tg>
     </mg>
   </e>
@@ -8505,7 +8475,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kristendom</t>
+        <t pos="m">kristendom</t>
       </tg>
     </mg>
   </e>
@@ -8515,7 +8485,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kulturhus</t>
+        <t pos="n">kulturhus</t>
       </tg>
     </mg>
   </e>
@@ -8525,7 +8495,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">nabo</t>
+        <t pos="m">nabo</t>
       </tg>
     </mg>
   </e>
@@ -8535,7 +8505,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">aspekt</t>
+        <t pos="n">aspekt</t>
       </tg>
     </mg>
   </e>
@@ -8545,7 +8515,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">aspirasjon</t>
+        <t pos="m">aspirasjon</t>
       </tg>
     </mg>
   </e>
@@ -8884,7 +8854,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">assimilasjon</t>
+        <t pos="m">assimilasjon</t>
       </tg>
     </mg>
   </e>
@@ -8895,7 +8865,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">tykkelse</t>
+        <t pos="m">tykkelse</t>
       </tg>
     </mg>
   </e>
@@ -9026,7 +8996,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">asymptote</t>
+        <t pos="m">asymptote</t>
       </tg>
     </mg>
   </e>
@@ -9046,7 +9016,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">atavisme</t>
+        <t pos="m">atavisme</t>
       </tg>
     </mg>
   </e>
@@ -9056,7 +9026,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">ateisme</t>
+        <t pos="m">ateisme</t>
       </tg>
     </mg>
   </e>
@@ -9066,7 +9036,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">ateneuma</t>
+        <t pos="n">ateneuma</t>
       </tg>
     </mg>
   </e>
@@ -9108,7 +9078,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">atom</t>
+        <t pos="n">atom</t>
       </tg>
     </mg>
   </e>
@@ -9128,7 +9098,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">atomisme</t>
+        <t pos="m">atomisme</t>
       </tg>
     </mg>
   </e>
@@ -9148,7 +9118,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">atropin</t>
+        <t pos="n">atropin</t>
       </tg>
     </mg>
   </e>
@@ -9169,7 +9139,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">attentat</t>
+        <t pos="n">attentat</t>
       </tg>
     </mg>
   </e>
@@ -9179,7 +9149,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">attentiv</t>
+        <t pos="n">attentiv</t>
       </tg>
     </mg>
   </e>
@@ -9229,7 +9199,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">audio-visual</t>
+        <t pos="a">audio-visual</t>
       </tg>
     </mg>
   </e>
@@ -9279,7 +9249,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">autarki</t>
+        <t pos="n">autarki</t>
       </tg>
     </mg>
   </e>
@@ -9289,7 +9259,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">autisme</t>
+        <t pos="m">autisme</t>
       </tg>
     </mg>
   </e>
@@ -9309,7 +9279,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">autograf</t>
+        <t pos="m">autograf</t>
       </tg>
     </mg>
   </e>
@@ -9319,7 +9289,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">autokrati</t>
+        <t pos="n">autokrati</t>
       </tg>
     </mg>
   </e>
@@ -9369,7 +9339,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">automasjon</t>
+        <t pos="m">automasjon</t>
       </tg>
     </mg>
   </e>
@@ -9399,7 +9369,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">autonomi</t>
+        <t pos="m">autonomi</t>
       </tg>
     </mg>
   </e>
@@ -9419,7 +9389,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">autorisasjon</t>
+        <t pos="m">autorisasjon</t>
       </tg>
     </mg>
   </e>
@@ -9670,7 +9640,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">avsnitt</t>
+        <t pos="n">avsnitt</t>
       </tg>
     </mg>
   </e>
@@ -10097,7 +10067,7 @@
     <mg>
       <tg>
         <t pos="m">fjellsame</t>
-        <t pos="x">flyttsame</t>
+        <t pos="m">flyttsame</t>
       </tg>
     </mg>
   </e>
@@ -10527,7 +10497,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">den onde</t>
+        <t pos="m">den onde</t>
       </tg>
     </mg>
   </e>
@@ -11133,7 +11103,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">overenden</t>
+        <t pos="m">overenden</t>
         <xg>
           <x>dat lea bajágeahčen, manai bajágeahčai</x>
           <xt></xt>
@@ -11358,7 +11328,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bakkanal</t>
+        <t pos="m">bakkanal</t>
       </tg>
     </mg>
   </e>
@@ -11368,7 +11338,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bakkepersonell</t>
+        <t pos="n">bakkepersonell</t>
       </tg>
     </mg>
   </e>
@@ -11478,7 +11448,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bakteri</t>
+        <t pos="m">bakteri</t>
       </tg>
     </mg>
   </e>
@@ -11488,7 +11458,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bakteriologi</t>
+        <t pos="m">bakteriologi</t>
       </tg>
     </mg>
   </e>
@@ -11568,7 +11538,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">balanse</t>
+        <t pos="m">balanse</t>
       </tg>
     </mg>
   </e>
@@ -12099,7 +12069,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">baptisme</t>
+        <t pos="m">baptisme</t>
       </tg>
     </mg>
   </e>
@@ -12119,7 +12089,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">barbari</t>
+        <t pos="n">barbari</t>
       </tg>
     </mg>
   </e>
@@ -12427,7 +12397,7 @@
     <mg>
       <tg>
         <t pos="n">redskap</t>
-        <t pos="x">arbeidsredskap</t>
+        <t pos="n">arbeidsredskap</t>
       </tg>
     </mg>
   </e>
@@ -12920,7 +12890,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">baroni</t>
+        <t pos="n">baroni</t>
       </tg>
     </mg>
   </e>
@@ -13228,7 +13198,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bataljon</t>
+        <t pos="m">bataljon</t>
       </tg>
     </mg>
   </e>
@@ -13428,7 +13398,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">batteri</t>
+        <t pos="n">batteri</t>
       </tg>
     </mg>
   </e>
@@ -14463,7 +14433,7 @@
     </mg>
     <mg>
       <tg>
-        <t pos="x">fanden</t>
+        <t pos="m">fanden</t>
       </tg>
     </mg>
   </e>
@@ -14474,7 +14444,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">fredag</t>
+        <t pos="m">fredag</t>
       </tg>
     </mg>
   </e>
@@ -14646,7 +14616,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">påske</t>
+        <t pos="f">påske</t>
         <xg>
           <x>beassášbeaivi</x>
           <xt>påskedag</xt>
@@ -15023,7 +14993,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">benzen</t>
+        <t pos="m">benzen</t>
       </tg>
     </mg>
   </e>
@@ -15197,7 +15167,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bibliografi</t>
+        <t pos="m">bibliografi</t>
       </tg>
     </mg>
   </e>
@@ -15207,7 +15177,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bibliografi</t>
+        <t pos="m">bibliografi</t>
       </tg>
     </mg>
   </e>
@@ -15268,8 +15238,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">småskåret kjøtt</t>
-        <t pos="x">stekt eller kokt</t>
+        <t pos="m">småskåret kjøtt</t>
+        <t pos="x">biđus er småskåret kjøtt, stekt eller kokt</t>
       </tg>
     </mg>
   </e>
@@ -16211,7 +16181,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">barmark</t>
+        <t pos="f">barmark</t>
       </tg>
     </mg>
   </e>
@@ -16282,7 +16252,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bigami</t>
+        <t pos="n">bigami</t>
       </tg>
     </mg>
   </e>
@@ -16893,7 +16863,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bijeksjon</t>
+        <t pos="m">bijeksjon</t>
       </tg>
     </mg>
   </e>
@@ -16903,7 +16873,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bijouteri</t>
+        <t pos="n">bijouteri</t>
       </tg>
     </mg>
   </e>
@@ -16934,7 +16904,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">klær</t>
+        <t pos="npl">klær</t>
       </tg>
     </mg>
   </e>
@@ -17004,7 +16974,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bilingvalisme</t>
+        <t pos="m">bilingvalisme</t>
       </tg>
     </mg>
   </e>
@@ -17014,7 +16984,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bilingvisme</t>
+        <t pos="m">bilingvisme</t>
       </tg>
     </mg>
   </e>
@@ -17154,7 +17124,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">binom</t>
+        <t pos="n">binom</t>
       </tg>
     </mg>
   </e>
@@ -17174,7 +17144,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">biomangfoldskonvensjon</t>
+        <t pos="m">biomangfoldskonvensjon</t>
       </tg>
     </mg>
   </e>
@@ -17204,7 +17174,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">biokjemi</t>
+        <t pos="m">biokjemi</t>
       </tg>
     </mg>
   </e>
@@ -17214,7 +17184,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">biokonvensjon</t>
+        <t pos="m">biokonvensjon</t>
       </tg>
     </mg>
   </e>
@@ -17244,7 +17214,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">biopsi</t>
+        <t pos="m">biopsi</t>
       </tg>
     </mg>
   </e>
@@ -17254,7 +17224,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bioteknologi</t>
+        <t pos="m">bioteknologi</t>
       </tg>
     </mg>
   </e>
@@ -17833,7 +17803,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">slitt børse</t>
+        <t pos="f">slitt børse</t>
       </tg>
     </mg>
   </e>
@@ -17855,7 +17825,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bistro</t>
+        <t pos="m">bistro</t>
       </tg>
     </mg>
   </e>
@@ -17875,7 +17845,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bitumen</t>
+        <t pos="m">bitumen</t>
       </tg>
     </mg>
   </e>
@@ -18840,7 +18810,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">avkrok</t>
+        <t pos="m">avkrok</t>
       </tg>
     </mg>
   </e>
@@ -19600,7 +19570,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">reinbeitekonvensjon</t>
+        <t pos="m">reinbeitekonvensjon</t>
       </tg>
     </mg>
   </e>
@@ -20300,7 +20270,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bombasin</t>
+        <t pos="m">bombasin</t>
       </tg>
     </mg>
   </e>
@@ -20531,7 +20501,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bordell</t>
+        <t pos="m">bordell</t>
       </tg>
     </mg>
   </e>
@@ -20604,7 +20574,7 @@
     <mg>
       <tg>
         <t pos="n">fokk</t>
-        <t pos="x">snøfokk</t>
+        <t pos="n">snøfokk</t>
       </tg>
     </mg>
   </e>
@@ -20664,7 +20634,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">skinn</t>
+        <t pos="n">skinn</t>
       </tg>
     </mg>
   </e>
@@ -20745,8 +20715,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">mat</t>
-        <t pos="x">maten</t>
+        <t pos="m">mat</t>
       </tg>
     </mg>
   </e>
@@ -20913,7 +20882,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">kvann</t>
+        <t pos="m">kvann</t>
       </tg>
     </mg>
     <mg>
@@ -21048,7 +21017,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">botulisme</t>
+        <t pos="m">botulisme</t>
       </tg>
     </mg>
   </e>
@@ -21149,7 +21118,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bramaisme</t>
+        <t pos="m">bramaisme</t>
       </tg>
     </mg>
   </e>
@@ -21159,7 +21128,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bramanisme</t>
+        <t pos="m">bramanisme</t>
       </tg>
     </mg>
   </e>
@@ -21269,7 +21238,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">brensel</t>
+        <t pos="n">brensel</t>
       </tg>
     </mg>
   </e>
@@ -21279,7 +21248,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">brillefutteral</t>
+        <t pos="n">brillefutteral</t>
       </tg>
     </mg>
   </e>
@@ -21289,7 +21258,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">broderi</t>
+        <t pos="n">broderi</t>
       </tg>
     </mg>
   </e>
@@ -21299,7 +21268,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">bromisme</t>
+        <t pos="m">bromisme</t>
       </tg>
     </mg>
   </e>
@@ -21319,7 +21288,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">brutalisere</t>
+        <t pos="v">brutalisere</t>
       </tg>
     </mg>
   </e>
@@ -21389,7 +21358,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">buddhatempel</t>
+        <t pos="n">buddhatempel</t>
       </tg>
     </mg>
   </e>
@@ -21399,7 +21368,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">buddhisme</t>
+        <t pos="m">buddhisme</t>
       </tg>
     </mg>
   </e>
@@ -21936,7 +21905,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">pumpestasjon</t>
+        <t pos="m">pumpestasjon</t>
       </tg>
     </mg>
   </e>
@@ -22318,7 +22287,7 @@
     <mg>
       <tg>
         <t pos="m">kulde</t>
-        <t pos="x">frost</t>
+        <t pos="m">frost</t>
         <xg>
           <x>dál lea buolaš</x>
           <xt>nå er det kaldt</xt>
@@ -22739,8 +22708,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">sint</t>
-        <t pos="x">hissig</t>
+        <t pos="a">sint</t>
+        <t pos="a">hissig</t>
       </tg>
     </mg>
   </e>
@@ -23441,22 +23410,22 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">eid</t>
+        <t pos="n">eid</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">tørt stykke land</t>
+        <t pos="n">tørt stykke land</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">is</t>
+        <t pos="m">is</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">grunt sted over elv</t>
+        <t pos="n">grunt sted over elv</t>
       </tg>
     </mg>
     <mg>
@@ -23521,7 +23490,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">skyllestell for fisk</t>
+        <t pos="n">skyllestell for fisk</t>
       </tg>
     </mg>
   </e>
@@ -25509,7 +25478,7 @@
     </mg>
     <mg>
       <tg>
-        <t pos="x">votter til høytidsdrakt</t>
+        <t pos="npl">votter til høytidsdrakt</t>
       </tg>
     </mg>
   </e>
@@ -26624,12 +26593,12 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">tett snøføkk</t>
+        <t pos="n">tett snøføkk</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">tett røyk</t>
+        <t pos="m">tett røyk</t>
       </tg>
     </mg>
     <mg>
@@ -30749,7 +30718,7 @@
     </mg>
     <mg>
       <tg>
-        <t pos="x">vei merket med stikker</t>
+        <t pos="m">vei merket med stikker</t>
       </tg>
     </mg>
   </e>
@@ -41782,7 +41751,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">mellomste tverrtre</t>
+        <t pos="n">mellomste tverrtre</t>
       </tg>
     </mg>
   </e>
@@ -43336,7 +43305,7 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">tvinning av garn</t>
+        <t pos="f">tvinning av garn</t>
       </tg>
     </mg>
   </e>
@@ -43456,7 +43425,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">spor etter noe som er trukket</t>
+        <t pos="n">spor etter noe som er trukket</t>
       </tg>
     </mg>
   </e>
@@ -44771,7 +44740,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">tverrtre på slede</t>
+        <t pos="n">tverrtre på slede</t>
       </tg>
     </mg>
   </e>
@@ -46006,7 +45975,7 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">duk som dekker halve lavvoteltet</t>
+        <t pos="m">duk som dekker halve lavvoteltet</t>
       </tg>
     </mg>
   </e>
@@ -48226,7 +48195,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">verdiløs kniv</t>
+        <t pos="m">verdiløs kniv</t>
       </tg>
     </mg>
   </e>
@@ -53567,16 +53536,6 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="prop">Islánda</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="prop">Island</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="prop">Ittarvuotna</l>
     </lg>
     <mg>
@@ -55372,16 +55331,6 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="prop">Joganjálbmi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="prop">Elvebakken</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">jogurta</l>
     </lg>
     <mg>
@@ -56872,7 +56821,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">idemyldring</t>
+        <t pos="f">idemyldring</t>
+        <t pos="f">brainstorming</t>
       </tg>
     </mg>
   </e>
@@ -61623,7 +61573,7 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">tampen av en tøm</t>
+        <t pos="m">tampen av en tøm</t>
       </tg>
     </mg>
   </e>
@@ -62692,16 +62642,6 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="n">lihttu</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="n">forbund</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">liidnačielgi</l>
     </lg>
     <mg>
@@ -62741,7 +62681,7 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">lin</t>
+        <t pos="m">lin</t>
       </tg>
     </mg>
   </e>
@@ -63191,12 +63131,12 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">mannslue uten fyll i pullen</t>
+        <t pos="f">mannslue uten fyll i pullen</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">gammel og utslitt mannslue</t>
+        <t pos="f">gammel og utslitt mannslue</t>
       </tg>
     </mg>
   </e>
@@ -65595,7 +65535,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">stykke av reinhornets stamme mellom to greiner</t>
+        <t pos="n">stykke av reinhornets stamme mellom to greiner</t>
       </tg>
     </mg>
   </e>
@@ -66691,7 +66631,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">det bakerste tverrtre på slede og kjelke</t>
+        <t pos="n">det bakerste tverrtre på slede og kjelke</t>
       </tg>
     </mg>
   </e>
@@ -66831,7 +66771,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bakre stykke av en todelt skallebunn</t>
+        <t pos="n">bakre stykke av en todelt skallebunn</t>
       </tg>
     </mg>
   </e>
@@ -66881,7 +66821,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">akterstavn</t>
+        <t pos="m">akterstavn</t>
+        <t pos="m">bakstavn</t>
       </tg>
     </mg>
   </e>
@@ -71144,16 +71085,6 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="n">nammamánni</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">namsmann</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">nammaoassi</l>
     </lg>
     <mg>
@@ -73381,16 +73312,6 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="prop">Nuortamearra</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="prop">Østersjø</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="prop">Nuortaváhki</l>
     </lg>
     <mg>
@@ -73405,7 +73326,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">forurensing</t>
+        <t pos="f">forurensing</t>
       </tg>
     </mg>
   </e>
@@ -73415,7 +73336,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">kjønnssykdom</t>
+        <t pos="m">kjønnssykdom</t>
       </tg>
     </mg>
   </e>
@@ -73425,7 +73346,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">forurensningstilsyn</t>
+        <t pos="n">forurensningstilsyn</t>
       </tg>
     </mg>
   </e>
@@ -73435,7 +73356,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">utslippsreduksjon</t>
+        <t pos="m">utslippsreduksjon</t>
       </tg>
     </mg>
   </e>
@@ -73445,7 +73366,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">forurensningslov</t>
+        <t pos="f">forurensningslov</t>
       </tg>
     </mg>
   </e>
@@ -73455,7 +73376,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">forurensning</t>
+        <t pos="f">forurensning</t>
       </tg>
     </mg>
   </e>
@@ -73465,7 +73386,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">gesimshøyde</t>
+        <t pos="m">gesimshøyde</t>
       </tg>
     </mg>
   </e>
@@ -73475,7 +73396,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">hjørnebygning</t>
+        <t pos="m">hjørnebygning</t>
       </tg>
     </mg>
   </e>
@@ -73485,7 +73406,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">nygaardsvollbåt</t>
+        <t pos="m">nygaardsvollbåt</t>
       </tg>
     </mg>
   </e>
@@ -73495,7 +73416,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">nylonnot</t>
+        <t pos="f">nylonnot</t>
       </tg>
     </mg>
   </e>
@@ -73505,7 +73426,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">soverom</t>
+        <t pos="n">soverom</t>
       </tg>
     </mg>
   </e>
@@ -73530,7 +73451,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">trygghetsfølelse</t>
+        <t pos="m">trygghetsfølelse</t>
       </tg>
     </mg>
   </e>
@@ -73540,7 +73461,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">trygghet</t>
+        <t pos="f">trygghet</t>
       </tg>
     </mg>
   </e>
@@ -73560,7 +73481,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">trygdekontoret</t>
+        <t pos="n">trygdekontoret</t>
       </tg>
     </mg>
   </e>
@@ -73580,7 +73501,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">trygd</t>
+        <t pos="f">trygd</t>
       </tg>
     </mg>
   </e>
@@ -73590,7 +73511,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">juksasnøre</t>
+        <t pos="n">juksasnøre</t>
       </tg>
     </mg>
   </e>
@@ -73600,7 +73521,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">avgrensning</t>
+        <t pos="f">avgrensning</t>
       </tg>
     </mg>
   </e>
@@ -73610,7 +73531,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">undervisningslaboratorie</t>
+        <t pos="n">undervisningslaboratorie</t>
       </tg>
     </mg>
   </e>
@@ -73620,7 +73541,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">undervisningsrom</t>
+        <t pos="n">undervisningsrom</t>
       </tg>
     </mg>
   </e>
@@ -73630,7 +73551,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">kateter</t>
+        <t pos="n">kateter</t>
       </tg>
     </mg>
   </e>
@@ -73640,7 +73561,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">lærerprofesjonalitet</t>
+        <t pos="m">lærerprofesjonalitet</t>
       </tg>
     </mg>
   </e>
@@ -73650,7 +73571,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">lærerteam</t>
+        <t pos="n">lærerteam</t>
       </tg>
     </mg>
   </e>
@@ -73660,7 +73581,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">lærersyn</t>
+        <t pos="n">lærersyn</t>
       </tg>
     </mg>
   </e>
@@ -73670,7 +73591,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">lærerrolle</t>
+        <t pos="f">lærerrolle</t>
       </tg>
     </mg>
   </e>
@@ -73680,7 +73601,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">opplæring</t>
+        <t pos="f">opplæring</t>
       </tg>
     </mg>
   </e>
@@ -73700,7 +73621,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">lærerlag</t>
+        <t pos="n">lærerlag</t>
       </tg>
     </mg>
   </e>
@@ -73710,7 +73631,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">undervisningsopplegg</t>
+        <t pos="f">undervisningsopplegg</t>
       </tg>
     </mg>
   </e>
@@ -73720,7 +73641,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">undervisningsinspektør</t>
+        <t pos="m">undervisningsinspektør</t>
       </tg>
     </mg>
   </e>
@@ -73740,7 +73661,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">undervisning</t>
+        <t pos="f">undervisning</t>
       </tg>
     </mg>
   </e>
@@ -73750,7 +73671,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">opplæringsavdeling</t>
+        <t pos="f">opplæringsavdeling</t>
       </tg>
     </mg>
   </e>
@@ -73770,7 +73691,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">opplæringsmål</t>
+        <t pos="n">opplæringsmål</t>
       </tg>
     </mg>
   </e>
@@ -73780,7 +73701,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">opplæringsform</t>
+        <t pos="f">opplæringsform</t>
       </tg>
     </mg>
   </e>
@@ -73790,7 +73711,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">førerhund</t>
+        <t pos="m">førerhund</t>
       </tg>
     </mg>
   </e>
@@ -73810,7 +73731,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">informasjonskart</t>
+        <t pos="n">informasjonskart</t>
       </tg>
     </mg>
   </e>
@@ -73820,7 +73741,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">vegvisertavle</t>
+        <t pos="f">vegvisertavle</t>
       </tg>
     </mg>
   </e>
@@ -73830,7 +73751,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">informasjon</t>
+        <t pos="m">informasjon</t>
       </tg>
     </mg>
   </e>
@@ -73850,7 +73771,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">vitnemål</t>
+        <t pos="n">vitnemål</t>
       </tg>
     </mg>
   </e>
@@ -73860,7 +73781,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">læringsmiljø</t>
+        <t pos="n">læringsmiljø</t>
       </tg>
     </mg>
   </e>
@@ -73870,7 +73791,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">læringsutbytte</t>
+        <t pos="n">læringsutbytte</t>
       </tg>
     </mg>
   </e>
@@ -73890,7 +73811,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">læringssyn</t>
+        <t pos="n">læringssyn</t>
       </tg>
     </mg>
   </e>
@@ -73900,7 +73821,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">lærevanske</t>
+        <t pos="m">lærevanske</t>
       </tg>
     </mg>
   </e>
@@ -73910,7 +73831,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">læreplanverk</t>
+        <t pos="n">læreplanverk</t>
       </tg>
     </mg>
   </e>
@@ -73920,7 +73841,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">pult</t>
+        <t pos="m">pult</t>
       </tg>
     </mg>
   </e>
@@ -73930,7 +73851,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">elev</t>
+        <t pos="m">elev</t>
       </tg>
     </mg>
   </e>
@@ -73940,7 +73861,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">studiepoeng</t>
+        <t pos="n">studiepoeng</t>
       </tg>
     </mg>
   </e>
@@ -73960,7 +73881,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">utdanningsforbundet</t>
+        <t pos="n">utdanningsforbundet</t>
       </tg>
     </mg>
   </e>
@@ -73970,7 +73891,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">læremiddelverksted</t>
+        <t pos="n">læremiddelverksted</t>
       </tg>
     </mg>
   </e>
@@ -74030,7 +73951,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">lærestoff</t>
+        <t pos="n">lærestoff</t>
       </tg>
     </mg>
   </e>
@@ -74040,7 +73961,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">åte</t>
+        <t pos="f">åte</t>
       </tg>
     </mg>
   </e>
@@ -74050,7 +73971,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">synssans</t>
+        <t pos="m">synssans</t>
       </tg>
     </mg>
   </e>
@@ -74060,7 +73981,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">synsfelt</t>
+        <t pos="n">synsfelt</t>
       </tg>
     </mg>
   </e>
@@ -74070,7 +73991,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">innsynsrett</t>
+        <t pos="m">innsynsrett</t>
       </tg>
     </mg>
   </e>
@@ -77570,7 +77491,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">forreste tverrtre på bjelke</t>
+        <t pos="n">forreste tverrtre på bjelke</t>
       </tg>
     </mg>
   </e>
@@ -82398,7 +82319,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">omslag av eineavkok</t>
+        <t pos="n">omslag av eineavkok</t>
       </tg>
     </mg>
   </e>
@@ -82408,7 +82329,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">omslag av eineavkok</t>
+        <t pos="n">omslag av eineavkok</t>
       </tg>
     </mg>
   </e>
@@ -89443,7 +89364,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">nett av tråd</t>
+        <t pos="n">nett av tråd</t>
       </tg>
     </mg>
   </e>
@@ -91625,7 +91546,7 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">knakende lyd</t>
+        <t pos="m">knakende lyd</t>
       </tg>
     </mg>
   </e>
@@ -92296,22 +92217,22 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">ryking</t>
+        <t pos="f">ryking</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">bru av is eller snø</t>
+        <t pos="f">bru av is eller snø</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">is mellom to råker</t>
+        <t pos="m">is mellom to råker</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">smalt stykke fast grunn på myr</t>
+        <t pos="n">smalt stykke fast grunn på myr</t>
       </tg>
     </mg>
   </e>
@@ -100171,16 +100092,6 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="n">velgoheaddji</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">kreditor</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">velositehta</l>
     </lg>
     <mg>
@@ -100940,12 +100851,12 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">stående stav i høystakk</t>
+        <t pos="m">stående stav i høystakk</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">stativ i forrådsstillaset</t>
+        <t pos="n">stativ i forrådsstillaset</t>
         <xg>
           <x>luovvi</x>
         </xg>
@@ -103224,12 +103135,12 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">en som er ventet</t>
+        <t pos="s">en som er ventet</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">noe som er ventet</t>
+        <t pos="s">noe som er ventet</t>
       </tg>
     </mg>
   </e>
@@ -103450,16 +103361,6 @@ igskogen
     <mg>
       <tg>
         <t pos="S">blåsebelg</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">vuostáheavval</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">ostehøvel</t>
       </tg>
     </mg>
   </e>
@@ -103780,7 +103681,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="S">ostehøvel</t>
+        <t pos="m">ostehøvel</t>
       </tg>
     </mg>
   </e>
@@ -104320,7 +104221,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">ja/nei-spørsmål</t>
+        <t pos="n">ja/nei-spørsmål</t>
         <t pos="cs">som</t>
       </tg>
     </mg>
@@ -104447,7 +104348,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hos meg sjøl</t>
+        <t pos="s">hos meg sjøl</t>
         <xg>
           <x>(dus) alddát</x>
           <x>(sus) alddis</x>
@@ -104467,7 +104368,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">uten</t>
+        <t pos="p">uten</t>
         <xg>
           <x>almmá mu dieđekeahttá</x>
           <xt>uten at jeg vet</xt>
@@ -104481,7 +104382,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">over</t>
+        <t pos="p">over</t>
       </tg>
     </mg>
   </e>
@@ -104491,7 +104392,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">til meg sjøl</t>
+        <t pos="p">til meg sjøl</t>
         <xg>
           <x>(dutnje) alccesat</x>
           <x>(sutnje) alccesis</x>
@@ -104507,11 +104408,11 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="pron">alde</l>
+      <l pos="po">alde</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">på</t>
+        <t pos="p">på</t>
       <xg>
       <x>
       </x>
@@ -105111,7 +105012,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">alternere</t>
+        <t pos="v">alternere</t>
       </tg>
     </mg>
   </e>
@@ -105121,7 +105022,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">aluminere</t>
+        <t pos="v">aluminere</t>
       </tg>
     </mg>
   </e>
@@ -105141,7 +105042,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">ambulere</t>
+        <t pos="v">ambulere</t>
       </tg>
     </mg>
   </e>
@@ -105151,7 +105052,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">amerikanisere</t>
+        <t pos="v">amerikanisere</t>
       </tg>
     </mg>
   </e>
@@ -105161,7 +105062,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">amortisere</t>
+        <t pos="v">amortisere</t>
       </tg>
     </mg>
   </e>
@@ -105171,7 +105072,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">amputere</t>
+        <t pos="v">amputere</t>
       </tg>
     </mg>
   </e>
@@ -105191,7 +105092,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">anestesere</t>
+        <t pos="v">anestesere</t>
       </tg>
     </mg>
   </e>
@@ -105211,7 +105112,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">anglifisere</t>
+        <t pos="v">anglifisere</t>
       </tg>
     </mg>
   </e>
@@ -105221,7 +105122,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">anglifisere</t>
+        <t pos="v">anglifisere</t>
       </tg>
     </mg>
   </e>
@@ -105231,7 +105132,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">anglisere</t>
+        <t pos="v">anglisere</t>
       </tg>
     </mg>
   </e>
@@ -105241,7 +105142,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">animalisere</t>
+        <t pos="v">animalisere</t>
       </tg>
     </mg>
   </e>
@@ -105251,7 +105152,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">animere</t>
+        <t pos="v">animere</t>
       </tg>
     </mg>
   </e>
@@ -105261,7 +105162,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">annektere</t>
+        <t pos="v">annektere</t>
       </tg>
     </mg>
   </e>
@@ -105271,7 +105172,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">annonsere</t>
+        <t pos="v">annonsere</t>
       </tg>
     </mg>
   </e>
@@ -105281,7 +105182,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">annullere</t>
+        <t pos="v">annullere</t>
       </tg>
     </mg>
   </e>
@@ -105291,7 +105192,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">anodisere</t>
+        <t pos="v">anodisere</t>
       </tg>
     </mg>
   </e>
@@ -105301,7 +105202,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">anonymisere</t>
+        <t pos="v">anonymisere</t>
       </tg>
     </mg>
   </e>
@@ -105311,7 +105212,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">antecipere</t>
+        <t pos="v">antecipere</t>
       </tg>
     </mg>
   </e>
@@ -105321,7 +105222,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">antedatere</t>
+        <t pos="v">antedatere</t>
       </tg>
     </mg>
   </e>
@@ -105331,7 +105232,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">antesipere</t>
+        <t pos="v">antesipere</t>
       </tg>
     </mg>
   </e>
@@ -105341,7 +105242,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">antikisere</t>
+        <t pos="v">antikisere</t>
       </tg>
     </mg>
   </e>
@@ -105351,7 +105252,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">apokopere</t>
+        <t pos="v">apokopere</t>
       </tg>
     </mg>
   </e>
@@ -105361,7 +105262,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">apostrofere</t>
+        <t pos="v">apostrofere</t>
       </tg>
     </mg>
   </e>
@@ -105371,7 +105272,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">applaudere</t>
+        <t pos="v">applaudere</t>
       </tg>
     </mg>
   </e>
@@ -105381,7 +105282,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">applikere</t>
+        <t pos="v">applikere</t>
       </tg>
     </mg>
   </e>
@@ -105391,7 +105292,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">applisere</t>
+        <t pos="v">applisere</t>
       </tg>
     </mg>
   </e>
@@ -105401,7 +105302,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">apportere</t>
+        <t pos="v">apportere</t>
       </tg>
     </mg>
   </e>
@@ -105411,7 +105312,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">appretere</t>
+        <t pos="v">appretere</t>
       </tg>
     </mg>
   </e>
@@ -105421,7 +105322,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">approbere</t>
+        <t pos="v">approbere</t>
       </tg>
     </mg>
   </e>
@@ -105431,7 +105332,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">appropriere</t>
+        <t pos="v">appropriere</t>
       </tg>
     </mg>
   </e>
@@ -105441,7 +105342,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">aptere</t>
+        <t pos="v">aptere</t>
       </tg>
     </mg>
   </e>
@@ -105471,7 +105372,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">arkaisere</t>
+        <t pos="v">arkaisere</t>
       </tg>
     </mg>
   </e>
@@ -105481,7 +105382,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">arkebusere</t>
+        <t pos="v">arkebusere</t>
       </tg>
     </mg>
   </e>
@@ -105501,7 +105402,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">armere</t>
+        <t pos="v">armere</t>
       </tg>
     </mg>
   </e>
@@ -105511,7 +105412,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">aromatisere</t>
+        <t pos="v">aromatisere</t>
       </tg>
     </mg>
   </e>
@@ -105521,7 +105422,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">arrangere</t>
+        <t pos="v">arrangere</t>
       </tg>
     </mg>
   </e>
@@ -105531,7 +105432,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">arretere</t>
+        <t pos="v">arretere</t>
       </tg>
     </mg>
   </e>
@@ -105541,7 +105442,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">arrivere</t>
+        <t pos="v">arrivere</t>
       </tg>
     </mg>
   </e>
@@ -105551,7 +105452,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">arrondere</t>
+        <t pos="v">arrondere</t>
       </tg>
     </mg>
   </e>
@@ -105561,7 +105462,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">artikulere</t>
+        <t pos="v">artikulere</t>
       </tg>
     </mg>
   </e>
@@ -105656,7 +105557,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">asfaltere</t>
+        <t pos="v">asfaltere</t>
       </tg>
     </mg>
   </e>
@@ -105666,7 +105567,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">aspirere</t>
+        <t pos="v">aspirere</t>
       </tg>
     </mg>
   </e>
@@ -105746,7 +105647,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">assimilere</t>
+        <t pos="v">assimilere</t>
       </tg>
     </mg>
   </e>
@@ -105756,7 +105657,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">assistere</t>
+        <t pos="v">assistere</t>
       </tg>
     </mg>
   </e>
@@ -105766,7 +105667,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">associere</t>
+        <t pos="v">associere</t>
       </tg>
     </mg>
   </e>
@@ -105776,7 +105677,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">assortere</t>
+        <t pos="v">assortere</t>
       </tg>
     </mg>
   </e>
@@ -105855,7 +105756,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">atomisere</t>
+        <t pos="v">atomisere</t>
       </tg>
     </mg>
   </e>
@@ -105865,7 +105766,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">atrofiere</t>
+        <t pos="v">atrofiere</t>
       </tg>
     </mg>
   </e>
@@ -105875,7 +105776,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">attachere</t>
+        <t pos="v">attachere</t>
       </tg>
     </mg>
   </e>
@@ -105885,7 +105786,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">attakkere</t>
+        <t pos="v">attakkere</t>
       </tg>
     </mg>
   </e>
@@ -105895,7 +105796,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">attestere</t>
+        <t pos="v">attestere</t>
       </tg>
     </mg>
   </e>
@@ -105905,7 +105806,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">attrahere</t>
+        <t pos="v">attrahere</t>
       </tg>
     </mg>
   </e>
@@ -105915,17 +105816,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">aukšonere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">aukšuneret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">auksjonere</t>
+        <t pos="v">auksjonere</t>
       </tg>
     </mg>
   </e>
@@ -105935,7 +105826,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">autoklavere</t>
+        <t pos="v">autoklavere</t>
       </tg>
     </mg>
   </e>
@@ -105955,7 +105846,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">avansere</t>
+        <t pos="v">avansere</t>
       </tg>
     </mg>
   </e>
@@ -105965,7 +105856,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">avertere</t>
+        <t pos="v">avertere</t>
       </tg>
     </mg>
   </e>
@@ -106036,7 +105927,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">forakte</t>
-        <t pos="x">nedvurdere</t>
+        <t pos="v">nedvurdere</t>
       </tg>
     </mg>
   </e>
@@ -106073,7 +105964,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bagatellisere</t>
+        <t pos="v">bagatellisere</t>
       </tg>
     </mg>
   </e>
@@ -106290,7 +106181,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">balkanisere</t>
+        <t pos="v">balkanisere</t>
       </tg>
     </mg>
   </e>
@@ -106342,7 +106233,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">ballotere</t>
+        <t pos="v">ballotere</t>
       </tg>
     </mg>
   </e>
@@ -106352,7 +106243,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">ballottere</t>
+        <t pos="v">ballottere</t>
       </tg>
     </mg>
   </e>
@@ -106362,7 +106253,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">balsamere</t>
+        <t pos="v">balsamere</t>
       </tg>
     </mg>
   </e>
@@ -106382,17 +106273,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">banalisere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">bandageret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">bandagere</t>
+        <t pos="v">banalisere</t>
       </tg>
     </mg>
   </e>
@@ -106402,7 +106283,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bandasjere</t>
+        <t pos="v">bandasjere</t>
       </tg>
     </mg>
   </e>
@@ -106412,7 +106293,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bandasjere</t>
+        <t pos="v">bandasjere</t>
       </tg>
     </mg>
   </e>
@@ -106432,7 +106313,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">barbere</t>
+        <t pos="v">barbere</t>
       </tg>
     </mg>
   </e>
@@ -106453,7 +106334,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bardunere</t>
+        <t pos="v">bardunere</t>
       </tg>
     </mg>
   </e>
@@ -106543,7 +106424,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">barrikadere</t>
+        <t pos="v">barrikadere</t>
       </tg>
     </mg>
   </e>
@@ -106573,7 +106454,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">basere</t>
+        <t pos="v">basere</t>
       </tg>
     </mg>
   </e>
@@ -106638,7 +106519,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">basunere</t>
+        <t pos="v">basunere</t>
       </tg>
     </mg>
   </e>
@@ -106659,7 +106540,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">spinne</t>
+        <t pos="v">spinne</t>
       </tg>
     </mg>
   </e>
@@ -106911,7 +106792,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">burde</t>
-        <t pos="x">måtte</t>
+        <t pos="v">måtte</t>
       </tg>
     </mg>
   </e>
@@ -107038,7 +106919,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">sutre</t>
-        <t pos="x">klynke</t>
+        <t pos="v">klynke</t>
       </tg>
     </mg>
   </e>
@@ -107049,7 +106930,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">nekte</t>
-        <t pos="x">benekte</t>
+        <t pos="v">benekte</t>
       </tg>
     </mg>
   </e>
@@ -107133,7 +107014,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">miste</t>
-        <t pos="x">slippe</t>
+        <t pos="v">slippe</t>
       </tg>
     </mg>
   </e>
@@ -107213,7 +107094,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">klare</t>
+        <t pos="v">klare</t>
       </tg>
     </mg>
   </e>
@@ -107327,7 +107208,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">billettere</t>
+        <t pos="v">billettere</t>
       </tg>
     </mg>
   </e>
@@ -107451,8 +107332,8 @@ igskogen
     <mg>
       <tg>
         <t pos="v">skrike</t>
-        <t pos="x">hyle</t>
-        <t pos="x">gale</t>
+        <t pos="v">hyle</t>
+        <t pos="v">gale</t>
       </tg>
     </mg>
   </e>
@@ -107463,7 +107344,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">stanse</t>
-        <t pos="x">stoppe</t>
+        <t pos="v">stoppe</t>
         <xg>
           <x>mon bissehin dan</x>
           <xt>jeg stoppet den</xt>
@@ -107489,7 +107370,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">forbli</t>
-        <t pos="x">holde seg</t>
+        <t pos="v">holde seg</t>
       </tg>
     </mg>
   </e>
@@ -107598,7 +107479,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">fiske</t>
-        <t pos="x">jakte</t>
+        <t pos="v">jakte</t>
       <xg>
         <x>Muhto joddobuođuiguin bivdojuvvo luossa miehtá Deanu.</x>
         <xt>Men med posegarnstengsel blei det fiska laks langs heile Tana.</xt>
@@ -107608,7 +107489,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">be</t>
-        <t pos="x">anmode</t>
+        <t pos="v">anmode</t>
       <xg>
         <x>mon bivddán du vuolgit</x>
         <xt>jeg ber deg dra</xt>
@@ -107642,7 +107523,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bivuakkere</t>
+        <t pos="v">bivuakkere</t>
       </tg>
     </mg>
   </e>
@@ -107662,7 +107543,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">blamere</t>
+        <t pos="v">blamere</t>
       </tg>
     </mg>
   </e>
@@ -107672,7 +107553,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">blasonere</t>
+        <t pos="v">blasonere</t>
       </tg>
     </mg>
   </e>
@@ -107692,7 +107573,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">blokkere</t>
+        <t pos="v">blokkere</t>
       </tg>
     </mg>
   </e>
@@ -108058,7 +107939,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bokstavere</t>
+        <t pos="v">bokstavere</t>
       </tg>
     </mg>
   </e>
@@ -108120,7 +108001,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bombardere</t>
+        <t pos="v">bombardere</t>
       </tg>
     </mg>
   </e>
@@ -108132,7 +108013,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">dundre</t>
-        <t pos="x">brake</t>
+        <t pos="v">brake</t>
       </tg>
     </mg>
   </e>
@@ -108142,7 +108023,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bonitere</t>
+        <t pos="v">bonitere</t>
       </tg>
     </mg>
   </e>
@@ -108153,7 +108034,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">spise</t>
-        <t pos="x">ete</t>
+        <t pos="v">ete</t>
         <t pos="v">ha et måltid</t>
       </tg>
     </mg>
@@ -108283,7 +108164,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">spise</t>
-        <t pos="x">ete</t>
+        <t pos="v">ete</t>
       <xg>
         <x>mon boran láibbi</x>
         <xt>jeg spiser brød</xt>
@@ -108304,7 +108185,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">fosse</t>
-        <t pos="x">sprute</t>
+        <t pos="v">sprute</t>
       </tg>
     </mg>
   </e>
@@ -108346,7 +108227,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">botanisere</t>
+        <t pos="v">botanisere</t>
       </tg>
     </mg>
   </e>
@@ -108450,7 +108331,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bravere</t>
+        <t pos="v">bravere</t>
       </tg>
     </mg>
   </e>
@@ -108460,7 +108341,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bresere</t>
+        <t pos="v">bresere</t>
       </tg>
     </mg>
   </e>
@@ -108470,7 +108351,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">brikettere</t>
+        <t pos="v">brikettere</t>
       </tg>
     </mg>
   </e>
@@ -108480,7 +108361,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">briljere</t>
+        <t pos="v">briljere</t>
       </tg>
     </mg>
   </e>
@@ -108490,7 +108371,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">brodere</t>
+        <t pos="v">brodere</t>
       </tg>
     </mg>
   </e>
@@ -108500,7 +108381,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bronsere</t>
+        <t pos="v">bronsere</t>
       </tg>
     </mg>
   </e>
@@ -108510,7 +108391,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">brosjere</t>
+        <t pos="v">brosjere</t>
       </tg>
     </mg>
   </e>
@@ -109935,16 +109816,6 @@ igskogen
     <mg>
       <tg>
         <t pos="v">jorde</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">eige</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="adv">ikke heller</t>
       </tg>
     </mg>
   </e>
@@ -114241,7 +114112,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">nyttig</t>
+        <t pos="a">nyttig</t>
       </tg>
     </mg>
   </e>
@@ -114251,7 +114122,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">abonnement</t>
+        <t pos="n">abonnement</t>
       </tg>
     </mg>
   </e>
@@ -114291,7 +114162,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">absolutisme</t>
+        <t pos="n">absolutisme</t>
       </tg>
     </mg>
   </e>
@@ -114322,7 +114193,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">unyttig</t>
+        <t pos="a">unyttig</t>
       </tg>
     </mg>
   </e>
@@ -114404,7 +114275,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">forståelig</t>
+        <t pos="a">forståelig</t>
       </tg>
     </mg>
   </e>
@@ -114431,7 +114302,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">uforståelig</t>
+        <t pos="a">uforståelig</t>
       </tg>
     </mg>
   </e>
@@ -114463,7 +114334,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">addisjon</t>
+        <t pos="m">addisjon</t>
       </tg>
     </mg>
   </e>
@@ -114567,7 +114438,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">administrasjon</t>
+        <t pos="m">administrasjon</t>
       </tg>
     </mg>
   </e>
@@ -114577,7 +114448,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">adopsjon</t>
+        <t pos="m">adopsjon</t>
       </tg>
     </mg>
   </e>
@@ -114669,7 +114540,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">agenda</t>
+        <t pos="m">agenda</t>
       </tg>
     </mg>
   </e>
@@ -114726,7 +114597,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">rødglødende</t>
+        <t pos="a">rødglødende</t>
       </tg>
     </mg>
   </e>
@@ -114797,7 +114668,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">fruktsommelig</t>
+        <t pos="a">fruktsommelig</t>
       </tg>
     </mg>
   </e>
@@ -115196,7 +115067,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">akademisme</t>
+        <t pos="m">akademisme</t>
       </tg>
     </mg>
   </e>
@@ -115236,7 +115107,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">akkulturasjon</t>
+        <t pos="m">akkulturasjon</t>
       </tg>
     </mg>
   </e>
@@ -115298,7 +115169,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">aksjon</t>
+        <t pos="m">aksjon</t>
       </tg>
     </mg>
   </e>
@@ -115333,7 +115204,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">aktivisme</t>
+        <t pos="m">aktivisme</t>
       </tg>
     </mg>
   </e>
@@ -115353,7 +115224,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">naken</t>
+        <t pos="a">naken</t>
       </tg>
     </mg>
   </e>
@@ -115377,7 +115248,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">folkeaksjon</t>
+        <t pos="m">folkeaksjon</t>
       </tg>
     </mg>
   </e>
@@ -115444,7 +115315,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">fullstendig</t>
+        <t pos="a">fullstendig</t>
       </tg>
     </mg>
   </e>
@@ -115455,7 +115326,7 @@ igskogen
     <mg>
       <tg>
         <t pos="m">etableringsprovisjon</t>
-        <t pos="x">startprovisjon</t>
+        <t pos="m">startprovisjon</t>
       </tg>
     </mg>
   </e>
@@ -115518,8 +115389,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">lett</t>
-        <t pos="x">lettvint</t>
+        <t pos="a">lett</t>
+        <t pos="a">lettvint</t>
       </tg>
     </mg>
   </e>
@@ -115597,7 +115468,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">fagorganisasjon</t>
+        <t pos="m">fagorganisasjon</t>
       </tg>
     </mg>
   </e>
@@ -115608,8 +115479,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">ivrig</t>
-        <t pos="x">flittig</t>
+        <t pos="a">ivrig</t>
+        <t pos="a">flittig</t>
       </tg>
     </mg>
   </e>
@@ -115698,7 +115569,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">nådig</t>
+        <t pos="a">nådig</t>
       </tg>
     </mg>
   </e>
@@ -115739,8 +115610,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">redd</t>
-        <t pos="x">engstelig</t>
+        <t pos="a">redd</t>
+        <t pos="a">engstelig</t>
       </tg>
     </mg>
   </e>
@@ -115784,8 +115655,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">ivrig</t>
-        <t pos="x">energisk</t>
+        <t pos="a">ivrig</t>
+        <t pos="a">energisk</t>
       </tg>
     </mg>
   </e>
@@ -115795,7 +115666,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">arkabisme</t>
+        <t pos="m">arkabisme</t>
       </tg>
     </mg>
   </e>
@@ -115816,8 +115687,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">elendig</t>
-        <t pos="x">ynkelig</t>
+        <t pos="a">elendig</t>
+        <t pos="a">ynkelig</t>
       </tg>
     </mg>
   </e>
@@ -115874,7 +115745,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">ubarmhjertig</t>
+        <t pos="a">ubarmhjertig</t>
       </tg>
     </mg>
   </e>
@@ -115908,7 +115779,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">tidlig</t>
+        <t pos="a">tidlig</t>
         <xg>
           <x>árrat iđedis</x>
           <xt>tidlig om morgenen</xt>
@@ -115923,8 +115794,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">rar</t>
-        <t pos="x">merkelig</t>
+        <t pos="a">rar</t>
+        <t pos="a">merkelig</t>
       </tg>
     </mg>
   </e>
@@ -115993,13 +115864,13 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">vanskelig</t>
-        <t pos="x">brysom</t>
+        <t pos="a">vanskelig</t>
+        <t pos="a">brysom</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">verdiløs</t>
+        <t pos="a">verdiløs</t>
       </tg>
     </mg>
   </e>
@@ -116107,8 +115978,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">vissen</t>
-        <t pos="x">tørr</t>
+        <t pos="a">vissen</t>
+        <t pos="a">tørr</t>
       </tg>
     </mg>
   </e>
@@ -116131,7 +116002,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">øde</t>
+        <t pos="a">øde</t>
       </tg>
     </mg>
   </e>
@@ -116142,7 +116013,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">salig</t>
+        <t pos="a">salig</t>
       </tg>
     </mg>
   </e>
@@ -116175,7 +116046,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">nyttig</t>
+        <t pos="a">nyttig</t>
       </tg>
     </mg>
     <mg>
@@ -116345,7 +116216,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">stappfull</t>
+        <t pos="a">stappfull</t>
       </tg>
     </mg>
   </e>
@@ -116378,7 +116249,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">tvang</t>
+        <t pos="m">tvang</t>
         <xg>
           <x>dus lea bággu</x>
           <xt>du er nødt</xt>
@@ -116393,7 +116264,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">sint</t>
+        <t pos="a">sint</t>
       </tg>
     </mg>
   </e>
@@ -116419,7 +116290,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bitter</t>
+        <t pos="a">bitter</t>
       </tg>
     </mg>
     <mg>
@@ -116481,7 +116352,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">varm</t>
+        <t pos="a">varm</t>
       </tg>
     </mg>
   </e>
@@ -116514,8 +116385,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">trangt</t>
-        <t pos="x">fullt</t>
+        <t pos="a">trangt</t>
+        <t pos="a">fullt</t>
       </tg>
     </mg>
   </e>
@@ -116711,7 +116582,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">oversiden</t>
+        <t pos="m">oversiden</t>
         <xg>
           <x>dat lea bajábealde</x>
           <x>dat manai bajábeallai</x>
@@ -116778,8 +116649,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">mistroisk</t>
-        <t pos="x">sjalu</t>
+        <t pos="a">mistroisk</t>
+        <t pos="a">sjalu</t>
       </tg>
     </mg>
   </e>
@@ -116826,12 +116697,12 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bar</t>
+        <t pos="a">bar</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">skallet</t>
+        <t pos="a">skallet</t>
       </tg>
     </mg>
   </e>
@@ -116977,7 +116848,7 @@ igskogen
     <mg>
       <tg>
         <t pos="m">dyrking</t>
-        <t pos="x">tilbedelse</t>
+        <t pos="m">tilbedelse</t>
       </tg>
     </mg>
   </e>
@@ -117055,7 +116926,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">bardun</t>
+        <t pos="m">bardun</t>
       </tg>
     </mg>
   </e>
@@ -117228,8 +117099,8 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">ond</t>
-        <t pos="x">smertefull</t>
+        <t pos="a">ond</t>
+        <t pos="a">smertefull</t>
       </tg>
     </mg>
   </e>
@@ -117316,7 +117187,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">daglig</t>
+        <t pos="a">daglig</t>
       </tg>
     </mg>
   </e>
@@ -117327,8 +117198,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">kjent</t>
-        <t pos="x">berømt</t>
+        <t pos="a">kjent</t>
+        <t pos="a">berømt</t>
       </tg>
     </mg>
   </e>
@@ -117339,7 +117210,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">berømt</t>
+        <t pos="a">berømt</t>
       </tg>
     </mg>
   </e>
@@ -117350,7 +117221,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">næringsrik</t>
+        <t pos="a">næringsrik</t>
       </tg>
     </mg>
   </e>
@@ -117361,8 +117232,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">døv</t>
-        <t pos="x">tunghørt</t>
+        <t pos="a">døv</t>
+        <t pos="a">tunghørt</t>
       </tg>
     </mg>
   </e>
@@ -117411,7 +117282,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">upålitelig</t>
+        <t pos="a">upålitelig</t>
       </tg>
     </mg>
   </e>
@@ -117492,8 +117363,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">omsvermet</t>
-        <t pos="x">godt likt</t>
+        <t pos="a">omsvermet</t>
+        <t pos="a">godt likt</t>
       </tg>
     </mg>
   </e>
@@ -117514,7 +117385,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hjulbeint</t>
+        <t pos="a">hjulbeint</t>
       </tg>
     </mg>
   </e>
@@ -117551,7 +117422,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">rik</t>
+        <t pos="a">rik</t>
       </tg>
     </mg>
   </e>
@@ -117562,7 +117433,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">gammel</t>
+        <t pos="a">gammel</t>
       </tg>
     </mg>
   </e>
@@ -117573,8 +117444,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hissig</t>
-        <t pos="x">snarsint</t>
+        <t pos="a">hissig</t>
+        <t pos="a">snarsint</t>
       </tg>
     </mg>
   </e>
@@ -117584,7 +117455,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">galt</t>
+        <t pos="a">galt</t>
       </tg>
     </mg>
   </e>
@@ -117610,7 +117481,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">lodden</t>
+        <t pos="a">lodden</t>
       </tg>
     </mg>
   </e>
@@ -117631,8 +117502,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">vridd</t>
-        <t pos="x">snudd</t>
+        <t pos="a">vridd</t>
+        <t pos="a">snudd</t>
       </tg>
     </mg>
   </e>
@@ -117642,12 +117513,12 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">skeiv</t>
+        <t pos="a">skeiv</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">i snurr</t>
+        <t pos="a">i snurr</t>
       </tg>
     </mg>
   </e>
@@ -117710,8 +117581,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">rein</t>
-        <t pos="x">reint</t>
+        <t pos="a">rein</t>
+        <t pos="a">reint</t>
       </tg>
     </mg>
   </e>
@@ -117782,7 +117653,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">utstående</t>
+        <t pos="a">utstående</t>
       </tg>
     </mg>
   </e>
@@ -117919,8 +117790,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">god</t>
-        <t pos="x">bra</t>
+        <t pos="a">god</t>
+        <t pos="a">bra</t>
       </tg>
     </mg>
   </e>
@@ -117942,8 +117813,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">sint</t>
-        <t pos="x">hissig</t>
+        <t pos="a">sint</t>
+        <t pos="a">hissig</t>
         <xg>
           <x>buošas</x>
         </xg>
@@ -118306,7 +118177,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">kilen</t>
+        <t pos="a">kilen</t>
       </tg>
     </mg>
   </e>
@@ -118461,7 +118332,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">svart</t>
+        <t pos="a">svart</t>
       </tg>
     </mg>
   </e>
@@ -118484,7 +118355,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hysterisk</t>
+        <t pos="a">hysterisk</t>
       </tg>
     </mg>
   </e>
@@ -118690,8 +118561,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">blind</t>
-        <t pos="x">svaksynt</t>
+        <t pos="a">blind</t>
+        <t pos="a">svaksynt</t>
       </tg>
     </mg>
   </e>
@@ -118856,13 +118727,13 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">tett</t>
-        <t pos="x">uten hull</t>
+        <t pos="a">tett</t>
+        <t pos="a">uten hull</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="x">urørt</t>
+        <t pos="a">urørt</t>
       </tg>
     </mg>
   </e>
@@ -118894,7 +118765,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">stram</t>
+        <t pos="a">stram</t>
       </tg>
     </mg>
   </e>
@@ -118927,7 +118798,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">trassig</t>
+        <t pos="a">trassig</t>
       </tg>
     </mg>
   </e>
@@ -119014,7 +118885,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">flink</t>
+        <t pos="a">flink</t>
       </tg>
     </mg>
   </e>
@@ -119135,7 +119006,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">helt hvit</t>
+        <t pos="a">helt hvit</t>
       </tg>
     </mg>
   </e>
@@ -119158,8 +119029,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">overlegen</t>
-        <t pos="x">hoven</t>
+        <t pos="a">overlegen</t>
+        <t pos="a">hoven</t>
       </tg>
     </mg>
   </e>
@@ -119444,7 +119315,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hemmelig</t>
+        <t pos="a">hemmelig</t>
       </tg>
     </mg>
   </e>
@@ -119558,8 +119429,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">klar</t>
-        <t pos="x">tydelig</t>
+        <t pos="a">klar</t>
+        <t pos="a">tydelig</t>
       </tg>
     </mg>
   </e>
@@ -119570,7 +119441,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">edru</t>
+        <t pos="a">edru</t>
       </tg>
     </mg>
   </e>
@@ -119619,8 +119490,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dyp</t>
-        <t pos="x">djup</t>
+        <t pos="a">dyp</t>
+        <t pos="a">djup</t>
       </tg>
     </mg>
   </e>
@@ -119708,7 +119579,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">sjuende</t>
+        <t pos="a">sjuende</t>
       </tg>
     </mg>
   </e>
@@ -120041,7 +119912,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">grunn</t>
+        <t pos="a">grunn</t>
       </tg>
     </mg>
   </e>
@@ -120305,7 +120176,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">kjølig</t>
+        <t pos="a">kjølig</t>
       </tg>
     </mg>
   </e>
@@ -120609,7 +120480,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">renslig</t>
+        <t pos="a">renslig</t>
       </tg>
     </mg>
   </e>
@@ -120793,7 +120664,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">stående</t>
+        <t pos="a">stående</t>
       </tg>
     </mg>
   </e>
@@ -121189,8 +121060,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">klønete</t>
-        <t pos="x">udugelig</t>
+        <t pos="a">klønete</t>
+        <t pos="a">udugelig</t>
       </tg>
     </mg>
   </e>
@@ -121856,7 +121727,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">kyndig</t>
+        <t pos="a">kyndig</t>
       </tg>
     </mg>
   </e>
@@ -122207,7 +122078,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">damascere</t>
+        <t pos="v">damascere</t>
       </tg>
     </mg>
   </e>
@@ -122239,7 +122110,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dandere</t>
+        <t pos="v">dandere</t>
       </tg>
     </mg>
   </e>
@@ -122364,7 +122235,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">nødvendig</t>
+        <t pos="a">nødvendig</t>
       </tg>
     </mg>
   </e>
@@ -122440,8 +122311,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">nøyaktig</t>
-        <t pos="x">grundig</t>
+        <t pos="a">nøyaktig</t>
+        <t pos="a">grundig</t>
       </tg>
     </mg>
   </e>
@@ -122452,8 +122323,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">viss</t>
-        <t pos="x">sikker</t>
+        <t pos="a">viss</t>
+        <t pos="a">sikker</t>
       </tg>
     </mg>
   </e>
@@ -122465,7 +122336,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">betrakte</t>
-        <t pos="x">undersøke</t>
+        <t pos="v">undersøke</t>
       </tg>
     </mg>
   </e>
@@ -122498,7 +122369,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">skjelve</t>
-        <t pos="x">riste</t>
+        <t pos="v">riste</t>
       </tg>
     </mg>
   </e>
@@ -122519,7 +122390,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">bli fast</t>
-        <t pos="x">feste seg</t>
+        <t pos="v">feste seg</t>
       </tg>
     </mg>
   </e>
@@ -122534,8 +122405,8 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">klistre</t>
-        <t pos="x">klebe</t>
+        <t pos="v">klistre</t>
+        <t pos="v">klebe</t>
       </tg>
     </mg>
   </e>
@@ -122596,7 +122467,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">jamne</t>
-        <t pos="x">jevne</t>
+        <t pos="v">jevne</t>
       </tg>
     </mg>
     <mg>
@@ -122741,8 +122612,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">elastisk</t>
-        <t pos="x">spenstig</t>
+        <t pos="a">elastisk</t>
+        <t pos="a">spenstig</t>
       </tg>
     </mg>
   </e>
@@ -122769,7 +122640,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">svare</t>
-        <t pos="x">gi gjenlyd</t>
+        <t pos="v">gi gjenlyd</t>
         <t pos="v">gi respons</t>
         <t pos="v">reagere på</t>
       </tg>
@@ -122781,7 +122652,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">ofte</t>
+        <t pos="v">ofte</t>
       </tg>
     </mg>
   </e>
@@ -122841,7 +122712,7 @@ igskogen
     <mg>
       <tg>
         <t pos="v">trykke</t>
-        <t pos="x">klemme (en gang)</t>
+        <t pos="v">klemme (en gang)</t>
       </tg>
     </mg>
   </e>
@@ -122904,8 +122775,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">glimte</t>
-        <t pos="x">glinse</t>
+        <t pos="v">glimte</t>
+        <t pos="v">glinse</t>
         <xg>
           <x>go oidno šealgáme guhkkin</x>
         </xg>
@@ -123109,7 +122980,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">frisk</t>
+        <t pos="a">frisk</t>
       </tg>
     </mg>
   </e>
@@ -123141,7 +123012,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">viktig</t>
+        <t pos="a">viktig</t>
       </tg>
     </mg>
   </e>
@@ -123189,7 +123060,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">debattere</t>
+        <t pos="v">debattere</t>
       </tg>
     </mg>
   </e>
@@ -123199,7 +123070,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">debitere</t>
+        <t pos="v">debitere</t>
       </tg>
     </mg>
   </e>
@@ -123209,7 +123080,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">debutere</t>
+        <t pos="v">debutere</t>
       </tg>
     </mg>
   </e>
@@ -123229,7 +123100,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desentralisere</t>
+        <t pos="v">desentralisere</t>
       </tg>
     </mg>
   </e>
@@ -123239,7 +123110,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dechiffrere</t>
+        <t pos="v">dechiffrere</t>
       </tg>
     </mg>
   </e>
@@ -123249,7 +123120,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dedisere</t>
+        <t pos="v">dedisere</t>
       </tg>
     </mg>
   </e>
@@ -123269,7 +123140,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dedusere</t>
+        <t pos="v">dedusere</t>
       </tg>
     </mg>
   </e>
@@ -123289,7 +123160,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">defilere</t>
+        <t pos="v">defilere</t>
       </tg>
     </mg>
   </e>
@@ -123319,7 +123190,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deflorere</t>
+        <t pos="v">deflorere</t>
       </tg>
     </mg>
   </e>
@@ -123329,7 +123200,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deformere</t>
+        <t pos="v">deformere</t>
       </tg>
     </mg>
   </e>
@@ -123339,7 +123210,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">degenerere</t>
+        <t pos="v">degenerere</t>
       </tg>
     </mg>
   </e>
@@ -123360,7 +123231,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">degradere</t>
+        <t pos="v">degradere</t>
       </tg>
     </mg>
   </e>
@@ -123390,7 +123261,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dehydrere</t>
+        <t pos="v">dehydrere</t>
       </tg>
     </mg>
   </e>
@@ -123420,7 +123291,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dekantere</t>
+        <t pos="v">dekantere</t>
       </tg>
     </mg>
   </e>
@@ -123430,7 +123301,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dekatere</t>
+        <t pos="v">dekatere</t>
       </tg>
     </mg>
   </e>
@@ -123470,7 +123341,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deklarere</t>
+        <t pos="v">deklarere</t>
       </tg>
     </mg>
   </e>
@@ -123480,7 +123351,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deklassere</t>
+        <t pos="v">deklassere</t>
       </tg>
     </mg>
   </e>
@@ -123490,7 +123361,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deklinere</t>
+        <t pos="v">deklinere</t>
       </tg>
     </mg>
   </e>
@@ -123500,7 +123371,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dekomponere</t>
+        <t pos="v">dekomponere</t>
       </tg>
     </mg>
   </e>
@@ -123520,7 +123391,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dekorere</t>
+        <t pos="v">dekorere</t>
       </tg>
     </mg>
   </e>
@@ -123530,7 +123401,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dekortere</t>
+        <t pos="v">dekortere</t>
       </tg>
     </mg>
   </e>
@@ -123540,7 +123411,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dekretere</t>
+        <t pos="v">dekretere</t>
       </tg>
     </mg>
   </e>
@@ -123560,7 +123431,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dekupere</t>
+        <t pos="v">dekupere</t>
       </tg>
     </mg>
   </e>
@@ -123570,7 +123441,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">delabialisere</t>
+        <t pos="v">delabialisere</t>
       </tg>
     </mg>
   </e>
@@ -123580,7 +123451,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">delegasjon</t>
+        <t pos="v">delegasjon</t>
       </tg>
     </mg>
   </e>
@@ -123590,7 +123461,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">delere</t>
+        <t pos="v">delere</t>
       </tg>
     </mg>
   </e>
@@ -123610,7 +123481,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">delikatere</t>
+        <t pos="v">delikatere</t>
       </tg>
     </mg>
   </e>
@@ -123620,7 +123491,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">delirere</t>
+        <t pos="v">delirere</t>
       </tg>
     </mg>
   </e>
@@ -123630,7 +123501,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demaskere</t>
+        <t pos="v">demaskere</t>
       </tg>
     </mg>
   </e>
@@ -123640,7 +123511,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dementere</t>
+        <t pos="v">dementere</t>
       </tg>
     </mg>
   </e>
@@ -123660,17 +123531,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demilitarisere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">demisjoneret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">demisjonere</t>
+        <t pos="v">demilitarisere</t>
       </tg>
     </mg>
   </e>
@@ -123680,7 +123541,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demišonere</t>
+        <t pos="v">demisjonere</t>
       </tg>
     </mg>
   </e>
@@ -123690,7 +123551,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demisjonere</t>
+        <t pos="v">demisjonere</t>
       </tg>
     </mg>
   </e>
@@ -123700,7 +123561,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demobilisere</t>
+        <t pos="v">demobilisere</t>
       </tg>
     </mg>
   </e>
@@ -123730,7 +123591,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demokratisere</t>
+        <t pos="v">demokratisere</t>
       </tg>
     </mg>
   </e>
@@ -123740,7 +123601,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demolere</t>
+        <t pos="v">demolere</t>
       </tg>
     </mg>
   </e>
@@ -123770,7 +123631,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demontere</t>
+        <t pos="v">demontere</t>
       </tg>
     </mg>
   </e>
@@ -123780,7 +123641,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">demoralisere</t>
+        <t pos="v">demoralisere</t>
       </tg>
     </mg>
   </e>
@@ -123790,7 +123651,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">denasjonalisere</t>
+        <t pos="v">denasjonalisere</t>
       </tg>
     </mg>
   </e>
@@ -123800,7 +123661,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">denasjonalisere</t>
+        <t pos="v">denasjonalisere</t>
       </tg>
     </mg>
   </e>
@@ -123810,7 +123671,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">denasjonalisere</t>
+        <t pos="v">denasjonalisere</t>
       </tg>
     </mg>
   </e>
@@ -123820,7 +123681,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">denaturalisere</t>
+        <t pos="v">denaturalisere</t>
       </tg>
     </mg>
   </e>
@@ -123830,7 +123691,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">denaturere</t>
+        <t pos="v">denaturere</t>
       </tg>
     </mg>
   </e>
@@ -123861,7 +123722,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">denotere</t>
+        <t pos="v">denotere</t>
       </tg>
     </mg>
   </e>
@@ -123871,7 +123732,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">denudere</t>
+        <t pos="v">denudere</t>
       </tg>
     </mg>
   </e>
@@ -123881,17 +123742,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deoksidere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">deoxideret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">deoxidere</t>
+        <t pos="v">deoksidere</t>
       </tg>
     </mg>
   </e>
@@ -123911,7 +123762,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deportere</t>
+        <t pos="v">deportere</t>
       </tg>
     </mg>
   </e>
@@ -123921,7 +123772,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">depravere</t>
+        <t pos="v">depravere</t>
       </tg>
     </mg>
   </e>
@@ -123931,7 +123782,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deprimere</t>
+        <t pos="v">deprimere</t>
       </tg>
     </mg>
   </e>
@@ -123941,7 +123792,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">deprivatisere</t>
+        <t pos="v">deprivatisere</t>
       </tg>
     </mg>
   </e>
@@ -123961,7 +123812,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">derangere</t>
+        <t pos="v">derangere</t>
       </tg>
     </mg>
   </e>
@@ -123971,7 +123822,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">derelinkvere</t>
+        <t pos="v">derelinkvere</t>
       </tg>
     </mg>
   </e>
@@ -123991,7 +123842,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">derivere</t>
+        <t pos="v">derivere</t>
       </tg>
     </mg>
   </e>
@@ -124001,7 +123852,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desarmere</t>
+        <t pos="v">desarmere</t>
       </tg>
     </mg>
   </e>
@@ -124011,7 +123862,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desavuere</t>
+        <t pos="v">desavuere</t>
       </tg>
     </mg>
   </e>
@@ -124021,7 +123872,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desertere</t>
+        <t pos="v">desertere</t>
       </tg>
     </mg>
   </e>
@@ -124041,7 +123892,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desidere</t>
+        <t pos="v">desidere</t>
       </tg>
     </mg>
   </e>
@@ -124057,31 +123908,11 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="v">desillusjonerit</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">desillusjonere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">desillušoneret</l>
     </lg>
     <mg>
       <tg>
-        <t pos="x">desillušonere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">desillušuneret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">desillusjonere</t>
+        <t pos="v">desillusjonere</t>
       </tg>
     </mg>
   </e>
@@ -124101,7 +123932,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desimere</t>
+        <t pos="v">desimere</t>
       </tg>
     </mg>
   </e>
@@ -124111,7 +123942,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desinfisere</t>
+        <t pos="v">desinfisere</t>
       </tg>
     </mg>
   </e>
@@ -124121,7 +123952,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desinformere</t>
+        <t pos="v">desinformere</t>
       </tg>
     </mg>
   </e>
@@ -124131,7 +123962,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desintegrere</t>
+        <t pos="v">desintegrere</t>
       </tg>
     </mg>
   </e>
@@ -124151,7 +123982,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desorganisere</t>
+        <t pos="v">desorganisere</t>
       </tg>
     </mg>
   </e>
@@ -124161,7 +123992,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desorientere</t>
+        <t pos="v">desorientere</t>
       </tg>
     </mg>
   </e>
@@ -124171,7 +124002,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">desoksidere</t>
+        <t pos="v">desoksidere</t>
       </tg>
     </mg>
   </e>
@@ -143986,16 +143817,6 @@ igskogen
     <mg>
       <tg>
         <t pos="x">isolasjonisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">isolašuvdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">isolasjon</t>
       </tg>
     </mg>
   </e>
@@ -205455,6 +205276,11 @@ eallima</x>
         <t pos="prop">Joensuu</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <t pos="prop">Elvebakken</t>
+      </tg>
+    </mg>
   </e>
 
   <e>
@@ -205533,18 +205359,6 @@ eallima</x>
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="prop">Norga</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="prop">Norge</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="prop">Nuortariika</l>
@@ -205577,29 +205391,6 @@ eallima</x>
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="prop">Ruošša</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="prop">Russland</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="prop">Ruoŧŧa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="prop">Sverige</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="prop">Sibirjá</l>
@@ -205687,18 +205478,6 @@ eallima</x>
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="prop">Suopma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="prop">Finland</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="prop">Šveica</l>
