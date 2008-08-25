@@ -25,7 +25,7 @@
         <xg>
           <x>Mus lea ahkit</x>
           <xt>Jeg kjeder meg</xt>
-	</xg>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -729,11 +729,11 @@
   </e>
   <e>
     <lg>
-      <l pos="adv">ahppar</l>
+      <l pos="a">ahppar</l>
     </lg>
     <mg>
       <tg>
-        <t pos="adv">overdrevent</t>
+        <t pos="a">overdreven</t>
       </tg>
     </mg>
   </e>
@@ -15228,8 +15228,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="n">småskåret kjøtt</t>
-        <t pos="s">biđus er småskåret kjøtt, stekt eller kokt</t>
+        <t pos="m">småskåret kjøtt</t>
+        <t pos="s">småskåret kjøtt, stekt eller kokt</t>
       </tg>
     </mg>
   </e>
@@ -34171,10 +34171,9 @@
   <e>
     <lg>
       <l pos="n">dynámo</l>
-    </lg>ell
+    </lg>
     <mg>
-igskogen
-<tg>
+      <tg>
         <t pos="S">dynamo</t>
       </tg>
     </mg>
@@ -104168,7 +104167,7 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="pcle">gal</l>
+      <l pos="adv">gal</l>
     </lg>
     <mg>
       <tg>
@@ -104314,7 +104313,7 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="pr">alddán</l>
+      <l pos="pron">alddán</l>
       <lc>,</lc>
     </lg>
     <mg>
@@ -109470,16 +109469,6 @@ igskogen
   </e>
   <e>
     <lg>
-      <l pos="x">dulbejuvvon</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">planert</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">duldehastit</l>
     </lg>
     <mg>
@@ -110174,16 +110163,6 @@ igskogen
     <mg>
       <tg>
         <t pos="v">heve seg</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">geđđon</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="f">blending</t>
       </tg>
     </mg>
   </e>
@@ -118508,7 +118487,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">čanusenergi</t>
+        <t pos="x">bindingsenergi</t>
       </tg>
     </mg>
   </e>
@@ -118554,7 +118533,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">časkadanstasjon</t>
+        <t pos="x">brannstasjon</t>
       </tg>
     </mg>
   </e>
@@ -118735,8 +118714,8 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">den som en er farbror (čeahci) til (dat</t>
-        <t pos="x">geasa lea čeahci)</t>
+        <t pos="x">den som en er farbror (čeahci) til</t>
+        <t pos="x">(dat geasa lea čeahci)</t>
       </tg>
     </mg>
   </e>
@@ -124215,8 +124194,9 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">(en) slik der</t>
+        <t pos="x">en slik en</t>
         <t pos="x">sånn der</t>
+        <t pos="x">slikt</t>
       </tg>
     </mg>
   </e>
@@ -124763,7 +124743,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dimensjonere</t>
+        <t pos="v">dimensjonere</t>
       </tg>
     </mg>
   </e>
@@ -124773,7 +124753,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">dimenšonere</t>
+        <t pos="x">dimensjonere</t>
       </tg>
     </mg>
   </e>
@@ -131070,7 +131050,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">fišonere</t>
+        <t pos="v">fisjonere</t>
       </tg>
     </mg>
   </e>
@@ -131525,7 +131505,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">frakšonere</t>
+        <t pos="v">fraksjonere</t>
       </tg>
     </mg>
   </e>
@@ -132000,7 +131980,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">fušonere</t>
+        <t pos="v">fusjonere</t>
       </tg>
     </mg>
   </e>
@@ -136302,7 +136282,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">gnostisisme</t>
+        <t pos="m">gnostisisme</t>
       </tg>
     </mg>
   </e>
@@ -137030,8 +137010,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="f">vik</t>
-        <t pos="f">(rund) bukt</t>
+        <t pos="f">bukt</t>
       </tg>
     </mg>
   </e>
@@ -137262,7 +137241,11 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">renne (čáhci golgá)</t>
+        <t pos="v">renne</t>
+        <xg>
+          <x>čáhci golgá</x>
+          <xt>vann renner</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -137837,7 +137820,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">grundtvigianisme</t>
+        <t pos="m">grundtvigianisme</t>
       </tg>
     </mg>
   </e>
@@ -138666,8 +138649,11 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">bli svidd ( guosmut)</t>
-        <t pos="x">(biktasat ja vuovttat gurbet)</t>
+        <t pos="v">bli svidd</t>
+        <xg>
+          <x>biktasat ja vuovttat gurbet</x>
+          <xt>klær og hår blir svidd</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -139097,7 +139083,7 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="v">gå i rad og rekke ( gurggistit)</t>
+        <t pos="v">gå i rad og rekke</t>
       </tg>
     </mg>
   </e>
@@ -140063,7 +140049,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">haugianisme</t>
+        <t pos="m">haugianisme</t>
       </tg>
     </mg>
   </e>
@@ -140572,7 +140558,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hedonisme</t>
+        <t pos="m">hedonisme</t>
       </tg>
     </mg>
   </e>
@@ -140582,7 +140568,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hegelianisme</t>
+        <t pos="m">hegelianisme</t>
       </tg>
     </mg>
   </e>
@@ -140690,7 +140676,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">heliotropisme</t>
+        <t pos="m">heliotropisme</t>
       </tg>
     </mg>
   </e>
@@ -140700,7 +140686,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hellenisme</t>
+        <t pos="m">hellenisme</t>
       </tg>
     </mg>
   </e>
@@ -140768,7 +140754,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hermafrodittisme</t>
+        <t pos="m">hermafrodittisme</t>
       </tg>
     </mg>
   </e>
@@ -140798,7 +140784,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">heroisme</t>
+        <t pos="m">heroisme</t>
       </tg>
     </mg>
   </e>
@@ -141014,7 +141000,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hinduisme</t>
+        <t pos="m">hinduisme</t>
       </tg>
     </mg>
   </e>
@@ -141133,7 +141119,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">historisme</t>
+        <t pos="m">historisme</t>
       </tg>
     </mg>
   </e>
@@ -141659,7 +141645,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">humanisme</t>
+        <t pos="m">humanisme</t>
       </tg>
     </mg>
   </e>
@@ -141756,7 +141742,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">hypnotisme</t>
+        <t pos="m">hypnotisme</t>
       </tg>
     </mg>
   </e>
@@ -141816,7 +141802,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">idelisme</t>
+        <t pos="m">idelisme</t>
       </tg>
     </mg>
   </e>
@@ -142249,7 +142235,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">illusjonisme</t>
+        <t pos="m">illusjonisme</t>
       </tg>
     </mg>
   </e>
@@ -146460,7 +146446,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">kaušonere</t>
+        <t pos="v">kausjonere</t>
       </tg>
     </mg>
   </e>
@@ -147046,7 +147032,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">kollašonere</t>
+        <t pos="v">kollasjonere</t>
       </tg>
     </mg>
   </e>
@@ -147576,7 +147562,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">kondišonere</t>
+        <t pos="v">kondisjonere</t>
       </tg>
     </mg>
   </e>
@@ -153542,7 +153528,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">maŋisbahcciidpensjon</t>
+        <t pos="x">etterlattepensjon</t>
       </tg>
     </mg>
   </e>
@@ -153617,7 +153603,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">maŋŋekalkulere</t>
+        <t pos="x">etterkalkulere</t>
       </tg>
     </mg>
   </e>
@@ -155650,7 +155636,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">mišunere</t>
+        <t pos="v">misjunere</t>
       </tg>
     </mg>
   </e>
@@ -156460,7 +156446,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="x">mošonere</t>
+        <t pos="x">mosjonere</t>
       </tg>
     </mg>
   </e>
@@ -157775,7 +157761,6 @@ igskogen
     <mg>
       <tg>
         <t pos="m">nasjon</t>
-        <t pos="x">( olmmoščearda)</t>
       </tg>
     </mg>
   </e>
@@ -158173,7 +158158,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">nettobudšettere</t>
+        <t pos="v">nettobudsjettere</t>
       </tg>
     </mg>
   </e>
@@ -158183,7 +158168,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">nettobudsjetterit</t>
+        <t pos="v">nettobudsjettere</t>
       </tg>
     </mg>
   </e>
@@ -158193,7 +158178,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">nettobušetere</t>
+        <t pos="v">nettobudsjetere</t>
       </tg>
     </mg>
   </e>
@@ -158203,7 +158188,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">nettobušettere</t>
+        <t pos="v">nettobudsjettere</t>
       </tg>
     </mg>
   </e>
@@ -158213,7 +158198,7 @@ igskogen
     </lg>
     <mg>
       <tg>
-        <t pos="v">nettobusjetterit</t>
+        <t pos="v">nettobudsjettere</t>
       </tg>
     </mg>
   </e>
@@ -159760,11 +159745,10 @@ igskogen
     <mg>
       <tg>
         <t pos="v">bli fri for</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="v">(son nohkkui das)</t>
+        <xg>
+          <x>son nohkkui gáfes</x>
+          <xt>hun ble fri for kaffe</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -160133,11 +160117,10 @@ igskogen
   <e>
     <lg>
       <l pos="a">nuorra</l>
-      <lc>nuorat, nurrii</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="x">ung</t>
+        <t pos="a">ung</t>
       </tg>
     </mg>
   </e>
@@ -160828,7 +160811,7 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="x">kreatur ( šibit)</t>
+        <t pos="x">kreatur</t>
       </tg>
     </mg>
   </e>
@@ -160906,7 +160889,7 @@ igskogen
     </mg>
     <mg>
       <tg>
-        <t pos="m">deleier (geas lea oassi)</t>
+        <t pos="m">deleier</t>
       </tg>
     </mg>
   </e>
@@ -163372,7 +163355,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">penšonere</t>
+        <t pos="v">pensjonere</t>
       </tg>
     </mg>
   </e>
@@ -163382,7 +163365,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">penšunere</t>
+        <t pos="v">pensjonere</t>
       </tg>
     </mg>
   </e>
@@ -163452,7 +163435,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">perfekšonere</t>
+        <t pos="v">perfeksjonere</t>
       </tg>
     </mg>
   </e>
@@ -164367,7 +164350,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">poršonere</t>
+        <t pos="v">porsjonere</t>
       </tg>
     </mg>
   </e>
@@ -164447,7 +164430,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">posišonere</t>
+        <t pos="v">posisjonere</t>
       </tg>
     </mg>
   </e>
@@ -165500,7 +165483,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">proporšonere</t>
+        <t pos="v">proporsjonere</t>
       </tg>
     </mg>
   </e>
@@ -165561,7 +165544,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">prošektere</t>
+        <t pos="v">prosjektere</t>
       </tg>
     </mg>
   </e>
@@ -166184,8 +166167,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m">grense ( rádji</t>
-        <t pos="x">ráji)</t>
+        <t pos="m">grense</t>
       </tg>
     </mg>
   </e>
@@ -167004,7 +166986,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">rašonere</t>
+        <t pos="v">rasjonere</t>
       </tg>
     </mg>
   </e>
@@ -169001,7 +168983,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">revolušonere</t>
+        <t pos="v">revolusjonere</t>
       </tg>
     </mg>
   </e>
@@ -169244,7 +169226,7 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="v">forandre seg ( nuppástuvvat)</t>
+        <t pos="v">forandre seg</t>
       </tg>
     </mg>
   </e>
@@ -169380,8 +169362,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="n">skred ( uđas</t>
-        <t pos="x">njirran)</t>
+        <t pos="n">skred</t>
       </tg>
     </mg>
   </e>
@@ -169451,8 +169432,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m">snegl ( riippoš</t>
-        <t pos="x">riippožat)</t>
+        <t pos="m">snegl</t>
       </tg>
     </mg>
   </e>
@@ -169483,7 +169463,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">rikošettere</t>
+        <t pos="v">rikosjettere</t>
       </tg>
     </mg>
   </e>
@@ -171875,7 +171855,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">šamponere</t>
+        <t pos="x">sjamponere</t>
       </tg>
     </mg>
   </e>
@@ -171922,7 +171902,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m">same ( sápmelaš)</t>
+        <t pos="m">same</t>
         <xg>
           <x>Sápmi, Sámi</x>
           <xt>Sameland</xt>
@@ -172007,7 +171987,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">šarmantisere</t>
+        <t pos="x">sjarmantisere</t>
       </tg>
     </mg>
   </e>
@@ -172267,7 +172247,7 @@ eallima</x>
     <mg>
       <tg>
         <t pos="v">slå</t>
-        <t pos="x">helle (en gang) ( šávgalit)</t>
+        <t pos="x">helle (en gang)</t>
       </tg>
     </mg>
   </e>
@@ -172712,8 +172692,8 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">kornsnø (nederst i snølaget) (muohta</t>
-        <t pos="x">mas suddada čázi)</t>
+        <t pos="x">kornsnø (nederst i snølaget)</t>
+        <t pos="x">(muohta mas suddada čázi)</t>
       </tg>
     </mg>
   </e>
@@ -172955,7 +172935,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">sekšonere</t>
+        <t pos="x">seksjonere</t>
       </tg>
     </mg>
   </e>
@@ -173516,7 +173496,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m">dørstokk ( lassá)</t>
+        <t pos="m">dørstokk</t>
       </tg>
     </mg>
   </e>
@@ -174071,7 +174051,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">sisásjsjiidministeri</t>
+        <t pos="x">innenriksministeri</t>
       </tg>
     </mg>
   </e>
@@ -175246,7 +175226,7 @@ eallima</x>
     <mg>
       <tg>
         <t pos="m">slusk</t>
-        <t pos="m">slarv (gii lea hirbmat láiki)</t>
+        <t pos="m">slarv</t>
       </tg>
     </mg>
   </e>
@@ -175282,7 +175262,7 @@ eallima</x>
     <mg>
       <tg>
         <t pos="v">blinke</t>
-        <t pos="x">glimte ( leađgut)</t>
+        <t pos="x">glimte</t>
       </tg>
     </mg>
   </e>
@@ -176609,16 +176589,11 @@ eallima</x>
   <e>
     <lg>
       <l pos="v">spárkat</l>
-      <lc>(dat) spárkkai</lc>
+      <lc>(dat) spárkkai (mas nu)</lc>
     </lg>
     <mg>
       <tg>
         <t pos="v">få skrekk (for)</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="x">(spárká mas nu)</t>
       </tg>
     </mg>
   </e>
@@ -176765,7 +176740,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">spesiálisere</t>
+        <t pos="x">spesialisere</t>
       </tg>
     </mg>
   </e>
@@ -176823,12 +176798,11 @@ eallima</x>
   <e>
     <lg>
       <l pos="n">spihčá</l>
-      <lc>spižá</lc>
+      <lc>spižát</lc>
     </lg>
     <mg>
       <tg>
-        <t pos="f">svepe ( spižá</t>
-        <t pos="x">spižát)</t>
+        <t pos="f">svepe</t>
       </tg>
     </mg>
   </e>
@@ -177070,7 +177044,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">stáhtaruhtaministeri</t>
+        <t pos="x">finansministeri</t>
       </tg>
     </mg>
   </e>
@@ -177242,7 +177216,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">stašonere</t>
+        <t pos="x">stasjonere</t>
       </tg>
     </mg>
   </e>
@@ -177551,7 +177525,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m">stolpe ( čuolda)</t>
+        <t pos="m">stolpe</t>
       </tg>
     </mg>
   </e>
@@ -178724,7 +178698,6 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="n">rusttet masa heŋge biergasiid</t>
         <t pos="x">stativ til å henge saker på</t>
       </tg>
     </mg>
@@ -182069,7 +182042,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">foreldre (vánhen)</t>
+        <t pos="x">foreldre</t>
       </tg>
     </mg>
   </e>
@@ -182180,7 +182153,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m">avdød ( rohkki)</t>
+        <t pos="m">avdød</t>
       </tg>
     </mg>
   </e>
@@ -182599,7 +182572,7 @@ eallima</x>
     <mg>
       <tg>
         <t pos="x">ferdig</t>
-        <t pos="x">klar (válmmaš) ( gárvvis)</t>
+        <t pos="x">klar</t>
       </tg>
     </mg>
   </e>
@@ -182630,8 +182603,8 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m">flokk (hunder</t>
-        <t pos="x">ulver) (gumpevalvi)</t>
+        <t pos="m">hundeflokk</t>
+        <t pos="m">ulveflokk</t>
       </tg>
     </mg>
   </e>
@@ -183200,7 +183173,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="f">simle (áldu)</t>
+        <t pos="f">simle</t>
       </tg>
     </mg>
   </e>
@@ -183313,7 +183286,13 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="m">stor flokk (folk)</t>
+        <t pos="m">flokk mennesker</t>
+        <t pos="m">mannskap</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="m">familie</t>
       </tg>
     </mg>
   </e>
@@ -183858,7 +183837,8 @@ eallima</x>
     </mg>
     <mg>
       <tg>
-        <t pos="m">vert ("gjestevenn")</t>
+        <t pos="m">vert</t>
+        <t pos="m">gjestevenn</t>
       </tg>
     </mg>
   </e>
@@ -184066,8 +184046,11 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="v">løpe (olmmoš</t>
-        <t pos="x">loddi viehká)</t>
+        <t pos="v">løpe</t>
+        <xg>
+          <x>Guovttejuolggat viehká.</x>
+          <xt>En tobeint løper.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -185547,8 +185530,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="n">øl (vuolla</t>
-        <t pos="x">vuola)</t>
+        <t pos="n">øl</t>
       </tg>
     </mg>
   </e>
@@ -185960,7 +185942,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="x">mandag ( mánnodat)</t>
+        <t pos="x">mandag</t>
       </tg>
     </mg>
   </e>
@@ -188624,7 +188606,7 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="m">roaŋga</t>
+        <t pos="m">??</t>
       </tg>
     </mg>
   </e>
@@ -198153,6 +198135,7 @@ eallima</x>
    <e>
     <lg>
       <l pos="n">nuorra</l>
+      <lc>nuorat, nurrii</lc>
     </lg>
     <mg>
       <tg>
@@ -202090,10 +202073,10 @@ eallima</x>
     </lg>
     <mg>
       <tg>
-        <t pos="adv">nedre-, ner- vuollegeahčen</t>
+        <t pos="adv">nedre-, ner-</t>
         <xg>
           <x>i nerenden</x>
-          <xt></xt>
+          <x>vuollegeahčen</x>
         </xg>
       </tg>
     </mg>
@@ -204023,7 +204006,7 @@ eallima</x>
   </lg>
   <mg>
     <tg>
-      <t pos="S">trafikklŧs</t>
+      <t pos="S">trafikklys</t>
     </tg>
   </mg>
  </e>
@@ -204241,7 +204224,7 @@ eallima</x>
   
 <e>
   <lg>
-    <l pos="n">olgoriika</l>
+    <l pos="n">olgoriika</l>isme
   </lg>
   <mg>
     <tg>
