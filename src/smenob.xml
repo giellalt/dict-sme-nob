@@ -79375,7 +79375,7 @@
   </e>
   <e>
     <lg>
-      <l pos="npl">suolohasat</l>
+      <l pos="n" nr="pl">suolohasat</l>
     </lg>
     <mg>
       <tg>
@@ -105940,16 +105940,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">báhcán</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">gjenværende</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">bahčit</l>
     </lg>
     <mg>
@@ -109379,7 +109369,7 @@
   </e>
   <e>
     <lg>
-      <l pos="npl">doalvut</l>
+      <l pos="n" nr="pl">doalvut</l>
     </lg>
     <mg>
       <tg>
@@ -111198,16 +111188,6 @@
   </e>
   <e>
     <lg>
-      <l pos="x">leikejuvvon</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">støpt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">lihccut</l>
     </lg>
     <mg>
@@ -111590,17 +111570,6 @@
     <mg>
       <tg>
         <t pos="v">forlange</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="x">mearriduvvon</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">fastlagt</t>
-        <t pos="v">vedtatt</t>
       </tg>
     </mg>
   </e>
@@ -134078,7 +134047,7 @@
   </e>
   <e>
     <lg>
-      <l pos="npl">gávnnit</l>
+      <l pos="n" nr="pl">gávnnit</l>
     </lg>
     <mg>
       <tg>
@@ -155360,7 +155329,7 @@
   </e>
   <e>
     <lg>
-      <l pos="rel">mii</l>
+      <l pos="pron" type="rel">mii</l>
       <lc>man, masa, mas, main, mat, maid, maidda, main, maiguin</lc>
     </lg>
     <mg>
@@ -155376,7 +155345,7 @@
   </e>
   <e>
     <lg>
-      <l pos="pers">mii</l>
+      <l pos="pron" type="pers">mii</l>
       <lc>min, midjiide, mis, minguin</lc>
     </lg>
     <mg>
@@ -161123,7 +161092,7 @@
   </e>
   <e>
     <lg>
-      <l pos="npl">ođđasat</l>
+      <l pos="n" nr="pl">ođđasat</l>
     </lg>
     <mg>
       <tg>
@@ -168899,16 +168868,6 @@ eallima</x>
   </e>
   <e>
     <lg>
-      <l pos="x">revansjisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">revansjisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">reverseret</l>
     </lg>
     <mg>
@@ -174581,7 +174540,7 @@ eallima</x>
   </e>
   <e>
     <lg>
-      <l pos="npl">skárrit</l>
+      <l pos="n" nr="pl">skárrit</l>
     </lg>
     <mg>
       <tg>
@@ -201107,7 +201066,7 @@ eallima</x>
 
   <e>
     <lg>
-      <l pos="x">eahpe-</l>
+      <l pos="xfix" type="pre">eahpe-</l>
     </lg>
     <mg>
       <tg>
@@ -204224,7 +204183,7 @@ eallima</x>
   
 <e>
   <lg>
-    <l pos="n">olgoriika</l>isme
+    <l pos="n">olgoriika</l>
   </lg>
   <mg>
     <tg>
