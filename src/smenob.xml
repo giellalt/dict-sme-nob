@@ -205,7 +205,7 @@
   </e>
   <e>
     <lg>
-      <l pos="a">Álttesjávri</l>
+      <l pos="a">Álddesjávri</l>
     </lg>
     <mg>
       <tg>
@@ -25006,16 +25006,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">cherimoija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="S">cherimoya</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">chilibihpporat</l>
     </lg>
     <mg>
@@ -27688,6 +27678,16 @@
     <mg>
       <tg>
         <t pos="S">lyshet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">čuvlla</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="S">kjole</t>
       </tg>
     </mg>
   </e>
@@ -70731,7 +70731,7 @@
   </e>
   <e>
     <lg>
-      <l pos="prop">Måsske</l>
+      <l pos="prop">Måske</l>
     </lg>
     <mg>
       <tg>
@@ -109350,16 +109350,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n" nr="pl">doalvut</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">eksport</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">dohppehallat</l>
     </lg>
     <mg>
@@ -119015,16 +119005,6 @@
   </e>
   <e>
     <lg>
-      <l pos="v">charmantiseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="v">charmantisere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">charmeret</l>
     </lg>
     <mg>
@@ -125515,6 +125495,11 @@
         <xg>
           <x>buktit</x>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="v">eksportere</t>
       </tg>
     </mg>
   </e>
@@ -133038,6 +133023,73 @@
       <tg>
         <t pos="m">vare</t>
         <t pos="m">bagasje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">heasttagáma</l>
+      <lc>heasttagápmagat</lc>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="m">hestesko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ruovdegáma</l>
+      <lc>ruovdegápmagat</lc>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="m">hestesko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sistegáma</l>
+      <lc>sistegápmagat</lc>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">komag av garvet reinskinn</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">guretgáma</l>
+      <lc>guretgápmagat</lc>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">skalle med snøring</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">njáhcogáma</l>
+      <lc>njáhcogápmagat</lc>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">komag med legg av hårete skinn</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">stohpogáma</l>
+      <lc>stohpogápmagat</lc>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="m">tøffel</t>
+        <t pos="x">komag til innebruk</t>
       </tg>
     </mg>
   </e>
@@ -161822,16 +161874,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">opposisjonspartiija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">opposisjonsparti</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">opteret</l>
     </lg>
     <mg>
@@ -161867,6 +161909,38 @@
     <mg>
       <tg>
         <t pos="x">optimisme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">bátnešiella</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="x">gave fra den som oppdager barnets første tann</t>
+        <t pos="m">tanngave</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">šiella</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="f">finnerlønn</t>
+        <t pos="m">fødselsgave</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">čalbmešiella</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="f">finnerlønn</t>
       </tg>
     </mg>
   </e>
@@ -165078,26 +165152,6 @@ eallima</x>
   </e>
   <e>
     <lg>
-      <l pos="n">profesjonalisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">profesjonalisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">profesjonisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">profesjonisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="v">profešonaliseret</l>
     </lg>
     <mg>
@@ -165515,16 +165569,6 @@ eallima</x>
     <mg>
       <tg>
         <t pos="v">prosjektere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">prosjektiila</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="n">prosjektil</t>
       </tg>
     </mg>
   </e>
@@ -166897,16 +166941,6 @@ eallima</x>
     <mg>
       <tg>
         <t pos="v">rasjonalisere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">rasjonalisma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">rasjonalisme</t>
       </tg>
     </mg>
   </e>
@@ -174209,26 +174243,6 @@ eallima</x>
     <mg>
       <tg>
         <t pos="x">sjamanisme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">sjamponeret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">sjamponere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">sjarmantiseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">sjarmantisere</t>
       </tg>
     </mg>
   </e>
@@ -186247,27 +186261,7 @@ eallima</x>
   </e>
   <e>
     <lg>
-      <l pos="n">økonomiija</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">økonomi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="v">økonomiseret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">økonomisere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">økosystema</l>
+      <l pos="n">ekosystema</l>
     </lg>
     <mg>
       <tg>
