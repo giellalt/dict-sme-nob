@@ -3,7 +3,9 @@
 <!ELEMENT lg (l,lc*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
-      pos ( a | n | v | adv | po | pr | pron | rel | pers | i | pcle | num | cc | cs | npl | prop | x ) #REQUIRED
+      pos ( a | n | v | adv | po | pr | pron | rel | pers | i | pcle | num | cc | cs | n | prop | x | xfix ) #REQUIRED
+      nr ( sg | pl ) #IMPLIED
+      type ( rel | pers | pre | post ) #IMPLIED
 >      
 
 <!ELEMENT lc (#PCDATA) >
