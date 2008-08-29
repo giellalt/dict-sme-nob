@@ -5,16 +5,6 @@
 <r>
 <e>
    <lg>
-      <l pos="n">hatteheapmi</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="m">dårlig pris</t>
-      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
       <l pos="n">isolašuvdna</l>
    </lg>
    <mg>
@@ -215,11 +205,6 @@
          <t pos="n">margbein</t>
       </tg>
    </mg>
-   <mg>
-      <tg>
-         <t pos="n">godt hold</t>
-      </tg>
-   </mg>
 </e>
 <e>
    <lg>
@@ -248,7 +233,7 @@
    <mg>
       <tg>
          <t pos="f">gavegiing</t>
-         <t pos="f">det å gi gave</t>
+         <t pos="x">gi gave</t>
       </tg>
    </mg>
 </e>
@@ -885,7 +870,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="n">hull i havbotn</t>
+         <t pos="f">havgrop</t>
       </tg>
    </mg>
 </e>
@@ -1195,7 +1180,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="n">tillegg av tid</t>
+         <t pos="n">tidstillegg</t>
       </tg>
    </mg>
 </e>
@@ -1335,7 +1320,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">sesongmessig bruk</t>
+         <t pos="m">sesongbruk</t>
       </tg>
    </mg>
 </e>
@@ -1460,7 +1445,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="n">håndtak på åre</t>
+         <t pos="n">årehåndtak</t>
       </tg>
    </mg>
 </e>
@@ -1550,7 +1535,8 @@
    </lg>
    <mg>
       <tg>
-         <t pos="n">benet som danner feste for gjellene</t>
+         <t pos="n">skulderbein hos fisk</t>
+         <t pos="n">bein som danner feste for gjellene</t>
       </tg>
    </mg>
 </e>
@@ -1560,7 +1546,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">del av fisken</t>
+         <t pos="m">forreste del av fisken</t>
       </tg>
    </mg>
 </e>
@@ -1700,7 +1686,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">del av reinskallen</t>
+         <t pos="m">del av reinskallen - mellom og omkring hornene</t>
       </tg>
    </mg>
 </e>
@@ -1710,7 +1696,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">tynne delen av øks</t>
+         <t pos="m">økseegg</t>
       </tg>
    </mg>
 </e>
@@ -1740,7 +1726,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="f">rygg på øks</t>
+         <t pos="f">øksehammer</t>
       </tg>
    </mg>
 </e>
@@ -1995,7 +1981,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="f">lov om folkehøyskoler</t>
+         <t pos="f">folkehøgskoleloven</t>
       </tg>
    </mg>
 </e>
@@ -2807,10 +2793,11 @@
 <e>
    <lg>
       <l pos="n">álli</l>
+     <lc>álit</lc>
    </lg>
    <mg>
       <tg>
-         <t pos="f">stang ved stranden</t>
+         <t pos="f">ilestang</t>
       </tg>
    </mg>
 </e>
@@ -3853,7 +3840,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">rein m/ bare ett horn</t>
+         <t pos="m">enhornet rein</t>
       </tg>
    </mg>
 </e>
@@ -4433,7 +4420,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">utmattet arbeidsrein</t>
+         <t pos="m">utmattet (arbeids-) rein</t>
       </tg>
    </mg>
 </e>
@@ -5173,7 +5160,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">sønn i reindriftsfamilie</t>
+         <t pos="m">reinsamegutt</t>
       </tg>
    </mg>
 </e>
@@ -7799,7 +7786,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="n">husdyr som står bundet</t>
+         <t pos="n">husdyr som i band</t>
       </tg>
    </mg>
 </e>
@@ -7910,7 +7897,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">overgrep</t>
+         <t pos="m">overbegrep</t>
       </tg>
    </mg>
    <mg>
@@ -8116,7 +8103,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="S">not øvre del</t>
+         <t pos="S">øvre del av not</t>
       </tg>
    </mg>
 </e>
@@ -8265,7 +8252,17 @@
    </lg>
    <mg>
       <tg>
-         <t pos="m">som er liten og tjukk</t>
+         <t pos="m">liten tjukkas</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="m">oppsvulmet gjenstand</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="m">dyt med stor vom</t>
       </tg>
    </mg>
 </e>
@@ -8435,7 +8432,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="f">voldgift, tvungen</t>
+         <t pos="f">tvungen voldgift</t>
       </tg>
    </mg>
 </e>
@@ -8571,27 +8568,8 @@
    </lg>
    <mg>
       <tg>
-         <t pos="S">utvekst på bjørk</t>
-      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-      <l pos="n">báhkinlágáš</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="S">som er på god vei til å være hedning</t>
-      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-      <l pos="n">báhkinlaš</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="S">hedensk</t>
+         <t pos="S">liten rikule</t>
+         <t pos="S">liten rirkule</t>
       </tg>
    </mg>
 </e>
@@ -8993,7 +8971,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="S">mye fisk</t>
+         <t pos="n">løft</t>
       </tg>
    </mg>
 </e>
