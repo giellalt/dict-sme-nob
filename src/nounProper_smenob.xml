@@ -1,0 +1,4288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
+<?xml-stylesheet type="text/css" href="../scripts/smenob.css"?>
+<?xml-stylesheet type="text/xsl" href="../scripts/smenob.xsl"?>
+<r>
+<e>
+   <lg>
+      <l pos="prop">Doasku</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Torsken</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áhkárvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Akkarfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áhkkávággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kjerringdalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áhtávuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Efjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áilu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Helgøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áisejohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Andselv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ákšovuonbahta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Øksfjordbotn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ákšovuonvuopmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Oksfjorddalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ákšovuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Øksfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Álddajohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Meskelva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Álddanjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Meskelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Alimusriekti</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Høyesterett</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Álpesuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Altesula</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Anár</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Enare</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ánddasuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Andøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ánnejohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vestre Jakobselv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áppošborri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Abelsborg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áravuopmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vassdalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Avvil</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ivalo</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Deatnu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tana</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gilbbesjávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kilpisjärvi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Girkonjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kirkenes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Heahttá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hetta</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jiellevárri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gällivare</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Johkamohkki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Jokkmokk</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Leavdnja</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lakselv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Porsáŋgu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Porsanger</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Skánit</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skånland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Várjjat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Varanger</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Átteváhki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Advik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áttir</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Andørja</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ávačuohttu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lille Tamsøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ávva</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Havøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Báhčaveadji</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Pasvik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Báhčaveaivuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bøkfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Báhcavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Båtsfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Báhccavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Balsfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Báhkavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bakfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bálák</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ballangen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bálákvuovdi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ballangsmark</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Báttár</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Badderen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bávnnjajohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bognelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bealátjohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hammerneselva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bearalváhki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Berlevåg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Beardueatnu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Barduelva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Beardu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bardu</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Beaskevárri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Peskfjellet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Beavgohppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bevkop</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Biedjovággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Biedjovággi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Biergi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kiberg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Biertavárri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Birtavarre</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Biesavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Persfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bievák</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bø</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bihpporčohkka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Peppartind</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Billájohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Billefjordelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Birasgáhttendepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Miljøverndepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Birgi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Berg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bissojohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Børselv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Boaresárku</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bergeby</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Boavva</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bogen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Boazodoalloláhka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Reindriftsloven</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Boazovuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Reinfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Borsi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Porsa</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Burgen</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vollan</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Buvrovuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Burfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čáhcegárnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vidjenes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čáhcesuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vadsø</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čáhppesnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Svartnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čávkos</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Oteren</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ceavccageađgi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Mortensnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čeavetjávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sevettijärvi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čiekŋalvággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Signaldalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čoahkkinortnegii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Til dagsorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čoalbmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kjølmangen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čohka-Láhttá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Store Latøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čohkkiras</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Jukkasjärvi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čorgaš</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordkinn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čorgašnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordkinnhalvøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Cuokcavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nuvsvåg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Čuolejávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tjuolisjärvi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dáibaravuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Mårøyfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dáigevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Dyfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dálmmát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kjelmøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dárrosuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Norskholmen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dávggát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Karlsvogna</t>
+         <xg>
+            <x>Dávggat lea nástegovva</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Davvimearra</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordsjøen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dážagohppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Norskbukt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dearvvašvuođadepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Helsedepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dielddanuorri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tjeldsund</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dieváideatnu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Divielva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dieváidvuovdi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Dividalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Divrrák</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Dyrøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Divttasvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tysfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Donjevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Mehamn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dorvonjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Dorvinjarga</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Duikkášmuotki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Alteidet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Duorga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lenvikmarka</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Duviika</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tovik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Eadjásuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Mannsholmen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Eaibujohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Eibyelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Eaibuvággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Eibydalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Eanandoallodepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Landbruksdepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Earnjoaski</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Erdal</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">EDG-kantuvra</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">EDB-kontor</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">EDG-latnja</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">EDB-rom</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Enodat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Enontekiö</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Eurohpáluodda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Europaveg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Evenášši</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Evenes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Fálá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kvaløya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Fielvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Korsfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Finnmárku</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Finnmark</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Fiškonjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Fiskenes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Frostadiggeláhka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Frostatingslov</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Fuoitnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bunes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gádde-Iččát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Rolvsøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gahpervággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kaperdalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gahpirvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kipparfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gáivuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kåfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gálbi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Loppkalven</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gáldu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kjeldebotn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gálggašluokta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sandvik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gállojohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skallelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gálsa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Karlsøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gáŋgaviika</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gamvik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gáranasvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ramfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gárasavvon</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Karesuando</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gárgiáávži</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gargiadalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gárnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Karnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gávkevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kåfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gávvalváhki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kabelvåg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gávvir</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kågen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Giehtavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kvæfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gielas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kjølen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gielda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kildin</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Giepma</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kemi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Goahtečorru</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Breivikbotn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Goahtejávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kotajärvi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Goahtesullot</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Klokkerøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Goaskinvággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kjelvik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gohppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bukta</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Golbmalohnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Trevikneset</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gollesuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gullholmen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guhkesnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Langnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guitanas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kvitnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guladiggeláhka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gulatingslova</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guohcamohkki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Breidvika</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guohcanuorri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Rotsund</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guohcavuopmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Breivikeidet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guolástusdepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Fiskeridepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guolleveadji</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Braselv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guonnegieddi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Valan, indre</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guovdageaidnu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kautokeino</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Troandin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Trondheim</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guovžajávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bjørnevatn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Guvžajávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bjørnevatnet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Hábmer</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hamarøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Hánssagieddi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hansjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Hardangerfanas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hardangerjekte</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Hárrejohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Harrelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Heallonjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Fjelldal</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Hearráriekti</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Herredag</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Heavošguoika</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hestefoss</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Hilssát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hillesøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Iččát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ingøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Idjavuonduottar</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ifjordfjellet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Iggavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kaldfjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ihkkot</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Store Ekkerøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Iidna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hinnøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Iinnasuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hinnøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ijávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ijärvi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Iŋggášguolbba</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Porsangermoen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Irevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tufjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Irgevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Friarfjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ittarvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lenangen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ittunjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lyngenhalvøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ivgubahta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skibotn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ivgu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lyngen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ivgumuotki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lyngseidet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ivguvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lyngenfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ivvárjohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ivvarjok</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jáhkogohppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kårhamn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jáhkotnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Malangshalvøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jáhkovuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Revsbotn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jávregáddi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kjønna</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jiekŋamearra</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordishavet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jietnagirji</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Den talende bok</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Joahkku</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Stjernsund</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Johka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bergsfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Johkangeahči</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Digermulen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Johkanjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Elvenes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Johtalusdepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Samferdselsdepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jovnnanjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Jonsnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Juvravuonna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gandvik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Karamearra</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Karahavet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Kárášjohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Karasjok</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Keaisváhki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gjesvær</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ladnečoalbmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bussesund</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ladnesuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">≈røya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lággu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Laggo</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Láhppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Loppa</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lákkovuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Langfjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lavttejohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Brennelva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lavttevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vesterbotn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lávvonjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Teltnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lávželuokta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Rypefjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Leaibbášvággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Oldervik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Leaibevuopmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Oldereidnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Leaibevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Olderfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Leaŋgáviika</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lenvik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Loabák</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lavangen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Loddejávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Fuglevatn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lodegat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lødingen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Máhkarainuorri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Magerøysundet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Máhkarávju</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Magerøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Máksin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kasse</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Málatvuopmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Målselv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Málatvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Malangen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Márnuorri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Maursund</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Márregohppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sørvær</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Mátta-Várjjat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sørvaranger</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Mearrabađaluokta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bottenviken</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Mearrabahta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bottenhavet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Meavki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Mauken</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Miehtagohppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Mevika</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Miennavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Risfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Mororeakšuvdna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Mororeaksjon</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Moskaluokta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lakselvbukt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Moskavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ullsfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Moskavuovdi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lakselvdalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Muorral</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Snefjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Muorralvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Snefjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Muosát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Måsøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Muotkevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Eidvågen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Måske</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Musken</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Návuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kvænangen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Návvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Neverfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">NC-vuogádat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">NC-systemet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nieidaluokta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Trollvik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nieidavuovdi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Andersdalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Njávdán</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Neiden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Njeareveadji</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nervei</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Njiđggujohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vesterelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Njuohttejávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nuortijärvi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nordkáhppa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordkapp</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nordkáhppašleađđu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordkapp-platå</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nordlánda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Norga</l>
+      <lc>Norgga</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Norge</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nuorri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hopseidet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nuortabađaeana</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Østerbotten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nuortaváhki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordvågen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Oarddojohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Syltefjordelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ođasmahttindepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Moderniseringsdepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ohcejohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Utsjok</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Olgoriikadepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Utenriksdepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Olmmáivággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Manndalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Omasvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Storfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">O-riekkis</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">O-ring</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ovddádusbellodat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Fremskrittspartiet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ovsttarjohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Austerelva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">PP-bálvalus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">PPB/PPT</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Presideanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">President</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ráhkojohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Veineselv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ráidná</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Reinøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ráisa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordreisa</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ráisavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sørreisa</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ráiseatnu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Reisaelva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ráneš</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ringvassøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rásseloháidi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Salangseidet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rávalgieddi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Ravelsnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rávdá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Rødøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rávdnjenjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Strømsnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rávjavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Rafjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rávttošjohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Stabburselva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rávttošnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Stabbursnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rávttošvuopmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Stabbursdalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Reahkkejávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Räkkijärvi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Reahpen</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Reppen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Reaisavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bugøyfjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Riehpponávži</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Repparfjorddalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Riehppovuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Repparfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Riimmat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nordmannset</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rissebákti</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Grasbakken</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rivtták</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gratangen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Roavvenjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Rovaniemi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Roavvi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Eidvågeidet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Romsa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tromsø</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Romssanuorri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tromsøysundet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Romssasuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tromsøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Romssavággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tromsdalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ropselv</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Juranjohka</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Rovvejohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nyborgelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ruhtadandepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Finansdepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ruŋgu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Spansdalen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ruobbá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Rebbenesøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ruohtogeahči</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skogende</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ruošša</l>
+      <lc>Ruoššas</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Russland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ruossavuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Korsfjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ruoŧŧa</l>
+      <lc>Ruoŧa, Ruŧŧii</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sverige</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ruovdevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Jarfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">EKG-latnja</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">EKS-rom</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sáđgejohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sargejok</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sáitevuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Meltefjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sállan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sørøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sállannuorri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sørøysund</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sállir</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kvaløya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sáltejávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Saltvatn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sáltesávju</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Veidnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sámediggeráđđi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sametingsrådet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sámediggi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sametinget</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sámekommišuvdna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lappekommisjonen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sámmolvárri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Samuelsberg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sápmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sameland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sárranjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sarnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sárravuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sarnesfjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sáttiidvuopmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sandemark</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sážžá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Senja</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Selešnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Angsnes</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Siellakvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Salangen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sievju</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Seiland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Silvetváhki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Segelvik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">SI-systema</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">SI-system</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Siviláittardeaddji</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sivilombudsmannen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sivlu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Forsøl</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Skánik</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skånland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Skiervá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skjervøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Skiessjohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lille Porsanger</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Skiessvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lille Porsangerfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Skuvvanvárri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skoganvarre</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Smiervuonjohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Smørfjordelva</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Smiervuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Smørfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sosiáladepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sosialdepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Spierta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sværholt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Stuoragieddi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Storslett</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Stuoragohppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Storbukt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Suodjalusdepartemeanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Forsvarsdepartementet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Suoidneleakši</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Myrlandet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Suopma</l>
+      <lc>Suomas, Supmii</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Finland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Suorggomohkki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Reiervik</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Suovka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nyborgmoen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">T-nađđa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">T-arm</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">T-revre</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">T-rør</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ulisuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Uløya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">U-mohkki</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">U-sving</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Unjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nesseby</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Uvdojohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Munkelv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Uvdovuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Munkefjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vagge</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Várdnasuolu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vannøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Várggát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vardø</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Várjavuonna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Varangerfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Várnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Varangerhalvøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vieranjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Veines</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Viestarbađaeana</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vesterbotten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Viestterálas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vesterålen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Voagat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Vågan</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vuođđoláhka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Grunnloven</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vuohpošnjárga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bringneshalvøya</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vuokkátdiggi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Omgangstinget</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vuopmegeahči</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Trøssemark</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vuorkeljohka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kobbholmvassdraget</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vuorkelvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kobbholmfjorden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vuošvággi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Furuflaten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Vuotnasiida</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sjøvegan</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Soggovuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Østerbotten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">TV-prográmma</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">TV-program</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Álaheadju</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Alta</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Áltá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Alta</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Máze</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Máze</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Hammerfeasta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hammerfest</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">TV</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">TV</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Afrihká</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Afrika</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Albánia</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Albania</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Amerihká</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Amerika</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Anárjávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Enaresjøen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Basevuovdi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Helligskogen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Báidár</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Beiarn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Beahcán</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Petsamo</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Beahkkirvuotna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bekkarfjord</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Belgia</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Belgia</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Biŧon</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Piteå</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Bossegohppi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Bossekop</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Buolbmát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Polmak</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Davvesiida</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lebesby</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dállogilli</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Korpilompelo</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Dánmárku</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Danmark</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Duiska</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Tyskland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Eanodat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Enontekiö</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Duortnus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Torneå</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Englánda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">England</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gaska-Amerihká</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Mellom-Amerika</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gaska-Nuorti</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Midtøsten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gárjil</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Karelen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Gaskamearra</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Middelhavet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Giebnegáisi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kebnekaise</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Giron</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Kiruna</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Greika</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Hellas</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Háhpárándi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Haparanda</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Helsset</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Helsingfors</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Hollánda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Nederland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Irlánda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Irland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Islánda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Island</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Itália</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Italia</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jaskes áhpi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Stillehavet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Jáhpan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Japan</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Joganjálbmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Joensuu</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="prop">Elvebakken</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Korea</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Korea</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Látvia</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Latvia</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lietuva</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Litauen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">London</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">London</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lujávri</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Lovozero</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Lulli-Amerihká</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sør-Amerika</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nuortamearra</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Østersjøen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Nuortariika</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Østerrike</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ránská</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Frankrike</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Románia</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Romania</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sibirjá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sibir</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Skandinávia</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skandinavia</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Skotlánda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Skotland</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Soađegilli</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sodankylä</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Sovjetlihttu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sovjetunionen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Stuorra-Británnia</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Storbritannia</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Suoločielgi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Saariselkä</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Suomaluokta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Finskebukta</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Šveica</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Sveits</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ubmi</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Umeå</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Váhčir</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Gällivare</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="prop">Ålánda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="prop">Åland</t>
+      </tg>
+   </mg>
+</e>
+</r>

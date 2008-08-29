@@ -1,0 +1,3599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
+<?xml-stylesheet type="text/css" href="../scripts/smenob.css"?>
+<?xml-stylesheet type="text/xsl" href="../scripts/smenob.xsl"?>
+<r>
+<e>
+   <lg>
+      <l pos="adv">aiddo</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">just</t>
+         <t pos="adv">nettopp</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ain</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">enda</t>
+         <t pos="adv">ennå</t>
+         <xg>
+            <x>ain buoret</x>
+            <x>son lea ain dáppe</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">aivve</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">bare</t>
+         <t pos="adv">ganske</t>
+         <t pos="adv">helt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">aktanaga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">aleine</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">aktan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">aleine</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">aktiivvalaččat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">aktivt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">albmosii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">åpenbart</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">alfabehtalaččat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">alfabetisk rekkefølge</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">almmake</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">likevel</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">badjelgeahčči</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="a">fornedrende</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">badjin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">oppe</t>
+         <t pos="adv">oppe fra</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gárrenoaivvis</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">alkoholpåvirket</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">jienaskeahttá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">avholdende</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">maiddái</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">også</t>
+         <xg>
+            <x>Oidnen maiddái Niillasa</x>
+            <xt>Jeg så Nils også</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ok</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">ok</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">olggobealde</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">utenfor</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">olu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">mye</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">seamma</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">samme</t>
+         <xg>
+            <x>Árvolassáneapmi lei jagis 1997 sullii seamma dásis goappaš riikkain</x>
+            <xt>Verdistigningen var i 1997 omtrent på samme nivå i begge landa</xt>
+         </xg>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="adv">like</t>
+         <xg>
+            <x>Soabadanráđis galget leat golbma miellahttu ja seamma ollu várrelahttut</x>
+            <xt>I forliksrådet skal det være tre medlemmer og like mange varamedlemmer</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">sihke</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">både</t>
+         <xg>
+            <x>Dat lea sihke buorre ja heittot</x>
+            <xt>Det er både bra og dårlig</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vel</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">enda</t>
+         <xg>
+            <x>Son ii leat vel boahtán</x>
+            <xt>Hun har ikke kommet enda</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vieruiduvvan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">sedvanemessig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">virkui</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">aktiv</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">baicca</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">heller</t>
+         <t pos="adv">likevel</t>
+         <xg>
+            <x>muhto baicca</x>
+            <xt>men på den andre sida</xt>
+         </xg>
+         <xg>
+            <x>Dán vuonas ii lean ge sáidi deaŧalaččamus geasseguolli, muhto baicca dorski ja juksu.</x>
+            <xt>I denne fjorden er det nok ikke sei som er den viktigste sommerfisken, men heller torsk og hyse.</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gal</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">vel</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">áibbas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ganske</t>
+         <t pos="x">aldeles</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">áigá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">for lenge siden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">áiggil</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i tide</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">áinnas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">gjerne</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">aktii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">sammen</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="m">en gang</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ále</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">bestandig</t>
+         <xg>
+            <x>álo</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">álggos</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i begynnelsen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">állut</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på skrå</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">álo</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">alltid</t>
+         <xg>
+            <x>ále</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">árrat</l>
+      <lc>árragat, árra (iđit)</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="a">tidlig</t>
+         <xg>
+            <x>árrat iđedis</x>
+            <xt>tidlig om morgenen</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">badjálaga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">oppå hverandre</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bahkka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="a">trangt</t>
+         <t pos="a">fullt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">báikkohagaid</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">her og der</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bajás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">opp</t>
+         <t pos="x">oppover</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bajil</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ovenpå</t>
+         <t pos="x">ovenfra</t>
+         <xg>
+            <x>máhtán bajil</x>
+            <xt>jeg kan det utenat</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">beaivet</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">om dagen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">beanta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ganske</t>
+         <t pos="x">nokså</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">bentfram</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bearehaga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">alt for</t>
+         <t pos="x">aldeles</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">beare</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">bare</t>
+         <t pos="x">altfor</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">belohahkii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">delvis</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">binná</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">litt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bođuid</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">løs</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">for seg sjøl</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bures</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">bra</t>
+         <t pos="adv">godt</t>
+         <xg>
+            <x>manná bures</x>
+            <xt>Det går bra</xt>
+         </xg>
+         <xg>
+            <x>Bures</x>
+            <xt>God dag, takk for sist</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">čađat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">alltid</t>
+         <t pos="x">bestandig</t>
+         <xg>
+            <x>álo</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">čakčat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">om høsten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">čavga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">stramt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ceaggut</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">oppreist</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dađistaga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">etter hvert</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dádjat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">for ei tid siden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dakkaviđe</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">straks</t>
+         <t pos="x">med en gang</t>
+         <xg>
+            <x>dallánaga</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dakko</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">der</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dákko</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">her</t>
+         <xg>
+            <x>manai dákko</x>
+            <xt>han (hun ) gikk her forbi</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dallánaga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">straks</t>
+         <t pos="x">med en gang</t>
+         <xg>
+            <x>dakkaviđe</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dalle</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">da</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dál</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nå</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dal</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nå</t>
+         <t pos="x">jo</t>
+         <t pos="x">vel</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">her</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dálvet</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">om vinteren</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">danin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">derfor</t>
+         <xg>
+            <x>danne</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dáppe</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">her</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">her</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dassá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">til</t>
+         <xg>
+            <x>dassá go</x>
+            <xt>inntil</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dássásaš</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">jevnbyrdig</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">jevnhøy</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dasto</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">deretter</t>
+         <t pos="x">så</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">den her</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">datte</l>
+      <lc>datte-ge</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">likevel</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dávjá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="v">ofte</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">deike</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hit</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dieđus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">naturligvis</t>
+         <t pos="x">visst</t>
+         <xg>
+            <x>diehttalas</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">diehko</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">dit til dere</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">die</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">der</t>
+         <t pos="x">den der</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dieppe</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">der hos dere</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">diet</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">den/det der</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">diibmá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i fjor</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">divdna</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">fullt ut</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">doantá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">pokker</t>
+         <xg>
+            <x>neavri</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">doarrás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på tvers</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dohko</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">dit</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dolin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">før i tiden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">do</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">der borte</t>
+         <t pos="x">det der borte</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">doppe</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">der borte</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">duođaid</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">sannelig</t>
+         <t pos="x">virkelig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">duojásii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ustanselig</t>
+         <t pos="x">i lengden</t>
+         <xg>
+            <x>duojážassii</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">duo</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">der (borte)</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">duosttáš</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">tilrådelig</t>
+         <xg>
+            <x>ii leat duosttáš, lea go duosttáš</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">duššás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">forgjeves</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">bortkastet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dušše</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">bare</t>
+         <xg>
+            <x>aivve, beare</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">duvle</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">for en tid siden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">eambbo</l>
+      <lc>eambu</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">mer</t>
+         <t pos="x">flere</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">eanas</l>
+      <lc>eatnasat</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">det meste</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">de fleste</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">easkka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nettopp</t>
+         <t pos="x">nylig</t>
+         <xg>
+            <x>de easkka vulgii</x>
+            <xt>da først dro han (hun))</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">eatnat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ganske mye</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">erenoamážit</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">spesielt</t>
+         <t pos="x">særlig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">eske</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i stad</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">fáhkka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">plutselig</t>
+         <xg>
+            <x>fáhkkestaga</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">fargga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">snart</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">farga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">snart</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">fárrui</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">med</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">fárus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">med</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">friddja</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">fri</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gallás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nok</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">galle</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hvor mange</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">nok</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gaskal</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">mellom</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gaskan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">halvferdig</t>
+         <xg>
+            <x>dat bázii gaskan</x>
+            <xt>den ble ufullendt</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gaskka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">blant</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gaskkohagaid</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">av og til</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gasku</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">midt i</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gávvut</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på rygg</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">geasset</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">om sommeren</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gieskat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nylig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gitta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">fast</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">goasii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nesten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">goas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">når</t>
+         <xg>
+            <x>goas boahtá</x>
+            <xt>når kommer han (hun)</xt>
+            <x>ii goas-ge</x>
+            <xt>aldri</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">goavkkil</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på gløtt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gokko</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hvor</t>
+         <xg>
+            <x>gokko manai</x>
+            <xt>hvilken vei gikk han (hun)</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gopmut</l>
+      <lc>gomu (fanas)</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hvelvet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gosa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hvor</t>
+         <xg>
+            <x>gosa manat?</x>
+            <xt>hvor drar du?</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gos</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hvor</t>
+         <xg>
+            <x>gos lea?</x>
+            <xt>hvor er den?</xt>
+         </xg>
+         <xg>
+            <x>gos boađát</x>
+            <xt>hvor kommer du fra?</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">guhká</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">lenge</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">guhkás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">langt (bort)</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">guhkkin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">langt borte</t>
+         <t pos="x">langt borte fra</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">guktii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">to ganger</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gulul</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">rolig</t>
+         <t pos="x">forsiktig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">hárve</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">sjelden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">heahkkat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">plutselig</t>
+         <xg>
+            <x>fáhkka</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">hirbmat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">svært</t>
+         <t pos="x">veldig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">hoahpus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">fort</t>
+         <t pos="x">snart</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">hui</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">svært</t>
+         <t pos="x">ganske</t>
+         <xg>
+            <x>hui buorre</x>
+            <xt>ganske bra</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">iehčanassii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på egen hånd</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ihkku</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">om natten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ihtážii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">til i morgen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ihttin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i morgen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ijat-beaivái</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">natt og dag</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ikte</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i går</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ilá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">altfor</t>
+         <xg>
+            <x>menddo</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">illá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">såvidt</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">nesten ikke</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ipmašis</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">sjelden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">jávohaga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">taust</t>
+         <t pos="x">stille</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">jeavda</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">jevnt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">jidnii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">høyrøstet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">jitnosii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">høylydt</t>
+         <xg>
+            <x>jitnosit</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">jođánit</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">fort</t>
+         <xg>
+            <x>manná jođánit</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">jorgut</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">vrengt</t>
+         <t pos="x">bakvendt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">juo</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">allerede</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">jur</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">just</t>
+         <t pos="x">akkurat</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">juste</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">just</t>
+         <t pos="x">nettopp</t>
+         <xg>
+            <x>justa</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">lahkalagaid</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nær hverandre</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">lahka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nær</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">lávga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">tettpakket</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">liiggás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">til overs</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">liikká</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">likevel</t>
+         <xg>
+            <x>dattege</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">loahpas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">til slutt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">loažža</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">løs</t>
+         <t pos="x">slakk</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">luksa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">mot sør</t>
+         <t pos="x">sørover</t>
+         <xg>
+            <x>lulás</x>
+            <x>máttás</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">lulás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">mot sør</t>
+         <t pos="x">sørover</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">lulde</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">langt sør</t>
+         <t pos="x">langt sørfra</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">lullin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i sør</t>
+         <t pos="x">sørpå</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">fra sør</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">luoikkas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">til låns</t>
+         <t pos="x">til leie</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">mahká</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">liksom</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">for eksempel</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">maid</l>
+      <lc>maiddái</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">også</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">maŋás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">bakover</t>
+         <xg>
+            <x>maŋos</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">maŋážassii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">endelig</t>
+         <t pos="x">omsider</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">máŋgii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">mange ganger</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">maŋŋil</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">etterpå</t>
+         <t pos="x">siden</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">maŋŋit</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">sent</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">maŋos</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">bakover</t>
+         <xg>
+            <x>maŋás</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">manin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hvorfor</t>
+         <xg>
+            <x>manne</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">manne</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hvorfor</t>
+         <xg>
+            <x>manin</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">masá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nesten</t>
+         <t pos="x">såvidt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">mealgat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nokså mye</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">measta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nesten</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">meattá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">forbi</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">menddo</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">for</t>
+         <t pos="x">altfor</t>
+         <xg>
+            <x>menddo guhkkin</x>
+            <xt>langt borte</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">miehtá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">langs</t>
+         <t pos="x">over</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">mielde</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">med</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">minddar</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ellers</t>
+         <xg>
+            <x>muđuid</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">mo</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hvordan</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">slik som</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">muđuid</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ellers</t>
+         <xg>
+            <x>minddar</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">muhtumin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i blant</t>
+         <t pos="x">av og til</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ná</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">slik</t>
+         <t pos="x">sånn her</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">namalassii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nemlig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">nie</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">slik</t>
+         <t pos="x">sånn der</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">njuolgga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">rett</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">direkte</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">nu</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">slik</t>
+         <t pos="x">sånn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">nuppádassii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">for det andre</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">for annen gang</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">nuvttá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">gratis</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">uten videre</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">oanehassii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">for en liten stund</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">obban</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">urørt</t>
+         <t pos="x">hel</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">odne</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i dag</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ohpit</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på ny</t>
+         <t pos="x">igjen</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">oktanaga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">samtidig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">oktan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">sammen med</t>
+         <xg>
+            <x>áhčči oktan mánáinis</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">oktii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">sammen</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="m">en gang</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">okto</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">alene</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">olggos</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ut</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">olggul</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">utvendig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">olgun</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ute</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ollásii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">fullstendig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ollu</l>
+      <lc>(olu)</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">mye</t>
+         <t pos="x">mange</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">olus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nesten (ikke)</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">oppa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">hele</t>
+         <t pos="x">all</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">oppanassii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i hele tatt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">otnážii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">til i dag</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ovdal</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">før</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ovddas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i veien</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ovttas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">sammen</t>
+         <xg>
+            <x>ovttas bargat)</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ovtto</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">bestandig</t>
+         <xg>
+            <x>álo</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ráigge</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">gjennom</t>
+         <t pos="x">bortover</t>
+         <xg>
+            <x>uksa-ráigge</x>
+            <x>geai dno-ráigge)</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">rastá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">over</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">tvers av</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">reaida</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i orden</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">kontant</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">riekta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">riktig</t>
+         <t pos="x">rett</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ruoktut</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">heim</t>
+         <t pos="x">hjem</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">tilbake</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ruovttus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">heime</t>
+         <t pos="x">hjemme</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">sakka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">meget</t>
+         <t pos="x">svært</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">sámás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">til samisk</t>
+         <t pos="x">på samisk</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">seammá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">samme</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">siivvus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i ro</t>
+         <t pos="x">stille</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">sisa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">inn</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">siskkil</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">innvendig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">siste</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">inne</t>
+         <t pos="x">innenfra</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">šlumpa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på slump</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">sulaid</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">omtrent</t>
+         <xg>
+            <x>sullii</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">sullii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">omtrent</t>
+         <xg>
+            <x>sulaid</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">summal</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på slump</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">suolggaid</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">langsomt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">suoli</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">i hemmelighet</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">uhcán</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">lite</t>
+         <xg>
+            <x>unnán</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">unnán</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">lite</t>
+         <xg>
+            <x>uhcán</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vánit</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">knapt</t>
+         <t pos="x">neppe</t>
+         <xg>
+            <x>illá</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">várás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">for</t>
+         <t pos="x">av hensyn til</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">várra</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">kanskje</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vásedin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">egentlig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">veagal</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">med makt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">veahá</l>
+      <lc>veaháš</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">litt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vealggás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på kreditt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">veallut</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">liggende</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vearrut</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">galt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">viehka</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ganske</t>
+         <t pos="x">nokså</t>
+         <xg>
+            <x>hui</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">viidát</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">vidt</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">viimma</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">endelig</t>
+         <t pos="x">omsider</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">viimmat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">endelig</t>
+         <t pos="x">omsider</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">visot</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">alt</t>
+         <xg>
+            <x>buot</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vissa</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">kanskje</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vitnjut</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på skrå</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vulos</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ned</t>
+         <t pos="x">nedover</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuohččan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">først</t>
+         <t pos="x">i begynnelsen</t>
+         <xg>
+            <x>vuosttažettiin</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuoiga</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">virkelig</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="x">riktig</t>
+         <t pos="x">rett</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuolás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">ned</t>
+         <t pos="x">nedover</t>
+         <xg>
+            <x>vulos</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuollin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">nede</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuos</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">først</t>
+         <t pos="x">ennå</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuosttažettiin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">først</t>
+         <t pos="x">i begynnelsen</t>
+         <xg>
+            <x>vuohččan</x>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">aitto</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">mon tro</t>
+         <xg>
+            <x>mo dal aitto geavvá</x>
+            <xt>hvordan går det, mon tro</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">almma</l>
+      <lc>amma</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">ikke sant</t>
+         <xg>
+            <x>almma muittát dan</x>
+            <xt>ikke sant, du husker det</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ba</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">nå, på en måte</t>
+         <xg>
+            <x>mo ba dan galgá dahkat</x>
+            <xt>hvordan skal man nå gjøre det</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bajágeahči</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">øverenden</t>
+         <xg>
+            <x>dat lea bajágeahčen, manai </x>
+            <xt/>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">å javel</t>
+         <xg>
+            <x>nu bat dat lea</x>
+            <xt>å, er det slik det er</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bealde</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">side</t>
+         <xg>
+            <x>dán bealde</x>
+            <xt>på denne sida</xt>
+         </xg>
+         <xg>
+            <x>bajábealde</x>
+            <xt>på oversida</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bearrái</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">etter</t>
+         <xg>
+            <x>bearrái geahččat</x>
+            <xt>å se etter, å passe på</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bieđggus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">spredt</t>
+         <xg>
+            <x>biđgosis, biđgosii</x>
+            <xt>spredt</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">bále</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>dan bále</x>
+            <xt>i mens, så lenge som</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">báljo</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>ii báljo mihke-ge</x>
+            <xt>nesten ingen ting</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">báris</l>
+      <lc>bárrásat</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>son leai doppe bárisin</x>
+            <xt>han var der som en av</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dađe</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x/>
+            <xt>desto bedre</xt>
+         </xg>
+         <xg>
+            <x>mađe stuorát, dađe buoret</x>
+            <xt>jo større, desto bedre</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">dearvan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>mon ealán dearvan</x>
+            <xt>jeg er frisk</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">eandalii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>galggat eandalii boahtit</x>
+            <xt>du må absolutt endelig komme</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">eise</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>ii eise-ge</x>
+            <xt>slett ikke</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">endor</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>manai endorii</x>
+            <xt>han dro langt ut i det fjerne; ut på viddene</xt>
+         </xg>
+         <xg>
+            <x>Lei čielgasit oaidnimis, ahte juoga lei mannan endorii.</x>
+            <xt>Det var åpenbart at noe hadde gått helt galt</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">fal</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>nu fal</x>
+            <xt>ja, akkurat slik</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">fas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">igjen</t>
+         <xg>
+            <x>de fas álggii</x>
+            <xt>derimot</xt>
+         </xg>
+         <xg>
+            <x>mon válddan dán, don fas dien</x>
+            <xt/>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">feara</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>feara mii</x>
+            <xt>litt av hvert</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gis</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">også, sannelig</t>
+         <xg>
+            <x>de son gis</x>
+            <xt>og så han</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gul</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>son gul dahká dan</x>
+            <xt>han skal gjøre det, sier han</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gurrii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">ved siden av</t>
+         <xg>
+            <x>bija dan geaidno-gurrii</x>
+            <xt>sett den ved veien </xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gusto</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">se ut til</t>
+         <xg>
+            <x>nu lea gusto</x>
+            <xt>slik er det, ser det ut til</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gárren</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>lea gárremiin</x>
+            <xt>han hun er full</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">gázzi</l>
+      <lc>gácci</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">med følge</t>
+         <xg>
+            <x>Máhte gázzi</x>
+            <xt>Mattis og de; Mattis med følge</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">han</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>nu han lea</x>
+            <xt>slik er det vel jo</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ihkinassii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">noen sinne</t>
+         <t pos="adv">noen sinne</t>
+         <xg>
+            <x>mii ihkinassii</x>
+            <xt>hva som helst</xt>
+         </xg>
+         <xg>
+            <x>gos ihkinassii </x>
+            <xt>hvor som helst</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">lágán</l>
+      <lc>lágánat</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>dán lágan</x>
+            <xt>slik, sånn her</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">mađe</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>dan mađe</x>
+            <xt>så pass</xt>
+         </xg>
+         <xg>
+            <x>mađe stuorit, dađe buoret</x>
+            <xt>jo større, desto bedre</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">mihá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>mihá buoret</x>
+            <xt>mye bedre</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">nuorta</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">øst aust</t>
+         <xg>
+            <x>nuortan</x>
+            <xt>østpå, i øst, fra øst; </xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">oalle</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">ganske, nokså</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ruossalassii</l>
+      <lc/>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">i kryss</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">sajus</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">på plass</t>
+         <xg>
+            <x>dat lea sadjosis</x>
+            <xt>den er på plass; bidjat sadjosii </xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vare</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">vare boađášii</t>
+         <xg>
+            <x/>
+            <xt>jeg skulle ønske at han kom</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">veaitalas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">fri, på egen hånd = veaitalassii</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">veara</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>dan veara</x>
+            <xt>så pass, så mye verdt</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">veardde</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>dan veardde</x>
+            <xt>så pass mye</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuhtii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">i mot</t>
+         <xg>
+            <x>vuhtii váldit</x>
+            <xt>å ta hensyn til</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuolá</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">underside</t>
+         <xg>
+            <x>vuolábealde </x>
+            <xt/>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">vuolábealli</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">underside</t>
+         <xg>
+            <x>vuolábealde </x>
+            <xt/>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">válljogas</l>
+      <lc>-gasat, -gassii</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">rikelig</t>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">áhtan</l>
+      <lc>áhtanas</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>ii leat áhtanas</x>
+            <xt>den er ikke noe særlig</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">álga</l>
+      <lc>álgga</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">XXXX</t>
+         <xg>
+            <x>ii álga- álgga- ge</x>
+            <xt>ikke i det hele tatt</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+      <l pos="adv">ándagassii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">unnskyld</t>
+         <xg>
+            <x>attán ándagassii</x>
+            <xt>jeg tilgir</xt>
+         </xg>
+      </tg>
+   </mg>
+</e>
+</r>
