@@ -16,6 +16,7 @@
 <!ELEMENT t (#PCDATA) >
 <!ATTLIST t 
       pos ( a | a5 | S | m | f | n | v | adv | p | pron | prop | i | cc | cs | im | mpl | fpl | npl | num | pcle | s | x ) #REQUIRED
+      nr ( sg | pl ) #IMPLIED
 >      
 
 <!ELEMENT xg ((x,xt?)+)>
