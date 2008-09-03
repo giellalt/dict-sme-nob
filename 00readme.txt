@@ -5,4 +5,4 @@ This directory contains the following
  dev     -- 
  inc     -- data to be included into the source files in the src directory
  scripts -- scripts and other resoures to transform data
- src     -- the dictionary files (split modulo POS)
+ src     -- the dictionary files (split modulo POS llllllllllll)
