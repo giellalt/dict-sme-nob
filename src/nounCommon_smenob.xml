@@ -5100,7 +5100,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="npl">regnklær</t>
+         <t pos="n" nr="pl">regnklær</t>
       </tg>
    </mg>
 </e>
@@ -14605,7 +14605,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="npl">klær</t>
+         <t pos="n" nr="pl">klær</t>
       </tg>
    </mg>
 </e>
@@ -16030,7 +16030,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="npl">klær</t>
+         <t pos="n" nr="pl">klær</t>
       </tg>
    </mg>
 </e>
@@ -23010,7 +23010,7 @@
    </mg>
    <mg>
       <tg>
-         <t pos="npl">vott til høytidsdrakt</t>
+         <t pos="n" nr="pl">vott til høytidsdrakt</t>
       </tg>
    </mg>
 </e>
@@ -49912,7 +49912,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="S">kulørte klær</t>
+         <t pos="n" nr="pl">kulørte klær</t>
       </tg>
    </mg>
 </e>
@@ -102390,7 +102390,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="v">delegasjon</t>
+         <t pos="x">delegasjon</t>
       </tg>
    </mg>
 </e>
@@ -106883,7 +106883,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="x">klær</t>
+         <t pos="n" nr="pl">klær</t>
       </tg>
    </mg>
 </e>
@@ -107059,7 +107059,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="npl">sengetøy</t>
+         <t pos="n" nr="pl">sengetøy</t>
       </tg>
    </mg>
 </e>
@@ -120865,22 +120865,11 @@
 </e>
 <e>
    <lg>
-      <l pos="n">persuvdna</l>
-      <lc>-suvnnat</lc>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="m">person</t>
-      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
       <l pos="n">peršuvdna</l>
    </lg>
    <mg>
       <tg>
-         <t pos="x">persjon</t>
+         <t pos="x">person</t>
       </tg>
    </mg>
 </e>
@@ -146002,7 +145991,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="S">trenngsklær</t>
+         <t pos="n" nr="pl">trenngsklær</t>
       </tg>
    </mg>
 </e>
