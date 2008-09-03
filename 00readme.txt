@@ -7,4 +7,3 @@ This directory contains the following
  scripts -- scripts and other resoures to transform data
  src     -- the dictionary files (split modulo POS xxxxxxxxxxxx)
 
- src     -- the dictionary files (split modulo POS llllllllllll)
