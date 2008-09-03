@@ -11,7 +11,7 @@ SSH  = /usr/bin/ssh
 # =========== Paths & files: ============= #
 GTHOME      = ../../../../gt
 SMETESTING  = $(GTHOME)/sme/testing
-SMENOBMAC   = ./macdict/objects
+SMENOBMAC   = ../deliv/macdict/objects
 SMENOBNAME  = Nordsamisk-norsk ordbok.dictionary
 SMENOBZIP   = smenob-mac.dictionary.tgz
 UPLOADDIR   = sd@giellatekno.uit.no:xtdoc/sd/src/documentation/content/xdocs
@@ -36,7 +36,7 @@ smenob.fst: ../bin/smenob.fst ../bin/smedic.fst
 	@echo "*** Building smenob.fst ***" 
 	@echo
 	@echo "*** Reading shellscript smenobpairs.sh ***"
-	@./smenobpairs.sh
+	@../script/smenobpairs.sh
 	@echo
 	@echo "*** Calling xfst to compile lexc ***"
 	@printf "read lexc < ../bin/sn.lexc \n\
