@@ -113,7 +113,8 @@
    </lg>
    <mg>
       <tg>
-         <t pos="adv">alfabetisk rekkefølge</t>
+         <t pos="adv">alfabetisk</t>
+         <t pos="adv">i alfabetisk rekkefølge</t>
       </tg>
    </mg>
 </e>
@@ -165,6 +166,10 @@
    <mg>
       <tg>
          <t pos="adv">avholdende</t>
+         <xg>
+            <x>Áirras lei jienaskeahttá</x>
+            <xt>Representanten stemte avholdende</xt>
+         </xg>
       </tg>
    </mg>
 </e>
@@ -3112,7 +3117,12 @@
    </lg>
    <mg>
       <tg>
-         <t pos="adv">XXXX</t>
+         <re>i negative setninger</re>
+         <t pos="adv">mye</t>
+         <xg>
+            <x>Mus ii leat báljo dilli vuolgit.</x>
+            <xt>Jeg har ikke tid til å dra.</xt>
+         </xg>
          <xg>
             <x>ii báljo mihke-ge</x>
             <xt>nesten ingen ting</xt>
@@ -3141,11 +3151,7 @@
    </lg>
    <mg>
       <tg>
-         <t pos="adv">XXXX</t>
-         <xg>
-            <x/>
-            <xt>desto bedre</xt>
-         </xg>
+         <t pos="adv">desto</t>
          <xg>
             <x>mađe stuorát, dađe buoret</x>
             <xt>jo større, desto bedre</xt>
