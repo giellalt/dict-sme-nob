@@ -49,25 +49,25 @@ bin/smenob.fst: smenob.xml  bin/smenob.html
 # The reference here should be to the glued-together and put in ../tmp.
 # Cf. forthcoming Ciprian version of scripts/collect-smenob-parts.xsl
 # todo for Ciprian: make an xsl script out of the following 10 lines
-    @echo "LEXICON Root" > ../bin/sn.lexc
-    @cat ../src/*_smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | \
-    sed 's/pos=/£/g' | cut -d"£" -f2 | cut -d">" -f2 | cut -d"<" -f1 | \
-    grep '[A-Za-z0-9]' | tr ' ' '_' > ../bin/s.dic
-    @cat ../src/*_smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | \
-    sed 's/pos=/£/g' | cut -d"£" -f3 | cut -d">" -f2 | cut -d"<" -f1 | \
-    grep '[A-Za-z0-9]' | tr ' ' '_' > ../bin/n.dic
-    @paste -d":" ../bin/s.dic ../bin/n.dic > ../bin/sn.list
-    @cat ../bin/sn.list | sed 's/$/ # ;/g' >> ../bin/sn.lexc
+#    @echo "LEXICON Root" > ../bin/sn.lexc
+#    @cat ../src/*_smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | \
+#    sed 's/pos=/£/g' | cut -d"£" -f2 | cut -d">" -f2 | cut -d"<" -f1 | \
+#    grep '[A-Za-z0-9]' | tr ' ' '_' > ../bin/s.dic
+#    @cat ../src/*_smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | \
+#    sed 's/pos=/£/g' | cut -d"£" -f3 | cut -d">" -f2 | cut -d"<" -f1 | \
+#    grep '[A-Za-z0-9]' | tr ' ' '_' > ../bin/n.dic
+#    @paste -d":" ../bin/s.dic ../bin/n.dic > ../bin/sn.list
+#    @cat ../bin/sn.list | sed 's/$/ # ;/g' >> ../bin/sn.lexc
 
-	@echo
-	@echo "*** Calling xfst to compile lexc ***"
-	@printf "read lexc < bin/sn.lexc \n\
-	save bin/ismenob.fst \n\
-	invert net \n\
-	save bin/smenob.fst \n\
-	quit \n" > ../tmp/smenob-save-script
-	$(XFST) < ../../tmp/smenob-save-script
-	@rm -rf ../tmp/smenob-save-script
+#	@echo
+#	@echo "*** Calling xfst to compile lexc ***"
+#	@printf "read lexc < bin/sn.lexc \n\
+#	save bin/ismenob.fst \n\
+#	invert net \n\
+#	save bin/smenob.fst \n\
+#	quit \n" > ../tmp/smenob-save-script
+#	$(XFST) < ../../tmp/smenob-save-script
+#	@rm -rf ../tmp/smenob-save-script
 
 # Create a simple HTML file for local browsing of the whole dictionary
 smenob.html: bin/smenob.html
