@@ -11,8 +11,9 @@
 <!ELEMENT lc (#PCDATA) >
 
 <!ELEMENT mg (tg+) >
-<!ELEMENT tg (t+,xg*) >
+<!ELEMENT tg (re?,t+,xg*) >
 
+<!ELEMENT re (#PCDATA) >
 <!ELEMENT t (#PCDATA) >
 <!ATTLIST t 
       pos ( a | a5 | S | m | f | n | v | adv | p | pron | prop | i | cc | cs | im | mpl | fpl | npl | num | pcle | s | x ) #REQUIRED
@@ -55,6 +56,7 @@ e  entry
 l  lemma
 lc lemma comment 
 m  meaning
+re restriction (semantic restriction of the following t)
 t  translation
 x  example
 xt example translation
