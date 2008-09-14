@@ -6,6 +6,8 @@
 # =========== Tools: ============= #
 LEXC = lexc -utf8
 XFST = xfst -utf8
+XSLT = /opt/local/share/java/saxon8.jar
+JARF = -jar
 SSH  = /usr/bin/ssh
 
 # =========== Paths & files: ============= #
@@ -16,12 +18,24 @@ SMENOBNAME  = Nordsamisk-norsk ordbok.dictionary
 SMENOBZIP   = smenob-mac.dictionary.tgz
 UPLOADDIR   = sd@giellatekno.uit.no:xtdoc/sd/src/documentation/content/xdocs
 DOWNLOADDIR = http://www.divvun.no/static_files
-SRCS        = adjective_smenob.xml  \
-              adverb_smenob.xml     \
-              nounCommon_smenob.xml \
-              nounProper_smenob.xml \
-              other_smenob.xml      \
-              verb_smenob.xml
+ADJ         = adjective_smenob.xml
+ADV         = adverb_smenob.xml
+NOUNC       = nounCommon_smenob.xml
+NOUNP       = nounProper_smenob.xml
+OTHER       = other_smenob.xml
+VERB        = verb_smenob.xml
+SN_XML      = smenob.xml
+SN_XSL      = smenob.xsl
+SN_LEXC     = smenob.lexc
+SN_HTML     = smenob.html
+SN_FST      = smenob.fst
+S_DIC       = sme.dic
+S_FST       = smedic.fst
+SRC         = src
+BIN         = bin
+SCRIPTS     = scripts
+BEGIN       = @echo "*** Generating the $@-file ***"
+END         = @echo "Done."
 
 # =========== Other: ============= #
 DATE = $(shell date +%Y%m%d)
@@ -38,45 +52,79 @@ DATE = $(shell date +%Y%m%d)
 
 # Target to create a fst transducer picking just the first translation of each 
 # lemma. And while we're at it, we invert it as well.
-smenob.fst: bin/smenob.fst bin/smedic.fst
-bin/smenob.fst: smenob.xml  bin/smenob.html
-	@echo
-	@echo "*** Building smenob.fst ***" 
-	@echo
-	@echo "*** Reading shellscript smenobpairs.sh ***"
 
-#	@script/smenobpairs.sh # is the next ten lines
-# The reference here should be to the glued-together and put in ../tmp.
-# Cf. forthcoming Ciprian version of scripts/collect-smenob-parts.xsl
-# todo for Ciprian: make an xsl script out of the following 10 lines
-#    @echo "LEXICON Root" > ../bin/sn.lexc
-#    @cat ../src/*_smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | \
-#    sed 's/pos=/£/g' | cut -d"£" -f2 | cut -d">" -f2 | cut -d"<" -f1 | \
-#    grep '[A-Za-z0-9]' | tr ' ' '_' > ../bin/s.dic
-#    @cat ../src/*_smenob.xml | tr '\n' ' ' | sed 's/<e>/£/g' | tr '£' '\n' | \
-#    sed 's/pos=/£/g' | cut -d"£" -f3 | cut -d">" -f2 | cut -d"<" -f1 | \
-#    grep '[A-Za-z0-9]' | tr ' ' '_' > ../bin/n.dic
-#    @paste -d":" ../bin/s.dic ../bin/n.dic > ../bin/sn.list
-#    @cat ../bin/sn.list | sed 's/$/ # ;/g' >> ../bin/sn.lexc
+# Create the smenob.fst-file
+$(SN_FST): $(SN_LEXC)
+	@echo
+	$(BEGIN)
+	@echo
+	@printf "read lexc < $(BIN)/$< \n\
+	save $(BIN)/ismenob.fst \n\
+	invert net \n\
+	save $(BIN)/$@ \n\
+	quit \n" > ../tmp/smenob-save-script
+	$(XFST) < ../tmp/smenob-save-script
+	@rm -rf ../tmp/smenob-save-script
+	@echo
+	$(END)
+	@echo
 
-#	@echo
-#	@echo "*** Calling xfst to compile lexc ***"
-#	@printf "read lexc < bin/sn.lexc \n\
-#	save bin/ismenob.fst \n\
-#	invert net \n\
-#	save bin/smenob.fst \n\
-#	quit \n" > ../tmp/smenob-save-script
-#	$(XFST) < ../../tmp/smenob-save-script
-#	@rm -rf ../tmp/smenob-save-script
+# # fst for the Sámi words in the dictionary
+# # Pseudocode:
+# # Pick the lemmas, and print them to list
+# # Read the list into xfst
+# # Save as an automaton.
+# # The perlscript for glossing should use smenob.lexc or something similar.
+# #
+# # Create the smedic.fst-file
+$(S_FST): $(S_DIC)
+	@echo
+	$(BEGIN)
+	@echo
+	@printf "read text < $(BIN)/$< \n\
+	save stack $> \n\
+	quit \n" > ../tmp/smedic-save-script
+	$(XFST) < ../tmp/smedic-save-script
+	@rm -f ../tmp/smedic-save-script
+	@rm -f $(BIN)/$<
+
+# # Create the sme.dic file from the smenob.xml-file
+$(S_DIC): $(SN_XML)
+	@echo
+	$(BEGIN)
+	@java $(JARF) $(XSLT) $(BIN)/$(SN_XML) $(SCRIPTS)/get-lemma.xsl > $(BIN)/$@
+	@echo
+	$(END)
+	@echo
+
+# Create the lexc file from the smenob.xml-file
+$(SN_LEXC): $(SN_XML)
+	@echo
+	$(BEGIN)
+	@java $(JARF) $(XSLT) $(BIN)/$(SN_XML) $(SCRIPTS)/smenob-pairs.xsl > $(BIN)/$@
+	@echo
+	$(END)
+	@echo
 
 # Create a simple HTML file for local browsing of the whole dictionary
-smenob.html: bin/smenob.html
-bin/smenob.html: src/smenob.xml scripts/smenob.xsl
+$(SN_HTML): $(SN_XML) $(SCRIPTS)/$(SN_XSL)
 	@echo
-	@echo "*** Building smenob.html ***" 
+	$(BEGIN)
+	@java $(JARF) $(XSLT) $(BIN)/$(SN_XML) $(SCRIPTS)/$(SN_XSL) > $(BIN)/$@
 	@echo
-	@echo "*** Note: We now use the xsltproc tool ***"
-	@xsltproc scripts/smenob.xsl $@ > bin/smenob.html
+	$(END)
+	@echo
+
+# Create the smenob.xml-file by unifing the individual parts
+$(SN_XML):
+	@echo
+	$(BEGIN)
+	@java $(JARF) $(XSLT) $(SCRIPTS)/dummy.xml $(SCRIPTS)/collect-smenob-parts.xsl \
+	 adj=../$(SRC)/$(ADJ) adv=../$(SRC)/$(ADV) nounc=../$(SRC)/$(NOUNC) \
+	 nounp=../$(SRC)/$(NOUNP) other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
+	@echo
+	$(END)
+	@echo
 
 # Target to make a MacOS X/Dictionary.app compatible dictionary bundle:
 macdict: macdict/smenob.xml
@@ -151,6 +199,6 @@ bin/smedic.fst: src/smenob.xml
 	@rm -f bin/s.dic
 
 clean:
-	@rm -f bin/*fst bin/*dic bin/*lexc bin/*list bin/*html
+	@rm -f $(BIN)/*fst $(BIN)/*dic $(BIN)/*lexc $(BIN)/*list $(BIN)/*html $(BIN)/*xml $(BIN)/*txt
 
 
