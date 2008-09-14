@@ -7,6 +7,7 @@
 LEXC = lexc -utf8
 XFST = xfst -utf8
 XSLT = /opt/local/share/java/saxon8.jar
+XQL  = java net.sf.saxon.Query
 JARF = -jar
 SSH  = /usr/bin/ssh
 
@@ -97,14 +98,23 @@ $(S_DIC): $(SN_XML)
 	$(END)
 	@echo
 
-# Create the lexc file from the smenob.xml-file
+# Create the lexc file from the smenob.xml-file (using XQuery 1.0)
 $(SN_LEXC): $(SN_XML)
 	@echo
 	$(BEGIN)
-	@java $(JARF) $(XSLT) $(BIN)/$(SN_XML) $(SCRIPTS)/smenob-pairs.xsl > $(BIN)/$@
+	@$(XQL) $(SCRIPTS)/smenob-pairs.xql smenob=../$(BIN)/$< > $(BIN)/$@
 	@echo
 	$(END)
 	@echo
+
+# Create the lexc file from the smenob.xml-file (using XSLT 2.0, which is not as nice as XQuery)
+# $(SN_LEXC): $(SN_XML)
+# 	@echo
+# 	$(BEGIN)
+# 	@java $(JARF) $(XSLT) $(BIN)/$< $(SCRIPTS)/smenob-pairs.xsl > $(BIN)/$@
+# 	@echo
+# 	$(END)
+# 	@echo
 
 # Create a simple HTML file for local browsing of the whole dictionary
 $(SN_HTML): $(SN_XML) $(SCRIPTS)/$(SN_XSL)
@@ -115,16 +125,30 @@ $(SN_HTML): $(SN_XML) $(SCRIPTS)/$(SN_XSL)
 	$(END)
 	@echo
 
-# Create the smenob.xml-file by unifing the individual parts
+# Create the smenob.xml-file by unifing the individual parts (using XQuery 1.0)
 $(SN_XML):
 	@echo
 	$(BEGIN)
-	@java $(JARF) $(XSLT) $(SCRIPTS)/dummy.xml $(SCRIPTS)/collect-smenob-parts.xsl \
+	@$(XQL) $(SCRIPTS)/collect-smenob-parts.xql \
 	 adj=../$(SRC)/$(ADJ) adv=../$(SRC)/$(ADV) nounc=../$(SRC)/$(NOUNC) \
 	 nounp=../$(SRC)/$(NOUNP) other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
 	@echo
 	$(END)
 	@echo
+
+# Create the smenob.xml-file by unifing the individual parts (using XSLT 2.0, which is not as nice as XQuery)
+# $(SN_XML):
+# 	@echo
+# 	$(BEGIN)
+# 	@java $(JARF) $(XSLT) $(SCRIPTS)/dummy.xml $(SCRIPTS)/collect-smenob-parts.xsl \
+# 	 adj=../$(SRC)/$(ADJ) adv=../$(SRC)/$(ADV) nounc=../$(SRC)/$(NOUNC) \
+# 	 nounp=../$(SRC)/$(NOUNP) other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
+# 	@echo
+# 	$(END)
+# 	@echo
+
+
+
 
 # Target to make a MacOS X/Dictionary.app compatible dictionary bundle:
 macdict: macdict/smenob.xml
@@ -176,27 +200,6 @@ upload-macdict:
 	@echo
 	@echo "$(DOWNLOADDIR)/$(SMENOBZIP)"
 	@echo
-
-# fst for the Sámi words in the dictionary
-# Pseudocode:
-# Pick the lemmas, and print them to list
-# Read the list into xfst
-# Save as an automaton.
-# The perlscript for glossing should use smenob.lexc or something similar.
-#
-smedic.fst: bin/smedic.fst
-bin/smedic.fst: src/smenob.xml
-	@echo
-	@echo "*** Building smedic.fst ***" 
-	@echo
-	@cat $@ | grep '<l pos=' | cut -d">" -f2 | \
-		cut -d"<" -f1 > bin/s.dic
-	@printf "read text < bin/s.dic \n\
-	save stack $> \n\
-	quit \n" > ../tmp/smedic-save-script
-	$(XFST) < ../tmp/smedic-save-script
-	@rm -f ../tmp/smedic-save-script
-	@rm -f bin/s.dic
 
 clean:
 	@rm -f $(BIN)/*fst $(BIN)/*dic $(BIN)/*lexc $(BIN)/*list $(BIN)/*html $(BIN)/*xml $(BIN)/*txt
