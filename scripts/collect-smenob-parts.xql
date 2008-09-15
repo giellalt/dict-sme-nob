@@ -13,8 +13,9 @@ declare option saxon:output "saxon:indent-spaces=3";
 
 (:
     | 
-    | The input: may be either paths to the files to merge or to the whole directory
-    | Usage: xxx collect-smenob-parts.xql
+    | NB: One needs the latest version of the SAXON!
+    | The input: files to put together
+    | Usage: java net.sf.saxon.Query collect-smenob-parts.xql VARIABLE_FIRST=PATH/TO/FILE_FIRST .. VARIABLE_LAST=PATH/TO/FILE_LAST
     | 
 :)
 
