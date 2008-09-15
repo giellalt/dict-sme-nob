@@ -9,8 +9,9 @@ declare option saxon:output "ignore-whitespace=true";
 
 (:
     | 
-    | The input: may be either paths to the files to merge or to the whole directory
-    | Usage: xxx collect-smenob-parts.xql
+    | NB: One needs the latest version of the SAXON!
+    | The input: the smenob.xml dictionary file
+    | Usage: java net.sf.saxon.Query smenob-pairs.xql smenob.xml
     | 
 :)
 
