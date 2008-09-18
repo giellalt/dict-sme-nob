@@ -21,9 +21,6 @@ declare variable $smenob external;
 {
 for $element in doc($smenob)//e
 let $t := $element/replace(normalize-space(mg[1]/tg[1]/t[1])," ","_")
-return <e>{$element/lg/l, 
-  <f>:</f>, 
-  <g>{$t}</g>,
-  <g> # ;</g>, "
-"}</e>
+return <e>{concat($element/lg/l, ":", $t, " # ;", "
+")}</e>
 } </r>
