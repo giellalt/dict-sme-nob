@@ -3,6 +3,410 @@
 <?xml-stylesheet type="text/css" href="../scripts/smenob.css"?>
 <?xml-stylesheet type="text/xsl" href="../scripts/smenob.xsl"?>
 <r>
+   <e>
+      <lg>
+         <l pos="a">regála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">regal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ritornealla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ritornell</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">seksuála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">seksuell</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">seremoniealla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">seremoniell</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">stabiila</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">stabil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">radikála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">radikal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">nominála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">nominal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">rektiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">rektiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">subtraktiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">subtraktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">terminatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">terminativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">modála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">modal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">njaláhas</l>
+         <lc>-hasat</lc>
+         <lc>-hassii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">glatt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">implikatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">implikativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">informatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">informativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">konsekutiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">konsekutiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">konservatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">konservativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kopulatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kopulativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kvalitatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kvalitativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">deliberatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">deliberativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">demonstratiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">demonstrativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">deskriptiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">deskriptiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">diehtointensiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kunnskapsintensiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">distributiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">distributiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">dubitatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">dubitativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ekspressiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ekspressiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ekstensiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ekstensiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">fortuitiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">fortuitiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">deduktiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">deduktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">reseptiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">reseptiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kognitiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kognitiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">doaibmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">aktiv</t>
+            <t pos="a">virkende</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ekspressiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ekspressiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">oppalaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">generell</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">intensiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">intensiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">hálddahuslaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">administrativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">eahpeáššálaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">usaklig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">saŋas</l>
+         <lc>sakŋasat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">isfri</t>
+            <t pos="a">snøfri</t>
+            <xg>
+               <x>saŋas biergasat go dain ii leat muohta dahje jiekŋa dálvet</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vegetabiila</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">vegetabilsk</t>
+         </tg>
+      </mg>
+   </e>
+<e>
+      <lg>
+         <l pos="a">eatnjehas</l>
+         <lc>-hasat</lc>
+         <lc>-hassii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ubehagelig</t>
+            <t pos="a">nifs</t>
+            <xg>
+               <x>maid ii storrá, ii duostta geahččat, guoskkahit</x>
+            </xg>
+         </tg>
+      </mg>
+</e>
 <e>
    <lg>
       <l pos="a">ávnnasrievttálaš</l>
@@ -426,6 +830,16 @@
       </tg>
    </mg>
 </e>
+   <e>
+      <lg>
+         <l pos="a">visuála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">visuell</t>
+         </tg>
+      </mg>
+   </e>
 <e>
    <lg>
       <l pos="a">audiovisuála</l>

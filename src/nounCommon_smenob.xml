@@ -2,6 +2,76 @@
 <r>
    <e>
       <lg>
+         <l pos="n">polynoma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">polynom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">heterofiila</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">heterofil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">homofiila</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">homofil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">homofiliija</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">homofili</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ultramariidna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">ultramarin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">radikála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">radikal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pedofiila</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">pedofil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="n">isolašuvdna</l>
       </lg>
       <mg>
@@ -129848,8 +129918,40 @@
             <t pos="n">underskudd</t>
             <xg>
                <x>diibmu lea vihtta váili golbma</x>
-               <xt>klokka er fem på tre ( vádjit)</xt>
+               <xt>klokka er fem på tre</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">indikatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">indikativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vádjit</l>
+         <lc>vádjigat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">underskudd</t>
+            <t pos="m">mangel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">verbála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">verbal</t>
          </tg>
       </mg>
    </e>
