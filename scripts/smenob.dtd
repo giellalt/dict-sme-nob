@@ -1,5 +1,8 @@
 <!ELEMENT r (e+) >
 <!ELEMENT e (lg,mg+) >
+<!ATTLIST e 
+      type ( mt ) #IMPLIED
+>
 <!ELEMENT lg (l,lc*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
