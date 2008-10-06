@@ -753,6 +753,29 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="v">álmmuhit</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="v">annonsere</t>
+        <t pos="v">avertere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="v">máinnustit</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="v">annonsere</t>
+      </tg>
+    </mg>
+  </e>
 
   <e>
     <lg>
@@ -1991,6 +2014,28 @@
   <e>
     <lg>
       <l pos="v">barberet</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="v">barbere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="v">ráhket</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="v">barbere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="v">ráhkket</l>
     </lg>
 
     <mg>
@@ -5985,6 +6030,7 @@
         <t pos="v">bekrefte</t>
 
         <t pos="v">bevitne</t>
+        <t pos="v">attestere</t>
       </tg>
     </mg>
 
@@ -25748,6 +25794,7 @@
     <mg>
       <tg>
         <t pos="v">tro</t>
+        <t pos="v">anta</t>
 
         <xg>
           <x>mon jáhkan dan</x>
@@ -34032,6 +34079,7 @@
         <t pos="v">utvikle seg</t>
 
         <t pos="v">gå framover</t>
+        <t pos="v">avansere</t>
       </tg>
     </mg>
   </e>
@@ -41239,6 +41287,7 @@
           <x>gieđaid speažžut</x>
 
           <xt>klappe i hendene</xt>
+          <xt>applaudere</xt>
         </xg>
       </tg>
     </mg>
@@ -43850,12 +43899,15 @@
     <lg>
       <l pos="v">váruhit</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="v">passe på</t>
-
         <t pos="v">passe seg for</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="v">advare</t>
       </tg>
     </mg>
   </e>
@@ -44052,6 +44104,7 @@
     <mg>
       <tg>
         <t pos="v">hjelpe</t>
+        <t pos="v">assistere</t>
       </tg>
     </mg>
   </e>
