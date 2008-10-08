@@ -1,8 +1,10 @@
 <!ELEMENT r (e+) >
 <!ELEMENT e (lg,mg+) >
-<!ATTLIST e 
-      type ( mt ) #IMPLIED
+<!ATTLIST e mt CDATA "dic">
+<!--
+      type ( mt | dic ) #IMPLIED
 >
+-->
 <!ELEMENT lg (l,lc*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
@@ -10,6 +12,7 @@
       nr ( sg | pl ) #IMPLIED
       type ( rel | pers | pre | post ) #IMPLIED
 >      
+
 
 <!ELEMENT lc (#PCDATA) >
 
