@@ -20,16 +20,12 @@
     <lg>
       <l pos="n">orgána</l>
     </lg>
-
     <mg>
       <tg>
-        <t pos="n" />
-
-        organ
+        <t pos="n">organ</t>
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="n">doarjjastivra</l>
@@ -56,9 +52,8 @@
 
   <e>
     <lg>
-      <l>resursa</l>
+      <l pos="n">resursa</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="m">ressurs</t>
@@ -116,7 +111,7 @@
 
   <e>
     <lg>
-      <l jordbruk="">vuoigatvuođalávdegoddi</l>
+      <l pos="n">vuoigatvuođalávdegoddi</l>
     </lg>
 
     <mg>
@@ -49960,18 +49955,10 @@
     <mg>
       <tg>
         <t pos="m">ovasjon</t>
-
         <t pos="m">applaus</t>
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="n">giehtaspeažžun</l>
-    </lg>
-  </e>
-
   <e>
     <lg>
       <l pos="n">giehtaváđđu</l>
@@ -65537,7 +65524,7 @@
 
     <mg>
       <tg>
-        <t pos="S">konferanse</t>
+        <t pos="m">konferanse</t>
       </tg>
     </mg>
   </e>
@@ -65549,7 +65536,7 @@
 
     <mg>
       <tg>
-        <t pos="S">konferansedeltaker</t>
+        <t pos="m">konferansedeltaker</t>
       </tg>
     </mg>
   </e>
