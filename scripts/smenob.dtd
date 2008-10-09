@@ -1,10 +1,8 @@
 <!ELEMENT r (e+) >
 <!ELEMENT e (lg,mg+) >
-<!ATTLIST e mt CDATA "dic">
-<!--
-      type ( mt | dic ) #IMPLIED
->
--->
+<!ATTLIST e 
+      use ( mt | dic | ped | other ) #IMPLIED
+>      
 <!ELEMENT lg (l,lc*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
@@ -51,7 +49,7 @@ Here are the pos tags:
  i  = interjection
  cc  = conjunction
  cs  = subjunction
- im = infinitive mark å (nob)
+ im = infinitive mark Ã¥ (nob)
  s  = sentence, or explanation
  x  = still no pos
 
