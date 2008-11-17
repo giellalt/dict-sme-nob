@@ -6496,6 +6496,18 @@
 
   <e>
     <lg>
+      <l pos="n">beassášlávvardat</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">påskeaften</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="n">beassášluopmu</l>
     </lg>
 
@@ -6842,6 +6854,17 @@
     </mg>
   </e>
 
+  <e>
+    <lg>
+      <l pos="n">tiibmaplána</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">timeplan</t>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="n">diskotehka</l>
@@ -7638,6 +7661,18 @@
 
   <e>
     <lg>
+      <l pos="n">heláduorastat</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">kristihimmelfartsdag</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="n">helloduorastat</l>
     </lg>
 
@@ -7912,6 +7947,17 @@
     </mg>
   </e>
 
+  <e>
+    <lg>
+      <l pos="n">risttalašvuohta</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">kristendom</t>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="n">kulturviessu</l>
@@ -9126,6 +9172,18 @@
     <mg>
       <tg>
         <t pos="n">materialrom</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">gursalatnja</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="n">kursrom</t>
       </tg>
     </mg>
   </e>
@@ -24510,7 +24568,25 @@
     </mg>
   </e>
 
-  <e>
+   <e>
+    <lg>
+      <l pos="n">sohkabuolva</l>
+
+      <lc>sohkabuolvvat</lc>
+
+      <lc>sohkabulvii</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="n">slektledd</t>
+
+        <t pos="m">generasjon</t>
+      </tg>
+    </mg>
+      </e>
+
+ <e>
     <lg>
       <l pos="n">buolva</l>
 
@@ -41445,6 +41521,17 @@
 
   <e>
     <lg>
+      <l pos="n">valáštallanhálla</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">idrettshall</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="n">faláštallanhálla</l>
     </lg>
 
@@ -50213,6 +50300,18 @@
     <mg>
       <tg>
         <t pos="S">gildre</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">kilomehtar</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">kilometer</t>
       </tg>
     </mg>
   </e>
@@ -77976,6 +78075,18 @@
 
   <e>
     <lg>
+      <l pos="n">mutuvra</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">motor</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="n">mohtorfievrolihkuhisvuohta</l>
     </lg>
 
@@ -95061,6 +95172,18 @@
 
   <e>
     <lg>
+      <l pos="n">rohkaláibi</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="n">rugbrød</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="n">rohoguoddá</l>
     </lg>
 
@@ -104070,6 +104193,18 @@
     </mg>
   </e>
 
+  <e>
+    <lg>
+      <l pos="n">sevsa</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">saus</t>
+      </tg>
+    </mg>
+  </e>
+  
   <e>
     <lg>
       <l pos="n">spábbačiekčan</l>
@@ -118604,6 +118739,22 @@
 
   <e>
     <lg>
+      <l pos="n">ára</l>
+
+      <lc>árranat</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">åre</t>
+
+        <t pos="n">ildsted</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="n">árvalus</l>
 
       <lc>-lusat</lc>
@@ -120184,6 +120335,19 @@
 
   <e>
     <lg>
+      <l pos="n">čeabát</l>
+
+      <lc>čeabáhat</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">hals</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="n">čeabet</l>
 
       <lc>čeabehat</lc>
@@ -121456,6 +121620,19 @@
     </mg>
   </e>
 
+  <e>
+    <lg>
+      <l pos="n">rihcit</l>
+
+      <lc>rihcihat</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">frosk</t>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="n">cuoppu</l>
@@ -122993,6 +123170,21 @@
 
   <e>
     <lg>
+      <l pos="n">dievdoolmmoš</l>
+
+      <lc>dievdoolbmot</lc>
+
+      <lc>dievdoolbmui</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">mann</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="n">dievdu</l>
 
       <lc>dievddut</lc>
@@ -123002,7 +123194,7 @@
 
     <mg>
       <tg>
-        <t pos="m">voksen mann</t>
+        <t pos="m">mann</t>
       </tg>
     </mg>
   </e>
@@ -131847,6 +132039,17 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="n">viessohoiddár</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">vaktmester</t>
+      </tg>
+    </mg>
+  </e>
 
   <e>
     <lg>
@@ -131861,7 +132064,84 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="n">gonagasnieida</l>
+    </lg>
 
+    <mg>
+      <tg>
+        <t pos="f">kongsdatter</t>
+        <t pos="f">prinsesse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">gonagasbárdni</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">kongssønn</t>
+        <t pos="m">prins</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">dronnet</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="f">dronning</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">balddonas</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="n">skremsel</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">čižeš</l>
+
+      <lc>čižežat</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">sjuer</t>
+
+        <t pos="n">sjutall</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ovtteš</l>
+
+      <lc>ovttežat</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">ener</t>
+
+        <t pos="n">ettall</t>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="n">guvtteš</l>
@@ -134276,6 +134556,20 @@
     </mg>
   </e>
 
+  <e>
+    <lg>
+      <l pos="n">jáfu</l>
+
+      <lc>jáfut</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="n">mel</t>
+      </tg>
+    </mg>
+  </e>
+  
   <e>
     <lg>
       <l pos="n">jáffu</l>
@@ -140619,6 +140913,20 @@
       <l pos="n">mehter</l>
 
       <lc>mehterat</lc>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">meter</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">mehtar</l>
+
+      <lc>mehtarat</lc>
     </lg>
 
     <mg>
@@ -173045,6 +173353,17 @@
 
   <e>
     <lg>
+      <l pos="n">náittospárra</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="n">brudepar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="n">náittosbárra</l>
     </lg>
 
@@ -175033,6 +175352,17 @@
 
   <e>
     <lg>
+      <l pos="n">stáhtaministtar</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">statsminister</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="n">stáhtaminister</l>
     </lg>
 
@@ -175775,6 +176105,18 @@
 
   <e>
     <lg>
+      <l pos="n">friddjaminuhtta</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="n">friminutt</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="n">friijaminuhtta</l>
     </lg>
 
@@ -175901,6 +176243,18 @@
     <mg>
       <tg>
         <t pos="m">skoledag</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">skuvlatiibma</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">skoletime</t>
       </tg>
     </mg>
   </e>
@@ -176045,6 +176399,19 @@
     <mg>
       <tg>
         <t pos="m">barne-TV</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">TV</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="m">TV</t>
+        <t pos="n">fjernsyn</t>
       </tg>
     </mg>
   </e>
@@ -176201,6 +176568,18 @@
     <mg>
       <tg>
         <t pos="m">nattdrakt</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">sisbuksa</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="f">underbukse</t>
       </tg>
     </mg>
   </e>
@@ -176537,7 +176916,7 @@
 
   <e>
     <lg>
-      <l pos="n">vaffelmávka</l>
+      <l pos="n">váffelmávka</l>
     </lg>
 
     <mg>
