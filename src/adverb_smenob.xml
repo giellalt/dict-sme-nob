@@ -2,6 +2,214 @@
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
 <r>
+<e src="nj">
+   <lg>
+      <l pos="adv">šat</l>
+         <xg>
+            <x>lea go šat?</x>
+            <xt>er det mer?</xt>
+         </xg>
+         <xg>
+            <x>ii leat šat</x>
+            <xt>det er ikke mer</xt>
+         </xg>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">mer</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">giđđat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">om våren</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">miehtebeaivái</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">medsols</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">miehterávdnjái</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">med strømmen</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">davás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">nordover</t>
+         <t pos="x">mot nord</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">máttás</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">sørover</t>
+         <t pos="x">mot sør</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">naba</l>
+   <lc>naba don?</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">enn</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">oarjjáš</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">vestover</t>
+         <t pos="x">mot vest</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">ovddalgihtii</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på forhånd</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">anne</l>
+      <lc>anne dal boahtá</lc>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">la</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">maŋábealde</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">på baksiden</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">maŋágeahčen</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">bakpå</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">nuorttas</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">østover</t>
+         <t pos="x">mot øst</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">davvin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">nordpå</t>
+         <t pos="x">i nord</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="adv">nordfra</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">máddin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">sørpå</t>
+         <t pos="x">i sør</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="adv">sørfra</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">nuortan</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">østpå</t>
+         <t pos="x">i øst</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="adv">østfra</t>
+      </tg>
+   </mg>
+</e>
+<e src="nj">
+   <lg>
+      <l pos="adv">oarjin</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="adv">vestpå</t>
+         <t pos="x">i vest</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg>
+         <t pos="adv">vestfra</t>
+      </tg>
+   </mg>
+</e>
    <e src="nj">
       <lg>
          <l pos="n">oavdu</l>
