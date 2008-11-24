@@ -1,7 +1,8 @@
 <!ELEMENT r (e+) >
 <!ELEMENT e (lg,mg+) >
 <!ATTLIST e 
-      use ( mt | dic | ped | other ) #IMPLIED
+      usage ( mt | dic | ped | other ) #IMPLIED
+      src ( nj | other ) #IMPLIED
 >      
 <!ELEMENT lg (l,lc*) >
 <!ELEMENT l (#PCDATA) >
