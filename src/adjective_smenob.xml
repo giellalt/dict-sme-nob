@@ -12,6 +12,16 @@
          </tg>
       </mg>
    </e>
+   <e src="nj">
+      <lg>
+         <l pos="a">dánskalaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">dansk</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="ped" src="nj">
       <lg>
          <l pos="a">ruošša</l>
@@ -1591,7 +1601,40 @@
          </tg>
       </mg>
    </e>
-   <e>
+    <e src="nj">
+      <lg>
+         <l pos="a">geažos</l>
+      <lc>geažos beaivvi</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">hele</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="nj">
+      <lg>
+         <l pos="a">jorggu</l>
+      <lc>jorggu bivttas</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">vrengt</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="nj">
+      <lg>
+         <l pos="a">bás</l>
+      <lc>bás mánná</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">stakkars liten</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="nj">
       <lg>
          <l pos="a">guovttegeardásaš</l>
       </lg>
@@ -3902,10 +3945,10 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj">
       <lg>
          <l pos="a">giitemeahttun</l>
-         <lc>-meahttumat, -meahtumis (olmmoš)</lc>
+         <lc>-meahttumat, -meahttumis (olmmoš)</lc>
       </lg>
       <mg>
          <tg>
@@ -4928,7 +4971,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="a">kristtalaš</l>
          <lc>-laččat, -lažžii</lc>

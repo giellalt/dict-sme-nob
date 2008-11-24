@@ -5434,7 +5434,37 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped">
+   <e src="nj">
+      <lg>
+         <l pos="n">spihkebiergu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">spekekjøtt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">spihkeguolli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">spekefisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">siseana</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">innland</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
       <lg>
          <l pos="n">beassášruohtta</l>
       </lg>
@@ -62217,6 +62247,27 @@
    </e>
    <e>
       <lg>
+         <l pos="n">ovdajuolgi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">framfot</t>
+            <t pos="n">forbein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maŋŋejuolgi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">bakbein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="n">maŋŋejuvla</l>
       </lg>
       <mg>
@@ -99977,6 +100028,35 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="n">eamičearda</l>
+         <lc>eamičearddat</lc>
+         <lc>eamičerdii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">urbefolkning</t>
+          </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">olmmoščearda</l>
+         <lc>olmmoščearddat</lc>
+         <lc>olmmoščerdii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">folkeslag</t>
+          </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">nasjom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n">čearda</l>
          <lc>čearddat</lc>
          <lc>čerdii</lc>
@@ -99992,6 +100072,16 @@
                <x>olmmoščearda</x>
                <xt>en nasjon</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">boalči</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">fleinskallet person</t>
          </tg>
       </mg>
    </e>
@@ -101301,6 +101391,49 @@
       <mg>
          <tg>
             <t pos="m">lyng</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">eahpeosku</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">vantro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">eahpegudni</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="f">vanære</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">eahpedorvu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">mistillit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">dánskalaš</l>
+            <xg>
+               <x>dánskalaš, -laččat, -lažžii</x>
+            </xg>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">danske</t>
          </tg>
       </mg>
    </e>
@@ -104252,7 +104385,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj">
       <lg>
          <l pos="n">erttetdákti</l>
       </lg>
@@ -111678,6 +111811,56 @@
          <tg>
             <t pos="m">list</t>
             <t pos="m">intrige</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">ruhtagollu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">utgift</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">vuolágeahči</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">nerende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">váldodoaibma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">hovedbeskjeftigelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">miehtebiegga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">medvind</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n">juovlabeaivi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">juledag</t>
          </tg>
       </mg>
    </e>
@@ -121979,6 +122162,17 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="n">idjarávga</l>
+         <lc>idjarávggat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">natterangler</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n">rávga</l>
          <lc>rávggat</lc>
       </lg>
@@ -122858,6 +123052,46 @@
          <tg>
             <t pos="n">ris</t>
             <t pos="m">kvist</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">vearredahkki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">forbryter</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n">sisbivttas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">undertøy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">ristnieida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="f">guddatter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">ristbárdni</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">gudsønn</t>
          </tg>
       </mg>
    </e>
@@ -127971,7 +128205,7 @@
          <tg>
             <t pos="m">kokt te</t>
             <xg>
-               <x>mun jugan deaja</x>
+               <x>mun jugan teaja</x>
                <xt>jeg drikker te</xt>
             </xg>
          </tg>
@@ -127981,7 +128215,7 @@
             <t pos="m">ukokt te</t>
             <t pos="n">teblad</t>
             <xg>
-               <x>mun lasihan deajaid čáhcái</x>
+               <x>mun lasihan teajaid čáhcái</x>
                <xt>jeg tilsetter te til vannet</xt>
             </xg>
          </tg>
@@ -143562,6 +143796,28 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="n">gámasgottur</l>
+         <lc>gámasgotturat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">skinnet på alle fire  skankene</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">juolgegottur</l>
+         <lc>juolgegotturat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">skinnet på alle fire  skankene</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n">gottur</l>
          <lc>gotturat</lc>
       </lg>
@@ -143569,13 +143825,45 @@
          <tg>
             <t pos="x">XXXX</t>
             <xg>
-               <x>juolge-gottur</x>
+               <x>juolgegottur</x>
                <xt>alle fire skankene</xt>
             </xg>
             <xg>
                <x>gámasgottur</x>
                <xt/>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">iđitguovssu</l>
+         <lc>iđitguksot</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">morgengry</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">veaigeguovssu</l>
+         <lc>veaigeguksot</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aftenskjær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">jievjaskuolfi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="f">snøugle</t>
          </tg>
       </mg>
    </e>
@@ -143590,10 +143878,6 @@
             <xg>
                <x>iđitguovssu</x>
                <xt>morgengry</xt>
-            </xg>
-            <xg>
-               <x>veaigeguovssu</x>
-               <xt/>
             </xg>
          </tg>
       </mg>
