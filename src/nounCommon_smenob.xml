@@ -365,6 +365,20 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
+         <l pos="n">buohcu</l>
+         <xg>
+         <x>buozus</x>
+         <xt>syk</xt>
+          </xg>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">sykdom</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
          <l pos="n">ađa</l>
          <lc>ađđamat</lc>
       </lg>
@@ -142464,9 +142478,14 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="n">nuorvvu</l>
+         <lc>nurvot</lc>
+         <xg>
+         <x>mun lean nurvos</x>
+         <xt>jeg er forkjølt</xt>
+          </xg>
       </lg>
       <mg>
          <tg>
