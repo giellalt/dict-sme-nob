@@ -2,6 +2,170 @@
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
 <r>
+   <e src="nj">
+      <lg>
+         <l pos="adv">sahtedohko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tilfeldig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">uforsiktig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">oppalohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">fullstendig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">nannosit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">klart</t>
+            <t pos="adv">fast</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">leabbut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">utstrakt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">hiljet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sakte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">eahpitkeahttá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">utvilsomt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">dievva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">full</t>
+            <xg>
+               <x>lihtti lea dievva</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">čuoččat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">stående</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">botnjut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">skeivt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">i snurr</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">boastut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">galt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">bagga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">stappfullt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">álfárot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">fullstendig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">albmosit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">offentlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">aŋkke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">likevel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">apmasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">rart</t>
+         </tg>
+      </mg>
+   </e>
 <e src="nj">
    <lg>
       <l pos="adv">šat</l>
@@ -1328,7 +1492,6 @@
    <e src="nj">
       <lg>
          <l pos="adv">eanas</l>
-         <lc>eatnasat</lc>
       </lg>
       <mg>
          <tg>
