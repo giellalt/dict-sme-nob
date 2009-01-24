@@ -4,6 +4,43 @@
 <r>
    <e src="nj">
       <lg>
+         <l pos="n">spáillit</l>
+         <lc>spáillihat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">utemmet kastrert rein</t>
+            <xg>
+               <x>dámakeahtes gáskkit</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">jorbodat</l>
+         <lc>-daga, -dahkii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">runding</t>
+            <t pos="m">sirkel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">bogostat</l>
+         <lc>-tagat, -tahkan</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">noe som er til latter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n">suopmilaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
@@ -72051,10 +72088,20 @@
    <e src="nj">
       <lg>
          <l pos="n">orohat</l>
+         <lc>-hagat, -hahkii</lc>
       </lg>
       <mg>
          <tg>
             <t pos="m">boplass</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">oppholdssted</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="n">reinbeitedistrikt</t>
          </tg>
       </mg>
@@ -81340,7 +81387,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="S">sild</t>
+            <t pos="f">sild</t>
          </tg>
       </mg>
    </e>

@@ -3223,17 +3223,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="v">bogostat</l>
-         <lc>-tagat, -tahkan</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">noe som er til latter</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="v">bogseret</l>
@@ -3315,24 +3304,19 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj">
       <lg>
          <l pos="v">bohraidit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">putre</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="v">bohrraidit</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="v">fosse</t>
             <t pos="v">hvirvle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">putre</t>
          </tg>
       </mg>
    </e>
@@ -10903,8 +10887,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="v">cáncut</l>
-         <lc>(mon) cánccun</lc>
+         <l pos="v">cancut</l>
+         <lc>(mon) canccun</lc>
       </lg>
       <mg>
          <tg>
@@ -12467,8 +12451,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="v">dárkut</l>
-         <lc>(mon) dárkkun</lc>
+         <l pos="v">dárkot</l>
+         <lc>(mon) dárkon</lc>
       </lg>
       <mg>
          <tg>
@@ -13490,7 +13474,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="v">diggidit</l>
+         <l pos="v">diggedit</l>
       </lg>
       <mg>
          <tg>
@@ -15202,16 +15186,6 @@
       <mg>
          <tg>
             <t pos="v">enveisregulere</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="v">eret</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bort</t>
          </tg>
       </mg>
    </e>
@@ -21314,18 +21288,6 @@
       <mg>
          <tg>
             <t pos="v">driste seg til</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="v">jorbodat</l>
-         <lc>-daga, -dahkii</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">runding</t>
-            <t pos="m">sirkel</t>
          </tg>
       </mg>
    </e>
@@ -27536,22 +27498,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="v">orohat</l>
-         <lc>-hagat, -hahkii</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">boplass</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">oppholdssted</t>
-         </tg>
-      </mg>
-   </e>
    <e usage="ped" src="nj">
       <lg>
          <l pos="v">orrut</l>
@@ -31629,20 +31575,6 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="v">sallit</l>
-         <lc>sallidat</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="f">sild</t>
-            <xg>
-               <x>sildi</x>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
          <l pos="v">šállošit</l>
       </lg>
       <mg>
@@ -32230,16 +32162,6 @@
       <mg>
          <tg>
             <t pos="v">sesongdebutere</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="v">sevnjodit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">mørkne</t>
          </tg>
       </mg>
    </e>
@@ -33278,21 +33200,6 @@
       <mg>
          <tg>
             <t pos="v">sosialisere</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="v">spáillit</l>
-         <lc>spáillihat</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">utemmet</t>
-            <t pos="v">kastrert rein</t>
-            <xg>
-               <x>dámakeahtes gáskkit</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -36261,7 +36168,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="v">vuohkádit</l>
+         <l pos="v">vuohkadit</l>
       </lg>
       <mg>
          <tg>
@@ -37414,7 +37321,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="v">sevnnjodit</l>
       </lg>
