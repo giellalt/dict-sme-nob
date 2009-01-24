@@ -2,6 +2,107 @@
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
 <r>
+   <e src="nj">
+      <lg>
+         <l pos="a">skoavddas</l>
+         <lc>skoavdasat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">hul under snø eller is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="a">oahppameahttun</l>
+         <lc>-meahttumat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ulærd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="a">jalahas</l>
+         <lc>-hasat</lc>
+         <lc>-hassii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">skyfri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="a">eaimmaskas</l>
+         <lc>-kasat</lc>
+         <lc>-kassii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">snodig</t>
+            <t pos="a">underlig</t>
+            <xg>
+               <x>eaibmi</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="a">duohta</l>
+         <lc>duođat</lc>
+         <lc>duhtii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">sann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="a">bárrahaš</l>
+         <lc>-haččat</lc>
+         <lc>-hažžii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">best</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="a">bahánihkkán</l>
+         <lc>-nihkkánat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">uskikkelig</t>
+            <xg>
+               <x>(maiddái garrusátni)</x>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="a">áhpeheapme</l>
+         <lc>-heamet</lc>
+         <lc>-hemiid</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">fruktsommelig</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="ped" src="nj">
       <lg>
          <l pos="a">árrat</l>
@@ -6570,7 +6671,7 @@
    <e src="nj">
       <lg>
          <l pos="a">šluŋkkas</l>
-         <lc>šlunkasat</lc>
+         <lc>šluŋkasat</lc>
       </lg>
       <mg>
          <tg>
@@ -7629,6 +7730,7 @@
       <mg>
          <tg>
             <t pos="a">fremmed</t>
+            <t pos="a">ukjent</t>
          </tg>
       </mg>
    </e>

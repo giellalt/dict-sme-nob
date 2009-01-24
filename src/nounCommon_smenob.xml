@@ -25,7 +25,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="n">ruoŧŧilaš</l>
          <lc>-laččat, -lažžii</lc>
@@ -43,6 +43,8 @@
       </lg>
       <mg>
          <tg>
+            <t pos="m">medvirkende</t>
+            <t pos="m">partisipant</t>
             <t pos="m">deltaker</t>
          </tg>
       </mg>
@@ -78,17 +80,6 @@
          <tg>
             <t pos="m">leder</t>
             <t pos="m">styrer</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">hállu</l>
-         <lc>(hálu, hálo)</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">lyst</t>
          </tg>
       </mg>
    </e>
@@ -3378,18 +3369,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">amas</l>
-         <lc>apmasat</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">fremmed</t>
-            <t pos="m">ukjent</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="n">amatevra</l>
@@ -6601,16 +6580,6 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="n">jođiheaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">leder</t>
-         </tg>
-      </mg>
-   </e>
    <e usage="ped">
       <lg>
          <l pos="n">juhkamuš</l>
@@ -8056,16 +8025,6 @@
       <mg>
          <tg>
             <t pos="n">tauskiverom</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">badjánit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">stige</t>
          </tg>
       </mg>
    </e>
@@ -11058,7 +11017,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">basit</l>
+         <l pos="n">bassi</l>
+         <lc>basit</lc>
       </lg>
       <mg>
          <tg>
@@ -13036,8 +12996,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">beškos</l>
-         <lc>beškosat</lc>
+         <l pos="n">beškkoš</l>
+         <lc>beškkožat</lc>
       </lg>
       <mg>
          <tg>
@@ -14726,9 +14686,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">biiri</l>
-         <lc>biirrit</lc>
-         <lc>biirái</lc>
+         <l pos="n">biire</l>
+         <lc>biirret</lc>
       </lg>
       <mg>
          <tg>
@@ -14813,17 +14772,6 @@
       <mg>
          <tg>
             <t pos="n">brystben hos fugl</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">biktasat</l>
-         <lc>bivttas</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t nr="pl" pos="n">klær</t>
          </tg>
       </mg>
    </e>
@@ -16181,6 +16129,16 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
+         <l pos="n">biktasat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t nr="pl" pos="n">klær</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
          <l pos="n">bivttas</l>
          <lc>biktasat</lc>
       </lg>
@@ -16575,7 +16533,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">boahkut</l>
+         <l pos="n">boahkku</l>
       </lg>
       <mg>
          <tg>
@@ -17416,7 +17374,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">boazoguohtonkovenšuvdna</l>
+         <l pos="n">boazoguohtonkonvenšuvdna</l>
       </lg>
       <mg>
          <tg>
@@ -20507,16 +20465,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">buorádahttit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">forbedre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">buorádatbiegga</l>
       </lg>
       <mg>
@@ -20586,19 +20534,6 @@
       <mg>
          <tg>
             <t pos="m">fjert</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">buošši</l>
-         <lc>buošit</lc>
-         <lc>bušiid</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">sint</t>
-            <t pos="a">hissig</t>
          </tg>
       </mg>
    </e>
@@ -47068,16 +47003,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">hánis</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">gjerrig</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="n">hánisvuohta</l>
@@ -48235,16 +48160,6 @@
       <mg>
          <tg>
             <t pos="S">håv</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">hobehit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">forsere</t>
          </tg>
       </mg>
    </e>
@@ -49910,16 +49825,6 @@
       <mg>
          <tg>
             <t pos="S">fargesystem</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">jábálaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">velstående</t>
          </tg>
       </mg>
    </e>
@@ -67335,7 +67240,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">nisut</l>
+         <l pos="n">nissu</l>
+         <lc>nisut</lc>
       </lg>
       <mg>
          <tg>
@@ -69969,18 +69875,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">oasálaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">medvirkende</t>
-            <t pos="m">partisipant</t>
-            <t pos="m">deltaker</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="n">oassádallan</l>
@@ -72160,7 +72054,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="S">reinbeitedistrikt</t>
+            <t pos="m">boplass</t>
+            <t pos="n">reinbeitedistrikt</t>
          </tg>
       </mg>
    </e>
@@ -81359,16 +81254,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">sálaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">utbytte</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="n">saldodásádat</l>
@@ -88198,7 +88083,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="ped" src="nj">
       <lg>
          <l pos="n">stuorradiggi</l>
       </lg>
@@ -97519,7 +97404,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="S">botn</t>
+            <t pos="S">fjordbotn</t>
          </tg>
       </mg>
    </e>
@@ -98161,8 +98046,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">áhčeseatne</l>
-         <lc>-eane</lc>
+         <l pos="n">áhčešeatni</l>
+         <lc>-eani</lc>
       </lg>
       <mg>
          <tg>
@@ -98205,18 +98090,6 @@
             <xg>
                <x>nissona mánáid mánát</x>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">áhpeheapmi</l>
-         <lc>-heamit</lc>
-         <lc>-hemiid</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">fruktsommelig</t>
          </tg>
       </mg>
    </e>
@@ -98310,7 +98183,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">áigáboahtu</l>
+         <l pos="n">áigáiboahtu</l>
          <lc>-boađut</lc>
          <lc>-bohtui</lc>
       </lg>
@@ -99064,21 +98937,6 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">bahánihkkán</l>
-         <lc>-nihkkánat</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">uskikkelig person</t>
-            <xg>
-               <x>(maiddái garrusátni)</x>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
          <l pos="n">báhkin</l>
          <lc>báhkinat</lc>
       </lg>
@@ -99404,18 +99262,6 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">bárrahaš</l>
-         <lc>-haččat</lc>
-         <lc>-hažžii</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">den beste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
          <l pos="n">bárru</l>
          <lc>bárut</lc>
       </lg>
@@ -99493,8 +99339,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">bážán</l>
-         <lc>bážánat</lc>
+         <l pos="n">bážan</l>
+         <lc>bážanat</lc>
       </lg>
       <mg>
          <tg>
@@ -100602,7 +100448,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">čoarbealli</l>
+         <l pos="n">čoarbbealli</l>
          <lc>-beliid</lc>
       </lg>
       <mg>
@@ -101815,6 +101661,10 @@
          <l pos="n">deadja</l>
          <lc>deaja</lc>
          <lc>dedjii</lc>
+         <xg>
+         <x>deajat</x>
+         <xt>teblader</xt>
+          </xg>
       </lg>
       <mg>
          <tg>
@@ -101943,19 +101793,6 @@
       <mg>
          <tg>
             <t pos="m">elvemæl</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">dearvva</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">hilsen</t>
-            <xg>
-               <x>"bures" go dearvvaha</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -103425,18 +103262,6 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">duohta</l>
-         <lc>duođat</lc>
-         <lc>duhtii</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">sannhet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
          <l pos="n">duokŋas</l>
          <lc>duogŋasat</lc>
       </lg>
@@ -103820,22 +103645,6 @@
       <mg>
          <tg>
             <t pos="m">eier</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">eaimmaskas</l>
-         <lc>-kasat</lc>
-         <lc>-kassii</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">raring</t>
-            <t pos="m">tufs</t>
-            <xg>
-               <x>eaibmi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -105667,9 +105476,12 @@
    <e usage="ped" src="nj">
       <lg>
          <l pos="n">gáffe</l>
-         <lc>gáffe (gáffe</lc>
-         <lc>gáfe)</lc>
-      </lg>
+         <xg>
+         <x>gáfet</x>
+         <xt>kaffebønner</xt>
+         <xt>malt kaffe</xt>
+		</xg>     
+	</lg>
       <mg>
          <tg>
             <t pos="m">kaffe</t>
@@ -105692,7 +105504,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">gáffet</l>
+         <l pos="n">gáfet</l>
       </lg>
       <mg>
          <tg>
@@ -105753,7 +105565,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">gáhpálat</l>
+         <l pos="n">gáhppálat</l>
          <lc>-lagat</lc>
          <lc>-lahkii</lc>
       </lg>
@@ -105762,7 +105574,7 @@
             <t pos="n">stykke</t>
             <t pos="m">del</t>
             <xg>
-               <x>eanangáhpálat</x>
+               <x>eanangáhppálat</x>
             </xg>
          </tg>
       </mg>
@@ -106485,6 +106297,10 @@
    <e usage="ped" src="nj">
       <lg>
          <l pos="n">gaskabeaivi</l>
+         <xg>
+         <x>gaskabeaivvit</x>
+         <xt>middag</xt>
+          </xg>
       </lg>
       <mg>
          <tg>
@@ -106661,7 +106477,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">gávpeolmmai</l>
+         <l pos="n">gávpeolmmái</l>
       </lg>
       <mg>
          <tg>
@@ -113779,8 +113595,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">lágeš</l>
-         <lc>lágežat</lc>
+         <l pos="n">lageš</l>
+         <lc>lagežat</lc>
       </lg>
       <mg>
          <tg>
@@ -115476,7 +115292,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">luonddogáhppálat</l>
+         <l pos="n">luonddugáhppálat</l>
          <lc>-lagat</lc>
          <lc>-lahkii</lc>
       </lg>
@@ -116247,8 +116063,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">meađđin</l>
-         <lc>meađđimat</lc>
+         <l pos="n">meađđen</l>
+         <lc>meađđemat</lc>
       </lg>
       <mg>
          <tg>
@@ -117405,7 +117221,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">ansikt</t>
+            <t nr="pl" pos="n">ansikt</t>
             <xg>
                <x>muohtu</x>
                <xt>et kinn</xt>
@@ -118444,8 +118260,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">njávešeatne</l>
-         <lc>-eane</lc>
+         <l pos="n">njávešeatni</l>
+         <lc>-eani</lc>
       </lg>
       <mg>
          <tg>
@@ -119157,18 +118973,6 @@
       <mg>
          <tg>
             <t pos="m">lære</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">oahppameahttun</l>
-         <lc>-meahttumat</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">person som er ulært</t>
-            <t pos="m">ulærd</t>
          </tg>
       </mg>
    </e>
@@ -122339,8 +122143,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">reahpin</l>
-         <lc>reahpinat</lc>
+         <l pos="n">reahpen</l>
+         <lc>reahpenat</lc>
       </lg>
       <mg>
          <tg>
@@ -123193,7 +122997,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">ristnieida</l>
+         <l pos="n">risnieida</l>
       </lg>
       <mg>
          <tg>
@@ -123203,7 +123007,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">ristbárdni</l>
+         <l pos="n">risbárdni</l>
       </lg>
       <mg>
          <tg>
@@ -123223,11 +123027,11 @@
                <xt>gudmor</xt>
             </xg>
             <xg>
-               <x>ristbárdni</x>
+               <x>risbárdni</x>
                <xt>gudsønn</xt>
             </xg>
             <xg>
-               <x>ristnieida</x>
+               <x>risnieida</x>
                <xt>guddatter</xt>
             </xg>
          </tg>
@@ -125163,8 +124967,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">siessál</l>
-         <lc>siessálat</lc>
+         <l pos="n">siessal</l>
+         <lc>siessalat</lc>
       </lg>
       <mg>
          <tg>
@@ -125986,17 +125790,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">skoavddas</l>
-         <lc>skoavdasat</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">tomrom under snø eller is</t>
-         </tg>
-      </mg>
-   </e>
    <e usage="ped" src="nj">
       <lg>
          <l pos="n">skohter</l>
@@ -126094,8 +125887,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">šlahttá</l>
-         <lc>šlahtá</lc>
+         <l pos="n">šlahtti</l>
+         <lc>šlahti</lc>
       </lg>
       <mg>
          <tg>
@@ -126738,7 +126531,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="m">kortstokk</t>
+            <t nr="pl" pos="m">kortstokk</t>
          </tg>
       </mg>
    </e>
@@ -127299,17 +127092,6 @@
       <mg>
          <tg>
             <t pos="m">stol</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="n">stuoradiggi</l>
-         <lc>-dikki</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">storting</t>
          </tg>
       </mg>
    </e>
@@ -129201,8 +128983,8 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">udámat</l>
-         <lc>udámagat</lc>
+         <l pos="n">uđámat</l>
+         <lc>uđámagat</lc>
       </lg>
       <mg>
          <tg>
@@ -142942,16 +142724,6 @@
       <mg>
          <tg>
             <t pos="m">svensk</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="n">ruoŧŧilaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">svenske</t>
          </tg>
       </mg>
    </e>
