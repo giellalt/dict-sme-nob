@@ -9183,6 +9183,35 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="n">nuorta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">aust</t>
+            <t pos="m">øst</t>
+            <xg>
+               <x>nuortan</x>
+               <xt>østpå, i øst, fra øst; </xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">vuolábealli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">underside</t>
+            <xg>
+               <x>vuolábealde </x>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n">bajágeahči</l>
       </lg>
       <mg>
@@ -14203,7 +14232,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">bihcebáhci</l>
+         <l pos="n">bihcebáhce</l>
       </lg>
       <mg>
          <tg>
@@ -81211,6 +81240,58 @@
          </tg>
       </mg>
    </e>
+    <e src="nj">
+      <lg>
+         <l pos="n">endor</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">område langt unna</t>
+            <xg>
+               <x>manai endorii</x>
+               <xt>han dro langt ut i det fjerne; ut på viddene</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">meningsløshet</t>
+            <xg>
+               <x>Lei čielgasit oaidnimis, ahte juoga lei mannan endorii.</x>
+               <xt>Det var åpenbart at noe hadde gått helt galt</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="nj">
+      <lg>
+         <l pos="n">gázzi</l>
+         <lc>gácci</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">med følge</t>
+            <xg>
+               <x>Máhte gázzi</x>
+               <xt>Mattis og de; Mattis med følge</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">sajus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">plass hvor den er lett å finne</t>
+            <xg>
+               <x>dat lea sadjosis</x>
+               <xt>den er på plass; bidjat sadjosii </xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="n">sajusteapmi</l>
@@ -104973,7 +105054,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">fiehtar</l>
+         <l pos="n">fiehtarat</l>
          <lc>fiehtarat</lc>
       </lg>
       <mg>
@@ -109017,7 +109098,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">guovssahas</l>
+         <l pos="n">guovssahasat</l>
          <lc>-hasat</lc>
          <lc>-hassii</lc>
       </lg>
@@ -111665,9 +111746,9 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">jorddamora</l>
-         <lc>-morat</lc>
-         <lc>-morai</lc>
+         <l pos="n">jorddamovra</l>
+         <lc>-movrat</lc>
+         <lc>-movrai</lc>
       </lg>
       <mg>
          <tg>
@@ -114811,7 +114892,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">livva</l>
+         <l pos="n">livat</l>
          <lc>livat</lc>
       </lg>
       <mg>
@@ -143721,12 +143802,12 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n">fulkkeš</l>
+         <l pos="n">fulkkežat</l>
          <lc>fulkkežat</lc>
       </lg>
       <mg>
          <tg>
-            <t pos="m">slektning</t>
+            <t pos="m">slektninger</t>
             <xg>
                <x>soai leaba fulkkežat</x>
                <xt>de er slektninger</xt>
