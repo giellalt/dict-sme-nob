@@ -518,7 +518,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="adv">almmake</l>
+         <l pos="adv">almmatge</l>
       </lg>
       <mg>
          <tg>
@@ -749,10 +749,11 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="adv">ále</l>
+         <l pos="adv">álelassii</l>
       </lg>
       <mg>
          <tg>
+            <t pos="x">stadig</t>
             <t pos="x">bestandig</t>
             <xg>
                <x>álo</x>
@@ -3620,11 +3621,11 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="adv">veaitalas</l>
+         <l pos="adv">veaitalassii</l>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">fri, på egen hånd = veaitalassii</t>
+            <t pos="adv">på egen hånd</t>
          </tg>
       </mg>
    </e>
@@ -3658,17 +3659,6 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="adv">válljogas</l>
-         <lc>-gasat, -gassii</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="adv">rikelig</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
          <l pos="adv">áhtan</l>
          <lc>áhtanas</lc>
       </lg>
@@ -3684,14 +3674,27 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="adv">álga</l>
-         <lc>álgga</lc>
+         <l pos="adv">álggage</l>
       </lg>
       <mg>
          <tg>
             <t pos="adv">XXXX</t>
             <xg>
-               <x>ii álga- álgga- ge</x>
+               <x>ii álggage</x>
+               <xt>ikke i det hele tatt</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">álgage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">XXXX</t>
+            <xg>
+               <x>ii álgage</x>
                <xt>ikke i det hele tatt</xt>
             </xg>
          </tg>
