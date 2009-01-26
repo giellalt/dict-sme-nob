@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
+<r>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">mii</l>
+         <lc>man, masa, mas, main, mat, maid, maidda, main, maiguin</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">hva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">den som</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">mii</l>
+         <lc>min, midjiide, mis, minguin</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">vi</t>
+            <t pos="x">oss</t>
+            <t pos="x">vår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">almma</l>
+         <lc>amma</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke sant</t>
+            <xg>
+               <x>almma muittát dan</x>
+               <xt>ikke sant, du husker det</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="i">dearvva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="i">en hilsen</t>
+            <xg>
+               <x>"bures" go dearvvaha</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dahege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dahe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dahjege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cc">dahje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dehege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dehe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">elege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">ele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+</r>

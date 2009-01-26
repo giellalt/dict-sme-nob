@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
+<r>
+   <e src="nj">
+      <lg>
+         <l pos="num">guokte</l>
+         <lc>guovtti</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">to</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="num">logi</l>
+         <lc>logit</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">ti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="num">máŋga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">mange</t>
+         </tg>
+      </mg>
+   </e>
+</r>
