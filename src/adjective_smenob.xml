@@ -481,7 +481,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="a" context="olmmoš">bealjeheapme</l>
          <lc>-heamet, -hemiid</lc>
@@ -490,16 +490,6 @@
          <tg>
             <t pos="a">døv</t>
             <t pos="a">tunghørt</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="a" context="olmmoš">bealjeheapme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">døv</t>
          </tg>
       </mg>
    </e>
@@ -4067,20 +4057,10 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="a" context="doaibma">lobiheapme</l>
          <lc>-heamet, -hemiid, lobihis (doaibma)</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">ulovlig</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="a" context="doaibma">lobiheapme</l>
       </lg>
       <mg>
          <tg>
@@ -4629,7 +4609,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="a" context="olmmoš">mášoheapme</l>
          <lc>-heamet, -hemiid, mášohis (olmmoš)</lc>
@@ -4637,19 +4617,10 @@
       <mg>
          <tg>
             <t pos="a">rastløs</t>
+            <t pos="a">urolig</t>
             <xg>
                <x>leaboheapme</x>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="a" context="olmmoš">mášoheapme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">urolig</t>
          </tg>
       </mg>
    </e>
@@ -7972,7 +7943,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="a" context="olmmoš">čalmmeheapme</l>
          <lc>-heamet, -hemiid, čalmmehis (olmmoš)</lc>
@@ -7981,16 +7952,6 @@
          <tg>
             <t pos="a">blind</t>
             <t pos="a">svaksynt</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="a" context="olmmoš">čalmmeheapme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">blind</t>
          </tg>
       </mg>
    </e>

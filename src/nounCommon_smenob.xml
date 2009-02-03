@@ -6145,7 +6145,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n">bassi</l>
+         <l pos="n">bassi_actor</l>
       </lg>
       <mg>
          <tg>
@@ -49898,17 +49898,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped">
-      <lg>
-         <l pos="n">guovssahasat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">nordlys</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="n">guovssahasat</l>
          <lc>-hasat</lc>
@@ -80249,7 +80239,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
+   <e usage="ped" src="nj">
       <lg>
          <l pos="n">mihcamárat</l>
          <lc>-márat</lc>
@@ -80257,17 +80247,8 @@
       <mg>
          <tg>
             <t pos="m">st. hans</t>
-            <t pos="m">sankthans</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="n">mihcamárat</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="m">St.Hans</t>
+            <t pos="m">sankthans</t>
          </tg>
       </mg>
    </e>
