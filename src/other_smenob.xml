@@ -2325,30 +2325,6 @@
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="pron">mun</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">jeg</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">son</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">han/hun</t>
-      </tg>
-    </mg>
-  </e>
-
   <e src="nj">
     <lg>
       <l pos="pron">buohkat</l>
@@ -2369,7 +2345,6 @@
     <mg>
       <tg>
         <t pos="x">alt</t>
-
         <t pos="x">alle</t>
       </tg>
     </mg>
@@ -2378,7 +2353,6 @@
   <e src="nj">
     <lg>
       <l pos="pron">dakkár</l>
-
       <lc>dakkárat</lc>
     </lg>
 
@@ -2456,107 +2430,6 @@
       </tg>
     </mg>
   </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">dii</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">dere</t>
-
-        <xg>
-          <x>din dállu</x>
-        </xg>
-
-        <xg>
-          <x>oainnan din</x>
-        </xg>
-
-        <xg>
-          <x>dis lea ollu bargu</x>
-        </xg>
-
-        <xg>
-          <x>attan dan didjiide</x>
-        </xg>
-
-        <xg>
-          <x>mii soahpat dinguin</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">doai</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">dere to</t>
-
-        <xg>
-          <x>dudno dállu</x>
-        </xg>
-
-        <xg>
-          <x>mon oainnan dudno</x>
-        </xg>
-
-        <xg>
-          <x>dudnos lea dállu</x>
-        </xg>
-
-        <xg>
-          <x>attán dudnuide</x>
-        </xg>
-
-        <xg>
-          <x>mon soaban dudnuin</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">don</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">du</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="x">deg</t>
-
-        <t pos="x">din</t>
-
-        <xg>
-          <x>du girji</x>
-        </xg>
-
-        <xg>
-          <x>mon oainnan du</x>
-        </xg>
-
-        <xg>
-          <x>dus leat girjjit</x>
-        </xg>
-
-        <xg>
-          <x>mon attán dan dutnje</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
   <e src="nj">
     <lg>
       <l pos="pron">eanas</l>
@@ -2861,70 +2734,12 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron" type="pers">mii</l>
-
-      <lc>min, midjiide, mis, minguin</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">vi</t>
-
-        <t pos="x">oss</t>
-
-        <t pos="x">vår</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">moai</l>
-
-      <lc>munno, munnuide, munnos, munnuin</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">vi to</t>
-
-        <t pos="x">oss to</t>
-
-        <t pos="x">vår</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
       <l pos="pron">moanat</l>
     </lg>
 
     <mg>
       <tg>
         <t pos="x">flere</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">mon</l>
-
-      <lc>mu, munnje, mus muinna</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">jeg</t>
-
-        <t pos="x">meg</t>
-
-        <xg>
-          <x>mus lea</x>
-
-          <xt>jeg har</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -2984,6 +2799,8 @@
         <xg>
           <x>nubbi lea stuoris, nubbi fas unni</x>
           <xt>Den ene er stor, den andre er liten</xt>
+        </xg>
+        <xg>
           <x>Ja nubbi dáhpáhus leai seammá áiggiid.</x>
           <xt>Og den andre hendelsen skjedde omtrent til samme tid.</xt>
         </xg>
