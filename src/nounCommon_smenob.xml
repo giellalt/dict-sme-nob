@@ -8137,16 +8137,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n">beškkoš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">taksvale</t>
-         </tg>
-      </mg>
-   </e>
    <e src="nj">
       <lg>
          <l pos="n">beškkoš</l>
@@ -12079,11 +12069,6 @@
             <t pos="m">småkopper</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">boahkku</l>
-      </lg>
       <mg>
          <tg>
             <t pos="m">vaksine</t>
@@ -78919,16 +78904,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n">meađđen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">rogn</t>
-         </tg>
-      </mg>
-   </e>
    <e src="nj">
       <lg>
          <l pos="n">meađđen</l>
@@ -86529,16 +86504,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n">nissu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="f">nise</t>
-         </tg>
-      </mg>
-   </e>
    <e src="nj">
       <lg>
          <l pos="n">nissu</l>
@@ -86547,6 +86512,11 @@
       <mg>
          <tg>
             <t pos="m">hvete</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="f">nise</t>
          </tg>
       </mg>
    </e>
@@ -86560,6 +86530,7 @@
             <t pos="f">kvinne</t>
             <xg>
                <x>nisson</x>
+               <xt> </xt>
             </xg>
          </tg>
       </mg>
@@ -136820,9 +136791,10 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj">
       <lg>
          <l pos="n">áhčešeatni</l>
+         <lc>-eani</lc>
       </lg>
       <mg>
          <tg>
@@ -136834,12 +136806,6 @@
             <t pos="m">åtselbille</t>
          </tg>
       </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n">áhčešeatni</l>
-         <lc>-eani</lc>
-      </lg>
       <mg>
          <tg>
             <t pos="m">samisk eventyrfigur</t>
@@ -137524,16 +137490,6 @@
       <mg>
          <tg>
             <t pos="m">intensjonsavtale</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">áigáiboahtu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">utkomme</t>
          </tg>
       </mg>
    </e>
@@ -142654,16 +142610,6 @@
       <mg>
          <tg>
             <t pos="n">hofteledd</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čoarbbealli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">lår</t>
          </tg>
       </mg>
    </e>
