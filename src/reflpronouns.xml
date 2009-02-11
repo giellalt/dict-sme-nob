@@ -10,6 +10,8 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Sg1_Ill">
                <wordform>alccesan</wordform>
+               <wordform>alccan</wordform>
+               <wordform>alccen</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Sg1_Loc">
                <wordform>alddán</wordform>
@@ -37,6 +39,8 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Sg1_Ill">
                <wordform>alccesan</wordform>
+               <wordform>alccan</wordform>
+               <wordform>alccen</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Sg1_Loc">
                <wordform>alddán</wordform>
@@ -64,6 +68,8 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Sg2_Ill">
                <wordform>alccesat</wordform>
+               <wordform>alccat</wordform>
+               <wordform>alccet</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Sg2_Loc">
                <wordform>alddát</wordform>
@@ -91,6 +97,8 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Sg3_Ill">
                <wordform>alccesis</wordform>
+               <wordform>alccis</wordform>
+               <wordform>alcces</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Sg3_Loc">
                <wordform>alddis</wordform>
@@ -119,9 +127,12 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Du1_Ill">
                <wordform>alcceseame</wordform>
+               <wordform>alccame</wordform>
+               <wordform>alcceme</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Du1_Loc">
                <wordform>alddáme</wordform>
+               <wordform>alddiineame</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Du1_Com">
                <wordform>iežaineame</wordform>
@@ -146,9 +157,12 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Du1_Ill">
                <wordform>alcceseame</wordform>
+               <wordform>alccame</wordform>
+               <wordform>alcceme</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Du1_Loc">
                <wordform>alddáme</wordform>
+               <wordform>alddiineame</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Du1_Com">
                <wordform>iežaineame</wordform>
@@ -173,9 +187,12 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Du2_Ill">
                <wordform>alcceseatte</wordform>
+               <wordform>alccade</wordform>
+               <wordform>alccede</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Du2_Loc">
                <wordform>alddáde</wordform>
+               <wordform>alddiineatte</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Du2_Com">
                <wordform>iežaineatte</wordform>
@@ -200,10 +217,13 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Du3_Ill">
                <wordform>alcceseaskka</wordform>
+               <wordform>alcciska</wordform>
+               <wordform>alcceska</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Du3_Loc">
                <wordform>alddiska</wordform>
                <wordform>alddeska</wordform>
+               <wordform>alddiineaskka</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Du3_Com">
                <wordform>iežaineaskka</wordform>
@@ -228,9 +248,12 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Pl1_Ill">
                <wordform>alcceseamet</wordform>
+               <wordform>alccamet</wordform>
+               <wordform>alccemet</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Pl1_Loc">
                <wordform>alddámet</wordform>
+               <wordform>alddiineamet</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Pl1_Com">
                <wordform>iežaineamet</wordform>
@@ -255,9 +278,12 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Pl1_Ill">
                <wordform>alcceseamet</wordform>
+               <wordform>alccamet</wordform>
+               <wordform>alccemet</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Pl1_Loc">
                <wordform>alddámet</wordform>
+               <wordform>alddiineamet</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Pl1_Com">
                <wordform>iežaineamet</wordform>
@@ -282,9 +308,12 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Pl2_Ill">
                <wordform>alcceseattet</wordform>
+               <wordform>alccadet</wordform>
+               <wordform>alccedet</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Pl2_Loc">
                <wordform>alddádet</wordform>
+               <wordform>alddiineattet</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Pl2_Com">
                <wordform>iežaineattet</wordform>
@@ -309,10 +338,13 @@
          <mini_paradigm>
             <analysis ms="Pron_Refl_Pl3_Ill">
                <wordform>alcceseaset</wordform>
+               <wordform>alcciset</wordform>
+               <wordform>alcceset</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Pl3_Loc">
                <wordform>alddiset</wordform>
                <wordform>alddeset</wordform>
+               <wordform>alddiineaset</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Pl3_Com">
                <wordform>iežaineaset</wordform>
@@ -392,7 +424,7 @@
          <tg>
             <t pos="pron">jeg (har) selv</t>
 	   <xg>
-          <x>mus lea alddán biila</x>
+          <x>mus lea álddán biila</x>
           <xt>jeg har selv bil</xt>
         </xg>   
          </tg>
@@ -809,7 +841,7 @@
          <tg>
             <t pos="pron">vi to (har) selv</t>
 	   <xg>
-          <x>munnos lea alddáme biila</x>
+          <x>munnos lea álddáme biila</x>
           <xt>vi (to) har selv bil</xt>
         </xg>   
          </tg>
@@ -921,7 +953,7 @@
          <tg>
             <t pos="pron">vi to (har) selv</t>
 	   <xg>
-          <x>munnos lea alddáme biila</x>
+          <x>munnos lea álddáme biila</x>
           <xt>vi (to) har selv bil</xt>
         </xg>   
          </tg>
@@ -1329,6 +1361,22 @@
    </e>
    <e>
       <lg>
+         <l pos="pron">alddiineamet</l>
+         <lemma_ref>iežamet</lemma_ref>
+         <analysis>Pron_Refl_Pl1_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">vi (har) selv</t>
+	   <xg>
+          <x>mis lea alddiineamet biila</x>
+          <xt>vi har selv bil</xt>
+        </xg>   
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron">iežaineamet</l>
          <lemma_ref>iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Com</analysis>
@@ -1427,22 +1475,6 @@
       <lg>
          <l pos="pron">alddiineamet</l>
          <lemma_ref>iehčamet</lemma_ref>
-         <analysis>Pron_Refl_Pl1_Loc</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">vi (har) selv</t>
-	   <xg>
-          <x>mis lea alddiineamet biila</x>
-          <xt>vi har selv bil</xt>
-        </xg>   
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alddiineamet</l>
-         <lemma_ref>iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Loc</analysis>
       </lg>
       <mg>
