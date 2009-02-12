@@ -250,6 +250,67 @@
     </mg>
   </e>
 
+  <e src="nj">
+    <lg>
+      <l pos="pron">nubbi nuppi</l>
+         <analysis>Pron_Recipr_Du_Acc</analysis>
+         <analysis>Pron_Recipr_Du_Gen</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Recipr_Du_Ill">
+               <wordform>nubbi nubbái</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Du_Loc">
+               <wordform>nubbi nuppis</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Du_Com">
+               <wordform>nubbi nuppiin</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Du_Ess">
+               <wordform>nubbi nubbin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">hverandre (om to)</t>
+	   <xg>
+          <x>moai dovde nubbi nuppi</x>
+          <xt>vi to kjenner hverandre</xt>
+        </xg>   
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron">nuppit nuppiid</l>
+         <analysis>Pron_Recipr_Pl_Acc</analysis>
+         <analysis>Pron_Recipr_Pl_Gen</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Recipr_Pl_Ill">
+               <wordform>nuppit nuppiide</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Pl_Loc">
+               <wordform>nuppit nuppiin</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Pl_Com">
+               <wordform>nuppit nuppiiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Pl_Ess">
+               <wordform>nuppit nubbin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">hverandre (flere enn to)</t>
+	   <xg>
+          <x>sii dovdet nuppit nuppiid</x>
+          <xt>de kjenner hverandre</xt>
+        </xg>   
+      </tg>
+    </mg>
+  </e>
+
 
    <e>
       <lg>
@@ -278,8 +339,8 @@
             <t pos="pron">hos hverandre (vi to)</t>
             <t pos="pron">fra hverandre (vi to)</t>
 	   <xg>
-          <x>moai ožžo goabbat guoimmisteame</x>
-          <xt>vi (to) får fra hverandre</xt>
+          <x>moai ožžo rávvagiid goabbat guoimmisteame</x>
+          <xt>vi (to) får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -294,8 +355,8 @@
          <tg>
             <t pos="pron">med hverandre (vi to)</t>
 	   <xg>
-          <x>moai dahke dan goabbat guimmiineame</x>
-          <xt>vi (to) gjør det med hverandre</xt>
+          <x>moai leaikkastalle goabbat guimmiineame</x>
+          <xt>vi (to) spøker med hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -326,8 +387,8 @@
          <tg>
             <t pos="pron">fra hverandre (dere to)</t>
 	   <xg>
-          <x>doai oažžubeahtti goabbat guoimmisteatte</x>
-          <xt>dere (to) får fra hverandre</xt>
+          <x>doai oažžubeahtti rávvagiid goabbat guoimmisteatte</x>
+          <xt>dere (to) får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -342,8 +403,8 @@
          <tg>
             <t pos="pron">med hverandre (dere to)</t>
 	   <xg>
-          <x>doai dahkabeahtti goabbat guimmiineatte</x>
-          <xt>dere (to) gjør det med hverandre</xt>
+          <x>doai leaikkastallabeahtti goabbat guimmiineatte</x>
+          <xt>dere (to) spøker med hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -359,7 +420,7 @@
             <t pos="pron">til hverandre (de to)</t>
 	   <xg>
           <x>soai muitaleaba goabbat guoibmáseaskka</x>
-          <xt>de (to) forteller det til hverandre</xt>
+          <xt>de (to) forteller til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -375,8 +436,8 @@
             <t pos="pron">hos hverandre (de to)</t>
             <t pos="pron">fra hverandre (de to)</t>
 	   <xg>
-          <x>soai oažžuba dan goabbat guoimmisteaskka</x>
-          <xt>de (to) får det fra hverandre</xt>
+          <x>soai oažžuba rávvagiid goabbat guoimmisteaskka</x>
+          <xt>de (to) får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -391,8 +452,8 @@
          <tg>
             <t pos="pron">med hverandre (de to)</t>
 	   <xg>
-          <x>soai dahkaba dan goabbat guimmiineaskka</x>
-          <xt>de (to) gjør det med hverandre</xt>
+          <x>soai leaikkastallaba goabbat guimmiineaskka</x>
+          <xt>de (to) spøker med hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -424,8 +485,8 @@
             <t pos="pron">hos hverandre (vi)</t>
             <t pos="pron">fra hverandre (vi)</t>
 	   <xg>
-          <x>mii oažžut dan guhtet guoimmisteamet</x>
-          <xt>vi får det fra hverandre</xt>
+          <x>mii oažžut rávvagiid guhtet guoimmisteamet</x>
+          <xt>vi får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -474,8 +535,8 @@
             <t pos="pron">hos hverandre (vi)</t>
             <t pos="pron">fra hverandre (vi)</t>
 	   <xg>
-          <x>mii oažžut dan guhtet guimmiineamet</x>
-          <xt>vi får det fra hverandre</xt>
+          <x>mii oažžut rávvagiid guhtet guimmiineamet</x>
+          <xt>vi får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -524,8 +585,8 @@
             <t pos="pron">hos hverandre (dere)</t>
             <t pos="pron">fra hverandre (dere)</t>
 	   <xg>
-          <x>dii oažžubehtet dan guhtet guoimmisteattet</x>
-          <xt>dere får det fra hverandre</xt>
+          <x>dii oažžubehtet rávvagiid guhtet guoimmisteattet</x>
+          <xt>dere får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -574,8 +635,8 @@
             <t pos="pron">hos hverandre (dere)</t>
             <t pos="pron">fra hverandre (dere)</t>
 	   <xg>
-          <x>dii oažžubehtet dan guhtet gummiineattet</x>
-          <xt>dere får det fra hverandre</xt>
+          <x>dii oažžubehtet rávvagiid guhtet gummiineattet</x>
+          <xt>dere får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -624,8 +685,8 @@
             <t pos="pron">hos hverandre (de)</t>
             <t pos="pron">fra hverandre (de)</t>
 	   <xg>
-          <x>sii ožžot dan guhtet guoimmisteaset</x>
-          <xt>de får det fra hverandre</xt>
+          <x>sii ožžot rávvagiid guhtet guoimmisteaset</x>
+          <xt>de får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -674,8 +735,8 @@
             <t pos="pron">hos hverandre (de)</t>
             <t pos="pron">fra hverandre (de)</t>
 	   <xg>
-          <x>sii ožžot dan guhtet guimmiineaset</x>
-          <xt>de får det fra hverandre</xt>
+          <x>sii ožžot rávvagiid guhtet guimmiineaset</x>
+          <xt>de får råd fra hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -693,6 +754,128 @@
           <x>sii leaikkastallet guhtet guimmiideasetguin</x>
           <xt>de skøyer med hverandre</xt>
         </xg>   
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nubbi nubbái</l>
+         <lemma_ref>nubbi nuppi</lemma_ref>
+         <analysis>Pron_Recipr_Du_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hverandre (om to)</t>
+	   <xg>
+          <x>soai muitaleaba nubbi nubbái</x>
+          <xt>de to forteller til hverandre</xt>
+        </xg>   
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nubbi nuppis</l>
+         <lemma_ref>nubbi nuppi</lemma_ref>
+         <analysis>Pron_Recipr_Du_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hos hverandre (om to)</t>
+            <t pos="pron">fra hverandre (om to)</t>
+	   <xg>
+          <x>soai oažžuba rávvagiid nubbi nuppis</x>
+          <xt>de to får råd fra hverandre</xt>
+        </xg>   
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nubbi nuppiin</l>
+         <lemma_ref>nubbi nuppi</lemma_ref>
+         <analysis>Pron_Recipr_Du_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hverandre (om to)</t>
+	   <xg>
+          <x>soai leaikastallaba nubbi nuppiin</x>
+          <xt>de to spøker med hverandre</xt>
+        </xg>   
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nubbi nubbin</l>
+         <lemma_ref>nubbi nuppi</lemma_ref>
+         <analysis>Pron_Recipr_Du_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som hverandre (om to)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nuppit nuppiide</l>
+         <lemma_ref>nuppit nuppiid</lemma_ref>
+         <analysis>Pron_Recipr_Pl_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hverandre (om flere enn to)</t>
+	   <xg>
+          <x>sii muitalit nuppit nuppiide</x>
+          <xt>de forteller til hverandre</xt>
+        </xg>   
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nuppit nuppiin</l>
+         <lemma_ref>nuppit nuppiid</lemma_ref>
+         <analysis>Pron_Recipr_Pl_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hos hverandre (om flere enn to)</t>
+            <t pos="pron">fra hverandre (om flere enn to)</t>
+	   <xg>
+          <x>mii oažžut rávvagiid nuppit nuppiin</x>
+          <xt>vi får råd fra hverandre</xt>
+        </xg>   
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nuppit nuppiiguin</l>
+         <lemma_ref>nuppit nuppiid</lemma_ref>
+         <analysis>Pron_Recipr_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hverandre (om flere enn to)</t>
+	   <xg>
+          <x>dii leaikastallabehtet nuppit nuppiiguin</x>
+          <xt>dere spøker med hverandre</xt>
+        </xg>   
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nuppit nubbin</l>
+         <lemma_ref>nuppit nuppiid</lemma_ref>
+         <analysis>Pron_Recipr_Du_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som hverandre (om flere enn to)</t>
          </tg>
       </mg>
    </e>
