@@ -169,15 +169,15 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">guhtet gummiideattet</l>
+      <l pos="pron">guhtet guimmiideattet</l>
          <analysis>Pron_Recipr_Pl2_Acc</analysis>
          <analysis>Pron_Recipr_Pl2_Gen</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Recipr_Pl2_Ill">
-               <wordform>guhtet gummiidasadet</wordform>
+               <wordform>guhtet guimmiidasadet</wordform>
             </analysis>
             <analysis ms="Pron_Recipr_Pl2_Loc">
-               <wordform>guhtet gummiineattet</wordform>
+               <wordform>guhtet guimmiineattet</wordform>
             </analysis>
             <analysis ms="Pron_Recipr_Pl2_Com">
                <wordform>guhtet guimmiideattetguin</wordform>
@@ -188,7 +188,7 @@
       <tg>
         <t pos="pron">hverandre (dere - flere enn 2)</t>
 	   <xg>
-          <x>dii dovdabehtet guhtet gummiideattet</x>
+          <x>dii dovdabehtet guhtet guimmiideattet</x>
           <xt>dere kjenner hverandre</xt>
         </xg>   
       </tg>
@@ -322,8 +322,8 @@
          <tg>
             <t pos="pron">til hverandre (vi to)</t>
 	   <xg>
-          <x>moai muitaletne goabbat guoibmáseame</x>
-          <xt>vi (to) forteller til hverandre</xt>
+          <x>moai muitaletne ságaid goabbat guoibmáseame</x>
+          <xt>vi (to) forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -371,8 +371,8 @@
          <tg>
             <t pos="pron">til hverandre (dere to)</t>
 	   <xg>
-          <x>doai muitaleahppi goabbat guoibmáseatte</x>
-          <xt>dere (to) forteller til hverandre</xt>
+          <x>doai muitaleahppi ságaid goabbat guoibmáseatte</x>
+          <xt>dere (to) forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -412,15 +412,15 @@
    <e>
       <lg>
          <l pos="pron">goabbat guoibmáseaskka</l>
-         <lemma_ref>goabbat guoibmáseaskka</lemma_ref>
+         <lemma_ref>goabbat guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Ill</analysis>
       </lg>
       <mg>
          <tg>
             <t pos="pron">til hverandre (de to)</t>
 	   <xg>
-          <x>soai muitaleaba goabbat guoibmáseaskka</x>
-          <xt>de (to) forteller til hverandre</xt>
+          <x>soai muitaleaba ságaid goabbat guoibmáseaskka</x>
+          <xt>de (to) forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -428,7 +428,7 @@
    <e>
       <lg>
          <l pos="pron">goabbat guoimmisteaskka</l>
-         <lemma_ref>goabbat guoibmáseaskka</lemma_ref>
+         <lemma_ref>goabbat guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Loc</analysis>
       </lg>
       <mg>
@@ -445,7 +445,7 @@
    <e>
       <lg>
          <l pos="pron">goabbat guimmiineaskka</l>
-         <lemma_ref>goabbat guoibmáseaskka</lemma_ref>
+         <lemma_ref>goabbat guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Com</analysis>
       </lg>
       <mg>
@@ -468,8 +468,8 @@
          <tg>
             <t pos="pron">til hverandre (vi)</t>
 	   <xg>
-          <x>mii muitalit guhtet guoibmáseamet</x>
-          <xt>vi forteller til hverandre</xt>
+          <x>mii muitalit ságaid guhtet guoibmáseamet</x>
+          <xt>vi forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -518,8 +518,8 @@
          <tg>
             <t pos="pron">til hverandre (vi)</t>
 	   <xg>
-          <x>mii muitalit guhtet guimmiidasamet</x>
-          <xt>vi forteller til hverandre</xt>
+          <x>mii muitalit ságaid guhtet guimmiidasamet</x>
+          <xt>vi forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -568,8 +568,8 @@
          <tg>
             <t pos="pron">til hverandre (dere)</t>
 	   <xg>
-          <x>dii muitalehpet guhtet guoibmáseattet</x>
-          <xt>dere forteller til hverandre</xt>
+          <x>dii muitalehpet ságaid guhtet guoibmáseattet</x>
+          <xt>dere forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -610,24 +610,24 @@
 
    <e>
       <lg>
-         <l pos="pron">guhtet gummiidasadet</l>
-         <lemma_ref>guhtet gummiideattet</lemma_ref>
+         <l pos="pron">guhtet guimmiidasadet</l>
+         <lemma_ref>guhtet guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Ill</analysis>
       </lg>
       <mg>
          <tg>
             <t pos="pron">til hverandre (dere)</t>
 	   <xg>
-          <x>dii muitalehpet guhtet gummiidasadet</x>
-          <xt>dere forteller til hverandre</xt>
+          <x>dii muitalehpet ságaid guhtet guimmiidasadet</x>
+          <xt>dere forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">guhtet gummiineattet</l>
-         <lemma_ref>guhtet gummiideattet</lemma_ref>
+         <l pos="pron">guhtet guimmiineattet</l>
+         <lemma_ref>guhtet guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Loc</analysis>
       </lg>
       <mg>
@@ -635,7 +635,7 @@
             <t pos="pron">hos hverandre (dere)</t>
             <t pos="pron">fra hverandre (dere)</t>
 	   <xg>
-          <x>dii oažžubehtet rávvagiid guhtet gummiineattet</x>
+          <x>dii oažžubehtet rávvagiid guhtet guimmiineattet</x>
           <xt>dere får råd fra hverandre</xt>
         </xg>   
          </tg>
@@ -644,7 +644,7 @@
    <e>
       <lg>
          <l pos="pron">guhtet guimmiideattetguin</l>
-         <lemma_ref>guhtet gummiideattet</lemma_ref>
+         <lemma_ref>guhtet guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Com</analysis>
       </lg>
       <mg>
@@ -668,8 +668,8 @@
          <tg>
             <t pos="pron">til hverandre (de)</t>
 	   <xg>
-          <x>sii muitalit guhtet guoibmáseaset</x>
-          <xt>de forteller til hverandre</xt>
+          <x>sii muitalit ságaid guhtet guoibmáseaset</x>
+          <xt>de forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -718,8 +718,8 @@
          <tg>
             <t pos="pron">til hverandre (de)</t>
 	   <xg>
-          <x>sii muitalit guhtet guimmiidasaset</x>
-          <xt>de forteller til hverandre</xt>
+          <x>sii muitalit ságaid guhtet guimmiidasaset</x>
+          <xt>de forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -767,8 +767,8 @@
          <tg>
             <t pos="pron">til hverandre (om to)</t>
 	   <xg>
-          <x>soai muitaleaba nubbi nubbái</x>
-          <xt>de to forteller til hverandre</xt>
+          <x>soai muitaleaba ságaid nubbi nubbái</x>
+          <xt>de to forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -814,7 +814,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hverandre (om to)</t>
+            <t pos="pron">som hverandre (om to)</t> 
 	   <xg>
           <x>soai loggiiga sisa nubbi nubbin</x>
           <xt>de to logget inn som hverandre</xt>
@@ -832,8 +832,8 @@
          <tg>
             <t pos="pron">til hverandre (om flere enn to)</t>
 	   <xg>
-          <x>sii muitalit nuppit nuppiide</x>
-          <xt>de forteller til hverandre</xt>
+          <x>sii muitalit ságaid nuppit nuppiide</x>
+          <xt>de forteller nytt til hverandre</xt>
         </xg>   
          </tg>
       </mg>
@@ -880,7 +880,7 @@
       <mg>
          <tg>
             <t pos="pron">som hverandre (om flere enn to)</t>
-         </tg>
+        </tg>
       </mg>
    </e>
 
