@@ -360,6 +360,11 @@
     <mg>
       <tg>
         <t pos="cc">og</t>
+        <xg>
+          <x>Dat lea sihke buorre ja heittot</x>
+
+          <xt>Det er både bra og dårlig</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -372,6 +377,11 @@
     <mg>
       <tg>
         <t pos="cc">men</t>
+        <xg>
+          <x>Mun sáhtán áinnas veahkehit du, muhto odne in astta</x>
+
+          <xt>Jeg kan godt hjelpe deg, men i dag har jeg ikke tid</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -437,7 +447,7 @@
         <t pos="cs">så</t>
 
         <xg>
-          <x>Go bárdni bođii dálluii, de Øi lei áibbas galmmas.</x>
+          <x>Go bárdni bođii dállui, de Øi lei áibbas galmmas.</x>
 
           <xt>Da sønnen kom til gards, var Øi helt kald</xt>
         </xg>
@@ -465,6 +475,11 @@
     <mg>
       <tg>
         <t pos="cs">hvis</t>
+        <xg>
+          <x>Jus ihttin lea buolaš, de eat vuolgge čuoigat</x>
+
+          <xt>Hvis det er kaldt i morgen, går vi ikke på ski</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -479,6 +494,11 @@
         <t pos="cs">sliksom</t>
 
         <t pos="cs">som</t>
+        <xg>
+          <x>Daga nugo mun</x>
+
+          <xt>Gjør som jeg</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -493,6 +513,11 @@
         <t pos="cs">akkurat som</t>
 
         <t pos="cs">liksom</t>
+        <xg>
+          <x>Don borat dego spiidni</x>
+
+          <xt>Du spiser som en gris</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -507,6 +532,11 @@
         <t pos="cs">dersom</t>
 
         <t pos="cs">hvis</t>
+        <xg>
+          <x>Jos ihttin lea buolaš, de eat vuolgge čuoigat</x>
+
+          <xt>Hvis det er kaldt i morgen, går vi ikke på ski</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -519,8 +549,18 @@
     <mg>
       <tg>
         <t pos="cs">om så</t>
-
+        
         <t pos="cs">selv om</t>
+        <xg>
+          <x>Don gal borat vaikko man ollu</x>
+
+          <xt>Du spiser om så hvor mye</xt>
+        </xg>
+        <xg>
+          <x>Mun veahkehan du, vaikko it dárbbaš ge veahki</x>
+
+          <xt>Jeg hjelper deg, selv om du ikke trenger hjelp</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -533,6 +573,11 @@
     <mg>
       <tg>
         <t pos="x">se</t>
+        <xg>
+          <x>Gea, beana skierbmu!</x>
+
+          <xt>Se, hunden halter!</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -577,6 +622,11 @@
     <mg>
       <tg>
         <t pos="num">hvor mange</t>
+        <xg>
+          <x>Galle máná dus leat?</x>
+
+          <xt>Hvor mange barn har du?</xt>
+        </xg>
       </tg>
     </mg>
 
@@ -880,7 +930,7 @@
         <t pos="???">om</t>
 
         <xg>
-          <x>Dat dušše bohte jearat áigun go dánset </x>
+          <x>Dat dušše bođii jearrat áiggun go dánset </x>
 
           <xt>Hun bare kom og spurte om jeg ville danse.</xt>
         </xg>
@@ -910,6 +960,11 @@
     <mg>
       <tg>
         <t pos="x">i alle fall</t>
+        <xg>
+          <x>Máret goit boahtá</x>
+
+          <xt>Marit kommer i alle fall</xt>
+        </xg>
 
         <xg>
           <x>goit-ge</x>
@@ -926,6 +981,11 @@
     <mg>
       <tg>
         <t pos="x">også</t>
+        <xg>
+          <x>Máret nai boahtá</x>
+
+          <xt>Marit kommer også</xt>
+        </xg>
 
         <xg>
           <x>maiddái</x>
@@ -1074,7 +1134,7 @@
         <t pos="p">sammenlignet med</t>
 
         <xg>
-          <x>dan golut leat govttolaččat veahki ektui.</x>
+          <x>dat golut leat govttolaččat veahki ektui.</x>
 
           <xt>Kostnadene er gunstige sammenlignet med nytten</xt>
         </xg>
@@ -1162,9 +1222,9 @@
         <t pos="p">på grunnlag av</t>
 
         <xg>
-          <x>Mielki suvrrui spánja sisa..</x>
+          <x>Dán materiála vuođul lea váttis mearridit.</x>
 
-          <xt>Melka ble sur i spannet.</xt>
+          <xt>Det er vanskelig å gjøre vedtak på grunnlag av dette materialet.</xt>
         </xg>
       </tg>
     </mg>
@@ -1287,6 +1347,7 @@
 
         <xg>
           <x>vuolgge min fárrui</x>
+          <xt>bli med oss</xt>
         </xg>
       </tg>
     </mg>
@@ -1302,7 +1363,8 @@
         <t pos="p">med</t>
 
         <xg>
-          <x>dat lea min fárus</x>
+          <x>son lea min fárus</x>
+          <xt>han er med oss</xt>
         </xg>
       </tg>
     </mg>
@@ -1316,6 +1378,11 @@
     <mg>
       <tg>
         <t pos="p">mellom</t>
+        <xg>
+          <x>Mus lea oahpahus gaskkal guovtti ja njealji</x>
+          <xt>Jeg har undervisning mellom to og fire</xt>
+        </xg>
+
       </tg>
     </mg>
   </e>
@@ -1328,6 +1395,11 @@
     <mg>
       <tg>
         <t pos="x">halvferdig</t>
+        <xg>
+          <x>Bargu lea gaskan</x>
+          <xt>Arbeidet er halvferdig</xt>
+        </xg>
+
       </tg>
     </mg>
   </e>
@@ -1340,6 +1412,11 @@
     <mg>
       <tg>
         <t pos="p">mellom</t>
+        <xg>
+          <x>Jođán ollu Àlaheaju ja Romssa gaskka.</x>
+          <xt>Jeg reiser mye mellom Alta og Tromsø.</xt>
+        </xg>
+
       </tg>
     </mg>
   </e>
@@ -1356,6 +1433,11 @@
         <t pos="p">på</t>
 
         <t pos="p">mellom</t>
+        <xg>
+          <x>Telefuvdna riŋgii gasku čoahkkima.</x>
+          <xt>Telefonen ringte midt under møtet.</xt>
+        </xg>
+
       </tg>
     </mg>
   </e>
@@ -1484,6 +1566,11 @@
         <t pos="p">midt på</t>
 
         <t pos="p">midt i</t>
+        <xg>
+          <x>Son vázzá guovdu luotta</x>
+          <xt>Han går midt på veien</xt>
+        </xg>
+
       </tg>
     </mg>
   </e>
@@ -1519,6 +1606,7 @@
 
         <xg>
           <x>dat lea mu luhtte</x>
+          <xt>Hun er hos meg</xt>
         </xg>
       </tg>
     </mg>
@@ -1554,7 +1642,8 @@
         <t pos="p">etter</t>
 
         <xg>
-          <x>dat lea maŋis</x>
+          <x>Áhkku viegai mánáid maŋis</x>
+          <xt>Bestemor sprang etter barna</xt>
         </xg>
       </tg>
     </mg>
@@ -1572,7 +1661,8 @@
         <t pos="p">etter</t>
 
         <xg>
-          <x>son vulggii dan maŋŋái</x>
+          <x>Áhkku viehkalii mánáid maŋŋái</x>
+          <xt>Bestemor sprang av gårde etter barna</xt>
         </xg>
       </tg>
     </mg>
@@ -1586,6 +1676,10 @@
     <mg>
       <tg>
         <t pos="adv">etterpå</t>
+        <xg>
+          <x>Guossit buohccájedje maŋŋá doaluid</x>
+          <xt>Gjestene ble syke etter festlighetene</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -1602,7 +1696,7 @@
         <xg>
           <x>Ođđa bajilčála 4. siiddus maŋŋil 1. teakstaoasi</x>
 
-          <xt>Nŧ overskrift på side fire etter 1. paragraf</xt>
+          <xt>Ny overskrift på side fire etter 1. paragraf</xt>
         </xg>
 
         <xg>
@@ -1626,7 +1720,7 @@
         <t pos="p">forbi</t>
 
         <xg>
-          <x>Ja go oinniime du vázzime meattá de fertiime das bisánit,</x>
+          <x>Ja go oinniime du vázzime meattá, de fertiime das bisánit,</x>
 
           <xt>Og da vi så deg gå forbi, måtte vi stoppe der.</xt>
         </xg>
@@ -1648,7 +1742,7 @@
         <xg>
           <x>Idol násttit mátkkoštit miehta Norgga dán geasi.</x>
 
-          <xt>Idolstjernene reiste langs hele Norge den sommeren.</xt>
+          <xt>Idolstjernene reiser langs hele Norge den sommeren.</xt>
         </xg>
       </tg>
     </mg>
@@ -1673,6 +1767,11 @@
           <x>geainnu mielde</x>
 
           <xt>langs veien</xt>
+          </xg>
+          <xg>
+          <x>Son vuolgá mu mielde Supmii.</x>
+
+          <xt>Hun blir med meg til Finland.</xt>
         </xg>
       </tg>
     </mg>
@@ -1754,6 +1853,10 @@
     <mg>
       <tg>
         <t pos="p">over</t>
+        <xg>
+          <x>Váccán geainnu rastá</x>
+
+          <xt>Jeg går over veien</xt>
       </tg>
     </mg>
 
@@ -1774,6 +1877,10 @@
         <t pos="x">inne</t>
 
         <t pos="x">innenfra</t>
+        <xg>
+          <x>Giissa siste leat riskkut</x>
+
+          <xt>Det er søljer i kisten</xt>
       </tg>
     </mg>
   </e>
