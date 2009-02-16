@@ -12,9 +12,9 @@
         <t pos="adv">både</t>
 
         <xg>
-          <x>Dat lea sihke buorre ja heittot</x>
+          <x>Dat lea sihke buorre ja heittot.</x>
 
-          <xt>Det er både bra og dårlig</xt>
+          <xt>Det er både bra og dårlig.</xt>
         </xg>
       </tg>
     </mg>
@@ -56,15 +56,15 @@
         <t pos="adv">side</t>
 
         <xg>
-          <x>dán bealde</x>
+          <x>Vázzu dán bealde šaldi.</x>
 
-          <xt>på denne sida</xt>
+          <xt>La oss gå på denne sida av brua.</xt>
         </xg>
 
         <xg>
-          <x>bajábealde</x>
+          <x>Min viessu lea luotta bajábealde</x>
 
-          <xt>på oversida</xt>
+          <xt>Huset vårt står på oversida av veien.</xt>
         </xg>
       </tg>
     </mg>
@@ -106,7 +106,7 @@
         <t pos="m">varighet</t>
 
         <xg>
-          <x>Lea dehálaš čohkket ja boazodoallotearpmaid, dan bále go ain
+          <x>Lea dehálaš čohkket boazodoallotearpmaid, dan bále go ain
           gávdnojit boazosámit geat máhttet dáid.</x>
 
           <xt>Det er viktig å samle reindriftstermer mens det fremdeles fins
@@ -1072,6 +1072,27 @@
       </tg>
     </mg>
   </e>
+  
+  <e src="nj">
+    <lg>
+      <l pos="po">nala</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="p">på</t>
+
+        <t pos="p">oppå</t>
+
+        <xg>
+          <x>bija dan beavddi nala</x>
+
+          <xt>sett den på bordet</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
 
   <e src="nj">
     <lg>
@@ -1241,6 +1262,26 @@
 
         <xg>
           <x>Láhka gusto olbmuide Norgga skiippaid alde mat johtet
+          olggoriikkas.</x>
+
+          <xt>Lova gjelder folk som arbeider på norske skip som går i
+          utenriksfart.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
+<e src="nj">
+    <lg>
+      <l pos="po">nalde</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="p">på</t>
+
+        <xg>
+          <x>Láhka gusto olbmuide Norgga skiippaid nalde mat johtet
           olggoriikkas.</x>
 
           <xt>Lova gjelder folk som arbeider på norske skip som går i
