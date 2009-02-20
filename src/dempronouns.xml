@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE"
+"../../scripts/smenob.dtd">
+<r>
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="dem">dat</l>
+         <analysis>Pron_Dem_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg1_Acc">
+               <wordform>dan</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Gen">
+               <wordform>dan</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ill">
+               <wordform>dasa</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Loc">
+               <wordform>das</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Com">
+               <wordform>dainna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ess">
+               <wordform>danin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">det</t>
+        <t pos="pron">den</t>
+        <xg>
+          <x>Mun oidnen dan nieidda, gean birra don leat muitalan.</x>
+          <xt>Jeg så den jenta som du har fortalt om.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron">dát</l>
+         <analysis>Pron_Dem_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg1_Acc">
+               <wordform>dán</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Gen">
+               <wordform>dán</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ill">
+               <wordform>dása</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Loc">
+               <wordform>das</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Com">
+               <wordform>dáinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ess">
+               <wordform>dánin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">dette (nærmere meg enn deg)</t>
+        <t pos="pron">denne (nærmere meg enn deg)</t>
+        <xg>
+          <x>Dát lea mu girji.</x>
+          <xt>Dette er min bok.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron">diet</l>
+         <analysis>Pron_Dem_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg1_Acc">
+               <wordform>dien</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Gen">
+               <wordform>dien</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ill">
+               <wordform>diesa</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Loc">
+               <wordform>dies</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Com">
+               <wordform>dieinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ess">
+               <wordform>dienin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">det (nærmere deg enn meg)</t>
+        <t pos="pron">den (nærmere deg enn meg)</t>
+        <xg>
+          <x>Mii diet lea?</x>
+          <xt>Hva er det (som du har der)?</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron">duot</l>
+         <analysis>Pron_Dem_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg1_Acc">
+               <wordform>duon</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Gen">
+               <wordform>duon</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ill">
+               <wordform>duosa</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Loc">
+               <wordform>duos</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Com">
+               <wordform>duoinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ess">
+               <wordform>duonin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">det (der borte)</t>
+        <t pos="pron">den (der borte)</t>
+        <xg>
+          <x>Mii duot lea?</x>
+          <xt>Hva er det (som er der borte)?</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron">dot</l>
+         <analysis>Pron_Dem_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg1_Acc">
+               <wordform>don</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Gen">
+               <wordform>don</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ill">
+               <wordform>dosa</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Loc">
+               <wordform>dos</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Com">
+               <wordform>doinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg1_Ess">
+               <wordform>donin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">det (der lengst borte)</t>
+        <t pos="pron">den (der lengst borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+<!-- example for flected forms -->
+   <e>
+      <lg>
+         <l pos="pron">dan</l>
+         <lemma_ref>dat</lemma_ref>
+         <analysis>Pron_Dem_Sg1_Gen</analysis>
+         <analysis>Pron_Dem_Sg1_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">det</t>
+            <t pos="pron">den</t>
+        <xg>
+          <x>Mun osten dan biilla.</x>
+          <xt>Jeg kjøpte den bilen.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dasa</l>
+         <lemma_ref>dat</lemma_ref>
+         <analysis>Pron_Dem_Sg1_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til det</t>
+            <t pos="pron">til den</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">das</l>
+         <lemma_ref>dat</lemma_ref>
+         <analysis>Pron_Dem_Sg1_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i det</t>
+            <t pos="pron">i den</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dainna</l>
+         <lemma_ref>dat</lemma_ref>
+         <analysis>Pron_Dem_Sg1_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med den</t>
+            <t pos="pron">med det</t>
+        <xg>
+          <x>Biebmobearráigeahčču ii lean duhtavaš dainna ortnegiin.</x>
+          <xt>Mattilsynet var ikke fornøyd med den ordningen.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">danin</l>
+         <lemma_ref>dat</lemma_ref>
+         <analysis>Pron_Dem_Sg1_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som det</t>
+            <t pos="pron">som den</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">dán</l>
+         <lemma_ref>dát</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Gen</analysis>
+         <analysis>Pron_Dem_Sg2_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">denne</t>
+            <t pos="pron">dette</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dása</l>
+         <lemma_ref>dát</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til den</t>
+            <t pos="pron">til dette</t>
+        <xg>
+          <x>Gal dása gávdno hirbmat buorre čoavddus.</x>
+          <xt>På dette finnes det en veldig bra løsning.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dás</l>
+         <lemma_ref>dát</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dette</t>
+            <t pos="pron">i denne</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dáinna</l>
+         <lemma_ref>dát</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med dette</t>
+             <t pos="pron">med denne</t>
+        <xg>
+          <x>Dušše dáinna mášiinnain lea vejolaš oažžut dan rievttes bohtosa.</x>
+          <xt>Bare med denne maskinen er det mulig å få det riktige resultatet.</xt>
+        </xg>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dánin</l>
+         <lemma_ref>dát</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som denne</t>
+            <t pos="pron">som dette</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">dien</l>
+         <lemma_ref>diet</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Gen</analysis>
+         <analysis>Pron_Dem_Sg2_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">den (som er nærmere deg)</t>
+            <t pos="pron">det (som er nærmere deg)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">diesa</l>
+         <lemma_ref>diet</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til den (som er nærmere deg)</t>
+            <t pos="pron">til det (som er nærmere deg)</t>
+        <xg>
+          <x>Eai sii nu beare olu ruđa gal jurddaš diesa geavahit.</x>
+          <xt>De tenker ikke på å bruke så mye penger på det.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dies</l>
+         <lemma_ref>diet</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i det (som er nærmere deg)</t>
+            <t pos="pron">i den (som er nærmere deg)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dieinna</l>
+         <lemma_ref>diet</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med det (som er nærmere deg)</t>
+             <t pos="pron">med den (som er nærmere deg)</t>
+        </tg>
+        <xg>
+          <x>Vuosttažettiin danin go dieinna vugiin ii sáhte nuvttá riŋget.</x>
+          <xt>Først og fremst fordi det på den måten ikke er mulig å ringe gratis.</xt>
+        </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dienin</l>
+         <lemma_ref>diet</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som den (som er nærmere deg)</t>
+            <t pos="pron">som det (som er nærmere deg)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duon</l>
+         <lemma_ref>duot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Gen</analysis>
+         <analysis>Pron_Dem_Sg2_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">den (som er der borte)</t>
+            <t pos="pron">det (som er der borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duosa</l>
+         <lemma_ref>duot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til den (som er der borte)</t>
+            <t pos="pron">til det (som er der borte)</t>
+        <xg>
+          <x>Don galggat duosa oahpahit sámegiela!</x>
+          <xt> </xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duos</l>
+         <lemma_ref>duot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i det (som er der borte)</t>
+            <t pos="pron">i den (som er der borte)</t>
+        <xg>
+          <x>Muhto ii orron ávki duos iige dies.</x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duoinna</l>
+         <lemma_ref>duot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med det (som er der borte)</t>
+             <t pos="pron">med den (som er der borte)</t>
+        <xg>
+          <x>Sii dávjá jerret mus mii oaivvilduvvo duoinna ja dáinna.</x>
+          <xt>De spør meg ofte om hva som menes med det ene og det andre.</xt>
+        </xg>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duonin</l>
+         <lemma_ref>duot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som den (som er der borte)</t>
+            <t pos="pron">som det (som er der borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">don</l>
+         <lemma_ref>dot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Gen</analysis>
+         <analysis>Pron_Dem_Sg2_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">den (som er lengst borte)</t>
+            <t pos="pron">det (som er lengst borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dosa</l>
+         <lemma_ref>dot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til den (som er lengst borte)</t>
+            <t pos="pron">til det (som er lengst borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dos</l>
+         <lemma_ref>dot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i det (som er lengst borte)</t>
+            <t pos="pron">i den (som er lengst borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">doinna</l>
+         <lemma_ref>dot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med det (som er lengst borte)</t>
+             <t pos="pron">med den (som er lengst borte)</t>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">donin</l>
+         <lemma_ref>dot</lemma_ref>
+         <analysis>Pron_Dem_Sg2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som den (som er lengst borte)</t>
+            <t pos="pron">som det (som er lengst borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+</r>
