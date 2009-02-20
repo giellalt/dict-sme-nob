@@ -553,7 +553,13 @@
          <tg>
             <t pos="v">publisere</t>
             <t pos="v">bekjentgjøre</t>
+            <xg>
+               <x>Son lea maid almmuhan CD:id.</x>
+               <xt>Han/hun har også gitt ut CDer.</xt>
+            </xg>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="v">deklarere</t>
          </tg>
@@ -978,6 +984,11 @@
       <mg>
          <tg>
             <t pos="v">våge</t>
+            <xg>
+               <x>Nu soitet vel eanet nuorat arvat searvat Sámi Grand Prix juoigamii.</x>
+               <xt>Slik kan kanskje enda flere ungdommer våge å bli med på Sámi Grand Prix joikedel.</xt>
+            </xg>
+            
          </tg>
       </mg>
    </e>
@@ -1076,17 +1087,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="v" context="mun">astaddat</l>
-         <lc>(mon) -tattan</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">brenne bål og koke kaffe</t>
-         </tg>
-      </mg>
-   </e>
    <e usage="ped" src="nj">
       <lg>
          <l pos="v" context="mun">astat</l>
@@ -1116,7 +1116,19 @@
       <mg>
          <tg>
             <t pos="v">bruke</t>
+            <xg>
+               <x>Skuvla atná hui ollu dárogielat oahppogirjjiid.</x>
+               <xt>Skolen bruker veldig mye norskspråklige lærebøker.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="v">anse for</t>
+            <xg>
+               <x>Muđui atná giellaráđđi deaŧalažžan joatkit ovttasbarggu badjel rájiid.</x>
+               <xt>Ellers anser språkrådet det som viktig å fortsette samarbeidet over grensene.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1243,6 +1255,10 @@
          <tg>
             <t pos="v">forakte</t>
             <t pos="v">nedvurdere</t>
+            <xg>
+               <x>Mii eat divtte gávpotkultuvrra badjelgeahččat iežamet kultuvrra.</x>
+               <xt>Vi lar ikke bykulturen nedvurdere vår kultur.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1254,6 +1270,10 @@
          <tg>
             <t pos="v">stige</t>
          </tg>
+            <xg>
+               <x>Go oidnen makkár dilli doppe guovlluin lea, badjánii jurdda ahte lea go mihkkege maid mun sáhtán bargat ávkin.</x>
+               <xt>Da jeg så hvordan situasjonen var i de områdene, så steg tanken om at er det noe nyttig som jeg kan gjøre.</xt>
+            </xg>
       </mg>
    </e>
    <e>
@@ -1302,6 +1322,10 @@
          <tg>
             <t pos="v">trenge på</t>
             <t pos="v">trenge seg fram</t>
+            <xg>
+               <x>Eanas áigge jagis lea čoaskkis ja galmmas, de liikká olles máilbmi bahkke deike!</x>
+               <xt>Mesteparten av året er det kjølig og kaldt, likevel så trenger hele verden seg på hit!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1369,6 +1393,10 @@
          <tg>
             <t pos="v">løfte</t>
             <t pos="v">heve</t>
+            <xg>
+               <x>Son ii dárbbaš gal jiena bajidit.</x>
+               <xt>Han/hun trenger da ikke heve stemmen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1403,7 +1431,11 @@
       </mg>
       <mg>
          <tg>
-            <t pos="v">mistenke noe</t>
+            <t pos="v">mistenke</t>
+            <xg>
+               <x>Mun deattuhan ahte sii geat ledje balahuvvon sivalažžan áššis, leat vigiheamit.</x>
+               <xt>Jeg understreker at de som var mistenkte som skyldige i saken, er uskyldige.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1416,6 +1448,10 @@
          <tg>
             <t pos="v">skremme</t>
          </tg>
+            <xg>
+               <x>Olbmot ja beatnagat balde gumppiid ja ledje dorvun bohccuide.</x>
+               <xt>Folk og hunder skremte ulvene og var som sikkerhet for reinen.</xt>
+            </xg>
       </mg>
    </e>
    <e>
@@ -1463,6 +1499,10 @@
       <mg>
          <tg>
             <t pos="v">bli redd</t>
+            <xg>
+               <x>Vašalaččat ballájedje go fuobmájedje ahte gonagasas lea nie stuora veahka.</x>
+               <xt>Fienden ble redd da de oppdaget at kongen hadde så stor hær.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1514,6 +1554,10 @@
       <mg>
          <tg>
             <t pos="v">stable</t>
+            <xg>
+               <x>Muoraid galggai bardit hui čábbát.</x>
+               <xt>Veden skulle man stable veldig pent.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3207,6 +3251,10 @@
       <mg>
          <tg>
             <t pos="v">stable</t>
+            <xg>
+               <x>Muoraid galggai bordit hui čábbát.</x>
+               <xt>Veden skulle man stable veldig pent.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3238,6 +3286,10 @@
       <mg>
          <tg>
             <t pos="v">fyke</t>
+            <xg>
+               <x>Daid čađa biekkai, borggai ja arvvi.</x>
+               <xt>Gjennom dem blåste det, føk det og regnet det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3258,6 +3310,10 @@
       <mg>
          <tg>
             <t pos="v">ryke</t>
+            <xg>
+               <x>Giebat ja gunat dušše borggistedje, muhto ii lean šat nu báhkas.</x>
+               <xt>Det bare røyk fra soten og asken, men det var ikke lenger så hett.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3268,6 +3324,10 @@
       <mg>
          <tg>
             <t pos="v">røyke</t>
+            <xg>
+               <x>Norggas borgguhit 32 proseantta nissonolbmuin.</x>
+               <xt>I Norge røyker 32 prosent av kvinnene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3326,8 +3386,10 @@
             <t pos="v">spise</t>
             <t pos="v">ete</t>
             <xg>
-               <x>mon boran láibbi</x>
-               <xt>jeg spiser brød</xt>
+            <xg>
+               <x>In vel leat borran dakkár márffiid.</x>
+               <xt>Jeg har ikke enda spist slike pølser.</xt>
+            </xg>
             </xg>
          </tg>
       </mg>
@@ -3356,6 +3418,10 @@
          <tg>
             <t pos="v">fosse</t>
             <t pos="v">sprute</t>
+            <xg>
+               <x>Soai ballagođiiga go čáhci boršugođii ovddageaži badjel.</x>
+               <xt>De to begynte å bli redde da vannet begynte å fosse over framenden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3367,6 +3433,10 @@
       <mg>
          <tg>
             <t pos="v">blåse</t>
+            <xg>
+               <x>Son lea bidjan johtui mašiinna mii bossu lieggasa jikŋon revrriide.</x>
+               <xt>Han/hun har satt igang maskinen som blåser varme inn i de frosne rørene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3408,7 +3478,12 @@
       </lg>
       <mg>
          <tg>
+            <t pos="v">bryte</t>
             <t pos="v">slite av</t>
+            <xg>
+               <x>Searvi áigu botket oktavuođa fylkabellodagainis.</x>
+               <xt>Foreninga vil bryte kontakten med fylketpartiet sitt.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -3470,6 +3545,18 @@
       <mg>
          <tg>
             <t pos="v">vri</t>
+            <xg>
+               <x>Manne dalle lea dárbbaslaš botnjat lávdegotti evttohusaid.</x>
+               <xt>Hvorfor er det da behov for å vri på komiteens forslag.</xt>
+            </xg>
+            <xg>
+               <x>Nu ledjen áhččán oaidnán botnjat vuonccá oaivvi.</x>
+               <xt>Slik hadde jeg sett faren min vri hodet på høna.</xt>
+            </xg>
+            <xg>
+               <x>Čoavji botnjasa, oaivvis jorragoahtá ja šaddá lossat vuoigŋat.</x>
+               <xt>Det vrei seg i magen, det begynte å gå rundt i hodet og det ble tungt å puste.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3482,6 +3569,10 @@
          <tg>
             <t pos="v">invitere</t>
             <t pos="v">innby</t>
+            <xg>
+               <x>Sire lei bovden báikki olbmuid iežas geahčai.</x>
+               <xt>Sire hadde invitert stedets befolkning hjem til seg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3663,8 +3754,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">gjøre rein</t>
+            <t pos="v">reingjøre</t>
             <t pos="v">rense</t>
+            <xg>
+               <x>Son oljii ja buhtistii boares láddjenmašiinna.</x>
+               <xt>Han/hun oljet og reingjorde den gamle slåmaskinen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
