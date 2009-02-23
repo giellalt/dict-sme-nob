@@ -7509,11 +7509,23 @@
       <mg>
          <tg>
             <t pos="n">reir</t>
+            <xg>
+               <x>Skire dagai beasi muorragierragii.</x>
+               <xt>Skjæra lagde reir i trekrona.</xt>
+            </xg>
+            <xg>
+               <x>Lottit eai leat vuos monnen buot besiide.</x>
+               <xt>Fuglene har ikke ennå lagt egg i alle reirene.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="f">never</t>
+            <xg>
+               <x>Mun gáikon beassi muoras cahkkehahkan.</x>
+               <xt>Jeg flerret never av treet til opptenning.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -52660,6 +52672,19 @@
             <t pos="f">kasse</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="f">gass</t>
+             <xg>
+               <x>Min biilavuoddji lei nu suorganan ahte ille šat nagoda duolmmastit gása.</x>
+               <xt>Bilføreren vår var så forskrekket at han/hun knapt greide å trø på gassen.</xt>
+            </xg>
+             <xg>
+               <x>Sii áigot fievrridit Snøhvit-guovllu gása olgoriikii.</x>
+               <xt>De skal føre gassen fra Snøhvit til utlandet.</xt>
+            </xg>
+        </tg>
+      </mg>
    </e>
    <e usage="ped" src="nj">
       <lg>
@@ -86515,11 +86540,6 @@
       </lg>
       <mg>
          <tg>
-            <t pos="m">hvete</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="f">nise</t>
          </tg>
       </mg>
@@ -86533,8 +86553,21 @@
          <tg>
             <t pos="f">kvinne</t>
             <xg>
-               <x>nisson</x>
-               <xt> </xt>
+               <x>Birrasiid 100 nissona ja dievddu oassálaste dán fierpmádatkonferánssas.</x>
+               <xt>Rundt 100 kvinner og menn deltok i denne nettverkskonferansen.</xt>
+            </xg>
+            <xg>
+               <x>Dán guovllus leat unnán bargosajit nissoniidda.</x>
+               <xt>I dette området er det få arbeidsplasser for kvinner.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">hvete</t>
+            <xg>
+               <x>Mun áiggun gilvit nisuid duon beldui.</x>
+               <xt>Jeg skal så hvete i åkeren der borte.</xt>
             </xg>
          </tg>
       </mg>
@@ -133181,7 +133214,28 @@
       <mg>
          <tg>
             <t pos="m">skog</t>
+            <xg>
+               <x>Soai doamaiga vuovddi čađa dego sáhpánat sáhpánráigái.</x>
+               <xt>De (to) skyndte seg gjennom skogen som mus til musehullet.</xt>
+            </xg>
+            <xg>
+               <x>Son áibbašii Suoma suhkkes vuvddiide.</x>
+               <xt>Han/hun lengtet til Finlands tette skoger.</xt>
+            </xg>
          </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">selger</t>
+            <xg>
+               <x>Máŋga vuovdi ledje boahtán márkanii.</x>
+               <xt>Mange selgere var kommet til markedet.</xt>
+            </xg>
+             <xg>
+               <x>Mun dopmen máksit iežan velggiid buot vuovdiide.</x>
+               <xt>Jeg skyndte meg å betale gjelda mi til alle selgerne.</xt>
+            </xg>
+        </tg>
       </mg>
    </e>
    <e>
