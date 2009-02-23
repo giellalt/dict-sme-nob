@@ -6139,17 +6139,33 @@
       </lg>
       <mg>
          <tg>
-            <t pos="f">helg</t>
+            <t pos="f">helligdag</t>
+            <xg>
+               <x>Dál leat juo máŋga basi leamaš, ja luopmobeaivvit leat nohkan.</x>
+               <xt>Nå har det allerede vært mange helligdager, og det er ikke flere feriedager igjen.</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="n">bassi_actor</l>
-      </lg>
+      <mg>
+         <tg>
+            <t pos="f">helg</t>
+            <xg>
+               <x>Mii leimmet doppe mannan basiid.</x>
+               <xt>Vi var der sist helg.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="m">rengjøringsassistent</t>
+            <xg>
+               <x>Skuvllas leat guokte bassi.</x>
+               <xt>På skolen er det to rengjøringsassistenter.</xt>
+            </xg>
+            <xg>
+               <x>Sii háliidit buoridit bargodili erenomážit bassiide.</x>
+               <xt>De ønsker å forbedre arbeidsforholdene spesielt for rengjøringsassistentene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15996,14 +16012,14 @@
    <e usage="ped" src="nj">
       <lg>
          <l pos="n">buohcu</l>
-         <xg>
-            <x>buozus</x>
-            <xt>syk</xt>
-         </xg>
       </lg>
       <mg>
          <tg>
             <t pos="m">sykdom</t>
+         <xg>
+            <x>Eadni lea buozus.</x>
+            <xt>Mor er syk.</xt>
+         </xg>
          </tg>
       </mg>
    </e>
@@ -21507,14 +21523,14 @@
          <l pos="n">deadja</l>
          <lc>deaja</lc>
          <lc>dedjii</lc>
-         <xg>
-            <x>deajat</x>
-            <xt>teblader</xt>
-         </xg>
       </lg>
       <mg>
          <tg>
             <t pos="m">te</t>
+         <xg>
+            <x>deajat</x>
+            <xt>teblader</xt>
+         </xg>
          </tg>
       </mg>
    </e>
@@ -23790,11 +23806,28 @@
       <mg>
          <tg>
             <t pos="f">pleie</t>
+            <xg>
+               <x>Eadni lea dan mađe buozas ahte dárbbaša divššu birra jándora.</x>
+               <xt>Mor er såpass syk at hun trenger pleie døgnet rundt.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="m">terapi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">pleier</t>
+            <xg>
+               <x>Ođđa ossodahkii dárbbašuvvojit goitge logi dikšu.</x>
+               <xt>Til den nye avdelingen trenges iallfall 10 pleiere.</xt>
+            </xg>
+            <xg>
+               <x>Sii háliidit buoridit bargodili erenomážit dikšuide.</x>
+               <xt>De ønsker å forbedre arbeidsforholdene spesielt for pleierne.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -29374,9 +29407,7 @@
    <e src="nj">
       <lg>
          <l pos="n">dánskalaš</l>
-         <xg>
-            <x>dánskalaš, -laččat, -lažžii</x>
-         </xg>
+         <lc>dánskalaš, -laččat, -lažžii</lc>
       </lg>
       <mg>
          <tg>
@@ -39013,10 +39044,6 @@
    <e usage="ped" src="nj">
       <lg>
          <l pos="n">gaskabeaivi</l>
-         <xg>
-            <x>gaskabeaivvit</x>
-            <xt>middag</xt>
-         </xg>
       </lg>
       <mg>
          <tg>
@@ -39026,9 +39053,13 @@
       <mg>
          <tg>
             <t pos="m">middag</t>
+         <xg>
+            <x>gaskabeaivvit</x>
+            <xt>middag</xt>
+         </xg>
             <xg>
-               <x>mii boraimet gaskabeivviid</x>
-               <xt>vi spiste middag</xt>
+               <x>Mii boraimet gaskabeivviid.</x>
+               <xt>Vi spiste middag.</xt>
             </xg>
          </tg>
       </mg>
@@ -50987,11 +51018,6 @@
    <e usage="ped" src="nj">
       <lg>
          <l pos="n">gáffe</l>
-         <xg>
-            <x>gáfet</x>
-            <xt>kaffebønner</xt>
-            <xt>malt kaffe</xt>
-         </xg>
       </lg>
       <mg>
          <tg>
@@ -51006,9 +51032,13 @@
          <tg>
             <t pos="m">kaffebønner</t>
             <t pos="m">ukokt kaffe</t>
+         <xg>
+            <x>gáfet</x>
+            <xt>kaffebønner, malt kaffe</xt>
+         </xg>
             <xg>
-               <x>mun lasihan gáfiid čáhcái</x>
-               <xt>jeg tilsetter kaffe til vannet</xt>
+               <x>Mun lasihan gáfiid čáhcái.</x>
+               <xt>Jeg tilsetter kaffe til vannet.</xt>
             </xg>
          </tg>
       </mg>
@@ -65216,9 +65246,6 @@
       <mg>
          <tg>
             <t pos="m">kopp</t>
-            <xg>
-               <x>gohppa</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -66752,9 +66779,6 @@
       <mg>
          <tg>
             <t pos="m">kriminallov</t>
-            <xg>
-               <x/>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -72309,11 +72333,23 @@
       <mg>
          <tg>
             <t pos="n">lokk</t>
+            <xg>
+               <x>Eamit loktii bumbbá, ja ruđat ledje gitta lohki vuollái.</x>
+               <xt>Kona løftet kista, og pengene var helt opp til under lokket.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="m">leser</t>
+            <xg>
+               <x>Jurddašin jearahallat vihtta lohkki luopmoplánaid birra.</x>
+               <xt>Jeg tenkte å intervje fem lesere om ferieplaner.</xt>
+            </xg>
+            <xg>
+               <x>Áviisa sávvá buot lohkkiide ráfálaš ja buriid juovllaid.</x>
+               <xt>Avisa ønsker fredelig og god jul til alle leserne.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -76673,7 +76709,29 @@
       </lg>
       <mg>
          <tg>
-            <t pos="S">vokalist</t>
+            <t pos="m">sanger</t>
+            <t pos="m">vokalist</t>
+            <xg>
+               <x>Oktiibuot logi juoigi ja guhtta lávlu leat lávddi alde beassášlávvordaga.</x>
+               <xt>Tilsammen ti joikere og seks sangere er på scenen påskeaften.</xt>
+            </xg>
+            <xg>
+               <x>Mii ozaimet doarjaga doallat kurssa juigiide ja lávluide.</x>
+               <xt>Vi søkte om penger for at holde kurs for joikere og sangere.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">sang</t>
+            <xg>
+               <x>Mii eat leat hárjehallan dán lávllu.</x>
+               <xt>Vi har ikke øvd på denne sangen.</xt>
+            </xg>
+            <xg>
+               <x>Liikot go don argentiinnalaš lávlluide ja musihkkii?</x>
+               <xt>Liker du argentinske sanger og musikk?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -104153,6 +104211,25 @@
       <mg>
          <tg>
             <t pos="m">svovel</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">fyrstikker</t>
+            <xg>
+               <x>Bárdni cahkkehii buot riššaid oktanis.</x>
+               <xt>Gutten tente på alle fystikkene samtidig.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">skvett</t>
+            <t pos="m">sprut</t>
+            <xg>
+               <x> </x>
+               <xt> </xt>
+            </xg>
          </tg>
       </mg>
    </e>
