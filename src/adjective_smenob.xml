@@ -910,15 +910,15 @@
    <e src="nj">
       <lg>
          <l pos="a" context="mánná">bás</l>
-         <xg>
-            <x>bás mánná</x>
-            <x>stakkars lite barn</x>
-         </xg>
          <lc>bás mánná</lc>
       </lg>
       <mg>
          <tg>
             <t pos="a">stakkars liten</t>
+         <xg>
+            <x>bás mánná</x>
+            <xt>stakkars lite barn</xt>
+         </xg>
          </tg>
       </mg>
    </e>
@@ -2340,14 +2340,14 @@
    <e src="nj">
       <lg>
          <l pos="a" context="beaivvi">geažos</l>
-         <xg>
-            <x>geažos beaivvi</x>
-            <x>hele dagen</x>
-         </xg>
       </lg>
       <mg>
          <tg>
             <t pos="a">hele</t>
+         <xg>
+            <x>geažos beaivvi</x>
+            <xt>hele dagen</xt>
+         </xg>
          </tg>
       </mg>
    </e>
@@ -3660,14 +3660,14 @@
    <e src="nj">
       <lg>
          <l pos="a" context="bivttas">jorggu</l>
-         <xg>
-            <x>jorggu bivttas</x>
-            <x>vrengt klesplagg</x>
-         </xg>
       </lg>
       <mg>
          <tg>
             <t pos="a">vrengt</t>
+         <xg>
+            <x>jorggu bivttas</x>
+            <xt>vrengt klesplagg</xt>
+         </xg>
          </tg>
       </mg>
    </e>
@@ -8287,8 +8287,11 @@
       <mg>
          <tg>
             <t pos="a">klumpet</t>
+            <xg>
                <x>šluppo-</x>
-         </tg>
+               <xt> </xt>
+             </xg>
+        </tg>
       </mg>
       <mg>
          <tg>
