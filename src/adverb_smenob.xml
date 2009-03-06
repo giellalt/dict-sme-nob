@@ -2,6 +2,30 @@
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
 <r>
+  <e src="nj">
+    <lg>
+      <l pos="adv">arvat</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="adv">mye</t>
+        <xg>
+          <x>Boahtte čiekčamis dán joavkku vuostá doaivvun mannat arvat buorebut.</x>
+          <xt>I neste kamp mot dette laget håper jeg at det går mye bedre.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="adv">mange</t>
+        <xg>
+          <x>Dán jagi leat arvat eanet bivdinjoavkkut go diibmá.</x>
+          <xt>I år er det mange flere jaktgrupper enn ifjor.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
    <e>
       <lg>
          <l pos="adv">jaska</l>
@@ -201,6 +225,10 @@
 <e src="nj">
    <lg>
       <l pos="adv">šat</l>
+   </lg>
+   <mg>
+      <tg>
+         <t pos="x">mer</t>
          <xg>
             <x>lea go šat?</x>
             <xt>er det mer?</xt>
@@ -209,10 +237,6 @@
             <x>ii leat šat</x>
             <xt>det er ikke mer</xt>
          </xg>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="x">mer</t>
       </tg>
    </mg>
 </e>
@@ -271,14 +295,14 @@
 <e src="nj">
    <lg>
       <l pos="adv">naba</l>
-      <xg>
-   <x>naba don?</x>
-   <xt>enn du?</xt>
-       </xg>
    </lg>
    <mg>
       <tg>
          <t pos="adv">enn</t>
+      <xg>
+   <x>naba don?</x>
+   <xt>enn du?</xt>
+       </xg>
       </tg>
    </mg>
 </e>
@@ -306,14 +330,14 @@
 <e src="nj">
    <lg>
       <l pos="adv">anne</l>
-      <xg>
-      <x>anne dal boahtá</x>
-      <xt>la han (henne) bare komme</xt>
-      </xg>
    </lg>
    <mg>
       <tg>
          <t pos="x">la</t>
+      <xg>
+      <x>anne dal boahtá</x>
+      <xt>la han (henne) bare komme</xt>
+      </xg>
       </tg>
    </mg>
 </e>
@@ -547,6 +571,24 @@
          </tg>
       </mg>
    </e>
+  <e src="nj">
+    <lg>
+      <l pos="adv">badjel</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="adv">over</t>
+
+        <xg>
+          <x>Maŋŋil go badjel 20 jagi lea orron máddin, de máhccá
+          ruovttoluotta.</x>
+
+          <xt>Etter å ha bodd over 20 år sørpå, vender han hjem.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
    <e src="nj">
       <lg>
          <l pos="adv">badjin</l>
@@ -1619,9 +1661,13 @@
       <mg>
          <tg>
             <t pos="x">halvferdig</t>
+        <xg>
+          <x>Bargu lea gaskan.</x>
+          <xt>Arbeidet er halvferdig.</xt>
+        </xg>
             <xg>
-               <x>dat bázii gaskan</x>
-               <xt>den ble ufullendt</xt>
+               <x>Bargu bázii gaskan.</x>
+               <xt>Arbeidet ble ufullendt.</xt>
             </xg>
          </tg>
       </mg>
@@ -2109,9 +2155,30 @@
       <mg>
          <tg>
             <t pos="x">nær</t>
+        <xg>
+          <x>Álttás lea válljen bargat, go de lea nu lahka Guovdageainnu go
+          vejolaš. </x>
+
+          <xt>Hun har valgt å arbeide i Alta, fordi det er så nær Kautokeino
+          som mulig</xt>
+        </xg>
          </tg>
       </mg>
    </e>
+  <e src="nj">
+    <lg>
+      <l pos="adv">maŋŋá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">seinere</t>
+        <xg>
+          <x>Son bođii maŋŋá.</x>
+          <xt>Han/Hun kom seinere.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
    <e src="nj">
       <lg>
          <l pos="adv">lávga</l>
@@ -2381,16 +2448,23 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="adv">meattá</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">forbi</t>
-         </tg>
-      </mg>
-   </e>
+  <e src="nj">
+    <lg>
+      <l pos="adv">meattá</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="adv">forbi</t>
+
+        <xg>
+          <x>Ja go oinniime du vázzime meattá, de fertiime das bisánit.</x>
+
+          <xt>Og da vi så deg gå forbi, måtte vi stoppe der.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
    <e src="nj">
       <lg>
          <l pos="adv">menddo</l>
@@ -2657,16 +2731,28 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="adv">olggos</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">ut</t>
-         </tg>
-      </mg>
-   </e>
+  <e src="nj">
+    <lg>
+      <l pos="adv">olggos</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="adv">ut</t>
+
+        <xg>
+          <x>Moai njuikiime olggos biillas.</x>
+
+          <xt>Vi hoppet ut av bilen.</xt>
+        </xg>
+        <xg>
+          <x>Dál ii ábut šat viesus stoahkat, muhto olggos mannat, vai dearvvašin bissubehtet.</x>
+
+          <xt>Nå kan dere ikke leke inne lenger, men dere må gå ut for å holde dere friske.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
    <e src="nj">
       <lg>
          <l pos="adv">olggul</l>
@@ -2922,16 +3008,23 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="adv">sisa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">inn</t>
-         </tg>
-      </mg>
-   </e>
+  <e src="nj">
+    <lg>
+      <l pos="adv">sisa</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="p">inn</t>
+
+        <xg>
+          <x>Boađe sisa gáfe juhkat!</x>
+
+          <xt>Kom inn og drikk kaffe!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
    <e src="nj">
       <lg>
          <l pos="adv">siskkil</l>

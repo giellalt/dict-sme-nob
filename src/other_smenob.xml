@@ -22,30 +22,6 @@
 
   <e src="nj">
     <lg>
-      <l pos="adv">arvat</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">mye</t>
-        <xg>
-          <x>Boahtte čiekčamis dán joavkku vuostá doaivvun mannat arvat buorebut.</x>
-          <xt>I neste kamp mot dette laget håper jeg at det går mye bedre.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">mange</t>
-        <xg>
-          <x>Dán jagi leat arvat eanet bivdinjoavkkut go diibmá.</x>
-          <xt>I år er det mange flere jaktgrupper enn ifjor.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
       <l pos="pron">ihkinassii</l>
     </lg>
 
@@ -1265,29 +1241,24 @@
     </mg>
   </e>
 
-  <e src="nj">
+
+  <e>
     <lg>
-      <l pos="po">olggos</l>
+      <l pos="po">rádjái</l>
     </lg>
 
     <mg>
       <tg>
-        <t pos="p">ut</t>
+        <t pos="p">til</t>
 
         <xg>
-          <x>Moai njuikiime olggos biillas.</x>
+          <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjái.</x>
 
-          <xt>Vi hoppet ut av bilen.</xt>
-        </xg>
-        <xg>
-          <x>Dál ii ábut šat viesus stoahkat, muhto olggos mannat, vai dearvvašin bissubehtet.</x>
-
-          <xt>Nå kan dere ikke leke inne lenger, men dere må gå ut for å holde dere friske.</xt>
+          <xt>Det er 40 slektledd fra David til Babylons fangeskap.</xt>
         </xg>
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="po">rájes</l>
@@ -1306,23 +1277,11 @@
     </mg>
   </e>
 
-  <e src="nj">
+
+  <e>
     <lg>
       <l pos="po">sisa</l>
     </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">inn</t>
-
-        <xg>
-          <x>Boađe sisa gáfe juhkat!</x>
-
-          <xt>Kom inn og drikk kaffe!</xt>
-        </xg>
-      </tg>
-    </mg>
-
     <mg>
       <tg>
         <re>om overgang</re>
@@ -1398,7 +1357,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="po">bálda</l>
+      <l pos="po">báldda</l>
     </lg>
 
     <mg>
@@ -1406,9 +1365,9 @@
         <t pos="x">ved siden av</t>
 
         <xg>
-          <x>Dat lea mu bálddas.</x>
+          <x>Máze skuvlla báldda golggai ája.</x>
 
-          <xt>bija mu báldii</xt>
+          <xt>Ved siden av Máze skole rant en bekk.</xt>
         </xg>
       </tg>
     </mg>
@@ -1510,10 +1469,9 @@
         <t pos="p">gjennom</t>
 
         <xg>
-          <x>Ruoŧa ja Norgga riikarádji manná čađa boazodoalloguovlluid.</x>
+          <x>Vázzen gili čađa.</x>
 
-          <xt>Den norsk-svenske grensa går tvers gjennom
-          reindriftsområda.</xt>
+          <xt>Jeg gikk gjennom bygda.</xt>
         </xg>
       </tg>
     </mg>
@@ -1555,7 +1513,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="po">gaskal</l>
+      <l pos="pr">gaskal</l>
     </lg>
 
     <mg>
@@ -1564,23 +1522,6 @@
         <xg>
           <x>Mus lea oahpahus gaskkal guovtti ja njealji.</x>
           <xt>Jeg har undervisning mellom to og fire.</xt>
-        </xg>
-
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">gaskan</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">halvferdig</t>
-        <xg>
-          <x>Bargu lea gaskan.</x>
-          <xt>Arbeidet er halvferdig.</xt>
         </xg>
 
       </tg>
@@ -1606,7 +1547,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="po">gasku</l>
+      <l pos="pr">gasku</l>
     </lg>
 
     <mg>
@@ -1671,7 +1612,7 @@
     </mg>
   </e>
 
-  <e src="nj">
+  <e>
     <lg>
       <l pos="po">vuollegeahčen</l>
     </lg>
@@ -1693,15 +1634,9 @@
         <t pos="p">hos</t>
 
         <xg>
-          <x>min geahčen</x>
+          <x>Son lea min geahčen fitnan juohke geasi.</x>
 
-          <xt>hjemme hos oss</xt>
-        </xg>
-
-        <xg>
-          <x>Boađe min geahčai!</x>
-
-          <xt>Kom hjem til oss!</xt>
+          <xt>Han/hun har vært innom hos oss hver sommer.</xt>
         </xg>
       </tg>
     </mg>
@@ -1741,13 +1676,6 @@
     <mg>
       <tg>
         <t pos="p">hos</t>
-
-        <xg>
-          <x>min geahčen</x>
-
-          <xt>hjemme hos oss</xt>
-        </xg>
-
         <xg>
           <x>Boađe min geahčai!</x>
 
@@ -1777,13 +1705,8 @@
         <t pos="p">ved siden av</t>
 
         <xg>
-          <x>Dat lea geaidno-guoras.</x>
-          <xt>Den ligger ved veikanten.</xt>
-        </xg>
-
-        <xg>
-          <x>Guođe dan geaidno-gurrii!</x>
-          <xt>Legg den ved veikanten!</xt>
+          <x>Mánná čohkká eatni guoras.</x>
+          <xt>Barnet sitter ved siden av mor.</xt>
         </xg>
       </tg>
     </mg>
@@ -1803,7 +1726,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="po">guovdu</l>
+      <l pos="pr">guovdu</l>
     </lg>
 
     <mg>
@@ -1829,13 +1752,6 @@
       <tg>
         <t pos="p">nær</t>
 
-        <xg>
-          <x>Álttás lea válljen bargat, go de lea nu lahka Guovdageainnu go
-          vejolaš. </x>
-
-          <xt>Hun har valgt å arbeide i Alta, fordi det er så nær Kautokeino
-          som mulig</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -1915,7 +1831,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="po">maŋŋá</l>
+      <l pos="pr">maŋŋá</l>
     </lg>
 
     <mg>
@@ -1927,12 +1843,38 @@
         </xg>
       </tg>
     </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="po">maŋŋá</l>
+    </lg>
+
     <mg>
       <tg>
-        <t pos="adv">etterpå</t>
+        <t pos="p">etter</t>
         <xg>
-          <x>Son bođii maŋŋá.</x>
-          <xt>Han/Hun kom seinere.</xt>
+          <x>Háliidan diehtit movt sudnuin manai dáhpáhusa maŋŋá.</x>
+          <xt>Jeg vil vite hvordan det gikk med dem i tiden etter hendelsen.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
+
+
+  <e src="nj">
+    <lg>
+      <l pos="pr">maŋŋil</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="p">etter</t>
+
+        <xg>
+          <x>Ođđa bajilčála 4. siiddus maŋŋil 1. teakstaoasi.</x>
+
+          <xt>Ny overskrift på side fire etter 1. paragraf.</xt>
         </xg>
       </tg>
     </mg>
@@ -1949,17 +1891,11 @@
         <t pos="p">etter</t>
 
         <xg>
-          <x>Ođđa bajilčála 4. siiddus maŋŋil 1. teakstaoasi</x>
-
-          <xt>Ny overskrift på side fire etter 1. paragraf</xt>
-        </xg>
-
-        <xg>
           <x>2. máilbmesoađi maŋŋil biliduvvui stuorra oassi Finnmárkku
-          viesuin</x>
+          viesuin.</x>
 
           <xt>Etter 2. verdenskrig ble storparten av husa i Finnmark
-          ødelagt</xt>
+          ødelagt.</xt>
         </xg>
       </tg>
     </mg>
@@ -1975,9 +1911,9 @@
         <t pos="p">forbi</t>
 
         <xg>
-          <x>Ja go oinniime du vázzime meattá, de fertiime das bisánit.</x>
+          <x>Son vujii min viesu meattá.</x>
 
-          <xt>Og da vi så deg gå forbi, måtte vi stoppe der.</xt>
+          <xt>Han/hun kjørte forbi huset vårt.</xt>
         </xg>
       </tg>
     </mg>
@@ -1985,7 +1921,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="po">miehtá</l>
+      <l pos="pr">miehtá</l>
     </lg>
 
     <mg>
@@ -2044,7 +1980,7 @@
         <xg>
           <x>dan njeaigga</x>
 
-          <xt>mot den (det) ( njeaiga)</xt>
+          <xt>mot den/det</xt>
         </xg>
       </tg>
     </mg>
@@ -2052,7 +1988,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="po">ovdal</l>
+      <l pos="pr">ovdal</l>
     </lg>
 
     <mg>
@@ -2109,7 +2045,7 @@
       <tg>
         <t pos="p">over</t>
         <xg>
-          <x>Váccán geainnu rastá</x>
+          <x>Váccán geainnu rastá.</x>
 
           <xt>Jeg går over veien.</xt>
 	</xg>
@@ -2130,9 +2066,7 @@
 
     <mg>
       <tg>
-        <t pos="x">inne</t>
-
-        <t pos="x">innenfra</t>
+        <t pos="x">inne i</t>
         <xg>
           <x>Giissa siste leat riskkut.</x>
 
@@ -2205,9 +2139,9 @@
         <t pos="p">mot</t>
 
         <xg>
-          <x>seainni vuostá</x>
+          <x>Son ceggii sabehiid seainni vuostá.</x>
 
-          <xt>mot veggen</xt>
+          <xt>Han stilte skiene mot veggen.</xt>
         </xg>
       </tg>
     </mg>
@@ -2289,53 +2223,9 @@
         <t pos="p">uten</t>
 
         <xg>
-          <x>ruđa haga</x>
+          <x>Ale vuolgge ruđa haga!</x>
 
-          <xt>uten penger</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="po">maŋá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">bak</t>
-
-        <xg>
-          <x>maŋábealde</x>
-
-          <xt>på baksiden</xt>
-        </xg>
-
-        <xg>
-          <x>maŋágeahčen</x>
-
-          <xt>bakpå</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">maŋŋe</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">bak</t>
-
-        <t pos="p">etter</t>
-
-        <xg>
-          <x>maŋŋejuolggit</x>
-
-          <xt>bakbeina</xt>
+          <xt>Ikke dra uten penger!</xt>
         </xg>
       </tg>
     </mg>
@@ -2377,12 +2267,6 @@
         <t pos="p">i møte</t>
 
         <xg>
-          <x>ovddalgihtii</x>
-
-          <xt>på forhånd</xt>
-        </xg>
-
-        <xg>
           <x>Son bođii mu ovddal.</x>
 
           <xt>Hun kom meg i møte.</xt>
@@ -2411,7 +2295,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pr">badjel</l>
+      <l pos="po">badjel</l>
     </lg>
 
     <mg>
@@ -2419,10 +2303,9 @@
         <t pos="p">over</t>
 
         <xg>
-          <x>Maŋŋil go badjel 20 jagi lea orron máddin, de máhccá
-          ruovttoluotta.</x>
+          <x>Rohttejin ránu oaivvi 'badjel' vai oaččun nahkáriid.</x>
 
-          <xt>Etter å ha bodd over 20 år sørpå, vender han hjem</xt>
+          <xt>Jeg dro pleddet over hodet for å få sove.</xt>
         </xg>
       </tg>
     </mg>
@@ -2436,24 +2319,6 @@
     <mg>
       <tg>
         <t pos="p">unntatt</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">gaskal</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">mellom</t>
-
-        <xg>
-          <x>gaskal Guovdageainnu ja Kárašjoga</x>
-
-          <xt>mellom Kautokeino og Karasjok</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -2518,20 +2383,6 @@
 
           <xt>midt på dagen</xt>
         </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">guovdu</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">midt på</t>
-
-        <t pos="p">midt i</t>
       </tg>
     </mg>
   </e>
