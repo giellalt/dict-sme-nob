@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD smenob//SE" "../scripts/smenob.dtd">
+<r>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n">beassi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="f">never</t>
+            <xg>
+               <x>Mun gáikon beassi muoras cahkkehahkan.</x>
+               <xt>Jeg flerret never av treet til opptenning.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n">rišša</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">svovel</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">fyrstikker</t>
+            <xg>
+               <x>Bárdni cahkkehii buot riššaid oktanis.</x>
+               <xt>Gutten tente på alle fystikkene samtidig.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped">
+      <lg>
+         <l pos="n">gássa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="f">kasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hálla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="S">hall</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n">hárri</l>
+         <lc>hárrit</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">harr</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped">
+      <lg>
+         <l pos="n">klássa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">klasse</t>
+         </tg>
+      </mg>
+   </e>
+</r>
