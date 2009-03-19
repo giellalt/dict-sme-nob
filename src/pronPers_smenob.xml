@@ -164,7 +164,7 @@
             <analysis ms="Pron_Pers_Sg3_Com">
                <wordform>dainna</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg3_Ess">
+            <analysis ms="Pron_Pers_Ess">
                <wordform>danin</wordform>
             </analysis>
          </mini_paradigm>
@@ -414,7 +414,7 @@
             <analysis ms="Pron_Pers_Pl3_Com">
                <wordform>daiguin</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Ess">
+            <analysis ms="Pron_Pers_Ess">
                <wordform>danin</wordform>
             </analysis>
          </mini_paradigm>
@@ -699,7 +699,7 @@
       <lg>
          <l pos="pron">danin</l>
          <lemma_ref>dat</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Ess</analysis>
+         <analysis>Pron_Pers_Ess</analysis>
       </lg>
       <mg>
          <tg>
@@ -1146,18 +1146,6 @@
       <mg>
          <tg>
             <t pos="pron">med dem</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">danin</l>
-         <lemma_ref>dat</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som dem</t>
          </tg>
       </mg>
    </e>
