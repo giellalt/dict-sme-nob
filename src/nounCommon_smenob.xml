@@ -1531,8 +1531,8 @@
          <tg>
             <t pos="m">høyde</t>
             <xg>
-               <x>allodat lea 2 mehtera</x>
-               <xt>høyden er 2 meter</xt>
+               <x>Allodat lea 2 mehtera.</x>
+               <xt>Høyden er 2 meter.</xt>
             </xg>
          </tg>
       </mg>
@@ -4601,8 +4601,8 @@
          <tg>
             <t pos="m">oversiden</t>
             <xg>
-               <x>dat lea bajábealde</x>
-               <x>dat manai bajábeallai</x>
+               <x>Dat lea bajábealde.</x>
+               <x>Dat manai bajábeallai.</x>
             </xg>
          </tg>
       </mg>
@@ -5127,6 +5127,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">bargit</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -5513,6 +5514,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">bargonjuolggadusat</l>
+      <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -6946,11 +6948,11 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">bealljegohput</l>
+         <l pos="n" illpl="ok">bealljegohppu</l>
       </lg>
       <mg>
          <tg>
-            <t pos="f">øreklokker</t>
+            <t pos="f">øreklokke</t>
          </tg>
       </mg>
    </e>
@@ -8877,6 +8879,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">biepmussálttit</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -9488,16 +9491,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">bihpporat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">pepper</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n" illpl="ok">bihpporruohtas</l>
       </lg>
       <mg>
@@ -10094,16 +10087,6 @@
       <mg>
          <tg>
             <t pos="n">brystben hos fugl</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="n" illpl="ok">biktasat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t nr="pl" pos="n">klær</t>
          </tg>
       </mg>
    </e>
@@ -11489,8 +11472,8 @@
             <t pos="f">jakt</t>
             <t pos="n">fiske</t>
             <xg>
-               <x>son lea bivddus</x>
-               <xt>han (hun) er på jakt (fiske)</xt>
+               <x>Son lea bivddus.</x>
+               <xt>Han/hun er på jakt/fiske.</xt>
             </xg>
          </tg>
       </mg>
@@ -11507,7 +11490,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">bivgejáfut</l>
+         <l pos="n" illpl="ok">bivgejáffu</l>
       </lg>
       <mg>
          <tg>
@@ -11599,6 +11582,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">bivttasheŋgenroahkit</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -12277,8 +12261,8 @@
          <tg>
             <t pos="m">skamplett</t>
             <xg>
-               <x>son lea midjiide boalgan</x>
-               <xt>han (hun) er til skam for oss</xt>
+               <x>Son lea midjiide boalgan.</x>
+               <xt>Han/hun er til skam for oss.</xt>
             </xg>
          </tg>
       </mg>
@@ -12995,6 +12979,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">boazoduovdagat</l>
+		<lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -13065,6 +13050,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">boazoguohtumat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -13845,8 +13831,8 @@
          <tg>
             <t pos="m">skikkelig kar</t>
             <xg>
-               <x>dat lea beanta bojá</x>
-               <xt>han er litt av en kar</xt>
+               <x>Dat lea beanta bojá.</x>
+               <xt>Han er litt av en kar.</xt>
             </xg>
          </tg>
       </mg>
@@ -14055,7 +14041,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">boradanneavvut</l>
+         <l pos="n" illpl="ok">boradanneavvu</l>
       </lg>
       <mg>
          <tg>
@@ -15631,7 +15617,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n" illpl="ok">bulvarat</l>
+         <l pos="n" illpl="ok">bulvvar</l>
          <lc>(bulvvar)</lc>
       </lg>
       <mg>
@@ -16385,7 +16371,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">buollinčáskadanreaiddut</l>
+         <l pos="n" illpl="ok">buollinčáskadanreaidu</l>
       </lg>
       <mg>
          <tg>
@@ -17042,7 +17028,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">buvrorisenat</l>
+         <l pos="n" illpl="ok">buvrorisen</l>
       </lg>
       <mg>
          <tg>
@@ -17320,7 +17306,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">buđetjáfut</l>
+         <l pos="n" illpl="ok">buđetjáffu</l>
       </lg>
       <mg>
          <tg>
@@ -17968,8 +17954,8 @@
          <tg>
             <t pos="m">tvang</t>
             <xg>
-               <x>dus lea bággu</x>
-               <xt>du er nødt</xt>
+               <x>Dus lea bággu dan dahkat.</x>
+               <xt>Du er nødt til å gjøre det.</xt>
             </xg>
          </tg>
       </mg>
@@ -20264,7 +20250,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">chilibihpporat</l>
+         <l pos="n" illpl="ok">chilibihppor</l>
       </lg>
       <mg>
          <tg>
@@ -21466,16 +21452,29 @@
    <e usage="ped" src="nj">
       <lg>
          <l pos="n" illpl="ok">deadja</l>
-         <lc>deaja</lc>
-         <lc>dedjii</lc>
       </lg>
       <mg>
          <tg>
             <t pos="m">te</t>
-         <xg>
-            <x>deajat</x>
-            <xt>teblader</xt>
-         </xg>
+            <xg>
+               <x>Mun jugan deaja.</x>
+               <xt>Jeg drikker te.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n" illpl="ok">deajat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">ukokt te</t>
+            <t pos="n">teblad</t>
+            <xg>
+               <x>Mun lasihan deajaid čáhcái.</x>
+               <xt>Jeg tilsetter te til vannet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21659,8 +21658,8 @@
             <t pos="m">dis</t>
             <t pos="f">disig luft</t>
             <xg>
-               <x>deamádat lea dálvet</x>
-               <xt>det er dis på vinteren</xt>
+               <x>Deamádat lea dálvet.</x>
+               <xt>Det er dis på vinteren.</xt>
             </xg>
          </tg>
       </mg>
@@ -22769,6 +22768,15 @@
             <t pos="m">viten</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="m">informasjon</t>
+            <xg>
+               <x>Mun ozan dieđuid Sámedikki birra.</x>
+               <xt>Jeg leter etter informasjon om Sámetinget.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -23086,16 +23094,6 @@
       <mg>
          <tg>
             <t pos="m">rapportør</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">dieđut</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">informasjon</t>
          </tg>
       </mg>
    </e>
@@ -23597,8 +23595,8 @@
             <t pos="n">ur</t>
             <t pos="f">klokke</t>
             <xg>
-               <x>ollu lea diibmu</x>
-               <xt>hvor mye (hva) er klokka</xt>
+               <x>Ollu lea diibmu?</x>
+               <xt>Hvor mye er klokka?</xt>
             </xg>
          </tg>
       </mg>
@@ -23882,8 +23880,8 @@
             <t pos="n">forhold</t>
             <t pos="m">tilstand</t>
             <xg>
-               <x>mus ii leat dilli</x>
-               <xt>jeg har ikke tid</xt>
+               <x>Mus ii leat dilli.</x>
+               <xt>Jeg har ikke tid.</xt>
             </xg>
          </tg>
       </mg>
@@ -28158,7 +28156,7 @@
             <t pos="m">ergelse</t>
             <xg>
                <x>Son lea duskkis.</x>
-               <xt>Han (hun) er sur, gretten.</xt>
+               <xt>Han/hun er sur, gretten.</xt>
             </xg>
          </tg>
       </mg>
@@ -29163,6 +29161,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">dálveguohtumat</l>
+		<lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -29363,6 +29362,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">dárbašat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -33412,7 +33412,7 @@
             <t pos="adv">meningsløshet</t>
             <xg>
                <x>Lei čielgasit oaidnimis, ahte juoga lei mannan endorii.</x>
-               <xt>Det var åpenbart at noe hadde gått helt galt</xt>
+               <xt>Det var åpenbart at noe hadde gått helt galt.</xt>
             </xg>
          </tg>
       </mg>
@@ -38933,6 +38933,11 @@
             <t pos="x">midt på dagen</t>
          </tg>
       </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n" illpl="ok">gaskabeaivvit</l>
+      </lg>
       <mg>
          <tg>
             <t pos="m">middag</t>
@@ -43411,6 +43416,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">gilvovuodjimat</l>
+	<lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -44197,6 +44203,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">giđđaguohtumat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -44370,7 +44377,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">goahcanluottat</l>
+         <l pos="n" illpl="ok">goahcanluodda</l>
       </lg>
       <mg>
          <tg>
@@ -45679,16 +45686,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">golgosat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">væsker</t>
-         </tg>
-      </mg>
-   </e>
    <e src="nj">
       <lg>
          <l pos="n" illpl="ok">golka</l>
@@ -45834,11 +45831,11 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">gollosajit</l>
+         <l pos="n" illpl="ok">gollosadji</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">kostnadssteder</t>
+            <t pos="n">kostnadssted</t>
          </tg>
       </mg>
    </e>
@@ -48097,6 +48094,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">guohtumat</l>
+		<lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -50017,7 +50015,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">guođohanvierut</l>
+         <l pos="n" illpl="ok">guođohanvierru</l>
       </lg>
       <mg>
          <tg>
@@ -50850,11 +50848,16 @@
          <tg>
             <t pos="m">kaffe</t>
             <xg>
-               <x>mun jugan gáfe</x>
-               <xt>jeg drikker kaffe</xt>
+               <x>Mun jugan gáfe.</x>
+               <xt>Jeg drikker kaffe.</xt>
             </xg>
          </tg>
       </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n" illpl="ok">gáfet</l>
+      </lg>
       <mg>
          <tg>
             <t pos="m">kaffebønner</t>
@@ -50927,7 +50930,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">gáhkkenbulvarat</l>
+         <l pos="n" illpl="ok">gáhkkenbulvvar</l>
       </lg>
       <mg>
          <tg>
@@ -53308,6 +53311,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">haddehálbumat</l>
+	<lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -56915,7 +56919,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">hávvarjáfut</l>
+         <l pos="n" illpl="ok">hávvarjáffu</l>
       </lg>
       <mg>
          <tg>
@@ -56925,7 +56929,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">hávvarrievnnat</l>
+         <l pos="n" illpl="ok">hávvarriedvna</l>
       </lg>
       <mg>
          <tg>
@@ -58973,7 +58977,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">ivdnepulvarat</l>
+         <l pos="n" illpl="ok">ivdnepulvvar</l>
       </lg>
       <mg>
          <tg>
@@ -60687,6 +60691,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">johtinvierut</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -63004,7 +63009,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">jáddadanbulvarat</l>
+         <l pos="n" illpl="ok">jáddadanbulvvar</l>
       </lg>
       <mg>
          <tg>
@@ -63024,7 +63029,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">jáddadanneavvut</l>
+         <l pos="n" illpl="ok">jáddadanneavvu</l>
       </lg>
       <mg>
          <tg>
@@ -63114,16 +63119,6 @@
       <mg>
          <tg>
             <t pos="n">mel</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">jáfut</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">mel</t>
          </tg>
       </mg>
    </e>
@@ -63503,7 +63498,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">kajennebihpporat</l>
+         <l pos="n" illpl="ok">kajennebihppor</l>
       </lg>
       <mg>
          <tg>
@@ -67383,18 +67378,23 @@
          <tg>
             <t pos="m">kaffe</t>
             <xg>
-               <x>mun jugan káfe</x>
-               <xt>jeg drikker kaffe</xt>
+               <x>Mun jugan káfe.</x>
+               <xt>Jeg drikker kaffe.</xt>
             </xg>
          </tg>
       </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n" illpl="ok">káfet</l>
+      </lg>
       <mg>
          <tg>
             <t pos="m">ukokt kaffe</t>
             <t pos="m">kaffebønner</t>
             <xg>
-               <x>mun lasihan káfiid čáhcái</x>
-               <xt>jeg tilsetter kaffe til vannet</xt>
+               <x>Mun lasihan káfiid čáhcái.</x>
+               <xt>Jeg tilsetter kaffe til vannet.</xt>
             </xg>
          </tg>
       </mg>
@@ -67444,7 +67444,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">kánelat</l>
+         <l pos="n" illpl="ok">kánel</l>
       </lg>
       <mg>
          <tg>
@@ -68467,7 +68467,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">lastamáissat</l>
+         <l pos="n" illpl="ok">lastamáisa</l>
       </lg>
       <mg>
          <tg>
@@ -68976,6 +68976,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">leaipput</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -69717,7 +69718,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">liepmabulvarat</l>
+         <l pos="n" illpl="ok">liepmabulvvar</l>
       </lg>
       <mg>
          <tg>
@@ -70742,6 +70743,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">liigeávdnasat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -74652,6 +74654,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">lágat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -74958,6 +74961,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">láhkamearrádusat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -76418,20 +76422,6 @@
       </lg>
       <mg>
          <tg>
-            <t pos="m">sanger</t>
-            <t pos="m">vokalist</t>
-            <xg>
-               <x>Oktiibuot logi juoigi ja guhtta lávlu leat lávddi alde beassášlávvordaga.</x>
-               <xt>Tilsammen ti joikere og seks sangere er på scenen påskeaften.</xt>
-            </xg>
-            <xg>
-               <x>Mii ozaimet doarjaga doallat kurssa juigiide ja lávluide.</x>
-               <xt>Vi søkte om penger for at holde kurs for joikere og sangere.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="m">sang</t>
             <xg>
                <x>Mii eat leat hárjehallan dán lávllu.</x>
@@ -76680,7 +76670,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">lášmmohallanreaiddut</l>
+         <l pos="n" illpl="ok">lášmmohallanreaidu</l>
       </lg>
       <mg>
          <tg>
@@ -82573,6 +82563,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">muohtovuoidasat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -82622,10 +82613,16 @@
       <mg>
          <tg>
             <t pos="n">kinn</t>
-            <xg>
-               <x>muođut</x>
-               <xt>et ansikt</xt>
-            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n" illpl="ok">muođut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ansikt</t>
          </tg>
       </mg>
    </e>
@@ -82666,6 +82663,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">muorat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -82936,8 +82934,8 @@
          <tg>
             <t pos="n">tantebarn</t>
             <xg>
-               <x>muoŧŧal lea dat geasa lea muoŧŧá</x>
-               <xt>muoŧŧal er den som en er moster til</xt>
+               <x>Muoŧŧal lea dat geasa lea muoŧŧá.</x>
+               <xt>Muoŧŧal er den som en er moster til.</xt>
             </xg>
          </tg>
       </mg>
@@ -83675,7 +83673,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">máisajáfut</l>
+         <l pos="n" illpl="ok">máisajáffu</l>
       </lg>
       <mg>
          <tg>
@@ -83695,7 +83693,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">máisarievnnat</l>
+         <l pos="n" illpl="ok">máisarievdna</l>
       </lg>
       <mg>
          <tg>
@@ -83907,7 +83905,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">málesrisenat</l>
+         <l pos="n" illpl="ok">málesrisen</l>
       </lg>
       <mg>
          <tg>
@@ -83954,8 +83952,8 @@
          <tg>
             <t pos="m">middag</t>
             <xg>
-               <x>mii borrat mállásiid</x>
-               <xt>vi spiser middag</xt>
+               <x>Mii borrat mállásiid.</x>
+               <xt>Vi spiser middag.</xt>
             </xg>
          </tg>
       </mg>
@@ -86318,6 +86316,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">nisugordnečuolmmat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -87419,16 +87418,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">njuoratmánát</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">spebarn</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n" illpl="ok">njuorjjubuoidi</l>
       </lg>
       <mg>
@@ -87855,16 +87844,6 @@
       <mg>
          <tg>
             <t pos="n">slikkeri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">njálgát</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">godter</t>
          </tg>
       </mg>
    </e>
@@ -88741,8 +88720,8 @@
          <tg>
             <t pos="m">forkjølelse</t>
          <xg>
-            <x>mun lean nurvos</x>
-            <xt>jeg er forkjølt</xt>
+            <x>Mun lean nurvos.</x>
+            <xt>Jeg er forkjølt.</xt>
          </xg>
          </tg>
       </mg>
@@ -90867,6 +90846,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">oalgedeahkit</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -91949,7 +91929,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">obbabihpporat</l>
+         <l pos="n" illpl="ok">obbabihppor</l>
       </lg>
       <mg>
          <tg>
@@ -92562,6 +92542,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">oktasašlanjat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -94317,6 +94298,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">ortnetnjuolggadusat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -97520,7 +97502,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">pinseahtat</l>
+         <l pos="n" illpl="ok">pinseahtta</l>
       </lg>
       <mg>
          <tg>
@@ -102940,7 +102922,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">rievnnat</l>
+         <l pos="n" illpl="ok">rievdna</l>
       </lg>
       <mg>
          <tg>
@@ -103513,7 +103495,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">risenjáfut</l>
+         <l pos="n" illpl="ok">risenjáfu</l>
       </lg>
       <mg>
          <tg>
@@ -103533,7 +103515,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">risenrievnnat</l>
+         <l pos="n" illpl="ok">risenrievdna</l>
       </lg>
       <mg>
          <tg>
@@ -105653,7 +105635,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">ruonábihpporat</l>
+         <l pos="n" illpl="ok">ruonábihppor</l>
       </lg>
       <mg>
          <tg>
@@ -106260,6 +106242,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">ruskkat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -106482,6 +106465,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">ruvttut</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -108821,7 +108805,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">sahendimbarat</l>
+         <l pos="n" illpl="ok">sahendimbbar</l>
       </lg>
       <mg>
          <tg>
@@ -108896,7 +108880,7 @@
                <x>Dat lea sadjosis.</x>
                <xt>Den er på plass.</xt>
                <x>Bija dan sadjosii!</x>
-               <xt>DSett den på plass!</xt>
+               <xt>Sett den på plass!</xt>
             </xg>
          </tg>
       </mg>
@@ -109096,7 +109080,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">saláhttaneavvut</l>
+         <l pos="n" illpl="ok">saláhttaneavvu</l>
       </lg>
       <mg>
          <tg>
@@ -110003,6 +109987,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">seaŋgalanjat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -110307,7 +110292,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">semuljarievnnat</l>
+         <l pos="n" illpl="ok">semuljarievdna</l>
       </lg>
       <mg>
          <tg>
@@ -110997,6 +110982,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">sierralágat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -111040,6 +111026,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">sierranahttinlanjat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -111050,6 +111037,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">sierranahttinseaŋgalanjat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -111362,7 +111350,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">sihkkarastinreaiddut</l>
+         <l pos="n" illpl="ok">sihkkarastinreaidu</l>
       </lg>
       <mg>
          <tg>
@@ -111403,16 +111391,6 @@
    <e usage="ped">
       <lg>
          <l pos="n" illpl="ok">sihkkel</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">sykkel</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">sihkkelat</l>
       </lg>
       <mg>
          <tg>
@@ -112817,7 +112795,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">skabusrisenat</l>
+         <l pos="n" illpl="ok">skabusrisen</l>
       </lg>
       <mg>
          <tg>
@@ -113697,16 +113675,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">skuovat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">sko</t>
-         </tg>
-      </mg>
-   </e>
    <e usage="ped" src="nj">
       <lg>
          <l pos="n" illpl="ok">skuovva</l>
@@ -113803,6 +113771,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">skuvlafáddarat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -114633,7 +114602,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">smávvaviesut</l>
+         <l pos="n" illpl="ok">smávvaviessu</l>
       </lg>
       <mg>
          <tg>
@@ -118491,6 +118460,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">stáhtadivatnjuolggadusat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -119118,16 +119088,6 @@
       <mg>
          <tg>
             <t pos="m">robåt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">suhkosat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="f">huske</t>
          </tg>
       </mg>
    </e>
@@ -119771,11 +119731,11 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok" nr="pl">suolohasat</l>
+         <l pos="n" illpl="ok" nr="pl">suolohas</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="m">øybeboere</t>
+            <t nr="pl" pos="m">øybeboer</t>
          </tg>
       </mg>
    </e>
@@ -119838,10 +119798,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="x">XXXX</t>
+            <t pos="x">tverrstang over ildsted</t>
             <xg>
-               <x>doaresmuorra árrana bajil goađis dahje lávus</x>
-               <xt>tverrstang over ildstedet i telt eller gamme</xt>
+               <x>Suomuorra lea doaresmuorra árrana bajil goađis dahje lávus.</x>
+               <xt>Suomuorra er en tverrstang over ildstedet i telt eller gamme.</xt>
             </xg>
          </tg>
       </mg>
@@ -121234,7 +121194,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">ságurievnnat</l>
+         <l pos="n" illpl="ok">ságurievdna</l>
       </lg>
       <mg>
          <tg>
@@ -121285,6 +121245,17 @@
                <x>ságat</x>
                <xt>nyheter</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n" illpl="ok">ságat</l>
+         <lc>ságat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">nyheter</t>
          </tg>
       </mg>
    </e>
@@ -121844,16 +121815,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">sálttit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">salt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n" illpl="ok">sálvia</l>
       </lg>
       <mg>
@@ -122212,7 +122173,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">sáppahat</l>
+         <l pos="n" illpl="ok">sáppat</l>
       </lg>
       <mg>
          <tg>
@@ -123103,20 +123064,25 @@
       </lg>
       <mg>
          <tg>
-            <t pos="m">kokt te</t>
+            <t pos="m">te</t>
             <xg>
-               <x>mun jugan teaja</x>
-               <xt>jeg drikker te</xt>
+               <x>Mun jugan teaja.</x>
+               <xt>Jeg drikker te.</xt>
             </xg>
          </tg>
       </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n" illpl="ok">teajat</l>
+      </lg>
       <mg>
          <tg>
             <t pos="m">ukokt te</t>
             <t pos="n">teblad</t>
             <xg>
-               <x>mun lasihan teajaid čáhcái</x>
-               <xt>jeg tilsetter te til vannet</xt>
+               <x>Mun lasihan teajaid čáhcái.</x>
+               <xt>Jeg tilsetter te til vannet.</xt>
             </xg>
          </tg>
       </mg>
@@ -126145,8 +126111,8 @@
          <tg>
             <t pos="S">XXXX</t>
             <xg>
-               <x>lávži lea valahis</x>
-               <xt>lassoen henger over</xt>
+               <x>Lávži lea valahis.</x>
+               <xt>Lassoen henger på skrå over brystet.</xt>
             </xg>
          </tg>
       </mg>
@@ -126254,7 +126220,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">valmuesiepmanat</l>
+         <l pos="n" illpl="ok">valmuesiepman</l>
       </lg>
       <mg>
          <tg>
@@ -126287,6 +126253,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">valáštallamat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -127007,6 +126974,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">veajehat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -129011,7 +128979,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">vilgesbihpporat</l>
+         <l pos="n" illpl="ok">vilgesbihppor</l>
       </lg>
       <mg>
          <tg>
@@ -129893,7 +129861,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">vuodjinjuogut</l>
+         <l pos="n" illpl="ok">vuodjinjuohku</l>
       </lg>
       <mg>
          <tg>
@@ -131570,6 +131538,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">vuollástanlágat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -132060,7 +132029,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="m">livmor</t>
+            <t pos="m">livmor på dyr</t>
             <xg>
                <x>vuosat</x>
                <xt>en etterbyrd</xt>
@@ -133376,6 +133345,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">vuođđorusttegat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -133711,6 +133681,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">váhkát</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -135256,8 +135227,8 @@
          <tg>
             <t pos="f">forsiktighet</t>
             <xg>
-               <x>ane das vára</x>
-               <xt>vær forsiktig med det</xt>
+               <x>Ane das vára!</x>
+               <xt>Vær forsiktig med det!</xt>
             </xg>
          </tg>
       </mg>
@@ -135718,8 +135689,8 @@
          <tg>
             <t pos="m">mangel</t>
             <xg>
-               <x>lea vátni borramuš</x>
-               <xt>det er lite mat</xt>
+               <x>Doppe lea vátni borramuš.</x>
+               <xt>Der er det er lite mat.</xt>
             </xg>
          </tg>
       </mg>
@@ -140139,6 +140110,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">čakčaguohtumat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -141244,6 +141216,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">čiekčangilvaleamit</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -142387,7 +142360,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">čoarvesálttit</l>
+         <l pos="n" illpl="ok">čoarvesálti</l>
       </lg>
       <mg>
          <tg>
@@ -143658,6 +143631,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">čuoldimat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -144878,7 +144852,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">čáhppesbihpporat</l>
+         <l pos="n" illpl="ok">čáhppesbihppor</l>
       </lg>
       <mg>
          <tg>
@@ -145169,6 +145143,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">čállinbáhpárat</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -145484,6 +145459,7 @@
    <e>
       <lg>
          <l pos="n" illpl="ok">čáskadeaddjit</l>
+         <lc>plural</lc>
       </lg>
       <mg>
          <tg>
@@ -146840,9 +146816,9 @@
          <tg>
             <t pos="n">kvitt skjerf</t>
             <xg>
-               <x>irggis lei šoalkaliidni go náitalii</x>
-               <xt>brudgommen hadde et tradisjonelt kvitt skjerf da han giftet
-          seg</xt>
+               <x>Irggis lei šoalkaliidni go náitalii.</x>
+               <xt>Brudgommen hadde et tradisjonelt kvitt skjerf da han giftet
+          seg.</xt>
             </xg>
          </tg>
       </mg>
