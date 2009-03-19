@@ -4,7 +4,7 @@
 <r>
   <e src="nj">
     <lg>
-      <l pos="pron" type="dem">dat</l>
+      <l pos="pron" type="dem" nr="sg">dat</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Sg_Acc">
@@ -33,7 +33,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">dát</l>
+      <l pos="pron" type="dem" nr="sg">dát</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Sg_Acc">
@@ -68,7 +68,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">diet</l>
+      <l pos="pron" type="dem" nr="sg">diet</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Sg_Acc">
@@ -108,7 +108,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">duot</l>
+      <l pos="pron" type="dem" nr="sg">duot</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Sg_Acc">
@@ -143,7 +143,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">dot</l>
+      <l pos="pron" type="dem" nr="sg">dot</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Sg_Acc">
@@ -178,7 +178,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron" type="dem">dat</l>
+      <l pos="pron" type="dem" nr="pl">dat</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Pl_Acc">
@@ -213,7 +213,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">dát</l>
+      <l pos="pron" type="dem" nr="pl">dát</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Pl_Acc">
@@ -248,7 +248,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">diet</l>
+      <l pos="pron" type="dem" nr="pl">diet</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Pl_Acc">
@@ -284,7 +284,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">duot</l>
+      <l pos="pron" type="dem" nr="pl">duot</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Pl_Acc">
@@ -319,7 +319,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">dot</l>
+      <l pos="pron" type="dem" nr="pl">dot</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Pl_Acc">
@@ -355,7 +355,7 @@
 <!-- example for flected forms -->
    <e>
       <lg>
-         <l pos="pron">dan</l>
+         <l pos="pron" type="dem">dan</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Dem_Sg_Gen</analysis>
          <analysis>Pron_Dem_Sg_Acc</analysis>
@@ -372,7 +372,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dainna</l>
+         <l pos="pron" type="dem">dainna</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -388,7 +388,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">danin</l>
+         <l pos="pron" type="dem">danin</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Dem_Ess</analysis>
       </lg>
@@ -405,7 +405,7 @@
 
    <e>
       <lg>
-         <l pos="pron">dán</l>
+         <l pos="pron" type="dem">dán</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Sg_Gen</analysis>
          <analysis>Pron_Dem_Sg_Acc</analysis>
@@ -422,7 +422,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dása</l>
+         <l pos="pron" type="dem">dása</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
@@ -438,7 +438,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dás</l>
+         <l pos="pron" type="dem">dás</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
@@ -454,7 +454,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dáinna</l>
+         <l pos="pron" type="dem">dáinna</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -470,7 +470,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dánin</l>
+         <l pos="pron" type="dem">dánin</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Ess</analysis>
       </lg>
@@ -487,7 +487,7 @@
 
    <e>
       <lg>
-         <l pos="pron">dien</l>
+         <l pos="pron" type="dem">dien</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Sg_Gen</analysis>
          <analysis>Pron_Dem_Sg_Acc</analysis>
@@ -505,7 +505,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">diesa</l>
+         <l pos="pron" type="dem">diesa</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
@@ -522,7 +522,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dies</l>
+         <l pos="pron" type="dem">dies</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
@@ -539,7 +539,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dieinna</l>
+         <l pos="pron" type="dem">dieinna</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -556,7 +556,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dienin</l>
+         <l pos="pron" type="dem">dienin</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Ess</analysis>
       </lg>
@@ -573,7 +573,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duon</l>
+         <l pos="pron" type="dem">duon</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Sg_Gen</analysis>
          <analysis>Pron_Dem_Sg_Acc</analysis>
@@ -590,7 +590,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duosa</l>
+         <l pos="pron" type="dem">duosa</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
@@ -606,7 +606,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duos</l>
+         <l pos="pron" type="dem">duos</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
@@ -622,7 +622,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duoinna</l>
+         <l pos="pron" type="dem">duoinna</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -638,7 +638,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duonin</l>
+         <l pos="pron" type="dem">duonin</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Ess</analysis>
       </lg>
@@ -654,7 +654,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">don</l>
+         <l pos="pron" type="dem">don</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Sg_Gen</analysis>
          <analysis>Pron_Dem_Sg_Acc</analysis>
@@ -671,7 +671,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dosa</l>
+         <l pos="pron" type="dem">dosa</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
@@ -687,7 +687,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dos</l>
+         <l pos="pron" type="dem">dos</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
@@ -703,7 +703,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">doinna</l>
+         <l pos="pron" type="dem">doinna</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -715,7 +715,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">donin</l>
+         <l pos="pron" type="dem">donin</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Ess</analysis>
       </lg>
@@ -731,7 +731,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">daid</l>
+         <l pos="pron" type="dem">daid</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
          <analysis>Pron_Dem_Pl_Acc</analysis>
@@ -749,7 +749,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">daidda</l>
+         <l pos="pron" type="dem">daidda</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
@@ -765,7 +765,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dain</l>
+         <l pos="pron" type="dem">dain</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
@@ -781,7 +781,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">daiguin</l>
+         <l pos="pron" type="dem">daiguin</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
@@ -798,7 +798,7 @@
 
    <e>
       <lg>
-         <l pos="pron">dáid</l>
+         <l pos="pron" type="dem">dáid</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
          <analysis>Pron_Dem_Pl_Acc</analysis>
@@ -816,7 +816,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dáidda</l>
+         <l pos="pron" type="dem">dáidda</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
@@ -832,7 +832,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dáin</l>
+         <l pos="pron" type="dem">dáin</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
@@ -848,7 +848,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dáiguin</l>
+         <l pos="pron" type="dem">dáiguin</l>
          <lemma_ref>dát</lemma_ref>
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
@@ -865,7 +865,7 @@
 
    <e>
       <lg>
-         <l pos="pron">dieid</l>
+         <l pos="pron" type="dem">dieid</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
          <analysis>Pron_Dem_Pl_Acc</analysis>
@@ -883,7 +883,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dieidda</l>
+         <l pos="pron" type="dem">dieidda</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
@@ -900,7 +900,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">diein</l>
+         <l pos="pron" type="dem">diein</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
@@ -917,7 +917,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dieiguin</l>
+         <l pos="pron" type="dem">dieiguin</l>
          <lemma_ref>diet</lemma_ref>
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
@@ -934,7 +934,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duoid</l>
+         <l pos="pron" type="dem">duoid</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
          <analysis>Pron_Dem_Pl_Acc</analysis>
@@ -952,7 +952,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duoidda</l>
+         <l pos="pron" type="dem">duoidda</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
@@ -968,7 +968,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duoin</l>
+         <l pos="pron" type="dem">duoin</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
@@ -984,7 +984,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duoiguin</l>
+         <l pos="pron" type="dem">duoiguin</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
@@ -1000,7 +1000,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">doid</l>
+         <l pos="pron" type="dem">doid</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
          <analysis>Pron_Dem_Pl_Acc</analysis>
@@ -1018,7 +1018,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">doidda</l>
+         <l pos="pron" type="dem">doidda</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
@@ -1034,7 +1034,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">doin</l>
+         <l pos="pron" type="dem">doin</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
@@ -1050,7 +1050,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">doiguin</l>
+         <l pos="pron" type="dem">doiguin</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
