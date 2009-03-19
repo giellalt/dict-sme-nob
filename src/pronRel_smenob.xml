@@ -4,7 +4,7 @@
 <r>
   <e src="nj">
     <lg>
-      <l pos="pron" type="pers">mii</l>
+      <l pos="pron" type="rel">mii</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
@@ -43,7 +43,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">gii</l>
+      <l pos="pron" type="rel">gii</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
@@ -82,7 +82,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">mat</l>
+      <l pos="pron" type="rel">mat</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc">
@@ -121,7 +121,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">geat</l>
+      <l pos="pron" type="rel">geat</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc">
@@ -161,7 +161,7 @@
 <!-- example for flected forms -->
    <e>
       <lg>
-         <l pos="pron">maid</l>
+         <l pos="pron" type="rel" nr="sg">maid</l>
          <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
@@ -181,7 +181,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">man</l>
+         <l pos="pron" type="rel">man</l>
          <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
       </lg>
@@ -201,7 +201,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">masa</l>
+         <l pos="pron" type="rel">masa</l>
          <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
@@ -221,7 +221,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">mas</l>
+         <l pos="pron" type="rel">mas</l>
          <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
@@ -241,7 +241,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">mainna</l>
+         <l pos="pron" type="rel">mainna</l>
          <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -261,7 +261,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">manin</l>
+         <l pos="pron" type="rel">manin</l>
          <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
@@ -273,7 +273,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">gean</l>
+         <l pos="pron" type="rel">gean</l>
          <lemma_ref>gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
@@ -303,7 +303,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">geasa</l>
+         <l pos="pron" type="rel">geasa</l>
          <lemma_ref>gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
@@ -323,7 +323,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">geas</l>
+         <l pos="pron" type="rel">geas</l>
          <lemma_ref>gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
@@ -343,7 +343,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">geainna</l>
+         <l pos="pron" type="rel">geainna</l>
          <lemma_ref>gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -363,7 +363,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">geanin</l>
+         <l pos="pron" type="rel">geanin</l>
          <lemma_ref>gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
@@ -376,7 +376,7 @@
 
    <e>
       <lg>
-         <l pos="pron">maid</l>
+         <l pos="pron" type="rel" nr="pl">maid</l>
          <lemma_ref>mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
@@ -397,7 +397,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">maidda</l>
+         <l pos="pron" type="rel">maidda</l>
          <lemma_ref>mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
@@ -417,7 +417,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">main</l>
+         <l pos="pron" type="rel">main</l>
          <lemma_ref>mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -437,7 +437,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">maiguin</l>
+         <l pos="pron" type="rel">maiguin</l>
          <lemma_ref>mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
@@ -459,7 +459,7 @@
 
    <e>
       <lg>
-         <l pos="pron">geaid</l>
+         <l pos="pron" type="rel">geaid</l>
          <lemma_ref>geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
@@ -489,7 +489,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">geaidda</l>
+         <l pos="pron" type="rel">geaidda</l>
          <lemma_ref>geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
@@ -509,7 +509,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">geain</l>
+         <l pos="pron" type="rel">geain</l>
          <lemma_ref>geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -529,7 +529,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">geaiguin</l>
+         <l pos="pron" type="rel">geaiguin</l>
          <lemma_ref>geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
