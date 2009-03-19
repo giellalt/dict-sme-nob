@@ -16,7 +16,7 @@
             <analysis ms="Pron_Dem_Sg_Com">
                <wordform>dainna viesuin</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>danin viessun</wordform>
             </analysis>
          </mini_paradigm>
@@ -51,7 +51,7 @@
             <analysis ms="Pron_Dem_Sg_Com">
                <wordform>dáinna</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>dánin</wordform>
             </analysis>
          </mini_paradigm>
@@ -86,7 +86,7 @@
             <analysis ms="Pron_Dem_Sg_Com">
                <wordform>dieinna</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>dienin</wordform>
             </analysis>
          </mini_paradigm>
@@ -126,7 +126,7 @@
             <analysis ms="Pron_Dem_Sg_Com">
                <wordform>duoinna</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>duonin</wordform>
             </analysis>
          </mini_paradigm>
@@ -161,7 +161,7 @@
             <analysis ms="Pron_Dem_Sg_Com">
                <wordform>doinna</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>donin</wordform>
             </analysis>
          </mini_paradigm>
@@ -196,7 +196,7 @@
             <analysis ms="Pron_Dem_Pl_Com">
                <wordform>daiguin viesuiguin</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>danin viessun</wordform>
             </analysis>
          </mini_paradigm>
@@ -231,7 +231,7 @@
             <analysis ms="Pron_Dem_Pl_Com">
                <wordform>dáiguin</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>dánin</wordform>
             </analysis>
          </mini_paradigm>
@@ -266,7 +266,7 @@
             <analysis ms="Pron_Dem_Pl_Com">
                <wordform>dieiguin</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>dienin</wordform>
             </analysis>
          </mini_paradigm>
@@ -302,7 +302,7 @@
             <analysis ms="Pron_Dem_Pl_Com">
                <wordform>duoiguin</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>duonin</wordform>
             </analysis>
          </mini_paradigm>
@@ -337,7 +337,7 @@
             <analysis ms="Pron_Dem_Pl_Com">
                <wordform>doiguin</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl_Ess">
+            <analysis ms="Pron_Dem_Ess">
                <wordform>donin</wordform>
             </analysis>
          </mini_paradigm>
@@ -390,7 +390,7 @@
       <lg>
          <l pos="pron">danin</l>
          <lemma_ref>dat</lemma_ref>
-         <analysis>Pron_Dem_Sg_Ess</analysis>
+         <analysis>Pron_Dem_Ess</analysis>
       </lg>
       <mg>
          <tg>
@@ -472,7 +472,7 @@
       <lg>
          <l pos="pron">dánin</l>
          <lemma_ref>dát</lemma_ref>
-         <analysis>Pron_Dem_Sg_Ess</analysis>
+         <analysis>Pron_Dem_Ess</analysis>
       </lg>
       <mg>
          <tg>
@@ -558,7 +558,7 @@
       <lg>
          <l pos="pron">dienin</l>
          <lemma_ref>diet</lemma_ref>
-         <analysis>Pron_Dem_Sg_Ess</analysis>
+         <analysis>Pron_Dem_Ess</analysis>
       </lg>
       <mg>
          <tg>
@@ -640,7 +640,7 @@
       <lg>
          <l pos="pron">duonin</l>
          <lemma_ref>duot</lemma_ref>
-         <analysis>Pron_Dem_Sg_Ess</analysis>
+         <analysis>Pron_Dem_Ess</analysis>
       </lg>
       <mg>
          <tg>
@@ -717,7 +717,7 @@
       <lg>
          <l pos="pron">donin</l>
          <lemma_ref>dot</lemma_ref>
-         <analysis>Pron_Dem_Sg_Ess</analysis>
+         <analysis>Pron_Dem_Ess</analysis>
       </lg>
       <mg>
          <tg>
@@ -795,23 +795,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="pron">danin</l>
-         <lemma_ref>dat</lemma_ref>
-         <analysis>Pron_Dem_Pl_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som det</t>
-            <t pos="pron">som den</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-         </tg>
-      </mg>
-   </e>
 
    <e>
       <lg>
@@ -879,23 +862,6 @@
           <xt>Bare med denne maskinen er det mulig å få det riktige resultatet.</xt>
         </xg>
         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dánin</l>
-         <lemma_ref>dát</lemma_ref>
-         <analysis>Pron_Dem_Pl_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som denne</t>
-            <t pos="pron">som dette</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-         </tg>
       </mg>
    </e>
 
@@ -970,23 +936,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dienin</l>
-         <lemma_ref>diet</lemma_ref>
-         <analysis>Pron_Dem_Pl_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som dem (som er nærmere deg)</t>
-            <t pos="pron">som dem (som vi nettopp nevnte)</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">duoid</l>
          <lemma_ref>duot</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
@@ -1053,22 +1002,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">duonin</l>
-         <lemma_ref>duot</lemma_ref>
-         <analysis>Pron_Dem_Pl_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som dem (som er der borte)</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">doid</l>
          <lemma_ref>dot</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
@@ -1127,22 +1060,6 @@
          <tg>
             <t pos="pron">med dem (som er lengst borte)</t>
         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">donin</l>
-         <lemma_ref>dot</lemma_ref>
-         <analysis>Pron_Dem_Pl_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som dem (som er lengst borte)</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-         </tg>
       </mg>
    </e>
 </r>
