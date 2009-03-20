@@ -158,6 +158,130 @@
       </tg>
     </mg>
   </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="rel">goabbá</l>
+         <analysis>Pron_Rel_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>goappá</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>goappá</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>goabbái</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Loc">
+               <wordform>goappás</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>goappáin</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Ess">
+               <wordform>goabbán</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+	<t pos="pron">hvilken av de to</t>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="rel">goappát</l>
+         <analysis>Pron_Rel_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Pl_Acc">
+               <wordform>goappáid</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Gen">
+               <wordform>goappáid</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ill">
+               <wordform>goappáide</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Loc">
+               <wordform>goappáin</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Com">
+               <wordform>goappáiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Ess">
+               <wordform>goabbán</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+	<t pos="pron">hvilken av de to (om flertallsord)</t>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="rel">guhte</l>
+         <analysis>Pron_Rel_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>guđe</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>guđe</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>guhtii</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Loc">
+               <wordform>guđes</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>guđiin</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Ess">
+               <wordform>guhten</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">hvem</t>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="rel">guđet</l>
+         <analysis>Pron_Rel_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Pl_Acc">
+               <wordform>guđiid</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Gen">
+               <wordform>guđiid</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ill">
+               <wordform>guđiide</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Loc">
+               <wordform>guđiin</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Com">
+               <wordform>guđiiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Ess">
+               <wordform>guhten</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+	<t pos="pron">hvem (flertall)</t>
+      </tg>
+    </mg>
+  </e>
 <!-- example for flected forms -->
    <e>
       <lg>
@@ -544,6 +668,232 @@
           <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
           <xt>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</xt>
         </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goappá</l>
+         <lemma_ref>goabbá</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+         <analysis>Pron_Rel_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av de to</t>
+            <t pos="pron">hvilken av de to sin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goabbái</l>
+         <lemma_ref>goabbá</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvilken av de to</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goappás</l>
+         <lemma_ref>goabbá</lemma_ref>
+         <analysis>Pron_Rel_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av de to (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goappáin</l>
+         <lemma_ref>goabbá</lemma_ref>
+         <analysis>Pron_Rel_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hvilken av de to</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goabbán</l>
+         <lemma_ref>goabbá</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som hvilken av de to</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goappáid</l>
+         <lemma_ref>goappát</lemma_ref>
+         <analysis>Pron_Rel_Pl_Gen</analysis>
+         <analysis>Pron_Rel_Pl_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av de to sin (flertall)</t>
+            <t pos="pron">hvilken av de to (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goappáide</l>
+         <lemma_ref>goappát</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvilken av de to (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goappáin</l>
+         <lemma_ref>goappát</lemma_ref>
+         <analysis>Pron_Rel_Pl_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av de to (har) (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">goappáiguin</l>
+         <lemma_ref>goappát</lemma_ref>
+         <analysis>Pron_Rel_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hvilken av de to (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guđe</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+         <analysis>Pron_Rel_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem</t>
+            <t pos="pron">hvem sin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhtii</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guđes</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guđiin</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hvem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhten</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som hvem</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guđiid</l>
+         <lemma_ref>guđet</lemma_ref>
+         <analysis>Pron_Rel_Pl_Gen</analysis>
+         <analysis>Pron_Rel_Pl_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem sin (flertall)</t>
+            <t pos="pron">hvem (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guđiide</l>
+         <lemma_ref>guđet</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvem (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guđiin</l>
+         <lemma_ref>guđet</lemma_ref>
+         <analysis>Pron_Rel_Pl_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem (har) (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guđiiguin</l>
+         <lemma_ref>guđet</lemma_ref>
+         <analysis>Pron_Rel_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hvem (flertall)</t>
          </tg>
       </mg>
    </e>
