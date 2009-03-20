@@ -4,7 +4,7 @@
 <r>
   <e src="nj">
     <lg>
-      <l pos="pron">goabbat</l>
+      <l pos="pron" type="indef">goabbat</l>
     </lg>
     <mg>
       <tg>
@@ -19,7 +19,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">guhtet</l>
+      <l pos="pron" type="indef">guhtet</l>
     </lg>
     <mg>
       <tg>
@@ -52,7 +52,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">ihkinassii</l>
+      <l pos="pron" type="indef">ihkinassii</l>
     </lg>
 
     <mg>
@@ -916,24 +916,6 @@
     <mg>
       <tg>
         <t pos="num">fem</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">guovttá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">to</t>
-
-        <xg>
-          <x>Moai letne guovttá.</x>
-
-          <xt>Vi er bare to.</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -2465,7 +2447,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">ieš</l>
+      <l pos="pron" type="refl">ieš</l>
     </lg>
 
     <mg>
@@ -2476,6 +2458,18 @@
           <x>Mun lean dan ieš dáhkan.</x>
           <xt>Jeg har gjort det sjøl.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="refl">ieža</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="pron">sjøl (om flere)</t>
         <xg>
           <x>Mii leat dan ieža dáhkan.</x>
           <xt>Vi har gjort det sjøl.</xt>
@@ -2486,19 +2480,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">buohkat</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">alle sammen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">buot</l>
+      <l pos="pron" type="indef">buot</l>
     </lg>
 
     <mg>
@@ -2511,7 +2493,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">dakkár</l>
+      <l pos="pron" type="dem">dakkár</l>
       <lc>dakkárat</lc>
     </lg>
 
@@ -2524,7 +2506,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">dákkár</l>
+      <l pos="pron" type="dem">dákkár</l>
     </lg>
 
     <mg>
@@ -2536,7 +2518,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">diekkár</l>
+      <l pos="pron" type="dem">diekkár</l>
 
       <lc>diekkárat</lc>
     </lg>
@@ -2553,7 +2535,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron">eanas</l>
+      <l pos="pron" type="indef">eanas</l>
 
       <lc>eatnasat</lc>
     </lg>
@@ -2571,29 +2553,10 @@
     </mg>
   </e>
 
-  <e src="nj">
-    <lg>
-      <l pos="pron">eará</l>
-
-      <lc>earát</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">annen</t>
-
-        <t pos="x">andre</t>
-
-        <xg>
-          <x>iežá</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
 
   <e src="nj">
     <lg>
-      <l pos="pron">eatnat</l>
+      <l pos="pron" type="indef">eatnat</l>
     </lg>
 
     <mg>
@@ -2605,7 +2568,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">gallát</l>
+      <l pos="pron" type="indef">gallát</l>
     </lg>
 
     <mg>
@@ -2617,7 +2580,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">gallis</l>
+      <l pos="pron" type="indef">gallis</l>
 
       <lc>gallásat</lc>
     </lg>
@@ -2647,113 +2610,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">goabbá</l>
-
-      <lc>goappá</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">hvilken (av de to)</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">goappašagat</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">begge to</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">guhte</l>
-
-      <lc>guđet</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">hvem</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="x">den som</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">guktot</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">begge</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">iežá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="m">annen</t>
-
-        <t pos="n">annet</t>
-
-        <xg>
-          <x>eará</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">juoga</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">noe</t>
-
-        <xg>
-          <x>juoidá</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">juohkehaš</l>
-
-      <lc>-haččat, -hažžii</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="m">hver</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">juohke</l>
+      <l pos="pron" type="indef">juohke</l>
     </lg>
 
     <mg>
@@ -2765,23 +2622,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">juoidá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">noe</t>
-
-        <xg>
-          <x>juoga</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">makkár</l>
+      <l pos="pron" type="interr">makkár</l>
     </lg>
 
     <mg>
@@ -2803,102 +2644,9 @@
     </mg>
   </e>
 
-
   <e src="nj">
     <lg>
-      <l pos="pron">moanat</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">flere</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">muhtin</l>
-
-      <lc>muhtimat</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">en</t>
-
-        <t pos="x">noen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">muhtun</l>
-
-      <lc>muhtumat</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">en</t>
-
-        <t pos="x">noen</t>
-
-        <xg>
-          <x>muhtin</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">nubbi</l>
-
-      <lc>nuppit</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">annen</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="x">ene</t>
-        <xg>
-          <x>Nubbi lea stuoris, nubbi fas unni.</x>
-          <xt>Den ene er stor, den andre er liten.</xt>
-        </xg>
-        <xg>
-          <x>Ja nubbi dáhpáhus leai seammá áiggiid.</x>
-          <xt>Og den andre hendelsen skjedde omtrent til samme tid.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">olus</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">mange personer</t>
-
-        <xg>
-          <x>máŋggas</x>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron">seammá</l>
+      <l pos="pron" type="indef">seammá</l>
     </lg>
 
     <mg>
@@ -2908,19 +2656,4 @@
     </mg>
   </e>
 
-  <e src="nj">
-    <lg>
-      <l pos="pron">soamis</l>
-
-      <lc>soapmásat, soames (olmmoš)</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">noen</t>
-
-        <t pos="m">og annen</t>
-      </tg>
-    </mg>
-  </e>
 </r>
