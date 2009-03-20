@@ -16379,16 +16379,6 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">brannslukkeutstyr</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">buollinčáskadanreaidu</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="n">brannslokningsutstyr</t>
          </tg>
       </mg>
@@ -21593,19 +21583,6 @@
       <mg>
          <tg>
             <t pos="m">møteplass</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="n" illpl="ok">deajat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">teblader</t>
-            <xg>
-               <x>teajat</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -97529,16 +97506,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">pinseahtta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">pinsett</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n" illpl="ok">pinsmearka</l>
       </lg>
       <mg>
@@ -102934,16 +102901,6 @@
       <mg>
          <tg>
             <t pos="n">gryn</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">rievdna</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">gryn</t>
          </tg>
       </mg>
    </e>
@@ -129879,7 +129836,8 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">vuodjinjuohku</l>
+         <l pos="n" illpl="ok">vuodjinjuogut</l>
+		<lc>plural</lc>
       </lg>
       <mg>
          <tg>
