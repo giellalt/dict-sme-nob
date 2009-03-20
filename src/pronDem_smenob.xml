@@ -101,7 +101,7 @@
         </xg>
         <xg>
           <x>Lea lunddolaš ahte diet čoahkkin dollo Álttás.</x>
-          <xt>Det er naturlig at det møtet holdes i Alta.</xt>
+          <xt>Det er naturlig at det møtet (som det nettopp har vært snakk om) holdes i Alta.</xt>
         </xg>
       </tg>
     </mg>
@@ -134,9 +134,14 @@
     <mg>
       <tg>
         <t pos="pron">den/det (der borte)</t>
+        <t pos="pron">den/det der</t>
         <xg>
           <x>Mii duot lea?</x>
-          <xt>Hva er det (som er der borte)?</xt>
+          <xt>Hva er det der (evt. det som er der borte)?</xt>
+        </xg>
+        <xg>
+          <x>Movt bat duot geafes čivga sáhtii du beastit?</x>
+          <xt>Og hvordan kunne den der fattige ungen redde deg?</xt>
         </xg>
       </tg>
     </mg>
@@ -206,7 +211,7 @@
         <t pos="pron">de</t>
         <xg>
           <x>Sii leat dušše čujuhan sullii gos dat jávrrit leat.</x>
-          <xt>De har bare vist til omtrent hvor de vannene er.</xt>
+          <xt>De har bare vist til omtrentlig hvor de vannene er.</xt>
         </xg>
       </tg>
     </mg>
@@ -241,7 +246,7 @@
         <t pos="pron">disse (nærmere meg enn deg)</t>
         <xg>
           <x>Gosa dolvot dát dáhpáhusat?</x>
-          <xt>Hvor hen fører disse hendingene?</xt>
+          <xt>Hvor fører disse hendingene?</xt>
         </xg>
       </tg>
     </mg>
@@ -310,9 +315,10 @@
     <mg>
       <tg>
         <t pos="pron">de (der borte)</t>
+        <t pos="pron">de der</t>
         <xg>
           <x>Geat bat duot leaba? jearai son.</x>
-          <xt>Hver er så de to? spurte han.</xt>
+          <xt>Hver er så de der (om to)? spurte han.</xt>
         </xg>
       </tg>
     </mg>
@@ -392,8 +398,8 @@
          <tg>
             <t pos="pron">som den/det</t>
         <xg>
-          <x>Sii leat čađahan árvvoštallama mii lea šaddan danin girjin</x>
-          <xt>De har gjennomført en vurdering som ble den boka.</xt>
+          <x>Sii leat čađahan árvvoštallama mii lea šaddan danin girjin.</x>
+          <xt>De har gjennomført en vurdering som er blitt til den boka.</xt>
         </xg>
          </tg>
       </mg>
@@ -427,7 +433,7 @@
             <t pos="pron">til denne/dette</t>
         <xg>
           <x>Gal dása gávdno hirbmat buorre čoavddus.</x>
-          <xt>På dette finnes det en veldig bra løsning.</xt>
+          <xt>På dette finnes det nok en veldig bra løsning.</xt>
         </xg>
          </tg>
       </mg>
@@ -444,7 +450,7 @@
             <t pos="pron">her</t>
         <xg>
           <x>Dát viessu lea čužžon dás guhká.</x>
-          <xt>Dette huset har ikke stått her lenge.</xt>
+          <xt>Dette huset har stått her lenge.</xt>
         </xg>
         <xg>
           <x>Dás ii boađe jierpmalaš čoavddus.</x>
@@ -495,7 +501,7 @@
             <t pos="pron">den/det (som vi nettopp nevnte)</t>
         <xg>
           <x>Sii eai gal leat dien birra jurddašan nu olu.</x>
-          <xt>De har ikke tenkt så mye på det.</xt>
+          <xt>De har nok ikke tenkt så mye på det (som vi nettopp snakket om).</xt>
         </xg>
          </tg>
       </mg>
@@ -512,7 +518,7 @@
             <t pos="pron">til den/det (som vi nettopp nevnte)</t>
         <xg>
           <x>Eai sii nu beare olu ruđa gal jurddaš diesa geavahit.</x>
-          <xt>De tenker ikke på å bruke så mye penger på det.</xt>
+          <xt>De tenker ikke på å bruke så mye penger på det (som vi nettopp nevnte).</xt>
         </xg>
          </tg>
       </mg>
@@ -530,7 +536,7 @@
             <t pos="pron">i/av den/det (som vi nettopp nevnte)</t>
         <xg>
           <x>Ja dies mun fuobmájin ge ođđa ealáhusa.</x>
-          <xt>Og av det fant jeg også på en ny næring.</xt>
+          <xt>Og av det oppdaget jeg da også en ny næring.</xt>
         </xg>
          </tg>
       </mg>
@@ -548,7 +554,7 @@
         </tg>
         <xg>
           <x>Vuosttažettiin danin go dieinna vugiin ii sáhte nuvttá riŋget.</x>
-          <xt>Først og fremst fordi det på den måten ikke er mulig å ringe gratis.</xt>
+          <xt>Først og fremst fordi det på (med) den måten ikke er mulig å ringe gratis.</xt>
         </xg>
       </mg>
    </e>
@@ -575,9 +581,10 @@
       <mg>
          <tg>
             <t pos="pron">den/det (som er der borte)</t>
+            <t pos="pron">den/det der</t>
         <xg>
           <x>Mun láhppen gal dan duon dieva alde.</x>
-          <xt>Jeg mistet den på haugen der borte.</xt>
+          <xt>Jeg mistet nok den på haugen der borte.</xt>
         </xg>
          </tg>
       </mg>
@@ -591,9 +598,10 @@
       <mg>
          <tg>
             <t pos="pron">til den/det (som er der borte)</t>
+            <t pos="pron">til den/det der</t>
         <xg>
           <x>Don galggat duosa oahpahit sámegiela!</x>
-          <xt>Og du skal skal lære samisk til han/henne!</xt>
+          <xt>Og du skal skal lære samisk til han/henne der!</xt>
         </xg>
          </tg>
       </mg>
@@ -607,6 +615,7 @@
       <mg>
          <tg>
             <t pos="pron">i/av den/det (som er der borte)</t>
+            <t pos="pron">i/av den/det der</t>
         <xg>
           <x>Muhto ii orron ávki duos iige dies.</x>
           <xt>Men det virka ikke å være nytte av hverken det ene eller det andre.</xt>
@@ -623,6 +632,7 @@
       <mg>
          <tg>
             <t pos="pron">med den/det (som er der borte)</t>
+            <t pos="pron">med den/det der</t>
         <xg>
           <x>Sii dávjá jerret mus mii oaivvilduvvo duoinna ja dáinna.</x>
           <xt>De spør meg ofte om hva som menes med det ene og det andre.</xt>
@@ -639,6 +649,7 @@
       <mg>
          <tg>
             <t pos="pron">som den/det (som er der borte)</t>
+            <t pos="pron">som den/det der</t>
          </tg>
       </mg>
    </e>
@@ -654,7 +665,7 @@
             <t pos="pron">den/det (som er lengst borte)</t>
         <xg>
           <x>Vuosttaš lea oažžut nannejuvvot daid oktasaš vuoigatvuođaid mat sámiin lea don doložis juo leamaš.</x>
-          <xt>Det første er å få styrket de felles rettighetene som samene har hatt siden for veldig lenge siden.</xt>
+          <xt>Det første er å få styrket de felles rettighetene som samene har hatt siden for veldig lenge siden (siden den fortida som er veldig langt unna).</xt>
         </xg>
          </tg>
       </mg>
@@ -720,7 +731,7 @@
             <t pos="pron">deres</t>
         <xg>
           <x>Ja du mielas lea lossat doaimmahit daid bargguid maid dábálaččat barggat.</x>
-          <xt>Og du synes det er tungst å gjøre de oppgavene som du du vanligvis gjør.</xt>
+          <xt>Og du synes det er tungt å gjøre de oppgavene som du du vanligvis gjør.</xt>
         </xg>
          </tg>
       </mg>
@@ -803,7 +814,7 @@
             <t pos="pron">til disse</t>
         <xg>
           <x>Ruoŧa ja Suoma beale olbmot maid servet dáidda doaluide.</x>
-          <xt>Folk på svensk og finsk side blir også med på dettte arrangementet.</xt>
+          <xt>Folk på svensk og finsk side blir også med på dette arrangementet.</xt>
         </xg>
          </tg>
       </mg>
@@ -854,7 +865,7 @@
             <t pos="pron">de (som vi nettopp nevnte)</t>
         <xg>
           <x>Mun muittán bures go ledjen nuorra dieid beakkán 70 jagiin.</x>
-          <xt>Jeg husker godt da jeg var ung i disse berømte 70-årene.</xt>
+          <xt>Jeg husker godt da jeg var ung i de berømte 70-årene (som du kjenner til).</xt>
         </xg>
          </tg>
       </mg>
@@ -905,8 +916,8 @@
              <t pos="pron">med dem (som vi nettopp nevnte)</t>
         </tg>
         <xg>
-          <x>Sii geat dieiguin saddagiiguin barget, eai leat bálkáhuvvon bargit.</x>
-          <xt>De som arbeider med disse sendingene, er ikke lønnete ansatte.</xt>
+          <x>Sii geat dieiguin sáddagiiguin barget, eai leat bálkáhuvvon bargit.</x>
+          <xt>De som arbeider med disse sendingene, er ikke ansatte som er lønnet.</xt>
         </xg>
       </mg>
    </e>
@@ -923,7 +934,7 @@
             <t pos="pron">deres (som er der borte)</t>
         <xg>
           <x>Čuovuimet duoid áibmadas lottiid girddašeami.</x>
-          <xt></xt>
+          <xt>Vi fulgte flygingen til de kolossale fuglene der borte.</xt>
         </xg>
          </tg>
       </mg>
@@ -951,7 +962,7 @@
             <t pos="pron">i/av dem</t>
         <xg>
           <x>In beroš duoin hearráin.</x>
-          <xt></xt>
+          <xt>Jeg bryr meg ikke om de der herrene.</xt>
         </xg>
          </tg>
       </mg>
