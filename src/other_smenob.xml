@@ -4,6 +4,36 @@
 <r>
   <e src="nj">
     <lg>
+      <l pos="pron">goabbat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">hver</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="pron">hver sin</t>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron">guhtet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">enhver</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="pron">hver sin</t>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
       <l pos="cc">sihke</l>
     </lg>
 
@@ -2824,7 +2854,7 @@
 
   <e src="nj">
     <lg>
-      <l pos="pron">nubbi</l>
+      <l pos="pron" type="indef">nubbi</l>
 
       <lc>nuppit</lc>
     </lg>
