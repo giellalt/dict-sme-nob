@@ -9486,7 +9486,11 @@
       <mg>
          <tg>
             <t pos="m">pepper</t>
-         </tg>
+<xg>
+<x>Muhtumin láviimet veaháš rohkajáffuid bidjat smáhka dihte.</x>
+<xt>Av og til brukte vi å tilsette litt rugmel for smakens skyld.</xt>
+</xg>
+</tg>
       </mg>
    </e>
    <e>
@@ -50675,7 +50679,7 @@
             <t pos="m">knehase</t>
             <xg>
                <x>Olbmos leat gáttut.</x>
-               <xt>Et menneske har knehaser.</xt>
+               <xt>Mennesket har knehaser.</xt>
             </xg>
          </tg>
       </mg>
@@ -83948,6 +83952,11 @@
             <t pos="f">suppe</t>
          </tg>
       </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
+         <l pos="n" illpl="ok">mállásat</l>
+      </lg>
       <mg>
          <tg>
             <t pos="m">middag</t>
@@ -84371,12 +84380,20 @@
       <mg>
          <tg>
             <t pos="n">marked</t>
+ <xg>
+ <x>Girjjáš almmuhuvvui beassášmárkaniid rahpamis Guovdageainnus.</x>
+ <xt>Boka blir gitt ut under åpninga av påskemarkedet i Kautokeino.</xt>
+ </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="n">kirkested</t>
             <t pos="n">tettsted</t>
+ <xg>
+ <x>Mii vujiimet áibbas jávohaga márkanii.</x>
+ <xt>Vi kjørte helt tause til kirkestedet.</xt>
+ </xg>
          </tg>
       </mg>
    </e>
@@ -106299,6 +106316,12 @@
       <mg>
          <tg>
             <t pos="m">anordning</t>
+            <t pos="m">installasjon</t>
+            <t pos="m">anlegg</t>
+ <xg>
+ <x>Sámi kulturráđđi maŋida searvvi doarjaohcama oastit karaokerusttegiid.</x>
+ <xt>Samisk kulturråd utsetter foreningens søknad om støtte til å kjøpe karaokeanlegg.</xt>
+ </xg>
          </tg>
       </mg>
       <mg>
@@ -106309,11 +106332,6 @@
       <mg>
          <tg>
             <t pos="S">etablissement</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="m">installasjon</t>
          </tg>
       </mg>
    </e>
