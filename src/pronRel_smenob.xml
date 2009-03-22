@@ -711,7 +711,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="rel">goappáin</l>
+         <l pos="pron" type="rel" nr="sg">goappáin</l>
          <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -762,7 +762,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="rel">goappáin</l>
+         <l pos="pron" type="rel" nr="pl">goappáin</l>
          <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -824,7 +824,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="rel">guđiin</l>
+         <l pos="pron" type="rel" nr="sg">guđiin</l>
          <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -875,7 +875,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="rel">guđiin</l>
+         <l pos="pron" type="rel" nr="pl">guđiin</l>
          <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
