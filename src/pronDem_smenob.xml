@@ -1293,7 +1293,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dakkáriin</l>
+         <l pos="pron" type="dem" nr="sg">dakkáriin</l>
          <lemma_ref lemmaID="dakkár_pron_dem_sg">dakkár</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -1371,7 +1371,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dákkáriin</l>
+         <l pos="pron" type="dem" nr="sg">dákkáriin</l>
          <lemma_ref lemmaID="dakkár_pron_dem_sg">dákkár</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -1453,7 +1453,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">diekkáriin</l>
+         <l pos="pron" type="dem" nr="sg">diekkáriin</l>
          <lemma_ref lemmaID="diekkár_pron_dem_sg">diekkár</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -1514,7 +1514,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dakkáriin</l>
+         <l pos="pron" type="dem" nr="pl">dakkáriin</l>
          <lemma_ref lemmaID="dakkárat_pron_dem_pl">dakkárat</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
@@ -1580,7 +1580,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dákkáriin</l>
+         <l pos="pron" type="dem" nr="pl">dákkáriin</l>
          <lemma_ref lemmaID="dakkárat_pron_dem_pl">dákkárat</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
@@ -1646,7 +1646,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">diekkáriin</l>
+         <l pos="pron" type="dem" nr="pl">diekkáriin</l>
          <lemma_ref lemmaID="diekkárat_pron_dem_pl">diekkárat</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
