@@ -2,8 +2,6 @@
 <!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE"
 "../scripts/smenob.dtd">
 <r>
-
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">buohkat</l>
@@ -15,113 +13,91 @@
       </tg>
     </mg>
   </e>
-
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">eará</l>
 
       <lc>earát</lc>
     </lg>
-
     <mg>
       <tg>
         <t pos="x">annen</t>
-
         <t pos="x">andre</t>
-
       </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">goappašagat</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="pron">begge to</t>
       </tg>
     </mg>
   </e>
-
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">guktot</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="pron">begge</t>
       </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">iežá</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="m">annen</t>
-
         <t pos="n">annet</t>
       </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">juoga</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="pron">noe</t>
       </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">juohkehaš</l>
 
       <lc>-haččat, -hažžii</lc>
     </lg>
-
     <mg>
       <tg>
         <t pos="m">hver</t>
       </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">moanat</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="x">flere</t>
       </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">muhtin</l>
 
       <lc>muhtimat</lc>
     </lg>
-
     <mg>
       <tg>
         <t pos="x">en</t>
-
         <t pos="x">noen</t>
       </tg>
     </mg>
@@ -130,97 +106,81 @@
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">muhtun</l>
-
       <lc>muhtumat</lc>
     </lg>
-
     <mg>
       <tg>
         <t pos="x">en</t>
-
         <t pos="x">noen</t>
       </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">nubbi</l>
-
       <lc>nuppit</lc>
     </lg>
-
     <mg>
       <tg>
-        <t pos="x">annen</t>
+	<t pos="x">annen</t>
       </tg>
     </mg>
-
     <mg>
       <tg>
-        <t pos="x">ene</t>
-        <xg>
-          <x>Nubbi lea stuoris, nubbi fas unni.</x>
-          <xt>Den ene er stor, den andre er liten.</xt>
-        </xg>
-        <xg>
-          <x>Ja nubbi dáhpáhus leai seammá áiggiid.</x>
-          <xt>Og den andre hendelsen skjedde omtrent til samme tid.</xt>
-        </xg>
+	<t pos="x">ene</t>
+	<xg>
+	  <x>Nubbi lea stuoris, nubbi fas unni.</x>
+	  <xt>Den ene er stor, den andre er liten.</xt>
+	</xg>
+	<xg>
+	  <x>Ja nubbi dáhpáhus leai seammá áiggiid.</x>
+	  <xt>Og den andre hendelsen skjedde omtrent til samme tid.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">goabbáge</l>
     </lg>
-
     <mg>
       <tg>
-        <t pos="x">begge</t>
-        <t pos="x">hver av de to</t>
-<xg>
-<x>Mun in eahpit doppe ledje 2000 olbmo goappáge konsearttas.</x>
-<xt>Jeg tviler ikke på at det var 2000 mennesker på hver av de to konsertene.</xt>
-</xg>      
-<xg>
-<x>Goappá don válddát? Ii goappáge!</x>
-<xt>Hvilken av de to tar du? Ingen av de to!</xt>
-</xg>      
-<xg>
-<x>Ii lean šat doarrunvuoibmi goappásge.</x>
-<xt>Ingen av de to hadde lenger lyst til å sloss.</xt>
-</xg>      
-</tg>
+	<t pos="x">begge</t>
+	<t pos="x">hver av de to</t>
+	<xg>
+	  <x>Mun in eahpit doppe ledje 2000 olbmo goappáge konsearttas.</x>
+	  <xt>Jeg tviler ikke på at det var 2000 mennesker på hver av de to konsertene.</xt>
+	</xg>      
+	<xg>
+	  <x>Goappá don válddát? Ii goappáge!</x>
+	  <xt>Hvilken av de to tar du? Ingen av de to!</xt>
+	</xg>      
+	<xg>
+	  <x>Ii lean šat doarrunvuoibmi goappásge.</x>
+	  <xt>Ingen av de to hadde lenger lyst til å sloss.</xt>
+	</xg>      
+      </tg>
     </mg>
   </e>
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">olus</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="x">mange personer</t>
       </tg>
     </mg>
   </e>
-
-
   <e src="nj">
     <lg>
       <l pos="pron" type="indef">soamis</l>
-
       <lc>soapmásat, soames (olmmoš)</lc>
     </lg>
-
     <mg>
       <tg>
-        <t pos="x">noen</t>
-
-        <t pos="m">og annen</t>
+	<t pos="x">noen</t>
+	<t pos="m">og annen</t>
       </tg>
     </mg>
   </e>

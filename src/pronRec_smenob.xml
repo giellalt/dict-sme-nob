@@ -381,7 +381,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoibmáseame</l>
-         <lemma_ref>guoibmáme</lemma_ref>
+         <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
          <analysis>Pron_Recipr_Du1_Ill</analysis>
       </lg>
       <mg>
@@ -397,7 +397,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoimmisteame</l>
-         <lemma_ref>guoibmáme</lemma_ref>
+         <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
          <analysis>Pron_Recipr_Du1_Loc</analysis>
       </lg>
       <mg>
@@ -414,7 +414,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiineame</l>
-         <lemma_ref>guoibmáme</lemma_ref>
+         <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
          <analysis>Pron_Recipr_Du1_Com</analysis>
       </lg>
       <mg>
@@ -430,7 +430,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoibmáseatte</l>
-         <lemma_ref>guoimmáde</lemma_ref>
+         <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
          <analysis>Pron_Recipr_Du2_Ill</analysis>
       </lg>
       <mg>
@@ -446,7 +446,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoimmisteatte</l>
-         <lemma_ref>guoimmáde</lemma_ref>
+         <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
          <analysis>Pron_Recipr_Du2_Loc</analysis>
       </lg>
       <mg>
@@ -462,7 +462,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiineatte</l>
-         <lemma_ref>guoimmáde</lemma_ref>
+         <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
          <analysis>Pron_Recipr_Du2_Com</analysis>
       </lg>
       <mg>
@@ -478,7 +478,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoibmáseaskka</l>
-         <lemma_ref>guoimmiska</lemma_ref>
+         <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Ill</analysis>
       </lg>
       <mg>
@@ -494,7 +494,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoimmisteaskka</l>
-         <lemma_ref>guoimmiska</lemma_ref>
+         <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Loc</analysis>
       </lg>
       <mg>
@@ -511,7 +511,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiineaskka</l>
-         <lemma_ref>guoimmiska</lemma_ref>
+         <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Com</analysis>
       </lg>
       <mg>
@@ -527,7 +527,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoibmáseamet</l>
-         <lemma_ref>guoibmámet</lemma_ref>
+         <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Ill</analysis>
       </lg>
       <mg>
@@ -543,7 +543,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoimmisteamet</l>
-         <lemma_ref>guoibmámet</lemma_ref>
+         <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Loc</analysis>
       </lg>
       <mg>
@@ -560,7 +560,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="sg">guimmiineamet</l>
-         <lemma_ref>guoibmámet</lemma_ref>
+         <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Com</analysis>
       </lg>
       <mg>
@@ -577,7 +577,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiidasamet</l>
-         <lemma_ref>guimmiideamet</lemma_ref>
+         <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Ill</analysis>
       </lg>
       <mg>
@@ -593,7 +593,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="pl">guimmiineamet</l>
-         <lemma_ref>guimmiideamet</lemma_ref>
+         <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Loc</analysis>
       </lg>
       <mg>
@@ -610,7 +610,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiideametguin</l>
-         <lemma_ref>guimmiideamet</lemma_ref>
+         <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Com</analysis>
       </lg>
       <mg>
@@ -627,7 +627,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoibmáseattet</l>
-         <lemma_ref>guoimmádet</lemma_ref>
+         <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Ill</analysis>
       </lg>
       <mg>
@@ -643,7 +643,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoimmisteattet</l>
-         <lemma_ref>guoimmádet</lemma_ref>
+         <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Loc</analysis>
       </lg>
       <mg>
@@ -660,7 +660,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="sg">guimmiineattet</l>
-         <lemma_ref>guoimmádet</lemma_ref>
+         <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Com</analysis>
       </lg>
       <mg>
@@ -677,7 +677,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiidasadet</l>
-         <lemma_ref>guimmiideattet</lemma_ref>
+         <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Ill</analysis>
       </lg>
       <mg>
@@ -693,7 +693,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="pl">guimmiineattet</l>
-         <lemma_ref>guimmiideattet</lemma_ref>
+         <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Loc</analysis>
       </lg>
       <mg>
@@ -710,7 +710,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiideattetguin</l>
-         <lemma_ref>guimmiideattet</lemma_ref>
+         <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Com</analysis>
       </lg>
       <mg>
@@ -727,7 +727,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoibmáseaset</l>
-         <lemma_ref>guoimmiset</lemma_ref>
+         <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Ill</analysis>
       </lg>
       <mg>
@@ -743,7 +743,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guoimmisteaset</l>
-         <lemma_ref>guoimmiset</lemma_ref>
+         <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Loc</analysis>
       </lg>
       <mg>
@@ -760,7 +760,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="sg">guimmiineaset</l>
-         <lemma_ref>guoimmiset</lemma_ref>
+         <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Com</analysis>
       </lg>
       <mg>
@@ -777,7 +777,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiidasaset</l>
-         <lemma_ref>guimmiideaset</lemma_ref>
+         <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Ill</analysis>
       </lg>
       <mg>
@@ -793,7 +793,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="pl">guimmiineaset</l>
-         <lemma_ref>guimmiideaset</lemma_ref>
+         <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Loc</analysis>
       </lg>
       <mg>
@@ -810,7 +810,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">guimmiideasetguin</l>
-         <lemma_ref>guimmiideaset</lemma_ref>
+         <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Com</analysis>
       </lg>
       <mg>
@@ -826,7 +826,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">nubbái</l>
-         <lemma_ref>nuppi</lemma_ref>
+         <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Ill</analysis>
       </lg>
       <mg>
@@ -842,7 +842,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">nuppis</l>
-         <lemma_ref>nuppi</lemma_ref>
+         <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Loc</analysis>
       </lg>
       <mg>
@@ -859,7 +859,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="sg">nuppiin</l>
-         <lemma_ref>nuppi</lemma_ref>
+         <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Com</analysis>
       </lg>
       <mg>
@@ -875,7 +875,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="du">nubbin</l>
-         <lemma_ref>nuppi</lemma_ref>
+         <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Ess</analysis>
       </lg>
       <mg>
@@ -891,7 +891,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">nuppiide</l>
-         <lemma_ref>nuppiid</lemma_ref>
+         <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Ill</analysis>
       </lg>
       <mg>
@@ -907,7 +907,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="pl">nuppiin</l>
-         <lemma_ref>nuppiid</lemma_ref>
+         <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Loc</analysis>
       </lg>
       <mg>
@@ -924,7 +924,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr">nuppiiguin</l>
-         <lemma_ref>nuppiid</lemma_ref>
+         <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Com</analysis>
       </lg>
       <mg>
@@ -940,7 +940,7 @@
    <e>
       <lg>
          <l pos="pron" type="recipr" nr="pl">nubbin</l>
-         <lemma_ref>nuppiid</lemma_ref>
+         <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Ess</analysis>
       </lg>
       <mg>

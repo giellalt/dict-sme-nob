@@ -286,7 +286,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel" nr="sg">maid</l>
-         <lemma_ref>mii</lemma_ref>
+         <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
       <mg>
@@ -306,7 +306,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">man</l>
-         <lemma_ref>mii</lemma_ref>
+         <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
       </lg>
       <mg>
@@ -326,7 +326,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">masa</l>
-         <lemma_ref>mii</lemma_ref>
+         <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
       <mg>
@@ -346,7 +346,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">mas</l>
-         <lemma_ref>mii</lemma_ref>
+         <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
       <mg>
@@ -366,7 +366,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">mainna</l>
-         <lemma_ref>mii</lemma_ref>
+         <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
       <mg>
@@ -386,7 +386,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">manin</l>
-         <lemma_ref>mii</lemma_ref>
+         <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
       <mg>
@@ -398,7 +398,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">gean</l>
-         <lemma_ref>gii</lemma_ref>
+         <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
@@ -428,7 +428,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">geasa</l>
-         <lemma_ref>gii</lemma_ref>
+         <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
       <mg>
@@ -448,7 +448,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">geas</l>
-         <lemma_ref>gii</lemma_ref>
+         <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
       <mg>
@@ -468,7 +468,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">geainna</l>
-         <lemma_ref>gii</lemma_ref>
+         <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
       <mg>
@@ -488,7 +488,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">geanin</l>
-         <lemma_ref>gii</lemma_ref>
+         <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
       <mg>
@@ -501,7 +501,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel" nr="pl">maid</l>
-         <lemma_ref>mat</lemma_ref>
+         <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
       </lg>
@@ -522,7 +522,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">maidda</l>
-         <lemma_ref>mat</lemma_ref>
+         <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
       <mg>
@@ -542,7 +542,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">main</l>
-         <lemma_ref>mat</lemma_ref>
+         <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
       <mg>
@@ -562,7 +562,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">maiguin</l>
-         <lemma_ref>mat</lemma_ref>
+         <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
       <mg>
@@ -584,7 +584,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">geaid</l>
-         <lemma_ref>geat</lemma_ref>
+         <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
       </lg>
@@ -614,7 +614,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">geaidda</l>
-         <lemma_ref>geat</lemma_ref>
+         <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
       <mg>
@@ -634,7 +634,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">geain</l>
-         <lemma_ref>geat</lemma_ref>
+         <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
       <mg>
@@ -654,7 +654,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">geaiguin</l>
-         <lemma_ref>geat</lemma_ref>
+         <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
       <mg>
@@ -674,7 +674,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goappá</l>
-         <lemma_ref>goabbá</lemma_ref>
+         <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
@@ -688,7 +688,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goabbái</l>
-         <lemma_ref>goabbá</lemma_ref>
+         <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
       <mg>
@@ -700,7 +700,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goappás</l>
-         <lemma_ref>goabbá</lemma_ref>
+         <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
       <mg>
@@ -712,7 +712,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goappáin</l>
-         <lemma_ref>goabbá</lemma_ref>
+         <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
       <mg>
@@ -724,7 +724,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goabbán</l>
-         <lemma_ref>goabbá</lemma_ref>
+         <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
       <mg>
@@ -737,7 +737,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goappáid</l>
-         <lemma_ref>goappát</lemma_ref>
+         <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
       </lg>
@@ -751,7 +751,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goappáide</l>
-         <lemma_ref>goappát</lemma_ref>
+         <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
       <mg>
@@ -763,7 +763,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goappáin</l>
-         <lemma_ref>goappát</lemma_ref>
+         <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
       <mg>
@@ -775,7 +775,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">goappáiguin</l>
-         <lemma_ref>goappát</lemma_ref>
+         <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
       <mg>
@@ -787,7 +787,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guđe</l>
-         <lemma_ref>guhte</lemma_ref>
+         <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
@@ -801,7 +801,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guhtii</l>
-         <lemma_ref>guhte</lemma_ref>
+         <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
       <mg>
@@ -813,7 +813,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guđes</l>
-         <lemma_ref>guhte</lemma_ref>
+         <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
       <mg>
@@ -825,7 +825,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guđiin</l>
-         <lemma_ref>guhte</lemma_ref>
+         <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
       <mg>
@@ -837,7 +837,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guhten</l>
-         <lemma_ref>guhte</lemma_ref>
+         <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
       <mg>
@@ -850,7 +850,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guđiid</l>
-         <lemma_ref>guđet</lemma_ref>
+         <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
       </lg>
@@ -864,7 +864,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guđiide</l>
-         <lemma_ref>guđet</lemma_ref>
+         <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
       <mg>
@@ -876,7 +876,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guđiin</l>
-         <lemma_ref>guđet</lemma_ref>
+         <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
       <mg>
@@ -888,7 +888,7 @@
    <e>
       <lg>
          <l pos="pron" type="rel">guđiiguin</l>
-         <lemma_ref>guđet</lemma_ref>
+         <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
       <mg>

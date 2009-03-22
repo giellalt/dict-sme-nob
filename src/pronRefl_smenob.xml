@@ -551,8 +551,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccesan</l>
-         <lemma_ref>iežan</lemma_ref>
-         <lemma_ref>iehčan</lemma_ref>
+         <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+         <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
       <mg>
@@ -568,8 +568,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccan</l>
-         <lemma_ref>iežan</lemma_ref>
-         <lemma_ref>iehčan</lemma_ref>
+         <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+         <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
       <mg>
@@ -585,8 +585,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccen</l>
-         <lemma_ref>iežan</lemma_ref>
-         <lemma_ref>iehčan</lemma_ref>
+         <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+         <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
       <mg>
@@ -602,8 +602,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddán</l>
-         <lemma_ref>iežan</lemma_ref>
-         <lemma_ref>iehčan</lemma_ref>
+         <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+         <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Loc</analysis>
       </lg>
       <mg>
@@ -619,8 +619,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežainan</l>
-         <lemma_ref>iežan</lemma_ref>
-         <lemma_ref>iehčan</lemma_ref>
+         <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+         <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Com</analysis>
       </lg>
       <mg>
@@ -636,8 +636,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčanan</l>
-         <lemma_ref>iežan</lemma_ref>
-         <lemma_ref>iehčan</lemma_ref>
+         <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+         <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Ess</analysis>
       </lg>
       <mg>
@@ -654,7 +654,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccesat</l>
-         <lemma_ref>iežat</lemma_ref>
+         <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
       <mg>
@@ -670,7 +670,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccat</l>
-         <lemma_ref>iežat</lemma_ref>
+         <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
       <mg>
@@ -686,7 +686,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccet</l>
-         <lemma_ref>iežat</lemma_ref>
+         <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
       <mg>
@@ -702,7 +702,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddát</l>
-         <lemma_ref>iežat</lemma_ref>
+         <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Loc</analysis>
       </lg>
       <mg>
@@ -718,7 +718,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežainat</l>
-         <lemma_ref>iežat</lemma_ref>
+         <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Com</analysis>
       </lg>
       <mg>
@@ -734,7 +734,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčanat</l>
-         <lemma_ref>iežat</lemma_ref>
+         <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ess</analysis>
       </lg>
       <mg>
@@ -751,7 +751,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccesis</l>
-         <lemma_ref>iežas</lemma_ref>
+         <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
       <mg>
@@ -767,7 +767,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccis</l>
-         <lemma_ref>iežas</lemma_ref>
+         <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
       <mg>
@@ -783,7 +783,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcces</l>
-         <lemma_ref>iežas</lemma_ref>
+         <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
       <mg>
@@ -799,7 +799,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddis</l>
-         <lemma_ref>iežas</lemma_ref>
+         <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Loc</analysis>
       </lg>
       <mg>
@@ -815,7 +815,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddes</l>
-         <lemma_ref>iežas</lemma_ref>
+         <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Loc</analysis>
       </lg>
       <mg>
@@ -831,7 +831,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežainis</l>
-         <lemma_ref>iežas</lemma_ref>
+         <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Com</analysis>
       </lg>
       <mg>
@@ -847,7 +847,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčanis</l>
-         <lemma_ref>iežas</lemma_ref>
+         <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Ess</analysis>
       </lg>
       <mg>
@@ -863,8 +863,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceseame</l>
-         <lemma_ref>iežame</lemma_ref>
-         <lemma_ref>iehčame</lemma_ref>
+         <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+         <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
       <mg>
@@ -880,8 +880,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceme</l>
-         <lemma_ref>iežame</lemma_ref>
-         <lemma_ref>iehčame</lemma_ref>
+         <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+         <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
       <mg>
@@ -897,8 +897,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccame</l>
-         <lemma_ref>iežame</lemma_ref>
-         <lemma_ref>iehčame</lemma_ref>
+         <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+         <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
       <mg>
@@ -914,8 +914,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddáme</l>
-         <lemma_ref>iežame</lemma_ref>
-         <lemma_ref>iehčame</lemma_ref>
+         <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+         <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
          <analysis>Pron_Refl_Du1_Loc</analysis>
       </lg>
       <mg>
@@ -931,8 +931,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddiineame</l>
-         <lemma_ref>iežame</lemma_ref>
-         <lemma_ref>iehčame</lemma_ref>
+         <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+         <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
          <analysis>Pron_Refl_Du1_Loc</analysis>
       </lg>
       <mg>
@@ -948,8 +948,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežaineame</l>
-         <lemma_ref>iežame</lemma_ref>
-         <lemma_ref>iehčame</lemma_ref>
+         <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+         <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
          <analysis>Pron_Refl_Du1_Com</analysis>
       </lg>
       <mg>
@@ -965,8 +965,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčaneame</l>
-         <lemma_ref>iežame</lemma_ref>
-         <lemma_ref>iehčame</lemma_ref>
+         <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+         <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
          <analysis>Pron_Refl_Du1_Ess</analysis>
       </lg>
       <mg>
@@ -982,7 +982,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceseatte</l>
-         <lemma_ref>iežade</lemma_ref>
+         <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
       <mg>
@@ -998,7 +998,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccade</l>
-         <lemma_ref>iežade</lemma_ref>
+         <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
       <mg>
@@ -1014,7 +1014,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccede</l>
-         <lemma_ref>iežade</lemma_ref>
+         <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
       <mg>
@@ -1030,7 +1030,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddáde</l>
-         <lemma_ref>iežade</lemma_ref>
+         <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Loc</analysis>
       </lg>
       <mg>
@@ -1046,7 +1046,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddiineatte</l>
-         <lemma_ref>iežade</lemma_ref>
+         <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Loc</analysis>
       </lg>
       <mg>
@@ -1062,7 +1062,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežaineatte</l>
-         <lemma_ref>iežade</lemma_ref>
+         <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Com</analysis>
       </lg>
       <mg>
@@ -1078,7 +1078,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčaneatte</l>
-         <lemma_ref>iežade</lemma_ref>
+         <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Ess</analysis>
       </lg>
       <mg>
@@ -1094,7 +1094,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceseaskka</l>
-         <lemma_ref>iežaska</lemma_ref>
+         <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
       <mg>
@@ -1110,7 +1110,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcciska</l>
-         <lemma_ref>iežaska</lemma_ref>
+         <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
       <mg>
@@ -1126,7 +1126,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceska</l>
-         <lemma_ref>iežaska</lemma_ref>
+         <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
       <mg>
@@ -1142,7 +1142,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddiska</l>
-         <lemma_ref>iežaska</lemma_ref>
+         <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
       <mg>
@@ -1158,7 +1158,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddeska</l>
-         <lemma_ref>iežaska</lemma_ref>
+         <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
       <mg>
@@ -1174,7 +1174,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddiineaskka</l>
-         <lemma_ref>iežaska</lemma_ref>
+         <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
       <mg>
@@ -1190,7 +1190,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežaineaskka</l>
-         <lemma_ref>iežaska</lemma_ref>
+         <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Com</analysis>
       </lg>
       <mg>
@@ -1206,7 +1206,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčaneaskka</l>
-         <lemma_ref>iežaska</lemma_ref>
+         <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ess</analysis>
       </lg>
       <mg>
@@ -1223,8 +1223,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceseamet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <lemma_ref>iehčamet</lemma_ref>
+         <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+         <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
       <mg>
@@ -1240,8 +1240,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccamet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <lemma_ref>iehčamet</lemma_ref>
+         <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+         <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
       <mg>
@@ -1257,8 +1257,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccemet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <lemma_ref>iehčamet</lemma_ref>
+         <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+         <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
       <mg>
@@ -1274,8 +1274,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddámet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <lemma_ref>iehčamet</lemma_ref>
+         <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+         <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Loc</analysis>
       </lg>
       <mg>
@@ -1291,8 +1291,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddiineamet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <lemma_ref>iehčamet</lemma_ref>
+         <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+         <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Loc</analysis>
       </lg>
       <mg>
@@ -1308,8 +1308,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežaineamet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <lemma_ref>iehčamet</lemma_ref>
+         <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+         <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Com</analysis>
       </lg>
       <mg>
@@ -1325,8 +1325,8 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčaneamet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <lemma_ref>iehčamet</lemma_ref>
+         <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+         <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ess</analysis>
       </lg>
       <mg>
@@ -1343,7 +1343,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceseattet</l>
-         <lemma_ref>iežadet</lemma_ref>
+         <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
       <mg>
@@ -1359,7 +1359,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccadet</l>
-         <lemma_ref>iežadet</lemma_ref>
+         <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
       <mg>
@@ -1375,7 +1375,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alccedet</l>
-         <lemma_ref>iežadet</lemma_ref>
+         <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
       <mg>
@@ -1391,7 +1391,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddádet</l>
-         <lemma_ref>iežadet</lemma_ref>
+         <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Loc</analysis>
       </lg>
       <mg>
@@ -1407,7 +1407,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddiineattet</l>
-         <lemma_ref>iežadet</lemma_ref>
+         <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Loc</analysis>
       </lg>
       <mg>
@@ -1423,7 +1423,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežaineattet</l>
-         <lemma_ref>iežadet</lemma_ref>
+         <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Com</analysis>
       </lg>
       <mg>
@@ -1439,7 +1439,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčaneattet</l>
-         <lemma_ref>iežadet</lemma_ref>
+         <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Ess</analysis>
       </lg>
       <mg>
@@ -1455,7 +1455,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceseaset</l>
-         <lemma_ref>iežaset</lemma_ref>
+         <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
       <mg>
@@ -1471,7 +1471,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcceset</l>
-         <lemma_ref>iežaset</lemma_ref>
+         <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
       <mg>
@@ -1487,7 +1487,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alcciset</l>
-         <lemma_ref>iežaset</lemma_ref>
+         <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
       <mg>
@@ -1503,7 +1503,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddiset</l>
-         <lemma_ref>iežaset</lemma_ref>
+         <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
       <mg>
@@ -1519,7 +1519,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddeset</l>
-         <lemma_ref>iežaset</lemma_ref>
+         <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
       <mg>
@@ -1535,7 +1535,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">alddiineaset</l>
-         <lemma_ref>iežaset</lemma_ref>
+         <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
       <mg>
@@ -1551,7 +1551,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iežaineaset</l>
-         <lemma_ref>iežaset</lemma_ref>
+         <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Com</analysis>
       </lg>
       <mg>
@@ -1567,7 +1567,7 @@
    <e>
       <lg>
          <l pos="pron" type="refl">iehčaneaset</l>
-         <lemma_ref>iežaset</lemma_ref>
+         <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ess</analysis>
       </lg>
       <mg>
@@ -1580,6 +1580,4 @@
          </tg>
       </mg>
    </e>
-
-
 </r>
