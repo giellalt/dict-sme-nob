@@ -4,7 +4,7 @@
 <r>
    <e src="nj">
       <lg>
-         <l pos="n" illpl="ok">bassi</l>
+         <l pos="actor" illpl="ok">bassi</l>
       </lg>
       <mg>
          <tg>
@@ -23,7 +23,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n" illpl="ok">borri</l>
+         <l pos="actor" illpl="ok">borri</l>
       </lg>
       <mg>
          <tg>
@@ -41,7 +41,7 @@
       </mg>
       <mg>
          <tg>
-            <t pos="n">uhyre</t>
+            <t pos="actor">uhyre</t>
             <xg>
                <x> </x>
                <xt></xt>
@@ -51,7 +51,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">dikšu</l>
+         <l pos="actor" illpl="ok">dikšu</l>
       </lg>
       <mg>
          <tg>
@@ -69,7 +69,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">goddi</l>
+         <l pos="actor" illpl="ok">goddi</l>
       </lg>
       <mg>
          <tg>
@@ -80,7 +80,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">lávlu</l>
+         <l pos="actor" illpl="ok">lávlu</l>
       </lg>
       <mg>
          <tg>
@@ -99,7 +99,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">lohkki</l>
+         <l pos="actor" illpl="ok">lohkki</l>
       </lg>
       <mg>
          <tg>
@@ -117,7 +117,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">vuovdi</l>
+         <l pos="actor" illpl="ok">vuovdi</l>
       </lg>
       <mg>
          <tg>
@@ -135,7 +135,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n" illpl="ok">jođiheaddji</l>
+         <l pos="actor" illpl="ok">jođiheaddji</l>
          <lc>-headdjit, -heddjiid</lc>
       </lg>
       <mg>
@@ -147,7 +147,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">prošeaktajođiheaddji</l>
+         <l pos="actor" illpl="ok">prošeaktajođiheaddji</l>
       </lg>
       <mg>
          <tg>
@@ -157,7 +157,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">sátnejođiheaddji</l>
+         <l pos="actor" illpl="ok">sátnejođiheaddji</l>
       </lg>
       <mg>
          <tg>
@@ -167,7 +167,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">bargi</l>
+         <l pos="actor" illpl="ok">bargi</l>
          <lc>bargit</lc>
       </lg>
       <mg>
@@ -183,7 +183,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">dearvvašvuođabargi</l>
+         <l pos="actor" illpl="ok">dearvvašvuođabargi</l>
       </lg>
       <mg>
          <tg>
@@ -193,7 +193,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">fabrihkkabargi</l>
+         <l pos="actor" illpl="ok">fabrihkkabargi</l>
       </lg>
       <mg>
          <tg>
@@ -203,7 +203,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">gávpebargi</l>
+         <l pos="actor" illpl="ok">gávpebargi</l>
       </lg>
       <mg>
          <tg>
@@ -214,7 +214,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">kántorbargi</l>
+         <l pos="actor" illpl="ok">kántorbargi</l>
       </lg>
       <mg>
          <tg>
@@ -225,7 +225,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">ássi</l>
+         <l pos="actor" illpl="ok">ássi</l>
          <lc>ássit</lc>
       </lg>
       <mg>
@@ -236,7 +236,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">girječálli</l>
+         <l pos="actor" illpl="ok">girječálli</l>
       </lg>
       <mg>
          <tg>
@@ -246,7 +246,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">čálli</l>
+         <l pos="actor" illpl="ok">čálli</l>
          <lc>čállit</lc>
       </lg>
       <mg>
@@ -267,7 +267,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">čuoigi</l>
+         <l pos="actor" illpl="ok">čuoigi</l>
          <lc>čuoigit</lc>
          <lc>čuigiid</lc>
       </lg>
@@ -279,7 +279,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">dutki</l>
+         <l pos="actor" illpl="ok">dutki</l>
          <lc>dutkit</lc>
       </lg>
       <mg>
@@ -290,39 +290,39 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="n" illpl="ok">biebmoealli</l>
+         <l pos="actor" illpl="ok">biebmoealli</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">kjæledyr</t>
+            <t pos="actor">kjæledyr</t>
          </tg>
       </mg>
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">ealli</l>
+         <l pos="actor" illpl="ok">ealli</l>
          <lc>eallit</lc>
          <lc>elliid</lc>
       </lg>
       <mg>
          <tg>
-            <t pos="n">levende vesen</t>
+            <t pos="actor">levende vesen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n">dyr</t>
+            <t pos="actor">dyr</t>
          </tg>
       </mg>
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">girdi</l>
+         <l pos="actor" illpl="ok">girdi</l>
          <lc>girdit</lc>
       </lg>
       <mg>
          <tg>
-            <t pos="n">fly</t>
+            <t pos="actor">fly</t>
          </tg>
       </mg>
       <mg>
@@ -333,7 +333,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">guođoheaddji</l>
+         <l pos="actor" illpl="ok">guođoheaddji</l>
          <lc>-headdjit</lc>
          <lc>-heddjiid</lc>
       </lg>
@@ -345,19 +345,19 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n" illpl="ok">jábmi</l>
+         <l pos="actor" illpl="ok">jábmi</l>
          <lc>jábmit</lc>
       </lg>
       <mg>
          <tg>
             <t pos="m">død</t>
-            <t pos="n">lik</t>
+            <t pos="actor">lik</t>
          </tg>
       </mg>
    </e>
    <e src="nj">
       <lg>
-         <l pos="n" illpl="ok">máhttájeaddji</l>
+         <l pos="actor" illpl="ok">máhttájeaddji</l>
          <lc>-jeaddjit</lc>
          <lc>-jeddjiid</lc>
       </lg>
@@ -370,7 +370,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="n" illpl="ok">oahpaheaddji</l>
+         <l pos="actor" illpl="ok">oahpaheaddji</l>
          <lc>-headdjit</lc>
          <lc>-heddjiid</lc>
       </lg>
@@ -382,7 +382,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n" illpl="ok">vearredahkki</l>
+         <l pos="actor" illpl="ok">vearredahkki</l>
       </lg>
       <mg>
          <tg>
@@ -392,7 +392,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="n" illpl="ok">njoammu</l>
+         <l pos="actor" illpl="ok">njoammu</l>
       </lg>
       <mg>
          <tg>
