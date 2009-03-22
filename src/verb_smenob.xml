@@ -1885,6 +1885,19 @@
          <tg>
             <t pos="v">slippe (inn)</t>
             <t pos="v">komme (til)</t>
+        <xg>
+          <x>In beassan lahka ge uvssa.</x>
+          <xt>Jeg kom meg ikke i nærheten av døra engang.</xt>
+		</xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">få (anledning til)</t>
+        <xg>
+          <x>Ja dál beassá bárdni sihkastit bivastaga ja bosihastit.</x>
+          <xt>Og nå får gutten tørke svetten og puste ut.</xt>
+		</xg>
          </tg>
       </mg>
    </e>
@@ -1906,7 +1919,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="v" context="mun">beaškit</l>
+         <l pos="v" context="dat">beaškit</l>
          <lc>(dat) beškkii</lc>
       </lg>
       <mg>
@@ -1922,11 +1935,20 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="v" context="mun">beaškkihit</l>
+         <l pos="v" context="dat">beaškkihit</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">smelle en gang</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">kollidere</t>
+        <xg>
+          <x>Biret šattai bonjastit biilla doares beallái nu ahte biillat eai beašket oktii.</x>
+          <xt>Berit måtte svinge bilen i grøfta for at bilene ikke skulle kollidere.</xt>
+		</xg>
          </tg>
       </mg>
    </e>
@@ -1972,7 +1994,14 @@
       <mg>
          <tg>
             <t pos="v">burde</t>
-            <t pos="v">måtte</t>
+        <xg>
+          <x>Ohccis berre leat allaskuvlaoahppu.</x>
+          <xt>Søkeren bør ha høyskoleutdanning.</xt>
+		</xg>
+        <xg>
+          <x>Soai berrešeigga vuolgit geahččat mii leaš heđiid.</x>
+          <xt>De (to) burde dra for å se hva som eventuelt er problemet.</xt>
+		</xg>
          </tg>
       </mg>
    </e>
@@ -1994,7 +2023,23 @@
       <mg>
          <tg>
             <t pos="v">sette</t>
+        <xg>
+          <x>Muhto mii leat advokáhta bidjan bargui.</x>
+          <xt>Men vi har satt advokaten i arbeid.</xt>
+		</xg>
+        <xg>
+          <x>Vuođđolága mielde sáhttá Gonagas duomu haga bidjat eret ámmátolbmuid.</x>
+          <xt>I følge grunnloven kan Kongen avsette embetsfolk uten dom.</xt>
+		</xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="v">legge</t>
+        <xg>
+          <x>Muhto boahteáigái soaitá jurdda bidjat filbmafestivála eará áigái.</x>
+          <xt>Men i framtida kan det være en tanke å legge filmfestivalen til et annet tidspunkt.</xt>
+		</xg>
          </tg>
       </mg>
    </e>
@@ -8242,9 +8287,21 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">kanskje kunne</t>
+            <t pos="adv">kanskje (sannsynligvis)</t>
+        <xg>
+          <x>Son ii dáidde jienastit Bargiidbellodaga dán jagi válggas.</x>
+          <xt>Han/hun stemmer kanskje (sannsynligvis) ikke på Arbeiderpartiet i årets valg.</xt>
+        </xg>
+        <xg>
+          <x>Buoremus dáidá muitalit buot.</x>
+          <xt>Det er kanskje (sannsynligvis) best å fortelle alt.</xt>
+        </xg>
+        <xg>
+          <x>Cuiggodeamis ii dáiddáše boahtit mihkkege buriid.</x>
+          <xt>Det kommer kanskje (sannsynligvis) ikke noe godt av å formane.</xt>
+        </xg>
          </tg>
-      </mg>
+     </mg>
    </e>
    <e src="nj">
       <lg>
@@ -30301,7 +30358,16 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">kanskje kunne</t>
+            <t pos="adv">kanskje</t>
+        <xg>
+          <x>Eat soaitte oba oažžut ge áirasa Sámediggái.</x>
+          <xt>Vi får kanskje ikke engang representant til Sametinget.</xt>
+        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">tilfeldigvis komme til å</t>
          </tg>
       </mg>
    </e>
@@ -33285,9 +33351,14 @@
          <tg>
             <t pos="v">orke</t>
             <t pos="v">greie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">kanskje</t>
             <xg>
-               <x>gal veadja leat</x>
-               <xt>det er kanskje</xt>
+               <x>Gal veadjá leat nu.</x>
+               <xt>Det er kanskje slik.</xt>
             </xg>
          </tg>
       </mg>
