@@ -149,7 +149,8 @@
          <tg>
             <t pos="adv">full</t>
             <xg>
-               <x>lihtti lea dievva</x>
+               <x>Lihtti lea dievva.</x>
+               <xt>Skåla er full.</xt>
             </xg>
          </tg>
       </mg>
@@ -247,12 +248,12 @@
       <tg>
          <t pos="x">mer</t>
          <xg>
-            <x>lea go šat?</x>
-            <xt>er det mer?</xt>
+            <x>Lea go šat?</x>
+            <xt>Er det mer?</xt>
          </xg>
          <xg>
-            <x>ii leat šat</x>
-            <xt>det er ikke mer</xt>
+            <x>Ii leat šat.</x>
+            <xt>Det er ikke mer.</xt>
          </xg>
       </tg>
    </mg>
@@ -600,7 +601,6 @@
         <xg>
           <x>Maŋŋil go badjel 20 jagi lea orron máddin, de máhccá
           ruovttoluotta.</x>
-
           <xt>Etter å ha bodd over 20 år sørpå, vender han hjem.</xt>
         </xg>
       </tg>
@@ -635,8 +635,8 @@
          <tg>
             <t pos="adv">avholdende</t>
             <xg>
-               <x>Áirras lei jienaskeahttá</x>
-               <xt>Representanten stemte avholdende</xt>
+               <x>Áirras lei jienaskeahttá.</x>
+               <xt>Representanten stemte avholdende.</xt>
             </xg>
          </tg>
       </mg>
@@ -649,8 +649,8 @@
          <tg>
             <t pos="adv">også</t>
             <xg>
-               <x>Oidnen maiddái Niillasa</x>
-               <xt>Jeg så Nils også</xt>
+               <x>Oidnen maiddái Niillasa.</x>
+               <xt>Jeg så Nils også.</xt>
             </xg>
          </tg>
       </mg>
@@ -693,8 +693,8 @@
          <tg>
             <t pos="adv">samme</t>
             <xg>
-               <x>Árvolassáneapmi lei jagis 1997 sullii seamma dásis goappaš riikkain</x>
-               <xt>Verdistigningen var i 1997 omtrent på samme nivå i begge landa</xt>
+               <x>Árvolassáneapmi lei jagis 1997 sullii seamma dásis goappaš riikkain.</x>
+               <xt>Verdistigningen var i 1997 omtrent på samme nivå i begge landa.</xt>
             </xg>
          </tg>
       </mg>
@@ -702,8 +702,8 @@
          <tg>
             <t pos="adv">like</t>
             <xg>
-               <x>Soabadanráđis galget leat golbma miellahttu ja seamma ollu várrelahttut</x>
-               <xt>I forliksrådet skal det være tre medlemmer og like mange varamedlemmer</xt>
+               <x>Soabadanráđis galget leat golbma miellahttu ja seamma ollu várrelahttut.</x>
+               <xt>I forliksrådet skal det være tre medlemmer og like mange varamedlemmer.</xt>
             </xg>
          </tg>
       </mg>
@@ -716,8 +716,8 @@
          <tg>
             <t pos="adv">enda</t>
             <xg>
-               <x>Son ii leat vel boahtán</x>
-               <xt>Hun har ikke kommet enda</xt>
+               <x>Son ii leat vel boahtán.</x>
+               <xt>Hun/han har ikke kommet enda.</xt>
             </xg>
          </tg>
       </mg>
@@ -825,9 +825,6 @@
          <tg>
             <t pos="x">stadig</t>
             <t pos="x">bestandig</t>
-            <xg>
-               <x>álo</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -858,9 +855,6 @@
       <mg>
          <tg>
             <t pos="x">alltid</t>
-            <xg>
-               <x>ále</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -930,8 +924,8 @@
             <t pos="x">ovenpå</t>
             <t pos="x">ovenfra</t>
             <xg>
-               <x>máhtán bajil</x>
-               <xt>jeg kan det utenat</xt>
+               <x>Dan mun máhtán bajil.</x>
+               <xt>Jeg kan det utenat.</xt>
             </xg>
          </tg>
       </mg>
@@ -1040,9 +1034,6 @@
          <tg>
             <t pos="x">alltid</t>
             <t pos="x">bestandig</t>
-            <xg>
-               <x>álo</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1104,9 +1095,6 @@
          <tg>
             <t pos="x">straks</t>
             <t pos="x">med en gang</t>
-            <xg>
-               <x>dallánaga</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1142,9 +1130,6 @@
          <tg>
             <t pos="x">straks</t>
             <t pos="x">med en gang</t>
-            <xg>
-               <x>dakkaviđe</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1207,9 +1192,6 @@
       <mg>
          <tg>
             <t pos="x">derfor</t>
-            <xg>
-               <x>danne</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1297,9 +1279,6 @@
          <tg>
             <t pos="x">naturligvis</t>
             <t pos="x">visst</t>
-            <xg>
-               <x>diehttalas</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1361,9 +1340,6 @@
       <mg>
          <tg>
             <t pos="x">pokker</t>
-            <xg>
-               <x>neavri</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1461,7 +1437,8 @@
          <tg>
             <t pos="x">tilrådelig</t>
             <xg>
-               <x>ii leat duosttáš, lea go duosttáš</x>
+               <x>ii leat duosttáš</x>
+               <xt>det er ikke tilrådelig</xt>
             </xg>
          </tg>
       </mg>
@@ -1488,9 +1465,6 @@
       <mg>
          <tg>
             <t pos="x">bare</t>
-            <xg>
-               <x>aivve, beare</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1540,8 +1514,8 @@
             <t pos="x">nettopp</t>
             <t pos="x">nylig</t>
             <xg>
-               <x>de easkka vulgii</x>
-               <xt>da først dro han (hun))</xt>
+               <x>De easkka vulggii.</x>
+               <xt>Da først dro han/hun.</xt>
             </xg>
          </tg>
       </mg>
@@ -1584,9 +1558,6 @@
       <mg>
          <tg>
             <t pos="x">plutselig</t>
-            <xg>
-               <x>fáhkkestaga</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1781,9 +1752,11 @@
          <tg>
             <t pos="x">når</t>
             <xg>
-               <x>goas boahtá</x>
-               <xt>når kommer han (hun)</xt>
-               <x>ii goas-ge</x>
+               <x>Goas boahtá?</x>
+               <xt>Når kommer han/hun?</xt>
+            </xg>
+            <xg>
+               <x>ii goassege</x>
                <xt>aldri</xt>
             </xg>
          </tg>
@@ -1807,8 +1780,8 @@
          <tg>
             <t pos="x">hvor</t>
             <xg>
-               <x>gokko manai</x>
-               <xt>hvilken vei gikk han (hun)</xt>
+               <x>Gokko manai?</x>
+               <xt>Hvilken vei gikk han/hun?</xt>
             </xg>
          </tg>
       </mg>
@@ -1832,8 +1805,8 @@
          <tg>
             <t pos="x">hvor</t>
             <xg>
-               <x>gosa manat?</x>
-               <xt>hvor drar du?</xt>
+               <x>Gosa manat?</x>
+               <xt>Hvor drar du?</xt>
             </xg>
          </tg>
       </mg>
@@ -1846,12 +1819,12 @@
          <tg>
             <t pos="x">hvor</t>
             <xg>
-               <x>gos lea?</x>
-               <xt>hvor er den?</xt>
+               <x>Gos dat lea?</x>
+               <xt>Hvor er den?</xt>
             </xg>
             <xg>
-               <x>gos boađát</x>
-               <xt>hvor kommer du fra?</xt>
+               <x>Gos boađát</x>
+               <xt>Hvor kommer du fra?</xt>
             </xg>
          </tg>
       </mg>
@@ -1925,9 +1898,6 @@
       <mg>
          <tg>
             <t pos="x">plutselig</t>
-            <xg>
-               <x>fáhkka</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2035,9 +2005,6 @@
       <mg>
          <tg>
             <t pos="x">altfor</t>
-            <xg>
-               <x>menddo</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2089,14 +2056,21 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="adv">jitnosit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">høylydt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="adv">jitnosii</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">høylydt</t>
-            <xg>
-               <x>jitnosit</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2109,6 +2083,7 @@
             <t pos="x">fort</t>
             <xg>
                <x>manná jođánit</x>
+               <xt>det går fort</xt>
             </xg>
          </tg>
       </mg>
@@ -2153,9 +2128,6 @@
          <tg>
             <t pos="x">just</t>
             <t pos="x">nettopp</t>
-            <xg>
-               <x>justa</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2179,7 +2151,6 @@
         <xg>
           <x>Álttás lea válljen bargat, go de lea nu lahka Guovdageainnu go
           vejolaš. </x>
-
           <xt>Hun har valgt å arbeide i Alta, fordi det er så nær Kautokeino
           som mulig</xt>
         </xg>
@@ -2227,9 +2198,6 @@
       <mg>
          <tg>
             <t pos="x">likevel</t>
-            <xg>
-               <x>dattege</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2262,10 +2230,6 @@
          <tg>
             <t pos="x">mot sør</t>
             <t pos="x">sørover</t>
-            <xg>
-               <x>lulás</x>
-               <x>máttás</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2351,9 +2315,6 @@
       <mg>
          <tg>
             <t pos="x">bakover</t>
-            <xg>
-               <x>maŋos</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2406,9 +2367,6 @@
       <mg>
          <tg>
             <t pos="x">bakover</t>
-            <xg>
-               <x>maŋás</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2419,9 +2377,6 @@
       <mg>
          <tg>
             <t pos="x">hvorfor</t>
-            <xg>
-               <x>manne</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2432,9 +2387,6 @@
       <mg>
          <tg>
             <t pos="x">hvorfor</t>
-            <xg>
-               <x>manin</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2496,7 +2448,7 @@
             <t pos="x">altfor</t>
             <xg>
                <x>menddo guhkkin</x>
-               <xt>langt borte</xt>
+               <xt>altfor langt borte</xt>
             </xg>
          </tg>
       </mg>
@@ -2529,9 +2481,6 @@
       <mg>
          <tg>
             <t pos="x">ellers</t>
-            <xg>
-               <x>muđuid</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2557,9 +2506,6 @@
       <mg>
          <tg>
             <t pos="x">ellers</t>
-            <xg>
-               <x>minddar</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2723,6 +2669,7 @@
             <t pos="x">sammen med</t>
             <xg>
                <x>áhčči oktan mánáinis</x>
+               <xt>faren med barnet sitt</xt>
             </xg>
          </tg>
       </mg>
@@ -2885,7 +2832,8 @@
          <tg>
             <t pos="x">sammen</t>
             <xg>
-               <x>ovttas bargat)</x>
+               <x>ovttas bargat</x>
+               <xt>arbeide sammen</xt>
             </xg>
          </tg>
       </mg>
@@ -2897,24 +2845,26 @@
       <mg>
          <tg>
             <t pos="x">bestandig</t>
-            <xg>
-               <x>álo</x>
-            </xg>
          </tg>
       </mg>
    </e>
    <e src="nj">
       <lg>
-         <l pos="adv">ráigge</l>
+         <l pos="adv">geaidnoráigge</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">gjennom</t>
-            <t pos="x">bortover</t>
-            <xg>
-               <x>uksa-ráigge</x>
-               <x>geai dno-ráigge)</x>
-            </xg>
+            <t pos="x">langs vegen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">uksaráigge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">gjennom døråpninga</t>
          </tg>
       </mg>
    </e>
@@ -3084,9 +3034,6 @@
       <mg>
          <tg>
             <t pos="x">omtrent</t>
-            <xg>
-               <x>sullii</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3097,9 +3044,6 @@
       <mg>
          <tg>
             <t pos="x">omtrent</t>
-            <xg>
-               <x>sulaid</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3140,9 +3084,6 @@
       <mg>
          <tg>
             <t pos="x">lite</t>
-            <xg>
-               <x>unnán</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3153,9 +3094,6 @@
       <mg>
          <tg>
             <t pos="x">lite</t>
-            <xg>
-               <x>uhcán</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3167,9 +3105,6 @@
          <tg>
             <t pos="x">knapt</t>
             <t pos="x">neppe</t>
-            <xg>
-               <x>illá</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3263,9 +3198,6 @@
          <tg>
             <t pos="x">ganske</t>
             <t pos="x">nokså</t>
-            <xg>
-               <x>hui</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3308,9 +3240,6 @@
       <mg>
          <tg>
             <t pos="x">alt</t>
-            <xg>
-               <x>buot</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3353,9 +3282,6 @@
          <tg>
             <t pos="x">først</t>
             <t pos="x">i begynnelsen</t>
-            <xg>
-               <x>vuosttažettiin</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3383,9 +3309,6 @@
          <tg>
             <t pos="x">ned</t>
             <t pos="x">nedover</t>
-            <xg>
-               <x>vulos</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3418,9 +3341,6 @@
          <tg>
             <t pos="x">først</t>
             <t pos="x">i begynnelsen</t>
-            <xg>
-               <x>vuohččan</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3568,8 +3488,8 @@
             <t pos="adv">igjen</t>
             <xg>
                <x>de fas álggii</x>
-               <xt>derimot</xt>
-            </xg>
+               <xt>så begynte det igjen</xt>
+           </xg>
             <xg>
                <x>Mun válddan dán, don fas dien.</x>
                <xt>Jeg tar denne, du igjen den der.</xt>
@@ -3670,7 +3590,7 @@
                <xt>slik, sånn her</xt>
             </xg>
             <xg>
-               <x>Mii eat  galgga vajálduhttit ahte sis lea maiddái muhtin lágán objektiivalaš vuođđu. </x>
+               <x>Mii eat  galgga vajálduhttit ahte sis lea maiddái muhtin lágán objektiivalaš vuođđu.</x>
                <xt>Vi skal heller ikke glemme at de også har et slags objektivt grunnlag.</xt>
             </xg>
          </tg>
