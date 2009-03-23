@@ -16578,7 +16578,7 @@
          <tg>
             <t pos="m">svilukt</t>
             <xg>
-               <x>om utstyr og klær)</x>
+               <x>om utstyr og klær</x>
             </xg>
          </tg>
       </mg>
@@ -21613,7 +21613,7 @@
          <tg>
             <t pos="m">klopp</t>
             <xg>
-               <x>šalde-lágaš</x>
+               <x>šaldelágaš</x>
             </xg>
          </tg>
       </mg>
@@ -21849,9 +21849,6 @@
       <mg>
          <tg>
             <t pos="f">stor elv</t>
-            <xg>
-               <x>eatnu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -23590,9 +23587,16 @@
       <mg>
          <tg>
             <t pos="m">overtro</t>
-            <xg>
-               <x>tiida</x>
-            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n" illpl="ok">diilageađgi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">teglstein</t>
          </tg>
       </mg>
    </e>
@@ -23604,9 +23608,6 @@
       <mg>
          <tg>
             <t pos="m">teglstein</t>
-            <xg>
-               <x>diilageađgi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -26747,9 +26748,6 @@
       <mg>
          <tg>
             <t pos="n">leketøy</t>
-            <xg>
-               <x>stoagus</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -27548,6 +27546,7 @@
             <t pos="m">tele</t>
             <xg>
                <x>Eatnamis lea duollu go galbmo.</x>
+               <xt>I jorda er det tele når det blir kaldt.</xt>
             </xg>
             <xg>
                <x>Geainnus leat ollu rokkit duolu dihte.</x>
@@ -27558,16 +27557,13 @@
    </e>
    <e>
       <lg>
-         <l pos="n" illpl="ok">duollu_1</l>
+         <l pos="n" illpl="ok">duollu</l>
          <lc>duollut</lc>
          <lc>dullui</lc>
       </lg>
       <mg>
          <tg>
             <t pos="m">toll</t>
-            <xg>
-               <x>tuollu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -27802,9 +27798,6 @@
       <mg>
          <tg>
             <t pos="n">fiskesnøre</t>
-            <xg>
-               <x>duorggu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -27912,9 +27905,6 @@
             <t pos="n">område</t>
             <t pos="n">flytte- og beiteområde</t>
             <t pos="n">reinbeiteareal</t>
-            <xg>
-               <x>johtolat</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -30900,7 +30890,7 @@
             <t pos="m">flokk</t>
             <t pos="m">reinflokk</t>
             <xg>
-               <x>eallu lea stuorit go čora</x>
+               <x>Eallu lea stuorit go čora.</x>
             </xg>
          </tg>
       </mg>
@@ -32551,9 +32541,6 @@
          <tg>
             <t pos="f">stor elv</t>
             <t pos="m">flod</t>
-            <xg>
-               <x>deatnu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -34832,6 +34819,17 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="n" illpl="ok">fearán</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="f">hending</t>
+            <t pos="m">hendelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n" illpl="ok">fearrán</l>
          <lc>fearránat</lc>
       </lg>
@@ -34839,9 +34837,6 @@
          <tg>
             <t pos="f">hending</t>
             <t pos="m">hendelse</t>
-            <xg>
-               <x>fearán</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -37957,9 +37952,6 @@
       <mg>
          <tg>
             <t pos="m">fart</t>
-            <xg>
-               <x>leaktu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -42503,6 +42495,7 @@
             <t pos="m">topp</t>
             <xg>
                <x>muorragiera</x>
+               <xt>tretopp</xt>
             </xg>
          </tg>
       </mg>
@@ -42511,6 +42504,7 @@
             <t pos="n">utspring</t>
             <xg>
                <x>johkagiera</x>
+               <xt>elveutspring</xt>
             </xg>
          </tg>
       </mg>
@@ -44853,9 +44847,6 @@
       <mg>
          <tg>
             <t pos="n">kort</t>
-            <xg>
-               <x>koarta</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -44906,9 +44897,16 @@
       <mg>
          <tg>
             <t pos="n">berg</t>
+            <xg>
+               <x>goarvi lea stuorit go goapma</x>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="m">jord- eller snøskavl som henger utover</t>
             <xg>
-               <x>(goarvi lea stuorit go goapma)</x>
+               <x>goarvi lea stuorit go goapma</x>
             </xg>
          </tg>
       </mg>
@@ -49110,7 +49108,8 @@
          <tg>
             <t pos="n">tørrtjern</t>
             <xg>
-               <x>go láddu lea goikan geasset</x>
+               <x>Guorru lea go láddu lea goikan geasset.</x>
+               <xt>Guorru er en dam som er tørket inn på sommeren.</xt>
             </xg>
          </tg>
       </mg>
@@ -50904,7 +50903,7 @@
             <t pos="m">lort</t>
             <xg>
                <x>sávzza ja bohcco baika</x>
-               <x>lorten til sauer og rein</x>
+               <xt>lorten til sauer og rein</xt>
             </xg>
          </tg>
       </mg>
@@ -51193,9 +51192,6 @@
       <mg>
          <tg>
             <t pos="m">øyenstikker</t>
-            <xg>
-               <x>skážas</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -51827,8 +51823,9 @@
          <tg>
             <t pos="m">tørr trestokk</t>
             <xg>
-               <x>goike soahki dahje eará lastamuorra</x>
-            </xg>
+               <x>Gálva lea goikesoahki dahje eará lastamuorra.</x>
+                <x>Gálva er tørr bjørk eller et annet løvtre.</x>
+          </xg>
          </tg>
       </mg>
    </e>
@@ -62098,9 +62095,6 @@
       <mg>
          <tg>
             <t pos="m">tvilling</t>
-            <xg>
-               <x>curri</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -63171,7 +63165,7 @@
          <tg>
             <t pos="n">svalt vinddrag</t>
             <xg>
-               <x>geasset lea jáldu</x>
+               <x>Geasset lea jáldu.</x>
             </xg>
          </tg>
       </mg>
@@ -64378,9 +64372,6 @@
       <mg>
          <tg>
             <t pos="n">kjøkken</t>
-            <xg>
-               <x>gievkkan</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -64902,9 +64893,6 @@
       <mg>
          <tg>
             <t pos="n">kort</t>
-            <xg>
-               <x>goarta</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -66654,9 +66642,6 @@
       <mg>
          <tg>
             <t pos="f">krone</t>
-            <xg>
-               <x>ruvdnu, ruvnnu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -68393,9 +68378,6 @@
       <mg>
          <tg>
             <t pos="m">dørstokk</t>
-            <xg>
-               <x>šielbmá</x>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -68655,9 +68637,6 @@
       <mg>
          <tg>
             <t pos="f">torv</t>
-            <xg>
-               <x>darfi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -69680,7 +69659,8 @@
          <tg>
             <t pos="f">løype</t>
             <xg>
-               <x>vuššon šibitbiebmu</x>
+               <x>Liemas lea vuššon šibitbiebmu.</x>
+               <x>Løype er kokt mat til husdyr.</x>
             </xg>
          </tg>
       </mg>
@@ -71491,9 +71471,9 @@
       </lg>
       <mg>
          <tg>
-            <t pos="m">plass på hver side av ildstedet i lávvu</t>
+            <t pos="m">plass på hver side av ildstedet i lavvo eller gamme</t>
             <xg>
-               <x>goahti, sadji goappat ge bealde árrana goađis dahje lávus</x>
+               <x>sadji goappatge bealde árrana goađis dahje lávus</x>
             </xg>
          </tg>
       </mg>
@@ -71878,9 +71858,6 @@
       <mg>
          <tg>
             <t pos="n">lesestoff</t>
-            <xg>
-               <x>lohkamuš</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -71893,9 +71870,6 @@
       <mg>
          <tg>
             <t pos="n">lesestoff</t>
-            <xg>
-               <x>logus</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -72600,9 +72574,6 @@
       <mg>
          <tg>
             <t pos="f">lomme</t>
-            <xg>
-               <x>lumma</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -72701,7 +72672,7 @@
          <tg>
             <t pos="f">skøyte</t>
             <xg>
-               <x>mainna luiste</x>
+               <x>mainna luiste jieŋa alde</x>
             </xg>
          </tg>
       </mg>
@@ -72713,6 +72684,17 @@
       <mg>
          <tg>
             <t pos="S">skøyting</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n" illpl="ok">lukta</l>
+         <lc>luvttat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">starrgress</t>
          </tg>
       </mg>
    </e>
@@ -72739,9 +72721,6 @@
       <mg>
          <tg>
             <t pos="x">sør</t>
-            <xg>
-               <x>máddi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -73419,7 +73398,8 @@
          <tg>
             <t pos="m">skåkbue</t>
             <xg>
-               <x>luohkká gullá heasttaleŋggiide</x>
+               <x>Luohkká gullá heasttaleŋggiide.</x>
+               <xt>Skåkbue hører til hestens seletøy.</xt>
             </xg>
          </tg>
       </mg>
@@ -74535,9 +74515,6 @@
          <tg>
             <t pos="m">dam</t>
             <t pos="n">tjern</t>
-            <xg>
-               <x>láttu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -75770,9 +75747,6 @@
          <tg>
             <t pos="n">glass</t>
             <t pos="m">vindusrute</t>
-            <xg>
-               <x>lássa</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -76031,9 +76005,6 @@
          <tg>
             <t pos="m">dam</t>
             <t pos="n">tjern</t>
-            <xg>
-               <x>láddu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -76553,9 +76524,6 @@
       <mg>
          <tg>
             <t pos="m">klegg</t>
-            <xg>
-               <x>boaru</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -76940,9 +76908,6 @@
       <mg>
          <tg>
             <t pos="f">nyre</t>
-            <xg>
-               <x>monin</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -77417,9 +77382,6 @@
       <mg>
          <tg>
             <t pos="m">tirsdag</t>
-            <xg>
-               <x>disdat</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -78251,7 +78213,8 @@
          <tg>
             <t pos="f">ruse</t>
             <xg>
-               <x>meardi lea guollebivdo-bierggas</x>
+               <x>Meardi lea guollebivdobierggas.</x>
+               <xt>Ruse er et fiskeredskap.</xt>
             </xg>
          </tg>
       </mg>
@@ -78653,9 +78616,6 @@
       <mg>
          <tg>
             <t pos="m">feil</t>
-            <xg>
-               <x>meaddádus</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -78920,9 +78880,6 @@
       <mg>
          <tg>
             <t pos="m">mening</t>
-            <xg>
-               <x>oaivil</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -79858,9 +79815,6 @@
          <tg>
             <t pos="f">tåke</t>
             <t pos="f">skodde</t>
-            <xg>
-               <x>skoaddu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -80640,9 +80594,6 @@
       <mg>
          <tg>
             <t pos="m">fugleflokk</t>
-            <xg>
-               <x>doahkki</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -81464,9 +81415,6 @@
       <mg>
          <tg>
             <t pos="f">nyre</t>
-            <xg>
-               <x>manin</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -82325,7 +82273,7 @@
          <tg>
             <t pos="m">moldbenk</t>
             <xg>
-               <x>torvlag som legges rundt en gamme eller et trehus)</x>
+               <x>torvlag som legges rundt en gamme eller et trehus</x>
             </xg>
          </tg>
       </mg>
@@ -84013,9 +83961,6 @@
       <mg>
          <tg>
             <t pos="m">mandag</t>
-            <xg>
-               <x>vuossárga</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -85810,9 +85755,6 @@
       <mg>
          <tg>
             <t pos="m">nakke</t>
-            <xg>
-               <x>niski</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -85894,9 +85836,6 @@
       <mg>
          <tg>
             <t pos="n">kinn</t>
-            <xg>
-               <x>muohtu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -86127,9 +86066,6 @@
       <mg>
          <tg>
             <t pos="m">nakke</t>
-            <xg>
-               <x>niehkki</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -90400,7 +90336,7 @@
          <tg>
             <t pos="m">utsikt</t>
             <xg>
-               <x>dálu oidnosis gos oaidná dálu dahje gosa oidno dállu</x>
+               <x>"dálu oidnosis" lea gos oaidná dálu dahje gosa oidno dállu</x>
             </xg>
          </tg>
       </mg>
@@ -97876,9 +97812,6 @@
       <mg>
          <tg>
             <t pos="m">post</t>
-            <xg>
-               <x>boasta</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -99586,9 +99519,6 @@
       <mg>
          <tg>
             <t pos="m">pakke</t>
-            <xg>
-               <x>báhkka</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -99673,9 +99603,6 @@
       <mg>
          <tg>
             <t pos="n">par</t>
-            <xg>
-               <x>bárra</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -102882,9 +102809,6 @@
       <mg>
          <tg>
             <t pos="n">gryn</t>
-            <xg>
-               <x>surbmi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -103615,9 +103539,6 @@
       <mg>
          <tg>
             <t pos="n">kors</t>
-            <xg>
-               <x>ruossa</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -103702,8 +103623,9 @@
          <tg>
             <t pos="n">rim</t>
             <xg>
-               <x>ritni lea muorain ja biergasiin)</x>
-            </xg>
+               <x>Ritni lea muorain ja biergasiin.</x>
+                <xt>Ritni er på trærne og på ting.</xt>
+           </xg>
          </tg>
       </mg>
    </e>
@@ -104358,9 +104280,6 @@
       <mg>
          <tg>
             <t pos="m">avdød</t>
-            <xg>
-               <x>váidni</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -104424,8 +104343,9 @@
          <tg>
             <t pos="n">tak</t>
             <xg>
-               <x>rohpi lea viesu siskkobealde</x>
-            </xg>
+               <x>Rohpi lea viesu siskkobealde.</x>
+                <xt>Rohpi er inne i huset.</xt>
+           </xg>
          </tg>
       </mg>
    </e>
@@ -104480,9 +104400,6 @@
       <mg>
          <tg>
             <t pos="m">epidemi</t>
-            <xg>
-               <x>rohttudávda</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -104664,9 +104581,6 @@
       <mg>
          <tg>
             <t pos="f">enkel bru</t>
-            <xg>
-               <x>šaldi</x>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -106358,9 +106272,6 @@
       <mg>
          <tg>
             <t pos="f">krone</t>
-            <xg>
-               <x>kruvdnu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -107812,9 +107723,6 @@
       <mg>
          <tg>
             <t pos="m">skogli</t>
-            <xg>
-               <x>muorraluohkká</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -108709,15 +108617,22 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="n" illpl="ok">sadjingeađgi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="f">bryne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n" illpl="ok">sadjin</l>
          <lc>sadjimat</lc>
       </lg>
       <mg>
          <tg>
             <t pos="f">bryne</t>
-            <xg>
-               <x>sadjingeađgi</x>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -110740,10 +110655,7 @@
       </mg>
       <mg>
          <tg>
-            <t pos="m">verk</t>
-            <xg>
-               <x>i byll, sår eller legemsdel)</x>
-            </xg>
+            <t pos="m">verk i byll, sår eller legemsdel</t>
          </tg>
       </mg>
       <mg>
@@ -111595,9 +111507,6 @@
       <mg>
          <tg>
             <t pos="f">sild</t>
-            <xg>
-               <x>sallit</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -112875,10 +112784,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="m">ubehagelig smak</t>
-            <xg>
-               <x>f.eks. av rå fisk, ukokt blod)</x>
-            </xg>
+            <t pos="m">ubehagelig smak f.eks. av rå fisk, ukokt blod</t>
          </tg>
       </mg>
    </e>
@@ -113019,9 +112925,6 @@
       <mg>
          <tg>
             <t pos="f">saks</t>
-            <xg>
-               <x>skárrit</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -113212,9 +113115,6 @@
          <tg>
             <t pos="m">skodde</t>
             <t pos="f">tåke</t>
-            <xg>
-               <x>mierká</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -113323,7 +113223,7 @@
                <x>en slags høvelbenk med 2 planker som er stilt på høykant ved
           siden av hverandre, den ene fast og den andre på flyttbar, mellom
           disse plankene bringes bord som skal høvles rett i kanten eller
-          pløyes.)</x>
+          pløyes</x>
             </xg>
          </tg>
       </mg>
@@ -114231,9 +114131,6 @@
       <mg>
          <tg>
             <t pos="f">saks</t>
-            <xg>
-               <x>skierat</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -115197,6 +115094,16 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="n">soarpi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">skum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n">soarpa</l>
          <lc>soarppa</lc>
          <lc>sorpii</lc>
@@ -115204,9 +115111,6 @@
       <mg>
          <tg>
             <t pos="n">skum</t>
-            <xg>
-               <x>soarpi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -115262,9 +115166,6 @@
       <mg>
          <tg>
             <t pos="m">harr</t>
-            <xg>
-               <x>hárri</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -115681,9 +115582,6 @@
       <mg>
          <tg>
             <t pos="m">sort</t>
-            <xg>
-               <x>šládja</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -116927,8 +116825,7 @@
          <tg>
             <t pos="m">dråpe</t>
             <xg>
-               <x>især Hoffmansdråper, blanding av sprit og eter , som tidligere
-          ble brukt sammen med kaffe</x>
+               <xt>især Hoffmansdråper, blanding av sprit og eter, som tidligere ble brukt sammen med kaffe</xt>
             </xg>
          </tg>
       </mg>
@@ -117724,9 +117621,6 @@
          <tg>
             <t pos="m">leke</t>
             <t pos="n">leketøy</t>
-            <xg>
-               <x>duhkoras</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -118855,9 +118749,6 @@
       <mg>
          <tg>
             <t pos="m">sum</t>
-            <xg>
-               <x>summá</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -119149,9 +119040,6 @@
       <mg>
          <tg>
             <t pos="m">sum</t>
-            <xg>
-               <x>submi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -119634,7 +119522,8 @@
             <t pos="m">larve</t>
             <t pos="m">makk</t>
             <xg>
-               <x>máđut mat leat guohca guolis dahje bierggus</x>
+               <x>Suovssat leat máđut mat leat guohca guolis dahje bierggus.</x>
+               <xt>Suovssat er makk som er i råtten fisk eller råttent kjøtt.</xt>
             </xg>
          </tg>
       </mg>
@@ -120361,9 +120250,6 @@
       <mg>
          <tg>
             <t pos="n">gryn</t>
-            <xg>
-               <x>rievdna</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -122214,9 +122100,6 @@
       <mg>
          <tg>
             <t pos="m">strek</t>
-            <xg>
-               <x>cáhcu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -123922,9 +123805,6 @@
          <tg>
             <t pos="m">forestilling</t>
             <t pos="m">overtro</t>
-            <xg>
-               <x>diida</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -123936,9 +123816,6 @@
       <mg>
          <tg>
             <t pos="m">murstein</t>
-            <xg>
-               <x>diila</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -124000,9 +123877,6 @@
       <mg>
          <tg>
             <t pos="m">ting</t>
-            <xg>
-               <x>diŋga</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -124864,9 +124738,6 @@
       <mg>
          <tg>
             <t pos="m">toll</t>
-            <xg>
-               <x>duollu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -124878,9 +124749,6 @@
       <mg>
          <tg>
             <t pos="m">toller</t>
-            <xg>
-               <x>duollár</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -125348,9 +125216,6 @@
       <mg>
          <tg>
             <t pos="f">huldre</t>
-            <xg>
-               <x>gufihtar</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -125867,15 +125732,22 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="n" illpl="ok">huvlu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="f">humle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="n" illpl="ok">uvlu</l>
          <lc>uvllut</lc>
       </lg>
       <mg>
          <tg>
             <t pos="f">humle</t>
-            <xg>
-               <x>huvlu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -125888,7 +125760,7 @@
          <tg>
             <t pos="f">teltdør</t>
             <xg>
-               <x>lávvo- ja goahte-uksa</x>
+               <x>lávvo- ja goahteuksa</x>
             </xg>
          </tg>
       </mg>
@@ -126040,6 +125912,7 @@
             <t pos="f">skive</t>
             <xg>
                <x>láibevajahas</x>
+               <xt>brødskive</xt>
             </xg>
          </tg>
       </mg>
@@ -126302,9 +126175,6 @@
       <mg>
          <tg>
             <t pos="m">båt</t>
-            <xg>
-               <x>fanas</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -128453,9 +128323,6 @@
          <tg>
             <t pos="m">skikk</t>
             <t pos="m">vane</t>
-            <xg>
-               <x>dáhpi</x>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -128663,9 +128530,6 @@
       <mg>
          <tg>
             <t pos="n">hus</t>
-            <xg>
-               <x>visti</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -128826,9 +128690,6 @@
          <tg>
             <t pos="m">vin</t>
             <t pos="m">brennevin</t>
-            <xg>
-               <x>viidni</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -129113,9 +128974,6 @@
       <mg>
          <tg>
             <t pos="n">stativ i forrådsstillaset</t>
-            <xg>
-               <x>luovvi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -129350,9 +129208,6 @@
          <tg>
             <t pos="n">hus</t>
             <t pos="m">bygning</t>
-            <xg>
-               <x>viessu</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -136058,7 +135913,7 @@
          <tg>
             <t pos="n">manns barnebarn</t>
             <xg>
-               <x>dievddu mánáid mánát</x>
+               <x>dievddu mánáid mánná</x>
             </xg>
          </tg>
       </mg>
@@ -136083,9 +135938,6 @@
       <mg>
          <tg>
             <t pos="n">tidhefte</t>
-            <xg>
-               <x>go ájiha</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -136247,7 +136099,7 @@
          <tg>
             <t pos="n">kvinnes barnebarn</t>
             <xg>
-               <x>nissona mánáid mánát</x>
+               <x>nissona mánáid mánná</x>
             </xg>
          </tg>
       </mg>
@@ -137562,9 +137414,6 @@
       <mg>
          <tg>
             <t pos="m">matkraft</t>
-            <xg>
-               <x>borramuš lea álbmái, álbmás borramuš</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -138457,9 +138306,6 @@
       <mg>
          <tg>
             <t pos="m">fortjeneste</t>
-            <xg>
-               <x>maid ánssáša</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -138633,15 +138479,22 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
+         <l pos="n" illpl="ok">árgabeaivi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">hverdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped" src="nj">
+      <lg>
          <l pos="n" illpl="ok">árga</l>
          <lc>árggat</lc>
       </lg>
       <mg>
          <tg>
             <t pos="m">hverdag</t>
-            <xg>
-               <x>árgabeaivi</x>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -143237,7 +143090,8 @@
          <tg>
             <t pos="f">kubbe</t>
             <xg>
-               <x>čulku heaŋgá beatnaga čeabehis</x>
+               <x>Čulku heaŋgá beatnaga čeabehis.</x>
+               <xt>Čulku henger under hundens hals.</xt>
             </xg>
          </tg>
       </mg>
@@ -144203,7 +144057,8 @@
          <tg>
             <t pos="m">bak</t>
             <xg>
-               <x>olbmos lea čurti</x>
+               <x>Olbmos lea čurti.</x>
+               <x>Mennesker har čurti.</x>
             </xg>
          </tg>
       </mg>
