@@ -1018,12 +1018,16 @@
             <t pos="adv">bra</t>
             <t pos="adv">godt</t>
             <xg>
-               <x>manná bures</x>
-               <xt>Det går bra</xt>
+               <x>Bures dat manná.</x>
+               <xt>Det går bra.</xt>
             </xg>
             <xg>
-               <x>Bures</x>
-               <xt>God dag, takk for sist</xt>
+               <x>Bures!</x>
+               <xt>God dag! (når man handhilser første gangen)</xt>
+            </xg>
+            <xg>
+               <x>Bures!</x>
+               <xt>God dag, takk for sist! (når man ikke har sett hverandre på en stund)</xt>
             </xg>
          </tg>
       </mg>
@@ -3447,7 +3451,7 @@
                <xt>Jeg har ikke tid til å dra.</xt>
             </xg>
             <xg>
-               <x>ii báljo mihke-ge</x>
+               <x>ii báljo mihkkege</x>
                <xt>nesten ingen ting</xt>
             </xg>
          </tg>
@@ -3461,8 +3465,8 @@
          <tg>
             <t pos="adv">desto</t>
             <xg>
-               <x>mađe stuorát, dađe buoret</x>
-               <xt>jo større, desto bedre</xt>
+               <x>Mađe stuorát, dađe buoret.</x>
+               <xt>Jo større, desto bedre.</xt>
             </xg>
          </tg>
       </mg>
@@ -3476,8 +3480,12 @@
             <t pos="adv">sunt</t>
             <t pos="adv">frisk</t>
             <xg>
-               <x>mon ealán dearvan</x>
-               <xt>jeg er frisk</xt>
+               <x>Mun ealán dearvan.</x>
+               <xt>Jeg er frisk.</xt>
+            </xg>
+            <xg>
+               <x>Báze dearvan!</x>
+               <xt>Ha det bra! (til den som blir igjen)</xt>
             </xg>
          </tg>
       </mg>
@@ -3491,8 +3499,8 @@
             <t pos="adv">absolutt</t>
             <t pos="adv">ubetinget</t>
             <xg>
-               <x>galggat eandalii boahtit</x>
-               <xt>du må absolutt endelig komme</xt>
+               <x>Galggat eandalii boahtit.</x>
+               <xt>Du må absolutt endelig komme.</xt>
             </xg>
          </tg>
       </mg>
@@ -3505,8 +3513,8 @@
          <tg>
             <t pos="adv">slett ikke</t>
             <xg>
-               <x>Neahttasadji ii leat gal eisege loahpalaš</x>
-               <xt>Nettstedet er nok ikke endelig i det hele tatt</xt>
+               <x>Neahttasadji ii leat gal eisege loahpalaš.</x>
+               <xt>Nettstedet er nok ikke endelig i det hele tatt.</xt>
             </xg>
          </tg>
       </mg>
@@ -3524,7 +3532,7 @@
             </xg>
             <xg>
                <x>Sámediggi lea miehtan sutnje máksit 800 ruvnno juohke árgabeaivvi ovddas, muhto ii fal lávvordagaid, sotnabeivviid ja bassebeivviid ovddas.</x>
-               <xt>ja, akkurat slik</xt>
+               <xt>Sametinget har gått med på å betale 800 kr for hver hverdag, men ikke for lørdager, søndager og helligdager.</xt>
             </xg>
          </tg>
       </mg>
@@ -3563,8 +3571,8 @@
                <xt>derimot</xt>
             </xg>
             <xg>
-               <x>mon válddan dán, don fas dien</x>
-               <xt/>
+               <x>Mun válddan dán, don fas dien.</x>
+               <xt>Jeg tar denne, du igjen den der.</xt>
             </xg>
          </tg>
       </mg>
@@ -3577,8 +3585,8 @@
          <tg>
             <t pos="adv">til og med</t>
             <xg>
-               <x>Doppe lei feara mii</x>
-               <xt>Der borte var det litt av hvert</xt>
+               <x>Doppe lei feara mii.</x>
+               <xt>Der borte var det litt av hvert.</xt>
             </xg>
             <xg>
                <x>Buot boazosápmelaččat johtaledje dasto feara gos, muhtomin ruošša ja muhtomin norgga eatnamis.</x>
@@ -3596,8 +3604,8 @@
             <t pos="adv">vel</t>
             <t pos="adv">tydeligvis</t>
             <xg>
-               <x>son gul dahká dan</x>
-               <xt>han skal gjøre det, sier han</xt>
+               <x>Son gul dahká dan.</x>
+               <xt>Han skal gjøre det, sier han.</xt>
             </xg>
             <xg>
                <x>Rádji gul gustui formálalaččat 1545 rájes juo.</x>
@@ -3614,8 +3622,8 @@
          <tg>
             <t pos="adv">ved siden av</t>
             <xg>
-               <x>bija dan geaidno-gurrii</x>
-               <xt>sett den ved veien </xt>
+               <x>Bija dan geaidnogurrii.</x>
+               <xt>Sett den ved veien.</xt>
             </xg>
          </tg>
       </mg>
@@ -3628,8 +3636,8 @@
          <tg>
             <t pos="adv">se ut til</t>
             <xg>
-               <x>nu lea gusto</x>
-               <xt>slik er det, ser det ut til</xt>
+               <x>Nu lea gusto.</x>
+               <xt>Slik er det, ser det ut til.</xt>
             </xg>
          </tg>
       </mg>
@@ -3642,8 +3650,8 @@
          <tg>
             <t pos="adv">full</t>
             <xg>
-               <x>Son lea gárremiin</x>
-               <xt>Han er full</xt>
+               <x>Son lea gárremiin.</x>
+               <xt>Han er full.</xt>
             </xg>
          </tg>
       </mg>
@@ -3680,8 +3688,8 @@
                <xt>Hun hadde så pass at hun klarte seg.</xt>
             </xg>
             <xg>
-               <x>mađe stuorit, dađe buoret</x>
-               <xt>jo større, desto bedre</xt>
+               <x>Mađe stuorit, dađe buoret.</x>
+               <xt>Jo større, desto bedre.</xt>
             </xg>
          </tg>
       </mg>
@@ -3732,10 +3740,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="adv">vare boađášii</t>
+            <t pos="adv">skulle ønske</t>
             <xg>
-               <x/>
-               <xt>jeg skulle ønske at han kom</xt>
+               <x>Vare boađášii.</x>
+               <xt>Jeg skulle ønske at han/hun kom.</xt>
             </xg>
          </tg>
       </mg>
@@ -3760,20 +3768,6 @@
             <xg>
                <x>vuhtii váldit</x>
                <xt>å ta hensyn til</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="adv">vuolá</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="adv">underside</t>
-            <xg>
-               <x>vuolábealde </x>
-               <xt/>
             </xg>
          </tg>
       </mg>
@@ -3829,8 +3823,8 @@
          <tg>
             <t pos="adv">unnskyld</t>
             <xg>
-               <x>attán ándagassii</x>
-               <xt>jeg tilgir</xt>
+               <x>Attán ándagassii.</x>
+               <xt>Jeg tilgir.</xt>
             </xg>
          </tg>
       </mg>
