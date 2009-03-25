@@ -282,6 +282,68 @@
       </tg>
     </mg>
   </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="dem" nr="sg">makkár</l>
+         <analysis>Pron_Interr_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Interr_Sg_Acc">
+               <wordform>makkára</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Gen">
+               <wordform>makkára</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Ill">
+               <wordform>makkárii</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Loc">
+               <wordform>makkáris</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Com">
+               <wordform>makkáriin</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Ess">
+               <wordform>makkárin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">hva slags</t>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="dem" nr="pl">makkárat</l>
+         <analysis>Pron_Interr_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Interr_Pl_Acc">
+               <wordform>makkáriid</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Pl_Gen">
+               <wordform>makkáriid</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Pl_Ill">
+               <wordform>makkáriidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Pl_Loc">
+               <wordform>makkáriin</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Pl_Com">
+               <wordform>makkáriiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Ess">
+               <wordform>makkárin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">hva slags (flertall)</t>
+      </tg>
+    </mg>
+  </e>
 <!-- example for flected forms -->
    <e>
       <lg>
@@ -895,6 +957,118 @@
          <tg>
             <t pos="pron">med hvem (flertall)</t>
          </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">makkára</l>
+         <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
+         <analysis>Pron_Interr_Sg_Gen</analysis>
+         <analysis>Pron_Interr_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hva slags</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">makkárii</l>
+         <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
+         <analysis>Pron_Interr_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hva slags</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">makkáris</l>
+         <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
+         <analysis>Pron_Interr_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i/av hva slags</t>
+            <t pos="pron">hva slags (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem" nr="sg">makkáriin</l>
+         <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
+         <analysis>Pron_Interr_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hva slags</t>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">makkárin</l>
+         <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
+         <analysis>Pron_Interr_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som hva slags</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">makkáriid</l>
+         <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
+         <analysis>Pron_Interr_Pl_Gen</analysis>
+         <analysis>Pron_Interr_Pl_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hva slags (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">makkáriidda</l>
+         <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
+         <analysis>Pron_Interr_Pl_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hva slags (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem" nr="pl">makkáriin</l>
+         <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
+         <analysis>Pron_Interr_Pl_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i/av hva slags (flertall)</t>
+            <t pos="pron">hva slags (har) (flertall)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">makkáriiguin</l>
+         <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
+         <analysis>Pron_Interr_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hva slags (flertall)</t>
+        </tg>
       </mg>
    </e>
 </r>
