@@ -2,6 +2,19 @@
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_dictionary.dtd">
 <r>
+   <e src="nj">
+      <lg>
+         <l pos="n" illpl="ok">loassi</l>
+         <lc>loasit</lc>
+         <lc>losiid</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">svak person eller ting</t>
+            <t pos="m">dårlig person eller ting</t>
+         </tg>
+      </mg>
+   </e>
     <e>
       <lg>
          <l pos="n" illpl="ok">idjadanruhta</l>
@@ -9,6 +22,17 @@
       <mg>
          <tg>
             <t pos="n">nattillegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="n" illpl="ok">sogalaš</l>
+         <lc>-laččat, -lažžii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">slektning</t>
          </tg>
       </mg>
    </e>
