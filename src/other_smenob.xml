@@ -96,7 +96,45 @@
     </mg>
   </e>
 
-  <e>
+  <e usage="ped">
+    <lg>
+      <l pos="po">beallái</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="adv">til den siden</t>         
+            <xg>
+               <x>Dan maŋŋá son fárrii ovttas bearrašiinnis rájá nuppe beallái.</x>
+               <xt>Etter det flyttet han/hun sammen med familien sin til andre siden av grensen.</xt>
+            </xg>
+            <xg>
+               <x>Doivon duođai ahte dát ášši állana min beallái.</x>
+               <xt>Jeg håpet virkelig at denne saken går i vår favør.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e usage="ped">
+    <lg>
+      <l pos="po">beallai</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="adv">til den siden</t>        
+            <xg>
+               <x>Dan maŋŋá son fárrii ovttas bearrašiinnis rájá nuppe beallai.</x>
+               <xt>Etter det flyttet han/hun sammen med familien sin til andre siden av grensen.</xt>
+            </xg>
+            <xg>
+               <x>Doivon duođai ahte dát ášši állana min beallai.</x>
+               <xt>Jeg håpet virkelig at denne saken går i vår favør.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
     <lg>
       <l pos="po">bealde</l>
     </lg>
@@ -111,11 +149,6 @@
           <xt>La oss gå på denne sida av brua.</xt>
         </xg>
 
-        <xg>
-          <x>Min viessu lea luotta bajábealde.</x>
-
-          <xt>Huset vårt står på oversida av veien.</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -548,7 +581,7 @@
     </mg>
   </e>
 
-  <e>
+   <e usage="ped">
     <lg>
       <l pos="cs">jus</l>
     </lg>
@@ -558,14 +591,13 @@
         <t pos="cs">hvis</t>
         <xg>
           <x>Jus ihttin lea buolaš, de eat vuolgge čuoigat.</x>
-
           <xt>Hvis det er kaldt i morgen, går vi ikke på ski.</xt>
         </xg>
       </tg>
     </mg>
   </e>
 
-  <e>
+  <e usage="ped">
     <lg>
       <l pos="cs">nugo</l>
     </lg>
@@ -577,11 +609,14 @@
         <t pos="cs">som</t>
         <xg>
           <x>Daga nugo mun.</x>
-
           <xt>Gjør som jeg.</xt>
         </xg>
+        <xg>
+          <x>Nugo?</x>
+          <xt>Sier du det?</xt>
+        </xg>
             <xg>
-               <x>Dán áigasaš ođasmuitaleaddjit eai máhte ságaid ge muitalit nugo dolin lávejedje.</x>
+               <x>Dán áigasaš ođasmuitaleaddjit eai máhte ságaidge muitalit nugo dolin lávejedje.</x>
                <xt>Dagens nyhetsformidlere kan ikke fortelle nyheter engang slik som de pleide å gjøre i gamle dager.</xt>
             </xg>
             <xg>
@@ -1140,8 +1175,12 @@
         <t pos="p">ovenfor</t>
 
         <xg>
+          <x>Min viessu lea luotta bajábealde.</x>
+          <xt>Huset vårt står ovenfor veien.</xt>
+        </xg>
+        <xg>
           <x>Dássážii lea leamaš hui unnán luossabivdu bajábealde goržži.</x>
-          <xt>Til nå har det vært svært lite laksefiske på oversida av fossen.</xt>
+          <xt>Til nå har det vært svært lite laksefiske ovenfor fossen.</xt>
         </xg>
         <xg>
           <x>Dasto sáhttet sápmelaččain leat leamen sierra vuoigatvuođat bajábealde namuhuvvon prinsihpaid vuođul.</x>
@@ -1151,7 +1190,7 @@
     </mg>
   </e>
 
-  <e>
+  <e usage="ped">
     <lg>
       <l pos="po">gaskkas</l>
     </lg>
@@ -1162,7 +1201,6 @@
 
         <xg>
           <x>Guhtura ja Avvila gaskkas leat 30 guoikasaji.</x>
-
           <xt>Det er 30 fossestryk mellom Guhtur og Ivalo.</xt>
         </xg>
       </tg>
@@ -1291,8 +1329,28 @@
     </mg>
   </e>
 
+  <e src="nj">
+    <lg>
+      <l pos="po">rádjai</l>
+    </lg>
 
-  <e>
+    <mg>
+      <tg>
+        <t pos="p">til</t>
+
+        <xg>
+          <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjai.</x>
+          <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
+        </xg>
+        <xg>
+          <x>Prošeaktaruhtadeapmi bistá 2001 rádjai, ja dan maŋŋá doaivumis rievdaduvvo bissovažžan.</x>
+          <xt>Prosjektfinansieringa varer til 2001, og deretter endres det forhåpentligvis til å bli fast finansiering.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e src="nj">
     <lg>
       <l pos="po">rádjái</l>
     </lg>
@@ -1303,12 +1361,16 @@
 
         <xg>
           <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjái.</x>
-          <xt>Det er 40 slektledd fra David til Babylons fangeskap.</xt>
+          <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
+        </xg>
+        <xg>
+          <x>Prošeaktaruhtadeapmi bistá 2001 rádjái, ja dan maŋŋá doaivumis rievdaduvvo bissovažžan.</x>
+          <xt>Prosjektfinansieringa varer til 2001, og deretter endres det forhåpentligvis til å bli fast finansiering.</xt>
         </xg>
       </tg>
     </mg>
   </e>
-  <e>
+  <e src="nj">
     <lg>
       <l pos="po">rájes</l>
     </lg>
@@ -1319,7 +1381,7 @@
 
         <xg>
           <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjái.</x>
-          <xt>Det er 40 slektledd fra David til Babylons fangeskap.</xt>
+          <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
         </xg>
       </tg>
     </mg>
@@ -1347,8 +1409,24 @@
       </tg>
     </mg>
   </e>
+  <e src="nj">
+    <lg>
+      <l pos="po">sisa</l>
+    </lg>
 
-  <e>
+    <mg>
+      <tg>
+        <t pos="p">inn i</t>
+
+        <xg>
+          <x>Son bidjalii reivve girjji sisa.</x>
+          <xt>Hun stakk brevet inn i boka.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e usage="ped">
     <lg>
       <l pos="po">vuođul</l>
     </lg>
@@ -1359,7 +1437,6 @@
 
         <xg>
           <x>Dán materiála vuođul lea váttis mearridit.</x>
-
           <xt>Det er vanskelig å gjøre vedtak på grunnlag av dette materialet.</xt>
         </xg>
       </tg>
@@ -2112,9 +2189,9 @@
       <tg>
         <t pos="x">inne i</t>
         <xg>
-          <x>Giissa siste leat riskkut.</x>
+          <x>Girjji siste gávdnui reive.</x>
 
-          <xt>Det er søljer i kisten.</xt>
+          <xt>Et brev ble funnet inne i boka.</xt>
 	</xg>
       </tg>
     </mg>
@@ -2191,6 +2268,24 @@
     </mg>
   </e>
 
+  <e usage="ped">
+    <lg>
+      <l pos="po">hárrái</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="p">vedrørende</t>
+
+        <xg>
+          <x>Min bellodagas lea čielga politihkalaš oaidnu sámi rivttiid hárrái.</x>
+
+          <xt>Vårt parti har et klart politisk syn vedrørende samiske rettigheter.</xt>
+        </xg>
+
+      </tg>
+    </mg>
+  </e>
   <e src="nj">
     <lg>
       <l pos="po">dáfus</l>
@@ -2209,7 +2304,7 @@
         <xg>
           <x>Nu lea maid lobihis áiddiid dáfus.</x>
 
-          <xt>Slik er det også når det gjelder de ulovlige gjerdene.</xt>
+          <xt>Slik er det også når det gjelder ulovlige gjerder.</xt>
         </xg>
       </tg>
     </mg>
