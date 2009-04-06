@@ -284,7 +284,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron" type="dem" nr="sg">makkár</l>
+      <l pos="pron" type="interr" nr="sg">makkár</l>
          <analysis>Pron_Interr_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Sg_Acc">
@@ -315,7 +315,7 @@
   </e>
   <e src="nj">
     <lg>
-      <l pos="pron" type="dem" nr="pl">makkárat</l>
+      <l pos="pron" type="interr" nr="pl">makkárat</l>
          <analysis>Pron_Interr_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Pl_Acc">
@@ -961,7 +961,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">makkára</l>
+         <l pos="pron" type="interr">makkára</l>
          <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Gen</analysis>
          <analysis>Pron_Interr_Sg_Acc</analysis>
@@ -974,7 +974,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">makkárii</l>
+         <l pos="pron" type="interr">makkárii</l>
          <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Ill</analysis>
       </lg>
@@ -986,7 +986,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">makkáris</l>
+         <l pos="pron" type="interr">makkáris</l>
          <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Loc</analysis>
       </lg>
@@ -999,7 +999,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="sg">makkáriin</l>
+         <l pos="pron" type="interr" nr="sg">makkáriin</l>
          <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Com</analysis>
       </lg>
@@ -1011,7 +1011,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">makkárin</l>
+         <l pos="pron" type="interr">makkárin</l>
          <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
          <analysis>Pron_Interr_Ess</analysis>
       </lg>
@@ -1023,7 +1023,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">makkáriid</l>
+         <l pos="pron" type="interr">makkáriid</l>
          <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Gen</analysis>
          <analysis>Pron_Interr_Pl_Acc</analysis>
@@ -1036,7 +1036,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">makkáriidda</l>
+         <l pos="pron" type="interr">makkáriidda</l>
          <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Ill</analysis>
       </lg>
@@ -1048,7 +1048,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="pl">makkáriin</l>
+         <l pos="pron" type="interr" nr="pl">makkáriin</l>
          <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Loc</analysis>
       </lg>
@@ -1061,7 +1061,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">makkáriiguin</l>
+         <l pos="pron" type="interr">makkáriiguin</l>
          <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Com</analysis>
       </lg>
