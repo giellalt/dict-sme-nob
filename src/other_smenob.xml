@@ -1280,6 +1280,22 @@
 
   <e src="nj">
     <lg>
+      <l pos="po">dihtii</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="p">for</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="p">på grunn av</t>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
       <l pos="po">dihte</l>
     </lg>
 
@@ -2427,6 +2443,23 @@
     </mg>
   </e>
 
+  <e src="nj">
+    <lg>
+      <l pos="pr">earret</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="p">unntatt</t>
+        <t pos="p">foruten</t>
+        <xg>
+          <x>earret eará(id)</x>
+
+          <xt>blant annet</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
   <e src="nj">
     <lg>
       <l pos="pr">earet</l>

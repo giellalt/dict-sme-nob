@@ -5545,7 +5545,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">deattuhit</l>
       </lg>
@@ -13522,7 +13522,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">gustot</l>
       </lg>
@@ -22330,13 +22330,18 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">nammadit</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">oppnevne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">omtale</t>
          </tg>
       </mg>
    </e>
@@ -22350,7 +22355,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">namuhit</l>
       </lg>
@@ -29486,7 +29491,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">sihkkarastit</l>
       </lg>
@@ -34355,7 +34360,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">vuoruhit</l>
       </lg>

@@ -18,7 +18,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="eanan">ráhpis</l>
+         <l pos="a" context="eana">ráhpis</l>
       </lg>
       <mg>
          <tg>
@@ -5394,6 +5394,16 @@
          </tg>
       </mg>
    </e>
+   <e usage="more">
+      <lg>
+         <l pos="a" context="olmmoš">politihkalaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">politisk</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="a" context="olmmoš">riektepolitihkalaš</l>
@@ -5877,7 +5887,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="biergasat">saŋas</l>
+         <l pos="a" context="bierggas">saŋas</l>
          <lc>sakŋasat</lc>
       </lg>
       <mg>
@@ -6195,7 +6205,7 @@
    </e>
    <e usage="ped" src="nj">
       <lg>
-         <l pos="a" context="dáhpahus">somá</l>
+         <l pos="a" context="dáhpáhus">somá</l>
          <lc>somás (dáhpahus)</lc>
       </lg>
       <mg>
@@ -8032,7 +8042,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
+      <lg>
+         <l pos="a" context="viesut">dálá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">nåtidens</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
       <lg>
          <l pos="a" context="olmmoš">čuovvovaš</l>
       </lg>

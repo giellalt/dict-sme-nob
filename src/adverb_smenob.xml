@@ -665,7 +665,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj">
       <lg>
          <l pos="adv">maiddái</l>
       </lg>
@@ -699,7 +699,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj">
       <lg>
          <l pos="adv">olu</l>
       </lg>
@@ -709,7 +709,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="adv">seamma</l>
       </lg>
@@ -1211,6 +1211,16 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="adv">danne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">derfor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="adv">danin</l>
       </lg>
       <mg>
@@ -1554,7 +1564,18 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
+   <e usage="more">
+      <lg>
+         <l pos="adv">earenoamážit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">spesielt</t>
+            <t pos="x">særlig</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="nj">
       <lg>
          <l pos="adv">erenoamážit</l>
       </lg>
@@ -2520,6 +2541,56 @@
       <mg>
          <tg>
             <t pos="x">slik som</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">movt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">hvordan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">slik som</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="adv">ovdan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">fram</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="adv">eanet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">mer</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">flere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="adv">muđui</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ellers</t>
          </tg>
       </mg>
    </e>
