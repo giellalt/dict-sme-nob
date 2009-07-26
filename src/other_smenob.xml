@@ -709,6 +709,26 @@
       </tg>
     </mg>
   </e>
+   <e usage="more">
+      <lg>
+      <l context="gápmagat" pos="num">miljon</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">million</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+      <l context="gápmagat" pos="num">miljárda</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">milliard</t>
+         </tg>
+      </mg>
+   </e>
 
   <e src="nj">
     <lg>
@@ -2006,9 +2026,26 @@
       </tg>
     </mg>
   </e>
-
-
-
+  <e usage="more">
+    <lg>
+      <l pos="po">maŋŋel</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="p">etter</t>
+      </tg>
+    </mg>
+  </e>
+  <e usage="more">
+    <lg>
+      <l pos="pr">maŋŋel</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="p">etter</t>
+      </tg>
+    </mg>
+  </e>
   <e src="nj">
     <lg>
       <l pos="pr">maŋŋil</l>
