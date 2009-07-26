@@ -1911,6 +1911,16 @@
    </e>
    <e src="nj">
       <lg>
+         <l pos="a" context="dáhpáhus">earenoamáš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">spesiell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
          <l pos="a" context="dáhpáhus">erenoamáš</l>
          <lc>-noamážat</lc>
       </lg>
@@ -3228,7 +3238,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="a" context="doaibma">hálddahuslaš</l>
       </lg>
@@ -5088,9 +5098,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="a" context="olmmoš">oppalaš</l>
+         <l pos="a" context="oaidnu">oppalaš</l>
       </lg>
       <mg>
          <tg>
@@ -5364,9 +5374,19 @@
          </tg>
       </mg>
    </e>
+   <e usage="more">
+      <lg>
+         <l pos="a" context="dáhpáhus">historjjálaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">historisk</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">riektehistorjjálaš</l>
+         <l pos="a" context="dáhpáhus">riektehistorjjálaš</l>
       </lg>
       <mg>
          <tg>
@@ -7064,6 +7084,16 @@
          <tg>
             <t pos="x">gammel (om menneske)</t>
             <t pos="a">aldrende</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="a" context="luohkká">vuosttas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">først</t>
          </tg>
       </mg>
    </e>
