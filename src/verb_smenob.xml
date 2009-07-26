@@ -1783,7 +1783,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">beaivádit</l>
       </lg>
@@ -2580,7 +2580,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">bisuhit</l>
          <lc>(dat) bisuha</lc>
@@ -4159,7 +4159,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">buvttadit</l>
       </lg>
@@ -8628,7 +8628,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">eaiggáduššat</l>
       </lg>
@@ -8638,7 +8638,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">eaktudit</l>
       </lg>
@@ -11475,7 +11475,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">geatnegahttit</l>
       </lg>
@@ -14919,7 +14919,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">hábmet</l>
       </lg>
@@ -21721,7 +21721,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">muddet</l>
       </lg>
@@ -23971,7 +23971,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">oassálastit</l>
       </lg>
@@ -24547,13 +24547,18 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">ovddastit</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">forestå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">representere</t>
          </tg>
       </mg>
    </e>
@@ -24599,7 +24604,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">ovttastahttit</l>
       </lg>
@@ -24607,17 +24612,26 @@
          <tg>
             <t pos="v">forene</t>
             <t pos="v">inkorporere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="v">kombinere</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">ođasmahttit</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">oppdatere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">fornye</t>
          </tg>
       </mg>
    </e>
@@ -26788,7 +26802,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">registreret</l>
       </lg>
@@ -27136,6 +27150,16 @@
       <mg>
          <tg>
             <t pos="v">renovere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="v" context="mun">organiseret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">organisere</t>
          </tg>
       </mg>
    </e>
@@ -28460,7 +28484,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">ráddjet</l>
       </lg>
@@ -30995,7 +31019,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">stivret</l>
       </lg>
@@ -34866,7 +34890,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">vásihit</l>
       </lg>
@@ -35555,7 +35579,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">ávkkástallat</l>
       </lg>
