@@ -1651,7 +1651,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">almennet</l>
       </lg>
@@ -2851,7 +2851,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">artihkal</l>
       </lg>
@@ -5425,7 +5425,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargojoavku</l>
       </lg>
@@ -7687,7 +7687,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">beavdegirjelasáhus</l>
       </lg>
@@ -12909,13 +12909,14 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">boazodoalloláhka</l>
       </lg>
       <mg>
          <tg>
             <t pos="m">rennæringslov</t>
+            <t pos="m">reindriftslov</t>
          </tg>
       </mg>
    </e>
@@ -12939,7 +12940,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">boazodoallostivra</l>
       </lg>
@@ -12969,7 +12970,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">boazodoallošiehtadus</l>
       </lg>
@@ -15322,7 +15323,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">buhtadus</l>
       </lg>
@@ -22543,7 +22544,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">diehtojuohkin</l>
       </lg>
@@ -24527,7 +24528,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">doaba</l>
       </lg>
@@ -24738,7 +24739,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">doaibmaguovlu</l>
       </lg>
@@ -25599,7 +25600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">doarjjaortnet</l>
       </lg>
@@ -27665,7 +27666,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">duopmostuollu</l>
       </lg>
@@ -29779,7 +29780,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">dásseárvu</l>
       </lg>
@@ -31597,6 +31598,16 @@
          </tg>
       </mg>
    </e>
+   <e usage="more">
+      <lg>
+         <l pos="n" illpl="ok">eanadoallu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jordbruk</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="ped" src="nj">
       <lg>
          <l pos="n" illpl="ok">eanandoallu</l>
@@ -32128,7 +32139,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">eanetlohku</l>
       </lg>
@@ -32702,7 +32713,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">ekonomiija</l>
       </lg>
@@ -36267,7 +36278,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">foanda</l>
       </lg>
@@ -37133,7 +37144,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">fylkkamánni</l>
       </lg>
@@ -40783,7 +40794,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">geavahus</l>
       </lg>
@@ -41210,7 +41221,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n">gelbbolašvuohta</l>
       </lg>
@@ -42389,7 +42400,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">giellaráđđi</l>
       </lg>
@@ -47143,6 +47154,16 @@
       <mg>
          <tg>
             <t pos="S">æresgjest</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="n" illpl="ok">miellahttu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">medlem</t>
          </tg>
       </mg>
    </e>
@@ -56047,7 +56068,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">hálddašanguovlu</l>
       </lg>
@@ -58192,7 +58213,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">institušuvdna</l>
       </lg>
@@ -58707,13 +58728,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">iskkadeapmi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">undersøkelse</t>
+            <t pos="m">undersøkelse</t>
          </tg>
       </mg>
    </e>
@@ -59901,13 +59922,14 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">jienastuslohku</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">manntall</t>
+            <t pos="n">manntall</t>
+            <t pos="n">valgmanntall</t>
          </tg>
       </mg>
    </e>
@@ -65154,7 +65176,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">kommišuvdna</l>
       </lg>
@@ -66106,7 +66128,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">konvenšuvdna</l>
       </lg>
@@ -68362,13 +68384,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">lasáhus</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">tillegg</t>
+            <t pos="n">tillegg</t>
          </tg>
       </mg>
    </e>
@@ -72350,7 +72372,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">lotnolasealáhus</l>
       </lg>
@@ -78208,7 +78230,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="S">merknad</t>
+            <t pos="m">merknad</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">betydning</t>
          </tg>
       </mg>
    </e>
@@ -78564,7 +78591,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">media</l>
       </lg>
@@ -79332,7 +79359,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">mielddus</l>
       </lg>
@@ -80199,26 +80226,6 @@
       <mg>
          <tg>
             <t pos="S">militærkolonne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">miljon</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">million</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">miljárda</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">milliard</t>
          </tg>
       </mg>
    </e>
@@ -82148,6 +82155,16 @@
       <mg>
          <tg>
             <t pos="n">stikkord</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="n" illpl="ok">kulturmuitu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kulturminne</t>
          </tg>
       </mg>
    </e>
@@ -93535,7 +93552,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">opmodat</l>
       </lg>
@@ -93861,7 +93878,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">organisašuvdna</l>
       </lg>
@@ -95336,7 +95353,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">ovddidanfoanda</l>
       </lg>
@@ -97134,7 +97151,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">perspektiiva</l>
       </lg>
@@ -97868,7 +97885,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">politihkka</l>
       </lg>
@@ -99871,7 +99888,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">raporta</l>
       </lg>
@@ -102748,7 +102765,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">riggodat</l>
       </lg>
@@ -107425,7 +107442,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">rámmaeaktu</l>
       </lg>
@@ -109980,7 +109997,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">seminára</l>
       </lg>
@@ -117654,7 +117671,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">strategiija</l>
       </lg>
@@ -118151,13 +118168,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">stáhtabušeahtta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">statsbudsjett</t>
+            <t pos="n">statsbudsjett</t>
          </tg>
       </mg>
    </e>
@@ -121685,7 +121702,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">sámeláhka</l>
       </lg>
@@ -121698,7 +121715,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">sámepolitihkka</l>
       </lg>
@@ -122467,7 +122484,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">tabealla</l>
       </lg>
@@ -125327,7 +125344,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">unnitlohku</l>
       </lg>
@@ -129673,18 +129690,18 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">vuogádat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">framgangsmåte</t>
+            <t pos="m">framgangsmåte</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="S">system</t>
+            <t pos="n">system</t>
          </tg>
       </mg>
    </e>
@@ -132746,7 +132763,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">vuođđoealáhus</l>
       </lg>
@@ -134946,13 +134963,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">várrelahttu</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">varamedlem</t>
+            <t pos="n">varamedlem</t>
          </tg>
       </mg>
    </e>
@@ -134976,13 +134993,23 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
+      <lg>
+         <l pos="n" illpl="ok">presideanta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">president</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">várrepresideanta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">visepresident</t>
+            <t pos="m">visepresident</t>
          </tg>
       </mg>
    </e>
@@ -135255,13 +135282,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">vásáhus</l>
       </lg>
       <mg>
          <tg>
-            <t pos="S">opplevelse</t>
+            <t pos="m">opplevelse</t>
          </tg>
       </mg>
    </e>
@@ -137370,7 +137397,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">álbmotriekti</l>
       </lg>
@@ -138027,7 +138054,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">ámtamánni</l>
       </lg>
@@ -138713,6 +138740,11 @@
       <mg>
          <tg>
             <t pos="m">kritikk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="m">vurdering</t>
          </tg>
       </mg>
    </e>
@@ -140250,7 +140282,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">čađaheapmi</l>
       </lg>
@@ -141001,7 +141033,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">čielggadeapmi</l>
       </lg>
@@ -145097,7 +145129,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">čázádat</l>
       </lg>
@@ -145496,7 +145528,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">šiehtadallan</l>
       </lg>
