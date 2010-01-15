@@ -5,34 +5,34 @@
    <e usage="ped" src="nj">
       <lg>
          <l pos="v" context="mun">ii</l>
-	 <analysis>IV_Inf</analysis>
-         <analysis>IV_Ind_Prs_Sg3</analysis>
+	 <analysis>Neg_Inf</analysis>
+         <analysis>IV_Neg_Ind_Sg3</analysis>
          <mini_paradigm>
-            <analysis ms="IV_Ind_Prs_Sg1">
+            <analysis ms="IV_Neg_Ind_Sg1">
                <wordform>in</wordform>
             </analysis>
-            <analysis ms="IV_Ind_Prs_Sg2">
+            <analysis ms="IV_Neg_Ind_Sg2">
                <wordform>it</wordform>
             </analysis>
-            <analysis ms="IV_Ind_Prs_Sg3">
+            <analysis ms="IV_Neg_Ind_Sg3">
                <wordform>ii</wordform>
             </analysis>
-            <analysis ms="IV_Ind_Prs_Du1">
+            <analysis ms="IV_Neg_Ind_Du1">
                <wordform>ean</wordform>
             </analysis>
-            <analysis ms="IV_Ind_Prs_Du2">
+            <analysis ms="IV_Neg_Ind_Du2">
                <wordform>eahppi</wordform>
             </analysis>
-            <analysis ms="IV_Ind_Prs_Du3">
+            <analysis ms="IV_Neg_Ind_Du3">
                <wordform>eaba</wordform>
             </analysis>
-            <analysis ms="IV_Ind_Prs_Pl1">
+            <analysis ms="IV_Neg_Ind_Pl1">
                <wordform>eat</wordform>
             </analysis>
-            <analysis ms="IV_Ind_Prs_Pl2">
+            <analysis ms="IV_Neg_Ind_Pl2">
                <wordform>ehpet</wordform>
             </analysis>
-            <analysis ms="IV_Ind_Prs_Pl3">
+            <analysis ms="IV_Neg_Ind_Pl3">
                <wordform>eai</wordform>
             </analysis>
          </mini_paradigm>
@@ -47,7 +47,7 @@
       <lg>
          <l pos="v">in</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
-         <analysis>IV_Ind_Prs_Sg1</analysis>
+         <analysis>IV_Neg_Ind_Sg1</analysis>
       </lg>
       <mg>
          <tg>
@@ -59,7 +59,7 @@
       <lg>
          <l pos="v">it</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
-         <analysis>IV_Ind_Prs_Sg2</analysis>
+         <analysis>IV_Neg_Ind_Sg2</analysis>
       </lg>
       <mg>
          <tg>
@@ -71,7 +71,7 @@
       <lg>
          <l pos="v">ean</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
-         <analysis>IV_Ind_Prs_Du1</analysis>
+         <analysis>IV_Neg_Ind_Du1</analysis>
       </lg>
       <mg>
          <tg>
@@ -83,7 +83,7 @@
       <lg>
          <l pos="v">eahppi</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
-         <analysis>IV_Ind_Prs_Du2</analysis>
+         <analysis>IV_Neg_Ind_Du2</analysis>
       </lg>
       <mg>
          <tg>
@@ -95,7 +95,7 @@
       <lg>
          <l pos="v">eaba</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
-         <analysis>IV_Ind_Prs_Du3</analysis>
+         <analysis>IV_Neg_Ind_Du3</analysis>
       </lg>
       <mg>
          <tg>
@@ -107,7 +107,7 @@
       <lg>
          <l pos="v">eat</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
-         <analysis>IV_Ind_Prs_Pl1</analysis>
+         <analysis>IV_Neg_Ind_Pl1</analysis>
       </lg>
       <mg>
          <tg>
@@ -119,7 +119,7 @@
       <lg>
          <l pos="v">ehpet</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
-         <analysis>IV_Ind_Prs_Pl2</analysis>
+         <analysis>IV_Neg_Ind_Pl2</analysis>
       </lg>
       <mg>
          <tg>
@@ -131,12 +131,188 @@
       <lg>
          <l pos="v">eai</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
-         <analysis>IV_Ind_Prs_Pl3</analysis>
+         <analysis>IV_Neg_Ind_Pl3</analysis>
       </lg>
       <mg>
          <tg>
             <t pos="adv">ikke</t>
          </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">allos</l>
+         <analysis>Neg_Imprt_Sg3</analysis>
+         <mini_paradigm>
+            <analysis ms="Neg_Imprt_Sg1">
+               <wordform>allon</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Sg2">
+               <wordform>ale</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Sg3">
+               <wordform>allos</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Du1">
+               <wordform>allu</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Du2">
+               <wordform>alli</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Du3">
+               <wordform>alloska</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Pl1">
+               <wordform>allot</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Pl2">
+               <wordform>allet</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Pl3">
+               <wordform>alloset</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">allon</l>
+         <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         <analysis>Neg_Imprt_Sg1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ale</l>
+         <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         <analysis>Neg_Imprt_Sg2</analysis>
+      </lg>
+<xg>
+            <x></x>
+            <xt></xt>
+ </xg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+     <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">allu</l>
+         <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         <analysis>Neg_Imprt_Du1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">alli</l>
+         <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         <analysis>Neg_Imprt_Du2</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">alloska</l>
+         <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         <analysis>Neg_Imprt_Du3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">allot</l>
+         <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         <analysis>Neg_Imprt_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">allet</l>
+         <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         <analysis>Neg_Imprt_Pl2</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">alloset</l>
+         <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         <analysis>Neg_Imprt_Pl3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
       </mg>
    </e>
 </r>
