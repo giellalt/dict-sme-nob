@@ -1,0 +1,73 @@
+
+# Makefile to make smedict.fst
+# the fst just recognises all lemmas in the smenob dictionary
+# it does __not__ translate them.
+
+# usage.
+# make -f make-smedict
+
+# pseudocode:
+
+# read all lexicon files
+# pick the lemmas
+# save as smelemmalist.txt
+# open xfst
+# run command "read text < smelemmalist.txt"
+# save result as smedict.fst
+# the resulting fst to be used to test dict content
+
+
+XFST = xfst
+
+LEX = 	src/adjective_smenob.xml  \
+	src/adverb_smenob.xml	  \
+	src/nounActor_smenob.xml  \
+	src/nounCommon_smenob.xml \
+	src/nounG3_smenob.xml	  \
+	src/nounProper_smenob.xml \
+	src/other_smenob.xml	  \
+	src/pronDem_smenob.xml	  \
+	src/pronIndef_smenob.xml  \
+	src/pronPers_smenob.xml	  \
+	src/pronRec_smenob.xml	  \
+	src/pronRefl_smenob.xml	  \
+	src/pronRel_smenob.xml	  \
+	src/verbNeg_smenob.xml	  \
+	src/verb_smenob.xml		  
+
+
+
+
+smedict.fst: bin/smedict.fst
+bin/smedict.fst: bin/smedict.save
+	@echo
+	@echo "*** Building  smedict.fst ***"
+	@echo
+	@printf "read regex [ @\"$<\" .o. \
+	[ á (<-) a , Á (<-) A ]] ; \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/smedict-fst-script
+	@echo "*** Done script, at least. ***"
+	$(XFST)  < ../tmp/smedict-fst-script
+	@rm -f ../tmp/smedict-fst-script
+
+smedict.save: bin/smedict.save
+bin/smedict.save: bin/smelemmalist.txt
+	@echo
+	@echo "*** Building  smedict.save ***"
+	@echo
+	@printf "read text $< \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/smedict-save-script
+	$(XFST)  < ../tmp/smedict-save-script
+	@rm -f ../tmp/smedict-save-script
+
+smelemmalist.txt: bin/smelemmalist.txt
+bin/smelemmalist.txt: $(LEX)
+	@cat $(LEX) | \
+	grep '<l ' | \
+	cut -d">" -f2 | \
+	cut -d"<" -f1 > bin/smelemmalist.txt
+
+clean:
+	@rm -f bin/smelemmalist.txt bin/smedict.fst	
