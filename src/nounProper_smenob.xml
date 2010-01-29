@@ -2,6 +2,26 @@
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_dictionary.dtd">
 <r>
+   <e usage="more">
+      <lg>
+         <l pos="prop">Sámiráđi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="prop">Samerådet</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="prop">Ruonáeanan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="prop">Grønland</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="ped" src="nj">
       <lg>
          <l pos="n" illpl="ok">Stuorradiggi</l>
@@ -12,7 +32,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Álddesjávri</l>
       </lg>
@@ -22,7 +42,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Doasku</l>
       </lg>
@@ -42,7 +62,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áhkárvuotna</l>
       </lg>
@@ -52,7 +72,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áhkkávággi</l>
       </lg>
@@ -62,7 +82,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áhtávuotna</l>
       </lg>
@@ -72,7 +92,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áilu</l>
       </lg>
@@ -82,7 +102,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áisejohka</l>
       </lg>
@@ -92,7 +112,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ákšovuonbahta</l>
       </lg>
@@ -102,7 +122,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ákšovuonvuopmi</l>
       </lg>
@@ -112,7 +132,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ákšovuotna</l>
       </lg>
@@ -122,7 +142,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Álddajohka</l>
       </lg>
@@ -132,7 +152,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Álddanjárga</l>
       </lg>
@@ -142,7 +162,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Alimusriekti</l>
       </lg>
@@ -152,7 +172,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Álpesuolu</l>
       </lg>
@@ -162,7 +182,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Anár</l>
       </lg>
@@ -172,7 +192,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ánddasuolu</l>
       </lg>
@@ -182,7 +202,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ánnejohka</l>
       </lg>
@@ -192,7 +212,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áppošborri</l>
       </lg>
@@ -202,7 +222,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áravuopmi</l>
       </lg>
@@ -212,7 +232,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Avvil</l>
       </lg>
@@ -222,7 +242,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Deatnu</l>
       </lg>
@@ -232,7 +252,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gilbbesjávri</l>
       </lg>
@@ -242,7 +262,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Girkonjárga</l>
       </lg>
@@ -252,7 +272,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Heahttá</l>
       </lg>
@@ -262,7 +282,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jiellevárri</l>
       </lg>
@@ -272,7 +292,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Johkamohkki</l>
       </lg>
@@ -282,7 +302,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Leavdnja</l>
       </lg>
@@ -292,7 +312,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Porsáŋgu</l>
       </lg>
@@ -302,7 +322,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Skánit</l>
       </lg>
@@ -312,7 +332,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Várjjat</l>
       </lg>
@@ -322,7 +342,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Átteváhki</l>
       </lg>
@@ -332,7 +352,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áttir</l>
       </lg>
@@ -342,7 +362,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ávačuohttu</l>
       </lg>
@@ -352,7 +372,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ávva</l>
       </lg>
@@ -362,7 +382,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Báhčaveadji</l>
       </lg>
@@ -372,7 +392,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Báhčaveaivuotna</l>
       </lg>
@@ -382,7 +402,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Báhcavuotna</l>
       </lg>
@@ -392,7 +412,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Báhccavuotna</l>
       </lg>
@@ -402,7 +422,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Báhkavuotna</l>
       </lg>
@@ -412,7 +432,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bálák</l>
       </lg>
@@ -422,7 +442,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bálákvuovdi</l>
       </lg>
@@ -432,7 +452,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Báttár</l>
       </lg>
@@ -442,7 +462,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bávnnjajohka</l>
       </lg>
@@ -452,7 +472,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bealátjohka</l>
       </lg>
@@ -462,7 +482,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bearalváhki</l>
       </lg>
@@ -472,7 +492,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Beardueatnu</l>
       </lg>
@@ -482,7 +502,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Beardu</l>
       </lg>
@@ -492,7 +512,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Beaskevárri</l>
       </lg>
@@ -502,7 +522,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Beavgohppi</l>
       </lg>
@@ -512,7 +532,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Biedjovággi</l>
       </lg>
@@ -522,7 +542,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Biergi</l>
       </lg>
@@ -532,7 +552,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Biertavárri</l>
       </lg>
@@ -542,7 +562,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Biesavuotna</l>
       </lg>
@@ -552,7 +572,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bievák</l>
       </lg>
@@ -562,7 +582,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bihpporčohkka</l>
       </lg>
@@ -572,7 +592,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Billájohka</l>
       </lg>
@@ -582,7 +602,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Birasgáhttendepartemeanta</l>
       </lg>
@@ -592,7 +612,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Birgi</l>
       </lg>
@@ -602,7 +622,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bissojohka</l>
       </lg>
@@ -612,7 +632,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Boaresárku</l>
       </lg>
@@ -622,7 +642,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Boavva</l>
       </lg>
@@ -632,7 +652,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Boazodoalloláhka</l>
       </lg>
@@ -642,7 +662,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Boazovuotna</l>
       </lg>
@@ -652,7 +672,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Borsi</l>
       </lg>
@@ -662,7 +682,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Burgen</l>
       </lg>
@@ -672,7 +692,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Buvrovuotna</l>
       </lg>
@@ -682,7 +702,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čáhcegárnjárga</l>
       </lg>
@@ -692,7 +712,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čáhcesuolu</l>
       </lg>
@@ -702,7 +722,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čáhppesnjárga</l>
       </lg>
@@ -712,7 +732,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čávkos</l>
       </lg>
@@ -722,7 +742,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ceavccageađgi</l>
       </lg>
@@ -732,7 +752,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čeavetjávri</l>
       </lg>
@@ -742,7 +762,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čiekŋalvággi</l>
       </lg>
@@ -752,7 +772,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čoahkkinortnegii</l>
       </lg>
@@ -762,7 +782,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čoalbmi</l>
       </lg>
@@ -772,7 +792,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čohka-Láhttá</l>
       </lg>
@@ -782,7 +802,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čohkkiras</l>
       </lg>
@@ -792,7 +812,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čorgaš</l>
       </lg>
@@ -802,7 +822,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čorgašnjárga</l>
       </lg>
@@ -812,7 +832,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Cuokcavuotna</l>
       </lg>
@@ -822,7 +842,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Čuolejávri</l>
       </lg>
@@ -832,7 +852,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dáibaravuotna</l>
       </lg>
@@ -842,7 +862,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dáigevuotna</l>
       </lg>
@@ -852,7 +872,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Dálmmát</l>
       </lg>
@@ -862,7 +882,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dárrosuolu</l>
       </lg>
@@ -885,7 +905,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Davvimearra</l>
       </lg>
@@ -895,7 +915,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dážagohppi</l>
       </lg>
@@ -905,7 +925,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dearvvašvuođadepartemeanta</l>
       </lg>
@@ -915,7 +935,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dielddanuorri</l>
       </lg>
@@ -925,7 +945,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dieváideatnu</l>
       </lg>
@@ -935,7 +955,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dieváidvuovdi</l>
       </lg>
@@ -945,7 +965,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Divrrák</l>
       </lg>
@@ -955,7 +975,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Divttasvuotna</l>
       </lg>
@@ -965,7 +985,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Donjevuotna</l>
       </lg>
@@ -975,7 +995,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dorvonjárga</l>
       </lg>
@@ -985,7 +1005,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Duikkášmuotki</l>
       </lg>
@@ -995,7 +1015,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Duorga</l>
       </lg>
@@ -1005,7 +1025,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Duviika</l>
       </lg>
@@ -1015,7 +1035,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Eadjásuolu</l>
       </lg>
@@ -1025,7 +1045,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Eaibujohka</l>
       </lg>
@@ -1035,7 +1055,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Eaibuvággi</l>
       </lg>
@@ -1045,7 +1065,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Eanandoallodepartemeanta</l>
       </lg>
@@ -1055,7 +1075,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Earnjoaski</l>
       </lg>
@@ -1065,7 +1085,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">EDG-kantuvra</l>
       </lg>
@@ -1075,7 +1095,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">EDG-latnja</l>
       </lg>
@@ -1085,7 +1105,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Enodat</l>
       </lg>
@@ -1095,7 +1115,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Eurohpáluodda</l>
       </lg>
@@ -1105,7 +1125,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Evenášši</l>
       </lg>
@@ -1115,7 +1135,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Fálá</l>
       </lg>
@@ -1125,7 +1145,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Fielvuotna</l>
       </lg>
@@ -1135,7 +1155,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Finnmárku</l>
       </lg>
@@ -1145,7 +1165,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Fiškonjárga</l>
       </lg>
@@ -1155,7 +1175,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Frostadiggeláhka</l>
       </lg>
@@ -1165,7 +1185,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Fuoitnjárga</l>
       </lg>
@@ -1175,7 +1195,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Gádde-Iččát</l>
       </lg>
@@ -1185,7 +1205,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gahpervággi</l>
       </lg>
@@ -1195,7 +1215,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gahpirvuotna</l>
       </lg>
@@ -1205,7 +1225,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gáivuotna</l>
       </lg>
@@ -1215,7 +1235,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gálbi</l>
       </lg>
@@ -1225,7 +1245,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gáldu</l>
       </lg>
@@ -1235,7 +1255,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gálggašluokta</l>
       </lg>
@@ -1245,7 +1265,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gállojohka</l>
       </lg>
@@ -1255,7 +1275,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gálsa</l>
       </lg>
@@ -1265,7 +1285,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gáŋgaviika</l>
       </lg>
@@ -1275,7 +1295,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gáranasvuotna</l>
       </lg>
@@ -1285,7 +1305,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gárasavvon</l>
       </lg>
@@ -1295,7 +1315,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gárgiáávži</l>
       </lg>
@@ -1305,7 +1325,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gárnjárga</l>
       </lg>
@@ -1315,7 +1335,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gávkevuotna</l>
       </lg>
@@ -1325,7 +1345,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gávvalváhki</l>
       </lg>
@@ -1335,7 +1355,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gávvir</l>
       </lg>
@@ -1345,7 +1365,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Giehtavuotna</l>
       </lg>
@@ -1355,7 +1375,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gielas</l>
       </lg>
@@ -1365,7 +1385,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gielda</l>
       </lg>
@@ -1375,7 +1395,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Giepma</l>
       </lg>
@@ -1385,7 +1405,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Goahtečorru</l>
       </lg>
@@ -1395,7 +1415,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Goahtejávri</l>
       </lg>
@@ -1405,7 +1425,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Goahtesullot</l>
       </lg>
@@ -1415,7 +1435,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Goaskinvággi</l>
       </lg>
@@ -1425,7 +1445,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gohppi</l>
       </lg>
@@ -1435,7 +1455,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Golbmalohnjárga</l>
       </lg>
@@ -1445,7 +1465,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gollesuolu</l>
       </lg>
@@ -1455,7 +1475,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guhkesnjárga</l>
       </lg>
@@ -1465,7 +1485,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guitanas</l>
       </lg>
@@ -1475,7 +1495,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guladiggeláhka</l>
       </lg>
@@ -1485,7 +1505,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guohcamohkki</l>
       </lg>
@@ -1495,7 +1515,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guohcanuorri</l>
       </lg>
@@ -1505,7 +1525,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guohcavuopmi</l>
       </lg>
@@ -1515,7 +1535,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guolástusdepartemeanta</l>
       </lg>
@@ -1525,7 +1545,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guolleveadji</l>
       </lg>
@@ -1535,7 +1555,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guonnegieddi</l>
       </lg>
@@ -1545,7 +1565,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guovdageaidnu</l>
       </lg>
@@ -1555,7 +1575,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Troandin</l>
       </lg>
@@ -1565,7 +1585,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guovžajávri</l>
       </lg>
@@ -1575,7 +1595,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Guvžajávri</l>
       </lg>
@@ -1585,7 +1605,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Hábmer</l>
       </lg>
@@ -1595,7 +1615,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Hánssagieddi</l>
       </lg>
@@ -1605,7 +1625,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Hardangerfanas</l>
       </lg>
@@ -1615,7 +1635,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Hárrejohka</l>
       </lg>
@@ -1625,7 +1645,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Heallonjárga</l>
       </lg>
@@ -1635,7 +1655,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Hearráriekti</l>
       </lg>
@@ -1645,7 +1665,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Heavošguoika</l>
       </lg>
@@ -1655,7 +1675,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Hilssát</l>
       </lg>
@@ -1665,7 +1685,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Iččát</l>
       </lg>
@@ -1675,7 +1695,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Idjavuonduottar</l>
       </lg>
@@ -1685,7 +1705,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Iggavuotna</l>
       </lg>
@@ -1695,7 +1715,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Ihkkot</l>
       </lg>
@@ -1705,7 +1725,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Iidna</l>
       </lg>
@@ -1715,7 +1735,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Iinnasuolu</l>
       </lg>
@@ -1725,7 +1745,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ijávri</l>
       </lg>
@@ -1735,7 +1755,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Iŋggášguolbba</l>
       </lg>
@@ -1745,7 +1765,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Irevuotna</l>
       </lg>
@@ -1755,7 +1775,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Irgevuotna</l>
       </lg>
@@ -1765,7 +1785,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ittarvuotna</l>
       </lg>
@@ -1775,7 +1795,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ittunjárga</l>
       </lg>
@@ -1785,7 +1805,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ivgubahta</l>
       </lg>
@@ -1795,7 +1815,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ivgu</l>
       </lg>
@@ -1805,7 +1825,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ivgumuotki</l>
       </lg>
@@ -1815,7 +1835,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ivguvuotna</l>
       </lg>
@@ -1825,7 +1845,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ivvárjohka</l>
       </lg>
@@ -1835,7 +1855,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jáhkogohppi</l>
       </lg>
@@ -1845,7 +1865,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jáhkotnjárga</l>
       </lg>
@@ -1855,7 +1875,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jáhkovuotna</l>
       </lg>
@@ -1865,7 +1885,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jávregáddi</l>
       </lg>
@@ -1875,7 +1895,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jiekŋamearra</l>
       </lg>
@@ -1885,7 +1905,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jietnagirji</l>
       </lg>
@@ -1895,7 +1915,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Joahkku</l>
       </lg>
@@ -1905,7 +1925,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Johka</l>
       </lg>
@@ -1915,7 +1935,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Johkangeahči</l>
       </lg>
@@ -1925,7 +1945,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Johkanjárga</l>
       </lg>
@@ -1935,7 +1955,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Johtalusdepartemeanta</l>
       </lg>
@@ -1945,7 +1965,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jovnnanjárga</l>
       </lg>
@@ -1955,7 +1975,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Juvravuonna</l>
       </lg>
@@ -1965,7 +1985,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Karamearra</l>
       </lg>
@@ -1975,7 +1995,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Kárášjohka</l>
       </lg>
@@ -1985,7 +2005,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Keaisváhki</l>
       </lg>
@@ -1995,7 +2015,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ladnečoalbmi</l>
       </lg>
@@ -2005,7 +2025,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ladnesuolu</l>
       </lg>
@@ -2015,7 +2035,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lággu</l>
       </lg>
@@ -2025,7 +2045,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Láhppi</l>
       </lg>
@@ -2035,7 +2055,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lákkovuotna</l>
       </lg>
@@ -2045,7 +2065,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lavttejohka</l>
       </lg>
@@ -2055,7 +2075,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lavttevuotna</l>
       </lg>
@@ -2065,7 +2085,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lávvonjárga</l>
       </lg>
@@ -2075,7 +2095,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lávželuokta</l>
       </lg>
@@ -2085,7 +2105,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Leaibbášvággi</l>
       </lg>
@@ -2095,7 +2115,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Leaibevuopmi</l>
       </lg>
@@ -2105,7 +2125,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Leaibevuotna</l>
       </lg>
@@ -2115,7 +2135,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Leaŋgáviika</l>
       </lg>
@@ -2125,7 +2145,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Loabák</l>
       </lg>
@@ -2135,7 +2155,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Loddejávri</l>
       </lg>
@@ -2145,7 +2165,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lodegat</l>
       </lg>
@@ -2155,7 +2175,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Máhkarainuorri</l>
       </lg>
@@ -2165,7 +2185,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Máhkarávju</l>
       </lg>
@@ -2175,7 +2195,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Máksin</l>
       </lg>
@@ -2185,7 +2205,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Málatvuopmi</l>
       </lg>
@@ -2195,7 +2215,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Málatvuotna</l>
       </lg>
@@ -2205,7 +2225,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Márnuorri</l>
       </lg>
@@ -2215,7 +2235,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Márregohppi</l>
       </lg>
@@ -2225,7 +2245,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Mátta-Várjjat</l>
       </lg>
@@ -2235,7 +2255,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Mearrabađaluokta</l>
       </lg>
@@ -2245,7 +2265,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Mearrabahta</l>
       </lg>
@@ -2255,7 +2275,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Meavki</l>
       </lg>
@@ -2265,7 +2285,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Miehtagohppi</l>
       </lg>
@@ -2275,7 +2295,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Miennavuotna</l>
       </lg>
@@ -2285,7 +2305,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Mororeakšuvdna</l>
       </lg>
@@ -2295,7 +2315,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Moskaluokta</l>
       </lg>
@@ -2305,7 +2325,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Moskavuotna</l>
       </lg>
@@ -2315,7 +2335,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Moskavuovdi</l>
       </lg>
@@ -2325,7 +2345,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Muorral</l>
       </lg>
@@ -2335,7 +2355,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Muorralvuotna</l>
       </lg>
@@ -2345,7 +2365,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Muosát</l>
       </lg>
@@ -2355,7 +2375,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Muotkevuotna</l>
       </lg>
@@ -2365,7 +2385,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Måske</l>
       </lg>
@@ -2375,7 +2395,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Návuotna</l>
       </lg>
@@ -2385,7 +2405,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Návvuotna</l>
       </lg>
@@ -2395,7 +2415,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">NC-vuogádat</l>
       </lg>
@@ -2405,7 +2425,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nieidaluokta</l>
       </lg>
@@ -2415,7 +2435,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nieidavuovdi</l>
       </lg>
@@ -2425,7 +2445,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Njávdán</l>
       </lg>
@@ -2435,7 +2455,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Njeareveadji</l>
       </lg>
@@ -2445,7 +2465,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Njiđggujohka</l>
       </lg>
@@ -2455,7 +2475,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Njuohttejávri</l>
       </lg>
@@ -2465,7 +2485,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nordkáhppa</l>
       </lg>
@@ -2475,7 +2495,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nordkáhppašleađđu</l>
       </lg>
@@ -2485,7 +2505,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nordlánda</l>
       </lg>
@@ -2506,7 +2526,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nuorri</l>
       </lg>
@@ -2516,7 +2536,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nuortabađaeana</l>
       </lg>
@@ -2526,7 +2546,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nuortaváhki</l>
       </lg>
@@ -2536,7 +2556,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Oarddojohka</l>
       </lg>
@@ -2546,7 +2566,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ođasmahttindepartemeanta</l>
       </lg>
@@ -2556,7 +2576,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ohcejohka</l>
       </lg>
@@ -2566,7 +2586,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Olgoriikadepartemeanta</l>
       </lg>
@@ -2576,7 +2596,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Olmmáivággi</l>
       </lg>
@@ -2586,7 +2606,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Omasvuotna</l>
       </lg>
@@ -2596,7 +2616,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">O-riekkis</l>
       </lg>
@@ -2606,7 +2626,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ovddádusbellodat</l>
       </lg>
@@ -2616,7 +2636,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ovsttarjohka</l>
       </lg>
@@ -2626,7 +2646,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">PP-bálvalus</l>
       </lg>
@@ -2636,7 +2656,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Presideanta</l>
       </lg>
@@ -2646,7 +2666,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ráhkojohka</l>
       </lg>
@@ -2656,7 +2676,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ráidná</l>
       </lg>
@@ -2666,7 +2686,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ráisa</l>
       </lg>
@@ -2676,7 +2696,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ráisavuotna</l>
       </lg>
@@ -2686,7 +2706,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ráiseatnu</l>
       </lg>
@@ -2696,7 +2716,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ráneš</l>
       </lg>
@@ -2706,7 +2726,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rásseloháidi</l>
       </lg>
@@ -2716,7 +2736,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rávalgieddi</l>
       </lg>
@@ -2726,7 +2746,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rávdá</l>
       </lg>
@@ -2736,7 +2756,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rávdnjenjárga</l>
       </lg>
@@ -2746,7 +2766,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rávjavuotna</l>
       </lg>
@@ -2756,7 +2776,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rávttošjohka</l>
       </lg>
@@ -2766,7 +2786,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rávttošnjárga</l>
       </lg>
@@ -2776,7 +2796,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rávttošvuopmi</l>
       </lg>
@@ -2786,7 +2806,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Reahkkejávri</l>
       </lg>
@@ -2796,7 +2816,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Reahpen</l>
       </lg>
@@ -2806,7 +2826,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Reaisavuotna</l>
       </lg>
@@ -2816,7 +2836,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Riehpponávži</l>
       </lg>
@@ -2826,7 +2846,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Riehppovuotna</l>
       </lg>
@@ -2836,7 +2856,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Riimmat</l>
       </lg>
@@ -2846,7 +2866,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rissebákti</l>
       </lg>
@@ -2856,7 +2876,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rivtták</l>
       </lg>
@@ -2866,7 +2886,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Roavvenjárga</l>
       </lg>
@@ -2876,7 +2896,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Roavvi</l>
       </lg>
@@ -2886,7 +2906,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Romsa</l>
       </lg>
@@ -2896,7 +2916,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Romssanuorri</l>
       </lg>
@@ -2906,7 +2926,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Romssasuolu</l>
       </lg>
@@ -2916,7 +2936,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Romssavággi</l>
       </lg>
@@ -2926,7 +2946,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ropselv</l>
       </lg>
@@ -2936,7 +2956,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Rovvejohka</l>
       </lg>
@@ -2946,7 +2966,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ruhtadandepartemeanta</l>
       </lg>
@@ -2956,7 +2976,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ruŋgu</l>
       </lg>
@@ -2966,7 +2986,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ruobbá</l>
       </lg>
@@ -2976,7 +2996,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ruohtogeahči</l>
       </lg>
@@ -2997,7 +3017,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ruossavuotna</l>
       </lg>
@@ -3018,7 +3038,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ruovdevuotna</l>
       </lg>
@@ -3028,7 +3048,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">EKG-latnja</l>
       </lg>
@@ -3038,7 +3058,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sáđgejohka</l>
       </lg>
@@ -3048,7 +3068,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sáitevuotna</l>
       </lg>
@@ -3058,7 +3078,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sállan</l>
       </lg>
@@ -3068,7 +3088,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sállannuorri</l>
       </lg>
@@ -3078,7 +3098,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sállir</l>
       </lg>
@@ -3088,7 +3108,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sáltejávri</l>
       </lg>
@@ -3098,7 +3118,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sáltesávju</l>
       </lg>
@@ -3108,7 +3128,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sámediggeráđđi</l>
       </lg>
@@ -3118,7 +3138,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sámediggi</l>
       </lg>
@@ -3128,7 +3148,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sámekommišuvdna</l>
       </lg>
@@ -3138,7 +3158,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sámmolvárri</l>
       </lg>
@@ -3158,7 +3178,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sárranjárga</l>
       </lg>
@@ -3168,7 +3188,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sárravuotna</l>
       </lg>
@@ -3178,7 +3198,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sáttiidvuopmi</l>
       </lg>
@@ -3188,7 +3208,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sážžá</l>
       </lg>
@@ -3198,7 +3218,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Selešnjárga</l>
       </lg>
@@ -3208,7 +3228,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Siellakvuotna</l>
       </lg>
@@ -3218,7 +3238,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sievju</l>
       </lg>
@@ -3228,7 +3248,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Silvetváhki</l>
       </lg>
@@ -3238,7 +3258,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">SI-systema</l>
       </lg>
@@ -3248,7 +3268,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Siviláittardeaddji</l>
       </lg>
@@ -3258,7 +3278,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sivlu</l>
       </lg>
@@ -3268,7 +3288,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Skánik</l>
       </lg>
@@ -3278,7 +3298,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Skiervá</l>
       </lg>
@@ -3288,7 +3308,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Skiessjohka</l>
       </lg>
@@ -3298,7 +3318,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Skiessvuotna</l>
       </lg>
@@ -3308,7 +3328,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Skuvvanvárri</l>
       </lg>
@@ -3318,7 +3338,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Smiervuonjohka</l>
       </lg>
@@ -3328,7 +3348,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Smiervuotna</l>
       </lg>
@@ -3338,7 +3358,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sosiáladepartemeanta</l>
       </lg>
@@ -3348,7 +3368,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Spierta</l>
       </lg>
@@ -3358,7 +3378,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Stuoragieddi</l>
       </lg>
@@ -3368,7 +3388,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Stuoragohppi</l>
       </lg>
@@ -3378,7 +3398,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Suodjalusdepartemeanta</l>
       </lg>
@@ -3388,7 +3408,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Suoidneleakši</l>
       </lg>
@@ -3409,7 +3429,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Suorggomohkki</l>
       </lg>
@@ -3419,7 +3439,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Suovka</l>
       </lg>
@@ -3429,7 +3449,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">T-nađđa</l>
       </lg>
@@ -3439,7 +3459,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">T-revre</l>
       </lg>
@@ -3449,7 +3469,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ulisuolu</l>
       </lg>
@@ -3459,7 +3479,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">U-mohkki</l>
       </lg>
@@ -3469,7 +3489,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Unjárga</l>
       </lg>
@@ -3479,7 +3499,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Uvdojohka</l>
       </lg>
@@ -3489,7 +3509,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Uvdovuotna</l>
       </lg>
@@ -3499,7 +3519,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vággi</l>
       </lg>
@@ -3509,7 +3529,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Várdnasuolu</l>
       </lg>
@@ -3519,7 +3539,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Várggát</l>
       </lg>
@@ -3529,7 +3549,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Várjavuonna</l>
       </lg>
@@ -3539,7 +3559,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Várnjárga</l>
       </lg>
@@ -3549,7 +3569,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vieranjárga</l>
       </lg>
@@ -3559,7 +3579,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Viestarbađaeana</l>
       </lg>
@@ -3569,7 +3589,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Viestterálas</l>
       </lg>
@@ -3579,7 +3599,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop" illpl="ok">Voagat</l>
       </lg>
@@ -3589,7 +3609,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vuođđoláhka</l>
       </lg>
@@ -3599,7 +3619,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vuohpošnjárga</l>
       </lg>
@@ -3609,7 +3629,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vuokkátdiggi</l>
       </lg>
@@ -3619,7 +3639,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vuopmegeahči</l>
       </lg>
@@ -3629,7 +3649,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vuorkeljohka</l>
       </lg>
@@ -3639,7 +3659,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vuorkelvuotna</l>
       </lg>
@@ -3649,7 +3669,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vuošvággi</l>
       </lg>
@@ -3659,7 +3679,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Vuotnasiida</l>
       </lg>
@@ -3669,7 +3689,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Soggovuotna</l>
       </lg>
@@ -3679,7 +3699,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">TV-prográmma</l>
       </lg>
@@ -3689,7 +3709,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Álaheadju</l>
       </lg>
@@ -3699,7 +3719,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Áltá</l>
       </lg>
@@ -3709,7 +3729,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Máze</l>
       </lg>
@@ -3719,7 +3739,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Hammerfeasta</l>
       </lg>
@@ -3729,7 +3749,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">TV</l>
       </lg>
@@ -3739,7 +3759,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Afrihká</l>
       </lg>
@@ -3749,7 +3769,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Albánia</l>
       </lg>
@@ -3759,7 +3779,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Amerihká</l>
       </lg>
@@ -3769,7 +3789,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Anárjávri</l>
       </lg>
@@ -3779,7 +3799,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Basevuovdi</l>
       </lg>
@@ -3789,7 +3809,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Báidár</l>
       </lg>
@@ -3799,7 +3819,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Beahcán</l>
       </lg>
@@ -3809,7 +3829,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Beahkkirvuotna</l>
       </lg>
@@ -3819,7 +3839,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Belgia</l>
       </lg>
@@ -3829,7 +3849,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Biŧon</l>
       </lg>
@@ -3839,7 +3859,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Bossegohppi</l>
       </lg>
@@ -3849,7 +3869,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Buolbmát</l>
       </lg>
@@ -3859,7 +3879,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Davvesiida</l>
       </lg>
@@ -3869,7 +3889,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dállogilli</l>
       </lg>
@@ -3879,7 +3899,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Dánmárku</l>
       </lg>
@@ -3889,7 +3909,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Duiska</l>
       </lg>
@@ -3899,7 +3919,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Eanodat</l>
       </lg>
@@ -3909,7 +3929,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Duortnus</l>
       </lg>
@@ -3919,7 +3939,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Englánda</l>
       </lg>
@@ -3929,7 +3949,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gaska-Amerihká</l>
       </lg>
@@ -3939,7 +3959,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gaska-Nuorti</l>
       </lg>
@@ -3949,7 +3969,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gárjil</l>
       </lg>
@@ -3959,7 +3979,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Gaskamearra</l>
       </lg>
@@ -3969,7 +3989,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Giebnegáisi</l>
       </lg>
@@ -3979,7 +3999,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Giron</l>
       </lg>
@@ -3989,7 +4009,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Greika</l>
       </lg>
@@ -3999,7 +4019,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Háhpárándi</l>
       </lg>
@@ -4009,7 +4029,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Helsset</l>
       </lg>
@@ -4019,7 +4039,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Hollánda</l>
       </lg>
@@ -4029,7 +4049,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Irlánda</l>
       </lg>
@@ -4039,7 +4059,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Islánda</l>
       </lg>
@@ -4049,7 +4069,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Itália</l>
       </lg>
@@ -4059,7 +4079,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Jáhpan</l>
       </lg>
@@ -4069,7 +4089,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Joganjálbmi</l>
       </lg>
@@ -4084,7 +4104,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Korea</l>
       </lg>
@@ -4094,7 +4114,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Látvia</l>
       </lg>
@@ -4104,7 +4124,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lietuva</l>
       </lg>
@@ -4114,7 +4134,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">London</l>
       </lg>
@@ -4124,7 +4144,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lujávri</l>
       </lg>
@@ -4134,7 +4154,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Lulli-Amerihká</l>
       </lg>
@@ -4144,7 +4164,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nuortamearra</l>
       </lg>
@@ -4154,7 +4174,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Nuortariika</l>
       </lg>
@@ -4164,7 +4184,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ránská</l>
       </lg>
@@ -4174,7 +4194,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Románia</l>
       </lg>
@@ -4184,7 +4204,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sibirjá</l>
       </lg>
@@ -4194,7 +4214,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Skandinávia</l>
       </lg>
@@ -4204,7 +4224,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Skotlánda</l>
       </lg>
@@ -4214,7 +4234,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Soađegilli</l>
       </lg>
@@ -4224,7 +4244,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Sovjetlihttu</l>
       </lg>
@@ -4234,7 +4254,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Stuorra-Británnia</l>
       </lg>
@@ -4244,7 +4264,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Suoločielgi</l>
       </lg>
@@ -4254,7 +4274,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Suomaluokta</l>
       </lg>
@@ -4264,7 +4284,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Šveica</l>
       </lg>
@@ -4274,7 +4294,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ubmi</l>
       </lg>
@@ -4284,7 +4304,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Váhčir</l>
       </lg>
@@ -4294,7 +4314,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="prop">Ålánda</l>
       </lg>
