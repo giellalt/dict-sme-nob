@@ -387,7 +387,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">friddjavuođareive</l>
       </lg>
@@ -397,7 +397,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n">badjebealli</l>
       </lg>
@@ -417,9 +417,9 @@
          </tg>
       </mg>
    </e>
-    <e>
+    <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">idjadanruhta</l>
+         <l pos="n">idjadanruhta</l>
       </lg>
       <mg>
          <tg>
@@ -448,7 +448,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bivgerievdna</l>
       </lg>
@@ -546,6 +546,16 @@
          <tg>
             <t pos="m">TV</t>
             <t pos="n">fjernsyn</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="n" illpl="ok">TV-prográmma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">TV-program</t>
          </tg>
       </mg>
    </e>
@@ -799,7 +809,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">adreassalihppu</l>
       </lg>
@@ -1031,7 +1041,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">ahkeerohus</l>
       </lg>
@@ -1041,7 +1051,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">ahkeluohkkáčoahkádus</l>
       </lg>
@@ -1051,7 +1061,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">ahkemolsun</l>
       </lg>
@@ -1092,7 +1102,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">aisttonmearka</l>
       </lg>
@@ -1569,7 +1579,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">alimat</l>
       </lg>
@@ -1579,7 +1589,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">alimusriektecealkámuš</l>
       </lg>
@@ -1630,7 +1640,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">alitoahppu</l>
       </lg>
@@ -1640,7 +1650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">alitreseapta</l>
       </lg>
@@ -1690,26 +1700,13 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">alkoholalága</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">alkohollov</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">alkoholaláhka</l>
       </lg>
       <mg>
          <tg>
             <t pos="m">alkohollov</t>
-            <xg>
-               <x/>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1766,18 +1763,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">alladeatta</l>
+         <l pos="n">alladeatta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">høgtrykk</t>
             <t pos="n">høytrykk</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">alladeattacirggon</l>
       </lg>
@@ -1787,7 +1783,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">allagealddamásta</l>
       </lg>
@@ -1797,7 +1793,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">allakonjunktuvra</l>
       </lg>
@@ -1807,7 +1803,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">allameassu</l>
       </lg>
@@ -1837,7 +1833,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">allaskuvlaoahppu</l>
       </lg>
@@ -1877,9 +1873,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">allavearru</l>
+         <l pos="n">allavearru</l>
       </lg>
       <mg>
          <tg>
@@ -1897,7 +1893,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">allegrohápmi</l>
       </lg>
@@ -1963,7 +1959,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">allodaterohus</l>
       </lg>
@@ -2043,7 +2039,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">almennetvuoigatvuohta</l>
       </lg>
@@ -2063,7 +2059,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">almmolašvuođaláhka</l>
       </lg>
@@ -2083,7 +2079,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">almmuhangeasku</l>
       </lg>
@@ -2093,7 +2089,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">almmuhantávval</l>
       </lg>
@@ -2103,7 +2099,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">almmuhus</l>
       </lg>
@@ -2118,7 +2114,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">almmuhusteaksta</l>
       </lg>
@@ -2158,7 +2154,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">almmáigákti</l>
       </lg>
@@ -2324,7 +2320,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">amasgiella</l>
       </lg>
@@ -2524,7 +2520,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">anašanguoibmi</l>
       </lg>
@@ -2534,7 +2530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">anašeapmi</l>
       </lg>
@@ -2980,9 +2976,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">areálageavaheapmi</l>
+         <l pos="n">areálageavaheapmi</l>
       </lg>
       <mg>
          <tg>
@@ -3050,7 +3046,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">arkiivaláhka</l>
       </lg>
@@ -3083,7 +3079,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">arkiivačoavdda</l>
       </lg>
@@ -3325,7 +3321,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">arvesuodji</l>
       </lg>
@@ -3335,7 +3331,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">arvevuovdi</l>
       </lg>
@@ -3345,7 +3341,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">arvečalbmi</l>
       </lg>
@@ -3355,9 +3351,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">arvečáhci</l>
+         <l pos="n">arvečáhci</l>
       </lg>
       <mg>
          <tg>
@@ -3426,7 +3422,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">asfáltabidjan</l>
       </lg>
@@ -3496,7 +3492,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">asfáltaravda</l>
       </lg>
@@ -3546,7 +3542,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">askedihtor</l>
       </lg>
@@ -3702,7 +3698,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">astoáiggedoaibma</l>
       </lg>
@@ -3713,7 +3709,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">astoáiggeopmodat</l>
       </lg>
@@ -3723,7 +3719,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">astoáiggeviessu</l>
       </lg>
@@ -3845,7 +3841,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">atninbeaska</l>
       </lg>
@@ -3870,7 +3866,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">atnubierggas</l>
       </lg>
@@ -3880,7 +3876,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">atnubivttas</l>
       </lg>
@@ -3890,7 +3886,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">atnudiŋga</l>
       </lg>
@@ -4236,7 +4232,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">avádat</l>
       </lg>
@@ -4246,7 +4242,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">azzil</l>
       </lg>
@@ -4268,7 +4264,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">ađadákti</l>
       </lg>
@@ -4299,7 +4295,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">badjebavssa</l>
       </lg>
@@ -4309,7 +4305,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">badjebátni</l>
       </lg>
@@ -4319,7 +4315,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">badjebáza</l>
       </lg>
@@ -4407,7 +4403,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n">badjelgeahččanvuohta</l>
       </lg>
@@ -4447,7 +4443,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">badjelmearebuvttadeapmi</l>
       </lg>
@@ -4467,9 +4463,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">badjeláiggebargu</l>
+         <l pos="n">badjeláiggebargu</l>
       </lg>
       <mg>
          <tg>
@@ -4477,9 +4473,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">badjeláigi</l>
+         <l pos="n">badjeláigi</l>
       </lg>
       <mg>
          <tg>
@@ -4497,7 +4493,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">badjemadda</l>
       </lg>
@@ -4518,17 +4514,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">badjeravda</l>
       </lg>
       <mg>
          <tg>
-            <t pos="m">øvrekant</t>
+            <t pos="m">øvre kant</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">badjereašmi</l>
       </lg>
@@ -4538,7 +4534,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">badjerádjeearri</l>
       </lg>
@@ -4598,7 +4594,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bagadallan</l>
       </lg>
@@ -4620,26 +4616,6 @@
       <mg>
          <tg>
             <t pos="m">regiassistent</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">bagadalli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">instruktør</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="m">konsulent</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="m">rettleder</t>
          </tg>
       </mg>
    </e>
@@ -4686,7 +4662,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bagadeapmi</l>
       </lg>
@@ -4815,7 +4791,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bahtaráigi</l>
       </lg>
@@ -4825,7 +4801,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bahtačalbmi</l>
       </lg>
@@ -4835,7 +4811,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bahtačoalli</l>
       </lg>
@@ -4845,7 +4821,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bahtošdolgi</l>
       </lg>
@@ -4898,7 +4874,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bajildusmuorra</l>
       </lg>
@@ -4919,7 +4895,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bajilčála</l>
       </lg>
@@ -4989,9 +4965,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">bajoščáhci</l>
+         <l pos="n">bajoščáhci</l>
       </lg>
       <mg>
          <tg>
@@ -5118,7 +5094,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bajásgeassin</l>
       </lg>
@@ -5128,7 +5104,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bajásgeassindoarjja</l>
       </lg>
@@ -5148,7 +5124,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bajásšaddanossodat</l>
       </lg>
@@ -5198,9 +5174,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l pos="n" illpl="ok">balaheapmi</l>
+         <l pos="n">balaheapmi</l>
       </lg>
       <mg>
          <tg>
@@ -5329,7 +5305,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">balsajeaggi</l>
       </lg>
@@ -5420,7 +5396,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n">bargguhisvuohta</l>
       </lg>
@@ -5430,7 +5406,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargguhisvuođaruhta</l>
       </lg>
@@ -5450,7 +5426,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargiideallindáhkádus</l>
       </lg>
@@ -5470,7 +5446,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargiidlatnja</l>
       </lg>
@@ -5480,7 +5456,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargiidlihkadus</l>
       </lg>
@@ -5490,17 +5466,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">bargiidoaivadeaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">personalkonsulent</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargiidossodat</l>
       </lg>
@@ -5551,17 +5517,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n" illpl="ok">bargoaddi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">arbeidsgiver</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoaddidivat</l>
       </lg>
@@ -5603,7 +5559,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargobiras</l>
       </lg>
@@ -5613,7 +5569,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargobirasláhka</l>
       </lg>
@@ -5623,7 +5579,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargobiraslávdegoddi</l>
       </lg>
@@ -5666,7 +5622,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargodienas</l>
       </lg>
@@ -5676,7 +5632,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargodilli</l>
       </lg>
@@ -5686,7 +5642,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoduogáš</l>
       </lg>
@@ -5696,7 +5652,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoduođaštus</l>
       </lg>
@@ -5716,7 +5672,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargofápmodoaimmahat</l>
       </lg>
@@ -5736,7 +5692,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargofápmu</l>
       </lg>
@@ -5756,7 +5712,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargogirji</l>
       </lg>
@@ -5766,7 +5722,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoheaitta</l>
       </lg>
@@ -5776,7 +5732,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargohárjehallan</l>
       </lg>
@@ -5787,7 +5743,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargohárjáneapmi</l>
       </lg>
@@ -5827,7 +5783,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargojuohku</l>
       </lg>
@@ -5847,7 +5803,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargolatnja</l>
       </lg>
@@ -5857,7 +5813,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargolohpi</l>
       </lg>
@@ -5877,7 +5833,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargomokta</l>
       </lg>
@@ -5897,7 +5853,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargomárkan</l>
       </lg>
@@ -5907,7 +5863,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargomátki</l>
       </lg>
@@ -5917,7 +5873,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoneavvu</l>
       </lg>
@@ -5938,7 +5894,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargonoađđi</l>
       </lg>
@@ -5948,7 +5904,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n">bargonávccahisvuohta</l>
       </lg>
@@ -6018,7 +5974,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoriekti</l>
       </lg>
@@ -6059,7 +6015,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoskihpár</l>
       </lg>
@@ -6089,7 +6045,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargosuodjalanláhka</l>
       </lg>
@@ -6102,7 +6058,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargosuodjalus</l>
       </lg>
@@ -6122,7 +6078,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoveahka</l>
       </lg>
@@ -6132,7 +6088,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoviidodat</l>
       </lg>
@@ -6152,10 +6108,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargovuohki</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="m">arbeidsmetode</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="m">prosedyre</t>
@@ -6172,7 +6133,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargoáigi</l>
       </lg>
@@ -6222,7 +6183,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bargošiehtadus</l>
       </lg>
@@ -6303,7 +6264,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bartaguovlu</l>
       </lg>
@@ -6326,7 +6287,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">basadangárri</l>
       </lg>
@@ -6569,7 +6530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bastevuogga</l>
       </lg>
@@ -6651,7 +6612,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">bavssabáddi</l>
       </lg>
@@ -6736,7 +6697,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">beaggin</l>
       </lg>
@@ -6865,7 +6826,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">beaivebiebmu</l>
       </lg>
@@ -13278,6 +13239,76 @@
       <mg>
          <tg>
             <t pos="m">reindriftsenhetkultur</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">T-nađđa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">T-arm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">T-revre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">T-rør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">U-mohkki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">U-sving</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">SI-systema</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">SI-system</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">EKG-latnja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">EKG-rom</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="n" illpl="ok">čoahkkinortnet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">dagsorden</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="n">jietnagirji</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" illpl="ok">lydbok</t>
          </tg>
       </mg>
    </e>
@@ -133285,7 +133316,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="n" illpl="ok">vuođđoláhka</l>
       </lg>
