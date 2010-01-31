@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+<?xml-stylesheet type="text/xsl" href="../../scripts/gt_dictionary.xsl"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD gt_dictionary//SE" "../../scripts/gt_staticdictionary.dtd">
+<r>
+   <e>
+      <lg>
+         <l pos="v">lean</l>
+         <analysis>V_Ind_Prs_Sg1</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Ind_Prs_Sg1">
+               <wordform>lean</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Sg2">
+               <wordform>leat</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Sg3">
+               <wordform>lea</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Du1">
+               <wordform>letne</wordform>
+               <wordform>ledne</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Du2">
+               <wordform>leahppi</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Du3">
+               <wordform>leaba</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Pl1">
+               <wordform>leat</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Pl2">
+               <wordform>lehpet</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Pl3">
+               <wordform>leat</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_ConNeg">
+               <wordform>leat</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   
+
+
+<!-- Singleton forms -->
+
+
+   <e>
+     <lg>
+       <l pos="v" mod="ind" persnr="sg2">leat</l>
+       <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+       <analysis>V_Ind_Prs_Sg2</analysis>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="v">er</t>
+	 <xg>
+	   <x></x>
+	   <xt></xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="v">lea</l>
+         <lemma_ref mod="ind">lea</lemma_ref>
+            <analysis>V_Ind_Prs_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">letne</l>
+         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+            <analysis>V_Ind_Prs_Du1</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ledne</l>
+         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+            <analysis>V_Ind_Prs_Du1</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="v">lehpet</l>
+       <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+       <analysis>V_Ind_Prs_Du2</analysis>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="v">er</t>
+	 <xg>
+	   <x></x>
+	   <xt></xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" persnr="du3">leaba</l>
+         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+            <analysis>V_Ind_Prs_Du3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" mod="ind" persnr="pl1">leat</l>
+         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+            <analysis>V_Ind_Prs_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lehpet</l>
+         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+            <analysis>V_Ind_Prs_Pl2</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" mod="ind" persnr="pl3">leat</l>
+         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+            <analysis>V_Ind_Prs_Pl3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" mod="ind" persnr="conneg">leat</l>
+         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+            <analysis>V_Ind_Prs_ConNeg</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+
+<!-- Past tense -->
+
+   <e>
+      <lg>
+         <l pos="v">ledjen</l>
+         <analysis>V_Ind_Prt_Sg1</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Ind_Prt_Sg1">
+               <wordform>ledjen</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Sg2">
+               <wordform>ledjet</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Sg3">
+               <wordform>lei</wordform>
+               <wordform>leai</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Du1">
+               <wordform>leimme</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Du2">
+               <wordform>leidde</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Du3">
+               <wordform>leigga</wordform>
+               <wordform>leaigga</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Pl1">
+               <wordform>leimmet</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Pl2">
+               <wordform>leiddet</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Pl3">
+               <wordform>ledje</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_ConNeg">
+               <wordform>lean</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">var</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+
+
+<!-- singleton forms -->
+
+   <e>
+      <lg>
+         <l pos="v">ledjet</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Sg2</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">var</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lei</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Sg3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">var</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leai</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Sg3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">var</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leimme</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Du1</analysis>
+      </lg>
+      <mg>
+         <tg>
+	   <t pos="v">var</t>
+	   <xg>
+	    <x></x>
+	    <xt></xt>
+	   </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leidde</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Du2</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">var</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leigga</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Du3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">var</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leaigga</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Du3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">var</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leimmet</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg>
+	   <t pos="v">var</t>
+	   <xg>
+	    <x></x>
+	    <xt></xt>
+	   </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leiddet</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Pl2</analysis>
+      </lg>
+      <mg>
+         <tg>
+	   <t pos="v">var</t>
+	   <xg>
+	    <x></x>
+	    <xt></xt>
+	   </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ledje</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_Pl3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">var</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" mod="ind" persnr="prfprc">lean</l>
+         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+            <analysis>V_Ind_Prt_ConNeg</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+
+<!-- Imperative -->
+
+   <e>
+      <lg>
+         <l pos="v">lehkon</l>
+         <analysis>V_Imprt_Sg1</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Imprt_Sg1">
+               <wordform>lehkon</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Sg2">
+               <wordform>leage</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Sg3">
+               <wordform>lehkos</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Du1">
+               <wordform>leahkku</wordform>
+               <wordform>leadnu</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Du2">
+               <wordform>leahkki</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Du3">
+               <wordform>lehkoska</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Pl1">
+               <wordform>lehkot</wordform>
+               <wordform>leatnot</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Pl2">
+               <wordform>lehket</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Pl3">
+               <wordform>lehkoset</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   
+
+
+<!-- Singleton forms -->
+
+
+   <e>
+     <lg>
+       <l pos="v">leage</l>
+       <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+       <analysis>V_Imprt_Sg2</analysis>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="v">er</t>
+	 <xg>
+	   <x></x>
+	   <xt></xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="v">lehkos</l>
+         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+            <analysis>V_Imprt_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leahkku</l>
+         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+            <analysis>V_Imprt_Du1</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leadnu</l>
+         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+            <analysis>V_Imprt_Du1</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="v">leahkki</l>
+       <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+       <analysis>V_Imprt_Du2</analysis>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="v">er</t>
+	 <xg>
+	   <x></x>
+	   <xt></xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lehkoska</l>
+         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+            <analysis>V_Imprt_Du3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" mod="imprt" persnr="pl1">lehkot</l>
+         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+            <analysis>V_Imprt_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leatnot</l>
+         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+            <analysis>V_Imprt_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lehket</l>
+         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+            <analysis>V_Imprt_Pl2</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lehkoset</l>
+         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+            <analysis>V_Imprt_Pl3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+<!-- Conditionale -->
+
+   <e>
+      <lg>
+         <l pos="v">livččen</l>
+         <analysis>V_Cond_Sg1</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Cond_Sg1">
+               <wordform>livččen</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Sg2">
+               <wordform>livččet</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Sg3">
+               <wordform>livččii</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Du1">
+               <wordform>livččiime</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Du2">
+               <wordform>livččiide</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Du3">
+               <wordform>livččiiga</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Pl1">
+               <wordform>livččiimet</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Pl2">
+               <wordform>livččiidet</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Pl3">
+               <wordform>livčče</wordform>
+            </analysis>
+            <analysis ms="V_Cond_ConNeg">
+               <wordform>livčče</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   
+
+
+<!-- Singleton forms -->
+
+
+   <e>
+     <lg>
+       <l pos="v">livččet</l>
+       <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+       <analysis>V_Cond_Sg2</analysis>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="v">er</t>
+	 <xg>
+	   <x></x>
+	   <xt></xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="v">livččii</l>
+         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+            <analysis>V_Cond_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">livččiime</l>
+         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+            <analysis>V_Cond_Du1</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="v">livččiide</l>
+       <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+       <analysis>V_Cond_Du2</analysis>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="v">er</t>
+	 <xg>
+	   <x></x>
+	   <xt></xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">livččiiga</l>
+         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+            <analysis>V_Cond_Du3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">livččiimet</l>
+         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+            <analysis>V_Cond_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">livččiidet</l>
+         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+            <analysis>V_Cond_Pl2</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" persnr="pl3">livčče</l>
+         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+            <analysis>V_Cond_Pl3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" mod="cond" persnr="conneg">livčče</l>
+         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+            <analysis>V_Cond_ConNeg</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+
+<!-- Potentiale -->
+
+   <e>
+      <lg>
+         <l pos="v">leaččan</l>
+         <analysis>V_Pot_Sg1</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Pot_Sg1">
+               <wordform>leaččan</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Sg2">
+               <wordform>leaččat</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Sg3">
+               <wordform>leažžá</wordform>
+               <wordform>leaš</wordform>
+               <wordform>leš</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Du1">
+               <wordform>ležže</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Du2">
+               <wordform>leažžabeahtti</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Du3">
+               <wordform>leažžaba</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Pl1">
+               <wordform>leažžat</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Pl2">
+               <wordform>leažžabehtet</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Pl3">
+               <wordform>ležžet</wordform>
+            </analysis>
+            <analysis ms="V_Pot_ConNeg">
+               <wordform>leačča</wordform>
+               <wordform>leaš</wordform>
+               <wordform>leš</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   
+
+
+<!-- Singleton forms -->
+
+
+   <e>
+     <lg>
+       <l pos="v">leaččat</l>
+       <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+       <analysis>V_Pot_Sg2</analysis>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="v">er</t>
+	 <xg>
+	   <x></x>
+	   <xt></xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="v">leažžá</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="v" persnr="sg3">leaš</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="v" persnr="sg3">leš</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" persnr="du1">ležže</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_Du1</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="v">leažžabeahtti</l>
+       <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+       <analysis>V_Pot_Du2</analysis>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="v">er</t>
+	 <xg>
+	   <x></x>
+	   <xt></xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leažžaba</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_Du3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" persnr="pl1">leažžat</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+	    <xg>
+	      <x></x>
+	      <xt></xt>
+	    </xg>
+	 </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leažžabehtet</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_Pl2</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" persnr="pl3">ležžet</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_Pl3</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" persnr="conneg">leačča</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_ConNeg</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" persnr="conneg">leaš</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_ConNeg</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" persnr="conneg">leš</l>
+         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+            <analysis>V_Pot_ConNeg</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x></x>
+	    <xt></xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+
+</r> 
