@@ -40,6 +40,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Eadni ii boađe gávpogii odne.</x>
+         <xt>Mor kommer ikke til byen i dag.</xt>
+ 		</xg>
+		<xg>
+         <x>Eadni ii boahtán ikte.</x>
+         <xt>Mor kom ikke i går.</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -52,6 +60,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>In boađe gávpogii odne.</x>
+         <xt>Jeg kommer ikke til byen i dag.</xt>
+ 		</xg>
+		<xg>
+         <x>In boahtán ikte.</x>
+         <xt>Jeg kom ikke i går.</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -64,6 +80,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>It go boađe gávpogii odne?</x>
+         <xt>Kommer du ikke til byen i dag?</xt>
+ 		</xg>
+		<xg>
+         <x>It go boahtán ikte?</x>
+         <xt>Kom du ikke i går?</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -76,6 +100,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Ean boađe gávpogii odne.</x>
+         <xt>Vi to kommer ikke til byen i dag.</xt>
+ 		</xg>
+		<xg>
+         <x>Ean boahtán ikte.</x>
+         <xt>Vi to kom ikke i går.</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -88,6 +120,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Eahppi go boađe gávpogii odne?</x>
+         <xt>Kommer dere to ikke til byen i dag?</xt>
+ 		</xg>
+		<xg>
+         <x>Eahppi go boahtán ikte?</x>
+         <xt>Kom dere to ikke i går?</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -100,6 +140,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Ánne-guovttos Ánddiin eaba boađe gávpogii odne.</x>
+         <xt>Ánne og Ánde kommer ikke til byen i dag.</xt>
+ 		</xg>
+		<xg>
+         <x>Eaba boahtán iktege.</x>
+         <xt>De to kom ikke i går heller.</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -112,6 +160,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Eat boađe gávpogii odne.</x>
+         <xt>Vi kommer ikke til byen i dag.</xt>
+ 		</xg>
+		<xg>
+         <x>Eat boahtán ikte.</x>
+         <xt>Vi kom ikke i går.</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -124,6 +180,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Ehpet go boađe gávpogii odne?</x>
+         <xt>Kommer dere ikke til byen i dag?</xt>
+ 		</xg>
+		<xg>
+         <x>Ehpet go boahtán ikte?</x>
+         <xt>Kom dere ikke i går?</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -136,6 +200,14 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Nieiddat eai boađe gávpogii odne.</x>
+         <xt>Jentene kommer ikke til byen i dag.</xt>
+ 		</xg>
+		<xg>
+         <x>Nieiddat eai boahtán iktege.</x>
+         <xt>Jentene kom ikke i går heller.</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -176,11 +248,11 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
-         </tg>
          <xg>
-            <x></x>
-            <xt></xt>
+            <x>Jus guhtege dan ii dovdda, de allos dovdda!</x>
+            <xt>Hvis noen ikke kjenner det, så får det være det samme!</xt>
          </xg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -192,11 +264,11 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
-         </tg>
          <xg>
-            <x></x>
-            <xt></xt>
+            <x>Mun jurdalin: Allon eisege mun dieinna lágiin badjelgeahča nuppi olbmo!</x>
+            <xt>Jeg tenkte: Jeg må slett ikke overse et annet menneske på den måten!</xt>
          </xg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -205,17 +277,13 @@
          <lemma_ref lemmaID="allos_v">allos</lemma_ref>
          <analysis>Neg_Imprt_Sg2</analysis>
       </lg>
-<xg>
-            <x></x>
-            <xt></xt>
- </xg>
-         <xg>
-            <x></x>
-            <xt></xt>
-         </xg>
      <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Ale boađe deike!</x>
+         <xt>Ikke kom hit! (til en person)</xt>
+ 		</xg>
          </tg>
       </mg>
    </e>
@@ -228,11 +296,11 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
-         </tg>
          <xg>
-            <x></x>
-            <xt></xt>
+            <x>Allu šat riidal!</x>
+            <xt>La oss to ikke krangle mer!</xt>
          </xg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -244,11 +312,11 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Alli boađe deike!</x>
+         <xt>Ikke kom hit! (til to personer)</xt>
+ 		</xg>
          </tg>
-         <xg>
-            <x></x>
-            <xt></xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -260,11 +328,11 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+            <x>Alloska mus jeara!</x>
+            <xt>De to skal ikke spørre meg!</xt>
+		</xg>
          </tg>
-         <xg>
-            <x></x>
-            <xt></xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -276,11 +344,11 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
-         </tg>
          <xg>
-            <x></x>
-            <xt></xt>
+            <x>Allot šat dubme guhtet guimmiideamet!</x>
+            <xt>La oss ikke lenger dømme hverandre!</xt>
          </xg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -292,11 +360,11 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
+		<xg>
+         <x>Allet boađe deike!</x>
+         <xt>Ikke kom hit! (til flere enn to personer)</xt>
+ 		</xg>
          </tg>
-         <xg>
-            <x></x>
-            <xt></xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -308,11 +376,11 @@
       <mg>
          <tg>
             <t pos="adv">ikke</t>
-         </tg>
          <xg>
-            <x></x>
-            <xt></xt>
+            <x>Alloset boađe mus bearrat dan vealggi!</x>
+            <xt>De skal ikke komme og kreve gjelda betalt av meg!</xt>
          </xg>
+         </tg>
       </mg>
    </e>
 </r>
