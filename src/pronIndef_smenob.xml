@@ -6,10 +6,13 @@
     <lg>
       <l pos="pron" type="indef">veahá</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="x">litt</t>
+	<xg>
+	  <x>Vuoidalin veahá juolgesuorpmaid nai, go lávejit nu bivastuvvat.</x>
+	  <xt>Jeg smurte litt på tærne også, fordi de pleier bli så svette.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -17,10 +20,13 @@
     <lg>
       <l pos="pron" type="indef">veaháš</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="x">litt</t>
+	<xg>
+	  <x>De lea ge buorre veaháš bosihit, ja lohkalit aviissa.</x>
+	  <xt>Og så er det godt å puste ut litt, og lese litt i avisa.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -31,7 +37,12 @@
 
     <mg>
       <tg>
-        <t pos="x">enhver</t>
+        <t pos="x">hver sin</t>
+        <t pos="x">hver (av flere enn to)</t>
+	<xg>
+	  <x>Iešguhtet válddii doppe biilla.</x>
+	  <xt>Der tok de hver sin bil.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -39,23 +50,29 @@
     <lg>
       <l pos="pron" type="indef" illpl="ok">buohkat</l>
     </lg>
-
     <mg>
       <tg>
         <t pos="x">alle sammen</t>
+	<xg>
+	  <x>Čoahkkin lea rabas buohkaide - bures boahtin!</x>
+	  <xt>Møtet er åpent for alle - velkommen!</xt>
+	</xg>
       </tg>
     </mg>
   </e>
   <e src="nj">
     <lg>
       <l pos="pron" type="indef" illpl="ok">eará</l>
-
       <lc>earát</lc>
     </lg>
     <mg>
       <tg>
         <t pos="x">annen</t>
         <t pos="x">andre</t>
+	<xg>
+	  <x>Dákkár viiddis máhttu ii leat nu gallásis earáin.</x>
+	  <xt>En slik bred kunnskap er det ikke mange andre.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -65,7 +82,12 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pron">begge to</t>
+        <t pos="pron">begge</t>
+        <t pos="pron">hver av to</t>
+	<xg>
+	  <x>Soai leaba goappašagat vázzán dáiddaallaskuvlla.</x>
+	  <xt>De har begge gått på kunsthøgskole.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -76,6 +98,10 @@
     <mg>
       <tg>
         <t pos="pron">begge</t>
+	<xg>
+	  <x>Moai letne guktot fitnan Helssegis.</x>
+	  <xt>Vi har begge vært en tur i Helsinki.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -87,6 +113,10 @@
       <tg>
         <t pos="m">annen</t>
         <t pos="n">annet</t>
+	<xg>
+	  <x>In sáhte iežáid váldit mielde dohko.</x>
+	  <xt>Jeg kan ikke ta andre med dit.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -97,6 +127,10 @@
     <mg>
       <tg>
         <t pos="pron">noe</t>
+	<xg>
+	  <x>Ođđa nominašuvnna sáhttá gáibidit jus lea juoga dahkkon formalalaččat boastut.</x>
+	  <xt>Ny nominasjon kan man kreve hvis det er gjort noe formelt feil.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -109,6 +143,11 @@
     <mg>
       <tg>
         <t pos="m">hver</t>
+        <t pos="m">enhver</t>
+	<xg>
+	  <x>Dain ledje fas juohkehaččas sierra nuohttunbáikkit ja fierbmunbáikkit.</x>
+	  <xt>Av dem så hadde hver enkelt egne notsteder og garnsteder.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -118,7 +157,15 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">flere</t>
+        <t pos="x">flere (ca 4-10)</t>
+	<xg>
+	  <x>Mun lean moanaid juo bovden.</x>
+	  <xt>Jeg har allerede invitert nokså mange.</xt>
+	</xg>
+	<xg>
+	  <x>Mun lean moanaid olbmuid juo bovden.</x>
+	  <xt>Jeg har allerede invitert nokså mange mennesker.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -132,6 +179,10 @@
       <tg>
         <t pos="x">en</t>
         <t pos="x">noen</t>
+	<xg>
+	  <x>De oahpaheaddji fuomáša muhtima gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
+	  <xt>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -145,6 +196,10 @@
       <tg>
         <t pos="x">en</t>
         <t pos="x">noen</t>
+	<xg>
+	  <x>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtumat fas ásaiduvve Alaskai.</x>
+	  <xt>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -156,6 +211,10 @@
     <mg>
       <tg>
 	<t pos="x">annen</t>
+	<xg>
+	  <x>Ja de ii leat lohpi nuppiid borrat.</x>
+	  <xt>Og så er det ikke lov å spise de andre.</xt>
+	</xg>
       </tg>
     </mg>
     <mg>
@@ -201,7 +260,11 @@
     </lg>
     <mg>
       <tg>
-        <t pos="x">mange personer</t>
+        <t pos="x">mange (personer)</t>
+	<xg>
+	  <x>Ii dás goit leat fylkkagielddas mihkkege váttisvuođaid, olus lohket.</x>
+	  <xt>Det er ihvertfall ikke noen problemer med fylkeskommunen her, sier mange.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
@@ -213,7 +276,15 @@
     <mg>
       <tg>
 	<t pos="x">noen</t>
-	<t pos="m">og annen</t>
+	<t pos="m">en eller annen</t>
+	<xg>
+	  <x>Muhto soapmasiin ledje áibbas eará beroštumit.</x>
+	  <xt>Men noen hadde helt andre interesser.</xt>
+	</xg>
+	<xg>
+	  <x>Lei buorre dálki ja soames guolli nai.</x>
+	  <xt>Det var fint vær, og det ble noen fisk også.</xt>
+	</xg>
       </tg>
     </mg>
   </e>
