@@ -9,6 +9,9 @@
          <l pos="v">lean</l>
          <analysis>V_Ind_Prs_Sg1</analysis>
          <mini_paradigm>
+            <analysis ms="V_Inf">
+               <wordform>leat</wordform>
+            </analysis>
             <analysis ms="V_Ind_Prs_Sg1">
                <wordform>lean</wordform>
             </analysis>
@@ -40,9 +43,6 @@
             <analysis ms="V_Ind_Prs_ConNeg">
                <wordform>leat</wordform>
             </analysis>
-            <analysis ms="V_Inf">
-               <wordform>leat</wordform>
-            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -64,7 +64,7 @@
    <e>
      <lg>
        <l pos="v" mod="ind" persnr="sg2">leat</l>
-       <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+       <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
        <analysis>V_Ind_Prs_Sg2</analysis>
      </lg>
      <mg>
@@ -80,7 +80,7 @@
   <e>
       <lg>
          <l pos="v">lea</l>
-         <lemma_ref mod="ind">lea</lemma_ref>
+       <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Ind_Prs_Sg3</analysis>
       </lg>
       <mg>
@@ -96,7 +96,7 @@
    <e>
       <lg>
          <l pos="v">letne</l>
-         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Ind_Prs_Du1</analysis>
       </lg>
       <mg>
@@ -112,15 +112,15 @@
    <e>
       <lg>
          <l pos="v">ledne</l>
-         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Ind_Prs_Du1</analysis>
       </lg>
       <mg>
 	<tg>
 	  <t pos="v">er</t>
 	  <xg>
-	    <x></x>
-	    <xt></xt>
+	    <x>Moai ledne gal gullan nuoraid hupmame dan birra.</x>
+	    <xt>Vi to har da hørt ungdommer snakke om det.</xt>
 	  </xg>
 	</tg>
       </mg>
@@ -128,7 +128,7 @@
    <e>
      <lg>
        <l pos="v">leahppi</l>
-       <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+       <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
        <analysis>V_Ind_Prs_Du2</analysis>
      </lg>
      <mg>
@@ -144,7 +144,7 @@
    <e>
       <lg>
          <l pos="v" persnr="du3">leaba</l>
-         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Ind_Prs_Du3</analysis>
       </lg>
       <mg>
@@ -160,7 +160,7 @@
    <e>
       <lg>
          <l pos="v" mod="ind" persnr="pl1">leat</l>
-         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Ind_Prs_Pl1</analysis>
       </lg>
       <mg>
@@ -176,7 +176,7 @@
    <e>
       <lg>
          <l pos="v">lehpet</l>
-         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Ind_Prs_Pl2</analysis>
       </lg>
       <mg>
@@ -192,7 +192,7 @@
    <e>
       <lg>
          <l pos="v" mod="ind" persnr="pl3">leat</l>
-         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Ind_Prs_Pl3</analysis>
       </lg>
       <mg>
@@ -208,7 +208,7 @@
    <e>
       <lg>
          <l pos="v" mod="ind" persnr="conneg">leat</l>
-         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Ind_Prs_ConNeg</analysis>
       </lg>
       <mg>
@@ -224,7 +224,7 @@
    <e>
       <lg>
          <l pos="v" persnr="inf">leat</l>
-         <lemma_ref lemmaID="leat_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
             <analysis>V_Inf</analysis>
       </lg>
       <mg>
@@ -296,7 +296,7 @@
    <e>
       <lg>
          <l pos="v">ledjet</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Sg2</analysis>
       </lg>
       <mg>
@@ -312,12 +312,16 @@
    <e>
       <lg>
          <l pos="v">lei</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Sg3</analysis>
       </lg>
       <mg>
 	<tg>
 	  <t pos="v">var</t>
+	  <xg>
+	    <x>Uhcastáloš lei buot šieđđaluvvan ja bivastuvvan go viimmat jovde dohko.</x>
+	    <xt>Den lille stalloen var fullstendig andpusten og svett da de endelig kom fram.</xt>
+	  </xg>
 	  <xg>
 	    <x>Son lei Nuortanástte doaimmaheaddji 32 jagi.</x>
 	    <xt>Han var redaktør for Nuortanáste i 32 år.</xt>
@@ -328,7 +332,7 @@
    <e>
       <lg>
          <l pos="v">leai</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Sg3</analysis>
       </lg>
       <mg>
@@ -338,13 +342,17 @@
 	    <x>Uhcastáloš leai buot šieđđaluvvan ja bivastuvvan go viimmat jovde dohko.</x>
 	    <xt>Den lille stalloen var fullstendig andpusten og svett da de endelig kom fram.</xt>
 	  </xg>
+	  <xg>
+	    <x>Son leai Nuortanástte doaimmaheaddji 32 jagi.</x>
+	    <xt>Han var redaktør for Nuortanáste i 32 år.</xt>
+	  </xg>
 	</tg>
       </mg>
    </e>
    <e>
       <lg>
          <l pos="v">leimme</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Du1</analysis>
       </lg>
       <mg>
@@ -360,15 +368,15 @@
    <e>
       <lg>
          <l pos="v">leidde</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Du2</analysis>
       </lg>
       <mg>
 	<tg>
 	  <t pos="v">var</t>
 	  <xg>
-	    <x>Mun ledjen eahkesnávehis jur geargan.</x>
-	    <xt>Jeg var akkurat ferdig i kveldsfjøset nå.</xt>
+	    <x>Doai leidde eahkesnávehis jur geargan go eadni riŋgii.</x>
+	    <xt>Dere to var akkurat ferdig i kveldsfjøset da mor ringte.</xt>
 	  </xg>
 	</tg>
       </mg>
@@ -376,7 +384,7 @@
    <e>
       <lg>
          <l pos="v">leigga</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Du3</analysis>
       </lg>
       <mg>
@@ -392,7 +400,7 @@
    <e>
       <lg>
          <l pos="v">leaigga</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Du3</analysis>
       </lg>
       <mg>
@@ -408,7 +416,7 @@
    <e>
       <lg>
          <l pos="v">leimmet</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Pl1</analysis>
       </lg>
       <mg>
@@ -424,7 +432,7 @@
    <e>
       <lg>
          <l pos="v">leiddet</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Pl2</analysis>
       </lg>
       <mg>
@@ -440,7 +448,7 @@
    <e>
       <lg>
          <l pos="v">ledje</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_Pl3</analysis>
       </lg>
       <mg>
@@ -456,7 +464,7 @@
    <e>
       <lg>
          <l pos="v" mod="ind" persnr="prfprc">lean</l>
-         <lemma_ref lemmaID="leat_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
             <analysis>V_Ind_Prt_ConNeg</analysis>
       </lg>
       <mg>
@@ -511,10 +519,6 @@
       <mg>
          <tg>
             <t pos="v">er</t>
-	    <xg>
-	      <x></x>
-	      <xt></xt>
-	    </xg>
 	 </tg>
       </mg>
    </e>
@@ -527,7 +531,7 @@
    <e>
      <lg>
        <l pos="v">leage</l>
-       <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+       <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
        <analysis>V_Imprt_Sg2</analysis>
      </lg>
      <mg>
@@ -547,7 +551,7 @@
   <e>
       <lg>
          <l pos="v">lehkos</l>
-         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
             <analysis>V_Imprt_Sg3</analysis>
       </lg>
       <mg>
@@ -567,7 +571,7 @@
    <e>
       <lg>
          <l pos="v">leahkku</l>
-         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
             <analysis>V_Imprt_Du1</analysis>
       </lg>
       <mg>
@@ -585,7 +589,7 @@
    <e>
       <lg>
          <l pos="v">leadnu</l>
-         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
             <analysis>V_Imprt_Du1</analysis>
       </lg>
       <mg>
@@ -601,7 +605,7 @@
    <e>
      <lg>
        <l pos="v">leahkki</l>
-       <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+       <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
        <analysis>V_Imprt_Du2</analysis>
      </lg>
      <mg>
@@ -617,7 +621,7 @@
    <e>
       <lg>
          <l pos="v">lehkoska</l>
-         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
             <analysis>V_Imprt_Du3</analysis>
       </lg>
       <mg>
@@ -633,7 +637,7 @@
    <e>
       <lg>
          <l pos="v" mod="imprt" persnr="pl1">lehkot</l>
-         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
             <analysis>V_Imprt_Pl1</analysis>
       </lg>
       <mg>
@@ -649,7 +653,7 @@
    <e>
       <lg>
          <l pos="v">leatnot</l>
-         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
             <analysis>V_Imprt_Pl1</analysis>
       </lg>
       <mg>
@@ -665,7 +669,7 @@
    <e>
       <lg>
          <l pos="v">lehket</l>
-         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
             <analysis>V_Imprt_Pl2</analysis>
       </lg>
       <mg>
@@ -685,7 +689,7 @@
    <e>
       <lg>
          <l pos="v">lehkoset</l>
-         <lemma_ref lemmaID="leat_v_imprt">lehkon</lemma_ref>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
             <analysis>V_Imprt_Pl3</analysis>
       </lg>
       <mg>
@@ -756,7 +760,7 @@
    <e>
      <lg>
        <l pos="v">livččet</l>
-       <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+       <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
        <analysis>V_Cond_Sg2</analysis>
      </lg>
      <mg>
@@ -772,7 +776,7 @@
   <e>
       <lg>
          <l pos="v">livččii</l>
-         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
             <analysis>V_Cond_Sg3</analysis>
       </lg>
       <mg>
@@ -788,15 +792,15 @@
    <e>
       <lg>
          <l pos="v">livččiime</l>
-         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
             <analysis>V_Cond_Du1</analysis>
       </lg>
       <mg>
 	<tg>
 	  <t pos="v">er</t>
 	  <xg>
-	    <x>Son humai dego moai livččiime boares ustibat, muitala Sunniva.</x>
-	    <xt>Han/hun snakket som om vi to hadde vært gode venner, forteller Sunniva.</xt>
+	    <x>Bárdni humai dego moai livččiime boares ustibat, muitala Sunniva.</x>
+	    <xt>Gutten snakket som om vi to hadde vært gode venner, forteller Sunniva.</xt>
 	  </xg>
 	</tg>
       </mg>
@@ -804,7 +808,7 @@
    <e>
      <lg>
        <l pos="v">livččiide</l>
-       <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+       <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
        <analysis>V_Cond_Du2</analysis>
      </lg>
      <mg>
@@ -820,7 +824,7 @@
    <e>
       <lg>
          <l pos="v">livččiiga</l>
-         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
             <analysis>V_Cond_Du3</analysis>
       </lg>
       <mg>
@@ -836,7 +840,7 @@
    <e>
       <lg>
          <l pos="v">livččiimet</l>
-         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
             <analysis>V_Cond_Pl1</analysis>
       </lg>
       <mg>
@@ -852,7 +856,7 @@
    <e>
       <lg>
          <l pos="v">livččiidet</l>
-         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
             <analysis>V_Cond_Pl2</analysis>
       </lg>
       <mg>
@@ -868,7 +872,7 @@
    <e>
       <lg>
          <l pos="v" persnr="pl3">livčče</l>
-         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
             <analysis>V_Cond_Pl3</analysis>
       </lg>
       <mg>
@@ -888,7 +892,7 @@
    <e>
       <lg>
          <l pos="v" mod="cond" persnr="conneg">livčče</l>
-         <lemma_ref lemmaID="leat_v_cond">livččen</lemma_ref>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
             <analysis>V_Cond_ConNeg</analysis>
       </lg>
       <mg>
@@ -964,7 +968,7 @@
    <e>
      <lg>
        <l pos="v">leaččat</l>
-       <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+       <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
        <analysis>V_Pot_Sg2</analysis>
      </lg>
      <mg>
@@ -980,7 +984,7 @@
   <e>
       <lg>
          <l pos="v">leažžá</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_Sg3</analysis>
       </lg>
       <mg>
@@ -991,8 +995,8 @@
 	      <xt>Hva som årsaken til det, er ikke godt å vite.</xt>
 	    </xg>
 	    <xg>
-	      <x>Son lea buot 32 háviid leamaš mielde, beroškeahttá makkár dálki leažžá.</x>
-	      <xt>Han/hun har vært med alle 32 gangene, uansett hvordan været har vært.</xt>
+	      <x>Áhčči lea juohke háve leamaš mielde, beroškeahttá makkár dálki leažžá.</x>
+	      <xt>Far har vært med hver gang, uansett hvordan været har vært.</xt>
 	    </xg>
 	 </tg>
       </mg>
@@ -1000,7 +1004,7 @@
   <e>
       <lg>
          <l pos="v" persnr="sg3">leaš</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_Sg3</analysis>
       </lg>
       <mg>
@@ -1020,7 +1024,7 @@
   <e>
       <lg>
          <l pos="v" persnr="sg3">leš</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_Sg3</analysis>
       </lg>
       <mg>
@@ -1036,7 +1040,7 @@
    <e>
       <lg>
          <l pos="v" persnr="du1">ležže</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_Du1</analysis>
       </lg>
       <mg>
@@ -1052,7 +1056,7 @@
    <e>
      <lg>
        <l pos="v">leažžabeahtti</l>
-       <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+       <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
        <analysis>V_Pot_Du2</analysis>
      </lg>
      <mg>
@@ -1068,7 +1072,7 @@
    <e>
       <lg>
          <l pos="v">leažžaba</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_Du3</analysis>
       </lg>
       <mg>
@@ -1084,7 +1088,7 @@
    <e>
       <lg>
          <l pos="v" persnr="pl1">leažžat</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_Pl1</analysis>
       </lg>
       <mg>
@@ -1100,7 +1104,7 @@
    <e>
       <lg>
          <l pos="v">leažžabehtet</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_Pl2</analysis>
       </lg>
       <mg>
@@ -1116,7 +1120,7 @@
    <e>
       <lg>
          <l pos="v" persnr="pl3">ležžet</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_Pl3</analysis>
       </lg>
       <mg>
@@ -1132,7 +1136,7 @@
    <e>
       <lg>
          <l pos="v" persnr="conneg">leačča</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_ConNeg</analysis>
       </lg>
       <mg>
@@ -1148,7 +1152,7 @@
    <e>
       <lg>
          <l pos="v" persnr="conneg">leaš</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_ConNeg</analysis>
       </lg>
       <mg>
@@ -1164,7 +1168,7 @@
    <e>
       <lg>
          <l pos="v" persnr="conneg">leš</l>
-         <lemma_ref lemmaID="leat_v_pot">leaččan</lemma_ref>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
             <analysis>V_Pot_ConNeg</analysis>
       </lg>
       <mg>
