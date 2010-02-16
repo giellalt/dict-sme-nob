@@ -1,0 +1,8 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xi="http://www.w3.org/2001/XInclude">
+        <create qname="l"  type="xs:string"/>
+        <create qname="t"  type="xs:string"/>
+        <create qname="x"  type="xs:string"/>
+        <create qname="xt" type="xs:string"/>
+    </index>
+</collection>
