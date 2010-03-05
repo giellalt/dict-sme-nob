@@ -2683,7 +2683,7 @@
             <t pos="a">svak</t>
             <xg>
                <x>Gáffe lea goiddas.</x>
-               <x>Gáffen er svak.</x>
+               <xt>Kaffen er svak.</xt>
             </xg>
          </tg>
       </mg>
@@ -4471,9 +4471,6 @@
       <mg>
          <tg>
             <t pos="x">helt overskyet</t>
-            <xg>
-               <x>moskku-</x>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -5716,9 +5713,6 @@
          <tg>
             <t pos="a">ujevn</t>
             <t pos="a">knudret</t>
-            <xg>
-               <x>rumšo-</x>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -5991,7 +5985,8 @@
             <t pos="a">isfri</t>
             <t pos="a">snøfri</t>
             <xg>
-               <x>saŋas biergasat go dain ii leat muohta dahje jiekŋa dálvet</x>
+               <x>Saŋas biergasat go dain ii leat muohta dahje jiekŋa dálvet.</x>
+               <xt>Der var det bart, når det ikke var snø eller is om vinteren.</xt>
             </xg>
          </tg>
       </mg>
@@ -6813,6 +6808,7 @@
             <t pos="x">for lite salt</t>
             <xg>
                <x>go borramušas lea ila unnán sálti</x>
+               <xt>Når det er for lite salt i maten.</xt>
             </xg>
          </tg>
       </mg>
@@ -7814,9 +7810,6 @@
          <tg>
             <t pos="a">vissen</t>
             <t pos="a">tørr</t>
-            <xg>
-               <x>ásta-</x>
-            </xg>
          </tg>
       </mg>
    </e>
