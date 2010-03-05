@@ -4,744 +4,744 @@
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_dictionary.dtd">
 <r>
-   <e src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">bassi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">rengjøringsassistent</t>
-            <t pos="m">vasker</t>
-            <xg>
-               <x>Skuvllas leat guokte bassi.</x>
-               <xt>På skolen er det to rengjøringsassistenter.</xt>
-            </xg>
-            <xg>
-               <x>Sii háliidit buoridit bargodili erenomážit bassiide.</x>
-               <xt>De ønsker å forbedre arbeidsforholdene spesielt for rengjøringsassistentene.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l pos="actor">stáhtačálli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">statssekretær</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l pos="actor" illpl="ok">bargoaddi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">arbeidsgiver</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l pos="actor" illpl="ok">bargiidoaivadeaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">personalkonsulent</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l pos="actor" illpl="ok">bagadalli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">instruktør</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="m">konsulent</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="m">rettleder</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l pos="actor">oasseváldi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">deltaker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l pos="actor">boazodoalli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">reindriftsutøver</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l pos="actor">filbmadahkki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">filmskaper</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l pos="actor">ovddasteaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">representant</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">váldodoaimmaheaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">redaktør</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">ráđđeaddi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">rådgiver</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">vánddardeaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">vandrer</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">vearrodahkki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">kriminell</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">vuoddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">sjåfør</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">viessobearráigeahčči</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">vaktmester</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">vuoiti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">vinner</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">bussevuoddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">bussjåfør</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">doaimmaheaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">fullmektig</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">bagadeaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">veileder</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">dáksevuoddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">drosjesjåfør</t>
-            <t pos="m">taksisjåfør</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">ovdaskuvlaoahpaheaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">førskolelærer</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">ohcci</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">søker</t>
-            <t pos="m">skjerper</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">oahppi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">elev</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">njuovvi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">slakter</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">mánnágeahčči</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">barnepasser</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">juoigi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">joiker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">guollebivdi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">fisker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">guolásteaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">fisker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">goarru</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">skredder</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">eatnandoalli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">jordbruker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">eanandoalli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">bumann</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">eanadoalli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">jordbruker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">čiekči</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">fotballspiller</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">bivdi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">jeger</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">borri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">spiser</t>
-            <t pos="m">eter</t>
-            <xg>
-               <x>Dat olbmát ledje duhpatborrit, geaid lusa son bođii.</x>
-               <xt>De karene var snustyggere, som han kom til.</xt>
-            </xg>
-             <xg>
-               <x>Son háliidii báhčit goaskimiid, duoid boazoborriid.</x>
-               <xt>Han/hun ville skyte ørnene, de reinspiserne.</xt>
-            </xg>
-        </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="actor">uhyre</t>
-            <xg>
-               <x> </x>
-               <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">dikšu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">pleier</t>
-            <xg>
-               <x>Ođđa ossodahkii dárbbašuvvojit goitge logi dikšu.</x>
-               <xt>Til den nye avdelingen trenges iallfall 10 pleiere.</xt>
-            </xg>
-            <xg>
-               <x>Sii háliidit buoridit bargodili erenomážit dikšuide.</x>
-               <xt>De ønsker å forbedre arbeidsforholdene spesielt for pleierne.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">goddi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">morder</t>
-            <t pos="m">avliver</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">lávlu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">sanger</t>
-            <t pos="m">vokalist</t>
-            <xg>
-               <x>Oktiibuot logi juoigi ja guhtta lávlu leat lávddi alde beassášlávvordaga.</x>
-               <xt>Tilsammen ti joikere og seks sangere er på scenen påskeaften.</xt>
-            </xg>
-            <xg>
-               <x>Mii ozaimet doarjaga doallat kurssa juigiide ja lávluide.</x>
-               <xt>Vi søkte om penger for at holde kurs for joikere og sangere.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">lohkki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">leser</t>
-            <xg>
-               <x>Jurddašin jearahallat vihtta lohkki luopmoplánaid birra.</x>
-               <xt>Jeg tenkte å intervje fem lesere om ferieplaner.</xt>
-            </xg>
-            <xg>
-               <x>Áviisa sávvá buot lohkkiide ráfálaš ja buriid juovllaid.</x>
-               <xt>Avisa ønsker fredelig og god jul til alle leserne.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">vuovdi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">selger</t>
-            <xg>
-               <x>Máŋga vuovdi ledje boahtán márkanii.</x>
-               <xt>Mange selgere var kommet til markedet.</xt>
-            </xg>
-             <xg>
-               <x>Mun dopmen máksit iežan velggiid buot vuovdiide.</x>
-               <xt>Jeg skyndte meg å betale gjelda mi til alle selgerne.</xt>
-            </xg>
-        </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">jođiheaddji</l>
-         <lc>-headdjit, -heddjiid</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">leder</t>
-            <t pos="m">styrer</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">prošeaktajođiheaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">prosjektleder</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">sátnejođiheaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">ordfører</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">bargi</l>
-         <lc>bargit</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">arbeider</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="m">arbeidstaker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">dearvvašvuođabargi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">helsearbeider</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">fabrihkkabargi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">fabrikkarbeider</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">gávpebargi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">ekspeditør</t>
-            <t pos="m">butikkansatt</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">kántorbargi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">kontorarbeider</t>
-            <t pos="m">kontoransatt</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">ássi</l>
-         <lc>ássit</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">innbygger</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">girječálli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">forfatter</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">čálli</l>
-         <lc>čállit</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">forfatter</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="m">sekretær</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="m">skribent</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">čuoigi</l>
-         <lc>čuoigit</lc>
-         <lc>čuigiid</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">skiløper</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">dutki</l>
-         <lc>dutkit</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">forsker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l pos="actor" illpl="ok">biebmoealli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="actor">kjæledyr</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">ealli</l>
-         <lc>eallit</lc>
-         <lc>elliid</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="actor">levende vesen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="actor">dyr</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">girdi</l>
-         <lc>girdit</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="actor">fly</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="x">flyver</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">guođoheaddji</l>
-         <lc>-headdjit</lc>
-         <lc>-heddjiid</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">gjeter</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">jábmi</l>
-         <lc>jábmit</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">død</t>
-            <t pos="actor">lik</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">máhttájeaddji</l>
-         <lc>-jeaddjit</lc>
-         <lc>-jeddjiid</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">disippel</t>
-            <t pos="m">apostel</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped" src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">oahpaheaddji</l>
-         <lc>-headdjit</lc>
-         <lc>-heddjiid</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">lærer</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">vearredahkki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">forbryter</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="actor" illpl="ok">njoammu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">smittsom sykdom</t>
-         </tg>
-      </mg>
-   </e>
+	<e src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">bassi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">rengjøringsassistent</t>
+				<t pos="m">vasker</t>
+				<xg>
+					<x>Skuvllas leat guokte bassi.</x>
+					<xt>På skolen er det to rengjøringsassistenter.</xt>
+				</xg>
+				<xg>
+					<x>Sii háliidit buoridit bargodili erenomážit bassiide.</x>
+					<xt>De ønsker å forbedre arbeidsforholdene spesielt for rengjøringsassistentene.</xt>
+				</xg>
+			</tg>
+		</mg>
+	</e>
+	<e usage="more">
+		<lg>
+			<l pos="actor">stáhtačálli</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">statssekretær</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="more">
+		<lg>
+			<l pos="actor" illpl="ok">bargoaddi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">arbeidsgiver</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="more">
+		<lg>
+			<l pos="actor" illpl="ok">bargiidoaivadeaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">personalkonsulent</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="more">
+		<lg>
+			<l pos="actor" illpl="ok">bagadalli</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">instruktør</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t pos="m">konsulent</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t pos="m">rettleder</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="more">
+		<lg>
+			<l pos="actor">oasseváldi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">deltaker</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="more">
+		<lg>
+			<l pos="actor">boazodoalli</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">reindriftsutøver</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="more">
+		<lg>
+			<l pos="actor">filbmadahkki</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">filmskaper</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="more">
+		<lg>
+			<l pos="actor">ovddasteaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">representant</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">váldodoaimmaheaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">redaktør</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">ráđđeaddi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">rådgiver</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">vánddardeaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">vandrer</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">vearrodahkki</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">kriminell</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">vuoddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">sjåfør</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">viessobearráigeahčči</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="S">vaktmester</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">vuoiti</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">vinner</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">bussevuoddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">bussjåfør</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">doaimmaheaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">fullmektig</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">bagadeaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">veileder</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">dáksevuoddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">drosjesjåfør</t>
+				<t pos="m">taksisjåfør</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">ovdaskuvlaoahpaheaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">førskolelærer</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">ohcci</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">søker</t>
+				<t pos="m">skjerper</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">oahppi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">elev</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">njuovvi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">slakter</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">mánnágeahčči</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">barnepasser</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">juoigi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">joiker</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">guollebivdi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="S">fisker</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">guolásteaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">fisker</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">goarru</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">skredder</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">eatnandoalli</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">jordbruker</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">eanandoalli</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">bumann</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">eanadoalli</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">jordbruker</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">čiekči</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">fotballspiller</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">bivdi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">jeger</t>
+			</tg>
+		</mg>
+	</e>
+	<e src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">borri</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">spiser</t>
+				<t pos="m">eter</t>
+				<xg>
+					<x>Dat olbmát ledje duhpatborrit, geaid lusa son bođii.</x>
+					<xt>De karene var snustyggere, som han kom til.</xt>
+				</xg>
+				<xg>
+					<x>Son háliidii báhčit goaskimiid, duoid boazoborriid.</x>
+					<xt>Han/hun ville skyte ørnene, de reinspiserne.</xt>
+				</xg>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t pos="actor">uhyre</t>
+				<xg>
+					<x/>
+					<xt/>
+				</xg>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">dikšu</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">pleier</t>
+				<xg>
+					<x>Ođđa ossodahkii dárbbašuvvojit goitge logi dikšu.</x>
+					<xt>Til den nye avdelingen trenges iallfall 10 pleiere.</xt>
+				</xg>
+				<xg>
+					<x>Sii háliidit buoridit bargodili erenomážit dikšuide.</x>
+					<xt>De ønsker å forbedre arbeidsforholdene spesielt for pleierne.</xt>
+				</xg>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">goddi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">morder</t>
+				<t pos="m">avliver</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">lávlu</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">sanger</t>
+				<t pos="m">vokalist</t>
+				<xg>
+					<x>Oktiibuot logi juoigi ja guhtta lávlu leat lávddi alde beassášlávvordaga.</x>
+					<xt>Tilsammen ti joikere og seks sangere er på scenen påskeaften.</xt>
+				</xg>
+				<xg>
+					<x>Mii ozaimet doarjaga doallat kurssa juigiide ja lávluide.</x>
+					<xt>Vi søkte om penger for at holde kurs for joikere og sangere.</xt>
+				</xg>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">lohkki</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">leser</t>
+				<xg>
+					<x>Jurddašin jearahallat vihtta lohkki luopmoplánaid birra.</x>
+					<xt>Jeg tenkte å intervje fem lesere om ferieplaner.</xt>
+				</xg>
+				<xg>
+					<x>Áviisa sávvá buot lohkkiide ráfálaš ja buriid juovllaid.</x>
+					<xt>Avisa ønsker fredelig og god jul til alle leserne.</xt>
+				</xg>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">vuovdi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">selger</t>
+				<xg>
+					<x>Máŋga vuovdi ledje boahtán márkanii.</x>
+					<xt>Mange selgere var kommet til markedet.</xt>
+				</xg>
+				<xg>
+					<x>Mun dopmen máksit iežan velggiid buot vuovdiide.</x>
+					<xt>Jeg skyndte meg å betale gjelda mi til alle selgerne.</xt>
+				</xg>
+			</tg>
+		</mg>
+	</e>
+	<e src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">jođiheaddji</l>
+			<lc>-headdjit, -heddjiid</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">leder</t>
+				<t pos="m">styrer</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">prošeaktajođiheaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">prosjektleder</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">sátnejođiheaddji</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">ordfører</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">bargi</l>
+			<lc>bargit</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">arbeider</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t pos="m">arbeidstaker</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">dearvvašvuođabargi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">helsearbeider</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">fabrihkkabargi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">fabrikkarbeider</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">gávpebargi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">ekspeditør</t>
+				<t pos="m">butikkansatt</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">kántorbargi</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">kontorarbeider</t>
+				<t pos="m">kontoransatt</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">ássi</l>
+			<lc>ássit</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">innbygger</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">girječálli</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">forfatter</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">čálli</l>
+			<lc>čállit</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">forfatter</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t pos="m">sekretær</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t pos="m">skribent</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">čuoigi</l>
+			<lc>čuoigit</lc>
+			<lc>čuigiid</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">skiløper</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">dutki</l>
+			<lc>dutkit</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">forsker</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped">
+		<lg>
+			<l pos="actor" illpl="ok">biebmoealli</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="actor">kjæledyr</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">ealli</l>
+			<lc>eallit</lc>
+			<lc>elliid</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="actor">levende vesen</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t pos="actor">dyr</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">girdi</l>
+			<lc>girdit</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="actor">fly</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t pos="x">flyver</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">guođoheaddji</l>
+			<lc>-headdjit</lc>
+			<lc>-heddjiid</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">gjeter</t>
+			</tg>
+		</mg>
+	</e>
+	<e src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">jábmi</l>
+			<lc>jábmit</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">død</t>
+				<t pos="actor">lik</t>
+			</tg>
+		</mg>
+	</e>
+	<e src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">máhttájeaddji</l>
+			<lc>-jeaddjit</lc>
+			<lc>-jeddjiid</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">disippel</t>
+				<t pos="m">apostel</t>
+			</tg>
+		</mg>
+	</e>
+	<e usage="ped" src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">oahpaheaddji</l>
+			<lc>-headdjit</lc>
+			<lc>-heddjiid</lc>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">lærer</t>
+			</tg>
+		</mg>
+	</e>
+	<e src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">vearredahkki</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">forbryter</t>
+			</tg>
+		</mg>
+	</e>
+	<e src="nj">
+		<lg>
+			<l pos="actor" illpl="ok">njoammu</l>
+		</lg>
+		<mg>
+			<tg>
+				<t pos="m">smittsom sykdom</t>
+			</tg>
+		</mg>
+	</e>
 </r>
