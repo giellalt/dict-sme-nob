@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
 <?xml-stylesheet type="text/xsl" href="../../scripts/gt_dictionary.xsl"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_dictionary.dtd">
+
+<!DOCTYPE r SYSTEM "../scripts/smenob.dtd">
+<?xml-stylesheet type="text/css" href="../scripts/smenob.css"?>
 <r>
    <e usage="more">
       <lg>
@@ -369,9 +370,11 @@
    <e usage="more">
       <lg>
          <l pos="n">heahtedilli</l>
-         <t pos="f">krise</t>
       </lg>
       <mg>
+         <tg>
+         <t pos="f">krise</t>
+         </tg>
          <tg>
             <t pos="m">nødssituasjon</t>
          </tg>
@@ -30782,8 +30785,10 @@
       <mg>
          <tg>
             <t pos="n">utburd</t>
+           <xg> 
  <x>Mánát mat ledje hávdáduvvon vihakeahtes eatnamii ja gopmahalle, sii gohčodedje eahparažžan.</x>
   <xt>Barn som ble begravt i uinnviet jord og som spøkte, ble kalt for utburd.</xt>
+  </xg>
         </tg>
       </mg>
    </e>
@@ -117081,10 +117086,8 @@
       </lg>
       <mg>
          <tg>
+               <re>især Hoffmansdråper, blanding av sprit og eter, som tidligere ble brukt sammen med kaffe</re>
             <t pos="m">dråpe</t>
-            <xg>
-               <xt>især Hoffmansdråper, blanding av sprit og eter, som tidligere ble brukt sammen med kaffe</xt>
-            </xg>
          </tg>
       </mg>
    </e>
