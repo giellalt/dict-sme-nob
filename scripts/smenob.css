@@ -1,55 +1,12 @@
 @charset "utf-8";
 @import "../../scripts/gt_dictionary.css";
 
-l {
-	color: blue;
-}
-
-lc
- 	{
-    font-style: italic;
-    font-size: smaller;
-}
-
-lc:before {
-    content: " ";  
-    font-style: italic;
-    font-size: small;
-}
-
 re {
-    display: block;
-}
-
-t + t:before {
-    content: ", ";
-    font-style: italic;
-}
-
-t {
-    display: inline;
-}
-
-tg {
-    display: inline;
-}
-
-x:after {
-	font-style: italic;
-}
-
-xt:before {
-    font-style: italic;
-    color: gray;
-    vertical-align: super;
-    content: " = ";
-}
- 
-mg {
     display: block;
 }
 
 xg + xg:before {
     display: inline;
     content: "; ";
+    margin-left: -.3em;
 }
