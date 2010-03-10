@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../scripts/smenob.css"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_dictionary.dtd">
+  PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_staticdictionary.dtd">
 <r>
   <e src="nj">
     <lg>
@@ -355,7 +355,6 @@
       <mg>
          <tg>
             <t pos="pron">hva</t>
-         </tg>
         <xg>
           <x>Maid dagat dáppe?</x>
           <xt>Hva gjør du her?</xt>
@@ -364,6 +363,7 @@
           <x>Son jurddašii iežas báŋkoloana birra maid galggai máksit odne.</x>
           <xt>Han/hun tenkte på banklånet sitt som han/hun skulle betale idag.</xt>
         </xg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -375,7 +375,6 @@
       <mg>
          <tg>
             <t pos="pron">hva</t>
-         </tg>
         <xg>
           <x>Man birra čállibehtet?</x>
           <xt>Hva skriver dere om?</xt>
@@ -384,6 +383,7 @@
           <x>Buoskavári guoras lea várri man namma lea Ráhpesvárri.</x>
           <xt>Ved siden av Buoskavárri er det et fjell som heter Ráhpesvárri.</xt>
         </xg>
+         </tg>
       </mg>
    </e>
    <e>
