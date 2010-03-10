@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../scripts/smenob.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE"
+"../../scripts/gt_dictionary.dtd">
 <r>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="g3" illpl="ok">beassi</l>
+         <l illpl="ok" pos="g3">beassi</l>
       </lg>
       <mg>
          <tg>
@@ -19,7 +19,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="g3" illpl="ok">duollu</l>
+         <l illpl="ok" pos="g3">duollu</l>
       </lg>
       <mg>
          <tg>
@@ -31,9 +31,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="g3" illpl="ok">gállu</l>
+         <l illpl="ok" pos="g3">gállu</l>
          <lc>gállut</lc>
       </lg>
       <mg>
@@ -46,9 +46,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="g3" illpl="ok">vuorru</l>
+         <l illpl="ok" pos="g3">vuorru</l>
       </lg>
       <mg>
          <tg>
@@ -62,31 +62,31 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="g3" illpl="ok">oarri</l>
+         <l illpl="ok" pos="g3">oarri</l>
          <lc>oarrit</lc>
          <lc>orriid</lc>
       </lg>
       <mg>
          <tg>
-            <t pos="g3">ekorn</t>
+            <t pos="n">ekorn</t>
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="g3" illpl="ok">láđđi</l>
+         <l illpl="ok" pos="g3">láđđi</l>
          <lc>lađđit</lc>
       </lg>
       <mg>
          <tg>
-            <t pos="g3">klede</t>
-            <t pos="g3">stoff</t>
+            <t pos="n">klede</t>
+            <t pos="n">stoff</t>
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="g3" illpl="ok">rišša</l>
+         <l illpl="ok" pos="g3">rišša</l>
       </lg>
       <mg>
          <tg>
@@ -105,7 +105,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="g3" illpl="ok">gássa</l>
+         <l illpl="ok" pos="g3">gássa</l>
       </lg>
       <mg>
          <tg>
@@ -115,7 +115,7 @@
    </e>
    <e>
       <lg>
-         <l pos="g3" illpl="ok">hálla</l>
+         <l illpl="ok" pos="g3">hálla</l>
       </lg>
       <mg>
          <tg>
@@ -125,7 +125,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="g3" illpl="ok">hárri</l>
+         <l illpl="ok" pos="g3">hárri</l>
          <lc>hárrit</lc>
       </lg>
       <mg>
@@ -136,7 +136,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="g3" illpl="ok">klássa</l>
+         <l illpl="ok" pos="g3">klássa</l>
       </lg>
       <mg>
          <tg>
