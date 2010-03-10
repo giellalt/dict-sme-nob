@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../scripts/smenob.css"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_dictionary.dtd">
+  PUBLIC "-//XMLmind//DTD smenob//SE" "../../scripts/gt_staticdictionary.dtd">
 <r>
   <e src="nj">
     <lg>
@@ -764,11 +764,11 @@
          <tg>
             <t pos="pron">med den/det (som er nærmere deg)</t>
              <t pos="pron">med den/det (som vi nettopp nevnte)</t>
-        </tg>
         <xg>
           <x>Vuosttažettiin danin go dieinna vugiin ii sáhte nuvttá riŋget.</x>
           <xt>Først og fremst fordi det på (med) den måten ikke er mulig å ringe gratis.</xt>
         </xg>
+        </tg>
       </mg>
    </e>
    <e>
@@ -1127,11 +1127,11 @@
          <tg>
             <t pos="pron">med dem (som er nærmere deg)</t>
              <t pos="pron">med dem (som vi nettopp nevnte)</t>
-        </tg>
         <xg>
           <x>Sii geat dieiguin sáddagiiguin barget, eai leat bálkáhuvvon bargit.</x>
           <xt>De som arbeider med disse sendingene, er ikke ansatte som er lønnet.</xt>
         </xg>
+        </tg>
       </mg>
    </e>
    <e>
