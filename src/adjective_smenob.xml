@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r>
    <e usage="more">
       <lg>
-         <l pos="a" context="olmmoš">birgemeahttun</l>
+         <l context="olmmoš" pos="a">birgemeahttun</l>
       </lg>
       <mg>
          <tg>
@@ -14,9 +14,19 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="a">suigat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kjedelig</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="láibi">roavva</l>
+         <l context="láibi" pos="a">roavva</l>
       </lg>
       <mg>
          <tg>
@@ -26,7 +36,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="aviisa">riikaviidosaš</l>
+         <l context="aviisa" pos="a">riikaviidosaš</l>
       </lg>
       <mg>
          <tg>
@@ -36,7 +46,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="olmmoš">juhkki</l>
+         <l context="olmmoš" pos="a">juhkki</l>
       </lg>
       <mg>
          <tg>
@@ -46,7 +56,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="ášši">ovttabealat</l>
+         <l context="ášši" pos="a">ovttabealat</l>
       </lg>
       <mg>
          <tg>
@@ -56,7 +66,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="ášši">ovddit</l>
+         <l context="ášši" pos="a">ovddit</l>
       </lg>
       <mg>
          <tg>
@@ -66,7 +76,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="ášši">áddetmeahttun</l>
+         <l context="ášši" pos="a">áddetmeahttun</l>
       </lg>
       <mg>
          <tg>
@@ -76,7 +86,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">additiiva</l>
+         <l context="olmmoš" pos="a">additiiva</l>
       </lg>
       <mg>
          <tg>
@@ -90,7 +100,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="eana">ráhpis</l>
+         <l context="eana" pos="a">ráhpis</l>
       </lg>
       <mg>
          <tg>
@@ -100,7 +110,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">botká</l>
+         <l context="none" pos="a">botká</l>
       </lg>
       <mg>
          <tg>
@@ -114,7 +124,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="illu">agálaš</l>
+         <l context="illu" pos="a">agálaš</l>
          <lc>- laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -125,7 +135,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ahccil</l>
+         <l context="olmmoš" pos="a">ahccil</l>
       </lg>
       <mg>
          <tg>
@@ -133,9 +143,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dilli">ahkit</l>
+         <l context="dilli" pos="a">ahkit</l>
          <lc>ahkidat, ahkidis (dilli)</lc>
       </lg>
       <mg>
@@ -151,7 +161,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ahkásaš</l>
+         <l context="olmmoš" pos="a">ahkásaš</l>
       </lg>
       <mg>
          <tg>
@@ -161,7 +171,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ahppar</l>
+         <l context="olmmoš" pos="a">ahppar</l>
       </lg>
       <mg>
          <tg>
@@ -171,7 +181,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">aitosaš</l>
+         <l context="olmmoš" pos="a">aitosaš</l>
       </lg>
       <mg>
          <tg>
@@ -185,7 +195,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">aktiiva</l>
+         <l context="olmmoš" pos="a">aktiiva</l>
       </lg>
       <mg>
          <tg>
@@ -195,7 +205,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">aktoráđálaš</l>
+         <l context="olmmoš" pos="a">aktoráđálaš</l>
       </lg>
       <mg>
          <tg>
@@ -205,7 +215,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="márfi">albma</l>
+         <l context="márfi" pos="a">albma</l>
       </lg>
       <mg>
          <tg>
@@ -218,9 +228,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">alit</l>
+         <l context="bivttas" pos="a">alit</l>
       </lg>
       <mg>
          <tg>
@@ -230,7 +240,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="viidni">alkoholkeahttá</l>
+         <l context="viidni" pos="a">alkoholkeahttá</l>
       </lg>
       <mg>
          <tg>
@@ -238,9 +248,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="várri">allat</l>
+         <l context="várri" pos="a">allat</l>
          <lc>allagat, alla</lc>
       </lg>
       <mg>
@@ -252,7 +262,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">allegoralaš</l>
+         <l context="olmmoš" pos="a">allegoralaš</l>
       </lg>
       <mg>
          <tg>
@@ -262,7 +272,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="guovlu">almennetsullasaš</l>
+         <l context="guovlu" pos="a">almennetsullasaš</l>
       </lg>
       <mg>
          <tg>
@@ -272,7 +282,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="guovlu">almennetvuoigaduvvon</l>
+         <l context="guovlu" pos="a">almennetvuoigaduvvon</l>
       </lg>
       <mg>
          <tg>
@@ -280,9 +290,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">almmolaš</l>
+         <l context="ášši" pos="a">almmolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -294,7 +304,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">almmus</l>
+         <l context="ášši" pos="a">almmus</l>
          <lc>albmosat</lc>
       </lg>
       <mg>
@@ -305,7 +315,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">alvvaheapme</l>
+         <l context="olmmoš" pos="a">alvvaheapme</l>
       </lg>
       <mg>
          <tg>
@@ -315,7 +325,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">alvvalaš</l>
+         <l context="olmmoš" pos="a">alvvalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -324,9 +334,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">amas</l>
+         <l context="olmmoš" pos="a">amas</l>
       </lg>
       <mg>
          <tg>
@@ -337,7 +347,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bierggas">anihahtti</l>
+         <l context="bierggas" pos="a">anihahtti</l>
       </lg>
       <mg>
          <tg>
@@ -345,9 +355,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="náhkki">asehaš</l>
+         <l context="náhkki" pos="a">asehaš</l>
          <lc>-haččat, -hažžii</lc>
       </lg>
       <mg>
@@ -362,7 +372,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="geaidnu">asfáltái</l>
+         <l context="geaidnu" pos="a">asfáltái</l>
       </lg>
       <mg>
          <tg>
@@ -370,9 +380,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="náhkki">assái</l>
+         <l context="náhkki" pos="a">assái</l>
          <lc>assás (náhkki)</lc>
       </lg>
       <mg>
@@ -383,7 +393,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="oahpponeavvu">audiovisuála</l>
+         <l context="oahpponeavvu" pos="a">audiovisuála</l>
       </lg>
       <mg>
          <tg>
@@ -393,7 +403,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">badjelmearálaš</l>
+         <l context="ášši" pos="a">badjelmearálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -402,9 +412,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="beana">bahá</l>
+         <l context="beana" pos="a">bahá</l>
          <lc>bahát, bahás (beana)</lc>
       </lg>
       <mg>
@@ -415,7 +425,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">bahánihkkán</l>
+         <l context="olmmoš" pos="a">bahánihkkán</l>
          <lc>-nihkkánat</lc>
       </lg>
       <mg>
@@ -428,9 +438,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dovdu">bahča</l>
+         <l context="dovdu" pos="a">bahča</l>
          <lc>bahččagat</lc>
       </lg>
       <mg>
@@ -441,7 +451,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">balahahkes</l>
+         <l context="olmmoš" pos="a">balahahkes</l>
       </lg>
       <mg>
          <tg>
@@ -452,7 +462,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">barffas</l>
+         <l context="none" pos="a">barffas</l>
          <lc>barfasat</lc>
       </lg>
       <mg>
@@ -472,7 +482,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">bargguheapme</l>
+         <l context="olmmoš" pos="a">bargguheapme</l>
       </lg>
       <mg>
          <tg>
@@ -482,7 +492,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">bargonávccalaš</l>
+         <l context="olmmoš" pos="a">bargonávccalaš</l>
       </lg>
       <mg>
          <tg>
@@ -490,9 +500,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">baski</l>
+         <l context="bivttas" pos="a">baski</l>
          <lc>baskkit, baskkes (bivttas)</lc>
       </lg>
       <mg>
@@ -503,7 +513,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="báiki">bassi</l>
+         <l context="báiki" pos="a">bassi</l>
       </lg>
       <mg>
          <tg>
@@ -511,9 +521,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="niibi">bastil</l>
+         <l context="niibi" pos="a">bastil</l>
          <lc>bastilat, bastilis (niibi)</lc>
       </lg>
       <mg>
@@ -524,7 +534,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dilli">beaivválaš</l>
+         <l context="dilli" pos="a">beaivválaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -535,7 +545,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">beakkálmas</l>
+         <l context="olmmoš" pos="a">beakkálmas</l>
          <lc>-masat, -massii</lc>
       </lg>
       <mg>
@@ -545,9 +555,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">beakkán</l>
+         <l context="olmmoš" pos="a">beakkán</l>
          <lc>beakkánat</lc>
       </lg>
       <mg>
@@ -558,7 +568,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="biebmu">beaktil</l>
+         <l context="biebmu" pos="a">beaktil</l>
          <lc>beaktilat, beaktilis (biebmu)</lc>
       </lg>
       <mg>
@@ -567,9 +577,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">bealjeheapme</l>
+         <l context="olmmoš" pos="a">bealjeheapme</l>
          <lc>-heamet, -hemiid</lc>
       </lg>
       <mg>
@@ -581,7 +591,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">behtolaš</l>
+         <l context="olmmoš" pos="a">behtolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -592,7 +602,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">bienalaš</l>
+         <l context="olmmoš" pos="a">bienalaš</l>
       </lg>
       <mg>
          <tg>
@@ -602,7 +612,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="viesut">bieđggus</l>
+         <l context="viesut" pos="a">bieđggus</l>
       </lg>
       <mg>
          <tg>
@@ -616,7 +626,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="beana">birolaš</l>
+         <l context="beana" pos="a">birolaš</l>
       </lg>
       <mg>
          <tg>
@@ -626,7 +636,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="virgi">bissovaš</l>
+         <l context="virgi" pos="a">bissovaš</l>
       </lg>
       <mg>
          <tg>
@@ -634,9 +644,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="virgi">bistevaš</l>
+         <l context="virgi" pos="a">bistevaš</l>
       </lg>
       <mg>
          <tg>
@@ -653,9 +663,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">bivnnut</l>
+         <l context="olmmoš" pos="a">bivnnut</l>
          <lc>bivnnuhat, bivnnuhis (olmmoš)</lc>
       </lg>
       <mg>
@@ -665,9 +675,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dálki">bivval</l>
+         <l context="dálki" pos="a">bivval</l>
       </lg>
       <mg>
          <tg>
@@ -677,7 +687,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">boaggejuolggat</l>
+         <l context="olmmoš" pos="a">boaggejuolggat</l>
       </lg>
       <mg>
          <tg>
@@ -687,7 +697,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="ášši">boahtteáigásaš</l>
+         <l context="ášši" pos="a">boahtteáigásaš</l>
       </lg>
       <mg>
          <tg>
@@ -697,7 +707,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">boalbi</l>
+         <l context="olmmoš" pos="a">boalbi</l>
       </lg>
       <mg>
          <tg>
@@ -707,7 +717,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">boandái</l>
+         <l context="olmmoš" pos="a">boandái</l>
          <lc>boandás (olmmoš)</lc>
       </lg>
       <mg>
@@ -716,9 +726,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">boaris</l>
+         <l context="olmmoš" pos="a">boaris</l>
          <lc>boarrásat, boares (olmmoš)</lc>
       </lg>
       <mg>
@@ -729,7 +739,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">boarka</l>
+         <l context="olmmoš" pos="a">boarka</l>
          <lc>boarkkat, boarkkas (olmmoš)</lc>
       </lg>
       <mg>
@@ -741,7 +751,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">bolffas</l>
+         <l context="none" pos="a">bolffas</l>
          <lc>bolfasat</lc>
       </lg>
       <mg>
@@ -756,7 +766,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">buhtadanevttolaš</l>
+         <l context="olmmoš" pos="a">buhtadanevttolaš</l>
       </lg>
       <mg>
          <tg>
@@ -766,7 +776,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">buhtadankeahttá</l>
+         <l context="olmmoš" pos="a">buhtadankeahttá</l>
       </lg>
       <mg>
          <tg>
@@ -776,7 +786,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">buhtadanrievttálaš</l>
+         <l context="olmmoš" pos="a">buhtadanrievttálaš</l>
       </lg>
       <mg>
          <tg>
@@ -784,9 +794,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">buhtis</l>
+         <l context="bivttas" pos="a">buhtis</l>
          <lc>buhttásat, buhtes (bivttas)</lc>
       </lg>
       <mg>
@@ -798,7 +808,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">buljas</l>
+         <l context="none" pos="a">buljas</l>
          <lc>bulljasat</lc>
       </lg>
       <mg>
@@ -813,7 +823,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">bunzzar</l>
+         <l context="olmmoš" pos="a">bunzzar</l>
       </lg>
       <mg>
          <tg>
@@ -821,9 +831,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="boazu">buoidi</l>
+         <l context="boazu" pos="a">buoidi</l>
          <lc>buoiddes (boazu)</lc>
       </lg>
       <mg>
@@ -832,9 +842,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">buorre</l>
+         <l context="olmmoš" pos="a">buorre</l>
          <lc>buorit, buriid</lc>
       </lg>
       <mg>
@@ -846,7 +856,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">buorredoaibmi</l>
+         <l context="olmmoš" pos="a">buorredoaibmi</l>
       </lg>
       <mg>
          <tg>
@@ -856,7 +866,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">buotdivnnat</l>
+         <l context="olmmoš" pos="a">buotdivnnat</l>
       </lg>
       <mg>
          <tg>
@@ -866,7 +876,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="none">buozas</l>
+         <l context="none" pos="a">buozas</l>
       </lg>
       <mg>
          <tg>
@@ -876,7 +886,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">buošši</l>
+         <l context="olmmoš" pos="a">buošši</l>
          <lc>buošit, bušiid</lc>
       </lg>
       <mg>
@@ -886,9 +896,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ruovdi">báhkas</l>
+         <l context="ruovdi" pos="a">báhkas</l>
          <lc>báhkkasat, báhkka (áhta)</lc>
       </lg>
       <mg>
@@ -899,7 +909,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">báhkinlaš</l>
+         <l context="olmmoš" pos="a">báhkinlaš</l>
       </lg>
       <mg>
          <tg>
@@ -909,7 +919,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">báhkinlágáš</l>
+         <l context="olmmoš" pos="a">báhkinlágáš</l>
       </lg>
       <mg>
          <tg>
@@ -919,7 +929,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">báikkálaš</l>
+         <l context="olmmoš" pos="a">báikkálaš</l>
       </lg>
       <mg>
          <tg>
@@ -929,7 +939,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">báktefágalaš</l>
+         <l context="olmmoš" pos="a">báktefágalaš</l>
       </lg>
       <mg>
          <tg>
@@ -939,7 +949,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">báktelaš</l>
+         <l context="olmmoš" pos="a">báktelaš</l>
       </lg>
       <mg>
          <tg>
@@ -949,7 +959,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="duottar">báljis</l>
+         <l context="duottar" pos="a">báljis</l>
          <lc>bálljásat, báljes (duottar)</lc>
       </lg>
       <mg>
@@ -965,7 +975,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="áigi">báris</l>
+         <l context="áigi" pos="a">báris</l>
          <lc>bárrásat</lc>
       </lg>
       <mg>
@@ -980,7 +990,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">bárrahaš</l>
+         <l context="none" pos="a">bárrahaš</l>
          <lc>-haččat</lc>
          <lc>-hažžii</lc>
       </lg>
@@ -992,22 +1002,22 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">bás</l>
+         <l context="mánná" pos="a">bás</l>
          <lc>bás mánná</lc>
       </lg>
       <mg>
          <tg>
             <t pos="a">stakkars liten</t>
-         <xg>
-            <x>bás mánná</x>
-            <xt>stakkars lite barn</xt>
-         </xg>
+            <xg>
+               <x>bás mánná</x>
+               <xt>stakkars lite barn</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="juolgi">bávččas</l>
+         <l context="juolgi" pos="a">bávččas</l>
       </lg>
       <mg>
          <tg>
@@ -1017,7 +1027,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ceaggái</l>
+         <l context="olmmoš" pos="a">ceaggái</l>
          <lc>ceaggás (olmmoš)</lc>
       </lg>
       <mg>
@@ -1028,7 +1038,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="mielli">ceakkus</l>
+         <l context="mielli" pos="a">ceakkus</l>
       </lg>
       <mg>
          <tg>
@@ -1036,9 +1046,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="johka">coagis</l>
+         <l context="johka" pos="a">coagis</l>
          <lc>coahkásat, coages (johka)</lc>
       </lg>
       <mg>
@@ -1049,7 +1059,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">coakcái</l>
+         <l context="olmmoš" pos="a">coakcái</l>
       </lg>
       <mg>
          <tg>
@@ -1059,7 +1069,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">cáiccas</l>
+         <l context="olmmoš" pos="a">cáiccas</l>
          <lc>cáicasat</lc>
       </lg>
       <mg>
@@ -1068,9 +1078,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">dearvvas</l>
+         <l context="olmmoš" pos="a">dearvvas</l>
          <lc>dearvasat</lc>
       </lg>
       <mg>
@@ -1081,7 +1091,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="borramuš">dearvvaslaš</l>
+         <l context="borramuš" pos="a">dearvvaslaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1092,7 +1102,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">dearvvaš</l>
+         <l context="olmmoš" pos="a">dearvvaš</l>
       </lg>
       <mg>
          <tg>
@@ -1100,9 +1110,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">deaŧalaš</l>
+         <l context="ášši" pos="a">deaŧalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1113,7 +1123,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="vuohki">deduktiiva</l>
+         <l context="vuohki" pos="a">deduktiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1123,7 +1133,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="ášši">dehálaš</l>
+         <l context="ášši" pos="a">dehálaš</l>
       </lg>
       <mg>
          <tg>
@@ -1133,7 +1143,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">deliberatiiva</l>
+         <l context="olmmoš" pos="a">deliberatiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1143,7 +1153,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">demonstratiiva</l>
+         <l context="olmmoš" pos="a">demonstratiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1153,7 +1163,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="vuohki">deskriptiiva</l>
+         <l context="vuohki" pos="a">deskriptiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1163,7 +1173,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">diehtemeahttun</l>
+         <l context="olmmoš" pos="a">diehtemeahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -1174,7 +1184,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">diehtointensiiva</l>
+         <l context="olmmoš" pos="a">diehtointensiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1184,7 +1194,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">diehttalas</l>
+         <l context="ášši" pos="a">diehttalas</l>
       </lg>
       <mg>
          <tg>
@@ -1195,7 +1205,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čilgehus">dievas</l>
+         <l context="čilgehus" pos="a">dievas</l>
          <lc>dievvasat</lc>
       </lg>
       <mg>
@@ -1207,7 +1217,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čilgehus">dievaslaš</l>
+         <l context="čilgehus" pos="a">dievaslaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1218,7 +1228,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čilgehus">dieđalaš</l>
+         <l context="čilgehus" pos="a">dieđalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1229,7 +1239,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="muorjjit">diimmá</l>
+         <l context="muorjjit" pos="a">diimmá</l>
          <lc>diimmáš</lc>
       </lg>
       <mg>
@@ -1240,7 +1250,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="guoddá">dimis</l>
+         <l context="guoddá" pos="a">dimis</l>
          <lc>dipmásat, dipma (guoddá)</lc>
       </lg>
       <mg>
@@ -1252,7 +1262,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">distributiiva</l>
+         <l context="olmmoš" pos="a">distributiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1260,9 +1270,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">divrras</l>
+         <l context="bivttas" pos="a">divrras</l>
          <lc>divrasat</lc>
       </lg>
       <mg>
@@ -1274,7 +1284,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="lihtti">divttis</l>
+         <l context="lihtti" pos="a">divttis</l>
          <lc>diktásat, divttes (lihtti)</lc>
       </lg>
       <mg>
@@ -1285,7 +1295,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">diđolaš</l>
+         <l context="olmmoš" pos="a">diđolaš</l>
       </lg>
       <mg>
          <tg>
@@ -1295,7 +1305,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">doaibmi</l>
+         <l context="olmmoš" pos="a">doaibmi</l>
       </lg>
       <mg>
          <tg>
@@ -1306,7 +1316,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">doaimmalaš</l>
+         <l context="olmmoš" pos="a">doaimmalaš</l>
       </lg>
       <mg>
          <tg>
@@ -1317,7 +1327,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">doaresfágalaš</l>
+         <l context="olmmoš" pos="a">doaresfágalaš</l>
       </lg>
       <mg>
          <tg>
@@ -1327,7 +1337,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="muorra">doaris</l>
+         <l context="muorra" pos="a">doaris</l>
          <lc>doarrásat, doares (muorra)</lc>
       </lg>
       <mg>
@@ -1340,7 +1350,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">doavki</l>
+         <l context="olmmoš" pos="a">doavki</l>
          <lc>doavkkit, dovkkiid</lc>
       </lg>
       <mg>
@@ -1351,7 +1361,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">doaŋgi</l>
+         <l context="olmmoš" pos="a">doaŋgi</l>
          <lc>doŋggiid, doaŋgges (olmmái)</lc>
       </lg>
       <mg>
@@ -1364,7 +1374,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="johka">doažži</l>
+         <l context="johka" pos="a">doažži</l>
          <lc>doččiid, doaččes (johka)</lc>
       </lg>
       <mg>
@@ -1375,7 +1385,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ávnnas">dohkketmeahttun</l>
+         <l context="ávnnas" pos="a">dohkketmeahttun</l>
          <lc>-meahttumat, -meahttumis (ávnnas)</lc>
       </lg>
       <mg>
@@ -1387,7 +1397,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bargovuohki">dohkálaš</l>
+         <l context="bargovuohki" pos="a">dohkálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1399,7 +1409,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">doidon</l>
+         <l context="olmmoš" pos="a">doidon</l>
       </lg>
       <mg>
          <tg>
@@ -1407,9 +1417,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">dološ</l>
+         <l context="bivttas" pos="a">dološ</l>
          <lc>doložat</lc>
       </lg>
       <mg>
@@ -1420,7 +1430,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="bivttas">dološáigásaš</l>
+         <l context="bivttas" pos="a">dološáigásaš</l>
       </lg>
       <mg>
          <tg>
@@ -1430,7 +1440,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">dorvvolaš</l>
+         <l context="olmmoš" pos="a">dorvvolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1442,7 +1452,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">dorvvuheapme</l>
+         <l context="olmmoš" pos="a">dorvvuheapme</l>
          <lc>-heamet, -hemiid, -his (olmmoš)</lc>
       </lg>
       <mg>
@@ -1451,9 +1461,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">dovddus</l>
+         <l context="olmmoš" pos="a">dovddus</l>
          <lc>dovdosat</lc>
       </lg>
       <mg>
@@ -1464,7 +1474,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">dubitatiiva</l>
+         <l context="olmmoš" pos="a">dubitatiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1474,7 +1484,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">dubmehalli</l>
+         <l context="olmmoš" pos="a">dubmehalli</l>
       </lg>
       <mg>
          <tg>
@@ -1484,7 +1494,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">dubmehallon</l>
+         <l context="olmmoš" pos="a">dubmehallon</l>
       </lg>
       <mg>
          <tg>
@@ -1494,7 +1504,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">duhtadeaddji</l>
+         <l context="olmmoš" pos="a">duhtadeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -1504,7 +1514,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">duhtameahttun</l>
+         <l context="olmmoš" pos="a">duhtameahttun</l>
          <lc>-meahttumat, -meahttumis (olmmoš)</lc>
       </lg>
       <mg>
@@ -1513,9 +1523,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">duhtavaš</l>
+         <l context="olmmoš" pos="a">duhtavaš</l>
          <lc>-vaččat, -važžii</lc>
       </lg>
       <mg>
@@ -1526,7 +1536,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">duihmi</l>
+         <l context="olmmoš" pos="a">duihmi</l>
          <lc>duihmmit, duihmmes (olmmoš)</lc>
       </lg>
       <mg>
@@ -1538,7 +1548,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">duippas</l>
+         <l context="none" pos="a">duippas</l>
          <lc>duipasat, duippes (olmmoš)</lc>
       </lg>
       <mg>
@@ -1547,14 +1557,14 @@
             <t pos="a">tøvete</t>
             <xg>
                <x>duipe- (duipesorta)</x>
-               <xt> </xt>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="lávlla">duiska</l>
+         <l context="lávlla" pos="a">duiska</l>
       </lg>
       <mg>
          <tg>
@@ -1564,7 +1574,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">duohta</l>
+         <l context="ášši" pos="a">duohta</l>
          <lc>duođat</lc>
          <lc>duhtii</lc>
       </lg>
@@ -1574,9 +1584,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="gieddi">duolbbas</l>
+         <l context="gieddi" pos="a">duolbbas</l>
          <lc>duolbasat, duolba (guolbba)</lc>
       </lg>
       <mg>
@@ -1585,9 +1595,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">duolvvas</l>
+         <l context="bivttas" pos="a">duolvvas</l>
          <lc>duolvasat, duolva (biktasat)</lc>
       </lg>
       <mg>
@@ -1598,7 +1608,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">duostil</l>
+         <l context="olmmoš" pos="a">duostil</l>
          <lc>duostilat, duostilis (bárdni)</lc>
       </lg>
       <mg>
@@ -1609,7 +1619,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="ášši">duođalaš</l>
+         <l context="ášši" pos="a">duođalaš</l>
       </lg>
       <mg>
          <tg>
@@ -1619,7 +1629,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">duođaštuslaš</l>
+         <l context="olmmoš" pos="a">duođaštuslaš</l>
       </lg>
       <mg>
          <tg>
@@ -1629,7 +1639,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">durddas</l>
+         <l context="none" pos="a">durddas</l>
          <lc>durdasat</lc>
       </lg>
       <mg>
@@ -1643,9 +1653,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">dábálaš</l>
+         <l context="bivttas" pos="a">dábálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1657,7 +1667,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">dáhpáhusvallji</l>
+         <l context="olmmoš" pos="a">dáhpáhusvallji</l>
       </lg>
       <mg>
          <tg>
@@ -1667,7 +1677,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">dáiddolaš</l>
+         <l context="olmmoš" pos="a">dáiddolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1678,7 +1688,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="lávlla">dánskalaš</l>
+         <l context="lávlla" pos="a">dánskalaš</l>
       </lg>
       <mg>
          <tg>
@@ -1686,9 +1696,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bierggas">dárbbašlaš</l>
+         <l context="bierggas" pos="a">dárbbašlaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -1699,7 +1709,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">dárki</l>
+         <l context="ášši" pos="a">dárki</l>
          <lc>dárkkit, dárkkes (ášši)</lc>
       </lg>
       <mg>
@@ -1709,9 +1719,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="čilgehus">dárkil</l>
+         <l context="čilgehus" pos="a">dárkil</l>
          <lc>dárkilat, dárkilis (čilgehus)</lc>
       </lg>
       <mg>
@@ -1723,7 +1733,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">dárogielat</l>
+         <l context="olmmoš" pos="a">dárogielat</l>
       </lg>
       <mg>
          <tg>
@@ -1733,7 +1743,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">dássái</l>
+         <l context="olmmoš" pos="a">dássái</l>
       </lg>
       <mg>
          <tg>
@@ -1743,7 +1753,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olbmot">dássásaš</l>
+         <l context="olbmot" pos="a">dássásaš</l>
       </lg>
       <mg>
          <tg>
@@ -1758,7 +1768,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">dávggas</l>
+         <l context="none" pos="a">dávggas</l>
          <lc>dávgasat</lc>
       </lg>
       <mg>
@@ -1770,7 +1780,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">dáččaluvvan</l>
+         <l context="olmmoš" pos="a">dáččaluvvan</l>
       </lg>
       <mg>
          <tg>
@@ -1780,7 +1790,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">eahpeáššálaš</l>
+         <l context="olmmoš" pos="a">eahpeáššálaš</l>
       </lg>
       <mg>
          <tg>
@@ -1788,9 +1798,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">eahpečielggas</l>
+         <l context="ášši" pos="a">eahpečielggas</l>
       </lg>
       <mg>
          <tg>
@@ -1800,7 +1810,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="eana">eaiggátkeahttá</l>
+         <l context="eana" pos="a">eaiggátkeahttá</l>
       </lg>
       <mg>
          <tg>
@@ -1810,7 +1820,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">eaimmaskas</l>
+         <l context="olmmoš" pos="a">eaimmaskas</l>
          <lc>-kasat</lc>
          <lc>-kassii</lc>
       </lg>
@@ -1823,7 +1833,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">eaktudeaddji</l>
+         <l context="olmmoš" pos="a">eaktudeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -1833,7 +1843,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ealas</l>
+         <l context="olmmoš" pos="a">ealas</l>
          <lc>eallasat, eallasis (olmmoš)</lc>
       </lg>
       <mg>
@@ -1846,7 +1856,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ealjár</l>
+         <l context="olmmoš" pos="a">ealjár</l>
          <lc>(ealljár), ealjaris (olmmoš)</lc>
       </lg>
       <mg>
@@ -1857,7 +1867,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">eallinfámolaš</l>
+         <l context="olmmoš" pos="a">eallinfámolaš</l>
       </lg>
       <mg>
          <tg>
@@ -1867,7 +1877,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">eallisuodjalan</l>
+         <l context="olmmoš" pos="a">eallisuodjalan</l>
       </lg>
       <mg>
          <tg>
@@ -1877,7 +1887,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">eanaráddjejeaddji</l>
+         <l context="olmmoš" pos="a">eanaráddjejeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -1887,7 +1897,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="oassi">eanas</l>
+         <l context="oassi" pos="a">eanas</l>
          <lc>eatnasat</lc>
       </lg>
       <mg>
@@ -1898,7 +1908,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">eanetbealát</l>
+         <l context="olmmoš" pos="a">eanetbealát</l>
       </lg>
       <mg>
          <tg>
@@ -1908,7 +1918,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">earalágán</l>
+         <l context="olmmoš" pos="a">earalágán</l>
          <lc>-lágánat</lc>
       </lg>
       <mg>
@@ -1920,7 +1930,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">eatnjehas</l>
+         <l context="ášši" pos="a">eatnjehas</l>
          <lc>-hasat</lc>
          <lc>-hassii</lc>
       </lg>
@@ -1937,7 +1947,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ekspressiiva</l>
+         <l context="olmmoš" pos="a">ekspressiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1947,7 +1957,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ekstensiiva</l>
+         <l context="olmmoš" pos="a">ekstensiiva</l>
       </lg>
       <mg>
          <tg>
@@ -1957,7 +1967,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ekstrema</l>
+         <l context="olmmoš" pos="a">ekstrema</l>
       </lg>
       <mg>
          <tg>
@@ -1967,7 +1977,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">eleš</l>
+         <l context="olmmoš" pos="a">eleš</l>
          <lc>elešat, elešis (olmmoš)</lc>
       </lg>
       <mg>
@@ -1983,7 +1993,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dáhpáhus">earenoamáš</l>
+         <l context="dáhpáhus" pos="a">earenoamáš</l>
       </lg>
       <mg>
          <tg>
@@ -1993,7 +2003,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dáhpáhus">erenoamáš</l>
+         <l context="dáhpáhus" pos="a">erenoamáš</l>
          <lc>-noamážat</lc>
       </lg>
       <mg>
@@ -2005,7 +2015,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="čilgehus">etymologiijalaš</l>
+         <l context="čilgehus" pos="a">etymologiijalaš</l>
       </lg>
       <mg>
          <tg>
@@ -2015,7 +2025,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="duopmu">evttolaš</l>
+         <l context="duopmu" pos="a">evttolaš</l>
       </lg>
       <mg>
          <tg>
@@ -2025,7 +2035,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="beana">falli</l>
+         <l context="beana" pos="a">falli</l>
       </lg>
       <mg>
          <tg>
@@ -2033,9 +2043,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dáhpáhus">fasti</l>
+         <l context="dáhpáhus" pos="a">fasti</l>
          <lc>fasttit, fasttes (dáhpáhus)</lc>
       </lg>
       <mg>
@@ -2045,9 +2055,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">fiinnis</l>
+         <l context="bivttas" pos="a">fiinnis</l>
          <lc>fiidnát</lc>
       </lg>
       <mg>
@@ -2056,9 +2066,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">fiskat</l>
+         <l context="bivttas" pos="a">fiskat</l>
          <lc>fiskadat, fiskes (bivttas)</lc>
       </lg>
       <mg>
@@ -2069,7 +2079,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">fitnodatekonomalaš</l>
+         <l context="olmmoš" pos="a">fitnodatekonomalaš</l>
       </lg>
       <mg>
          <tg>
@@ -2079,7 +2089,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">formaliserejuvvon</l>
+         <l context="olmmoš" pos="a">formaliserejuvvon</l>
       </lg>
       <mg>
          <tg>
@@ -2089,7 +2099,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">formálalaš</l>
+         <l context="olmmoš" pos="a">formálalaš</l>
       </lg>
       <mg>
          <tg>
@@ -2099,7 +2109,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">fortuitiiva</l>
+         <l context="olmmoš" pos="a">fortuitiiva</l>
       </lg>
       <mg>
          <tg>
@@ -2109,7 +2119,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">friddja</l>
+         <l context="olmmoš" pos="a">friddja</l>
       </lg>
       <mg>
          <tg>
@@ -2119,7 +2129,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">fuolaheapme</l>
+         <l context="olmmoš" pos="a">fuolaheapme</l>
          <lc>-heamet, -hemiid, fuolahis (olmmoš)</lc>
       </lg>
       <mg>
@@ -2130,7 +2140,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bierggas">fuotni</l>
+         <l context="bierggas" pos="a">fuotni</l>
          <lc>fuonit, fuones (diŋga)</lc>
       </lg>
       <mg>
@@ -2141,7 +2151,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="oahppu">fágaidrasttideaddji</l>
+         <l context="oahppu" pos="a">fágaidrasttideaddji</l>
       </lg>
       <mg>
          <tg>
@@ -2151,7 +2161,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">fágalaš</l>
+         <l context="olmmoš" pos="a">fágalaš</l>
       </lg>
       <mg>
          <tg>
@@ -2159,9 +2169,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">fámolaš</l>
+         <l context="olmmoš" pos="a">fámolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -2172,7 +2182,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">fávdnát</l>
+         <l context="olmmoš" pos="a">fávdnát</l>
          <lc>fávdnádat, fávdnás (olmmoš)</lc>
       </lg>
       <mg>
@@ -2184,7 +2194,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bivttas">gallji</l>
+         <l context="bivttas" pos="a">gallji</l>
          <lc>galjit, galjes (bivttas)</lc>
       </lg>
       <mg>
@@ -2196,7 +2206,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gallás</l>
+         <l context="olmmoš" pos="a">gallás</l>
       </lg>
       <mg>
          <tg>
@@ -2204,9 +2214,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dálki">galmmas</l>
+         <l context="dálki" pos="a">galmmas</l>
          <lc>galbmasat, galbma (dálki)</lc>
       </lg>
       <mg>
@@ -2217,7 +2227,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="beana">gappas</l>
+         <l context="beana" pos="a">gappas</l>
          <lc>gappat</lc>
       </lg>
       <mg>
@@ -2230,9 +2240,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="láibi">garas</l>
+         <l context="láibi" pos="a">garas</l>
          <lc>garrasat, garra (láibi)</lc>
       </lg>
       <mg>
@@ -2243,21 +2253,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="none">garppas</l>
+         <l context="none" pos="a">garppas</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">uvøren</t>
             <xg>
                <x>garpe- (garpesorta)</x>
-               <xt> </xt>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">garrui</l>
+         <l context="olmmoš" pos="a">garrui</l>
          <lc>garros (olmmoš)</lc>
       </lg>
       <mg>
@@ -2268,7 +2278,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">gaskaahkásaš</l>
+         <l context="olmmoš" pos="a">gaskaahkásaš</l>
       </lg>
       <mg>
          <tg>
@@ -2288,7 +2298,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="máksu">gaskamearálaš</l>
+         <l context="máksu" pos="a">gaskamearálaš</l>
       </lg>
       <mg>
          <tg>
@@ -2296,9 +2306,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">gassat</l>
+         <l context="olmmoš" pos="a">gassat</l>
       </lg>
       <mg>
          <tg>
@@ -2308,7 +2318,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">geaffi</l>
+         <l context="olmmoš" pos="a">geaffi</l>
       </lg>
       <mg>
          <tg>
@@ -2316,9 +2326,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">geafi</l>
+         <l context="olmmoš" pos="a">geafi</l>
          <lc>geafit, geafes (olmmoš)</lc>
       </lg>
       <mg>
@@ -2329,7 +2339,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">geahnoheapme</l>
+         <l context="olmmoš" pos="a">geahnoheapme</l>
          <lc>-heamet, -hemiid, geahnohis (olmmái),(geanoheapmi)</lc>
       </lg>
       <mg>
@@ -2343,9 +2353,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="lávka">geahpas</l>
+         <l context="lávka" pos="a">geahpas</l>
          <lc>geahppasat, geahppa (lávka)</lc>
       </lg>
       <mg>
@@ -2356,7 +2366,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dálki">geamus</l>
+         <l context="dálki" pos="a">geamus</l>
          <lc>gepmosat</lc>
       </lg>
       <mg>
@@ -2368,7 +2378,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">geardásaš</l>
+         <l context="olmmoš" pos="a">geardásaš</l>
       </lg>
       <mg>
          <tg>
@@ -2378,7 +2388,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">gearggus</l>
+         <l context="olmmoš" pos="a">gearggus</l>
       </lg>
       <mg>
          <tg>
@@ -2388,7 +2398,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bargu">geatnegas</l>
+         <l context="bargu" pos="a">geatnegas</l>
          <lc>-gasat, -gassii</lc>
       </lg>
       <mg>
@@ -2404,21 +2414,21 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beaivvi">geažos</l>
+         <l context="beaivvi" pos="a">geažos</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">hele</t>
-         <xg>
-            <x>geažos beaivvi</x>
-            <xt>hele dagen</xt>
-         </xg>
+            <xg>
+               <x>geažos beaivvi</x>
+               <xt>hele dagen</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gelbbolaš</l>
+         <l context="olmmoš" pos="a">gelbbolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -2434,7 +2444,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="dáhpáhus">gelddolaš</l>
+         <l context="dáhpáhus" pos="a">gelddolaš</l>
       </lg>
       <mg>
          <tg>
@@ -2444,7 +2454,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gielaheapme</l>
+         <l context="olmmoš" pos="a">gielaheapme</l>
          <lc>-heamet</lc>
       </lg>
       <mg>
@@ -2455,7 +2465,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gierdameahttun</l>
+         <l context="olmmoš" pos="a">gierdameahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -2466,7 +2476,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gierdavaš</l>
+         <l context="olmmoš" pos="a">gierdavaš</l>
          <lc>-vaččat, -važžii</lc>
       </lg>
       <mg>
@@ -2477,7 +2487,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beana">gieris</l>
+         <l context="beana" pos="a">gieris</l>
          <lc>gierrásat</lc>
       </lg>
       <mg>
@@ -2487,9 +2497,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">gievra</l>
+         <l context="olmmoš" pos="a">gievra</l>
          <lc>gievrrat, gievrras (olmmái)</lc>
       </lg>
       <mg>
@@ -2500,7 +2510,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">giitemeahttun</l>
+         <l context="olmmoš" pos="a">giitemeahttun</l>
          <lc>-meahttumat, -meahttumis (olmmoš)</lc>
       </lg>
       <mg>
@@ -2511,7 +2521,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">giitevaš</l>
+         <l context="olmmoš" pos="a">giitevaš</l>
          <lc>-vaččat, -važžii</lc>
       </lg>
       <mg>
@@ -2522,7 +2532,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">giivvis</l>
+         <l context="olmmoš" pos="a">giivvis</l>
          <lc>giivásat</lc>
       </lg>
       <mg>
@@ -2533,7 +2543,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ivdni">gilgat</l>
+         <l context="ivdni" pos="a">gilgat</l>
          <lc>gilgadat, gilges (ivdni)</lc>
       </lg>
       <mg>
@@ -2544,7 +2554,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gillil</l>
+         <l context="olmmoš" pos="a">gillil</l>
          <lc>gillilat, gillilis (olmmoš)</lc>
       </lg>
       <mg>
@@ -2556,7 +2566,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="eana">gilvvihahtti</l>
+         <l context="eana" pos="a">gilvvihahtti</l>
       </lg>
       <mg>
          <tg>
@@ -2566,7 +2576,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bivttas">girjái</l>
+         <l context="bivttas" pos="a">girjái</l>
          <lc>girjás (bivttas)</lc>
       </lg>
       <mg>
@@ -2578,7 +2588,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čalmmit">girkat</l>
+         <l context="čalmmit" pos="a">girkat</l>
          <lc>girkadat, girkes (čalmmit)</lc>
       </lg>
       <mg>
@@ -2590,7 +2600,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">givas</l>
+         <l context="olmmoš" pos="a">givas</l>
          <lc>givvasat</lc>
       </lg>
       <mg>
@@ -2602,7 +2612,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="biergu">givssas</l>
+         <l context="biergu" pos="a">givssas</l>
          <lc>giksasat</lc>
       </lg>
       <mg>
@@ -2615,7 +2625,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">goalmmát</l>
+         <l context="luohkká" pos="a">goalmmát</l>
          <lc>goalmmáda</lc>
       </lg>
       <mg>
@@ -2626,7 +2636,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ilbmi">goalus</l>
+         <l context="ilbmi" pos="a">goalus</l>
          <lc>gollosat</lc>
       </lg>
       <mg>
@@ -2637,7 +2647,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dálki">goalššas</l>
+         <l context="dálki" pos="a">goalššas</l>
          <lc>goalšasat, goalša (dálki)</lc>
       </lg>
       <mg>
@@ -2652,7 +2662,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="guolli">goasttis</l>
+         <l context="guolli" pos="a">goasttis</l>
          <lc>goastásat, goaste (guolli)</lc>
       </lg>
       <mg>
@@ -2663,7 +2673,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">goavvi</l>
+         <l context="olmmoš" pos="a">goavvi</l>
          <lc>goavit, goavis (olmmoš)</lc>
       </lg>
       <mg>
@@ -2674,7 +2684,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="gáffe">goiddas</l>
+         <l context="gáffe" pos="a">goiddas</l>
          <lc>goidasat, goida (gáffe)</lc>
       </lg>
       <mg>
@@ -2688,9 +2698,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="gápmagat">goikkis</l>
+         <l context="gápmagat" pos="a">goikkis</l>
          <lc>goikát, goike (gápmagat)</lc>
       </lg>
       <mg>
@@ -2701,7 +2711,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">golgu</l>
+         <l context="olmmoš" pos="a">golgu</l>
          <lc>golggu</lc>
       </lg>
       <mg>
@@ -2712,7 +2722,7 @@
                <xt>en rein som streifer</xt>
             </xg>
             <xg>
-               <x>golgu olmmoš </x>
+               <x>golgu olmmoš</x>
                <xt>omstreifer</xt>
             </xg>
          </tg>
@@ -2720,7 +2730,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="rássi">golnnas</l>
+         <l context="rássi" pos="a">golnnas</l>
          <lc>goldnasat, goldna (rássi)</lc>
       </lg>
       <mg>
@@ -2731,7 +2741,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">gorrálas</l>
+         <l context="olmmoš" pos="a">gorrálas</l>
       </lg>
       <mg>
          <tg>
@@ -2739,9 +2749,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="luodda">govdat</l>
+         <l context="luodda" pos="a">govdat</l>
          <lc>govdadat, govda (luodda)</lc>
       </lg>
       <mg>
@@ -2751,9 +2761,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="báddi">guhkki</l>
+         <l context="báddi" pos="a">guhkki</l>
          <lc>guhkit, guhkes (báddi)</lc>
       </lg>
       <mg>
@@ -2764,7 +2774,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">gummá</l>
+         <l context="none" pos="a">gummá</l>
       </lg>
       <mg>
          <tg>
@@ -2778,7 +2788,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">guoddaleaddji</l>
+         <l context="olmmoš" pos="a">guoddaleaddji</l>
       </lg>
       <mg>
          <tg>
@@ -2786,9 +2796,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="guolli">guohca</l>
+         <l context="guolli" pos="a">guohca</l>
          <lc>guohccagat</lc>
       </lg>
       <mg>
@@ -2799,7 +2809,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beana">guoirras</l>
+         <l context="beana" pos="a">guoirras</l>
          <lc>guoirasat, guoira (beana)</lc>
       </lg>
       <mg>
@@ -2810,7 +2820,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">guoktilaš</l>
+         <l context="olmmoš" pos="a">guoktilaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -2821,7 +2831,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="jávri">guoleheapme</l>
+         <l context="jávri" pos="a">guoleheapme</l>
       </lg>
       <mg>
          <tg>
@@ -2829,9 +2839,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="lihtti">guorus</l>
+         <l context="lihtti" pos="a">guorus</l>
          <lc>gurrosat, guoros (lihtti)</lc>
       </lg>
       <mg>
@@ -2842,7 +2852,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">guoskevaš</l>
+         <l context="ášši" pos="a">guoskevaš</l>
          <lc>-vaččat, -važžii</lc>
       </lg>
       <mg>
@@ -2857,7 +2867,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="guolggat">guovgat</l>
+         <l context="guolggat" pos="a">guovgat</l>
          <lc>guovgadat, guvges (guolga)</lc>
       </lg>
       <mg>
@@ -2872,7 +2882,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="lásat">guovttegeardásaš</l>
+         <l context="lásat" pos="a">guovttegeardásaš</l>
       </lg>
       <mg>
          <tg>
@@ -2882,7 +2892,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">guovttegielalaš</l>
+         <l context="olmmoš" pos="a">guovttegielalaš</l>
       </lg>
       <mg>
          <tg>
@@ -2892,7 +2902,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="juolgi">gurut</l>
+         <l context="juolgi" pos="a">gurut</l>
       </lg>
       <mg>
          <tg>
@@ -2902,7 +2912,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="láhka">gustovaš</l>
+         <l context="láhka" pos="a">gustovaš</l>
       </lg>
       <mg>
          <tg>
@@ -2912,7 +2922,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gutneheapme</l>
+         <l context="olmmoš" pos="a">gutneheapme</l>
          <lc>-heamet, -hemiid, gutnehis (olmmoš)</lc>
       </lg>
       <mg>
@@ -2923,7 +2933,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ávnnas">guttaheapme</l>
+         <l context="ávnnas" pos="a">guttaheapme</l>
          <lc>-heamet, -hemiid, guttahis (ávnnas)</lc>
       </lg>
       <mg>
@@ -2935,7 +2945,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">guvrras</l>
+         <l context="none" pos="a">guvrras</l>
          <lc>guvrasat</lc>
       </lg>
       <mg>
@@ -2950,7 +2960,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">guđát</l>
+         <l context="luohkká" pos="a">guđát</l>
          <lc>guđada</lc>
       </lg>
       <mg>
@@ -2961,7 +2971,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gáhcci</l>
+         <l context="olmmoš" pos="a">gáhcci</l>
          <lc>gáhcit, gáhces (olmmoš), (gahci, gázit)</lc>
       </lg>
       <mg>
@@ -2972,7 +2982,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">gáiddus</l>
+         <l context="olmmoš" pos="a">gáiddus</l>
       </lg>
       <mg>
          <tg>
@@ -2982,7 +2992,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">gánnáhahtti</l>
+         <l context="ášši" pos="a">gánnáhahtti</l>
          <lc>-hahttit</lc>
       </lg>
       <mg>
@@ -2993,7 +3003,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">gáppus</l>
+         <l context="olmmoš" pos="a">gáppus</l>
          <lc>gábbosat</lc>
       </lg>
       <mg>
@@ -3003,9 +3013,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="duodji">gárvvis</l>
+         <l context="duodji" pos="a">gárvvis</l>
          <lc>gárvásat, gárvves (duodji)</lc>
       </lg>
       <mg>
@@ -3014,9 +3024,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="latnja">gárži</l>
+         <l context="latnja" pos="a">gárži</l>
          <lc>gáržžit, gáržžes (gudji)</lc>
       </lg>
       <mg>
@@ -3028,7 +3038,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">gáržžideaddji</l>
+         <l context="olmmoš" pos="a">gáržžideaddji</l>
       </lg>
       <mg>
          <tg>
@@ -3038,7 +3048,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">gávccát</l>
+         <l context="luohkká" pos="a">gávccát</l>
       </lg>
       <mg>
          <tg>
@@ -3046,9 +3056,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">gávvil</l>
+         <l context="olmmoš" pos="a">gávvil</l>
          <lc>gávvilat, gávvilis (olmmoš)</lc>
       </lg>
       <mg>
@@ -3060,7 +3070,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gáđaš</l>
+         <l context="olmmoš" pos="a">gáđaš</l>
          <lc>gáhtašat</lc>
       </lg>
       <mg>
@@ -3071,7 +3081,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">gážžár</l>
+         <l context="olmmoš" pos="a">gážžár</l>
          <lc>gážžárat, gážžáris (olmmoš)</lc>
       </lg>
       <mg>
@@ -3083,17 +3093,18 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">hatteheapme</l>
+         <l context="olmmoš" pos="a">hatteheapme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">med dårlig pris</t>
+            <t pos="x"></t>
+            <tf>med dårlig pris</tf>
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dilli">headju</l>
+         <l context="dilli" pos="a">headju</l>
          <lc>heajut, hedjui, heajos (dilli)</lc>
       </lg>
       <mg>
@@ -3105,7 +3116,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">heahttái</l>
+         <l context="olmmoš" pos="a">heahttái</l>
          <lc>heahttás (olmmoš)</lc>
       </lg>
       <mg>
@@ -3116,7 +3127,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bargu">healpu</l>
+         <l context="bargu" pos="a">healpu</l>
          <lc>healpput, healppos (bargu)</lc>
       </lg>
       <mg>
@@ -3128,7 +3139,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">hearki</l>
+         <l context="olmmoš" pos="a">hearki</l>
          <lc>hearkkit, hearkkes (mánná)</lc>
       </lg>
       <mg>
@@ -3140,7 +3151,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beaivi">hearvái</l>
+         <l context="beaivi" pos="a">hearvái</l>
          <lc>hearvás (beaivi)</lc>
       </lg>
       <mg>
@@ -3150,9 +3161,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">heittot</l>
+         <l context="bivttas" pos="a">heittot</l>
          <lc>heittohat, heittohis (ávnnas)</lc>
       </lg>
       <mg>
@@ -3164,7 +3175,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">heivehuvvon</l>
+         <l context="olmmoš" pos="a">heivehuvvon</l>
       </lg>
       <mg>
          <tg>
@@ -3172,9 +3183,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">heivvolaš</l>
+         <l context="bivttas" pos="a">heivvolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -3183,9 +3194,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="mánná">hilbat</l>
+         <l context="mánná" pos="a">hilbat</l>
          <lc>hilbadat, hilbes (mánná)</lc>
       </lg>
       <mg>
@@ -3197,7 +3208,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mátki">hillji</l>
+         <l context="mátki" pos="a">hillji</l>
          <lc>hiljit, hiljes (mátki)</lc>
       </lg>
       <mg>
@@ -3208,7 +3219,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="boazu">hiras</l>
+         <l context="boazu" pos="a">hiras</l>
          <lc>hirrasat, hiris (boazu)</lc>
       </lg>
       <mg>
@@ -3220,7 +3231,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beana">hirbmat</l>
+         <l context="beana" pos="a">hirbmat</l>
       </lg>
       <mg>
          <tg>
@@ -3230,7 +3241,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beana">hirpmus</l>
+         <l context="beana" pos="a">hirpmus</l>
          <lc>hirbmosat</lc>
       </lg>
       <mg>
@@ -3239,9 +3250,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">hiđis</l>
+         <l context="olmmoš" pos="a">hiđis</l>
          <lc>hihtásat</lc>
       </lg>
       <mg>
@@ -3252,7 +3263,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">hohppui</l>
+         <l context="olmmoš" pos="a">hohppui</l>
          <lc>hohppos (olmmoš)</lc>
       </lg>
       <mg>
@@ -3263,7 +3274,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">hurvvas</l>
+         <l context="none" pos="a">hurvvas</l>
          <lc>hurvasat</lc>
       </lg>
       <mg>
@@ -3279,7 +3290,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">hutkái</l>
+         <l context="olmmoš" pos="a">hutkái</l>
       </lg>
       <mg>
          <tg>
@@ -3289,7 +3300,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">háhppil</l>
+         <l context="olmmoš" pos="a">háhppil</l>
          <lc>háhppilat, háhppilis (olmmoš)</lc>
       </lg>
       <mg>
@@ -3299,9 +3310,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="gálvu">hálbi</l>
+         <l context="gálvu" pos="a">hálbi</l>
          <lc>hálbbit, hálbbes (gálvu)</lc>
       </lg>
       <mg>
@@ -3312,7 +3323,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="doaibma">hálddahuslaš</l>
+         <l context="doaibma" pos="a">hálddahuslaš</l>
       </lg>
       <mg>
          <tg>
@@ -3322,7 +3333,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">hálddašanrievttálaš</l>
+         <l context="olmmoš" pos="a">hálddašanrievttálaš</l>
       </lg>
       <mg>
          <tg>
@@ -3332,7 +3343,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">hámálaš</l>
+         <l context="olmmoš" pos="a">hámálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -3344,7 +3355,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">hánis</l>
+         <l context="olmmoš" pos="a">hánis</l>
          <lc>hátnásat</lc>
       </lg>
       <mg>
@@ -3355,7 +3366,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">hárpmas</l>
+         <l context="none" pos="a">hárpmas</l>
          <lc>hárbmasat</lc>
       </lg>
       <mg>
@@ -3365,9 +3376,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">hávski</l>
+         <l context="olmmoš" pos="a">hávski</l>
       </lg>
       <mg>
          <tg>
@@ -3378,7 +3389,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beaivi">hávskái</l>
+         <l context="beaivi" pos="a">hávskái</l>
          <lc>hávskát, hávskás (beaivi)</lc>
       </lg>
       <mg>
@@ -3390,7 +3401,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">iešlágan</l>
+         <l context="olmmoš" pos="a">iešlágan</l>
       </lg>
       <mg>
          <tg>
@@ -3401,7 +3412,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">iešráđálaš</l>
+         <l context="olmmoš" pos="a">iešráđálaš</l>
       </lg>
       <mg>
          <tg>
@@ -3411,7 +3422,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beana">ilgat</l>
+         <l context="beana" pos="a">ilgat</l>
          <lc>ilgadat</lc>
       </lg>
       <mg>
@@ -3422,7 +3433,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">ilolaš</l>
+         <l context="ášši" pos="a">ilolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -3431,9 +3442,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">imaš</l>
+         <l context="ášši" pos="a">imaš</l>
       </lg>
       <mg>
          <tg>
@@ -3453,7 +3464,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">indireakta</l>
+         <l context="olmmoš" pos="a">indireakta</l>
       </lg>
       <mg>
          <tg>
@@ -3473,7 +3484,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">innovatiiva</l>
+         <l context="olmmoš" pos="a">innovatiiva</l>
       </lg>
       <mg>
          <tg>
@@ -3483,7 +3494,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">intensiiva</l>
+         <l context="olmmoš" pos="a">intensiiva</l>
       </lg>
       <mg>
          <tg>
@@ -3493,7 +3504,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ipmilmeahttun</l>
+         <l context="olmmoš" pos="a">ipmilmeahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -3502,9 +3513,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">issoras</l>
+         <l context="ášši" pos="a">issoras</l>
          <lc>-rasat, -rassii</lc>
       </lg>
       <mg>
@@ -3515,7 +3526,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">jahkásaš</l>
+         <l context="olmmoš" pos="a">jahkásaš</l>
          <lc>-saččat, -sažžii</lc>
       </lg>
       <mg>
@@ -3535,7 +3546,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="albmi">jalahas</l>
+         <l context="albmi" pos="a">jalahas</l>
          <lc>-hasat</lc>
          <lc>-hassii</lc>
       </lg>
@@ -3547,7 +3558,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="guolbba">jalgat</l>
+         <l context="guolbba" pos="a">jalgat</l>
          <lc>jalgadat, jalga (guolbba)</lc>
       </lg>
       <mg>
@@ -3557,9 +3568,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">jalla</l>
+         <l context="olmmoš" pos="a">jalla</l>
          <lc>jallat, jallas (olmmoš)</lc>
       </lg>
       <mg>
@@ -3568,9 +3579,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="eahket">jaskat</l>
+         <l context="eahket" pos="a">jaskat</l>
          <lc>jaskadat, jaskes (eahket)</lc>
       </lg>
       <mg>
@@ -3583,7 +3594,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">jeagoheapme</l>
+         <l context="mánná" pos="a">jeagoheapme</l>
          <lc>-heamet, -hemiid, jeagohis (mánná)</lc>
       </lg>
       <mg>
@@ -3594,7 +3605,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">jearggalaš</l>
+         <l context="olmmoš" pos="a">jearggalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -3605,7 +3616,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">jegolaš</l>
+         <l context="mánná" pos="a">jegolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -3616,7 +3627,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">jidnii</l>
+         <l context="olmmoš" pos="a">jidnii</l>
       </lg>
       <mg>
          <tg>
@@ -3624,9 +3635,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">jierbmái</l>
+         <l context="olmmoš" pos="a">jierbmái</l>
          <lc>jierbmás (olmmoš)</lc>
       </lg>
       <mg>
@@ -3637,7 +3648,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mielki">jiesas</l>
+         <l context="mielki" pos="a">jiesas</l>
          <lc>jiessasat, jiessa (mielki)</lc>
       </lg>
       <mg>
@@ -3649,7 +3660,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="náhkki">jievjjas</l>
+         <l context="náhkki" pos="a">jievjjas</l>
          <lc>jievjasat, jievja</lc>
       </lg>
       <mg>
@@ -3664,7 +3675,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bargu">joavdelas</l>
+         <l context="bargu" pos="a">joavdelas</l>
          <lc>-lasat, -lassii</lc>
       </lg>
       <mg>
@@ -3674,9 +3685,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="heargi">johtil</l>
+         <l context="heargi" pos="a">johtil</l>
          <lc>johtilat, johtilis (fárru)</lc>
       </lg>
       <mg>
@@ -3687,7 +3698,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">jolgat</l>
+         <l context="mánná" pos="a">jolgat</l>
          <lc>jolgadat, jolges (mánná)</lc>
       </lg>
       <mg>
@@ -3698,7 +3709,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="riekkis">jorbat</l>
+         <l context="riekkis" pos="a">jorbat</l>
          <lc>jorbadat, jorbes (riekkis)</lc>
       </lg>
       <mg>
@@ -3709,7 +3720,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="beavdi">jorbbas</l>
+         <l context="beavdi" pos="a">jorbbas</l>
       </lg>
       <mg>
          <tg>
@@ -3717,9 +3728,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="heargi">jođán</l>
+         <l context="heargi" pos="a">jođán</l>
          <lc>jođánat, jođánis (fárru)</lc>
       </lg>
       <mg>
@@ -3731,7 +3742,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">julbmi</l>
+         <l context="olmmoš" pos="a">julbmi</l>
          <lc>julmmit, julmmes (olmmoš)</lc>
       </lg>
       <mg>
@@ -3742,7 +3753,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">juolggeheapme</l>
+         <l context="olmmoš" pos="a">juolggeheapme</l>
       </lg>
       <mg>
          <tg>
@@ -3752,7 +3763,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">juonalaš</l>
+         <l context="olmmoš" pos="a">juonalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -3764,7 +3775,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">juovzzas</l>
+         <l context="none" pos="a">juovzzas</l>
          <lc>juovzasat</lc>
       </lg>
       <mg>
@@ -3776,7 +3787,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="fárppal">juoŋas</l>
+         <l context="fárppal" pos="a">juoŋas</l>
          <lc>juokŋasat, juokŋa (fárppal)</lc>
       </lg>
       <mg>
@@ -3787,7 +3798,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="fanas">jurbolas</l>
+         <l context="fanas" pos="a">jurbolas</l>
          <lc>-lasat, -lassii</lc>
       </lg>
       <mg>
@@ -3802,7 +3813,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">jábálaš</l>
+         <l context="olmmoš" pos="a">jábálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -3813,7 +3824,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="muitalus">jáhkehahtti</l>
+         <l context="muitalus" pos="a">jáhkehahtti</l>
          <lc>-hahttit</lc>
       </lg>
       <mg>
@@ -3825,7 +3836,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="muitalus">jáhkkemeahttun</l>
+         <l context="muitalus" pos="a">jáhkkemeahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -3836,7 +3847,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">jállu</l>
+         <l context="olmmoš" pos="a">jállu</l>
          <lc>jálut, jálus (olmmoš)</lc>
       </lg>
       <mg>
@@ -3847,7 +3858,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="gilli">jámas</l>
+         <l context="gilli" pos="a">jámas</l>
          <lc>jápmasat</lc>
       </lg>
       <mg>
@@ -3862,7 +3873,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">jávoheapme</l>
+         <l context="olmmoš" pos="a">jávoheapme</l>
          <lc>-heamet, -hemiid, jávohis (olmmoš)</lc>
       </lg>
       <mg>
@@ -3873,7 +3884,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">kognitiiva</l>
+         <l context="olmmoš" pos="a">kognitiiva</l>
       </lg>
       <mg>
          <tg>
@@ -3903,7 +3914,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">konsešuvnnalaš</l>
+         <l context="olmmoš" pos="a">konsešuvnnalaš</l>
       </lg>
       <mg>
          <tg>
@@ -3913,7 +3924,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">kopulatiiva</l>
+         <l context="olmmoš" pos="a">kopulatiiva</l>
       </lg>
       <mg>
          <tg>
@@ -3921,9 +3932,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">kristtalaš</l>
+         <l context="olmmoš" pos="a">kristtalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -3934,7 +3945,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="vuohki">kvalitatiiva</l>
+         <l context="vuohki" pos="a">kvalitatiiva</l>
       </lg>
       <mg>
          <tg>
@@ -3944,7 +3955,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="gávpi">lagas</l>
+         <l context="gávpi" pos="a">lagas</l>
          <lc>lahkasat</lc>
       </lg>
       <mg>
@@ -3956,7 +3967,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="fuolki">lagaš</l>
+         <l context="fuolki" pos="a">lagaš</l>
       </lg>
       <mg>
          <tg>
@@ -3970,7 +3981,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">leaboheapme</l>
+         <l context="olmmoš" pos="a">leaboheapme</l>
          <lc>-heamet, -hemiid, leabohis (olmmoš)</lc>
       </lg>
       <mg>
@@ -3981,7 +3992,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">leaikkastalli</l>
+         <l context="olmmoš" pos="a">leaikkastalli</l>
       </lg>
       <mg>
          <tg>
@@ -3989,9 +4000,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="čáhci">liekkas</l>
+         <l context="čáhci" pos="a">liekkas</l>
          <lc>lieggasat, liegga (čáhci)</lc>
       </lg>
       <mg>
@@ -4000,9 +4011,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">liekkus</l>
+         <l context="olmmoš" pos="a">liekkus</l>
          <lc>liggosat</lc>
       </lg>
       <mg>
@@ -4014,7 +4025,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">lihkoheapme</l>
+         <l context="olmmoš" pos="a">lihkoheapme</l>
       </lg>
       <mg>
          <tg>
@@ -4022,9 +4033,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">lihkolaš</l>
+         <l context="olmmoš" pos="a">lihkolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4034,9 +4045,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="guoddá">linis</l>
+         <l context="guoddá" pos="a">linis</l>
          <lc>litnásat, litna (guoddá)</lc>
       </lg>
       <mg>
@@ -4047,7 +4058,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">lisas</l>
+         <l context="olmmoš" pos="a">lisas</l>
          <lc>lissasat, lissa (olmmoš)</lc>
       </lg>
       <mg>
@@ -4059,7 +4070,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">livzzas</l>
+         <l context="none" pos="a">livzzas</l>
          <lc>livzasat</lc>
       </lg>
       <mg>
@@ -4074,7 +4085,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čanas">loažžat</l>
+         <l context="čanas" pos="a">loažžat</l>
          <lc>loažžadat, ložžes (čanas)</lc>
       </lg>
       <mg>
@@ -4084,9 +4095,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="doaibma">lobiheapme</l>
+         <l context="doaibma" pos="a">lobiheapme</l>
          <lc>-heamet, -hemiid, lobihis (doaibma)</lc>
       </lg>
       <mg>
@@ -4097,7 +4108,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="doaibma">lobálaš</l>
+         <l context="doaibma" pos="a">lobálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4108,7 +4119,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="boazu">lodji</l>
+         <l context="boazu" pos="a">lodji</l>
          <lc>lojit, lojis (boazu)</lc>
       </lg>
       <mg>
@@ -4120,7 +4131,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">logát</l>
+         <l context="luohkká" pos="a">logát</l>
       </lg>
       <mg>
          <tg>
@@ -4130,7 +4141,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čáhci">loikkas</l>
+         <l context="čáhci" pos="a">loikkas</l>
          <lc>loikasat, loika (málli)</lc>
       </lg>
       <mg>
@@ -4139,9 +4150,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="lávka">lossat</l>
+         <l context="lávka" pos="a">lossat</l>
          <lc>lossadat, lossa (noađđi)</lc>
       </lg>
       <mg>
@@ -4150,9 +4161,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">lunddolaš</l>
+         <l context="ášši" pos="a">lunddolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4163,7 +4174,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">luohtehahtti</l>
+         <l context="olmmoš" pos="a">luohtehahtti</l>
          <lc>-hahttit</lc>
       </lg>
       <mg>
@@ -4174,7 +4185,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="beana">luohttevaš</l>
+         <l context="beana" pos="a">luohttevaš</l>
       </lg>
       <mg>
          <tg>
@@ -4184,7 +4195,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">luonddudieđalaš</l>
+         <l context="olmmoš" pos="a">luonddudieđalaš</l>
       </lg>
       <mg>
          <tg>
@@ -4192,9 +4203,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="heargi">luovus</l>
+         <l context="heargi" pos="a">luovus</l>
          <lc>luvvosat, luovos (heargi)</lc>
       </lg>
       <mg>
@@ -4206,7 +4217,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mearrádus">lágalaš</l>
+         <l context="mearrádus" pos="a">lágalaš</l>
          <lc>-laččat</lc>
       </lg>
       <mg>
@@ -4220,9 +4231,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">láiki</l>
+         <l context="olmmoš" pos="a">láiki</l>
          <lc>láikkit, láikkes (olmmoš)</lc>
       </lg>
       <mg>
@@ -4233,7 +4244,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dilli">láittas</l>
+         <l context="dilli" pos="a">láittas</l>
          <lc>láitasat, láitasis (dilli)</lc>
       </lg>
       <mg>
@@ -4242,9 +4253,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="gáffe">láivi</l>
+         <l context="gáffe" pos="a">láivi</l>
          <lc>láivvit, láivves (gáffe)</lc>
       </lg>
       <mg>
@@ -4259,7 +4270,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">lámis</l>
+         <l context="olmmoš" pos="a">lámis</l>
          <lc>lápmásat</lc>
       </lg>
       <mg>
@@ -4272,7 +4283,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bivttas">lávgat</l>
+         <l context="bivttas" pos="a">lávgat</l>
       </lg>
       <mg>
          <tg>
@@ -4282,7 +4293,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bivttas">lávttas</l>
+         <l context="bivttas" pos="a">lávttas</l>
          <lc>láktasat, lákta (bivttas)</lc>
       </lg>
       <mg>
@@ -4293,7 +4304,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánnu">láđas</l>
+         <l context="mánnu" pos="a">láđas</l>
          <lc>láđđa (mánnu)</lc>
       </lg>
       <mg>
@@ -4304,7 +4315,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">láđis</l>
+         <l context="olmmoš" pos="a">láđis</l>
          <lc>láđđásat</lc>
       </lg>
       <mg>
@@ -4316,7 +4327,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">lášmat</l>
+         <l context="olmmoš" pos="a">lášmat</l>
          <lc>lášmadat, lášmes (lášmadis) (olmmoš)</lc>
       </lg>
       <mg>
@@ -4328,7 +4339,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="guolit">mealgat</l>
+         <l context="guolit" pos="a">mealgat</l>
       </lg>
       <mg>
          <tg>
@@ -4338,7 +4349,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="stuibmi">meariheapme</l>
+         <l context="stuibmi" pos="a">meariheapme</l>
          <lc>-heamet, -hemiid, mearihis (stuibmi)</lc>
       </lg>
       <mg>
@@ -4349,7 +4360,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">mearkkalaš</l>
+         <l context="ášši" pos="a">mearkkalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4360,7 +4371,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">mearkkašmeahttun</l>
+         <l context="olmmoš" pos="a">mearkkašmeahttun</l>
       </lg>
       <mg>
          <tg>
@@ -4370,7 +4381,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">mielaheapme</l>
+         <l context="olmmoš" pos="a">mielaheapme</l>
          <lc>-heamet, -hemiid, mielahis (olmmoš)</lc>
       </lg>
       <mg>
@@ -4382,7 +4393,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="ášši">miellagiddevaš</l>
+         <l context="ášši" pos="a">miellagiddevaš</l>
       </lg>
       <mg>
          <tg>
@@ -4392,7 +4403,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="muorra">mieskkas</l>
+         <l context="muorra" pos="a">mieskkas</l>
          <lc>mieskasat, mieska (muorra)</lc>
       </lg>
       <mg>
@@ -4404,7 +4415,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">mihtus</l>
+         <l context="olmmoš" pos="a">mihtus</l>
       </lg>
       <mg>
          <tg>
@@ -4414,7 +4425,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">moalkkas</l>
+         <l context="none" pos="a">moalkkas</l>
          <lc>moalkasat, moalke (soabbi)</lc>
       </lg>
       <mg>
@@ -4429,7 +4440,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">modála</l>
+         <l context="olmmoš" pos="a">modála</l>
       </lg>
       <mg>
          <tg>
@@ -4439,7 +4450,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">moivvas</l>
+         <l context="none" pos="a">moivvas</l>
          <lc>moivasat</lc>
       </lg>
       <mg>
@@ -4455,7 +4466,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">molssaevttolaš</l>
+         <l context="olmmoš" pos="a">molssaevttolaš</l>
       </lg>
       <mg>
          <tg>
@@ -4465,7 +4476,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">moskkus</l>
+         <l context="none" pos="a">moskkus</l>
          <lc>moskosat</lc>
       </lg>
       <mg>
@@ -4481,7 +4492,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">movttet</l>
+         <l context="olmmoš" pos="a">movttet</l>
          <lc>movttegat, movttegis (olmmoš)</lc>
       </lg>
       <mg>
@@ -4493,7 +4504,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">muittoheapme</l>
+         <l context="olmmoš" pos="a">muittoheapme</l>
          <lc>-heamet, -hemiid, muittohis (olmmoš)</lc>
       </lg>
       <mg>
@@ -4506,7 +4517,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">multiplikatiiva</l>
+         <l context="olmmoš" pos="a">multiplikatiiva</l>
       </lg>
       <mg>
          <tg>
@@ -4516,7 +4527,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dilli">muoseheapme</l>
+         <l context="dilli" pos="a">muoseheapme</l>
          <lc>-heamet, -hemiid, muosehis (dilli)</lc>
       </lg>
       <mg>
@@ -4527,7 +4538,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bivttas">muttát</l>
+         <l context="bivttas" pos="a">muttát</l>
          <lc>muttágat, muttágis (bivttas)</lc>
       </lg>
       <mg>
@@ -4538,7 +4549,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čáhci">máizzas</l>
+         <l context="čáhci" pos="a">máizzas</l>
          <lc>máizasat, máiza (čáhci)</lc>
       </lg>
       <mg>
@@ -4549,7 +4560,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">mánáheapme</l>
+         <l context="olmmoš" pos="a">mánáheapme</l>
       </lg>
       <mg>
          <tg>
@@ -4559,7 +4570,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">mánálaš</l>
+         <l context="olmmoš" pos="a">mánálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4568,9 +4579,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bierggas">mávssolaš</l>
+         <l context="bierggas" pos="a">mávssolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4586,7 +4597,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dilli">máđoheapme</l>
+         <l context="dilli" pos="a">máđoheapme</l>
          <lc>-heamet, -hemiid, máđohis (dilli)</lc>
       </lg>
       <mg>
@@ -4597,7 +4608,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">máŋggasuorat</l>
+         <l context="olmmoš" pos="a">máŋggasuorat</l>
       </lg>
       <mg>
          <tg>
@@ -4607,7 +4618,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">máškit</l>
+         <l context="olmmoš" pos="a">máškit</l>
       </lg>
       <mg>
          <tg>
@@ -4615,9 +4626,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">mášoheapme</l>
+         <l context="olmmoš" pos="a">mášoheapme</l>
          <lc>-heamet, -hemiid, mášohis (olmmoš)</lc>
       </lg>
       <mg>
@@ -4629,7 +4640,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bargu">máŧoheapme</l>
+         <l context="bargu" pos="a">máŧoheapme</l>
          <lc>-heamet, -hemiid, máŧohis (bargu)</lc>
       </lg>
       <mg>
@@ -4640,7 +4651,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čoavddus">máŧolaš</l>
+         <l context="čoavddus" pos="a">máŧolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4649,9 +4660,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">nanus</l>
+         <l context="bivttas" pos="a">nanus</l>
          <lc>nannosat, nana (ávnnas)</lc>
       </lg>
       <mg>
@@ -4661,9 +4672,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="beana">neavri</l>
+         <l context="beana" pos="a">neavri</l>
          <lc>neavrrit, nevrriid, neavrres</lc>
       </lg>
       <mg>
@@ -4679,7 +4690,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="siivu">njalkkas</l>
+         <l context="siivu" pos="a">njalkkas</l>
       </lg>
       <mg>
          <tg>
@@ -4689,7 +4700,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luodda">njaláhas</l>
+         <l context="luodda" pos="a">njaláhas</l>
          <lc>-hasat</lc>
          <lc>-hassii</lc>
       </lg>
@@ -4701,7 +4712,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">njealját</l>
+         <l context="luohkká" pos="a">njealját</l>
          <lc>njealjáda</lc>
       </lg>
       <mg>
@@ -4712,7 +4723,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="guolli">njiezas</l>
+         <l context="guolli" pos="a">njiezas</l>
          <lc>njiehcasat, njiehca (guolli)</lc>
       </lg>
       <mg>
@@ -4726,9 +4737,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="heargi">njoahci</l>
+         <l context="heargi" pos="a">njoahci</l>
          <lc>njoazit, njoziid, njoazes (fárru)</lc>
       </lg>
       <mg>
@@ -4738,9 +4749,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="muorra">njuolgat</l>
+         <l context="muorra" pos="a">njuolgat</l>
          <lc>njuolgadat, njulges (muorra)</lc>
       </lg>
       <mg>
@@ -4752,7 +4763,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">njuolvi</l>
+         <l context="olmmoš" pos="a">njuolvi</l>
          <lc>njuolvvit, njulvviid, njuolvves (olmmái)</lc>
       </lg>
       <mg>
@@ -4764,7 +4775,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="váibmu">njuoras</l>
+         <l context="váibmu" pos="a">njuoras</l>
          <lc>njuorrasat, njuorra (váibmu)</lc>
       </lg>
       <mg>
@@ -4775,9 +4786,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">njuoskkas</l>
+         <l context="bivttas" pos="a">njuoskkas</l>
          <lc>njuoskasat, njuoska (bivttas)</lc>
       </lg>
       <mg>
@@ -4789,7 +4800,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="guolli">njuozas</l>
+         <l context="guolli" pos="a">njuozas</l>
          <lc>njuohcasat, njuohca (guolli)</lc>
       </lg>
       <mg>
@@ -4801,7 +4812,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">njáiggas</l>
+         <l context="olmmoš" pos="a">njáiggas</l>
          <lc>njáigasat, njáiges (olmmoš)</lc>
       </lg>
       <mg>
@@ -4812,7 +4823,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">njálbmái</l>
+         <l context="olmmoš" pos="a">njálbmái</l>
          <lc>njálbmás (olmmoš)</lc>
       </lg>
       <mg>
@@ -4823,7 +4834,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="borramuš">njálggat</l>
+         <l context="borramuš" pos="a">njálggat</l>
       </lg>
       <mg>
          <tg>
@@ -4834,7 +4845,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="borramuš">njálggis</l>
+         <l context="borramuš" pos="a">njálggis</l>
          <lc>njálgát, njálgga (borramuš)</lc>
       </lg>
       <mg>
@@ -4843,9 +4854,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="eksámen">njálmmálaš</l>
+         <l context="eksámen" pos="a">njálmmálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4856,7 +4867,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="buvru">njárbat</l>
+         <l context="buvru" pos="a">njárbat</l>
          <lc>njárbadat, njárbes (suohkat)</lc>
       </lg>
       <mg>
@@ -4872,7 +4883,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">nominála</l>
+         <l context="olmmoš" pos="a">nominála</l>
       </lg>
       <mg>
          <tg>
@@ -4880,9 +4891,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">nuorra</l>
+         <l context="olmmoš" pos="a">nuorra</l>
       </lg>
       <mg>
          <tg>
@@ -4892,7 +4903,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="duodji">nuortalaš</l>
+         <l context="duodji" pos="a">nuortalaš</l>
       </lg>
       <mg>
          <tg>
@@ -4907,7 +4918,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">nuoski</l>
+         <l context="olmmoš" pos="a">nuoski</l>
          <lc>nuoskkit, nuskkiid, nuoskkes (olmmoš)</lc>
       </lg>
       <mg>
@@ -4918,7 +4929,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">nuppelágan</l>
+         <l context="olmmoš" pos="a">nuppelágan</l>
          <lc>-lágánat</lc>
       </lg>
       <mg>
@@ -4930,7 +4941,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">nággár</l>
+         <l context="olmmoš" pos="a">nággár</l>
          <lc>nággárat, nággaris (olmmoš)</lc>
       </lg>
       <mg>
@@ -4942,7 +4953,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">návccaheapme</l>
+         <l context="olmmoš" pos="a">návccaheapme</l>
          <lc>-heamet, -hemiid, návccahis (olmmoš)</lc>
       </lg>
       <mg>
@@ -4954,7 +4965,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">návccalaš</l>
+         <l context="olmmoš" pos="a">návccalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -4964,9 +4975,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dilli">oadjebas</l>
+         <l context="dilli" pos="a">oadjebas</l>
          <lc>-basat, -bassii</lc>
       </lg>
       <mg>
@@ -4975,9 +4986,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">oahpis</l>
+         <l context="olmmoš" pos="a">oahpis</l>
          <lc>oahppásat, oahpes (olmmoš)</lc>
       </lg>
       <mg>
@@ -4988,7 +4999,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">oahppameahttun</l>
+         <l context="olmmoš" pos="a">oahppameahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -4999,7 +5010,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bivttas">oamis</l>
+         <l context="bivttas" pos="a">oamis</l>
          <lc>oapmásat, oapme (biktasat)</lc>
       </lg>
       <mg>
@@ -5009,9 +5020,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="báddi">oanehaš</l>
+         <l context="báddi" pos="a">oanehaš</l>
          <lc>-haččat, -hažžii, oanehis (báddi)</lc>
       </lg>
       <mg>
@@ -5022,7 +5033,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">oarbbis</l>
+         <l context="mánná" pos="a">oarbbis</l>
          <lc>oarbásat, oarbbes (mánná)</lc>
       </lg>
       <mg>
@@ -5033,7 +5044,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">oassádalli</l>
+         <l context="olmmoš" pos="a">oassádalli</l>
       </lg>
       <mg>
          <tg>
@@ -5043,7 +5054,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">oiddolaš</l>
+         <l context="olmmoš" pos="a">oiddolaš</l>
       </lg>
       <mg>
          <tg>
@@ -5053,7 +5064,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">oinnolaš</l>
+         <l context="olmmoš" pos="a">oinnolaš</l>
       </lg>
       <mg>
          <tg>
@@ -5063,7 +5074,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">oktageardán</l>
+         <l context="olmmoš" pos="a">oktageardán</l>
       </lg>
       <mg>
          <tg>
@@ -5071,9 +5082,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="latnja">oktasaš</l>
+         <l context="latnja" pos="a">oktasaš</l>
          <lc>-saččat, -sažžii</lc>
       </lg>
       <mg>
@@ -5084,7 +5095,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">oktoráđđejeaddji</l>
+         <l context="olmmoš" pos="a">oktoráđđejeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -5094,7 +5105,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">oktovuoigaduvvon</l>
+         <l context="olmmoš" pos="a">oktovuoigaduvvon</l>
       </lg>
       <mg>
          <tg>
@@ -5104,7 +5115,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="juolgi">olgeš</l>
+         <l context="juolgi" pos="a">olgeš</l>
       </lg>
       <mg>
          <tg>
@@ -5114,7 +5125,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="hápmi">olgguldas</l>
+         <l context="hápmi" pos="a">olgguldas</l>
          <lc>-dasat, -dassii</lc>
       </lg>
       <mg>
@@ -5126,7 +5137,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beaivi">ollis</l>
+         <l context="beaivi" pos="a">ollis</l>
          <lc>ollásat, olles (beaivi)</lc>
       </lg>
       <mg>
@@ -5138,7 +5149,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="oahppu">ollislaš</l>
+         <l context="oahppu" pos="a">ollislaš</l>
       </lg>
       <mg>
          <tg>
@@ -5148,7 +5159,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ollisteaddji</l>
+         <l context="olmmoš" pos="a">ollisteaddji</l>
       </lg>
       <mg>
          <tg>
@@ -5158,7 +5169,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="áigi">oppa</l>
+         <l context="áigi" pos="a">oppa</l>
       </lg>
       <mg>
          <tg>
@@ -5169,7 +5180,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="oaidnu">oppalaš</l>
+         <l context="oaidnu" pos="a">oppalaš</l>
       </lg>
       <mg>
          <tg>
@@ -5179,7 +5190,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">oskkáldas</l>
+         <l context="olmmoš" pos="a">oskkáldas</l>
          <lc>-dasat, -dassii</lc>
       </lg>
       <mg>
@@ -5190,7 +5201,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">ovccát</l>
+         <l context="luohkká" pos="a">ovccát</l>
          <lc>ovccáda</lc>
       </lg>
       <mg>
@@ -5201,7 +5212,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ovddastalli</l>
+         <l context="olmmoš" pos="a">ovddastalli</l>
       </lg>
       <mg>
          <tg>
@@ -5211,7 +5222,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="áiggit">ovddeš</l>
+         <l context="áiggit" pos="a">ovddeš</l>
          <lc>ovddežat</lc>
       </lg>
       <mg>
@@ -5234,7 +5245,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dáhpáhus">ovddolaš</l>
+         <l context="dáhpáhus" pos="a">ovddolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -5246,7 +5257,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ovttageardán</l>
+         <l context="olmmoš" pos="a">ovttageardán</l>
          <lc>-geardánat</lc>
       </lg>
       <mg>
@@ -5258,7 +5269,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ovttalaš</l>
+         <l context="olmmoš" pos="a">ovttalaš</l>
       </lg>
       <mg>
          <tg>
@@ -5268,7 +5279,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ovttaláhkásaš</l>
+         <l context="olmmoš" pos="a">ovttaláhkásaš</l>
       </lg>
       <mg>
          <tg>
@@ -5278,7 +5289,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ovttaskas</l>
+         <l context="olmmoš" pos="a">ovttaskas</l>
          <lc>-kasat, -kassii</lc>
       </lg>
       <mg>
@@ -5287,9 +5298,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">ođas</l>
+         <l context="bivttas" pos="a">ođas</l>
          <lc>ođđasat, ođđa (bivttas)</lc>
       </lg>
       <mg>
@@ -5300,7 +5311,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ođasmahtti</l>
+         <l context="olmmoš" pos="a">ođasmahtti</l>
       </lg>
       <mg>
          <tg>
@@ -5310,7 +5321,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="bivttas">ođđaáigásaš</l>
+         <l context="bivttas" pos="a">ođđaáigásaš</l>
       </lg>
       <mg>
          <tg>
@@ -5320,7 +5331,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">perfeakta</l>
+         <l context="olmmoš" pos="a">perfeakta</l>
       </lg>
       <mg>
          <tg>
@@ -5330,7 +5341,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">primára</l>
+         <l context="olmmoš" pos="a">primára</l>
       </lg>
       <mg>
          <tg>
@@ -5338,9 +5349,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="uksa">rabas</l>
+         <l context="uksa" pos="a">rabas</l>
          <lc>rahpasat</lc>
       </lg>
       <mg>
@@ -5351,7 +5362,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">radikála</l>
+         <l context="olmmoš" pos="a">radikála</l>
       </lg>
       <mg>
          <tg>
@@ -5361,7 +5372,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ravdamearálaš</l>
+         <l context="olmmoš" pos="a">ravdamearálaš</l>
       </lg>
       <mg>
          <tg>
@@ -5371,7 +5382,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ávnnas">rašši</l>
+         <l context="ávnnas" pos="a">rašši</l>
          <lc>rašit, rašis (ávnnas)</lc>
       </lg>
       <mg>
@@ -5383,7 +5394,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">regála</l>
+         <l context="olmmoš" pos="a">regála</l>
       </lg>
       <mg>
          <tg>
@@ -5393,7 +5404,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">rehálaš</l>
+         <l context="olmmoš" pos="a">rehálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -5405,7 +5416,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">rektiiva</l>
+         <l context="olmmoš" pos="a">rektiiva</l>
       </lg>
       <mg>
          <tg>
@@ -5415,7 +5426,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">reseptiiva</l>
+         <l context="olmmoš" pos="a">reseptiiva</l>
       </lg>
       <mg>
          <tg>
@@ -5425,7 +5436,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">riekta</l>
+         <l context="ášši" pos="a">riekta</l>
       </lg>
       <mg>
          <tg>
@@ -5435,7 +5446,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">riektegustojeaddji</l>
+         <l context="olmmoš" pos="a">riektegustojeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -5445,7 +5456,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="dáhpáhus">historjjálaš</l>
+         <l context="dáhpáhus" pos="a">historjjálaš</l>
       </lg>
       <mg>
          <tg>
@@ -5455,7 +5466,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="dáhpáhus">riektehistorjjálaš</l>
+         <l context="dáhpáhus" pos="a">riektehistorjjálaš</l>
       </lg>
       <mg>
          <tg>
@@ -5465,7 +5476,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">riektehuksejeaddji</l>
+         <l context="olmmoš" pos="a">riektehuksejeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -5475,7 +5486,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">riektenuppástuhtti</l>
+         <l context="olmmoš" pos="a">riektenuppástuhtti</l>
       </lg>
       <mg>
          <tg>
@@ -5485,21 +5496,22 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="olmmoš">politihkalaš</l>
+         <l context="olmmoš" pos="a">politihkalaš</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">politisk</t>
-        <xg>
-          <x>Sii ávžžuhedje su guođđit iežas politihkalaš doaimmaid sihke suohkanstivrras ja Sámedikkis.</x>
-          <xt>De oppfordret han/henne til å trekke seg fra sine politiske verv i både kommunestyret og Sametinget.</xt>
-        </xg>
+            <xg>
+               <x>Sii ávžžuhedje su guođđit iežas politihkalaš doaimmaid sihke suohkanstivrras ja Sámedikkis.</x>
+               <xt>De oppfordret han/henne til å trekke seg fra sine politiske verv i både kommunestyret og
+               Sametinget.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">riektepolitihkalaš</l>
+         <l context="olmmoš" pos="a">riektepolitihkalaš</l>
       </lg>
       <mg>
          <tg>
@@ -5509,7 +5521,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">riekteráhkadeaddji</l>
+         <l context="olmmoš" pos="a">riekteráhkadeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -5519,7 +5531,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">riekteálggaheaddji</l>
+         <l context="olmmoš" pos="a">riekteálggaheaddji</l>
       </lg>
       <mg>
          <tg>
@@ -5529,7 +5541,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">rievttálaš</l>
+         <l context="olmmoš" pos="a">rievttálaš</l>
       </lg>
       <mg>
          <tg>
@@ -5539,7 +5551,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="juhkamuš">rihča</l>
+         <l context="juhkamuš" pos="a">rihča</l>
          <lc>rihččaga</lc>
       </lg>
       <mg>
@@ -5551,7 +5563,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">riidobohciideaddji</l>
+         <l context="olmmoš" pos="a">riidobohciideaddji</l>
       </lg>
       <mg>
          <tg>
@@ -5561,7 +5573,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="lávlla">riikkaidgaskasaš</l>
+         <l context="lávlla" pos="a">riikkaidgaskasaš</l>
       </lg>
       <mg>
          <tg>
@@ -5569,9 +5581,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">rikkis</l>
+         <l context="olmmoš" pos="a">rikkis</l>
          <lc>riggát</lc>
       </lg>
       <mg>
@@ -5582,7 +5594,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">rimssas</l>
+         <l context="none" pos="a">rimssas</l>
          <lc>rimsasat</lc>
       </lg>
       <mg>
@@ -5595,9 +5607,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">risttalaš</l>
+         <l context="olmmoš" pos="a">risttalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -5612,7 +5624,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ritornealla</l>
+         <l context="olmmoš" pos="a">ritornealla</l>
       </lg>
       <mg>
          <tg>
@@ -5622,7 +5634,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">roahkkat</l>
+         <l context="olmmoš" pos="a">roahkkat</l>
          <lc>roahkkadat, rohkkes (gánda)</lc>
       </lg>
       <mg>
@@ -5633,7 +5645,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">roamššas</l>
+         <l context="none" pos="a">roamššas</l>
          <lc>roamšasat, roamši (luodda)</lc>
       </lg>
       <mg>
@@ -5653,7 +5665,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">roastil</l>
+         <l context="olmmoš" pos="a">roastil</l>
          <lc>roastilat, roastilis (olmmoš)</lc>
       </lg>
       <mg>
@@ -5664,7 +5676,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="suopman">roattus</l>
+         <l context="suopman" pos="a">roattus</l>
          <lc>roddosat</lc>
       </lg>
       <mg>
@@ -5680,7 +5692,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">roaŋkkas</l>
+         <l context="none" pos="a">roaŋkkas</l>
          <lc>roaŋkasat, roaŋke (muorra)</lc>
       </lg>
       <mg>
@@ -5693,9 +5705,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">ropmi</l>
+         <l context="bivttas" pos="a">ropmi</l>
          <lc>romit, romis (ivdni)</lc>
       </lg>
       <mg>
@@ -5706,7 +5718,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">rumššas</l>
+         <l context="none" pos="a">rumššas</l>
          <lc>rumšasat</lc>
       </lg>
       <mg>
@@ -5723,7 +5735,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="boazu">ruoinnas</l>
+         <l context="boazu" pos="a">ruoinnas</l>
          <lc>ruoidnasat, ruoidna (boazu)</lc>
       </lg>
       <mg>
@@ -5732,9 +5744,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">ruoksat</l>
+         <l context="bivttas" pos="a">ruoksat</l>
          <lc>ruoksadat, rukses (bivttas)</lc>
       </lg>
       <mg>
@@ -5745,7 +5757,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="rássi">ruonas</l>
+         <l context="rássi" pos="a">ruonas</l>
          <lc>ruotnasat</lc>
       </lg>
       <mg>
@@ -5758,9 +5770,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">ruoná</l>
+         <l context="bivttas" pos="a">ruoná</l>
       </lg>
       <mg>
          <tg>
@@ -5770,7 +5782,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ruovdi">ruosttas</l>
+         <l context="ruovdi" pos="a">ruosttas</l>
          <lc>ruostasat, ruosta (ruovdi)</lc>
       </lg>
       <mg>
@@ -5779,9 +5791,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="lávlla">ruošša</l>
+         <l context="lávlla" pos="a">ruošša</l>
       </lg>
       <mg>
          <tg>
@@ -5791,7 +5803,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">ruđaheapme</l>
+         <l context="olmmoš" pos="a">ruđaheapme</l>
       </lg>
       <mg>
          <tg>
@@ -5801,7 +5813,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ruđalaš</l>
+         <l context="olmmoš" pos="a">ruđalaš</l>
       </lg>
       <mg>
          <tg>
@@ -5809,9 +5821,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="lásttat">ruškat</l>
+         <l context="lásttat" pos="a">ruškat</l>
          <lc>ruškadat, ruškes (lasttat)</lc>
       </lg>
       <mg>
@@ -5823,7 +5835,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ráfálaš</l>
+         <l context="olmmoš" pos="a">ráfálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -5832,9 +5844,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="mánná">ráhkis</l>
+         <l context="mánná" pos="a">ráhkis</l>
          <lc>ráhkkásat</lc>
       </lg>
       <mg>
@@ -5845,7 +5857,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ráhkkaneaddji</l>
+         <l context="olmmoš" pos="a">ráhkkaneaddji</l>
       </lg>
       <mg>
          <tg>
@@ -5855,7 +5867,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ráhpat</l>
+         <l context="olmmoš" pos="a">ráhpat</l>
          <lc>ráhpadat, ráhpadis (olmmoš)</lc>
       </lg>
       <mg>
@@ -5869,9 +5881,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">ráinnas</l>
+         <l context="bivttas" pos="a">ráinnas</l>
          <lc>ráidnasat</lc>
       </lg>
       <mg>
@@ -5883,7 +5895,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="uksa">rákkis</l>
+         <l context="uksa" pos="a">rákkis</l>
          <lc>rággásat</lc>
       </lg>
       <mg>
@@ -5894,7 +5906,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">rámskkas</l>
+         <l context="none" pos="a">rámskkas</l>
          <lc>rámskasat</lc>
       </lg>
       <mg>
@@ -5909,7 +5921,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">rámššas</l>
+         <l context="none" pos="a">rámššas</l>
          <lc>rámšasat, rámšu (geaidnu)</lc>
       </lg>
       <mg>
@@ -5922,9 +5934,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">ránis</l>
+         <l context="bivttas" pos="a">ránis</l>
          <lc>rátnásat, ránes (bivttas)</lc>
       </lg>
       <mg>
@@ -5935,7 +5947,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="lávlla">ránska</l>
+         <l context="lávlla" pos="a">ránska</l>
       </lg>
       <mg>
          <tg>
@@ -5945,7 +5957,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ránto</l>
+         <l context="olmmoš" pos="a">ránto</l>
          <lc>(rántui), rántos (olmmoš)</lc>
       </lg>
       <mg>
@@ -5956,7 +5968,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">rávis</l>
+         <l context="olmmoš" pos="a">rávis</l>
          <lc>rávvásat</lc>
       </lg>
       <mg>
@@ -5967,7 +5979,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="virgi">sadjásaš</l>
+         <l context="virgi" pos="a">sadjásaš</l>
       </lg>
       <mg>
          <tg>
@@ -5977,7 +5989,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bierggas">saŋas</l>
+         <l context="bierggas" pos="a">saŋas</l>
          <lc>sakŋasat</lc>
       </lg>
       <mg>
@@ -5991,9 +6003,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="muorra">seaggi</l>
+         <l context="muorra" pos="a">seaggi</l>
          <lc>seakkit, sekkiid, seakka (muorra)</lc>
       </lg>
       <mg>
@@ -6005,7 +6017,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="áššit">seahkalas</l>
+         <l context="áššit" pos="a">seahkalas</l>
          <lc>-lasat, -lassii</lc>
       </lg>
       <mg>
@@ -6016,7 +6028,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">seahkánan</l>
+         <l context="olmmoš" pos="a">seahkánan</l>
       </lg>
       <mg>
          <tg>
@@ -6026,7 +6038,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">sealvi</l>
+         <l context="ášši" pos="a">sealvi</l>
          <lc>sealvvit, sealvves (ášši)</lc>
       </lg>
       <mg>
@@ -6042,7 +6054,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">searalaš</l>
+         <l context="olmmoš" pos="a">searalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6056,9 +6068,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="idja">seavdnjat</l>
+         <l context="idja" pos="a">seavdnjat</l>
          <lc>seavdnjada, sevdnjes (idja)</lc>
       </lg>
       <mg>
@@ -6069,7 +6081,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">seksuála</l>
+         <l context="olmmoš" pos="a">seksuála</l>
       </lg>
       <mg>
          <tg>
@@ -6079,7 +6091,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">seremoniealla</l>
+         <l context="olmmoš" pos="a">seremoniealla</l>
       </lg>
       <mg>
          <tg>
@@ -6089,7 +6101,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">sidnái</l>
+         <l context="olmmoš" pos="a">sidnái</l>
          <lc>sidnás (olmmoš)</lc>
       </lg>
       <mg>
@@ -6100,7 +6112,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="gielis">sieiva</l>
+         <l context="gielis" pos="a">sieiva</l>
       </lg>
       <mg>
          <tg>
@@ -6111,7 +6123,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="oahpahus">sierra</l>
+         <l context="oahpahus" pos="a">sierra</l>
       </lg>
       <mg>
          <tg>
@@ -6124,9 +6136,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">siivui</l>
+         <l context="olmmoš" pos="a">siivui</l>
          <lc>siivu (olmmoš)</lc>
       </lg>
       <mg>
@@ -6138,7 +6150,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">sisahuksejuvvon</l>
+         <l context="olmmoš" pos="a">sisahuksejuvvon</l>
       </lg>
       <mg>
          <tg>
@@ -6148,7 +6160,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">siskkáldas</l>
+         <l context="ášši" pos="a">siskkáldas</l>
          <lc>-dasat, -dassii</lc>
       </lg>
       <mg>
@@ -6160,7 +6172,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">sitkat</l>
+         <l context="olmmoš" pos="a">sitkat</l>
          <lc>sitkadat, sitkes (olmmoš)</lc>
       </lg>
       <mg>
@@ -6172,7 +6184,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">sivaheapme</l>
+         <l context="olmmoš" pos="a">sivaheapme</l>
          <lc>-heamet, -hemiid, sivahis (olmmoš)</lc>
       </lg>
       <mg>
@@ -6183,7 +6195,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">sivalaš</l>
+         <l context="olmmoš" pos="a">sivalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6194,7 +6206,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">sivvat</l>
+         <l context="olmmoš" pos="a">sivvat</l>
          <lc>sivvadat, sivvadis (olmmoš)</lc>
       </lg>
       <mg>
@@ -6206,7 +6218,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">skibas</l>
+         <l context="olmmoš" pos="a">skibas</l>
          <lc>skihpasat, skihpa (olmmoš)</lc>
       </lg>
       <mg>
@@ -6217,7 +6229,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">skihkalaš</l>
+         <l context="olmmoš" pos="a">skihkalaš</l>
       </lg>
       <mg>
          <tg>
@@ -6227,7 +6239,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">skoavddas</l>
+         <l context="none" pos="a">skoavddas</l>
          <lc>skoavdasat</lc>
       </lg>
       <mg>
@@ -6242,7 +6254,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">skoválaš</l>
+         <l context="olmmoš" pos="a">skoválaš</l>
       </lg>
       <mg>
          <tg>
@@ -6252,7 +6264,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">smáiti</l>
+         <l context="olmmoš" pos="a">smáiti</l>
          <lc>smáittit, smáittes (olmmái)</lc>
       </lg>
       <mg>
@@ -6263,7 +6275,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánát">smávis</l>
+         <l context="mánát" pos="a">smávis</l>
          <lc>smávvásat (smávvát), smávva (mánát)</lc>
       </lg>
       <mg>
@@ -6274,7 +6286,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">smáđáhkis</l>
+         <l context="olmmoš" pos="a">smáđáhkis</l>
          <lc>smáđáhkkásat</lc>
       </lg>
       <mg>
@@ -6285,7 +6297,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="soabbi">soddjil</l>
+         <l context="soabbi" pos="a">soddjil</l>
          <lc>soddjilat, soddjilis (soabbi)</lc>
       </lg>
       <mg>
@@ -6294,9 +6306,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dáhpáhus">somá</l>
+         <l context="dáhpáhus" pos="a">somá</l>
          <lc>somás (dáhpahus)</lc>
       </lg>
       <mg>
@@ -6308,7 +6320,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">sorjavaš</l>
+         <l context="olmmoš" pos="a">sorjavaš</l>
       </lg>
       <mg>
          <tg>
@@ -6318,7 +6330,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">spiehkasteaddji</l>
+         <l context="olmmoš" pos="a">spiehkasteaddji</l>
       </lg>
       <mg>
          <tg>
@@ -6328,7 +6340,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">spáitil</l>
+         <l context="olmmoš" pos="a">spáitil</l>
       </lg>
       <mg>
          <tg>
@@ -6338,7 +6350,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">stabiila</l>
+         <l context="olmmoš" pos="a">stabiila</l>
       </lg>
       <mg>
          <tg>
@@ -6348,7 +6360,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čuoibmi">starggas</l>
+         <l context="čuoibmi" pos="a">starggas</l>
          <lc>stargasat, starga (čuoibmi)</lc>
       </lg>
       <mg>
@@ -6360,7 +6372,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="juolgi">stirddas</l>
+         <l context="juolgi" pos="a">stirddas</l>
          <lc>stirdasat</lc>
       </lg>
       <mg>
@@ -6371,7 +6383,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">stráŋga</l>
+         <l context="olmmoš" pos="a">stráŋga</l>
       </lg>
       <mg>
          <tg>
@@ -6384,9 +6396,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="viessu">stuoris</l>
+         <l context="viessu" pos="a">stuoris</l>
          <lc>stuorrát, stuora (viessu)</lc>
       </lg>
       <mg>
@@ -6397,7 +6409,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">stánddalaš</l>
+         <l context="olmmoš" pos="a">stánddalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6413,7 +6425,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">stáđis</l>
+         <l context="olmmoš" pos="a">stáđis</l>
          <lc>stáđđásat</lc>
       </lg>
       <mg>
@@ -6425,7 +6437,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">subtraktiiva</l>
+         <l context="olmmoš" pos="a">subtraktiiva</l>
       </lg>
       <mg>
          <tg>
@@ -6435,7 +6447,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">sujalaš</l>
+         <l context="olmmoš" pos="a">sujalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6446,7 +6458,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="vuovdi">suohkat</l>
+         <l context="vuovdi" pos="a">suohkat</l>
          <lc>suohkadat, suhkkes (suovka)</lc>
       </lg>
       <mg>
@@ -6456,9 +6468,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="áigi">suohtas</l>
+         <l context="áigi" pos="a">suohtas</l>
          <lc>suohttasat, suohttasis (áigi)</lc>
       </lg>
       <mg>
@@ -6470,7 +6482,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bivttas">suokkis</l>
+         <l context="bivttas" pos="a">suokkis</l>
          <lc>suoggásat, suokkes (bivttas)</lc>
       </lg>
       <mg>
@@ -6481,7 +6493,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">suollemas</l>
+         <l context="ášši" pos="a">suollemas</l>
          <lc>-masat, -massii</lc>
       </lg>
       <mg>
@@ -6492,7 +6504,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="sáhka">surgat</l>
+         <l context="sáhka" pos="a">surgat</l>
          <lc>surgadat, surgadis (sáhka), (surges sáhka)</lc>
       </lg>
       <mg>
@@ -6504,7 +6516,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">suruheapme</l>
+         <l context="olmmoš" pos="a">suruheapme</l>
          <lc>-heamet, -hemiid, suruhis (olmmoš)</lc>
       </lg>
       <mg>
@@ -6515,7 +6527,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mielki">suvrris</l>
+         <l context="mielki" pos="a">suvrris</l>
          <lc>suvrásat, suvrra (mielki)</lc>
       </lg>
       <mg>
@@ -6526,7 +6538,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="bivttas">sáhppat</l>
+         <l context="bivttas" pos="a">sáhppat</l>
       </lg>
       <mg>
          <tg>
@@ -6536,7 +6548,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">sáiggas</l>
+         <l context="none" pos="a">sáiggas</l>
          <lc>sáigasat</lc>
       </lg>
       <mg>
@@ -6552,7 +6564,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">sálttis</l>
+         <l context="none" pos="a">sálttis</l>
          <lc>sáltásat, sálte (guolli)</lc>
       </lg>
       <mg>
@@ -6568,7 +6580,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">sámegielat</l>
+         <l context="olmmoš" pos="a">sámegielat</l>
       </lg>
       <mg>
          <tg>
@@ -6578,7 +6590,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">sáttat</l>
+         <l context="olmmoš" pos="a">sáttat</l>
       </lg>
       <mg>
          <tg>
@@ -6586,9 +6598,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="heargi">sávri</l>
+         <l context="heargi" pos="a">sávri</l>
          <lc>sávrrit, sávrres (heargi)</lc>
       </lg>
       <mg>
@@ -6603,7 +6615,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="lihtti">teahtis</l>
+         <l context="lihtti" pos="a">teahtis</l>
          <lc>teahttásat, teahtta (lihtti)</lc>
       </lg>
       <mg>
@@ -6614,7 +6626,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">terminatiiva</l>
+         <l context="olmmoš" pos="a">terminatiiva</l>
       </lg>
       <mg>
          <tg>
@@ -6624,7 +6636,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">triviála</l>
+         <l context="olmmoš" pos="a">triviála</l>
       </lg>
       <mg>
          <tg>
@@ -6634,7 +6646,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">udju</l>
+         <l context="mánná" pos="a">udju</l>
          <lc>ujut, ujus (mánná)</lc>
       </lg>
       <mg>
@@ -6643,9 +6655,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="mánáš">uhcci</l>
+         <l context="mánáš" pos="a">uhcci</l>
          <lc>uhcit, uhca (mánáš)</lc>
       </lg>
       <mg>
@@ -6656,7 +6668,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">uhkideaddji</l>
+         <l context="olmmoš" pos="a">uhkideaddji</l>
       </lg>
       <mg>
          <tg>
@@ -6666,7 +6678,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ulbmilaš</l>
+         <l context="olmmoš" pos="a">ulbmilaš</l>
       </lg>
       <mg>
          <tg>
@@ -6676,7 +6688,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">umáhttu</l>
+         <l context="olmmoš" pos="a">umáhttu</l>
          <lc>umáhtut, umáhtos (olmmoš)</lc>
       </lg>
       <mg>
@@ -6686,9 +6698,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="mánáš">unni</l>
+         <l context="mánáš" pos="a">unni</l>
          <lc>unnit, unna (mánáš)</lc>
       </lg>
       <mg>
@@ -6697,9 +6709,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">unohas</l>
+         <l context="ášši" pos="a">unohas</l>
          <lc>-hasat, -hassii</lc>
       </lg>
       <mg>
@@ -6709,9 +6721,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">ustitlaš</l>
+         <l context="olmmoš" pos="a">ustitlaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6722,7 +6734,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vajáldahkes</l>
+         <l context="olmmoš" pos="a">vajáldahkes</l>
       </lg>
       <mg>
          <tg>
@@ -6733,7 +6745,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">valli</l>
+         <l context="olmmoš" pos="a">valli</l>
          <lc>valit, valis (olmmoš)</lc>
       </lg>
       <mg>
@@ -6745,7 +6757,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="borramuš">valljogas</l>
+         <l context="borramuš" pos="a">valljogas</l>
          <lc>-gasat, -gassii</lc>
       </lg>
       <mg>
@@ -6754,9 +6766,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="láibi">varas</l>
+         <l context="láibi" pos="a">varas</l>
          <lc>varrasat</lc>
       </lg>
       <mg>
@@ -6767,7 +6779,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vašálaš</l>
+         <l context="olmmoš" pos="a">vašálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6778,7 +6790,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">veadjemeahttun</l>
+         <l context="ášši" pos="a">veadjemeahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -6789,7 +6801,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">veagalaš</l>
+         <l context="olmmoš" pos="a">veagalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6800,7 +6812,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="málli">veahtas</l>
+         <l context="málli" pos="a">veahtas</l>
          <lc>veahttasat, veahtta (málli)</lc>
       </lg>
       <mg>
@@ -6815,7 +6827,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="boazu">veaiddalis</l>
+         <l context="boazu" pos="a">veaiddalis</l>
       </lg>
       <mg>
          <tg>
@@ -6825,7 +6837,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="boazu">veaittalas</l>
+         <l context="boazu" pos="a">veaittalas</l>
       </lg>
       <mg>
          <tg>
@@ -6836,7 +6848,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">vealtameahttun</l>
+         <l context="ášši" pos="a">vealtameahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -6847,7 +6859,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">veara</l>
+         <l context="none" pos="a">veara</l>
       </lg>
       <mg>
          <tg>
@@ -6865,7 +6877,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vearrái</l>
+         <l context="olmmoš" pos="a">vearrái</l>
          <lc>vearrás (olmmái)</lc>
       </lg>
       <mg>
@@ -6882,7 +6894,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">vegetabiila</l>
+         <l context="olmmoš" pos="a">vegetabiila</l>
       </lg>
       <mg>
          <tg>
@@ -6890,9 +6902,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="čoavddus">vejolaš</l>
+         <l context="čoavddus" pos="a">vejolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6903,7 +6915,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">velggolaš</l>
+         <l context="olmmoš" pos="a">velggolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -6914,7 +6926,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">viehkis</l>
+         <l context="olmmoš" pos="a">viehkis</l>
          <lc>viehkkásat</lc>
       </lg>
       <mg>
@@ -6923,9 +6935,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">vielgat</l>
+         <l context="bivttas" pos="a">vielgat</l>
          <lc>vielgadat, vilges (liidni)</lc>
       </lg>
       <mg>
@@ -6935,9 +6947,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">vieris</l>
+         <l context="olmmoš" pos="a">vieris</l>
          <lc>vierrásat</lc>
       </lg>
       <mg>
@@ -6948,7 +6960,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vigiheapme</l>
+         <l context="olmmoš" pos="a">vigiheapme</l>
          <lc>-heamet, -hemiid, vigihis (olmmoš)</lc>
       </lg>
       <mg>
@@ -6957,9 +6969,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="duottar">viiddis</l>
+         <l context="duottar" pos="a">viiddis</l>
          <lc>viidásat</lc>
       </lg>
       <mg>
@@ -6971,7 +6983,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">viissis</l>
+         <l context="olmmoš" pos="a">viissis</l>
          <lc>viisát</lc>
       </lg>
       <mg>
@@ -6981,9 +6993,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ealli">vilddas</l>
+         <l context="ealli" pos="a">vilddas</l>
          <lc>vildasat, vilda (ealli)</lc>
       </lg>
       <mg>
@@ -6995,7 +7007,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ealli">villas</l>
+         <l context="ealli" pos="a">villas</l>
          <lc>villasat, villa (ealli)</lc>
       </lg>
       <mg>
@@ -7007,7 +7019,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">virkui</l>
+         <l context="olmmoš" pos="a">virkui</l>
          <lc>virkos (olmmoš)</lc>
       </lg>
       <mg>
@@ -7019,7 +7031,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="jáffut">visot</l>
+         <l context="jáffut" pos="a">visot</l>
       </lg>
       <mg>
          <tg>
@@ -7027,9 +7039,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">vissis</l>
+         <l context="ášši" pos="a">vissis</l>
          <lc>vissásat</lc>
       </lg>
       <mg>
@@ -7041,7 +7053,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">visuála</l>
+         <l context="olmmoš" pos="a">visuála</l>
       </lg>
       <mg>
          <tg>
@@ -7051,7 +7063,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vitmat</l>
+         <l context="olmmoš" pos="a">vitmat</l>
          <lc>vitmadat, vitmadis (olmmoš), (vitmes olmmoš)</lc>
       </lg>
       <mg>
@@ -7063,7 +7075,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">viđát</l>
+         <l context="luohkká" pos="a">viđát</l>
       </lg>
       <mg>
          <tg>
@@ -7071,9 +7083,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">viššal</l>
+         <l context="olmmoš" pos="a">viššal</l>
          <lc>viššalat, viššalis (olmmoš)</lc>
       </lg>
       <mg>
@@ -7082,9 +7094,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">vuogas</l>
+         <l context="olmmoš" pos="a">vuogas</l>
          <lc>vuohkkasat</lc>
       </lg>
       <mg>
@@ -7097,7 +7109,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">vuoigaduvvon</l>
+         <l context="olmmoš" pos="a">vuoigaduvvon</l>
       </lg>
       <mg>
          <tg>
@@ -7107,7 +7119,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="sáhka">vuoigat</l>
+         <l context="sáhka" pos="a">vuoigat</l>
          <lc>vuoigadat, vuoigadis (sáhka), (vuiges sáhka)</lc>
       </lg>
       <mg>
@@ -7123,7 +7135,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="lávlla">vuoiŋŋalaš</l>
+         <l context="lávlla" pos="a">vuoiŋŋalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -7132,9 +7144,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">vuollegaš</l>
+         <l context="olmmoš" pos="a">vuollegaš</l>
          <lc>-gaččat, -gažžii</lc>
       </lg>
       <mg>
@@ -7145,7 +7157,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vuoras</l>
+         <l context="olmmoš" pos="a">vuoras</l>
          <lc>vuorrasat</lc>
       </lg>
       <mg>
@@ -7157,7 +7169,7 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="luohkká">vuosttas</l>
+         <l context="luohkká" pos="a">vuosttas</l>
       </lg>
       <mg>
          <tg>
@@ -7167,7 +7179,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">vuosttaš</l>
+         <l context="luohkká" pos="a">vuosttaš</l>
          <lc>vuosttažat</lc>
       </lg>
       <mg>
@@ -7178,7 +7190,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vuovdnái</l>
+         <l context="olmmoš" pos="a">vuovdnái</l>
          <lc>vuovdnás (olmmoš)</lc>
       </lg>
       <mg>
@@ -7199,7 +7211,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vuovdái</l>
+         <l context="olmmoš" pos="a">vuovdái</l>
          <lc>vuovdás (olmmoš)</lc>
       </lg>
       <mg>
@@ -7210,7 +7222,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">vuođđonjuolggaduslaš</l>
+         <l context="olmmoš" pos="a">vuođđonjuolggaduslaš</l>
       </lg>
       <mg>
          <tg>
@@ -7220,7 +7232,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">vuđolaš</l>
+         <l context="ášši" pos="a">vuđolaš</l>
          <lc>-laččat</lc>
       </lg>
       <mg>
@@ -7232,7 +7244,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">váfi</l>
+         <l context="olmmoš" pos="a">váfi</l>
          <lc>váfit, váfis (olmmái)</lc>
       </lg>
       <mg>
@@ -7248,9 +7260,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">váibbas</l>
+         <l context="olmmoš" pos="a">váibbas</l>
          <lc>váibasat</lc>
       </lg>
       <mg>
@@ -7259,9 +7271,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">váibmil</l>
+         <l context="olmmoš" pos="a">váibmil</l>
       </lg>
       <mg>
          <tg>
@@ -7271,7 +7283,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">váibmui</l>
+         <l context="olmmoš" pos="a">váibmui</l>
          <lc>váibmos (olmmoš)</lc>
       </lg>
       <mg>
@@ -7282,7 +7294,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">váidudeaddji</l>
+         <l context="olmmoš" pos="a">váidudeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -7292,7 +7304,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">váigat</l>
+         <l context="ášši" pos="a">váigat</l>
          <lc>váigadat, váigadis (ášši, váiges ášši)</lc>
       </lg>
       <mg>
@@ -7302,9 +7314,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dearvvuođat">váimmolaš</l>
+         <l context="dearvvuođat" pos="a">váimmolaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -7313,9 +7325,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="dilli">váivi</l>
+         <l context="dilli" pos="a">váivi</l>
       </lg>
       <mg>
          <tg>
@@ -7325,7 +7337,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dilli">váivái</l>
+         <l context="dilli" pos="a">váivái</l>
          <lc>váivás (dilli)</lc>
       </lg>
       <mg>
@@ -7337,7 +7349,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">válddálaš</l>
+         <l context="olmmoš" pos="a">válddálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -7347,9 +7359,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="duodji">válmmas</l>
+         <l context="duodji" pos="a">válmmas</l>
          <lc>válbmasat</lc>
       </lg>
       <mg>
@@ -7361,7 +7373,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">válmmaš</l>
+         <l context="olmmoš" pos="a">válmmaš</l>
       </lg>
       <mg>
          <tg>
@@ -7371,7 +7383,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vánhurskkis</l>
+         <l context="olmmoš" pos="a">vánhurskkis</l>
          <lc>-hurskásat</lc>
       </lg>
       <mg>
@@ -7387,7 +7399,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vánta</l>
+         <l context="olmmoš" pos="a">vánta</l>
          <lc>vánttat, vánttas (olmmoš)</lc>
       </lg>
       <mg>
@@ -7399,7 +7411,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">váraheapme</l>
+         <l context="olmmoš" pos="a">váraheapme</l>
          <lc>-heamet, várahis (olmmoš)</lc>
       </lg>
       <mg>
@@ -7408,9 +7420,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="beana">váralaš</l>
+         <l context="beana" pos="a">váralaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -7421,7 +7433,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">várrugas</l>
+         <l context="olmmoš" pos="a">várrugas</l>
          <lc>-gasat, -gassii</lc>
       </lg>
       <mg>
@@ -7432,7 +7444,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">várveš</l>
+         <l context="olmmoš" pos="a">várveš</l>
       </lg>
       <mg>
          <tg>
@@ -7442,7 +7454,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">vásedin</l>
+         <l context="olmmoš" pos="a">vásedin</l>
       </lg>
       <mg>
          <tg>
@@ -7452,7 +7464,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">vássevaš</l>
+         <l context="olmmoš" pos="a">vássevaš</l>
       </lg>
       <mg>
          <tg>
@@ -7460,9 +7472,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">váttis</l>
+         <l context="ášši" pos="a">váttis</l>
          <lc>váddásat</lc>
       </lg>
       <mg>
@@ -7473,7 +7485,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">váŋkái</l>
+         <l context="olmmoš" pos="a">váŋkái</l>
          <lc>váŋkát, váŋkás (olmmái)</lc>
       </lg>
       <mg>
@@ -7485,7 +7497,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bargu">ábolaš</l>
+         <l context="bargu" pos="a">ábolaš</l>
          <lc>ábolaččat, ábolažžii</lc>
       </lg>
       <mg>
@@ -7496,7 +7508,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bargu">ábuheapme</l>
+         <l context="bargu" pos="a">ábuheapme</l>
          <lc>ábuheamet, ábuhemiid, ábuhis (bargu)</lc>
       </lg>
       <mg>
@@ -7507,7 +7519,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čilgehus">áddehahtti</l>
+         <l context="čilgehus" pos="a">áddehahtti</l>
       </lg>
       <mg>
          <tg>
@@ -7517,7 +7529,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čilgehus">áddemeahttun</l>
+         <l context="čilgehus" pos="a">áddemeahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -7528,7 +7540,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ruovdi">áhcagas</l>
+         <l context="ruovdi" pos="a">áhcagas</l>
          <lc>-gasat, -gassii</lc>
       </lg>
       <mg>
@@ -7539,7 +7551,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="nisu">áhpeheapme</l>
+         <l context="nisu" pos="a">áhpeheapme</l>
          <lc>-heamet</lc>
          <lc>-hemiid</lc>
       </lg>
@@ -7551,7 +7563,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">áidanas</l>
+         <l context="olmmoš" pos="a">áidanas</l>
       </lg>
       <mg>
          <tg>
@@ -7561,7 +7573,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">áidna</l>
+         <l context="mánná" pos="a">áidna</l>
       </lg>
       <mg>
          <tg>
@@ -7575,7 +7587,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="ášši">áigeguovdil</l>
+         <l context="ášši" pos="a">áigeguovdil</l>
       </lg>
       <mg>
          <tg>
@@ -7585,7 +7597,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">álbmotlaš</l>
+         <l context="olmmoš" pos="a">álbmotlaš</l>
       </lg>
       <mg>
          <tg>
@@ -7595,7 +7607,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">álbmotrievttálaš</l>
+         <l context="olmmoš" pos="a">álbmotrievttálaš</l>
       </lg>
       <mg>
          <tg>
@@ -7605,7 +7617,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="borramuš">álbmái</l>
+         <l context="borramuš" pos="a">álbmái</l>
       </lg>
       <mg>
          <tg>
@@ -7619,7 +7631,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">álggolaš</l>
+         <l context="olmmoš" pos="a">álggolaš</l>
       </lg>
       <mg>
          <tg>
@@ -7627,9 +7639,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">álki</l>
+         <l context="ášši" pos="a">álki</l>
          <lc>álkkit, álkkes (ášši)</lc>
       </lg>
       <mg>
@@ -7641,7 +7653,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">álolaš</l>
+         <l context="olmmoš" pos="a">álolaš</l>
       </lg>
       <mg>
          <tg>
@@ -7649,9 +7661,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">álás</l>
+         <l context="olmmoš" pos="a">álás</l>
       </lg>
       <mg>
          <tg>
@@ -7661,7 +7673,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ámmátlaš</l>
+         <l context="olmmoš" pos="a">ámmátlaš</l>
       </lg>
       <mg>
          <tg>
@@ -7676,7 +7688,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="lávlla">árbevirolaš</l>
+         <l context="lávlla" pos="a">árbevirolaš</l>
       </lg>
       <mg>
          <tg>
@@ -7686,7 +7698,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ipmil">árbmugas</l>
+         <l context="ipmil" pos="a">árbmugas</l>
          <lc>-gasat, -gassii</lc>
       </lg>
       <mg>
@@ -7695,9 +7707,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">árgi</l>
+         <l context="olmmoš" pos="a">árgi</l>
          <lc>árggit, árgges (olmmoš)</lc>
       </lg>
       <mg>
@@ -7709,7 +7721,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">árjjalaš</l>
+         <l context="olmmoš" pos="a">árjjalaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -7721,7 +7733,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">árjjálaš</l>
+         <l context="olmmoš" pos="a">árjjálaš</l>
       </lg>
       <mg>
          <tg>
@@ -7731,7 +7743,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">árki</l>
+         <l context="mánná" pos="a">árki</l>
          <lc>árkkit, árkkes (mánna)</lc>
       </lg>
       <mg>
@@ -7743,7 +7755,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">árpmitmeahttun</l>
+         <l context="olmmoš" pos="a">árpmitmeahttun</l>
          <lc>-meahttumat</lc>
       </lg>
       <mg>
@@ -7752,9 +7764,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="iđit">árrat</l>
+         <l context="iđit" pos="a">árrat</l>
       </lg>
       <mg>
          <tg>
@@ -7762,9 +7774,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">ártet</l>
+         <l context="ášši" pos="a">ártet</l>
          <lc>ártegat, ártegis (ášši)</lc>
       </lg>
       <mg>
@@ -7776,7 +7788,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">árvaluvvon</l>
+         <l context="olmmoš" pos="a">árvaluvvon</l>
       </lg>
       <mg>
          <tg>
@@ -7786,7 +7798,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">árvvoheapme</l>
+         <l context="olmmoš" pos="a">árvvoheapme</l>
          <lc>-heamet, -hemiid, árvvohis (olmmoš)</lc>
       </lg>
       <mg>
@@ -7803,7 +7815,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">ásttas</l>
+         <l context="none" pos="a">ásttas</l>
          <lc>ástasat</lc>
       </lg>
       <mg>
@@ -7815,7 +7827,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ávaštalli</l>
+         <l context="olmmoš" pos="a">ávaštalli</l>
       </lg>
       <mg>
          <tg>
@@ -7825,7 +7837,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="viessu">ávdin</l>
+         <l context="viessu" pos="a">ávdin</l>
          <lc>ávdimat</lc>
       </lg>
       <mg>
@@ -7836,7 +7848,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ávdinlágan</l>
+         <l context="olmmoš" pos="a">ávdinlágan</l>
       </lg>
       <mg>
          <tg>
@@ -7846,7 +7858,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">ávdugas</l>
+         <l context="olmmoš" pos="a">ávdugas</l>
          <lc>-gasat, -gassii</lc>
       </lg>
       <mg>
@@ -7857,7 +7869,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="bargu">ávkkálaš</l>
+         <l context="bargu" pos="a">ávkkálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -7873,7 +7885,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">ávnnasrievttálaš</l>
+         <l context="olmmoš" pos="a">ávnnasrievttálaš</l>
       </lg>
       <mg>
          <tg>
@@ -7883,7 +7895,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">áŋgir</l>
+         <l context="olmmoš" pos="a">áŋgir</l>
          <lc>áŋgirat, áŋgiris (olmmoš)</lc>
       </lg>
       <mg>
@@ -7895,7 +7907,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">áššáigullevaš</l>
+         <l context="olmmoš" pos="a">áššáigullevaš</l>
       </lg>
       <mg>
          <tg>
@@ -7905,7 +7917,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">áššálaš</l>
+         <l context="olmmoš" pos="a">áššálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
       <mg>
@@ -7917,7 +7929,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a" context="olmmoš">áŧestuvvan</l>
+         <l context="olmmoš" pos="a">áŧestuvvan</l>
       </lg>
       <mg>
          <tg>
@@ -7927,7 +7939,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="mánná">čagaldahkes</l>
+         <l context="mánná" pos="a">čagaldahkes</l>
       </lg>
       <mg>
          <tg>
@@ -7935,9 +7947,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">čalmmeheapme</l>
+         <l context="olmmoš" pos="a">čalmmeheapme</l>
          <lc>-heamet, -hemiid, čalmmehis (olmmoš)</lc>
       </lg>
       <mg>
@@ -7949,7 +7961,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="lihtti">čavddis</l>
+         <l context="lihtti" pos="a">čavddis</l>
          <lc>čavdásat, čavddes (lihtti)</lc>
       </lg>
       <mg>
@@ -7966,7 +7978,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="čanastat">čavgat</l>
+         <l context="čanastat" pos="a">čavgat</l>
          <lc>čavgadat, čavges (čavgadis) (čanastat)</lc>
       </lg>
       <mg>
@@ -7975,9 +7987,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">čeahppi</l>
+         <l context="olmmoš" pos="a">čeahppi</l>
          <lc>čeahpit, čehpiid, čeahpes (mánná)</lc>
       </lg>
       <mg>
@@ -7988,7 +8000,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="liidni">čeaskat</l>
+         <l context="liidni" pos="a">čeaskat</l>
          <lc>čeaskadat, českes (liidni)</lc>
       </lg>
       <mg>
@@ -7997,9 +8009,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">čeavlái</l>
+         <l context="olmmoš" pos="a">čeavlái</l>
          <lc>čeavlás (olmmoš)</lc>
       </lg>
       <mg>
@@ -8011,7 +8023,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ášši">čiegus</l>
+         <l context="ášši" pos="a">čiegus</l>
          <lc>čihkosat</lc>
       </lg>
       <mg>
@@ -8020,9 +8032,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="ášši">čielggas</l>
+         <l context="ášši" pos="a">čielggas</l>
          <lc>čielgasat, čielga (čáhci)</lc>
       </lg>
       <mg>
@@ -8034,7 +8046,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">čielggus</l>
+         <l context="olmmoš" pos="a">čielggus</l>
          <lc>čilgosat</lc>
       </lg>
       <mg>
@@ -8043,9 +8055,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="johka">čieŋal</l>
+         <l context="johka" pos="a">čieŋal</l>
          <lc>čiekŋalat, čiekŋalis (johka)</lc>
       </lg>
       <mg>
@@ -8057,7 +8069,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="luohkká">čihččet</l>
+         <l context="luohkká" pos="a">čihččet</l>
       </lg>
       <mg>
          <tg>
@@ -8065,23 +8077,23 @@
          </tg>
       </mg>
    </e>
-  <e src="nj">
-    <lg>
-      <l pos="a" context="luohkká">nubbi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">andre</t>
-        <xg>
-          <x>Son álgá nuppi luohkkái boahtte čavčča.</x>
-          <xt>Hun begynner i andre klasse neste høst.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-   <e usage="ped" src="nj">
+   <e src="nj">
       <lg>
-         <l pos="a" context="dálki">čoaskkis</l>
+         <l context="luohkká" pos="a">nubbi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">andre</t>
+            <xg>
+               <x>Son álgá nuppi luohkkái boahtte čavčča.</x>
+               <xt>Hun begynner i andre klasse neste høst.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="ped">
+      <lg>
+         <l context="dálki" pos="a">čoaskkis</l>
          <lc>čoaskásat, čoaska (dálki)</lc>
       </lg>
       <mg>
@@ -8093,7 +8105,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="dálki">čoasus</l>
+         <l context="dálki" pos="a">čoasus</l>
          <lc>čossosat</lc>
       </lg>
       <mg>
@@ -8104,7 +8116,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">čorgat</l>
+         <l context="olmmoš" pos="a">čorgat</l>
          <lc>čorgadat, čorges (čorgadis) (olmmoš)</lc>
       </lg>
       <mg>
@@ -8113,9 +8125,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">čuorbi</l>
+         <l context="olmmoš" pos="a">čuorbi</l>
          <lc>čuorbbit, čurbbiid, čuorbbes (gánda)</lc>
       </lg>
       <mg>
@@ -8125,9 +8137,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="beaivi">čuovgat</l>
+         <l context="beaivi" pos="a">čuovgat</l>
          <lc>čuovgadat, čuvges (beaivi)</lc>
       </lg>
       <mg>
@@ -8143,21 +8155,21 @@
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="viesut">dálá</l>
+         <l context="viesut" pos="a">dálá</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">nåtidig</t>
-        <xg>
-          <x>Son geavaha sihke dološ ja dálá govaid.</x>
-          <xt>Han/hun bruker både gamle og nåtidige bilder.</xt>
-        </xg>
+            <xg>
+               <x>Son geavaha sihke dološ ja dálá govaid.</x>
+               <xt>Han/hun bruker både gamle og nåtidige bilder.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e usage="more">
       <lg>
-         <l pos="a" context="olmmoš">čuovvovaš</l>
+         <l context="olmmoš" pos="a">čuovvovaš</l>
       </lg>
       <mg>
          <tg>
@@ -8165,9 +8177,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="bivttas">čáhppat</l>
+         <l context="bivttas" pos="a">čáhppat</l>
          <lc>čáhppadat, čáhppes (bivttas)</lc>
       </lg>
       <mg>
@@ -8178,7 +8190,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="eksámen">čálalaš</l>
+         <l context="eksámen" pos="a">čálalaš</l>
       </lg>
       <mg>
          <tg>
@@ -8188,7 +8200,7 @@
    </e>
    <e usage="ped">
       <lg>
-         <l pos="a" context="nieida">čáppat</l>
+         <l context="nieida" pos="a">čáppat</l>
       </lg>
       <mg>
          <tg>
@@ -8198,7 +8210,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="nieida">čáppis</l>
+         <l context="nieida" pos="a">čáppis</l>
          <lc>čábbát (čábbásat), čáppa (nieida)</lc>
       </lg>
       <mg>
@@ -8208,9 +8220,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="lihtti">šealgat</l>
+         <l context="lihtti" pos="a">šealgat</l>
          <lc>šealgadat, šelges (lihtti)</lc>
       </lg>
       <mg>
@@ -8221,7 +8233,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="beaivvadat">šearrat</l>
+         <l context="beaivvadat" pos="a">šearrat</l>
          <lc>šearradat, šerres (beaivvadat) (šearradis beaivvadat)</lc>
       </lg>
       <mg>
@@ -8231,9 +8243,9 @@
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="a" context="olmmoš">šiega</l>
+         <l context="olmmoš" pos="a">šiega</l>
       </lg>
       <mg>
          <tg>
@@ -8243,7 +8255,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="ávnnas">šiervi</l>
+         <l context="ávnnas" pos="a">šiervi</l>
          <lc>šiervvit, širvviid, šiervves (ávnnas)</lc>
       </lg>
       <mg>
@@ -8255,7 +8267,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="guolli">šliettas</l>
+         <l context="guolli" pos="a">šliettas</l>
          <lc>šlieddasat, šliedda (guolli)</lc>
       </lg>
       <mg>
@@ -8268,7 +8280,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">šlinccas</l>
+         <l context="none" pos="a">šlinccas</l>
          <lc>šlincasat, (šlincu bivttas)</lc>
       </lg>
       <mg>
@@ -8279,14 +8291,14 @@
                <x>šlinco- (šlincobivttas)</x>
                <xt>(slasket klesplagg)</xt>
                <x>šlince- (šlincebivttas)</x>
-               <xt> </xt>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="seahkka">šloanccas</l>
+         <l context="seahkka" pos="a">šloanccas</l>
          <lc>šloancasat, šloanca (seahkka)</lc>
       </lg>
       <mg>
@@ -8297,7 +8309,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">šlundi</l>
+         <l context="olmmoš" pos="a">šlundi</l>
          <lc>šlunddit, šlunddes (olmmái)</lc>
       </lg>
       <mg>
@@ -8309,7 +8321,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">šluppas</l>
+         <l context="none" pos="a">šluppas</l>
          <lc>šlubbasat</lc>
       </lg>
       <mg>
@@ -8317,9 +8329,9 @@
             <t pos="a">klumpet</t>
             <xg>
                <x>šluppo-</x>
-               <xt> </xt>
-             </xg>
-        </tg>
+               <xt></xt>
+            </xg>
+         </tg>
       </mg>
       <mg>
          <tg>
@@ -8329,7 +8341,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="none">šluŋkkas</l>
+         <l context="none" pos="a">šluŋkkas</l>
          <lc>šluŋkasat</lc>
       </lg>
       <mg>
@@ -8345,7 +8357,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="liiki">šoavkat</l>
+         <l context="liiki" pos="a">šoavkat</l>
          <lc>šoavkadat, šovkes (liiki)</lc>
       </lg>
       <mg>
@@ -8357,7 +8369,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="nieida">šođbat</l>
+         <l context="nieida" pos="a">šođbat</l>
          <lc>šođbadat, šođbes (nieida)</lc>
       </lg>
       <mg>
@@ -8368,7 +8380,7 @@
    </e>
    <e src="nj">
       <lg>
-         <l pos="a" context="olmmoš">šuđggas</l>
+         <l context="olmmoš" pos="a">šuđggas</l>
          <lc>šuđgasat, šuđges (olmmoš)</lc>
       </lg>
       <mg>
