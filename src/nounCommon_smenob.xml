@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r>
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -1267,9 +1268,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">aksentmerke</t>
-            <xg>
-               <x/>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1392,6 +1390,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">akvarell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1613,6 +1612,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">forhøyningstegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1787,6 +1787,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">alkohollov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -2332,6 +2333,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">alarmmerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -2717,6 +2719,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">anorakk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -2820,6 +2823,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">antiparallell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -3103,6 +3107,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">arkivloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -3712,6 +3717,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">asterisk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -3898,6 +3904,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hverdagspesk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -4165,6 +4172,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">automobil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -4402,6 +4410,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">rammeuttrykk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -4686,6 +4695,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">opplysningsskilt</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -5042,7 +5052,9 @@ For the full license text, see the link above.</lic>
             <t pos="m">oversiden</t>
             <xg>
                <x>Dat lea bajábealde.</x>
+               <xt/>
                <x>Dat manai bajábeallai.</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -5666,6 +5678,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">arbeidshelseloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -6102,6 +6115,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">arbeidsmiljøloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -6331,6 +6345,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">barakk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -6741,6 +6756,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">barsk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -6839,6 +6855,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bøk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -6852,6 +6869,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -6860,6 +6878,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fjerdedels liter</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -7234,6 +7253,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">halvpause</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -7570,6 +7590,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">penneskaft</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -8220,6 +8241,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stengselsplass i Karasjok</t>
             <xg>
                <x>rávdnjás coagis jogas</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -8276,6 +8298,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -9106,6 +9129,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">svømmeblære</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -10062,6 +10086,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pigghakke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -10618,6 +10643,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">spott</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -10626,6 +10652,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hån</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -11425,6 +11452,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">geværstokk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -11717,6 +11745,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jaktlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -12623,6 +12652,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">brennmerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -12722,6 +12752,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">polstrettunell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -12730,6 +12761,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">polstrettunnel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -13076,6 +13108,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">avsmalning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -13084,6 +13117,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">innsnevring</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -13092,6 +13126,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fjellpass</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -13100,6 +13135,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pause</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -13108,6 +13144,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">mellomrom</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -13116,6 +13153,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">avbrudd</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -13343,11 +13381,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="more">
       <lg>
-         <l pos="n">jietnagirji</l>
+         <l illpl="ok" pos="n">jietnagirji</l>
       </lg>
       <mg>
          <tg>
-            <t illpl="ok" pos="n">lydbok</t>
+            <t pos="n">lydbok</t>
          </tg>
       </mg>
    </e>
@@ -15617,6 +15655,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">brakke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -16140,6 +16179,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">eiendommelighet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -16148,6 +16188,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">særegenhet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -16156,6 +16197,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">underlighet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -16164,6 +16206,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">egenhet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -16312,6 +16355,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sykebil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -17014,6 +17058,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">langhåret pesk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -17027,6 +17072,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">svilukt</t>
             <xg>
                <x>om utstyr og klær</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -17075,6 +17121,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stengselsbanke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -17083,6 +17130,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sandbanke hvor det er stengselsplass</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -17916,6 +17964,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">papirpose</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -18050,6 +18099,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hyssinglek</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -18058,6 +18108,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">båndlek</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -18783,6 +18834,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stedsnavnlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -18850,6 +18902,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">usmak</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -19968,6 +20021,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tannverk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -20225,6 +20279,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bank</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -20558,6 +20613,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">setning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -20566,6 +20622,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">uttrykk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -20699,6 +20756,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">havskodde</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -21005,6 +21063,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">cosinusloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -22052,6 +22111,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">klopp</t>
             <xg>
                <x>šaldelágaš</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -22241,6 +22301,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">helseloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -22264,6 +22325,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">helseregisterloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -22322,6 +22384,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">stadiemerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -22330,6 +22393,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">trykkmerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -22910,6 +22974,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tinnlås</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -24168,10 +24233,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="m">terapi</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -24517,6 +24578,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">disk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -24844,6 +24906,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pasientrettighetsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -25575,6 +25638,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">dolk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -26909,6 +26973,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kjennetegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -26959,6 +27024,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">lomskinnsekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -26967,6 +27033,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sekk av lomskinn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -27494,6 +27561,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sypose</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -27653,6 +27721,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sannhetsord</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -27777,6 +27846,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tinntallerk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -28098,6 +28168,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">domstolloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -28184,6 +28255,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">duopparbil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -28648,6 +28720,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">forskningsprofil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -28721,6 +28794,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">duk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -28729,6 +28803,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bordduk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -29290,6 +29365,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">talk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -29386,6 +29462,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tallerk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -29889,6 +29966,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pålitelighet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -29897,6 +29975,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sikkerhet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -30634,6 +30713,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">e-post</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -31304,6 +31384,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">reinflokk</t>
             <xg>
                <x>Eallu lea stuorit go čora.</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -31928,6 +32009,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jordlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -32187,6 +32269,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jordlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -32340,6 +32423,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jordsalgsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -32473,6 +32557,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jordsalgsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -33107,6 +33192,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">eksempel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -33270,6 +33356,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">eksistensialsetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -34852,6 +34939,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">båtbukk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -35155,6 +35243,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">feil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -35689,6 +35778,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">garnlenke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -35697,6 +35787,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">notlenke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -36410,6 +36501,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">finnmarksloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -37116,6 +37208,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">frimerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -37184,6 +37277,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fokk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -37462,6 +37556,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">viltlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -38357,6 +38452,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">snøskavl</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -38365,6 +38461,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sammenføket snø</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -38641,6 +38738,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">spørsmålstegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -39457,6 +39555,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">skilletegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -39965,6 +40064,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">spørrende setning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -40315,6 +40415,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">veilov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -40684,6 +40785,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">multiplikasjonstegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -40692,6 +40794,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">gangetegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -40918,6 +41021,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">trekktabell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -42420,6 +42524,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kommunelov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -42463,6 +42568,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kommunehelsetjenesteloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -42486,6 +42592,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kommunelov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -42774,6 +42881,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">språklov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -43926,6 +44034,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">lysestakeveike</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -43934,6 +44043,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">lyseveike</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -44309,6 +44419,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kirkeloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -45101,6 +45212,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">lite berg</t>
             <xg>
                <x>goapma lea unnit go goarvi</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -45109,6 +45221,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">liten jord- eller snøskavl som henger utover</t>
             <xg>
                <x>goapma lea unnit go goarvi</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -45191,6 +45304,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kork</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -45256,6 +45370,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kortstokk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -45286,6 +45401,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">berg</t>
             <xg>
                <x>goarvi lea stuorit go goapma</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -45294,6 +45410,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jord- eller snøskavl som henger utover</t>
             <xg>
                <x>goarvi lea stuorit go goapma</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -45341,6 +45458,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">person som en er moster (goaski) til</t>
             <xg>
                <x>dat, geasa lea goaski</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -45851,6 +45969,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">vinterkomag</t>
             <xg>
                <x>gállohat ja nuvttohat</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -47476,6 +47595,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">gravismerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -47499,6 +47619,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">greker</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -47822,6 +47943,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fiskepølse</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -48364,6 +48486,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">adamseple</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -48610,6 +48733,7 @@ For the full license text, see the link above.</lic>
             <t pos="x">halvparten så lett sekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -50471,6 +50595,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">agurk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -51172,6 +51297,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kaffepose</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -51419,6 +51545,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">del</t>
             <xg>
                <x>eanangáhppálat</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -51966,6 +52093,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">grunnsetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -52094,6 +52222,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kalk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -52186,6 +52315,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">svigerinne</t>
             <xg>
                <x>olbmá vielja áhkká</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -52211,7 +52341,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tørr trestokk</t>
             <xg>
                <x>Gálva lea goikesoahki dahje eará lastamuorra.</x>
-               <x>Gálva er tørr bjørk eller et annet løvtre.</x>
+               <xt>Gálva er tørr bjørk eller et annet løvtre.</xt>
             </xg>
          </tg>
       </mg>
@@ -52486,6 +52616,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">leggskinnsekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -52494,6 +52625,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sekk med leggskinn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -53010,6 +53142,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">åttendedelspause</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -53875,6 +54008,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bryllupsgave</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -53900,6 +54034,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">personopplysningsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -54165,6 +54300,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hæl</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -54431,6 +54567,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">høvelkropp</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -54464,6 +54601,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hengelås</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -54477,6 +54615,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hengelås</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -55399,6 +55538,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">holk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -55407,6 +55547,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">endeslag</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -55514,6 +55655,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hestesko</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -55748,6 +55890,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hotell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -55957,6 +56100,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">byggelov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -56246,6 +56390,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skrev</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -56336,6 +56481,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kanon</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -56422,6 +56568,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">administrasjonsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -56445,6 +56592,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">saksbehandlingsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -57236,6 +57384,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kvelstoff</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -58046,6 +58195,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">gladsak</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -58054,6 +58204,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">gladtale</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -58984,6 +59135,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">tante</t>
             <xg>
                <x>čeazi, eagi dahje edno áhkká</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -59840,6 +59992,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -60463,6 +60616,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stemmegiverloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -60598,6 +60752,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">fjernt sus</t>
             <xg>
                <x>garra dálki gullo</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -61039,6 +61194,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">glidelås</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -62554,6 +62710,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">divisjonstegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -62970,6 +63127,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">julegave</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -63449,6 +63607,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">melsekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -63473,6 +63632,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jakke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -63533,6 +63693,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">svalt vinddrag</t>
             <xg>
                <x>Geasset lea jáldu.</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -63609,6 +63770,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">dødsbudskap</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -63743,6 +63905,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">jolle</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -65101,6 +65264,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kloakk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -65154,6 +65318,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">klusil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -65177,6 +65342,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">vindusskodde</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -65262,6 +65428,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kortstokk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -67121,6 +67288,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kulturminnemerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -67254,6 +67422,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kulturminneloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -67688,6 +67857,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kaffepose</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -67761,6 +67931,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kalk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -69037,6 +69208,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">mellomrom mellom leddene</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -69147,6 +69319,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">lekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -69278,6 +69451,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">meget lavt kjørel av staver</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -69286,6 +69460,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">meget lavt trekar av staver</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -69618,6 +69793,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">lenke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -69880,6 +70056,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">varmtvannstank</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -70017,7 +70194,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">løype</t>
             <xg>
                <x>Liemas lea vuššon šibitbiebmu.</x>
-               <x>Løype er kokt mat til husdyr.</x>
+               <xt>Løype er kokt mat til husdyr.</xt>
             </xg>
          </tg>
       </mg>
@@ -70344,6 +70521,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">motorisk organ</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -71186,6 +71364,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">likkapell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -71300,6 +71479,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">trikk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -71308,6 +71488,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tog</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -71341,6 +71522,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">trikk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -71349,6 +71531,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tog</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -71514,6 +71697,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">link</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -71831,6 +72015,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">plass på hver side av ildstedet i lavvo eller gamme</t>
             <xg>
                <x>sadji goappatge bealde árrana goađis dahje lávus</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -73030,6 +73215,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">skøyte</t>
             <xg>
                <x>mainna luiste jieŋa alde</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -73064,8 +73250,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="n">starrgress</t>
             <xg>
-               <x>lukta</x>
-               <x>luvttat</x>
+               <x>lukta - XXX</x>
+               <xt>luvttat</xt>
             </xg>
          </tg>
       </mg>
@@ -74161,6 +74347,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">naturlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -74234,6 +74421,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">naturvernloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -74355,6 +74543,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">forsiring av ulltråder på koftekanten</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -74400,6 +74589,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">lakselov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -74487,6 +74677,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">glidelås</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -75438,6 +75629,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">lakk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -75632,6 +75824,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">beite</t>
             <xg>
                <x>gusaid ja heasttaid atná láiddomis</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -76175,6 +76368,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">vinduslem</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -76315,6 +76509,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">lastebil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -76652,6 +76847,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">ryggsekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -76846,6 +77042,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tømmeknippe</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -77152,6 +77349,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">e-post</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -77403,6 +77601,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">marebakke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -77506,6 +77705,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">mastiska</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -78175,6 +78375,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skogsbil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -78238,6 +78439,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skogsferdselsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -78321,6 +78523,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skogsdriftsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -79715,6 +79918,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">bekreftende utsagn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -79809,6 +80013,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">medsetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -79930,8 +80135,8 @@ For the full license text, see the link above.</lic>
                <x>Nieida lea buori mielas dál, muhto bárdni lea velgo heajos mielas.</x>
                <xt>Jenta er i godt humør nå, men gutten er fremdeles i dårlig humør.</xt>
             </xg>
-          </tg>
-     </mg>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="n">lyst</t>
@@ -79951,6 +80156,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">medpasientsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -79974,6 +80180,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">medpasienthelseloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -80742,6 +80949,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">minerallov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -80755,6 +80963,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">minerallov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -81384,6 +81593,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">motorferdselsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -81407,6 +81617,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">motorferdselsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -81440,6 +81651,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">motorlem</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -81717,6 +81929,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skifteloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -81831,6 +82044,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">egglås</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82066,6 +82280,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sørgesak</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82074,6 +82289,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sørgetale</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82353,6 +82569,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">justeringslov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82508,6 +82725,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fortellende setning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82558,6 +82776,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">minnemerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82648,6 +82867,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">moldbenk</t>
             <xg>
                <x>torvlag som legges rundt en gamme eller et trehus</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82745,6 +82965,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">snøkjelke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82789,6 +83010,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">snøpark</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -82893,6 +83115,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">snøtopp</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -83122,6 +83345,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">trelås</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -83254,6 +83478,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">moster</t>
             <xg>
                <x>muoŧŧá lea eatni oabbá, nuorat go eadni</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -84782,6 +85007,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">maske</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -85329,6 +85555,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">navneloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -85343,6 +85570,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sju års gammel hanrein</t>
             <xg>
                <x>čiežajahkásaš varis boazu</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -85546,6 +85774,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kort slitt ting</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -85554,6 +85783,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stubb</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -85562,6 +85792,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stump</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -86212,6 +86443,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">framspring på kinnbenet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -86235,6 +86467,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">nistesekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -86243,6 +86476,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">matransel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -86349,6 +86583,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hovelbenk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -86357,6 +86592,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">høvelbenk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -86810,6 +87046,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">grunnlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -86946,6 +87183,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fjerdedelspause</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -87140,6 +87378,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">snipp</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -87148,6 +87387,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">utstikkenke stykke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -87989,6 +88229,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">framspring</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -87997,6 +88238,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">snipp</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -88005,6 +88247,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stump</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -88058,6 +88301,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">munnstykke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -88107,6 +88351,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">godtepose</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -88172,6 +88417,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">korthåret reinkalvskinnspesk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -88222,6 +88468,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sagnfigur</t>
             <xg>
                <x>áhkká, mii gulai dološ sámi cukcasiidda</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -88702,6 +88949,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">intervall</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -89099,6 +89347,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">nuppipoteansaveallaXXX</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -89470,6 +89719,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">påstand</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -90118,6 +90368,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">undervisningsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -90201,6 +90452,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">opplysningsmerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -90261,6 +90513,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">læresetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -90424,6 +90677,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">undervisningsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -90681,6 +90935,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">utsikt</t>
             <xg>
                <x>"dálu oidnosis" lea gos oaidná dálu dahje gosa oidno dállu</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -90744,6 +90999,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hovedsetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -90867,6 +91123,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hodepine</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -91117,6 +91374,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bisetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -92123,6 +92381,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">eksempel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -92464,6 +92723,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">odelslov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -93357,6 +93617,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">utfersloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -93500,6 +93761,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">friluftsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -93623,6 +93885,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">heltaktspause</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -93823,6 +94086,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">menneskerettighetsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -95183,6 +95447,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">forklusil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -95663,6 +95928,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fortegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -96039,6 +96305,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">eksempel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -96365,6 +96632,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">leterettighetsbergloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -96820,6 +97088,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">paragrafmerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -96833,6 +97102,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">parallell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -96866,6 +97136,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">parallell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -97109,6 +97380,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">patentlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -97684,6 +97956,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">jenta</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -97767,6 +98040,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pinsmerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -97900,6 +98174,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">blekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -97923,6 +98198,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">plog</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -99801,6 +100077,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">punk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -99895,6 +100172,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">park</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -99929,6 +100207,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pønk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -99937,6 +100216,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">punk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -100310,6 +100590,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">ransel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -100318,6 +100599,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">ryggsekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -100955,6 +101237,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">forstykke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -100968,6 +101251,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">indre sidestykke på en lue</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -100976,6 +101260,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">sidestykke på en pose</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -100984,6 +101269,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">øverste bord på langsiden av en sledekar</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -100992,6 +101278,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">øverste og nederste bord på langsiden av en høykarm</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -101072,6 +101359,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">tau i overkant og underkant av fiskegarn</t>
             <xg>
                <x>sáimmas leat reašmmit</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -101571,6 +101859,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">regnskapslov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -101775,6 +102064,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">relativsetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -102478,6 +102768,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">smak av å ha ligget for lenge</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -102559,6 +102850,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">rettspleieloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -102904,6 +103196,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">rettshjelpslov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -103065,6 +103358,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">reinmerke med endring</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -104297,6 +104591,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">is med tomrom under</t>
             <xg>
                <x>jiekŋa mas lea latnja vuolil</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -104462,6 +104757,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">rock-funk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -104525,6 +104821,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">suppetallerk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -104701,6 +104998,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">glidelås</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -104747,6 +105045,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">trang del av ei elv med strøm</t>
             <xg>
                <x>gokko johka lea gárži ja rávdnjái</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -105285,6 +105584,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pengesekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -105678,6 +105978,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">rotslør</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -105968,6 +106269,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">korsmerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -106228,6 +106530,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hjemland</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -106628,6 +106931,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">rutebil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -106641,6 +106945,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">rutebil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -106665,6 +106970,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">rutebil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -107662,6 +107968,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hullkrakk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -107670,6 +107977,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">krakk med hull igjennom, til å ha småbarn stående i</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -108116,6 +108424,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">reinskilling</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -108277,6 +108586,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">voksenopplæringsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -108389,6 +108699,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bek</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -108397,6 +108708,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bek til surring</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -108653,6 +108965,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">straffeloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -108778,6 +109091,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">ranke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -109226,6 +109540,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">håbrann</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -109234,6 +109549,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sildehai</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -109463,6 +109779,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stilleflytende del av ei større elv</t>
             <xg>
                <x>dakkár gaska eanus (jogas) gokko lea unnán rávdnji</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -109781,6 +110098,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">seil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -109870,6 +110188,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">celle</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -110203,6 +110522,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">seilduk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -110699,6 +111019,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">servituttlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -111200,6 +111521,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">egenlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -112007,6 +112329,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">flytteavstand</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -112015,6 +112338,7 @@ For the full license text, see the link above.</lic>
             <t pos="x">tiden mellom to flyttinger</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -112947,6 +113271,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sink</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -113525,10 +113850,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="m">skottbenk</t>
-            <xg>
-               <x>en slags høvelbenk med 2 planker som er stilt på høykant ved siden av hverandre, den ene fast og den
-               andre på flyttbar, mellom disse plankene bringes bord som skal høvles rett i kanten eller pløyes</x>
-            </xg>
+            <te>en slags høvelbenk med 2 planker som er stilt på høykant ved siden av hverandre, den ene fast og den
+            andre på flyttbar, mellom disse plankene bringes bord som skal høvles rett i kanten eller pløyes</te>
          </tg>
       </mg>
    </e>
@@ -113744,6 +114067,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skranke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -114055,6 +114379,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skoleransel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -114169,6 +114494,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">skremsel</t>
             <xg>
                <x>dološ oskku háldi</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -114331,6 +114657,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">land mellom to elver som møtes</t>
             <xg>
                <x>aláš guovtti johkanjálmmi gaskka</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -114730,6 +115057,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">småbil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -115308,6 +115636,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">krigsskadelov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -115560,6 +115889,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">plass innerst ved veggen</t>
             <xg>
                <x>siskkimusas seaidneguoras</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116088,6 +116418,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sosialtjenesteloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116379,6 +116710,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">spill</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116392,6 +116724,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kortstokk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116405,6 +116738,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">spillverk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116488,6 +116822,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">spesialisthelsetjenesteloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116531,6 +116866,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">retningsmerke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116539,6 +116875,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116686,6 +117023,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">grisebust</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116694,6 +117032,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">svinebust</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116718,6 +117057,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">svoger</t>
             <xg>
                <x>gii lea náitalan áhká oappáin</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116842,6 +117182,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">spøk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116850,6 +117191,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">moro</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -116858,6 +117200,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">vits</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117005,6 +117348,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">utemmet kastrert rein</t>
             <xg>
                <x>dámakeahtes gáskkit</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117059,6 +117403,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">spark</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117082,6 +117427,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">dreiebenk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117141,6 +117487,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skrustikke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117204,6 +117551,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stakk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117267,6 +117615,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">standardbil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117440,6 +117789,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stek</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117453,6 +117803,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -117670,6 +118021,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stikke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -118033,6 +118385,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">stohkka</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -118047,6 +118400,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">råtten trestokk</t>
             <xg>
                <x>mieska lastamuorra mas lea beassi</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -118238,6 +118592,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">stykke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -118727,6 +119082,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">simle som ikke får kalv</t>
             <xg>
                <x>áldu mii ii guotte miesi</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -119243,6 +119599,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">langhåret pesk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -119582,6 +119939,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fylkeslov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -120870,6 +121228,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sville</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -120878,6 +121237,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bjelke</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -121537,6 +121897,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">drosje</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -121545,6 +121906,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">taxi</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -121553,6 +121915,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skyssvogn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -121754,6 +122117,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">ferskvannsfiskeloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -121817,6 +122181,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">avstanden mellom de enkelte ting</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -121949,6 +122314,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">saltlov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -122139,6 +122505,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sameloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -122273,6 +122640,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">samelov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -123274,6 +123642,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">teak</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -124272,6 +124641,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tomtleieloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -124345,6 +124715,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">topplov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -124733,6 +125104,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">trekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -124986,6 +125358,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">trøkk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125019,6 +125392,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tunell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125027,6 +125401,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tunnel</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125193,6 +125568,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tak</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125201,6 +125577,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">grep</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125409,6 +125786,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">døråpning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125884,6 +126262,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">ugagn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125892,6 +126271,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">snyteri</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125900,6 +126280,7 @@ For the full license text, see the link above.</lic>
             <t pos="x">noe som er galt</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125914,6 +126295,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">plass foran døra i telt og gamme</t>
             <xg>
                <x>sadji uvssa bealde goađis</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125969,6 +126351,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">raseri</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125977,6 +126360,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">villhet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -125985,6 +126369,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">villskap</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -126063,6 +126448,7 @@ For the full license text, see the link above.</lic>
             <t pos="f">teltdør</t>
             <xg>
                <x>lávvo- ja goahteuksa</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -126284,6 +126670,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kløv</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -126292,6 +126679,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kløvsekk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -126672,6 +127060,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">blodblemme</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -127571,6 +127960,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">verk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -127757,6 +128147,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skatteloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -129818,6 +130209,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hannrein i treårsalderen</t>
             <xg>
                <x>golmma jahkásaš varis boazu</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -129864,6 +130256,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kjørepesk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -130518,6 +130911,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">åndsverksloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -131429,6 +131823,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bisetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -131602,6 +131997,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bisetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -132812,6 +133208,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skogbruksloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -132885,6 +133282,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">salgslov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -133849,6 +134247,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fosterhinne</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -134927,6 +135326,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">valglov</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -135451,6 +135851,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">fjelltopp</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -135555,6 +135956,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">dreiebenk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -135710,6 +136112,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">dreiebenk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -135930,6 +136333,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">kraftig</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -135938,6 +136342,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sterkbygget</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -136119,6 +136524,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">manns barnebarn</t>
             <xg>
                <x>dievddu mánáid mánná</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -136305,6 +136711,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">kvinnes barnebarn</t>
             <xg>
                <x>nissona mánáid mánná</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -137719,6 +138126,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">folketrygdloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -138762,6 +139170,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">ark</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -139272,6 +139681,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">leieforlegning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -139315,6 +139725,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">blokkleilighet</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -139368,6 +139779,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bobil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -140242,6 +140654,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">skylapp</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -140250,6 +140663,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">øyeklaff</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -140407,6 +140821,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">knipling</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -140415,6 +140830,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">bundet slør</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -140854,6 +141270,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pesk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -140862,6 +141279,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">tykk pesk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -140870,6 +141288,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">pesk av tykt høstskinn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -141243,6 +141662,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">tørt og hardt bein</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -141347,6 +141767,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">forlenget marg</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -141355,6 +141776,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">den forlengede marg</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -142586,6 +143008,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">nøkkelhank</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -142599,6 +143022,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">nøkkelhank</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -143549,6 +143973,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">punktsetning</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -143830,6 +144255,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">utropstegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -144234,7 +144660,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">bak</t>
             <xg>
                <x>Olbmos lea čurti.</x>
-               <x>Mennesker har čurti.</x>
+               <xt>Mennesker har čurti.</xt>
             </xg>
          </tg>
       </mg>
@@ -145071,6 +145497,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">skrifttegn</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -145427,6 +145854,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">brannbil</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -145615,6 +146043,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">planteforedlingsloven</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -145694,6 +146123,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sjakk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -145847,6 +146277,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">serk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -146053,6 +146484,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">forhandlingsmodell</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -147011,6 +147443,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">hestetagl</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -147058,6 +147491,7 @@ For the full license text, see the link above.</lic>
             <t pos="m">sjakk</t>
             <xg>
                <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
