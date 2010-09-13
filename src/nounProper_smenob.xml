@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r>
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -48,9 +48,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="ped" src="nj">
+   <e src="nj" usage="ped">
       <lg>
-         <l pos="n" illpl="ok">Stuorradiggi</l>
+         <l illpl="ok" pos="n">Stuorradiggi</l>
       </lg>
       <mg>
          <tg>
@@ -9256,7 +9256,6 @@ For the full license text, see the link above.</lic>
             <t pos="prop">Kvalbukta (Sør-Varanger)</t>
          </tg>
       </mg>
-
       <mg>
          <tg>
             <t pos="prop">Valbukta (Sør-Varanger)</t>
@@ -17637,7 +17636,7 @@ For the full license text, see the link above.</lic>
             <t pos="prop">Uerberget (Loppa)</t>
          </tg>
       </mg>
-      <mg>  
+      <mg>
          <tg>
             <t pos="prop">Uerneset (Loppa)</t>
          </tg>
@@ -31109,7 +31108,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Berg, ytre  (Storfjord)</t>
+            <t pos="prop">Berg, ytre (Storfjord)</t>
          </tg>
       </mg>
    </e>
