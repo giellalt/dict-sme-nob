@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r>
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -28,99 +28,94 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">goabbat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hver av to</t>
-        <xg>
-          <x>Sii doalahit dálá organiserema mas lea okta rektor goabbatge skuvllas.</x>
-          <xt>De fortsetter dagens organisering med en rektor på hver av de to skolene.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="pron">hver sin</t>
-        <xg>
-          <x>Dán áššis orrot hálddahus ja stivra goabbat oaivilis.</x>
-          <xt>I denne saken virker administrasjonen og styret å ha hver sin mening.</xt>
-        </xg>
-        <xg>
-          <x>De leigga oastán goabbat bohttala cola.</x>
-          <xt>Så hadde de (to) kjøpt hver sin flaske cola.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">guhtet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">enhver</t>
-        <xg>
-          <x>- Mat leat dát? jerre guhtet guoimmisteaset.</x>
-          <xt>- Hva er dette? spurte de hverandre.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="pron">hver sin</t>
-        <xg>
-          <x>De manne sii guhtet guovlluidasaset.</x>
-          <xt>Så gikk de hver sin veg.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="cc">sihke</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">både</t>
-        <xg>
-          <x>Dat lea sihke buorre ja heittot.</x>
-          <xt>Det er både bra og dårlig.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">ihkinassii</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">som helst</t>
-
-        <xg>
-          <x>mii ihkinassii</x>
-
-          <xt>hva som helst</xt>
-        </xg>
-
-        <xg>
-          <x>gos ihkinassii</x>
-
-          <xt>hvor som helst</xt>
-        </xg>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">goabbat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hver av to</t>
             <xg>
-               <x>Norggas lei buot sámi mánáin vuoigatvuohta oažžut oahpahusa sámegielas vuođđoskuvllas gos ihkinassii orro.</x>
-               <xt>I Norge hadde alle samiske barn rett til å få undervisning i samisk i grunnskolen uansett hvor de bodde.</xt>
+               <x>Sii doalahit dálá organiserema mas lea okta rektor goabbatge skuvllas.</x>
+               <xt>De fortsetter dagens organisering med en rektor på hver av de to skolene.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron">hver sin</t>
+            <xg>
+               <x>Dán áššis orrot hálddahus ja stivra goabbat oaivilis.</x>
+               <xt>I denne saken virker administrasjonen og styret å ha hver sin mening.</xt>
+            </xg>
+            <xg>
+               <x>De leigga oastán goabbat bohttala cola.</x>
+               <xt>Så hadde de (to) kjøpt hver sin flaske cola.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">guhtet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">enhver</t>
+            <xg>
+               <x>- Mat leat dát? jerre guhtet guoimmisteaset.</x>
+               <xt>- Hva er dette? spurte de hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron">hver sin</t>
+            <xg>
+               <x>De manne sii guhtet guovlluidasaset.</x>
+               <xt>Så gikk de hver sin veg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cc">sihke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">både</t>
+            <xg>
+               <x>Dat lea sihke buorre ja heittot.</x>
+               <xt>Det er både bra og dårlig.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">ihkinassii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">som helst</t>
+            <xg>
+               <x>mii ihkinassii</x>
+               <xt>hva som helst</xt>
+            </xg>
+            <xg>
+               <x>gos ihkinassii</x>
+               <xt>hvor som helst</xt>
+            </xg>
+            <xg>
+               <x>Norggas lei buot sámi mánáin vuoigatvuohta oažžut oahpahusa sámegielas vuođđoskuvllas gos ihkinassii
+               orro.</x>
+               <xt>I Norge hadde alle samiske barn rett til å få undervisning i samisk i grunnskolen uansett hvor de
+               bodde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="more">
       <lg>
          <l pos="po">duohkin</l>
@@ -141,14 +136,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="ped">
-    <lg>
-      <l pos="po">beallái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">til den siden</t>         
+   <e usage="ped">
+      <lg>
+         <l pos="po">beallái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">til den siden</t>
             <xg>
                <x>Dan maŋŋá son fárrii ovttas bearrašiinnis rájá nuppe beallái.</x>
                <xt>Etter det flyttet han/hun sammen med familien sin til andre siden av grensen.</xt>
@@ -157,17 +151,16 @@ For the full license text, see the link above.</lic>
                <x>Doivon duođai ahte dát ášši állana min beallái.</x>
                <xt>Jeg håpet virkelig at denne saken går i vår favør.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-  <e usage="ped">
-    <lg>
-      <l pos="po">beallai</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">til den siden</t>        
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped">
+      <lg>
+         <l pos="po">beallai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">til den siden</t>
             <xg>
                <x>Dan maŋŋá son fárrii ovttas bearrašiinnis rájá nuppe beallai.</x>
                <xt>Etter det flyttet han/hun sammen med familien sin til andre siden av grensen.</xt>
@@ -176,128 +169,103 @@ For the full license text, see the link above.</lic>
                <x>Doivon duođai ahte dát ášši állana min beallai.</x>
                <xt>Jeg håpet virkelig at denne saken går i vår favør.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="po">bealde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">side</t>
-
-        <xg>
-          <x>Vázzu dán bealde šaldi.</x>
-
-          <xt>La oss gå på denne sida av brua.</xt>
-        </xg>
-
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">veardde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">så mye som</t>
-
-        <xg>
-          <x>dan veardde</x>
-
-          <xt>så pass mye</xt>
-        </xg>
-
-        <xg>
-          <x>Dán sátnegirjjis leat guđđon eret muhtun veardde hárvenaš
-          suopmansánit, mat leat leamaš fárus SKES materiálas.</x>
-
-          <xt>I denne ordboka er det fjerna en del sjeldne dialektord som har
-          vært med i SKES-materialet.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">bále</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="m">varighet</t>
-
-        <xg>
-          <x>Lea dehálaš čohkket boazodoallotearpmaid, dan bále go ain
-          gávdnojit boazosámit geat máhttet dáid.</x>
-
-          <xt>Det er viktig å samle reindriftstermer mens det fremdeles fins
-          reindriftssamer som kan dem.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">han</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">vel</t>
-        <t pos="adv">jo</t>
-        <xg>
-          <x>Nu han lea.</x>
-          <xt>Slik er det jo.</xt>
-        </xg>
-        <xg>
-          <x>Finnmárku han ii lean vearromatrikulerejuvvon.</x>
-          <xt>Finnmark var jo ikke skattemetrikulert.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">gis</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">også, sannelig</t>
-
-        <xg>
-          <x>de son gis</x>
-
-          <xt>også han</xt>
-        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">bealde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">side</t>
+            <xg>
+               <x>Vázzu dán bealde šaldi.</x>
+               <xt>La oss gå på denne sida av brua.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">veardde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">så mye som</t>
+            <xg>
+               <x>dan veardde</x>
+               <xt>så pass mye</xt>
+            </xg>
+            <xg>
+               <x>Dán sátnegirjjis leat guđđon eret muhtun veardde hárvenaš suopmansánit, mat leat leamaš fárus SKES
+               materiálas.</x>
+               <xt>I denne ordboka er det fjerna en del sjeldne dialektord som har vært med i SKES-materialet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">bále</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">varighet</t>
+            <xg>
+               <x>Lea dehálaš čohkket boazodoallotearpmaid, dan bále go ain gávdnojit boazosámit geat máhttet dáid.</x>
+               <xt>Det er viktig å samle reindriftstermer mens det fremdeles fins reindriftssamer som kan dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">han</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vel</t>
+            <t pos="adv">jo</t>
+            <xg>
+               <x>Nu han lea.</x>
+               <xt>Slik er det jo.</xt>
+            </xg>
+            <xg>
+               <x>Finnmárku han ii lean vearromatrikulerejuvvon.</x>
+               <xt>Finnmark var jo ikke skattemetrikulert.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">gis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">også, sannelig</t>
+            <xg>
+               <x>de son gis</x>
+               <xt>også han</xt>
+            </xg>
             <xg>
                <x>Kárášjogas oahppit fitne maiddái duoddaris, Oslos gis besse fitnat erenoamáš turistabáikkiin.</x>
                <xt>I Karasjok var elevene også på vidda, i Oslo fikk de igjen besøke spesielle turiststeder.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">bat</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">å javel</t>
-        <xg>
-          <x>Nu bat dat lea?</x>
-          <xt>Å, er det slik det er?</xt>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">bat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">å javel</t>
+            <xg>
+               <x>Nu bat dat lea?</x>
+               <xt>Å, er det slik det er?</xt>
             </xg>
             <xg>
                <x>Gii bat dan ii hálidivčče!</x>
@@ -307,22 +275,20 @@ For the full license text, see the link above.</lic>
                <x>Gos bat Biret lea?</x>
                <xt>Hvor er så Biret?</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">ba</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">nå, på en måte</t>
-        <xg>
-          <x>Mo ba dan galgá dahkat?</x>
-          <xt>Hvordan skal man gjøre det da?</xt>
-        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">ba</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nå, på en måte</t>
+            <xg>
+               <x>Mo ba dan galgá dahkat?</x>
+               <xt>Hvordan skal man gjøre det da?</xt>
+            </xg>
             <xg>
                <x>Ii ge gillen suinna ba hállat ge šat.</x>
                <xt>Og da giddet han ikke engang å snakke mer med henne.</xt>
@@ -331,433 +297,364 @@ For the full license text, see the link above.</lic>
                <x>Vuoi stáhkkár Niillas, leatgo ba oađđitge sáhttán? jearrá son.</x>
                <xt>Voi, stakkar Niillas, har du kunnet sove i det hele tatt? spør han.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">almma</l>
-
-      <lc>amma</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">ikke sant</t>
-
-        <xg>
-          <x>Almma muittát dan?</x>
-
-          <xt>Du husker det, ikke sant?</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">uten</t>
-
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">almma</l>
+         <lc>amma</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke sant</t>
+            <xg>
+               <x>Almma muittát dan?</x>
+               <xt>Du husker det, ikke sant?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">uten</t>
             <xg>
                <x>Ja dat oainnat ii sáhte doaibmat almma dakkár meahcceguovllu haga.</x>
                <xt>Og den kan nemlig ikke fungere uten et slikt utmarksområde.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">aitto</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">mon tro</t>
-
-        <xg>
-          <x>Mo dal aitto geavvá?</x>
-
-          <xt>Hvordan går det, mon tro?</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">nettopp</t>
-
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">aitto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">mon tro</t>
+            <xg>
+               <x>Mo dal aitto geavvá?</x>
+               <xt>Hvordan går det, mon tro?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">nettopp</t>
             <xg>
                <x>Lean aitto doaibmagoahtán hárjeheaddjin, ja in leat vuos nu čeahppi.</x>
                <xt>Jeg har akkurat begynt å fungere som trener, og er ikke så flink enda.</xt>
             </xg>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="i">dearvva</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="i">en hilsen</t>
-
-        <xg>
-          <x>"bures" go dearvvaha</x>
-          <xt>XXX</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="cc">dahege</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="cc">dahe</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="cc">dahjege</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cc">dahje</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-
-        <xg>
-          <x>Buohkat ledje gávdnan biktasiid dahje eará dávviriid máid háliidedje oastit.</x>
-
-          <xt>Alle hadde funnet klær eller andre ting som de ville kjøpe.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="cc">dehege</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="cc">dehe</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="cc">elege</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="cc">ele</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cc">ja</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">og</t>
-        <xg>
-          <x>Dat lea sihke buorre ja heittot.</x>
-
-          <xt>Det er både bra og dårlig.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cc">muhto</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cc">men</t>
-        <xg>
-          <x>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</x>
-          <xt>Jeg kan godt hjelpe deg, men i dag har jeg ikke tid.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cc">vai</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cc">eller</t>
-        <xg>
-          <x>Leat go don dat guhte galgá boahtit, vai galgat go mii vuordit
-          muhtun eará?</x>
-          <xt>Er du den som skal komme, eller skal vi vente på en annen?</xt>
-        </xg>
-        <xg>
-          <x>Siđat go gáfe vai deaja?</x>
-          <xt>Vil du ha kaffe eller te?</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cs">vai</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="xxx">for at</t>
-        <t pos="xxx">for å</t>
-        <xg>
-          <x>Ferten árrat nohkkat vai veaddján iđđes.</x>
-          <xt>Jeg må legge meg tidlig slik at jeg klarer å stå opp om morgenen.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cs">ahte</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cs">at</t>
-
-        <xg>
-          <x>Lea hui mávssolaš ahte sin dárbbut váldojit vuhtii.</x>
-          <xt>Det er svært viktig at deres behov blir ivaretatt.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cs">de</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cs">så</t>
-       <xg>
-          <x>Go bárdni bođii dállui, de son lei áibbas galmmas.</x>
-          <xt>Da sønnen kom til gards, var han helt kald.</xt>
-        </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="cs">ja</t>
-
-        <xg>
-          <x>Jugatgo káfe? De jugan.</x>
-
-          <xt>Drikker du kaffe? Ja, takk.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="i">dearvva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="i">en hilsen</t>
+            <xg>
+               <x>"bures" go dearvvaha</x>
+               <xt>XXX</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dahege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dahe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dahjege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cc">dahje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+            <xg>
+               <x>Buohkat ledje gávdnan biktasiid dahje eará dávviriid máid háliidedje oastit.</x>
+               <xt>Alle hadde funnet klær eller andre ting som de ville kjøpe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dehege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dehe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">elege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">ele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cc">ja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">og</t>
+            <xg>
+               <x>Dat lea sihke buorre ja heittot.</x>
+               <xt>Det er både bra og dårlig.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cc">muhto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">men</t>
+            <xg>
+               <x>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</x>
+               <xt>Jeg kan godt hjelpe deg, men i dag har jeg ikke tid.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cc">vai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">eller</t>
+            <xg>
+               <x>Leat go don dat guhte galgá boahtit, vai galgat go mii vuordit muhtun eará?</x>
+               <xt>Er du den som skal komme, eller skal vi vente på en annen?</xt>
+            </xg>
+            <xg>
+               <x>Siđat go gáfe vai deaja?</x>
+               <xt>Vil du ha kaffe eller te?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cs">vai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">for at</t>
+            <t pos="xxx">for å</t>
+            <xg>
+               <x>Ferten árrat nohkkat vai veaddján iđđes.</x>
+               <xt>Jeg må legge meg tidlig slik at jeg klarer å stå opp om morgenen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cs">ahte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">at</t>
+            <xg>
+               <x>Lea hui mávssolaš ahte sin dárbbut váldojit vuhtii.</x>
+               <xt>Det er svært viktig at deres behov blir ivaretatt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cs">de</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">så</t>
+            <xg>
+               <x>Go bárdni bođii dállui, de son lei áibbas galmmas.</x>
+               <xt>Da sønnen kom til gards, var han helt kald.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="cs">ja</t>
+            <xg>
+               <x>Jugatgo káfe? De jugan.</x>
+               <xt>Drikker du kaffe? Ja, takk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="ped">
-    <lg>
-      <l pos="cs">jus</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cs">hvis</t>
-        <xg>
-          <x>Jus ihttin lea buolaš, de eat vuolgge čuoigat.</x>
-          <xt>Hvis det er kaldt i morgen, går vi ikke på ski.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="ped">
-    <lg>
-      <l pos="cs">nugo</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cs">slik som</t>
-
-        <t pos="cs">som</t>
-        <xg>
-          <x>Daga nugo mun.</x>
-          <xt>Gjør som jeg.</xt>
-        </xg>
-        <xg>
-          <x>Nugo?</x>
-          <xt>Sier du det?</xt>
-        </xg>
+      <lg>
+         <l pos="cs">jus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">hvis</t>
+            <xg>
+               <x>Jus ihttin lea buolaš, de eat vuolgge čuoigat.</x>
+               <xt>Hvis det er kaldt i morgen, går vi ikke på ski.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped">
+      <lg>
+         <l pos="cs">nugo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">slik som</t>
+            <t pos="cs">som</t>
+            <xg>
+               <x>Daga nugo mun.</x>
+               <xt>Gjør som jeg.</xt>
+            </xg>
+            <xg>
+               <x>Nugo?</x>
+               <xt>Sier du det?</xt>
+            </xg>
             <xg>
                <x>Dán áigasaš ođasmuitaleaddjit eai máhte ságaidge muitalit nugo dolin lávejedje.</x>
-               <xt>Dagens nyhetsformidlere kan ikke fortelle nyheter engang slik som de pleide å gjøre i gamle dager.</xt>
+               <xt>Dagens nyhetsformidlere kan ikke fortelle nyheter engang slik som de pleide å gjøre i gamle
+               dager.</xt>
             </xg>
             <xg>
                <x>Jieŋa alde ledje maid smávva suohtastallamat, nugo gámabálkesteapmi.</x>
                <xt>På isen var det også små underholdningsinnslag, slik som skallekasting.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cs">dego</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cs">akkurat som</t>
-
-        <t pos="cs">liksom</t>
-        <xg>
-          <x>Don borat dego spiidni.</x>
-
-          <xt>Du spiser som en gris.</xt>
-        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cs">dego</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">akkurat som</t>
+            <t pos="cs">liksom</t>
+            <xg>
+               <x>Don borat dego spiidni.</x>
+               <xt>Du spiser som en gris.</xt>
+            </xg>
             <xg>
                <x>Mii lea jorbbas dego spábba ja guhkki dego girkoseaidni?</x>
                <xt>Hva er rund som en ball og lang som en kirkevegg?</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cs">jos</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cs">dersom</t>
-
-        <t pos="cs">hvis</t>
-        <xg>
-          <x>Jos ihttin lea buolaš, de eat vuolgge čuoigat.</x>
-
-          <xt>Hvis det er kaldt i morgen, går vi ikke på ski.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cs">vaikko</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="cs">om så</t>
-        
-        <t pos="cs">selv om</t>
-        <xg>
-          <x>Don gal borat vaikko man ollu.</x>
-
-          <xt>Du spiser om så hvor mye.</xt>
-        </xg>
-        <xg>
-          <x>Mun veahkehan du, vaikko it dárbbaš ge veahki.</x>
-
-          <xt>Jeg hjelper deg, selv om du ikke trenger hjelp.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="i">gea</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">se</t>
-        <xg>
-          <x>Gea, beana skierbmu!</x>
-
-          <xt>Se, hunden halter!</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cs">jos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">dersom</t>
+            <t pos="cs">hvis</t>
+            <xg>
+               <x>Jos ihttin lea buolaš, de eat vuolgge čuoigat.</x>
+               <xt>Hvis det er kaldt i morgen, går vi ikke på ski.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cs">vaikko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">om så</t>
+            <t pos="cs">selv om</t>
+            <xg>
+               <x>Don gal borat vaikko man ollu.</x>
+               <xt>Du spiser om så hvor mye.</xt>
+            </xg>
+            <xg>
+               <x>Mun veahkehan du, vaikko it dárbbaš ge veahki.</x>
+               <xt>Jeg hjelper deg, selv om du ikke trenger hjelp.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="i">gea</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">se</t>
+            <xg>
+               <x>Gea, beana skierbmu!</x>
+               <xt>Se, hunden halter!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="more">
       <lg>
-      <l context="gápmagat" pos="num">miljon</l>
+         <l context="gápmagat" pos="num">miljon</l>
       </lg>
       <mg>
          <tg>
@@ -767,7 +664,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="more">
       <lg>
-      <l context="gápmagat" pos="num">miljárda</l>
+         <l context="gápmagat" pos="num">miljárda</l>
       </lg>
       <mg>
          <tg>
@@ -775,999 +672,854 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">duhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">tusen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">gákci</l>
-
-      <lc>gávcci</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">åtte</t>
-
-        <xg>
-          <x>gákcilogi</x>
-
-          <xt>80</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">galle</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">hvor mange</t>
-        <xg>
-          <x>Galle máná dus leat?</x>
-
-          <xt>Hvor mange barn har du?</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">så mange</t>
-
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">duhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">tusen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">gákci</l>
+         <lc>gávcci</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">åtte</t>
+            <xg>
+               <x>gákcilogi</x>
+               <xt>80</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">galle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">hvor mange</t>
+            <xg>
+               <x>Galle máná dus leat?</x>
+               <xt>Hvor mange barn har du?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">så mange</t>
             <xg>
                <x>Gilážis eai oro nu galle olbmo.</x>
                <xt>I grenda bor det ikke så mange mennesker.</xt>
             </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="x">nok</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">nok</t>
             <xg>
                <x>Ja ii ge das galle - rámbuvrris lea maid erenoamáš fálaldat buot kunddariidda.</x>
                <xt>Og ikke nok med det - i butikken er det også et spesielt tilbud til alle kundene.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">gávcci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">åtte</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">golbma</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">tre</t>
-
-        <xg>
-          <x>Muhto dál leat juo vássán golbma beaivvi dan rájes go dát
-          dáhpáhuvai.</x>
-
-          <xt>Men det har allerede gått tre dager siden den skjedde.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">guhtta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">seks</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">guokte</l>
-
-      <lc>guovtti</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">to</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">logi</l>
-
-      <lc>logit</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">ti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">máŋga</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">mange</t>
-        <xg>
-          <x>Doppe ledje máŋga ealgga.</x>
-         <xt>Der var det mange elger.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">moadde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="n">par</t>
-
-        <t pos="x">noen få</t>
-        <xg>
-          <x>Bivden su vuordit moadde beaivvi.</x>
-          <xt>Jeg ba henne vente et par dager.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">njeallje</l>
-
-      <lc>njealji, njeljiin</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">fire</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">nuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">elleve</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="num">elleve</t>
-        <t pos="num">tolv-tretten</t>
-        <xg>
-          <x>Álttás ledje nuppelohkai sisagaikuma mannan vahkkoloahpa.</x>
-          <xt>I Alta var det tolv-tretten innbrudd sist helg.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">okta</l>
-
-      <lc>ovtta</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="m">en</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">ovcci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">ni</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">vihtta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">fem</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">okci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">ni</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l context="gápmagat" pos="num">okciloge</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">nitti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l context="gápmagat" pos="num">ovccilogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">nitti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">čieža</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">sju</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l context="gápmagat" pos="num">čiehčalogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">sytti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">ge</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">heller</t>
-        <t pos="adv">engang</t>
-        <xg>
-          <x>In nagodan gozihit smávva beaivválaš áššiid ge.</x>
-          <xt>Jeg klarte ikke å ta meg av de små daglige tingene engang.</xt>
-        </xg>
-        <xg>
-          <x>Ii ge leat duohta.</x>
-          <xt>Det er heller ikke sant.</xt>         
-          </xg>
-        <xg>
-          <x>Eat soaitte oba oažžut ge áirasa Sámediggái.</x>
-          <xt>Vi får kanskje ikke engang en representant til sametinget.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="x">også</t>
-        <xg>
-          <x>Danin lea ge mu mielas nu ártet.</x>
-          <xt>Derfor synes jeg også at det er så rart.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">go</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">spørrepartikkel</t>
-        <xg>
-          <x>Boađát go deike?</x>
-          <xt>Kommer du hit?</xt>
-        </xg>
-        <xg>
-          <x>Dat dušše bođii jearrat áiggun go dánset.</x>
-          <xt>Hun bare kom og spurte om jeg ville danse.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="cs">go</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cs">når</t>
-        <xg>
-          <x>Maid dál ges galgá dahkat, go ii leat hivssetbábir?</x>
-          <xt>Hva skal man så gjøre, når det ikke er dopapir?</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="cs">enn</t>
-        <xg>
-          <x>Ánte lea gievrrat go Elle.</x>
-          <xt>Ánte er sterkere enn Elle.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="cs">som</t>
-        <xg>
-          <x>Sidjiide lea sámegiella amas giella, maid fertejit oahppagoahtit seammaláhkái go eará amas gielaid.</x>
-          <xt>For dem er samisk et fremmedspråk, som de må begynne å lære på samme måte som andre fremmedspråk.</xt>
-        </xg>
-         <xg>
-          <x>Váldde dakkára, go áiggut.</x>
-          <xt>Ta en slik som du vil ha.</xt>
-        </xg>
-     </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pcle">goit</l>
-      <lc>goittot</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">i alle fall</t>
-        <xg>
-          <x>Máret goit boahtá.</x>
-          <xt>Marit kommer i alle fall.</xt>
-        </xg>
-     </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pcle">goitge</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">likevel</t>
-        <xg>
-          <x>Vaikko liikojit biergogáhkuide, de goitge daidda dolket.</x>
-          <xt>Selv om de liker kjøttkaker, så blir de likevel lei av dem.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">nai</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">også</t>
-        <xg>
-          <x>Máret nai boahtá.</x>
-          <xt>Marit kommer også.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">vuolábealde</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="p">nedenfor</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">bajábealde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">over</t>
-
-        <t pos="p">ovenfor</t>
-
-        <xg>
-          <x>Min viessu lea luotta bajábealde.</x>
-          <xt>Huset vårt står ovenfor veien.</xt>
-        </xg>
-        <xg>
-          <x>Dássážii lea leamaš hui unnán luossabivdu bajábealde goržži.</x>
-          <xt>Til nå har det vært svært lite laksefiske ovenfor fossen.</xt>
-        </xg>
-        <xg>
-          <x>Dasto sáhttet sápmelaččain leat leamen sierra vuoigatvuođat bajábealde namuhuvvon prinsihpaid vuođul.</x>
-          <xt>Dermed kan samene ha separate rettigheter på grunnlag av prinsippene som er nevnt ovenfor.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="ped">
-    <lg>
-      <l pos="po">gaskkas</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">mellom</t>
-
-        <xg>
-          <x>Guhtura ja Avvila gaskkas leat 30 guoikasaji.</x>
-          <xt>Det er 30 fossestryk mellom Guhtur og Ivalo.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">ala</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">på</t>
-
-        <t pos="p">oppå</t>
-
-        <xg>
-          <x>Bija dan beavddi ala!</x>
-
-          <xt>Sett den på bordet!</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  
-  <e src="nj">
-    <lg>
-      <l pos="po">nala</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">på</t>
-
-        <t pos="p">oppå</t>
-
-        <xg>
-          <x>Bija dan beavddi nala!</x>
-
-          <xt>Sett den på bordet!</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e src="nj">
-    <lg>
-      <l pos="po">bokte</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">via</t>
-
-        <xg>
-          <x>EU-doarjja Interreg bokte sáhttá mannat dakkár prošeavttaide.</x>
-          <xt>EU-støtte via Interreg kan gå til slike prosjekter.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="p">ved (med)</t>
-        <xg>
-          <x>Finnmárkus leat ássan dušše sápmelaččat, geat giela ja kultuvrra bokte ovddastit čearddalaš unnitlogu Norggas.</x>
-          <xt>I Finnmark har det bodd bare samer, som ved (med) språk og kultur danner et nasjonalt mindretall i Norge.</xt>
-        </xg>
-        <xg>
-          <x>Dakko bokte lea sestojuvvon ollu ruhta.</x>
-          <xt>Med dette er det spart mye penger.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">dihtii</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">for</t>
-         <xg>
-          <x>Olbmot šaddet dál vuodjit olles beaivvi viežžan dihtii bensiinna.</x>
-          <xt>Folk blir nå å kjøre hele dagen for å hente bensin.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="p">på grunn av</t>
-         <xg>
-          <x>Dien mearrádusa dihtii ánssáša ovdagoddi rámi.</x>
-          <xt>På grunn av det vedtaket fortjener formannskapet ros.</xt>
-        </xg>
-     </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="po">dihte</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">for</t>
-        <xg>
-          <x>Mun dál boađán du lusa čállin dihte dan reivve.</x>
-          <xt>Jeg kommer her til deg for å skrive det brevet.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="p">på grunn av</t>
-        <xg>
-          <x>Dan dihte fertejit ráhkadit oktasaš listtu Sámediggeválgii.</x>
-          <xt>På grunn av dette må de lage en felles liste til Sametingsvalget.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">ektui</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">for</t>
-
-        <xg>
-          <x>Vuosttaš logi minuvtta lei buorre áigodat Nordlysa ektui.</x>
-          <xt>De første ti minuttene var en god periode sett fra Nordlys sitt
-          synspunkt.</xt>
-        </xg>
-      </tg>
-
-      <tg>
-        <t pos="p">sammenlignet med</t>
-        <xg>
-          <x>Dat golut leat govttolaččat veahki ektui.</x>
-          <xt>Kostnadene er gunstige sammenlignet med nytten.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">rádjai</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">til</t>
-
-        <xg>
-          <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjai.</x>
-          <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
-        </xg>
-        <xg>
-          <x>Prošeaktaruhtadeapmi bistá 2001 rádjai, ja dan maŋŋá doaivumis rievdaduvvo bissovažžan.</x>
-          <xt>Prosjektfinansieringa varer til 2001, og deretter endres det forhåpentligvis til å bli fast finansiering.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">rádjái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">til</t>
-
-        <xg>
-          <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjái.</x>
-          <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
-        </xg>
-        <xg>
-          <x>Prošeaktaruhtadeapmi bistá 2001 rádjái, ja dan maŋŋá doaivumis rievdaduvvo bissovažžan.</x>
-          <xt>Prosjektfinansieringa varer til 2001, og deretter endres det forhåpentligvis til å bli fast finansiering.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="po">rájes</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">fra</t>
-
-        <xg>
-          <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjái.</x>
-          <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e>
-    <lg>
-      <l pos="po">sisa</l>
-    </lg>
-    <mg>
-      <tg>
-        <re>om overgang</re>
-
-        <t pos="p">inn i</t>
-        <xg>
-          <x>Plána sisa galget guovllu golbma álgoálbmoga.</x>
-          <xt>Inn i planen skal orådets tre urfolk.</xt>
-        </xg>
-
-        <xg>
-          <x>Mielki suvrrui spánnja sisa.</x>
-          <xt>Melka ble sur i spannet.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="po">sisa</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">inn i</t>
-
-        <xg>
-          <x>Son bidjalii reivve girjji sisa.</x>
-          <xt>Hun stakk brevet inn i boka.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="ped">
-    <lg>
-      <l pos="po">vuođul</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">på grunnlag av</t>
-
-        <xg>
-          <x>Dán materiála vuođul lea váttis mearridit.</x>
-          <xt>Det er vanskelig å gjøre vedtak på grunnlag av dette materialet.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">alde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">på</t>
-
-        <xg>
-          <x>Lunttat ledje stoahkame skohteriin eanu alde.</x>
-          <xt>Guttene holdt på å leke med skuter på elva.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-<e src="nj">
-    <lg>
-      <l pos="po">nalde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">på</t>
-
-        <xg>
-          <x>Lunttat ledje stoahkame skohteriin eanu nalde.</x>
-          <xt>Guttene holdt på å leke med skuter på elva.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">báldda</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">ved siden av</t>
-
-        <xg>
-          <x>Máze skuvlla báldda golggai ája.</x>
-
-          <xt>Ved siden av Máze skole rant en bekk.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  
-  <e src="nj">
-    <lg>
-      <l pos="po">bálddas</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">ved siden av</t>
-
-        <xg>
-          <x>Mánná oađđá eatni bálddas.</x>
-
-          <xt>Barnet sover ved siden av mora.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-
-<e src="nj">
-    <lg>
-      <l pos="po">báldii</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">ved siden av</t>
-        <xg>
-          <x>Vellet mu báldii!</x>
-
-          <xt>Legg deg ned ved siden av meg!</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e src="nj">
-    <lg>
-      <l pos="po">birra</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">om</t>
-
-        <xg>
-          <x>Mii dárbbašit dieđuid geavaheddjiid giela ja kultuvrra birra.</x>
-          <xt>Vi trenger informasjon om brukernes språk og kultur.</xt>
-        </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="p">rundt</t>
-        <xg>
-          <x>Sus lei vierru čuoigat birra ealu.</x>
-          <xt>Han hadde som vane å gå på ski rundt flokken.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">buohta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">overfor</t>
-
-        <xg>
-          <x>Stuora luottaid buohta leat unna luottažat. </x>
-          <xt>Overfor de store sporene var det små spor.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">čađa</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">gjennom</t>
-
-        <xg>
-          <x>Vázzen gili čađa.</x>
-
-          <xt>Jeg gikk gjennom bygda.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">fárrui</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">med</t>
-
-        <xg>
-          <x>Vuolgge min fárrui!</x>
-          <xt>Bli med oss!</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">fárus</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">med</t>
-
-        <xg>
-          <x>Son lea min fárus.</x>
-          <xt>Han/hun er med oss.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">gaskal</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">mellom</t>
-        <xg>
-          <x>Mus lea oahpahus gaskkal guovtti ja njealji.</x>
-          <xt>Jeg har undervisning mellom to og fire.</xt>
-        </xg>
-
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">gaskka</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">mellom</t>
-        <xg>
-          <x>Jođán ollu Àlaheaju ja Romssa gaskka.</x>
-          <xt>Jeg reiser mye mellom Alta og Tromsø.</xt>
-        </xg>
-
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">gasku</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">midt i</t>
-
-        <t pos="p">på</t>
-
-        <t pos="p">mellom</t>
-        <xg>
-          <x>Telefuvdna riŋgii gasku čoahkkima.</x>
-          <xt>Telefonen ringte midt under møtet.</xt>
-        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">gávcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">åtte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">golbma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">tre</t>
+            <xg>
+               <x>Muhto dál leat juo vássán golbma beaivvi dan rájes go dát dáhpáhuvai.</x>
+               <xt>Men det har allerede gått tre dager siden den skjedde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">guhtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">seks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">guokte</l>
+         <lc>guovtti</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">to</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">logi</l>
+         <lc>logit</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">ti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">máŋga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">mange</t>
+            <xg>
+               <x>Doppe ledje máŋga ealgga.</x>
+               <xt>Der var det mange elger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">moadde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">par</t>
+            <t pos="x">noen få</t>
+            <xg>
+               <x>Bivden su vuordit moadde beaivvi.</x>
+               <xt>Jeg ba henne vente et par dager.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">njeallje</l>
+         <lc>njealji, njeljiin</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">fire</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">nuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">elleve</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="num">elleve</t>
+            <t pos="num">tolv-tretten</t>
+            <xg>
+               <x>Álttás ledje nuppelohkai sisagaikuma mannan vahkkoloahpa.</x>
+               <xt>I Alta var det tolv-tretten innbrudd sist helg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">okta</l>
+         <lc>ovtta</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">en</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">ovcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">ni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">vihtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">fem</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">okci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">ni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="gápmagat" pos="num">okciloge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">nitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="gápmagat" pos="num">ovccilogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">nitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">čieža</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">sju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="gápmagat" pos="num">čiehčalogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">sytti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">ge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">heller</t>
+            <t pos="adv">engang</t>
+            <xg>
+               <x>In nagodan gozihit smávva beaivválaš áššiid ge.</x>
+               <xt>Jeg klarte ikke å ta meg av de små daglige tingene engang.</xt>
+            </xg>
+            <xg>
+               <x>Ii ge leat duohta.</x>
+               <xt>Det er heller ikke sant.</xt>
+            </xg>
+            <xg>
+               <x>Eat soaitte oba oažžut ge áirasa Sámediggái.</x>
+               <xt>Vi får kanskje ikke engang en representant til sametinget.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">også</t>
+            <xg>
+               <x>Danin lea ge mu mielas nu ártet.</x>
+               <xt>Derfor synes jeg også at det er så rart.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">go</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">spørrepartikkel</t>
+            <xg>
+               <x>Boađát go deike?</x>
+               <xt>Kommer du hit?</xt>
+            </xg>
+            <xg>
+               <x>Dat dušše bođii jearrat áiggun go dánset.</x>
+               <xt>Hun bare kom og spurte om jeg ville danse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="cs">go</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">når</t>
+            <xg>
+               <x>Maid dál ges galgá dahkat, go ii leat hivssetbábir?</x>
+               <xt>Hva skal man så gjøre, når det ikke er dopapir?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="cs">enn</t>
+            <xg>
+               <x>Ánte lea gievrrat go Elle.</x>
+               <xt>Ánte er sterkere enn Elle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="cs">som</t>
+            <xg>
+               <x>Sidjiide lea sámegiella amas giella, maid fertejit oahppagoahtit seammaláhkái go eará amas
+               gielaid.</x>
+               <xt>For dem er samisk et fremmedspråk, som de må begynne å lære på samme måte som andre
+               fremmedspråk.</xt>
+            </xg>
+            <xg>
+               <x>Váldde dakkára, go áiggut.</x>
+               <xt>Ta en slik som du vil ha.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">goit</l>
+         <lc>goittot</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">i alle fall</t>
+            <xg>
+               <x>Máret goit boahtá.</x>
+               <xt>Marit kommer i alle fall.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">goitge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">likevel</t>
+            <xg>
+               <x>Vaikko liikojit biergogáhkuide, de goitge daidda dolket.</x>
+               <xt>Selv om de liker kjøttkaker, så blir de likevel lei av dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">nai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">også</t>
+            <xg>
+               <x>Máret nai boahtá.</x>
+               <xt>Marit kommer også.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">vuolábealde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">nedenfor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">bajábealde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">over</t>
+            <t pos="p">ovenfor</t>
+            <xg>
+               <x>Min viessu lea luotta bajábealde.</x>
+               <xt>Huset vårt står ovenfor veien.</xt>
+            </xg>
+            <xg>
+               <x>Dássážii lea leamaš hui unnán luossabivdu bajábealde goržži.</x>
+               <xt>Til nå har det vært svært lite laksefiske ovenfor fossen.</xt>
+            </xg>
+            <xg>
+               <x>Dasto sáhttet sápmelaččain leat leamen sierra vuoigatvuođat bajábealde namuhuvvon prinsihpaid
+               vuođul.</x>
+               <xt>Dermed kan samene ha separate rettigheter på grunnlag av prinsippene som er nevnt ovenfor.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped">
+      <lg>
+         <l pos="po">gaskkas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">mellom</t>
+            <xg>
+               <x>Guhtura ja Avvila gaskkas leat 30 guoikasaji.</x>
+               <xt>Det er 30 fossestryk mellom Guhtur og Ivalo.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">ala</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">på</t>
+            <t pos="p">oppå</t>
+            <xg>
+               <x>Bija dan beavddi ala!</x>
+               <xt>Sett den på bordet!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">nala</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">på</t>
+            <t pos="p">oppå</t>
+            <xg>
+               <x>Bija dan beavddi nala!</x>
+               <xt>Sett den på bordet!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">bokte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">via</t>
+            <xg>
+               <x>EU-doarjja Interreg bokte sáhttá mannat dakkár prošeavttaide.</x>
+               <xt>EU-støtte via Interreg kan gå til slike prosjekter.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="p">ved (med)</t>
+            <xg>
+               <x>Finnmárkus leat ássan dušše sápmelaččat, geat giela ja kultuvrra bokte ovddastit čearddalaš unnitlogu
+               Norggas.</x>
+               <xt>I Finnmark har det bodd bare samer, som ved (med) språk og kultur danner et nasjonalt mindretall i
+               Norge.</xt>
+            </xg>
+            <xg>
+               <x>Dakko bokte lea sestojuvvon ollu ruhta.</x>
+               <xt>Med dette er det spart mye penger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">dihtii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">for</t>
+            <xg>
+               <x>Olbmot šaddet dál vuodjit olles beaivvi viežžan dihtii bensiinna.</x>
+               <xt>Folk blir nå å kjøre hele dagen for å hente bensin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="p">på grunn av</t>
+            <xg>
+               <x>Dien mearrádusa dihtii ánssáša ovdagoddi rámi.</x>
+               <xt>På grunn av det vedtaket fortjener formannskapet ros.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">dihte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">for</t>
+            <xg>
+               <x>Mun dál boađán du lusa čállin dihte dan reivve.</x>
+               <xt>Jeg kommer her til deg for å skrive det brevet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="p">på grunn av</t>
+            <xg>
+               <x>Dan dihte fertejit ráhkadit oktasaš listtu Sámediggeválgii.</x>
+               <xt>På grunn av dette må de lage en felles liste til Sametingsvalget.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">ektui</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">for</t>
+            <xg>
+               <x>Vuosttaš logi minuvtta lei buorre áigodat Nordlysa ektui.</x>
+               <xt>De første ti minuttene var en god periode sett fra Nordlys sitt synspunkt.</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="p">sammenlignet med</t>
+            <xg>
+               <x>Dat golut leat govttolaččat veahki ektui.</x>
+               <xt>Kostnadene er gunstige sammenlignet med nytten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">rádjai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">til</t>
+            <xg>
+               <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjai.</x>
+               <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
+            </xg>
+            <xg>
+               <x>Prošeaktaruhtadeapmi bistá 2001 rádjai, ja dan maŋŋá doaivumis rievdaduvvo bissovažžan.</x>
+               <xt>Prosjektfinansieringa varer til 2001, og deretter endres det forhåpentligvis til å bli fast
+               finansiering.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">rádjái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">til</t>
+            <xg>
+               <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjái.</x>
+               <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
+            </xg>
+            <xg>
+               <x>Prošeaktaruhtadeapmi bistá 2001 rádjái, ja dan maŋŋá doaivumis rievdaduvvo bissovažžan.</x>
+               <xt>Prosjektfinansieringa varer til 2001, og deretter endres det forhåpentligvis til å bli fast
+               finansiering.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">rájes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">fra</t>
+            <xg>
+               <x>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjái.</x>
+               <xt>Det er 40 slektledd fra David til Babylons fangenskap.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="po">sisa</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>om overgang</re>
+            <t pos="p">inn i</t>
+            <xg>
+               <x>Plána sisa galget guovllu golbma álgoálbmoga.</x>
+               <xt>Inn i planen skal orådets tre urfolk.</xt>
+            </xg>
+            <xg>
+               <x>Mielki suvrrui spánnja sisa.</x>
+               <xt>Melka ble sur i spannet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">sisa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">inn i</t>
+            <xg>
+               <x>Son bidjalii reivve girjji sisa.</x>
+               <xt>Hun stakk brevet inn i boka.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped">
+      <lg>
+         <l pos="po">vuođul</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">på grunnlag av</t>
+            <xg>
+               <x>Dán materiála vuođul lea váttis mearridit.</x>
+               <xt>Det er vanskelig å gjøre vedtak på grunnlag av dette materialet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">alde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">på</t>
+            <xg>
+               <x>Lunttat ledje stoahkame skohteriin eanu alde.</x>
+               <xt>Guttene holdt på å leke med skuter på elva.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">nalde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">på</t>
+            <xg>
+               <x>Lunttat ledje stoahkame skohteriin eanu nalde.</x>
+               <xt>Guttene holdt på å leke med skuter på elva.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">báldda</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ved siden av</t>
+            <xg>
+               <x>Máze skuvlla báldda golggai ája.</x>
+               <xt>Ved siden av Máze skole rant en bekk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">bálddas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ved siden av</t>
+            <xg>
+               <x>Mánná oađđá eatni bálddas.</x>
+               <xt>Barnet sover ved siden av mora.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">báldii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ved siden av</t>
+            <xg>
+               <x>Vellet mu báldii!</x>
+               <xt>Legg deg ned ved siden av meg!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">birra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">om</t>
+            <xg>
+               <x>Mii dárbbašit dieđuid geavaheddjiid giela ja kultuvrra birra.</x>
+               <xt>Vi trenger informasjon om brukernes språk og kultur.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="p">rundt</t>
+            <xg>
+               <x>Sus lei vierru čuoigat birra ealu.</x>
+               <xt>Han hadde som vane å gå på ski rundt flokken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">buohta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">overfor</t>
+            <xg>
+               <x>Stuora luottaid buohta leat unna luottažat.</x>
+               <xt>Overfor de store sporene var det små spor.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">čađa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">gjennom</t>
+            <xg>
+               <x>Vázzen gili čađa.</x>
+               <xt>Jeg gikk gjennom bygda.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">fárrui</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">med</t>
+            <xg>
+               <x>Vuolgge min fárrui!</x>
+               <xt>Bli med oss!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">fárus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">med</t>
+            <xg>
+               <x>Son lea min fárus.</x>
+               <xt>Han/hun er med oss.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">gaskal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">mellom</t>
+            <xg>
+               <x>Mus lea oahpahus gaskkal guovtti ja njealji.</x>
+               <xt>Jeg har undervisning mellom to og fire.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">gaskka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">mellom</t>
+            <xg>
+               <x>Jođán ollu Àlaheaju ja Romssa gaskka.</x>
+               <xt>Jeg reiser mye mellom Alta og Tromsø.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">gasku</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">midt i</t>
+            <t pos="p">på</t>
+            <t pos="p">mellom</t>
+            <xg>
+               <x>Telefuvdna riŋgii gasku čoahkkima.</x>
+               <xt>Telefonen ringte midt under møtet.</xt>
+            </xg>
             <xg>
                <x>Son málii dan fiskes sázu mii manná gasku luotta.</x>
                <xt>Han/hun malte den gule stripa som går midt på vegen.</xt>
@@ -1776,90 +1528,80 @@ For the full license text, see the link above.</lic>
                <x>Doaivumis lea Nordlys gasku tabealla go čiekčamat loahpahuvvojit čakčat.</x>
                <xt>Forhåpentligvis er Nordlys midt på tabellen når serien avsluttes på høsten.</xt>
             </xg>
-
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pcle">na</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">nå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pcle">na</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">nå</t>
             <xg>
                <x>Almmuhuvvo go girji sámegillii, na dan ii dieđe oktage.</x>
                <xt>Publiseres boka på samisk, nei, det vet ingen.</xt>
             </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">slik</t>
-
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">slik</t>
             <xg>
                <x>Muhto eat doaivvo guhká gal vejolažžan na dahkat, leaš go šat vejolaš obanassiige.</x>
-               <xt>Men vi trur ikke ahte det er mulig å gjøre det slik lenge, om det er mulig i det hele tatt lenger.</xt>
+               <xt>Men vi trur ikke ahte det er mulig å gjøre det slik lenge, om det er mulig i det hele tatt
+               lenger.</xt>
             </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="x">ja</t>
-
-        <t pos="x">jo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">ja</t>
+            <t pos="x">jo</t>
             <xg>
-               <x>Jus dus nai lea muhtun geasa áiggut skeaŋkka oastit, na de heive hui bures odne oastit girjji ja ruvssu.</x>
-               <xt>Hvis du også har noen som du vil kjøpe gave til, ja så passer det i dag godt å kjøpe en bok og en rose.</xt>
+               <x>Jus dus nai lea muhtun geasa áiggut skeaŋkka oastit, na de heive hui bures odne oastit girjji ja
+               ruvssu.</x>
+               <xt>Hvis du også har noen som du vil kjøpe gave til, ja så passer det i dag godt å kjøpe en bok og en
+               rose.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="po">vuollegeahčen</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">i nerenden</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">geahčen</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">hos</t>
-
-        <xg>
-          <x>Son lea min geahčen fitnan juohke geasi.</x>
-          <xt>Han/hun har vært innom hos oss hver sommer.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">om (om tid)</t>
-
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="po">vuollegeahčen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">i nerenden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">geahčen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">hos</t>
+            <xg>
+               <x>Son lea min geahčen fitnan juohke geasi.</x>
+               <xt>Han/hun har vært innom hos oss hver sommer.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">om (om tid)</t>
             <xg>
                <x>Guđa mánu geahčen oažžu dollet Olmmáivággái.</x>
                <xt>Om seks måneder får han/hun reise til Manndalen.</xt>
             </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">ende</t>
-
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">ende</t>
             <xg>
                <x>Álggu geahčen juovlamánu ráhkkanišgohte mánát juovllaide.</x>
                <xt>I begynnelsen av desember begynte barna å forberede seg til jul.</xt>
@@ -1868,974 +1610,793 @@ For the full license text, see the link above.</lic>
                <x>Skutter suoláduvvui nuppe geahčen márkangili.</x>
                <xt>Skuteren ble stjelt i andre enden av bygda.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">geahčai</l>
-
-      <lc>geahčen</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">hos</t>
-        <xg>
-          <x>Boađe min geahčai!</x>
-
-          <xt>Kom hjem til oss!</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">ende (til)</t>
-
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">geahčai</l>
+         <lc>geahčen</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">hos</t>
+            <xg>
+               <x>Boađe min geahčai!</x>
+               <xt>Kom hjem til oss!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">ende (til)</t>
             <xg>
                <x>Son čievččasta čižžedoalana nuppi geahčái viesu.</x>
                <xt>Han/hun sparker BHen til andre enden av huset.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">guoras</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">ved siden av</t>
-
-        <xg>
-          <x>Mánná čohkká eatni guoras.</x>
-          <xt>Barnet sitter ved siden av mor.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">guovdelas</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">midt på</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">guovdu</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">midt på</t>
-
-        <t pos="p">midt i</t>
-        <xg>
-          <x>Son vázzá guovdu luotta.</x>
-          <xt>Han går midt på veien.</xt>
-        </xg>
-
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">lahka</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="p">nær</t>
-        <t pos="p">i nærheten av</t>
-        <xg>
-          <x>In beassan lahka ge uvssa.</x>
-          <xt>Jeg kom meg ikke i nærheten av døra engang.</xt>
-        </xg>
-        <xg>
-          <x>Mii máksit lahka 10 ruvnno bensinlittaris.</x>
-          <xt>Vi betaler i nærheten av 10 kroner for literen for bensin.</xt>
-        </xg>
-
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">luhtte</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">hos</t>
-
-        <xg>
-          <x>Dat lea mu luhtte.</x>
-          <xt>Hun er hos meg.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">lusa</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">til</t>
-
-        <xg>
-          <x>Son manai áhči lusa.</x>
-          <xt>Han gikk til far.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">maŋis</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">bak</t>
-
-        <t pos="p">etter</t>
-
-        <xg>
-          <x>Áhkku viegai mánáid maŋis.</x>
-          <xt>Bestemor sprang etter barna.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">maŋŋái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">bak</t>
-
-        <t pos="p">etter</t>
-
-        <xg>
-          <x>Áhkku viehkalii mánáid maŋŋái.</x>
-          <xt>Bestemor sprang av gårde etter barna.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">maŋŋá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">etter</t>
-        <xg>
-          <x>Guossit buohccájedje maŋŋá doaluid.</x>
-          <xt>Gjestene ble syke etter festlighetene.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="po">maŋŋá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">etter</t>
-        <xg>
-          <x>Háliidan diehtit movt sudnuin manai dáhpáhusa maŋŋá.</x>
-          <xt>Jeg vil vite hvordan det gikk med dem i tiden etter hendelsen.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e usage="more">
-    <lg>
-      <l pos="po">maŋŋel</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="p">etter</t>
-      </tg>
-    </mg>
-  </e>
-  <e usage="more">
-    <lg>
-      <l pos="pr">maŋŋel</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="p">etter</t>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pr">maŋŋil</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">etter</t>
-
-        <xg>
-          <x>Ođđa bajilčála 4. siiddus maŋŋil 1. teakstaoasi.</x>
-
-          <xt>Ny overskrift på side fire etter 1. paragraf.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e src="nj">
-    <lg>
-      <l pos="po">maŋŋil</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">etter</t>
-
-        <xg>
-          <x>2. máilbmesoađi maŋŋil biliduvvui stuorra oassi Finnmárkku          viesuin.</x>
-
-          <xt>Etter 2. verdenskrig ble storparten av husa i Finnmark          ødelagt.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">meattá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">forbi</t>
-
-        <xg>
-          <x>Son vujii min viesu meattá.</x>
-
-          <xt>Han/hun kjørte forbi huset vårt.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">miehtá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">langs</t>
-
-        <t pos="p">over</t>
-
-        <xg>
-          <x>Idol násttit mátkkoštit miehtá Norgga dán geasi.</x>
-
-          <xt>Idolstjernene reiser langs hele Norge den sommeren.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">mielde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">med</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="p">langs</t>
-
-        <xg>
-          <x>geainnu mielde</x>
-
-          <xt>langs veien</xt>
-          </xg>
-          <xg>
-          <x>Son vuolgá mu mielde Supmii.</x>
-          <xt>Hun blir med meg til Finland.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="p">i følge</t>
-
-        <xg>
-          <x>Buohkat geat leat čálihan iežaset jienastuslohkui leat dien čilgehusa mielde sámit.</x>
-          <xt>Alle som har meldt seg inn i manntallet er samer i følge den definisjonen.</xt>
-          </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">njeaigga</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">mot</t>
-
-        <xg>
-          <x>dan njeaigga</x>
-          <xt>mot den/det</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">ovdal</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="p">før</t>
-        <xg>
-          <x>Áddjá bođii juo ovdal juovllaid.</x>
-          <xt>Bestefar kom allerede før jul.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">ovddas</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">for</t>
-
-        <xg>
-          <x>Giitu dan ovddas!</x>
-          <xt>Takk for den!</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="p">foran</t>
-        <t pos="x">i veien</t>
-        <xg>
-          <x>Don leat mu ovddas.</x>
-          <xt>Du er i vegen for meg.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">rastá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">over</t>
-        <xg>
-          <x>Váccán geainnu rastá.</x>
-
-          <xt>Jeg går over veien.</xt>
-	</xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="x">tvers av</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">siste</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">inne i</t>
-        <xg>
-          <x>Girjji siste gávdnui reive.</x>
-
-          <xt>Et brev ble funnet inne i boka.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">várás</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">for</t>
-
-        <t pos="p">av hensyn til</t>
-        <xg>
-          <x>Joatkkaskuvlla várás eai báljo gávdno oahppogirjjit sámegillii.</x>
-
-          <xt>Det finnes nesten ikke lærebøker på samisk for den videregående skolen.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">vuolde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">under</t>
-
-        <xg>
-          <x>Dat lea beavddi vuolde.</x>
-          <xt>Den ligger under bordet.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">vuollái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">under</t>
-
-        <xg>
-          <x>Bija dan beavddi vuollái.</x>
-          <xt>Legg den under bordet.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">vuostá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">mot</t>
-
-        <xg>
-          <x>Son ceggii sabehiid seainni vuostá.</x>
-
-          <xt>Han stilte skiene mot veggen.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="ped">
-    <lg>
-      <l pos="po">hárrái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">vedrørende</t>
-
-        <xg>
-          <x>Min bellodagas lea čielga politihkalaš oaidnu sámi rivttiid hárrái.</x>
-
-          <xt>Vårt parti har et klart politisk syn vedrørende samiske rettigheter.</xt>
-        </xg>
-
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="po">dáfus</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">med hensyn til</t>
-
-        <xg>
-          <x>dan dáfus</x>
-
-          <xt>med hensyn til det</xt>
-        </xg>
-
-        <xg>
-          <x>Nu lea maid lobihis áiddiid dáfus.</x>
-
-          <xt>Slik er det også når det gjelder ulovlige gjerder.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">geažil</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">på grunn av</t>
-
-        <xg>
-          <x>dan geažil</x>
-
-          <xt>på grunn av det den</xt>
-        </xg>
-        <xg>
-          <x>Ruhtadili geažil dat ii leat vel ollašuvvan.</x>
-
-          <xt>På grunn av økonomien er dette ikke blitt gjennomført enda.</xt>
-        </xg>
-
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">gullut</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">påhør</t>
-
-        <xg>
-          <x>Son dagai dan mu gullut.</x>
-
-          <xt>Hun gjorde det mens jeg hørte på, i mitt påhør.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">haga</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">uten</t>
-
-        <xg>
-          <x>Ale vuolgge ruđa haga!</x>
-
-          <xt>Ikke dra uten penger!</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e src="nj">
-    <lg>
-      <l pos="po">ovddal</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">før</t>
-
-        <t pos="p">i møte</t>
-
-        <xg>
-          <x>Son bođii mu ovddal.</x>
-
-          <xt>Hun kom meg i møte.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">almmá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">uten</t>
-
-        <xg>
-          <x>almmá mu dieđekeahttá</x>
-
-          <xt>uten at jeg vet</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="po">badjel</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">over</t>
-
-        <xg>
-          <x>Rohttejin ránu oaivvi 'badjel' vai oaččun nahkáriid.</x>
-
-          <xt>Jeg dro pleddet over hodet for å få sove.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">earret</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">unntatt</t>
-        <t pos="p">foruten</t>
-        <xg>
-          <x>earret eará(id)</x>
-
-          <xt>blant annet</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pr">earet</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">unntatt</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">gaskan</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">midt i</t>
-
-        <xg>
-          <x>Son sáhtii gaskan dajaldaga geahččagoahtit maidnu.</x>
-
-          <xt>Ho kunne begynne å se på hva som helst midt i ei setning.</xt>
-        </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="a">halvferdig</t>
-
-        <xg>
-          <x>gaskan bora</x>
-
-          <xt>midt i måltidet</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">guovdelas</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">midt på</t>
-
-        <xg>
-          <x>guovdelas beaivvi</x>
-
-          <xt>midt på dagen</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">lahka</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">nær</t>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">meattá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">forbi</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">rastá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">over</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="p">tvers av</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pr">aisttan</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">i følge</t>
-
-        <xg>
-          <x>aisttan Sámmola</x>
-
-          <xt>for å si som Sammul</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="refl">ieš</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">sjøl</t>
-
-        <xg>
-          <x>Mun lean dan ieš dáhkan.</x>
-          <xt>Jeg har gjort det sjøl.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="refl">ieža</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">sjøl (om flere)</t>
-        <xg>
-          <x>Mii leat dan ieža dáhkan.</x>
-          <xt>Vi har gjort det sjøl.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">buot</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">alt</t>
-        <t pos="x">alle</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">eanas</l>
-
-      <lc>eatnasat</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">størsteparten</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="x">de fleste</t>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">eatnat</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="m">mengde</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">gallát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">hvilken</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">gallis</l>
-
-      <lc>gallásat</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">noen</t>
-
-        <t pos="x">mange</t>
-
-        <t pos="x">hvor mange</t>
-
-        <xg>
-          <x>Gallis leat?</x>
-
-          <xt>Hvor mange mennesker er det</xt>
-        </xg>
-
-        <xg>
-          <x>Eai leat gallis.</x>
-
-          <xt>Det er ikke mange mennesker.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">juohke</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">hver</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">seammá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">samme</t>
-      </tg>
-    </mg>
-  </e>
-  
-  <e src="nj">
-    <lg>
-      <l pos="interj">vuoi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">akk</t>
-        <t pos="interj">å</t>
-        <xg>
-          <x>Vuoi, go lea váivi.</x>
-          <xt>Å akk, hvor trist det er.</xt>
-        </xg>
-        <xg>
-          <x>Vuoi, man somá go soamis mus maid ballá.</x>
-          <xt>Å, så artig at noen er redd for meg også.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">guoras</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">ved siden av</t>
+            <xg>
+               <x>Mánná čohkká eatni guoras.</x>
+               <xt>Barnet sitter ved siden av mor.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">guovdelas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">midt på</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">guovdu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">midt på</t>
+            <t pos="p">midt i</t>
+            <xg>
+               <x>Son vázzá guovdu luotta.</x>
+               <xt>Han går midt på veien.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">lahka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">nær</t>
+            <t pos="p">i nærheten av</t>
+            <xg>
+               <x>In beassan lahka ge uvssa.</x>
+               <xt>Jeg kom meg ikke i nærheten av døra engang.</xt>
+            </xg>
+            <xg>
+               <x>Mii máksit lahka 10 ruvnno bensinlittaris.</x>
+               <xt>Vi betaler i nærheten av 10 kroner for literen for bensin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">luhtte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">hos</t>
+            <xg>
+               <x>Dat lea mu luhtte.</x>
+               <xt>Hun er hos meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">lusa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">til</t>
+            <xg>
+               <x>Son manai áhči lusa.</x>
+               <xt>Han gikk til far.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">maŋis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">bak</t>
+            <t pos="p">etter</t>
+            <xg>
+               <x>Áhkku viegai mánáid maŋis.</x>
+               <xt>Bestemor sprang etter barna.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">maŋŋái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">bak</t>
+            <t pos="p">etter</t>
+            <xg>
+               <x>Áhkku viehkalii mánáid maŋŋái.</x>
+               <xt>Bestemor sprang av gårde etter barna.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">maŋŋá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">etter</t>
+            <xg>
+               <x>Guossit buohccájedje maŋŋá doaluid.</x>
+               <xt>Gjestene ble syke etter festlighetene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">maŋŋá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">etter</t>
+            <xg>
+               <x>Háliidan diehtit movt sudnuin manai dáhpáhusa maŋŋá.</x>
+               <xt>Jeg vil vite hvordan det gikk med dem i tiden etter hendelsen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="po">maŋŋel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">etter</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="pr">maŋŋel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">etter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">maŋŋil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">etter</t>
+            <xg>
+               <x>Ođđa bajilčála 4. siiddus maŋŋil 1. teakstaoasi.</x>
+               <xt>Ny overskrift på side fire etter 1. paragraf.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">maŋŋil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">etter</t>
+            <xg>
+               <x>2. máilbmesoađi maŋŋil biliduvvui stuorra oassi Finnmárkku viesuin.</x>
+               <xt>Etter 2. verdenskrig ble storparten av husa i Finnmark ødelagt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">meattá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">forbi</t>
+            <xg>
+               <x>Son vujii min viesu meattá.</x>
+               <xt>Han/hun kjørte forbi huset vårt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">miehtá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">langs</t>
+            <t pos="p">over</t>
+            <xg>
+               <x>Idol násttit mátkkoštit miehtá Norgga dán geasi.</x>
+               <xt>Idolstjernene reiser langs hele Norge den sommeren.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">mielde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">med</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="p">langs</t>
+            <xg>
+               <x>geainnu mielde</x>
+               <xt>langs veien</xt>
+            </xg>
+            <xg>
+               <x>Son vuolgá mu mielde Supmii.</x>
+               <xt>Hun blir med meg til Finland.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="p">i følge</t>
+            <xg>
+               <x>Buohkat geat leat čálihan iežaset jienastuslohkui leat dien čilgehusa mielde sámit.</x>
+               <xt>Alle som har meldt seg inn i manntallet er samer i følge den definisjonen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">njeaigga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">mot</t>
+            <xg>
+               <x>dan njeaigga</x>
+               <xt>mot den/det</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">ovdal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">før</t>
+            <xg>
+               <x>Áddjá bođii juo ovdal juovllaid.</x>
+               <xt>Bestefar kom allerede før jul.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">ovddas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">for</t>
+            <xg>
+               <x>Giitu dan ovddas!</x>
+               <xt>Takk for den!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="p">foran</t>
+            <t pos="x">i veien</t>
+            <xg>
+               <x>Don leat mu ovddas.</x>
+               <xt>Du er i vegen for meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">rastá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">over</t>
+            <xg>
+               <x>Váccán geainnu rastá.</x>
+               <xt>Jeg går over veien.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">tvers av</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">siste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">inne i</t>
+            <xg>
+               <x>Girjji siste gávdnui reive.</x>
+               <xt>Et brev ble funnet inne i boka.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">várás</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">for</t>
+            <t pos="p">av hensyn til</t>
+            <xg>
+               <x>Joatkkaskuvlla várás eai báljo gávdno oahppogirjjit sámegillii.</x>
+               <xt>Det finnes nesten ikke lærebøker på samisk for den videregående skolen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">vuolde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">under</t>
+            <xg>
+               <x>Dat lea beavddi vuolde.</x>
+               <xt>Den ligger under bordet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">vuollái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">under</t>
+            <xg>
+               <x>Bija dan beavddi vuollái.</x>
+               <xt>Legg den under bordet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">vuostá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">mot</t>
+            <xg>
+               <x>Son ceggii sabehiid seainni vuostá.</x>
+               <xt>Han stilte skiene mot veggen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="ped">
+      <lg>
+         <l pos="po">hárrái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">vedrørende</t>
+            <xg>
+               <x>Min bellodagas lea čielga politihkalaš oaidnu sámi rivttiid hárrái.</x>
+               <xt>Vårt parti har et klart politisk syn vedrørende samiske rettigheter.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">dáfus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">med hensyn til</t>
+            <xg>
+               <x>dan dáfus</x>
+               <xt>med hensyn til det</xt>
+            </xg>
+            <xg>
+               <x>Nu lea maid lobihis áiddiid dáfus.</x>
+               <xt>Slik er det også når det gjelder ulovlige gjerder.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">geažil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">på grunn av</t>
+            <xg>
+               <x>dan geažil</x>
+               <xt>på grunn av det den</xt>
+            </xg>
+            <xg>
+               <x>Ruhtadili geažil dat ii leat vel ollašuvvan.</x>
+               <xt>På grunn av økonomien er dette ikke blitt gjennomført enda.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">gullut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">påhør</t>
+            <xg>
+               <x>Son dagai dan mu gullut.</x>
+               <xt>Hun gjorde det mens jeg hørte på, i mitt påhør.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">haga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">uten</t>
+            <xg>
+               <x>Ale vuolgge ruđa haga!</x>
+               <xt>Ikke dra uten penger!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">ovddal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">før</t>
+            <t pos="p">i møte</t>
+            <xg>
+               <x>Son bođii mu ovddal.</x>
+               <xt>Hun kom meg i møte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">almmá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">uten</t>
+            <xg>
+               <x>almmá mu dieđekeahttá</x>
+               <xt>uten at jeg vet</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="po">badjel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">over</t>
+            <xg>
+               <x>Rohttejin ránu oaivvi 'badjel' vai oaččun nahkáriid.</x>
+               <xt>Jeg dro pleddet over hodet for å få sove.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">earret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">unntatt</t>
+            <t pos="p">foruten</t>
+            <xg>
+               <x>earret eará(id)</x>
+               <xt>blant annet</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">earet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">unntatt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">gaskan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">midt i</t>
+            <xg>
+               <x>Son sáhtii gaskan dajaldaga geahččagoahtit maidnu.</x>
+               <xt>Ho kunne begynne å se på hva som helst midt i ei setning.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">halvferdig</t>
+            <xg>
+               <x>gaskan bora</x>
+               <xt>midt i måltidet</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">guovdelas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">midt på</t>
+            <xg>
+               <x>guovdelas beaivvi</x>
+               <xt>midt på dagen</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">lahka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">nær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">meattá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">forbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">rastá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">over</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="p">tvers av</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pr">aisttan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">i følge</t>
+            <xg>
+               <x>aisttan Sámmola</x>
+               <xt>for å si som Sammul</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="refl">ieš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">sjøl</t>
+            <xg>
+               <x>Mun lean dan ieš dáhkan.</x>
+               <xt>Jeg har gjort det sjøl.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="refl">ieža</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">sjøl (om flere)</t>
+            <xg>
+               <x>Mii leat dan ieža dáhkan.</x>
+               <xt>Vi har gjort det sjøl.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">buot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">alt</t>
+            <t pos="x">alle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">eanas</l>
+         <lc>eatnasat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">størsteparten</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">de fleste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">eatnat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">mengde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">gallát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">hvilken</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">gallis</l>
+         <lc>gallásat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">noen</t>
+            <t pos="x">mange</t>
+            <t pos="x">hvor mange</t>
+            <xg>
+               <x>Gallis leat?</x>
+               <xt>Hvor mange mennesker er det</xt>
+            </xg>
+            <xg>
+               <x>Eai leat gallis.</x>
+               <xt>Det er ikke mange mennesker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">juohke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hver</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">seammá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">samme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="interj">vuoi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">akk</t>
+            <t pos="interj">å</t>
+            <xg>
+               <x>Vuoi, go lea váivi.</x>
+               <xt>Å akk, hvor trist det er.</xt>
+            </xg>
+            <xg>
+               <x>Vuoi, man somá go soamis mus maid ballá.</x>
+               <xt>Å, så artig at noen er redd for meg også.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
