@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r>
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -78,30 +78,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e src="nj">
-    <lg>
-      <l pos="adv">arvat</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">mye</t>
-        <xg>
-          <x>Boahtte čiekčamis dán joavkku vuostá doaivvun mannat arvat buorebut.</x>
-          <xt>I neste kamp mot dette laget håper jeg at det går mye bedre.</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="adv">mange</t>
-        <xg>
-          <x>Dán jagi leat arvat eanet bivdinjoavkkut go diibmá.</x>
-          <xt>I år er det mange flere jaktgrupper enn ifjor.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">arvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">mye</t>
+            <xg>
+               <x>Boahtte čiekčamis dán joavkku vuostá doaivvun mannat arvat buorebut.</x>
+               <xt>I neste kamp mot dette laget håper jeg at det går mye bedre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">mange</t>
+            <xg>
+               <x>Dán jagi leat arvat eanet bivdinjoavkkut go diibmá.</x>
+               <xt>I år er det mange flere jaktgrupper enn ifjor.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="adv">dienasláhkái</l>
@@ -112,23 +111,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e src="nj">
-    <lg>
-      <l pos="adv">guovttá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">to</t>
-
-        <xg>
-          <x>Moai letne guovttá.</x>
-
-          <xt>Vi er bare to.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">guovttá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">to</t>
+            <xg>
+               <x>Moai letne guovttá.</x>
+               <xt>Vi er bare to.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="adv">jaska</l>
@@ -149,18 +145,18 @@ For the full license text, see the link above.</lic>
             <t pos="adv">bort</t>
             <t pos="adv">vekk</t>
             <xg>
-          <x>Mana eret!</x>
-          <xt>Gå vekk!</xt>
-          </xg>
+               <x>Mana eret!</x>
+               <xt>Gå vekk!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="adv">fra</t>
             <xg>
-          <x>Sii leat Suomas eret.</x>
-          <xt>De er fra Finland.</xt>
-          </xg>
+               <x>Sii leat Suomas eret.</x>
+               <xt>De er fra Finland.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -340,220 +336,220 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-<e src="nj">
-   <lg>
-      <l pos="adv">šat</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="x">mer</t>
-         <xg>
-            <x>Lea go šat?</x>
-            <xt>Er det mer?</xt>
-         </xg>
-         <xg>
-            <x>Ii leat šat.</x>
-            <xt>Det er ikke mer.</xt>
-         </xg>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">giđđat</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="x">om våren</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">miehtebeaivái</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">medsols</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">miehterávdnjái</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="x">med strømmen</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">davás</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">nordover</t>
-         <t pos="x">mot nord</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">máttás</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">sørover</t>
-         <t pos="x">mot sør</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">naba</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">enn</t>
-      <xg>
-   <x>naba don?</x>
-   <xt>enn du?</xt>
-       </xg>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">oarjjás</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">vestover</t>
-         <t pos="x">mot vest</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">ovddalgihtii</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="x">på forhånd</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">anne</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="x">la</t>
-      <xg>
-      <x>anne dal boahtá</x>
-      <xt>la han (henne) bare komme</xt>
-      </xg>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">maŋábealde</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="x">på baksiden</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">maŋágeahčen</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">bakpå</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">nuorttas</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">østover</t>
-         <t pos="x">mot øst</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">davvin</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">nordpå</t>
-         <t pos="x">i nord</t>
-      </tg>
-   </mg>
-   <mg>
-      <tg>
-         <t pos="adv">nordfra</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">máddin</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">sørpå</t>
-         <t pos="x">i sør</t>
-      </tg>
-   </mg>
-   <mg>
-      <tg>
-         <t pos="adv">sørfra</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">nuortan</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">østpå</t>
-         <t pos="x">i øst</t>
-      </tg>
-   </mg>
-   <mg>
-      <tg>
-         <t pos="adv">østfra</t>
-      </tg>
-   </mg>
-</e>
-<e src="nj">
-   <lg>
-      <l pos="adv">oarjin</l>
-   </lg>
-   <mg>
-      <tg>
-         <t pos="adv">vestpå</t>
-         <t pos="x">i vest</t>
-      </tg>
-   </mg>
-   <mg>
-      <tg>
-         <t pos="adv">vestfra</t>
-      </tg>
-   </mg>
-</e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">šat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">mer</t>
+            <xg>
+               <x>Lea go šat?</x>
+               <xt>Er det mer?</xt>
+            </xg>
+            <xg>
+               <x>Ii leat šat.</x>
+               <xt>Det er ikke mer.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">giđđat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">om våren</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">miehtebeaivái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">medsols</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">miehterávdnjái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">med strømmen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">davás</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nordover</t>
+            <t pos="x">mot nord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">máttás</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sørover</t>
+            <t pos="x">mot sør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">naba</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">enn</t>
+            <xg>
+               <x>naba don?</x>
+               <xt>enn du?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">oarjjás</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vestover</t>
+            <t pos="x">mot vest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">ovddalgihtii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">på forhånd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">anne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">la</t>
+            <xg>
+               <x>anne dal boahtá</x>
+               <xt>la han (henne) bare komme</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">maŋábealde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">på baksiden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">maŋágeahčen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">bakpå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">nuorttas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">østover</t>
+            <t pos="x">mot øst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">davvin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nordpå</t>
+            <t pos="x">i nord</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">nordfra</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">máddin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sørpå</t>
+            <t pos="x">i sør</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">sørfra</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">nuortan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">østpå</t>
+            <t pos="x">i øst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">østfra</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">oarjin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vestpå</t>
+            <t pos="x">i vest</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">vestfra</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj">
       <lg>
          <l pos="n">oavdu</l>
@@ -693,23 +689,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e src="nj">
-    <lg>
-      <l pos="adv">badjel</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">over</t>
-
-        <xg>
-          <x>Maŋŋil go badjel 20 jagi lea orron máddin, de máhccá
-          ruovttoluotta.</x>
-          <xt>Etter å ha bodd over 20 år sørpå, vender han hjem.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">badjel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">over</t>
+            <xg>
+               <x>Maŋŋil go badjel 20 jagi lea orron máddin, de máhccá ruovttoluotta.</x>
+               <xt>Etter å ha bodd over 20 år sørpå, vender han hjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="nj">
       <lg>
          <l pos="adv">badjin</l>
@@ -1080,8 +1073,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">til nederst</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1737,10 +1730,10 @@ For the full license text, see the link above.</lic>
                <x>Nieida liiko riidet heasttain, earenoamážit dalle go lea áhku ja ádjá luhtte.</x>
                <xt>Jenta liker å ri på hest, spesielt når hun er hos bestemor og bestefar.</xt>
             </xg>
-          </tg>
+         </tg>
       </mg>
    </e>
-  <e src="nj">
+   <e src="nj">
       <lg>
          <l pos="adv">erenoamážit</l>
       </lg>
@@ -1863,10 +1856,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">halvferdig</t>
-        <xg>
-          <x>Bargu lea gaskan.</x>
-          <xt>Arbeidet er halvferdig.</xt>
-        </xg>
+            <xg>
+               <x>Bargu lea gaskan.</x>
+               <xt>Arbeidet er halvferdig.</xt>
+            </xg>
             <xg>
                <x>Bargu bázii gaskan.</x>
                <xt>Arbeidet ble ufullendt.</xt>
@@ -2358,29 +2351,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">nær</t>
-        <xg>
-          <x>Álttás lea válljen bargat, go de lea nu lahka Guovdageainnu go
-          vejolaš. </x>
-          <xt>Hun har valgt å arbeide i Alta, fordi det er så nær Kautokeino
-          som mulig</xt>
-        </xg>
+            <xg>
+               <x>Álttás lea válljen bargat, go de lea nu lahka Guovdageainnu go vejolaš.</x>
+               <xt>Hun har valgt å arbeide i Alta, fordi det er så nær Kautokeino som mulig</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-  <e src="nj">
-    <lg>
-      <l pos="adv">maŋŋá</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="adv">seinere</t>
-        <xg>
-          <x>Son bođii maŋŋá.</x>
-          <xt>Han/Hun kom seinere.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">maŋŋá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">seinere</t>
+            <xg>
+               <x>Son bođii maŋŋá.</x>
+               <xt>Han/Hun kom seinere.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="nj">
       <lg>
          <l pos="adv">lávga</l>
@@ -2631,23 +2622,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e src="nj">
-    <lg>
-      <l pos="adv">meattá</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">forbi</t>
-
-        <xg>
-          <x>Ja go oinniime du vázzime meattá, de fertiime das bisánit.</x>
-
-          <xt>Og da vi så deg gå forbi, måtte vi stoppe der.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">meattá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">forbi</t>
+            <xg>
+               <x>Ja go oinniime du vázzime meattá, de fertiime das bisánit.</x>
+               <xt>Og da vi så deg gå forbi, måtte vi stoppe der.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="nj">
       <lg>
          <l pos="adv">menddo</l>
@@ -2740,8 +2728,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">fram</t>
             <xg>
-               <x>Ruoŧa eanagirjjin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles Finnmárkkus.</x>
-               <xt>I svenske jordebøker fra årene 1738-1741 kommer det fram at privat eie av jord var vanlig i hele Finnmark.</xt>
+               <x>Ruoŧa eanagirjjin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles
+               Finnmárkkus.</x>
+               <xt>I svenske jordebøker fra årene 1738-1741 kommer det fram at privat eie av jord var vanlig i hele
+               Finnmark.</xt>
             </xg>
          </tg>
       </mg>
@@ -2777,7 +2767,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">ellers</t>
             <xg>
-               <x>Jos ohccit muđui leat dohkalaččat, de vuoruhuvvojit dat geain lea gelbbolašvuohta sihke dárogielas ja sámegielas.</x>
+               <x>Jos ohccit muđui leat dohkalaččat, de vuoruhuvvojit dat geain lea gelbbolašvuohta sihke dárogielas ja
+               sámegielas.</x>
                <xt>Hvis søkerne ellers er kvalifiserte, prioriteres de som har kompetanse i både norsk og samisk.</xt>
             </xg>
          </tg>
@@ -2983,28 +2974,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e src="nj">
-    <lg>
-      <l pos="adv">olggos</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="adv">ut</t>
-
-        <xg>
-          <x>Moai njuikiime olggos biillas.</x>
-
-          <xt>Vi hoppet ut av bilen.</xt>
-        </xg>
-        <xg>
-          <x>Dál ii ábut šat viesus stoahkat, muhto olggos mannat, vai dearvvašin bissubehtet.</x>
-
-          <xt>Nå kan dere ikke leke inne lenger, men dere må gå ut for å holde dere friske.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">olggos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ut</t>
+            <xg>
+               <x>Moai njuikiime olggos biillas.</x>
+               <xt>Vi hoppet ut av bilen.</xt>
+            </xg>
+            <xg>
+               <x>Dál ii ábut šat viesus stoahkat, muhto olggos mannat, vai dearvvašin bissubehtet.</x>
+               <xt>Nå kan dere ikke leke inne lenger, men dere må gå ut for å holde dere friske.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="nj">
       <lg>
          <l pos="adv">olggul</l>
@@ -3283,23 +3270,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e src="nj">
-    <lg>
-      <l pos="adv">sisa</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="p">inn</t>
-
-        <xg>
-          <x>Boađe sisa gáfe juhkat!</x>
-
-          <xt>Kom inn og drikk kaffe!</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
+   <e src="nj">
+      <lg>
+         <l pos="adv">sisa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="p">inn</t>
+            <xg>
+               <x>Boađe sisa gáfe juhkat!</x>
+               <xt>Kom inn og drikk kaffe!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="nj">
       <lg>
          <l pos="adv">siskkil</l>
@@ -3755,8 +3739,10 @@ For the full license text, see the link above.</lic>
                <xt>De legger ikke bare vekt på samisk kultur, men også på flerkulturelle forhold.</xt>
             </xg>
             <xg>
-               <x>Sámediggi lea miehtan sutnje máksit 800 ruvnno juohke árgabeaivvi ovddas, muhto ii fal lávvordagaid, sotnabeivviid ja bassebeivviid ovddas.</x>
-               <xt>Sametinget har gått med på å betale 800 kr for hver hverdag, men ikke for lørdager, søndager og helligdager.</xt>
+               <x>Sámediggi lea miehtan sutnje máksit 800 ruvnno juohke árgabeaivvi ovddas, muhto ii fal lávvordagaid,
+               sotnabeivviid ja bassebeivviid ovddas.</x>
+               <xt>Sametinget har gått med på å betale 800 kr for hver hverdag, men ikke for lørdager, søndager og
+               helligdager.</xt>
             </xg>
          </tg>
       </mg>
@@ -3793,7 +3779,7 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>de fas álggii</x>
                <xt>så begynte det igjen</xt>
-           </xg>
+            </xg>
             <xg>
                <x>Mun válddan dán, don fas dien.</x>
                <xt>Jeg tar denne, du igjen den der.</xt>
@@ -3894,7 +3880,7 @@ For the full license text, see the link above.</lic>
                <xt>slik, sånn her</xt>
             </xg>
             <xg>
-               <x>Mii eat  galgga vajálduhttit ahte sis lea maiddái muhtin lágán objektiivalaš vuođđu.</x>
+               <x>Mii eat galgga vajálduhttit ahte sis lea maiddái muhtin lágán objektiivalaš vuođđu.</x>
                <xt>Vi skal heller ikke glemme at de også har et slags objektivt grunnlag.</xt>
             </xg>
          </tg>
