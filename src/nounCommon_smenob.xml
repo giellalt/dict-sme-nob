@@ -15,6 +15,26 @@
    </e>
    <e usage="more">
       <lg>
+         <l pos="n">luohttámuš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">tillit</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="n">anistupmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">kåtskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
          <l pos="n">doarjjakonsearta</l>
       </lg>
       <mg>
@@ -79860,11 +79880,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="S">sinn</t>
-            <xg>
-               <x>Nieida lea buori mielas dál.</x>
-               <xt>Jenta er i godt humør nå.</xt>
-            </xg>
+            <t pos="n">sinn</t>
             <xg>
                <x>Mu mielas dat lea áibbas lunddolaš.</x>
                <xt>Jeg synes at det er helt naturlig.</xt>
@@ -79880,6 +79896,24 @@
             <xg>
                <x>Eanet gažaldagat badjánit millii vuojidettiin duoddarii.</x>
                <xt>Jeg kommer på flere spørsmål mens jeg kjører mot vidda.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">humør</t>
+            <xg>
+               <x>Nieida lea buori mielas dál, muhto bárdni lea velgo heajos mielas.</x>
+               <xt>Jenta er i godt humør nå, men gutten er fremdeles i dårlig humør.</xt>
+            </xg>
+          </tg>
+     </mg>
+      <mg>
+         <tg>
+            <t pos="n">lyst</t>
+            <xg>
+               <x>Mus lea miella dan dahkat.</x>
+               <xt>Jeg har lyst til å gjøre det.</xt>
             </xg>
          </tg>
       </mg>

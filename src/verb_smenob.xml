@@ -6,6 +6,27 @@
 <r>
    <e usage="more">
       <lg>
+         <l pos="v" context="mun">cummástallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kline</t>
+            <t pos="v">kysse hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="v" context="mun">buorranaddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kjærtegne</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
          <l pos="v" context="mun">čalmmustahttit</l>
       </lg>
       <mg>
@@ -809,7 +830,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l pos="v" context="mun">anašit</l>
       </lg>
@@ -13187,6 +13208,11 @@
       </mg>
       <mg>
          <tg>
+            <t pos="v">kjenne etter</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="v">teste</t>
          </tg>
       </mg>
@@ -24032,6 +24058,56 @@
       <mg>
          <tg>
             <t pos="v">lære</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="v" context="mun">geasuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tiltrekke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="v" context="mun">lahkonit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nærme seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="v" context="mun">ovttastallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">være sammen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="v" context="mun">oahpástuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli kjent</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l pos="v" context="mun">oahpásmuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli kjent</t>
          </tg>
       </mg>
    </e>
