@@ -24,6 +24,7 @@ LEX = 	src/adjective_smenob.xml  \
 	src/nounActor_smenob.xml  \
 	src/nounCommon_smenob.xml \
 	src/nounG3_smenob.xml	  \
+	src/nounProperPl_smenob.xml \
 	src/nounProper_smenob.xml \
 	src/other_smenob.xml	  \
 	src/pronDem_smenob.xml	  \
@@ -31,36 +32,39 @@ LEX = 	src/adjective_smenob.xml  \
 	src/pronPers_smenob.xml	  \
 	src/pronRec_smenob.xml	  \
 	src/pronRefl_smenob.xml	  \
+	src/propPl_smenob.xml	  \
+	src/prop_smenob.xml	  \
 	src/pronRel_smenob.xml	  \
+	src/verbCop_smenob.xml	  \
 	src/verbNeg_smenob.xml	  \
 	src/verb_smenob.xml		  
 
 
 
 
-smedict.fst: bin/smedict.fst
-bin/smedict.fst: bin/smedict.save
+smedict_a_tolerant.fst: bin/smedict_a_tolerant.fst
+bin/smedict_a_tolerant.fst: bin/smedict.fst
 	@echo
-	@echo "*** Building  smedict.fst ***"
+	@echo "*** Building  smedict_a_tolerant.fst ***"
 	@echo
 	@printf "read regex [ @\"$<\" .o. \
 	[ á (<-) a , Á (<-) A ]] ; \n\
 	save stack $@ \n\
-	quit \n" > ../tmp/smedict-fst-script
+	quit \n" > ../tmp/smedict-tolerant-script
 	@echo "*** Done script, at least. ***"
-	$(XFST)  < ../tmp/smedict-fst-script
-	@rm -f ../tmp/smedict-fst-script
+	$(XFST)  < ../tmp/smedict-tolerant-script
+	@rm -f ../tmp/smedict-tolerant-script
 
-smedict.save: bin/smedict.save
-bin/smedict.save: bin/smelemmalist.txt
+smedict.fst: bin/smedict.fst
+bin/smedict.fst: bin/smelemmalist.txt
 	@echo
-	@echo "*** Building  smedict.save ***"
+	@echo "*** Building  smedict.fst ***"
 	@echo
 	@printf "read text $< \n\
 	save stack $@ \n\
-	quit \n" > ../tmp/smedict-save-script
-	$(XFST)  < ../tmp/smedict-save-script
-	@rm -f ../tmp/smedict-save-script
+	quit \n" > ../tmp/smedict-fst-script
+	$(XFST)  < ../tmp/smedict-fst-script
+	@rm -f ../tmp/smedict-fst-script
 
 smelemmalist.txt: bin/smelemmalist.txt
 bin/smelemmalist.txt: $(LEX)
