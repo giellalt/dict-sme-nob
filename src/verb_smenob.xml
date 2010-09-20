@@ -30,6 +30,181 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="more">
       <lg>
+         <l context="mun" pos="v">nákcet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">greie</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">ilbmat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">utkomme</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">kommenteret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kommentere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">čadnot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">knyttes til</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">garvit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">unngå</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">bajásšaddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vokse opp</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">oččodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">få (flere ting)</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">prøve å få</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">vuhttot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">spores</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">vuoittahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tape</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">doalahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">holde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">la være</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">plánet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">planlegge</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">ovttasbargat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">samarbeide</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">mielddisbuktit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">medføre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">čuovvolit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">følge etter</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">følge opp</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">ovdánahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">utvikle</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">finadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">stikke innom</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
          <l context="mun" pos="v">cummástallat</l>
       </lg>
       <mg>
@@ -15252,6 +15427,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">hálidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ville</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="ped">
       <lg>
          <l context="mun" pos="v">háliidit</l>
@@ -21157,6 +21342,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">mearredit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bestemme</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="ped">
       <lg>
          <l context="mun" pos="v">mearridit</l>
@@ -23658,7 +23853,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">nomineret</l>
       </lg>
@@ -28774,13 +28969,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">ráfáiduhttit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">fredlyse</t>
+            <t pos="v">frede</t>
          </tg>
       </mg>
    </e>
@@ -33582,18 +33777,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">vealahit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">berøve</t>
+            <t pos="v">diskriminere</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="v">diskriminere</t>
+            <t pos="v">berøve</t>
          </tg>
       </mg>
    </e>
@@ -37960,6 +38155,772 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">bruse</t>
             <t pos="v">dure</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">muittašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">minnes</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">rahppot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åpnes</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">ákkastallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">argumentere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">buohtastahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sammenlikne</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">hirpmástuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli forskrekket</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">fievrredit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">transportere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gozihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vokte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">jurdilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tenke en tanke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">sisttisdoallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">inneholde</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">ollašuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gjennomføres</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gáržžidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">innskrenke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">oahpásnuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli kjent med</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">fuomášuhttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gjøre oppmerksom på</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">oasálastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">delta</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">áŋgiruššat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ivre for</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">ságastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">samtale</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">neaktit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">se ut som</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">filbmet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">filme</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">vuorddašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vente lenge</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">loktanit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heve seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">čiegadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gjemme</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">vuolláičállit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">underskrive</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">behtohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli skuffet</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">sihkarastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sikre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gárvet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gjøre ferdig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">beaškalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">smelle til</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">suhttadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gjøre sint</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">rahpasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åpne seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">vuhtiiváldit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ta hensyn til</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">rápmot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rose</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg>
+            <t pos="v">skryte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">njuolgut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rette ut</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">njoammut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">krype</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">smitte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">čoahkkinastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">holde møte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">maŋŋonit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli forsinket</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">riŋgestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ringe</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">vuoddját</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kjøre avsted</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">logaldallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">forelese</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">buollát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fatne</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">bázahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli etter</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">coggalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">putte fort</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg>
+            <t pos="v">kle på seg fort</t>
+         </tg>
+      </mg>
+  </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">geahččaladdat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eksperimentere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">čavget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">stramme</t>
+            <t pos="v">stramme inn</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gullát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">våkne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">få følelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">hirpmáhuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli forskrekket</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">vuostáiváldit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ta imot</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">čevllohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">være stolt</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">márkanastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">markedsføre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">vajálduvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">glemmes</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">vuiget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sanne</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="sii" pos="v">lonohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bytte med hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">ealáskahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">revitalisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">dálkkodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">medisinere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">bággehallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tvinges</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">kártet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kartlegge</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">ovttastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">forene</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">digáštallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">diskutere</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">sulastahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">likne på</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">nuoskkidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">forurense</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">jávkkehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">forsvinne plutselig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">jávkkihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">forsvinne plutselig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">čuččodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli stående</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">muosehuhttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">forstyrre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">rievidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">røve</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gávnnahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli oppdaget</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">politihkket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">holde på med politikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">joatkašuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fortsettes</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">levget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">flagge</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">buohccát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli syk</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">rámpot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rose</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg>
+            <t pos="v">skryte</t>
+         </tg>
+      </mg>
+  </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">loddet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jakte på fugl</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">fasket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kapre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">speadjalastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">avspeile</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">vázzát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">begynne å gå</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">jaskkodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tie</t>
          </tg>
       </mg>
    </e>
