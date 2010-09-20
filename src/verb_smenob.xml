@@ -1981,10 +1981,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">bealuštit</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="v">forsvare</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="v">forfekte</t>
@@ -6615,7 +6620,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">digaštallat</l>
       </lg>
@@ -8646,7 +8651,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">dárkkistit</l>
       </lg>
@@ -11635,7 +11640,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">geassádit</l>
       </lg>
@@ -13249,7 +13254,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="dat" pos="v">gullot</l>
          <lc>(dat) gullojit</lc>
@@ -14157,7 +14162,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="dat" pos="v">gávdnot</l>
          <lc>(dat) gávdnojit</lc>
@@ -14420,10 +14425,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">heaittihit</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="v">avslutte</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="v">avvikle</t>
@@ -16514,7 +16524,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">jearahallat</l>
       </lg>
@@ -21858,12 +21868,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">movttiidahttit</l>
       </lg>
       <mg>
          <tg>
+            <t pos="v">oppmuntre</t>
             <t pos="v">motivere</t>
          </tg>
       </mg>
@@ -24615,10 +24626,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">ordnet</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="v">ordne</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="v">sortere</t>
@@ -24755,13 +24771,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">ovdanbuktit</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">legge fram</t>
+            <t pos="v">presentere</t>
          </tg>
       </mg>
    </e>
@@ -29935,7 +29952,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">sivahallat</l>
       </lg>
@@ -34668,12 +34685,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
-         <l context="mun" pos="v">vuosttildit</l>
+         <l context="mun" pos="v">vuosttaldit</l>
       </lg>
       <mg>
          <tg>
+            <t pos="v">motarbeide</t>
             <t pos="v">opponere mot</t>
          </tg>
       </mg>
