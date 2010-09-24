@@ -24382,6 +24382,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">oppmuntre</t>
             <t pos="v">friste</t>
+            <xg>
+               <x>Muohta čeaskái várregilggaid ja oalgguhii olbmuid meahccái.</x>
+               <xt>Snøen lyste opp fjellsidene og frista folk til marka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28018,7 +28022,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">bryte</t>
+            <t pos="v">miste</t>
+            <xg>
+               <x>ribahit nohkkat</x>
+               <xt>falle i søvn</xt>
+            </xg>
+            <xg>
+               <x>ribahit boagustit</x>
+               <xt>miste å flire</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -37447,7 +37459,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l context="mun" pos="v">čákŋalit</l>
       </lg>
@@ -38676,6 +38688,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t pos="v">behandle for sykdom</t>
             <t pos="v">medisinere</t>
          </tg>
       </mg>
@@ -38980,17 +38993,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="more">
       <lg>
-         <l context="mun" pos="v">čákŋalit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">smyge inn</t>
-            <t pos="v">smyge under</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
          <l context="mun" pos="v">doamihit</l>
       </lg>
       <mg>
@@ -39102,6 +39104,498 @@ For the full license text, see the link above.</lic>
             <t pos="x">Mátki ruoktot manihii jođánit.</t>
             <t pos="x">Reisa hjem gikk fort.</t>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="up" pos="v">spoahkkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">smelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">dálkkáskit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli uvær</t>
+            <xg>
+               <x>Vahkkoloahpas issorasat dálkkáskii.</x>
+               <xt>I helga ble det forferdelig uvær.</xt>
+            </xg>
+        </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">huikkádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rope plutselig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">liikostit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">straks like</t>
+             <xg>
+               <x>Liikostin su gáktái.</x>
+               <xt>Jeg likte kofta hennes/hans.</xt>
+            </xg>
+        </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">viežžalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hente fort</t>
+            <t pos="v">hente noe som ikke er langt borte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">jugistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">drikke fort</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">deattašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">trykke flere ganger</t>
+            <t pos="v">trykke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">moiddodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ha kvalmefornemmelse</t>
+            <xg>
+               <x>Fáhkka dovddai váimmu moiddodeame ja fertii čurvet eatni.</x>
+               <xt>Plutselig følte hun/han kvalme og måtte rope på mor.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">rosset</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">romstere med husarbeid</t>
+            <xg>
+               <x>Eadni gullui gievkkanis rosseme ii ge várra gullange su.</x>
+               <xt>Mor romstere på kjøkkenet så kanskje hun ikke hørte henne engang.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gákkahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">å brekke seg</t>
+            <xg>
+               <x>Eadni bođii hivssegii go gulai Ánne gákkaheame.</x>
+               <xt>Mor kom til toalettet da hun høret at Ánne brekte seg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">doidilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skylle fort</t>
+            <t pos="v">skylle en gang</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">lutnjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jamre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">várkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">verke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gaccestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">spise en skjefull</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gaccastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">spise en skjefull</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">klore en gang</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v"></l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v"></t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">bonjahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v"></t>
+            <xg>
+               <x>Sarretmálli lei buorre gaccestit jus čoavjji bonjaha.</x>
+               <xt>Blåbærsuppe er det bra å ta noen skjeer av hvis man har mageknip.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gággasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bøyes</t>
+            <t pos="v">veltes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">stå opp møysommelig</t>
+            <xg>
+               <x>Ánne gullái ja gággasii čohkut. </x>
+               <xt>Ánne våkna og satte seg møysommelig opp.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">ihtaluvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">få utslett</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">suhtadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli sint på hverandre</t>
+            <t pos="v">bli sint flere ganger</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">sihkestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tørke en gang</t>
+            <t pos="v">male et strøk</t>
+            <xg>
+               <x>Boradeami maŋŋel ferte čorget ja beavddi sihkestit.</x>
+               <xt>Etter måltidet må man rydde og tørke av bordet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">sihkastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tørke en gang</t>
+            <t pos="v">male et strøk</t>
+            <xg>
+               <x>Boradeami maŋŋel ferte čorget ja beavddi sihkastit.</x>
+               <xt>Etter måltidet må man rydde og tørke av bordet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">čorgestallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">holde på å rydde</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">biggohit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lufte</t>
+            <xg>
+               <x>Gávnniid ferte biggohit.</x>
+               <xt>Sengklærne må man lufte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">váibbadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gjøre trøtt</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">váibadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gjøre trøtt</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">messostallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">delta i festligheter</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">čeaskát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lyse hvitt</t>
+            <xg>
+               <x>Muohta čeaskái várregilggaid.</x>
+               <xt>Snøen lyste fjellsidene hvite.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">šlivgasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slenges</t>
+            <xg>
+               <x>Reahka šlivgasii skohtera maŋis.</x>
+               <xt>Sleden slengte etter skuteren.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="dat" pos="v">njavggodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">svinne ut av syne</t>
+            <xg>
+               <x>Reahka šlivgasii skohtera maŋis ja márkan fargga njavggodii.</x>
+               <xt>Sleden slengte etter skuteren og snart forsvant bygda.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">hurgit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ile</t>
+            <t pos="v">legge i veg</t>
+            <xg>
+               <x>Miillat hurge.</x>
+               <xt>Milene ilte avgårde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">luoitádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">stige ned</t>
+            <t pos="v">gå ned</t>
+            <t pos="v">gå ned på kne</t>
+            <xg>
+               <x>Beaivváš luoitádii.</x>
+               <xt>Sola gikk ned.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">cahkkehallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tenne på flere ganger</t>
+            <xg>
+               <x>Biret cahkkehii dola ja cahkkehalai gintaliid.</x>
+               <xt>Biret tente opp ilden og tente på stearinlysene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">niesttehuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bli fri for mat</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">rasttidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">krysse</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gáfestallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">holde kaffepause</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">gallestallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">besøke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">golahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">å forbruke</t>
+            <xg>
+               <x>Maŋŋel borrama ozai Biret spealu mainna golahalaiga áiggi.</x>
+               <xt>Etter måltidet lette Biret etter et spill man kunne ddrive tiden med.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">boatkkuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">strø</t>
+            <xg>
+               <x>Ferte jieŋaid čuollat ja sáttuid boatkkuhit jus gálja lea.</x>
+               <xt>Man må hugge is og strø sand hvis det er glatt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l context="mun" pos="v">jeđđedit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">trøste</t>
          </tg>
       </mg>
    </e>

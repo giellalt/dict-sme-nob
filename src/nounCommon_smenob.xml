@@ -19640,7 +19640,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l illpl="ok" pos="n">boardda</l>
       </lg>
@@ -38104,13 +38104,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="more">
       <lg>
          <l illpl="ok" pos="n">eallinvuohki</l>
       </lg>
       <mg>
          <tg>
             <t pos="n">levesett</t>
+            <t pos="m">levemåte</t>
          </tg>
       </mg>
       <mg>
@@ -80888,16 +80889,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">luohttámuš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">tillit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l illpl="ok" pos="n">luoitahat</l>
       </lg>
       <mg>
@@ -86716,7 +86707,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+  <e usage="more">
       <lg>
          <l illpl="ok" pos="n">mieiganstuollu</l>
       </lg>
@@ -96621,16 +96612,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="S">syl</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="ped">
-      <lg>
-         <l illpl="ok" pos="n">násteboagán</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">sølvbelte</t>
          </tg>
       </mg>
    </e>
@@ -154414,31 +154395,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="more">
       <lg>
-         <l illpl="ok" pos="n">boardda</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="f">yttertrapp</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
          <l illpl="ok" pos="n">giláš</l>
       </lg>
       <mg>
          <tg>
             <t pos="f">grend</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="more">
-      <lg>
-         <l illpl="ok" pos="n">eallinvuohki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">levemåte</t>
          </tg>
       </mg>
    </e>
@@ -155073,7 +155034,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="more">
+   <e usage="ped">
       <lg>
          <l illpl="ok" pos="n">násteboagán</l>
       </lg>
@@ -155220,6 +155181,72 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">kollega</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l illpl="ok" pos="n">lahkosat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nærmeste omegn</t>
+	<xg>
+	  <x>Doppe leat ollu luopmánat Guovdageainnu lahkosiin.</x>
+	  <xt>Det er mye molter i nærheten av Kautokeino.</xt>
+	</xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l illpl="ok" pos="n">girjehildu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">bokhylle</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l illpl="ok" pos="n">olgu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">utendørs</t>
+	<xg>
+	  <x>olggu ovddas</x>
+	  <xt>i friluft</xt>
+	</xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l illpl="ok" pos="n">oappážat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">søsken</t>
+	<xg>
+	  <x>Soai leaba oappážagat.</x>
+	  <xt>De to er søsken.</xt>
+	</xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="more">
+      <lg>
+         <l illpl="ok" pos="n">vieljažat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">søsken</t>
+	<xg>
+	  <x>Soai leaba vieljažagat.</x>
+	  <xt>De to er søsken.</xt>
+	</xg>
          </tg>
       </mg>
    </e>
