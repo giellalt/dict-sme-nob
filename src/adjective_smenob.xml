@@ -2122,16 +2122,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="olmmoš" pos="a">formálalaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">formell</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l context="olmmoš" pos="a">fortuitiiva</l>
       </lg>
       <mg>
@@ -2299,7 +2289,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">gaskaahkásaš</l>
       </lg>
@@ -5845,7 +5835,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="a">ruđalaš</l>
       </lg>
@@ -6027,6 +6017,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">vikarierende</t>
+            <t pos="m">stedfortreder</t>
          </tg>
       </mg>
    </e>
@@ -8329,7 +8320,7 @@ For the full license text, see the link above.</lic>
                <x>šlinco- (šlincobivttas)</x>
                <xt>(slasket klesplagg)</xt>
                <x>šlince- (šlincebivttas)</x>
-               <xt></xt>
+               <xt>(slasket klesplagg)</xt>
             </xg>
          </tg>
       </mg>
@@ -8730,7 +8721,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">tilhørende</t>
             <xg>
-               <x>Geahččalan aŋkke gozohit visot servodahkii gullevaš áššiid.</x>
+               <x>Geahččalan aŋkke gozihit visot servodahkii gullevaš áššiid.</x>
                <xt>Jeg prøver likevel å følge med i alle samfunnssaker.</xt>
             </xg>
          </tg>
@@ -9998,7 +9989,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="adv">badjelgeahčči</l>
+         <l context="reive" pos="adv">badjelgeahčči</l>
       </lg>
       <mg>
          <tg>
@@ -10018,11 +10009,120 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l context="reive" pos="a">gaskaahkásaš</l>
+         <l context="no" pos="a">guovdageaidnulaš</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a">middelaldrende</t>
+            <t pos="x">fra Kautokeino</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="sivdnádus" pos="a">guovttejuolggat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">med to bein</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="sivdnádus" pos="a">njealjejuolggat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">firbeint</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="aviisa" pos="a">ihttáš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">morgendagens</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="aviisa" pos="a">otnáš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">dagens</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="fanas" pos="a">jurbolaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ustø</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="opmodat" pos="a">priváhtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">privat</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="johka" pos="a">rávdnjás</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">med mye strøm</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="aviisa" pos="a">vahkkosaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ukentlig</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="a">vanhurskkis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">gudfryktig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">rettferdig</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l context="aviisa" pos="a">áibmadas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">kolossal</t>
+        <xg>
+          <x>Čuovuimet duoid áibmadas lottiid girddašeami.</x>
+          <xt>Vi fulgte flygingen til de kolossale fuglene der borte.</xt>
+        </xg>
          </tg>
       </mg>
    </e>

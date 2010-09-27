@@ -2228,6 +2228,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">ila</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">altfor</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj">
       <lg>
          <l pos="adv">ilá</l>
@@ -2241,6 +2251,21 @@ For the full license text, see the link above.</lic>
    <e src="nj">
       <lg>
          <l pos="adv">illá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">såvidt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">nesten ikke</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">ille</l>
       </lg>
       <mg>
          <tg>
@@ -3272,6 +3297,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">samme</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">iđedis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">om morgenen</t>
          </tg>
       </mg>
    </e>
@@ -4977,7 +5012,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">fra før</t>
 	<xg>
-	  <x>Soai máhttiba sámegiela ovddalaččas juo.</x>
+	  <x>Soai máhttiba sámegiela ovdalaččas juo.</x>
 	  <xt>De to kan samisk fra før.</xt>
 	</xg>
          </tg>
@@ -5246,6 +5281,60 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
+         <l pos="adv">oidnosis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">synlig</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">omd</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">f.eks.</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">sallalaga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">i hverandres favn</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">sallalagaid</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">i hverandres favn</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">álgoálggos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">helt i begynnelse</t>
+        <xg>
+          <x>Go eiseválddit álgoálggos leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go dál lea dilli šaddan váttisin.</x>
+          <xt>Når myndighetene fra begynnelsen har lagt opp situasjonen sånn her, så må de takke seg selv for at situasjonen nå er blitt vanskelig.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
          <l pos="adv">fárrolaga</l>
       </lg>
       <mg>
@@ -5255,6 +5344,24 @@ For the full license text, see the link above.</lic>
           <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
           <xt>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</xt>
         </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">juogo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">enten</t>
+            <xg>
+               <x>juogo .. dahje</x>
+               <xt>enten .. eller</xt>
+            </xg>
+            <xg>
+               <x>Olbmot sáhttet gáibidit vuoigatvuođaid juogo eaŋkil olmmožin dahje joavkun.</x>
+               <xt>Folk kan kreve rettigheter enten som enkeltmenneske eller som gruppe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
