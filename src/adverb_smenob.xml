@@ -125,7 +125,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">jaska</l>
       </lg>
@@ -600,8 +600,8 @@ For the full license text, see the link above.</lic>
                <xt>enda bedre</xt>
             </xg>
             <xg>
-               <x>son lea ain dáppe</x>
-               <xt>Hun er fremdeles der</xt>
+               <x>Son lea ain dáppe.</x>
+               <xt>Hun er fremdeles der.</xt>
             </xg>
          </tg>
       </mg>
@@ -618,27 +618,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">aktanaga</l>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">aleine</t>
+            <t pos="adv">samtidig</t>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">aktan</l>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">aleine</t>
+            <t pos="adv">sammen (med)</t>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">aktiivvalaččat</l>
       </lg>
@@ -658,7 +658,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">alfabehtalaččat</l>
       </lg>
@@ -676,16 +676,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">likevel</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">badjelgeahčči</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">fornedrende</t>
          </tg>
       </mg>
    </e>
@@ -714,7 +704,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">gárrenoaivvis</l>
       </lg>
@@ -724,13 +714,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">jienaskeahttá</l>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">avholdende</t>
+            <t pos="x">stemme avholdende</t>
             <xg>
                <x>Áirras lei jienaskeahttá.</x>
                <xt>Representanten stemte avholdende.</xt>
@@ -823,7 +813,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">vieruiduvvan</l>
       </lg>
@@ -923,7 +913,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">aktii</l>
       </lg>
@@ -1811,7 +1801,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">farga</l>
       </lg>
@@ -2776,10 +2766,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">fram</t>
             <xg>
-               <x>Ruoŧa eanagirjjiin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles
-               Finnmárkkus.</x>
-               <xt>I svenske jordebøker fra årene 1738-1741 kommer det fram at privat eie av jord var vanlig i hele
-               Finnmark.</xt>
+               <x>Ruoŧa eanagirjjiin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles Finnmárkkus.</x>
+               <xt>I svenske jordebøker fra årene 1738-1741 kommer det fram at privat eie av jord var vanlig i hele Finnmark.</xt>
             </xg>
          </tg>
       </mg>
@@ -2832,7 +2820,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">muhtumin</l>
       </lg>
@@ -3761,7 +3749,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l pos="adv">eisege</l>
       </lg>
@@ -5198,76 +5186,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
-      <lg>
-         <l pos="adv">davágeaže</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">langs nordsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat davágeaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs nordsiden av vannet.</xt>
-	</xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="adv">nuorttageaže</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">langs østsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat nuorttageaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs østsiden av vannet.</xt>
-	</xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="adv">lulágeaže</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">langs sørsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat lulágeaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs sørsiden av vannet.</xt>
-	</xg>
-         </tg>
-      </mg>
-   </e>
-    <e usage="vd">
-      <lg>
-         <l pos="adv">máttageaže</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">langs sørsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat máttageaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs sørsiden av vannet.</xt>
-	</xg>
-         </tg>
-      </mg>
-   </e>
-  <e usage="vd">
-      <lg>
-         <l pos="adv">oarjjageaže</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">langs vestsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat oarjjageaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs vestsiden av vannet.</xt>
-	</xg>
-         </tg>
-      </mg>
-   </e>
     <e usage="vd">
       <lg>
          <l pos="adv">aitosaččat</l>
@@ -5313,6 +5231,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">ved øverenden</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">buoret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">bedre</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="adv">fárrolaga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">sammen</t>
+        <xg>
+          <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
+          <xt>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</xt>
+        </xg>
          </tg>
       </mg>
    </e>

@@ -3964,10 +3964,6 @@ For the full license text, see the link above.</lic>
                <x>Nu ledjen áhččán oaidnán botnjat vuoncá oaivvi.</x>
                <xt>Slik hadde jeg sett faren min vri hodet på høna.</xt>
             </xg>
-            <xg>
-               <x>Čoavji botnjasa, oaivvis jorragoahtá ja šaddá lossat vuoigŋat.</x>
-               <xt>Det vrir seg i magen, det begynner å gå rundt i hodet og det blir tungt å puste.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -22716,8 +22712,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">oppnevne</t>
             <xg>
-               <x>Gieskat nammadii Sámediggi boazodoalloplánalávdegotti.</x>
-               <xt>Nylig oppnevnte Sametinget et reindriftsplanutvalg.</xt>
+               <x>Gieskat nammadii Sámediggi ođđa lávdegotti.</x>
+               <xt>Nylig oppnevnte Sametinget et nŧtt utvalg.</xt>
             </xg>
          </tg>
       </mg>
@@ -39606,6 +39602,72 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">skye til</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">bonjastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vri en gang</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">bosihastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puste ut</t>
+            <xg>
+               <x>Ja dál beassá bárdni sihkastit bivastaga ja bosihastit.</x>
+               <xt>Og nå får gutten tørke svetten og puste ut.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">bosihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puste ut</t>
+	<xg>
+	  <x>De lea ge buorre veaháš bosihit, ja lohkalit aviissa.</x>
+	  <xt>Og så er det godt å puste ut litt, og lese litt i avisa.</xt>
+	</xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="mun" pos="v">botnjasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vri seg</t>
+            <xg>
+               <x>Čoavji botnjasa, oaivvis jorragoahtá ja šaddá lossat vuoigŋat.</x>
+               <xt>Det vrir seg i magen, det begynner å gå rundt i hodet og det blir tungt å puste.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">duolmmastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">trø en gang</t>
+            <xg>
+               <x>Min biilavuoddji lei nu suorganan ahte ille šat nagoda duolmmastit gása.</x>
+               <xt>Bilføreren vår var så forskrekket at han/hun knapt greide å trø på gassen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
