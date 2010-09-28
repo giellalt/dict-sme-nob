@@ -477,7 +477,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">addjot</l>
       </lg>
@@ -629,7 +629,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">ahtanuššat</l>
       </lg>
@@ -799,7 +799,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">albmadit</l>
       </lg>
@@ -839,7 +839,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">alidit</l>
       </lg>
@@ -928,8 +928,13 @@ For the full license text, see the link above.</lic>
             <t pos="v">avdekke</t>
          </tg>
       </mg>
-   </e>
-   <e>
+       <mg>
+         <tg>
+            <t pos="v">utgi</t>
+         </tg>
+      </mg>
+  </e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">almmáskit</l>
       </lg>

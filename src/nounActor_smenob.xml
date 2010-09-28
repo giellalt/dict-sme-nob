@@ -409,7 +409,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="n">uhyre</t>
+            <t pos="actor">uhyre</t>
             <xg>
                <x/>
                <xt/>
@@ -443,6 +443,46 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="m">morder</t>
             <t pos="m">avliver</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="actor">gažadeaddji</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">spørsmålstiller</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="actor">guoddi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">bærer</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="actor">giellamielbargi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">språkmedarbeider</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="actor">giellabargi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">språkmedarbeider</t>
          </tg>
       </mg>
    </e>
@@ -662,7 +702,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">kjæledyr</t>
+            <t pos="actor">kjæledyr</t>
          </tg>
       </mg>
    </e>
@@ -674,12 +714,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">levende vesen</t>
+            <t pos="actor">levende vesen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n">dyr</t>
+            <t pos="actor">dyr</t>
          </tg>
       </mg>
    </e>
@@ -690,7 +730,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">fly</t>
+            <t pos="actor">fly</t>
          </tg>
       </mg>
       <mg>
@@ -719,7 +759,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="m">død</t>
-            <t pos="n">lik</t>
+            <t pos="actor">lik</t>
          </tg>
       </mg>
    </e>
