@@ -129,16 +129,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="actor">ovddasteaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">representant</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l illpl="ok" pos="actor">váldodoaimmaheaddji</l>
       </lg>
       <mg>
@@ -1010,16 +1000,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="actor">giellamielbargi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">språkmedarbeider</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l illpl="ok" pos="actor">prošeaktamielbargi</l>
       </lg>
       <mg>
@@ -1332,16 +1312,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="m">ekspropriant</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="actor">bálvaleaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">tjener</t>
          </tg>
       </mg>
    </e>
@@ -1800,6 +1770,11 @@ For the full license text, see the link above.</lic>
             <t pos="m">nomade</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="S">trafikant</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1818,16 +1793,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="S">dørselger</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="actor">johtaleaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="S">trafikant</t>
          </tg>
       </mg>
    </e>
@@ -3920,6 +3885,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="S">fotgjenger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l illpl="ok" pos="actor">ovddasvástideaddji</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ansvarshavende</t>
          </tg>
       </mg>
    </e>
