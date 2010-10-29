@@ -116,7 +116,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">duohkin</l>
       </lg>
@@ -126,7 +126,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">siskkobealde</l>
       </lg>
@@ -244,7 +244,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">også, sannelig</t>
+            <t pos="adv">også</t>
+            <t pos="???">sannelig</t>
             <xg>
                <x>de son gis</x>
                <xt>også han</xt>
@@ -284,7 +285,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nå, på en måte</t>
+            <t pos="adv">nå</t>
+            <t pos="???">da</t>
             <xg>
                <x>Mo ba dan galgá dahkat?</x>
                <xt>Hvordan skal man gjøre det da?</xt>
@@ -415,7 +417,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="cc">dehe</l>
       </lg>
@@ -585,7 +587,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="cs">dugo</l>
       </lg>
@@ -906,24 +908,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="p">via</t>
+            <t pos="???">med</t>
             <xg>
                <x>EU-doarjja Interreg bokte sáhttá mannat dakkár prošeavttaide.</x>
                <xt>EU-støtte via Interreg kan gå til slike prosjekter.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="p">ved (med)</t>
-            <xg>
-               <x>Finnmárkus leat ássan dušše sápmelaččat, geat giela ja kultuvrra bokte ovddastit čearddalaš unnitlogu
-               Norggas.</x>
-               <xt>I Finnmark har det bodd bare samer, som ved (med) språk og kultur danner et nasjonalt mindretall i
-               Norge.</xt>
-            </xg>
             <xg>
                <x>Dakko bokte lea sestojuvvon ollu ruhta.</x>
                <xt>Med dette er det spart mye penger.</xt>
+            </xg>
+            <xg>
+               <x>Finnmárkus leat ássan dušše sápmelaččat, geat giela ja kultuvrra bokte ovddastit čearddalaš unnitlogu
+               Norggas.</x>
+               <xt>I Finnmark har det bodd bare samer, som med språk og kultur danner et nasjonalt mindretall i
+               Norge.</xt>
             </xg>
          </tg>
       </mg>
@@ -1345,7 +1343,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">om (om tid)</t>
+            <t pos="adv">om</t>
+            <te>om tid</te>
             <xg>
                <x>Guđa mánu geahčen oažžu dollet Olmmáivággái.</x>
                <xt>Om seks måneder får han/hun reise til Manndalen.</xt>
@@ -1382,7 +1381,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">ende (til)</t>
+            <t pos="adv">ende</t>
+            <te>til enden</te>
             <xg>
                <x>Son čievččasta čižžedoalana nuppi geahčái viesu.</x>
                <xt>Han/hun sparker BHen til andre enden av huset.</xt>
@@ -1534,7 +1534,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">maŋŋel</l>
       </lg>
@@ -1544,7 +1544,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="pr">maŋŋel</l>
       </lg>
@@ -2037,7 +2037,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">sjøl (om flere)</t>
+            <t pos="pron">sjøl</t>
+            <te>om flere</te>
             <xg>
                <x>Mii leat dan ieža dáhkan.</x>
                <xt>Vi har gjort det sjøl.</xt>
@@ -2152,7 +2153,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="cs">ovdalgo</l>
       </lg>
@@ -2172,7 +2173,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">duohkái</l>
       </lg>
@@ -2182,7 +2183,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">duohkai</l>
       </lg>
@@ -2192,7 +2193,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">gaskii</l>
       </lg>
@@ -2202,7 +2203,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">ovdii</l>
       </lg>
@@ -2212,7 +2213,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">olggobeallái</l>
       </lg>
@@ -2222,21 +2223,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="pcle">ges</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">i sin tur</t>
-  	<xg>
-	  <x>Go biktasiid lea bassan ja goikadan, ferte ges máhccut daid.</x>
-	  <xt>Når man har vaska og tørka klær, så må man også brette dem.</xt>
-	</xg>
+            <xg>
+               <x>Go biktasiid lea bassan ja goikadan, ferte ges máhccut daid.</x>
+               <xt>Når man har vaska og tørka klær, så må man også brette dem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="pr">badjelis</l>
       </lg>
@@ -2244,14 +2245,14 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">ovenfor</t>
             <t pos="x">høyere oppe</t>
-  	<xg>
-	  <x>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</x>
-	  <xt>De måler hvor mye hvert vann er over havnivå.</xt>
-	</xg>
+            <xg>
+               <x>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</x>
+               <xt>De måler hvor mye hvert vann er over havnivå.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">bajábeallai</l>
       </lg>
@@ -2269,10 +2270,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">langs nordsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat davágeaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs nordsiden av vannet.</xt>
-	</xg>
+            <xg>
+               <x>Buoremus lea čuoigat davágeaže jávrri.</x>
+               <xt>Det er best å gå på ski langs nordsiden av vannet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2283,10 +2284,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">langs østsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat nuorttageaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs østsiden av vannet.</xt>
-	</xg>
+            <xg>
+               <x>Buoremus lea čuoigat nuorttageaže jávrri.</x>
+               <xt>Det er best å gå på ski langs østsiden av vannet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2297,42 +2298,42 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">langs sørsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat lulágeaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs sørsiden av vannet.</xt>
-	</xg>
+            <xg>
+               <x>Buoremus lea čuoigat lulágeaže jávrri.</x>
+               <xt>Det er best å gå på ski langs sørsiden av vannet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="pr">máttageaže</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">langs sørsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat máttageaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs sørsiden av vannet.</xt>
-	</xg>
+            <xg>
+               <x>Buoremus lea čuoigat máttageaže jávrri.</x>
+               <xt>Det er best å gå på ski langs sørsiden av vannet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="pr">oarjjageaže</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">langs vestsiden</t>
-  	<xg>
-	  <x>Buoremus lea čuoigat oarjjageaže jávrri.</x>
-	  <xt>Det er best å gå på ski langs vestsiden av vannet.</xt>
-	</xg>
+            <xg>
+               <x>Buoremus lea čuoigat oarjjageaže jávrri.</x>
+               <xt>Det er best å gå på ski langs vestsiden av vannet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="pron" type="indef">goappaš</l>
       </lg>
@@ -2346,17 +2347,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="po">guvlui</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">i retning av</t>
-        <xg>
-          <x>Liikká orru mannamin dan guvlui.</x>
-          <xt>Det virker likevel å gå i den retningen.</xt>
-        </xg>
+            <xg>
+               <x>Liikká orru mannamin dan guvlui.</x>
+               <xt>Det virker likevel å gå i den retningen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
