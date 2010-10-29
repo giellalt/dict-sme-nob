@@ -169,7 +169,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="g3">bieggafiellu</l>
       </lg>
@@ -179,7 +179,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="g3">bieggamillu</l>
       </lg>
@@ -255,12 +255,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">dyr (ikke husdyr)</t>
+            <t pos="n">dyr</t>
+            <te>ikke husdyr</te>
          </tg>
-      </mg>
-      <mg>
          <tg>
-            <t pos="S">småvilt</t>
+            <t pos="n">småvilt</t>
          </tg>
       </mg>
    </e>
@@ -354,8 +353,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="m">hotell</t>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
@@ -442,7 +441,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="g3">rolla</l>
       </lg>
@@ -509,7 +508,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="g3">tabealla</l>
       </lg>
@@ -540,7 +539,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="g3">náhkkesoffá</l>
       </lg>
@@ -550,7 +549,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="g3">uksabiellu</l>
       </lg>

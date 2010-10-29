@@ -28,7 +28,7 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">himolaš</l>
       </lg>
@@ -39,7 +39,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">birgemeahttun</l>
       </lg>
@@ -59,7 +59,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">riikaviidosaš</l>
       </lg>
@@ -69,7 +69,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">juhkki</l>
       </lg>
@@ -79,7 +79,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ášši" pos="a">ovttabealat</l>
       </lg>
@@ -89,7 +89,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ášši" pos="a">ovddit</l>
       </lg>
@@ -99,7 +99,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ášši" pos="a">áddetmeahttun</l>
       </lg>
@@ -204,7 +204,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">aitosaš</l>
       </lg>
@@ -511,7 +511,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">bargonávccalaš</l>
       </lg>
@@ -2172,7 +2172,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="bargu" pos="a">fágalaš</l>
       </lg>
@@ -3334,7 +3334,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="doaibma" pos="a">hálddahuslaš</l>
       </lg>
@@ -5191,7 +5191,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="oaidnu" pos="a">oppalaš</l>
       </lg>
@@ -5467,7 +5467,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dáhpáhus" pos="a">historjjálaš</l>
       </lg>
@@ -5507,7 +5507,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">politihkalaš</l>
       </lg>
@@ -5814,7 +5814,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="mearrádus" pos="a">loahpalaš</l>
       </lg>
@@ -5842,7 +5842,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t context="veahkki" pos="a">finansiell</t>
-             <xg>
+            <xg>
                <x>Mis eai leat ruđalaš eaige olmmošlaš návccat dien bargui.</x>
                <xt>Vi har hverken økonomiske eller menneskelige ressurser til det arbeidet.</xt>
             </xg>
@@ -6289,7 +6289,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">hul under snø eller is</t>
+            <t pos="a">hulrom under snø eller is</t>
             <xg>
                <x>skoavde- (skoavdeláibi)</x>
                <xt>(hult brød)</xt>
@@ -6969,7 +6969,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">skyldig (har gjeld)</t>
+            <t pos="x">skyldig</t>
+            <te>har gjeld</te>
          </tg>
       </mg>
    </e>
@@ -7200,7 +7201,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">lav (ikke høy)</t>
+            <t pos="a">lav</t>
          </tg>
       </mg>
    </e>
@@ -7211,12 +7212,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">gammel (om menneske)</t>
+            <t pos="x">gammel</t>
+            <te>om menneske</te>
             <t pos="a">aldrende</t>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="luohkká" pos="a">vuosttas</l>
       </lg>
@@ -7777,7 +7779,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">aktiv rolle</t>
+            <t pos="a">aktiv</t>
          </tg>
       </mg>
    </e>
@@ -8193,7 +8195,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="viesut" pos="a">dálá</l>
       </lg>
@@ -8207,7 +8209,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">čuovvovaš</l>
       </lg>
@@ -8429,7 +8431,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vahkku" pos="a">boahtte</l>
       </lg>
@@ -8437,13 +8439,15 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">kommende</t>
             <xg>
-               <x>Mearriduvvon lea ahte suodjalus galgá boahtte 15 jagis oastit ođđa nugohčoduvvon panserbiillaid oktiibuot 100 miljárdda ruvnno ovddas.</x>
-               <xt>Det er bestemt at forsvaret skal de neste 15 årene kjøpe såkalte panserbiler for ialt 100 milliarder kroner.</xt>
+               <x>Mearriduvvon lea ahte suodjalus galgá boahtte 15 jagis oastit ođđa nugohčoduvvon panserbiillaid
+               oktiibuot 100 miljárdda ruvnno ovddas.</x>
+               <xt>Det er bestemt at forsvaret skal de neste 15 årene kjøpe såkalte panserbiler for ialt 100 milliarder
+               kroner.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="diibmu" pos="a">maŋemus</l>
       </lg>
@@ -8453,7 +8457,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="diibmu" pos="a">maŋimuš</l>
       </lg>
@@ -8463,7 +8467,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="girji" pos="a">sámegiel</l>
       </lg>
@@ -8473,7 +8477,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vástádus" pos="a">sihkar</l>
       </lg>
@@ -8483,7 +8487,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">otná</l>
       </lg>
@@ -8493,7 +8497,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olbmot" pos="a">eanaš</l>
       </lg>
@@ -8504,7 +8508,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="festivála" pos="a">jagáš</l>
       </lg>
@@ -8514,7 +8518,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="boađus" pos="a">ekonomalaš</l>
       </lg>
@@ -8524,7 +8528,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olbmot" pos="a">iešguđetlágan</l>
       </lg>
@@ -8534,7 +8538,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ipmárdus" pos="a">boasttu</l>
       </lg>
@@ -8544,7 +8548,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="girji" pos="a">boahttevaš</l>
       </lg>
@@ -8554,7 +8558,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ráidu" pos="a">maŋit</l>
       </lg>
@@ -8564,7 +8568,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ovttasbargu" pos="a">kultuvrralaš</l>
       </lg>
@@ -8574,7 +8578,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ráidu" pos="a">lagamus</l>
       </lg>
@@ -8584,7 +8588,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="none" pos="a">nammasaš</l>
       </lg>
@@ -8594,7 +8598,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ráidu" pos="a">bajit</l>
       </lg>
@@ -8604,7 +8608,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="bivttas" pos="a">seammalágan</l>
       </lg>
@@ -8614,7 +8618,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ildu" pos="a">bajimuš</l>
       </lg>
@@ -8624,7 +8628,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vástádus" pos="a">positiivvalaš</l>
       </lg>
@@ -8634,7 +8638,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vástádus" pos="a">eahpesihkar</l>
       </lg>
@@ -8644,7 +8648,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vástádus" pos="a">sullasaš</l>
       </lg>
@@ -8654,7 +8658,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vástádusat" pos="a">máŋggalágan</l>
       </lg>
@@ -8664,7 +8668,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="beana" pos="a">várálaš</l>
       </lg>
@@ -8674,7 +8678,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="oahpahus" pos="a">gaskaboddosaš</l>
       </lg>
@@ -8684,7 +8688,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vástádus" pos="a">váilevaš</l>
       </lg>
@@ -8694,7 +8698,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">oahppováillat</l>
       </lg>
@@ -8704,7 +8708,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="girji" pos="a">dihto</l>
       </lg>
@@ -8714,7 +8718,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">jierpmálaš</l>
       </lg>
@@ -8724,7 +8728,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="none" pos="a">gullevaš</l>
       </lg>
@@ -8738,7 +8742,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dáhpáhus" pos="a">váidalahtti</l>
       </lg>
@@ -8748,7 +8752,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">duđavaš</l>
       </lg>
@@ -8758,7 +8762,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="panserbiila" pos="a">nugohčoduvvon</l>
       </lg>
@@ -8766,13 +8770,15 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">såkalt</t>
             <xg>
-               <x>Mearriduvvon lea ahte suodjalus galgá boahtte 15 jagis oastit ođđa nugohčoduvvon panserbiillaid oktiibuot 100 miljárdda ruvnno ovddas.</x>
-               <xt>Det er bestemt at forsvaret skal de neste 15 årene kjøpe såkalte panserbiler for ialt 100 milliarder kroner.</xt>
+               <x>Mearriduvvon lea ahte suodjalus galgá boahtte 15 jagis oastit ođđa nugohčoduvvon panserbiillaid
+               oktiibuot 100 miljárdda ruvnno ovddas.</x>
+               <xt>Det er bestemt at forsvaret skal de neste 15 årene kjøpe såkalte panserbiler for ialt 100 milliarder
+               kroner.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="stáhtaministtar" pos="a">dalá</l>
       </lg>
@@ -8782,7 +8788,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vástádus" pos="a">persovnnalaš</l>
       </lg>
@@ -8792,7 +8798,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="girji" pos="a">dárogiel</l>
       </lg>
@@ -8802,7 +8808,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="riidu" pos="a">dárbbašmeahttun</l>
       </lg>
@@ -8816,7 +8822,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">dáiddalaš</l>
       </lg>
@@ -8826,7 +8832,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">berošteaddji</l>
       </lg>
@@ -8836,7 +8842,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ášši" pos="a">mearkkašahtti</l>
       </lg>
@@ -8846,7 +8852,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="biila" pos="a">dohkkemeahttun</l>
       </lg>
@@ -8860,7 +8866,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">erenomáš</l>
       </lg>
@@ -8870,7 +8876,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ráidu" pos="a">vuolit</l>
       </lg>
@@ -8880,7 +8886,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dovdu" pos="a">našunála</l>
       </lg>
@@ -8890,7 +8896,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">olmmošlaš</l>
       </lg>
@@ -8906,14 +8912,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t context="návccat" pos="a">menneskelig</t>
-             <xg>
+            <xg>
                <x>Mis eai leat ruđalaš eaige olmmošlaš návccat dien bargui.</x>
                <xt>Vi har hverken økonomiske eller menneskelige ressurser til det arbeidet.</xt>
             </xg>
-        </tg>
+         </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="láhtten" pos="a">vuoiggalaš</l>
       </lg>
@@ -8923,7 +8929,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="mánná" pos="a">guovttegielat</l>
       </lg>
@@ -8933,7 +8939,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="rámma" pos="a">obbalaš</l>
       </lg>
@@ -8944,7 +8950,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="girjjit" pos="a">iešguđetgelágan</l>
       </lg>
@@ -8958,7 +8964,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="bárdni" pos="a">bivnnuheapme</l>
       </lg>
@@ -8968,7 +8974,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dáhpáhus" pos="a">šállošahtti</l>
       </lg>
@@ -8978,7 +8984,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="joavkkut" pos="a">sierranas</l>
       </lg>
@@ -8988,7 +8994,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="mearrádus" pos="a">ovttajienalaš</l>
       </lg>
@@ -8998,7 +9004,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vástádus" pos="a">mearrideaddji</l>
       </lg>
@@ -9008,7 +9014,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="joavku" pos="a">etnalaš</l>
       </lg>
@@ -9018,7 +9024,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="biergasat" pos="a">buotlágan</l>
       </lg>
@@ -9028,7 +9034,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="vealaheapmi" pos="a">čearddalaš</l>
       </lg>
@@ -9038,7 +9044,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="fearán" pos="a">imašlaš</l>
       </lg>
@@ -9048,7 +9054,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="báidi" pos="a">ivdnái</l>
       </lg>
@@ -9058,7 +9064,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="gelbbolašvuohta" pos="a">ovttalágan</l>
       </lg>
@@ -9072,7 +9078,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="bearaš" pos="a">gonagaslaš</l>
       </lg>
@@ -9082,7 +9088,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="láibi" pos="a">roavis</l>
       </lg>
@@ -9092,7 +9098,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olbmot" pos="a">juohkelágan</l>
       </lg>
@@ -9102,7 +9108,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">eaŋkil</l>
       </lg>
@@ -9116,7 +9122,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="bargu" pos="a">áddjái</l>
       </lg>
@@ -9130,7 +9136,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ruskkat" pos="a">iešguđetlágán</l>
       </lg>
@@ -9144,7 +9150,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="meanut" pos="a">girkolaš</l>
       </lg>
@@ -9154,21 +9160,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="oahppu" pos="a">sullásaš</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">liknende</t>
-             <xg>
+            <xg>
                <x>Mus lea sullásaš oahppu.</x>
                <xt>Jeg har en liknende utdanning.</xt>
             </xg>
-        </tg>
+         </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="nieida" pos="a">geasuheaddji</l>
       </lg>
@@ -9178,7 +9184,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="haddi" pos="a">govttolaš</l>
       </lg>
@@ -9188,7 +9194,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="bearaš" pos="a">máŋggakultuvrralaš</l>
       </lg>
@@ -9198,7 +9204,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="niehku" pos="a">ovddemus</l>
       </lg>
@@ -9209,7 +9215,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="čoavddus" pos="a">geavatlaš</l>
       </lg>
@@ -9219,7 +9225,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">ievttá</l>
       </lg>
@@ -9229,7 +9235,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">riikkaviidosaš</l>
       </lg>
@@ -9239,7 +9245,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="jietna" pos="a">čuojaheapme</l>
       </lg>
@@ -9249,7 +9255,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ášši" pos="a">dakkáraš</l>
       </lg>
@@ -9259,7 +9265,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="stáhta" pos="a">iešheanalaš</l>
       </lg>
@@ -9269,7 +9275,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="ovdanbuktin" pos="a">musihkalaš</l>
       </lg>
@@ -9279,7 +9285,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">dihtomielalaš</l>
       </lg>
@@ -9289,7 +9295,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">oskkolaš</l>
       </lg>
@@ -9299,7 +9305,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="lávlla" pos="a">vuosttamuš</l>
       </lg>
@@ -9309,7 +9315,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dáhpáhus" pos="a">juohkebeaivválaš</l>
       </lg>
@@ -9319,7 +9325,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dáhpáhus" pos="a">balddihahtti</l>
       </lg>
@@ -9329,7 +9335,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="orgána" pos="a">álbmotválljejuvvon</l>
       </lg>
@@ -9339,7 +9345,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="preassa" pos="a">sorjjasmeahttun</l>
       </lg>
@@ -9349,7 +9355,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="náššuvnnat" pos="a">ovttastuvvon</l>
       </lg>
@@ -9359,7 +9365,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="johtin" pos="a">friija</l>
       </lg>
@@ -9369,7 +9375,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="biktasat" pos="a">dáláš</l>
       </lg>
@@ -9379,7 +9385,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="máksu" pos="a">mánnosaš</l>
       </lg>
@@ -9389,7 +9395,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="borramuš" pos="a">dearvvašlaš</l>
       </lg>
@@ -9399,7 +9405,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="beana" pos="a">luovos</l>
       </lg>
@@ -9409,7 +9415,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">earalágan</l>
       </lg>
@@ -9419,7 +9425,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dahku" pos="a">suttolaš</l>
       </lg>
@@ -9429,7 +9435,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dilli" pos="a">sávahahtti</l>
       </lg>
@@ -9439,7 +9445,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="mearrádus" pos="a">álbmotrievttálaš</l>
       </lg>
@@ -9449,17 +9455,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="beroštumit" pos="a">guovttelágan</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a">forskjellige (om to)</t>
+            <t pos="a">forskjellige</t>
+            <te>om to</te>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="borramuš" pos="a">vánis</l>
       </lg>
@@ -9469,7 +9476,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">oktanuppelogát</l>
       </lg>
@@ -9479,7 +9486,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktenuppelogát</l>
       </lg>
@@ -9489,7 +9496,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmanuppelogát</l>
       </lg>
@@ -9499,7 +9506,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">njealljenuppelogát</l>
       </lg>
@@ -9509,7 +9516,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">vihttanuppelogát</l>
       </lg>
@@ -9519,7 +9526,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guhttanuppelogát</l>
       </lg>
@@ -9529,7 +9536,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">čiežanuppelogát</l>
       </lg>
@@ -9539,7 +9546,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">gávccinuppelogát</l>
       </lg>
@@ -9549,7 +9556,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">ovccinuppelogát</l>
       </lg>
@@ -9559,7 +9566,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktelogát</l>
       </lg>
@@ -9569,7 +9576,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktelogivuosttaš</l>
       </lg>
@@ -9579,7 +9586,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guokteloginubbi</l>
       </lg>
@@ -9589,7 +9596,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktelogigoalmmát</l>
       </lg>
@@ -9599,7 +9606,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guokteloginjealját</l>
       </lg>
@@ -9609,7 +9616,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktelogiviđát</l>
       </lg>
@@ -9619,7 +9626,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktelogiguđát</l>
       </lg>
@@ -9629,7 +9636,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktelogičihččet</l>
       </lg>
@@ -9639,7 +9646,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktelogigávccát</l>
       </lg>
@@ -9649,7 +9656,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guoktelogiovccát</l>
       </lg>
@@ -9659,7 +9666,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmalogát</l>
       </lg>
@@ -9669,7 +9676,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmalogivuosttaš</l>
       </lg>
@@ -9679,7 +9686,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmaloginubbi</l>
       </lg>
@@ -9689,7 +9696,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmalogigoalmmát</l>
       </lg>
@@ -9699,7 +9706,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmaloginjealját</l>
       </lg>
@@ -9709,7 +9716,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmalogiviđát</l>
       </lg>
@@ -9719,7 +9726,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmalogiguđát</l>
       </lg>
@@ -9729,7 +9736,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmalogičihččet</l>
       </lg>
@@ -9739,7 +9746,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmalogigávccát</l>
       </lg>
@@ -9749,7 +9756,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">golbmalogiovccát</l>
       </lg>
@@ -9759,7 +9766,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">njealljelogát</l>
       </lg>
@@ -9769,7 +9776,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">vihttalogát</l>
       </lg>
@@ -9779,7 +9786,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">guhttalogát</l>
       </lg>
@@ -9789,7 +9796,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">čiežalogát</l>
       </lg>
@@ -9799,67 +9806,67 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">dákkáraš</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">slik som det her</t>
-	<xg>
-	  <x>Lágat leat dagahan sidjiide dákkáraš váttisvuođaid.</x>
-	  <xt>Lovene har foråsaket slike vanskeligheter for dem.</xt>
-	</xg>
+            <xg>
+               <x>Lágat leat dagahan sidjiide dákkáraš váttisvuođaid.</x>
+               <xt>Lovene har foråsaket slike vanskeligheter for dem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">makkáraš</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">hva slags</t>
-	<xg>
-	  <x>Bivdojoavkkus lea lohpi ovtta ealgga velá báhčit, ja ieža besset válljet makkáračča.</x>
-	  <xt>Jaktlaget har lov til å skyte en elg til, og de kan selv velge hva slags.</xt>
-	</xg>
+            <xg>
+               <x>Bivdojoavkkus lea lohpi ovtta ealgga velá báhčit, ja ieža besset válljet makkáračča.</x>
+               <xt>Jaktlaget har lov til å skyte en elg til, og de kan selv velge hva slags.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">duokkáraš</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">slik som det der</t>
-	<xg>
-	  <x>In hálit gullat duokkáraš sivahis čuoččuhusaid.</x>
-	  <xt>Jeg vil ikke høre grunnløse påstander som det der.</xt>
-	</xg>
+            <xg>
+               <x>In hálit gullat duokkáraš sivahis čuoččuhusaid.</x>
+               <xt>Jeg vil ikke høre grunnløse påstander som det der.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
-    <lg>
-      <l pos="a">nuppát</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x"></t>
-	<xg>
-	  <x>Dás lea nuppát olmmoš idjadan áiggi čađa.</x>
-	  <xt></xt>
-	</xg>
-	<xg>
-	  <x>Gussiid moalladuostu dustii nuppát geardde spáppa hui čábbát.</x>
-	  <xt></xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-    <e usage="vd">
+   <e usage="vd">
+      <lg>
+         <l pos="a">nuppát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x"></t>
+            <xg>
+               <x>Dás lea nuppát olmmoš idjadan áiggi čađa.</x>
+               <xt></xt>
+            </xg>
+            <xg>
+               <x>Gussiid moalladuostu dustii nuppát geardde spáppa hui čábbát.</x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l context="albmi" pos="a">jealahas</l>
       </lg>
@@ -9869,7 +9876,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dálki" pos="a">balvái</l>
       </lg>
@@ -9879,7 +9886,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="" pos="a"></l>
       </lg>
@@ -9889,7 +9896,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="čuvla" pos="a">ovttaivnnat</l>
       </lg>
@@ -9899,7 +9906,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="a">čoarvái</l>
       </lg>
@@ -9914,7 +9921,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="gáhkku" pos="a">stuorebuš</l>
       </lg>
@@ -9924,7 +9931,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dálki" pos="a">arvves</l>
       </lg>
@@ -9934,7 +9941,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="čuvla" pos="a">stábat</l>
       </lg>
@@ -9944,7 +9951,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">čalbmes</l>
       </lg>
@@ -9954,7 +9961,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">belljes</l>
       </lg>
@@ -9964,7 +9971,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">njunnes</l>
       </lg>
@@ -9974,7 +9981,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="reive" pos="adv">badjelgeahčči</l>
       </lg>
@@ -9984,7 +9991,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="reive" pos="a">formálalaš</l>
       </lg>
@@ -9994,7 +10001,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="no" pos="a">guovdageaidnulaš</l>
       </lg>
@@ -10004,7 +10011,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="sivdnádus" pos="a">guovttejuolggat</l>
       </lg>
@@ -10014,7 +10021,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="sivdnádus" pos="a">njealjejuolggat</l>
       </lg>
@@ -10024,7 +10031,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">ihttáš</l>
       </lg>
@@ -10034,7 +10041,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">otnáš</l>
       </lg>
@@ -10044,7 +10051,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="fanas" pos="a">jurbolaš</l>
       </lg>
@@ -10054,7 +10061,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="opmodat" pos="a">priváhtta</l>
       </lg>
@@ -10064,7 +10071,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="johka" pos="a">rávdnjás</l>
       </lg>
@@ -10074,7 +10081,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">vahkkosaš</l>
       </lg>
@@ -10084,7 +10091,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">vanhurskkis</l>
       </lg>
@@ -10099,17 +10106,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">áibmadas</l>
       </lg>
       <mg>
          <tg>
             <t pos="x">kolossal</t>
-        <xg>
-          <x>Čuovuimet duoid áibmadas lottiid girddašeami.</x>
-          <xt>Vi fulgte flygingen til de kolossale fuglene der borte.</xt>
-        </xg>
+            <xg>
+               <x>Čuovuimet duoid áibmadas lottiid girddašeami.</x>
+               <xt>Vi fulgte flygingen til de kolossale fuglene der borte.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
