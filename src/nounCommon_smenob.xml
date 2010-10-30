@@ -31541,7 +31541,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">doappal</l>
       </lg>
@@ -34444,15 +34444,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">duk</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t decl="m" pos="n">bordduk</t>
+            <t pos="???">bordduk</t>
             <xg>
                <x></x>
                <xt></xt>
@@ -34460,7 +34452,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">duvvá</l>
       </lg>
@@ -34488,11 +34480,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">ingen ting</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t decl="m" pos="n">bagatell</t>
+            <t pos="???">bagatell</t>
          </tg>
       </mg>
    </e>
@@ -34619,15 +34607,11 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="S">forsikring</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
-            <t pos="S">garanti</t>
+            <t pos="">garanti</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
-            <t pos="S">sikkerhetsstillelse</t>
+            <t pos="">sikkerhetsstillelse</t>
          </tg>
       </mg>
    </e>
@@ -34741,7 +34725,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="f" pos="n">hending</t>
             <t decl="m" pos="n">hendelse</t>
          </tg>
       </mg>
@@ -35181,11 +35164,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="S">bufinn</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="S">fastboende</t>
+            <t pos="???">fastboende</t>
          </tg>
       </mg>
    </e>
@@ -35581,14 +35560,8 @@ For the full license text, see the link above.</lic>
                <xt></xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
          <tg>
-            <t decl="m" pos="n">sikkerhet</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
+            <t pos="">sikkerhet</t>
          </tg>
       </mg>
    </e>
@@ -84385,7 +84358,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">miehterávdnji</l>
       </lg>
@@ -131823,7 +131796,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">veažir</l>
       </lg>
@@ -152280,6 +152253,407 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">hovedrolleinnehaver</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skuvlaseahkka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">skolesekk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liššá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ljå</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">murjenáigi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">muorjesákta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">saft av bær</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mearaguollešládja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">saltvannsfiskesort</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vearsa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">vers</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stáloš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">liten stallo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">buđetbealdu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">potetåker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">buđetgaikun</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">potetopptaking</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">láigenođđu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">garnnøste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ákšonađđa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">økseskaft</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">olgostoahkan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">utelek</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">moallafákta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">målvakt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vahkkobeaivi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ukedag</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gáigi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">dumming</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mearkabeaivi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">merkedag</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mihkalmasbeaivi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">mikkelsmesse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">beaskidanmášiidna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">klippemaskin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuovdinboazu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">rein for salg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njuovvanboazu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">slakterein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ivdnebábir</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">fargepapir</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuosttu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">motbakke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sáhpánráidu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">museraide</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juovlabeahci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">julefuru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juovlanigá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">julenisse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">noras</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">lårbein</t>
+            <t pos="???">margbein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ođđabeaivveruohtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">nyttårsaften</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luonddugovva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">naturbilde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bustávvagirji</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">bokstavbok</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rámburmielki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">butikkmelk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goddeáldu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">simle av villrein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sárgundiibmu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">tegnetime</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jeaggeravda</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">utkanten av myra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">govus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">figur</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stivrrangielká</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">rattkjelke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">guorbmebiilavuoddji</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">lastebilsjåfør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rievssatgiella</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">rypesnare</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muohtadielku</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">snøflokk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skuvlaskibir</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">skolekamerat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čáhceláttoš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">vannpytt</t>
          </tg>
       </mg>
    </e>

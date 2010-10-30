@@ -907,8 +907,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">via</t>
-            <t pos="???">med</t>
+            <t pos="pr">via</t>
+            <t pos="pr">med</t>
             <xg>
                <x>EU-doarjja Interreg bokte sáhttá mannat dakkár prošeavttaide.</x>
                <xt>EU-støtte via Interreg kan gå til slike prosjekter.</xt>
@@ -2353,11 +2353,31 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i retning av</t>
+            <t pos="phrase">i retning av</t>
             <xg>
                <x>Liikká orru mannamin dan guvlui.</x>
                <xt>Det virker likevel å gå i den retningen.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="po">meaddel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pr">forbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="po">meaddil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pr">forbi</t>
          </tg>
       </mg>
    </e>

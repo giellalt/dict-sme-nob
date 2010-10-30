@@ -5003,7 +5003,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">bársat</l>
       </lg>
@@ -10284,7 +10284,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">fierbmut</l>
       </lg>
@@ -39917,6 +39917,112 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">ta en snartur</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sahet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sage</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dolastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fyre</t>
+            <t pos="phrase">ha bål</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dálvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">bli vinter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njorostallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">drive på å kaste lasso</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rámpostit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rose</t>
+            <t pos="v">skryte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ihttohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">se syner</t>
+         </tg>
+         <tg>
+            <t pos="phrase">komme ut for spøkelser</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">libardit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">flagre</t>
+            <t pos="v">vaie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doapmalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">skynde seg veldig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">herskkostallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">spise god mat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">runodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">grønnes</t>
          </tg>
       </mg>
    </e>
