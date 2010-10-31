@@ -2228,11 +2228,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om ull og hår på dyr</re>
             <t pos="v">klippe</t>
-            <xg>
-               <x>Guolggaid beaskida muhto vuovttaid čuohppá.</x>
-               <xt>XXX</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -4398,10 +4395,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">hilse på hverandre</t>
-            <xg>
-               <x>go dadjá bures</x>
-               <xt>XXX</xt>
-            </xg>
+         </tg>
+         <tg>
+            <tf>hilse på flere etter hverandre</tf>
          </tg>
       </mg>
    </e>
@@ -5513,6 +5509,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">knuse</t>
+         </tg>
+         <tg>
+            <t pos="v">veksle</t>
             <xg>
                <x>ruđaid cuvket</x>
                <xt>veksle penger</xt>
@@ -5603,8 +5602,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">forårsake</t>
             <xg>
-               <x>dagahii iežas dohko</x>
-               <xt>han kom seg dit</xt>
+               <x>Son dagahii iežas dohko.</x>
+               <xt>Han kom seg dit.</xt>
             </xg>
          </tg>
       </mg>
@@ -5628,8 +5627,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">late som</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">gjøre seg til</t>
          </tg>
@@ -5703,8 +5700,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">feste</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">klistre</t>
             <t pos="v">klebe</t>
@@ -5787,7 +5782,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">glinse</t>
             <xg>
                <x>go oidno šealgáme guhkkin</x>
-               <xt>XXX</xt>
+               <xt>når det glitrer i det fjerne</xt>
             </xg>
          </tg>
       </mg>
@@ -8391,7 +8386,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">ta imot</t>
             <xg>
                <x>duostu maid nubbi bálkesta</x>
-               <xt>XXX</xt>
+               <xt>tar imot det som den andre kaster</xt>
             </xg>
          </tg>
       </mg>
@@ -12670,10 +12665,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om hund, rev osv.</re>
             <t pos="v">legge seg ned</t>
             <xg>
-               <x>beana goarju</x>
-               <xt>XXX</xt>
+               <x>Beana goarju.</x>
+               <xt>Hunden legger seg ned.</xt>
             </xg>
          </tg>
       </mg>
@@ -17355,10 +17351,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">fiske med garn under isen</t>
-            <xg>
-               <x>sáimma dahje fierpmi bidjat jieŋa vuollái</x>
-               <xt>XXX</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -20117,6 +20109,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>når man ikke får tilbake samme gjenstanden</re>
             <t pos="v">låne</t>
             <xg>
                <x>Ruđaid ja borramušaid lone.</x>
@@ -20286,8 +20279,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">avhende</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">avstå</t>
          </tg>
@@ -20360,10 +20351,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>når man får sammme gjenstanden</re>
             <t pos="v">låne bort</t>
             <xg>
-               <x>Luoiká girjji, muhto lone ruđaid.</x>
-               <xt>XXX</xt>
+               <x>Luoikkat go girjji munnje?</x>
+               <xt>Låner du boka til meg?</xt>
             </xg>
          </tg>
       </mg>
@@ -20545,8 +20537,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">slå gras</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">skjære korn</t>
          </tg>
@@ -20571,8 +20561,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">stelle</t>
             <t pos="v">ordne</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">arrangere</t>
          </tg>
@@ -20735,12 +20723,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">bli vanfør</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">bli skadet</t>
+            <tf>bli vanfør</tf>
+            <tf>bli skadet</tf>
          </tg>
       </mg>
    </e>
@@ -20751,8 +20735,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">bli vanfør</t>
-            <t pos="v">bli skadet</t>
+            <tf>bli vanfør</tf>
+            <tf>bli skadet</tf>
          </tg>
       </mg>
    </e>
@@ -20999,16 +20983,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">gå</t>
+            <t pos="v">dra</t>
+            <t pos="v">reise</t>
             <xg>
                <x>Mana ruoktot!</x>
                <xt>Gå hjem!</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">dra</t>
-            <t pos="v">reise</t>
             <xg>
                <x>Mana dearvan!</x>
                <xt>Ha det bra! (til den som drar)</xt>
@@ -21156,8 +21136,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">blande seg sammen</t>
             <xg>
-               <x>boazoealut mastet</x>
-               <xt>reinflokkene blander seg sammen</xt>
+               <x>Boazoealut mastet.</x>
+               <xt>Reinflokkene blander seg sammen.</xt>
             </xg>
          </tg>
       </mg>
@@ -21207,7 +21187,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="v">sakne</t>
+            <t pos="v">saktne</t>
             <xg>
                <x>Diibmu maŋida.</x>
                <xt>Klokka saktner.</xt>
@@ -21397,8 +21377,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">bestemme</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">definere</t>
          </tg>
@@ -21515,8 +21493,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">anslå</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">definere</t>
          </tg>
@@ -31979,10 +31955,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">senne</t>
-            <xg>
-               <x>gámasuinniid coggat</x>
-               <xt>XXX</xt>
-            </xg>
          </tg>
       </mg>
    </e>
