@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML" "../../scripts/gt_staticdictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
+"../../scripts/gt_staticdictionary.dtd">
 <r>
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -28,543 +28,540 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">veahá</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">litt</t>
-	<xg>
-	  <x>Vuoidalin veahá juolgesuorpmaid nai, go lávejit nu bivastuvvat.</x>
-	  <xt>Jeg smurte litt på tærne også, fordi de pleier å bli så svette.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">veaháš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">litt</t>
-	<xg>
-	  <x>De lea ge buorre veaháš bosihit, ja lohkalit aviissa.</x>
-	  <xt>Og så er det godt å puste ut litt, og lese litt i avisa.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">iešguhtet</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">hver sin</t>
-        <t pos="x">hver (av flere enn to)</t>
-	<xg>
-	  <x>Iešguhtet válddii doppe biillas.</x>
-	  <xt>Der tok de hver sin bil.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">buohkat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">alle sammen</t>
-	<xg>
-	  <x>Čoahkkin lea rabas buohkaide - bures boahtin!</x>
-	  <xt>Møtet er åpent for alle - velkommen!</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">eará</l>
-      <lc>earát</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">annen</t>
-        <t pos="x">andre</t>
-	<xg>
-	  <x>Dákkár viiddis máhttu ii leat nu gallásis earáin.</x>
-	  <xt>En slik bred kunnskap er det ikke mange andre som har.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">goappašagat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">begge</t>
-        <t pos="pron">hver av to</t>
-	<xg>
-	  <x>Soai leaba goappašagat vázzán dáiddaallaskuvlla.</x>
-	  <xt>De har begge gått på kunsthøgskole.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">guktot</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">begge</t>
-	<xg>
-	  <x>Moai letne guktot fitnan Helssegis.</x>
-	  <xt>Vi har begge vært en tur i Helsinki.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">iežá</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">annen</t>
-        <t pos="n">annet</t>
-	<xg>
-	  <x>In sáhte iežáid váldit mielde dohko.</x>
-	  <xt>Jeg kan ikke ta andre med dit.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef">juoga</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">noe</t>
-	<xg>
-	  <x>Ođđa nominašuvnna sáhttá gáibidit jus lea juoga dahkkon formálalaččat boastut.</x>
-	  <xt>Ny nominasjon kan man kreve hvis det er gjort noe formelt feil.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">juohkehaš</l>
-
-      <lc>-haččat, -hažžii</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="m">hver</t>
-        <t pos="m">enhver</t>
-	<xg>
-	  <x>Dain ledje fas juohkehaččas sierra nuohttunbáikkit ja fierbmunbáikkit.</x>
-	  <xt>Av dem så hadde hver enkelt egne notsteder og garnsteder.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">moanat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">flere (ca 4-10)</t>
-	<xg>
-	  <x>Mun lean moanaid juo bovden.</x>
-	  <xt>Jeg har allerede invitert nokså mange.</xt>
-	</xg>
-	<xg>
-	  <x>Mun lean moanaid olbmuid juo bovden.</x>
-	  <xt>Jeg har allerede invitert nokså mange mennesker.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">muhtin</l>
-
-      <lc>muhtimat</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">en</t>
-        <t pos="x">noen</t>
-	<xg>
-	  <x>De oahpaheaddji fuomáša muhtima gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
-	  <xt>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</xt>
-	</xg>
-	<xg>
-	  <x>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtimat fas ásaiduvve Alaskai.</x>
-	  <xt>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">muhtun</l>
-      <lc>muhtumat</lc>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">en</t>
-        <t pos="x">noen</t>
-	<xg>
-	  <x>De oahpaheaddji fuomáša muhtuma gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
-	  <xt>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</xt>
-	</xg>
-	<xg>
-	  <x>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtumat fas ásaiduvve Alaskai.</x>
-	  <xt>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">nubbi</l>
-      <lc>nuppit</lc>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">annen</t>
-	<xg>
-	  <x>Ja de ii leat lohpi nuppiid borrat.</x>
-	  <xt>Og så er det ikke lov å spise de andre.</xt>
-	</xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-	<t pos="x">ene</t>
-	<xg>
-	  <x>Nubbi lea stuoris, nubbi fas unni.</x>
-	  <xt>Den ene er stor, den andre er liten.</xt>
-	</xg>
-	<xg>
-	  <x>Ja nubbi dáhpáhus leai seammá áiggiid.</x>
-	  <xt>Og den andre hendelsen skjedde omtrent til samme tid.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">goabbáge</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">begge</t>
-	<t pos="x">hver av de to</t>
-	<xg>
-	  <x>Mun in eahpit ahte ledje 2000 olbmo goappáge konsearttas.</x>
-	  <xt>Jeg tviler ikke på at det var 2000 mennesker på hver av de to konsertene.</xt>
-	</xg>      
-	<xg>
-	  <x>Goappá don válddát? In goappáge!</x>
-	  <xt>Hvilken av de to tar du? Ingen av de to!</xt>
-	</xg>      
-	<xg>
-	  <x>Ii lean šat doarrunvuoibmi goappásge.</x>
-	  <xt>Ingen av de to hadde lenger krefter til å sloss.</xt>
-	</xg>      
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">olus</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="x">mange (personer)</t>
-	<xg>
-	  <x>Ii dás goit leat fylkkagielddas mihkkege váttisvuođaid, olus lohket.</x>
-	  <xt>Det er ihvertfall ikke noen problemer med fylkeskommunen her, sier mange.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">soamis</l>
-      <lc>soapmásat, soames (olmmoš)</lc>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">noen</t>
-	<t pos="m">en eller annen</t>
-	<xg>
-	  <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
-	  <xt>Men noen hadde helt andre interesser.</xt>
-	</xg>
-	<xg>
-	  <x>Lei buorre dálki ja soames guolli nai.</x>
-	  <xt>Det var fint vær, og det ble noen fisk også.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">veahá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">litt</t>
+            <xg>
+               <x>Vuoidalin veahá juolgesuorpmaid nai, go lávejit nu bivastuvvat.</x>
+               <xt>Jeg smurte litt på tærne også, fordi de pleier å bli så svette.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">veaháš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">litt</t>
+            <xg>
+               <x>De lea ge buorre veaháš bosihit, ja lohkalit aviissa.</x>
+               <xt>Og så er det godt å puste ut litt, og lese litt i avisa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">iešguhtet</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>av flere enn to</re>
+            <t pos="x">hver sin</t>
+            <t pos="x">hver</t>
+            <xg>
+               <x>Iešguhtet válddii doppe biillas.</x>
+               <xt>Der tok de hver sin bil.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">buohkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">alle sammen</t>
+            <xg>
+               <x>Čoahkkin lea rabas buohkaide - bures boahtin!</x>
+               <xt>Møtet er åpent for alle - velkommen!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">eará</l>
+         <lc>earát</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">annen</t>
+            <t pos="x">andre</t>
+            <xg>
+               <x>Dákkár viiddis máhttu ii leat nu gallásis earáin.</x>
+               <xt>En slik bred kunnskap er det ikke mange andre som har.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">goappašagat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">begge</t>
+            <t pos="pron">hver av to</t>
+            <xg>
+               <x>Soai leaba goappašagat vázzán dáiddaallaskuvlla.</x>
+               <xt>De har begge gått på kunsthøgskole.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">guktot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">begge</t>
+            <xg>
+               <x>Moai letne guktot fitnan Helssegis.</x>
+               <xt>Vi har begge vært en tur i Helsinki.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">iežá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">annen</t>
+            <t pos="n">annet</t>
+            <xg>
+               <x>In sáhte iežáid váldit mielde dohko.</x>
+               <xt>Jeg kan ikke ta andre med dit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="indef">juoga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">noe</t>
+            <xg>
+               <x>Ođđa nominašuvnna sáhttá gáibidit jus lea juoga dahkkon formálalaččat boastut.</x>
+               <xt>Ny nominasjon kan man kreve hvis det er gjort noe formelt feil.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">juohkehaš</l>
+         <lc>-haččat, -hažžii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="m">hver</t>
+            <t pos="m">enhver</t>
+            <xg>
+               <x>Dain ledje fas juohkehaččas sierra nuohttunbáikkit ja fierbmunbáikkit.</x>
+               <xt>Av dem så hadde hver enkelt egne notsteder og garnsteder.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">moanat</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>ca 4-10 stk</re>
+            <t pos="x">flere</t>
+            <xg>
+               <x>Mun lean moanaid juo bovden.</x>
+               <xt>Jeg har allerede invitert nokså mange.</xt>
+            </xg>
+            <xg>
+               <x>Mun lean moanaid olbmuid juo bovden.</x>
+               <xt>Jeg har allerede invitert nokså mange mennesker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">muhtin</l>
+         <lc>muhtimat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">en</t>
+            <t pos="x">noen</t>
+            <xg>
+               <x>De oahpaheaddji fuomáša muhtima gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
+               <xt>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</xt>
+            </xg>
+            <xg>
+               <x>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtimat fas ásaiduvve Alaskai.</x>
+               <xt>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">muhtun</l>
+         <lc>muhtumat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">en</t>
+            <t pos="x">noen</t>
+            <xg>
+               <x>De oahpaheaddji fuomáša muhtuma gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
+               <xt>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</xt>
+            </xg>
+            <xg>
+               <x>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtumat fas ásaiduvve Alaskai.</x>
+               <xt>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">nubbi</l>
+         <lc>nuppit</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">annen</t>
+            <xg>
+               <x>Ja de ii leat lohpi nuppiid borrat.</x>
+               <xt>Og så er det ikke lov å spise de andre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">ene</t>
+            <xg>
+               <x>Nubbi lea stuoris, nubbi fas unni.</x>
+               <xt>Den ene er stor, den andre er liten.</xt>
+            </xg>
+            <xg>
+               <x>Ja nubbi dáhpáhus leai seammá áiggiid.</x>
+               <xt>Og den andre hendelsen skjedde omtrent til samme tid.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">goabbáge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">begge</t>
+            <t pos="x">hver av de to</t>
+            <xg>
+               <x>Mun in eahpit ahte ledje 2000 olbmo goappáge konsearttas.</x>
+               <xt>Jeg tviler ikke på at det var 2000 mennesker på hver av de to konsertene.</xt>
+            </xg>
+            <xg>
+               <x>Goappá don válddát? In goappáge!</x>
+               <xt>Hvilken av de to tar du? Ingen av de to!</xt>
+            </xg>
+            <xg>
+               <x>Ii lean šat doarrunvuoibmi goappásge.</x>
+               <xt>Ingen av de to hadde lenger krefter til å sloss.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">olus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">mange personer</t>
+            <xg>
+               <x>Ii dás goit leat fylkkagielddas mihkkege váttisvuođaid, olus lohket.</x>
+               <xt>Det er ihvertfall ikke noen problemer med fylkeskommunen her, sier mange.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">soamis</l>
+         <lc>soapmásat, soames (olmmoš)</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">noen</t>
+            <t pos="m">en eller annen</t>
+            <xg>
+               <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
+               <xt>Men noen hadde helt andre interesser.</xt>
+            </xg>
+            <xg>
+               <x>Lei buorre dálki ja soames guolli nai.</x>
+               <xt>Det var fint vær, og det ble noen fisk også.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">soames</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">noen</t>
-	<t pos="m">en eller annen</t>
-	<xg>
-	  <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
-	  <xt>Men noen hadde helt andre interesser.</xt>
-	</xg>
-	<xg>
-	  <x>Lei buorre dálki ja soames guolli nai.</x>
-	  <xt>Det var fint vær, og det ble noen fisk også.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">soames</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">noen</t>
+            <t pos="m">en eller annen</t>
+            <xg>
+               <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
+               <xt>Men noen hadde helt andre interesser.</xt>
+            </xg>
+            <xg>
+               <x>Lei buorre dálki ja soames guolli nai.</x>
+               <xt>Det var fint vær, og det ble noen fisk også.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">mihkkige</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">noe</t>
-	<xg>
-	  <x>Imaštallen gal veaháš manne son ii jienát maidege.</x>
-	  <xt>Jeg forundret meg litt om hvorfor han/hun ikke sa noe.</xt>
-	</xg>
-	<xg>
-	  <x>Mus ii leat mihkkige eará maid sáhtán geavahit.</x>
-	  <xt>Jeg har ikke noe annet som jeg kan bruke.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">mihkkige</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">noe</t>
+            <xg>
+               <x>Imaštallen gal veaháš manne son ii jienát maidege.</x>
+               <xt>Jeg forundret meg litt om hvorfor han/hun ikke sa noe.</xt>
+            </xg>
+            <xg>
+               <x>Mus ii leat mihkkige eará maid sáhtán geavahit.</x>
+               <xt>Jeg har ikke noe annet som jeg kan bruke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">mihkkege</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">noe</t>
-	<xg>
-	  <x>Imaštallen gal veaháš manne son ii jienát maidege.</x>
-	  <xt>Jeg forundret meg litt om hvorfor han/hun ikke sa noe.</xt>
-	</xg>
-	<xg>
-	  <x>Mus ii leat mihkkege eará maid sáhtán geavahit.</x>
-	  <xt>Jeg har ikke noe annet som jeg kan bruke.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">mihkkege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">noe</t>
+            <xg>
+               <x>Imaštallen gal veaháš manne son ii jienát maidege.</x>
+               <xt>Jeg forundret meg litt om hvorfor han/hun ikke sa noe.</xt>
+            </xg>
+            <xg>
+               <x>Mus ii leat mihkkege eará maid sáhtán geavahit.</x>
+               <xt>Jeg har ikke noe annet som jeg kan bruke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">mihkke</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">noe</t>
-	<xg>
-	  <x>Mis ii leat šat mihkke dadjamušaid dasa.</x>
-	  <xt>Vi har ikke lenger noe vi skulle ha sagt til det.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">mihkke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">noe</t>
+            <xg>
+               <x>Mis ii leat šat mihkke dadjamušaid dasa.</x>
+               <xt>Vi har ikke lenger noe vi skulle ha sagt til det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">guhtege</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">hver</t>
-	<xg>
-	  <x>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</x>
-	  <xt>De måler hvor mye hvert vann er over havnivå.</xt>
-	</xg>
-	<xg>
-	  <x>Golbma bargojoavkku leat bargame ođđa orohatjuohkimiin, okta guđege boazoguovllus.</x>
-	  <xt>Tre arbeidsgrupper arbeider med den nye reinbeiteinndelinga, en for hvert beiteområde.</xt>
-	</xg>
-	<xg>
-	  <x>Gáffádaga eaiggát attii nuvttá gáhkkobihtá guhtiige.</x>
-	  <xt>Kafeens eier ga et gratis kakestykke til hver enkelt.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">guhtege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">hver</t>
+            <xg>
+               <x>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</x>
+               <xt>De måler hvor mye hvert vann er over havnivå.</xt>
+            </xg>
+            <xg>
+               <x>Golbma bargojoavkku leat bargame ođđa orohatjuohkimiin, okta guđege boazoguovllus.</x>
+               <xt>Tre arbeidsgrupper arbeider med den nye reinbeiteinndelinga, en for hvert beiteområde.</xt>
+            </xg>
+            <xg>
+               <x>Gáffádaga eaiggát attii nuvttá gáhkkobihtá guhtiige.</x>
+               <xt>Kafeens eier ga et gratis kakestykke til hver enkelt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef">iešguhtege</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="x">hver for seg</t>
-	<xg>
-	  <x>Dál leat biddjon iešguđetge ruskkaide kontainerat.</x>
-	  <xt>Nå er det plassert containere for hvert slags søppel.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l pos="pron" type="indef">iešguhtege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">hver for seg</t>
+            <xg>
+               <x>Dál leat biddjon iešguđetge ruskkaide kontainerat.</x>
+               <xt>Nå er det plassert containere for hvert slags søppel.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">giige</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">ingen</t>
-	<xg>
-	  <x>Ii min eallindilli buorrán jus giige ii viša maidege bargat.</x>
-	  <xt>Vår livssituasjon blir ikke bedre hvis ingen gidder å arbeide noe.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">giige</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">ingen</t>
+            <xg>
+               <x>Ii min eallindilli buorrán jus giige ii viša maidege bargat.</x>
+               <xt>Vår livssituasjon blir ikke bedre hvis ingen gidder å arbeide noe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">juogamii</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">noe</t>
-	<t pos="x">ett eller annet</t>
-	<xg>
-	  <x>Muhto juogaman dihte nu ii leat.</x>
-	  <xt>Men på grunn av ett eller annet er det ikke slik.</xt>
-	</xg>
-	<xg>
-	  <x>Gal juogamasa lea aŋkke ávkin.</x>
-	  <xt>Det er sikkert nyttig for ett eller annet.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">juogamii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">noe</t>
+            <t pos="x">ett eller annet</t>
+            <xg>
+               <x>Muhto juogaman dihte nu ii leat.</x>
+               <xt>Men på grunn av ett eller annet er det ikke slik.</xt>
+            </xg>
+            <xg>
+               <x>Gal juogamasa lea aŋkke ávkin.</x>
+               <xt>Det er sikkert nyttig for ett eller annet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">goabbánai</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">begge to</t>
-	<xg>
-	  <x>Máhtte ja Biera goabbánai bážiiga moala.</x>
-	  <xt>Máhtte og Biera skjøt mål begge to.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">goabbánai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">begge to</t>
+            <xg>
+               <x>Máhtte ja Biera goabbánai bážiiga moala.</x>
+               <xt>Máhtte og Biera skjøt mål begge to.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">juobbá</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">den ene</t>
-	<xg>
-	  <x>Juobbá munnos oažžu gal friddja.</x>
-	  <xt>Den ene av oss to får ihvertfall fri.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">juobbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">den ene</t>
+            <xg>
+               <x>Juobbá munnos oažžu gal friddja.</x>
+               <xt>Den ene av oss to får ihvertfall fri.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef">dábbá</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">den andre</t>
-	<xg>
-	  <x>duobbá dábbá</x>
-	  <xt>den ene etter den andre</xt>
-	</xg>
-	<xg>
-	  <x>Áinnas vel reškkii go uhcastáloš ain čorpmahalai duoppá dáppá niidii.</x>
-	  <xt>Helst flirte han/hun enda da den ene etter den andre jenta slo han med knyttnevene.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l pos="pron" type="indef">dábbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">den andre</t>
+            <xg>
+               <x>duobbá dábbá</x>
+               <xt>den ene etter den andre</xt>
+            </xg>
+            <xg>
+               <x>Áinnas vel reškkii go uhcastáloš ain čorpmahalai duoppá dáppá niidii.</x>
+               <xt>Helst flirte han/hun enda da den ene etter den andre jenta slo han med knyttnevene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">miinai</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">hver enkelt</t>
-	<xg>
-	  <x/>
-	  <xt/>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">miinai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">hver enkelt</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">juobbágoabbá</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">den ene av de to</t>
-	<xg>
-	  <x>Verddestallama vuođđojurdda lea lonuhangávpi, mas juobbágoabbá lea álo velggolaš nubbái.</x>
-	  <xt>Verddestystemets prinsipp er byttehandel hvor den ene alltid er skyldig til den andre.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">juobbágoabbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">den ene av de to</t>
+            <xg>
+               <x>Verddestallama vuođđojurdda lea lonuhangávpi, mas juobbágoabbá lea álo velggolaš nubbái.</x>
+               <xt>Verddestystemets prinsipp er byttehandel hvor den ene alltid er skyldig til den andre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef" illpl="ok">guhtenai</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">hver enkelt</t>
-	<xg>
-	  <x>Bivdit eai beasa báhčit eanet go guokte lotti guhtenai.</x>
-	  <xt>Jegerne får ikke skyte mer enn to fugler hver.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l illpl="ok" pos="pron" type="indef">guhtenai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">hver enkelt</t>
+            <xg>
+               <x>Bivdit eai beasa báhčit eanet go guokte lotti guhtenai.</x>
+               <xt>Jegerne får ikke skyte mer enn to fugler hver.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
-    <lg>
-      <l pos="pron" type="indef">duobbá</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="x">den ene</t>
-	<xg>
-	  <x>duobbá dábbá</x>
-	  <xt>den ene etter den andre</xt>
-	</xg>
-	<xg>
-	  <x>Áinnas vel reškkii go uhcastáloš ain čorpmahalai duoppá dáppá niidii.</x>
-	  <xt>Helst flirte han/hun enda da den ene etter den andre jenta slo han med knyttnevene.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l pos="pron" type="indef">duobbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">den ene</t>
+            <xg>
+               <x>duobbá dábbá</x>
+               <xt>den ene etter den andre</xt>
+            </xg>
+            <xg>
+               <x>Áinnas vel reškkii go uhcastáloš ain čorpmahalai duoppá dáppá niidii.</x>
+               <xt>Helst flirte han/hun enda da den ene etter den andre jenta slo han med knyttnevene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

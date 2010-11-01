@@ -4995,7 +4995,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">stoppe strikkeplagg</t>
+            <tf>stoppe strikkeplagg</tf>
          </tg>
       </mg>
    </e>
@@ -37625,6 +37625,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">skrive</t>
+            <t pos="v">notere</t>
+            <xg>
+               <x>čállit muitui</x>
+               <xt>legge på minnet</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -37634,17 +37639,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="v">notere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="v">råskjære fisk</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">stave</t>
          </tg>
       </mg>
    </e>
@@ -37731,6 +37726,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
+            <t pos="v">fødes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="v">bli</t>
             <xg>
                <x>Šattai buorre dálki.</x>
@@ -37813,7 +37813,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">šiehtadallat</l>
       </lg>
@@ -37823,7 +37823,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">šiehtadit</l>
       </lg>
@@ -37969,7 +37969,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">šluhttet</l>
       </lg>
@@ -38537,8 +38537,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">rose</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">skryte</t>
          </tg>
