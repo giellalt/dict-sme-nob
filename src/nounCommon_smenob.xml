@@ -152435,7 +152435,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="f" pos="n">ABC-bok</t>
+            <t decl="f" pos="n">bokstavbok</t>
          </tg>
       </mg>
    </e>
@@ -152569,13 +152569,43 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e exclude="nobsma" usage="vd">
       <lg>
          <l pos="n">fáhccaráigi</l>
       </lg>
       <mg>
          <tg>
             <tf>hull i votten</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">hillaráddi</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf>pinne med glo</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">várreluohkká</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="m" pos="n">fjellside</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="g3">jáffut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">mel</t>
          </tg>
       </mg>
    </e>
