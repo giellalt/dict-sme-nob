@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML" "../../scripts/gt_staticdictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
+"../../scripts/gt_staticdictionary.dtd">
 <r>
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -28,55 +28,38 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
-         <l pos="v" context="mun">ii</l>
+         <l context="mun" pos="v">ii</l>
          <analysis>IV_Neg_Ind_Sg3</analysis>
          <mini_paradigm>
-            <analysis ms="IV_Neg_Ind_Sg1">
-               <wordform>in</wordform>
-            </analysis>
-            <analysis ms="IV_Neg_Ind_Sg2">
-               <wordform>it</wordform>
-            </analysis>
-            <analysis ms="IV_Neg_Ind_Sg3">
-               <wordform>ii</wordform>
-            </analysis>
-            <analysis ms="IV_Neg_Ind_Du1">
-               <wordform>ean</wordform>
-            </analysis>
-            <analysis ms="IV_Neg_Ind_Du2">
-               <wordform>eahppi</wordform>
-            </analysis>
-            <analysis ms="IV_Neg_Ind_Du3">
-               <wordform>eaba</wordform>
-            </analysis>
-            <analysis ms="IV_Neg_Ind_Pl1">
-               <wordform>eat</wordform>
-            </analysis>
-            <analysis ms="IV_Neg_Ind_Pl2">
-               <wordform>ehpet</wordform>
-            </analysis>
-            <analysis ms="IV_Neg_Ind_Pl3">
-               <wordform>eai</wordform>
-            </analysis>
+            <analysis ms="IV_Neg_Ind_Sg1"><wordform>in</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Sg2"><wordform>it</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Sg3"><wordform>ii</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Du1"><wordform>ean</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Du2"><wordform>eahppi</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Du3"><wordform>eaba</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Pl1"><wordform>eat</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Pl2"><wordform>ehpet</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Pl3"><wordform>eai</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
          <tg>
+            <re>om en person</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Eadni ii boađe gávpogii odne.</x>
-         <xt>Mor kommer ikke til byen i dag.</xt>
- 		</xg>
-		<xg>
-         <x>Eadni ii boahtán ikte.</x>
-         <xt>Mor kom ikke i går.</xt>
- 		</xg>
+            <xg>
+               <x>Eadni ii boađe gávpogii odne.</x>
+               <xt>Mor kommer ikke til byen i dag.</xt>
+            </xg>
+            <xg>
+               <x>Eadni ii boahtán ikte.</x>
+               <xt>Mor kom ikke i går.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="v">in</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
@@ -84,19 +67,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om meg selv</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>In boađe gávpogii odne.</x>
-         <xt>Jeg kommer ikke til byen i dag.</xt>
- 		</xg>
-		<xg>
-         <x>In boahtán ikte.</x>
-         <xt>Jeg kom ikke i går.</xt>
- 		</xg>
+            <xg>
+               <x>In boađe gávpogii odne.</x>
+               <xt>Jeg kommer ikke til byen i dag.</xt>
+            </xg>
+            <xg>
+               <x>In boahtán ikte.</x>
+               <xt>Jeg kom ikke i går.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="v">it</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
@@ -104,19 +88,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om deg</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>It go boađe gávpogii odne?</x>
-         <xt>Kommer du ikke til byen i dag?</xt>
- 		</xg>
-		<xg>
-         <x>It go boahtán ikte?</x>
-         <xt>Kom du ikke i går?</xt>
- 		</xg>
+            <xg>
+               <x>It go boađe gávpogii odne?</x>
+               <xt>Kommer du ikke til byen i dag?</xt>
+            </xg>
+            <xg>
+               <x>It go boahtán ikte?</x>
+               <xt>Kom du ikke i går?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="v">ean</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
@@ -124,19 +109,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om oss to</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Ean boađe gávpogii odne.</x>
-         <xt>Vi to kommer ikke til byen i dag.</xt>
- 		</xg>
-		<xg>
-         <x>Ean boahtán ikte.</x>
-         <xt>Vi to kom ikke i går.</xt>
- 		</xg>
+            <xg>
+               <x>Ean boađe gávpogii odne.</x>
+               <xt>Vi to kommer ikke til byen i dag.</xt>
+            </xg>
+            <xg>
+               <x>Ean boahtán ikte.</x>
+               <xt>Vi to kom ikke i går.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="v">eahppi</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
@@ -144,19 +130,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om dere to</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Eahppi go boađe gávpogii odne?</x>
-         <xt>Kommer dere to ikke til byen i dag?</xt>
- 		</xg>
-		<xg>
-         <x>Eahppi go boahtán ikte?</x>
-         <xt>Kom dere to ikke i går?</xt>
- 		</xg>
+            <xg>
+               <x>Eahppi go boađe gávpogii odne?</x>
+               <xt>Kommer dere to ikke til byen i dag?</xt>
+            </xg>
+            <xg>
+               <x>Eahppi go boahtán ikte?</x>
+               <xt>Kom dere to ikke i går?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="v">eaba</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
@@ -164,19 +151,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om de to</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Ánne-guovttos Ánddiin eaba boađe gávpogii odne.</x>
-         <xt>Ánne og Ánde kommer ikke til byen i dag.</xt>
- 		</xg>
-		<xg>
-         <x>Eaba boahtán iktege.</x>
-         <xt>De to kom ikke i går heller.</xt>
- 		</xg>
+            <xg>
+               <x>Ánne-guovttos Ánddiin eaba boađe gávpogii odne.</x>
+               <xt>Ánne og Ánde kommer ikke til byen i dag.</xt>
+            </xg>
+            <xg>
+               <x>Eaba boahtán iktege.</x>
+               <xt>De to kom ikke i går heller.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="v">eat</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
@@ -184,19 +172,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om oss</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Eat boađe gávpogii odne.</x>
-         <xt>Vi kommer ikke til byen i dag.</xt>
- 		</xg>
-		<xg>
-         <x>Eat boahtán ikte.</x>
-         <xt>Vi kom ikke i går.</xt>
- 		</xg>
+            <xg>
+               <x>Eat boađe gávpogii odne.</x>
+               <xt>Vi kommer ikke til byen i dag.</xt>
+            </xg>
+            <xg>
+               <x>Eat boahtán ikte.</x>
+               <xt>Vi kom ikke i går.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="v">ehpet</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
@@ -204,19 +193,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om dere</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Ehpet go boađe gávpogii odne?</x>
-         <xt>Kommer dere ikke til byen i dag?</xt>
- 		</xg>
-		<xg>
-         <x>Ehpet go boahtán ikte?</x>
-         <xt>Kom dere ikke i går?</xt>
- 		</xg>
+            <xg>
+               <x>Ehpet go boađe gávpogii odne?</x>
+               <xt>Kommer dere ikke til byen i dag?</xt>
+            </xg>
+            <xg>
+               <x>Ehpet go boahtán ikte?</x>
+               <xt>Kom dere ikke i går?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nj">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="v">eai</l>
          <lemma_ref lemmaID="ii_v_mun">ii</lemma_ref>
@@ -224,15 +214,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om dem</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Nieiddat eai boađe gávpogii odne.</x>
-         <xt>Jentene kommer ikke til byen i dag.</xt>
- 		</xg>
-		<xg>
-         <x>Nieiddat eai boahtán iktege.</x>
-         <xt>Jentene kom ikke i går heller.</xt>
- 		</xg>
+            <xg>
+               <x>Nieiddat eai boađe gávpogii odne.</x>
+               <xt>Jentene kommer ikke til byen i dag.</xt>
+            </xg>
+            <xg>
+               <x>Nieiddat eai boahtán iktege.</x>
+               <xt>Jentene kom ikke i går heller.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -241,42 +232,25 @@ For the full license text, see the link above.</lic>
          <l pos="v">allos</l>
          <analysis>Neg_Imprt_Sg3</analysis>
          <mini_paradigm>
-            <analysis ms="Neg_Imprt_Sg1">
-               <wordform>allon</wordform>
-            </analysis>
-            <analysis ms="Neg_Imprt_Sg2">
-               <wordform>ale</wordform>
-            </analysis>
-            <analysis ms="Neg_Imprt_Sg3">
-               <wordform>allos</wordform>
-            </analysis>
-            <analysis ms="Neg_Imprt_Du1">
-               <wordform>allu</wordform>
-            </analysis>
-            <analysis ms="Neg_Imprt_Du2">
-               <wordform>alli</wordform>
-            </analysis>
-            <analysis ms="Neg_Imprt_Du3">
-               <wordform>alloska</wordform>
-            </analysis>
-            <analysis ms="Neg_Imprt_Pl1">
-               <wordform>allot</wordform>
-            </analysis>
-            <analysis ms="Neg_Imprt_Pl2">
-               <wordform>allet</wordform>
-            </analysis>
-            <analysis ms="Neg_Imprt_Pl3">
-               <wordform>alloset</wordform>
-            </analysis>
+            <analysis ms="Neg_Imprt_Sg1"><wordform>allon</wordform></analysis>
+            <analysis ms="Neg_Imprt_Sg2"><wordform>ale</wordform></analysis>
+            <analysis ms="Neg_Imprt_Sg3"><wordform>allos</wordform></analysis>
+            <analysis ms="Neg_Imprt_Du1"><wordform>allu</wordform></analysis>
+            <analysis ms="Neg_Imprt_Du2"><wordform>alli</wordform></analysis>
+            <analysis ms="Neg_Imprt_Du3"><wordform>alloska</wordform></analysis>
+            <analysis ms="Neg_Imprt_Pl1"><wordform>allot</wordform></analysis>
+            <analysis ms="Neg_Imprt_Pl2"><wordform>allet</wordform></analysis>
+            <analysis ms="Neg_Imprt_Pl3"><wordform>alloset</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
          <tg>
+            <re>om én person eller noe abstrakt</re>
             <t pos="adv">ikke</t>
-         <xg>
-            <x>Jus guhtege dan ii dovdda, de allos dovdda!</x>
-            <xt>Hvis noen ikke kjenner det, så får det være det samme!</xt>
-         </xg>
+            <xg>
+               <x>Jus guhtege dan ii dovdda, de allos dovdda!</x>
+               <xt>Hvis noen ikke kjenner det, så får det være det samme!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -288,11 +262,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>til meg selv</re>
             <t pos="adv">ikke</t>
-         <xg>
-            <x>Mun jurdilin: Allon eisege mun dieinna lágiin badjelgeahča nuppi olbmo!</x>
-            <xt>Jeg tenkte: Jeg må slett ikke overse et annet menneske på den måten!</xt>
-         </xg>
+            <xg>
+               <x>Mun jurdilin: Allon eisege mun dieinna lágiin badjelgeahča nuppi olbmo!</x>
+               <xt>Jeg tenkte: Jeg må slett ikke overse et annet menneske på den måten!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -302,13 +277,14 @@ For the full license text, see the link above.</lic>
          <lemma_ref lemmaID="allos_v">allos</lemma_ref>
          <analysis>Neg_Imprt_Sg2</analysis>
       </lg>
-     <mg>
+      <mg>
          <tg>
+            <re>til deg</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Ale boađe deike!</x>
-         <xt>Ikke kom hit! (til en person)</xt>
- 		</xg>
+            <xg>
+               <x>Ale boađe deike!</x>
+               <xt>Ikke kom hit! (til en person)</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -320,11 +296,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>til oss to</re>
             <t pos="adv">ikke</t>
-         <xg>
-            <x>Allu šat riidal!</x>
-            <xt>La oss to ikke krangle mer!</xt>
-         </xg>
+            <xg>
+               <x>Allu šat riidal!</x>
+               <xt>La oss to ikke krangle mer!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -336,11 +313,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>til dere to</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Alli boađe deike!</x>
-         <xt>Ikke kom hit! (til to personer)</xt>
- 		</xg>
+            <xg>
+               <x>Alli boađe deike!</x>
+               <xt>Ikke kom hit! (til to personer)</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -352,11 +330,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om de to</re>
             <t pos="adv">ikke</t>
-		<xg>
-            <x>Alloska mus jeara!</x>
-            <xt>De to skal ikke spørre meg!</xt>
-		</xg>
+            <xg>
+               <x>Alloska mus jeara!</x>
+               <xt>De to skal ikke spørre meg!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -368,11 +347,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>til oss</re>
             <t pos="adv">ikke</t>
-         <xg>
-            <x>Allot šat dubme guhtet guimmiideamet!</x>
-            <xt>La oss ikke lenger dømme hverandre!</xt>
-         </xg>
+            <xg>
+               <x>Allot šat dubme guhtet guimmiideamet!</x>
+               <xt>La oss ikke lenger dømme hverandre!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -384,11 +364,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>til dere</re>
             <t pos="adv">ikke</t>
-		<xg>
-         <x>Allet boađe deike!</x>
-         <xt>Ikke kom hit! (til flere enn to personer)</xt>
- 		</xg>
+            <xg>
+               <x>Allet boađe deike!</x>
+               <xt>Ikke kom hit! (til flere enn to personer)</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -400,11 +381,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om flere personer</re>
             <t pos="adv">ikke</t>
-         <xg>
-            <x>Alloset boađe mus bearrat dan vealggi!</x>
-            <xt>De skal ikke komme og kreve gjelda betalt av meg!</xt>
-         </xg>
+            <xg>
+               <x>Alloset boađe mus bearrat dan vealggi!</x>
+               <xt>De skal ikke komme og kreve gjelda betalt av meg!</xt>
+            </xg>
          </tg>
       </mg>
    </e>

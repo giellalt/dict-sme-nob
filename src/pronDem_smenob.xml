@@ -41,10 +41,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">den/det</t>
+            <t pos="pron">den</t>
+            <t pos="pron">det</t>
             <xg>
-               <x>Sus gal ii leat dat áigumuš.</x>
-               <xt>Han/hun har ikke den hensikten.</xt>
+               <x>Oahpaheaddjis gal ii leat dat áigumuš.</x>
+               <xt>Læreren har ikke den hensikten.</xt>
             </xg>
          </tg>
       </mg>
@@ -64,7 +65,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">denne/dette (nærmere meg enn deg)</t>
+            <re>nærmere meg enn deg</re>
+            <t pos="pron">denne</t>
+            <t pos="pron">dette</t>
             <xg>
                <x>Leago dát duođasge Sáme Radio oaivil?</x>
                <xt>Er dette virkelig Same Radioens mening?</xt>
@@ -87,12 +90,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">den/det (nærmere deg enn meg)</t>
-            <t pos="pron">den/det (som vi nettopp nevnte)</t>
+            <re>nærmere deg enn meg</re>
+            <t pos="pron">den</t>
+            <t pos="pron">det</t>
             <xg>
                <x>Mii diet lea?</x>
-               <xt>Hva er det (som du har der)?</xt>
+               <xt>Hva er det som du har der?</xt>
             </xg>
+         </tg>
+         <tg>
+            <t pos="pron">den (som nettopp ble nevnt)</t>
+            <t pos="pron">det (som nettopp ble nevnt)</t>
             <xg>
                <x>Lea lunddolaš ahte diet čoahkkin dollo Álttás.</x>
                <xt>Det er naturlig at det møtet (som det nettopp har vært snakk om) holdes i Alta.</xt>
@@ -115,12 +123,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">den/det (der borte)</t>
-            <t pos="pron">den/det der</t>
+            <t pos="pron">den der borte</t>
+            <t pos="pron">det der borte</t>
             <xg>
                <x>Mii duot lea?</x>
-               <xt>Hva er det der (evt. det som er der borte)?</xt>
+               <xt>Hva er det der?</xt>
             </xg>
+         </tg>
+         <tg>
+            <t pos="pron">den der</t>
+            <t pos="pron">det der</t>
             <xg>
                <x>Movt bat duot geafes čivga sáhtii du beastit?</x>
                <xt>Og hvordan kunne den der fattige ungen redde deg?</xt>
@@ -143,7 +155,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">den/det (der lengst borte)</t>
+            <t pos="pron">den lengst borte</t>
+            <t pos="pron">det lengst borte</t>
             <xg>
                <x>Ja dan dáfus eai dárbbaš ballat maid duot dahje dot riikabellodat dadjá jus sii oaivvildit nuo dahje
                ná.</x>
@@ -215,7 +228,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">de (nærmere deg enn meg)</t>
-            <t pos="pron">de (som vi nettopp nevnte)</t>
+         </tg>
+         <tg>
+            <t pos="pron">de (som nettopp er nevnt)</t>
             <xg>
                <x>Gal mun dál oainnán man duođat diet sánit leat maid vuoras olbmot lávejit lohkat.</x>
                <xt>Nå ser jeg hvor sanne de ordene er som gamle folk pleier å si.</xt>
@@ -238,12 +253,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de (der borte)</t>
-            <t pos="pron">de der</t>
+            <t pos="pron">de der borte</t>
             <xg>
-               <x>Geat bat duot leaba? jearai son.</x>
-               <xt>Hvem er så de der (om to)? spurte han/hun.</xt>
+               <x>Geat bat duot leaba? jearai eadni.</x>
+               <xt>Hvem er så de der (om to)? spurte mor.</xt>
             </xg>
+         </tg>
+         <tg>
+            <t pos="pron">de der</t>
          </tg>
       </mg>
    </e>
@@ -262,7 +279,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de (der lengst borte)</t>
+            <t pos="pron">de lengst borte</t>
          </tg>
       </mg>
    </e>
@@ -283,8 +300,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">slik</t>
             <xg>
-               <x>Son diehtá ahte dakkár evttohus baldá olu olbmuid.</x>
-               <xt>Han/hun vet at et slikt forslag skremmer mye folk.</xt>
+               <x>Jođiheaddji diehtá ahte dakkár evttohus baldá olu olbmuid.</x>
+               <xt>Lederen vet at et slikt forslag skremmer mye folk.</xt>
             </xg>
          </tg>
       </mg>
@@ -329,8 +346,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">sånn her</t>
             <xg>
-               <x>Son lea dákkár.</x>
-               <xt>Han/hun er sånn.</xt>
+               <x>Biret lea dákkár.</x>
+               <xt>Biret er sånn.</xt>
             </xg>
          </tg>
       </mg>
@@ -350,10 +367,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">sånn her (om flere)</t>
+            <re>om flere</re>
+            <t pos="pron">sånn her</t>
             <xg>
-               <x>Dál lea son maid hirpmahuvvan ahte dákkárat sáhttet dáhpáhuvvat.</x>
-               <xt>Nå er hun/han også forskrekket over at slikt (flertall) kan skje.</xt>
+               <x>Dál lea Biret maid hirpmahuvvan ahte dákkárat sáhttet dáhpáhuvvat.</x>
+               <xt>Nå er Biret også forskrekket over at slikt kan skje.</xt>
             </xg>
          </tg>
       </mg>
