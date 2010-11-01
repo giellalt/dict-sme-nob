@@ -326,6 +326,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t pos="pron">min</t>
+            <t pos="pron">mine</t>
          </tg>
       </mg>
    </e>
@@ -394,6 +395,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t pos="pron">din</t>
+            <t pos="pron">dine</t>
          </tg>
       </mg>
    </e>
@@ -526,12 +528,13 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">det</t>
             <t pos="pron">den</t>
-            <t pos="pron">"det sin"</t>
-            <t pos="pron">"den sin"</t>
             <xg>
-               <x>Mun dagan dan áinnas, lohká son.</x>
-               <xt>Jeg gjør det gjerne, sier han/hun.</xt>
+               <x>Mun dagan dan áinnas, lohká eadni.</x>
+               <xt>Jeg gjør det gjerne, sier mor.</xt>
             </xg>
+         </tg>
+         <tg>
+            <t pos="pron">dens</t>
          </tg>
       </mg>
    </e>
@@ -612,7 +615,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <re>om to personer</re>
-            <t pos="pron">vår(e)</t>
+            <t pos="pron">vår</t>
+            <t pos="pron">våre</t>
          </tg>
       </mg>
    </e>
@@ -807,6 +811,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t pos="pron">vår</t>
+            <t pos="pron">våre</t>
          </tg>
       </mg>
    </e>
