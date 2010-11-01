@@ -130,16 +130,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l cip="genuine doubling - xxx - chech me, please" illpl="ok" pos="g3">gássa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="f">kasse</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l illpl="ok" pos="g3">hálla</l>
       </lg>
       <mg>
@@ -329,8 +319,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l cip="genuine doubling - xxx - chech me, please" illpl="ok" pos="g3">gássa</l>
+         <l illpl="ok" pos="g3">gássa</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="f">kasse</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="f">gass</t>
