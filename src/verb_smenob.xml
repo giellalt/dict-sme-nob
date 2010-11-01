@@ -97,8 +97,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">få</t>
             <te>få flere ting</te>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">prøve å få</t>
          </tg>
@@ -177,8 +175,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">følge etter</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">følge opp</t>
          </tg>
@@ -1944,8 +1940,6 @@ For the full license text, see the link above.</lic>
                forårsaket.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">gjøre</t>
             <xg>
@@ -7683,7 +7677,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">brenne bål og koke kaffe</t>
+            <tf>lage bål og gjerne koke kaffe</tf>
          </tg>
       </mg>
    </e>
@@ -7693,7 +7687,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">ha bål</t>
+            <tf>lage bål og gjerne koke kaffe</tf>
          </tg>
       </mg>
    </e>
@@ -13230,8 +13224,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="v">binde</t>
-            <t pos="v">knytte</t>
+            <t pos="v">binde, knytte</t>
          </tg>
       </mg>
    </e>
@@ -22722,7 +22715,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t cip="without_abbr_check-me-please" pos="v">ikke makte øk. forpliktelser</t>
+            <t pos="v">ikke makte øk. forpliktelser</t>
          </tg>
       </mg>
    </e>
@@ -39033,8 +39026,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">vise seg</t>
             <xg>
-               <x pos="x">Heaika ii šat dihtton dan beaivve.</x>
-               <xt pos="x">Heaika viste seg ikke lenger den dagen.</xt>
+               <t pos="x">Heaika ii šat dihtton dan beaivve.</t>
+               <t pos="x">Heaika viste seg ikke lenger den dagen.</t>
             </xg>
          </tg>
       </mg>
@@ -39047,8 +39040,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">utbryte plutselig</t>
             <xg>
-               <x pos="x">Gal mun ipmirdan! láhttestii áhkku.</x>
-               <xt pos="x">Klart jeg forstår! utbrøt bestemor.</xt>
+               <t pos="x">Gal mun ipmirdan! láhttestii áhkku.</t>
+               <t pos="x">Klart jeg forstår! utbrøt bestemor.</t>
             </xg>
          </tg>
       </mg>
@@ -39062,8 +39055,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">kikke</t>
             <t pos="v">kaste et blikk på</t>
             <xg>
-               <x pos="x">Hánsa lei viššal guovlladit su luhtte.</x>
-               <xt pos="x">Hánsa var flittig å kikke innom hos han.</xt>
+               <t pos="x">Hánsa lei viššal guovlladit su luhtte.</t>
+               <t pos="x">Hánsa var flittig å kikke innom hos han.</t>
             </xg>
          </tg>
       </mg>
@@ -39190,8 +39183,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">gå fort</t>
             <xg>
-               <x pos="x">Mátki ruoktot manihii jođánit.</x>
-               <xt pos="x">Reisa hjem gikk fort.</xt>
+               <t pos="x">Mátki ruoktot manihii jođánit.</t>
+               <t pos="x">Reisa hjem gikk fort.</t>
             </xg>
          </tg>
       </mg>
@@ -39926,7 +39919,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">drive på å kaste lasso</t>
+            <tf>drive på å kaste lasso</tf>
          </tg>
       </mg>
    </e>
