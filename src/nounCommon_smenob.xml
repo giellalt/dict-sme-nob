@@ -17953,10 +17953,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="f" pos="n">jakt</t>
+         </tg>
+         <tg>
             <t decl="n" pos="n">fiske</t>
             <xg>
-               <x>Son lea bivddus.</x>
-               <xt>Han/hun er på jakt/fiske.</xt>
+               <x>Son lea guollebivddus.</x>
+               <xt>Han er på fiske.</xt>
             </xg>
          </tg>
       </mg>
@@ -18729,8 +18731,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="m" pos="n">skamplett</t>
             <xg>
-               <x>Son lea midjiide boalgan.</x>
-               <xt>Han/hun er til skam for oss.</xt>
+               <x>Dat lea midjiide boalgan.</x>
+               <xt>Det er til skam for oss.</xt>
             </xg>
          </tg>
       </mg>
@@ -34282,8 +34284,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="m" pos="n">ergelse</t>
             <xg>
-               <x>Son lea duskkis.</x>
-               <xt>Han/hun er sur, gretten.</xt>
+               <x>Eadni lea duskkis.</x>
+               <xt>Mor er gretten.</xt>
             </xg>
          </tg>
       </mg>
@@ -38215,7 +38217,7 @@ For the full license text, see the link above.</lic>
             <t pos="phrase">fra fødselen</t>
             <xg>
                <x>Eamis leamaš son juo nu.</x>
-               <xt>Han/hun alltid har vært slik.</xt>
+               <xt>Han alltid har vært slik.</xt>
             </xg>
          </tg>
       </mg>
@@ -39342,8 +39344,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="n" pos="n">område langt unna</t>
             <xg>
-               <x>Son manai endorii.</x>
-               <xt>Han/hun dro langt ut i det fjerne; ut på viddene.</xt>
+               <x>Eadni manai endorii.</x>
+               <xt>Mor dro ut på viddene.</xt>
             </xg>
          </tg>
       </mg>
@@ -50407,7 +50409,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">liten jord- eller snøskavl som henger utover</t>
             <xg>
                <x>goapma lea unnit go goarvi</x>
-               <xt></xt>
+               <xt>goapma er mindre enn goarvi</xt>
             </xg>
          </tg>
       </mg>
@@ -50587,7 +50589,7 @@ For the full license text, see the link above.</lic>
             <t decl="n" pos="n">berg</t>
             <xg>
                <x>goarvi lea stuorit go goapma</x>
-               <xt></xt>
+               <xt>goarvi er større en goapma</xt>
             </xg>
          </tg>
       </mg>
@@ -50596,7 +50598,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">jord- eller snøskavl som henger utover</t>
             <xg>
                <x>goarvi lea stuorit go goapma</x>
-               <xt></xt>
+               <xt>goarvi er større en goapma</xt>
             </xg>
          </tg>
       </mg>
@@ -50812,7 +50814,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="m" pos="n">stokk til å henge gryte eller kaffekjel på over ilden</t>
+            <tf>stokk til å henge kaffekjel på over ilden</tf>
          </tg>
       </mg>
    </e>
@@ -62959,8 +62961,8 @@ For the full license text, see the link above.</lic>
                <xt>i denne verden</xt>
             </xg>
             <xg>
-               <x>Son lea guovtte ilmmi gaskkas.</x>
-               <xt>Han/hun er ikke seg selv; ikke ordentlig våken.</xt>
+               <x>Eadni lea guovtti ilmmi gaskkas.</x>
+               <xt>Mor er ikke seg selv; ikke ordentlig våken.</xt>
             </xg>
          </tg>
       </mg>
@@ -64689,7 +64691,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="n" pos="n">kort stille sted mellom to stryk eller fosser</t>
+            <t decl="n" pos="n">kort stille sted mellom to stryk</t>
          </tg>
       </mg>
    </e>
@@ -76610,9 +76612,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="m" pos="n">plass på hver side av ildstedet i lavvo eller gamme</t>
+            <t decl="m" pos="n">plass på hver side av ildstedet i gamme</t>
             <xg>
-               <x>sadji goappátge bealde árrana goađis dahje lávus</x>
+               <x>sadji goappátge bealde árrana goađis</x>
                <xt></xt>
             </xg>
          </tg>
@@ -79373,7 +79375,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="m" pos="n">lukt som av klær som har vært lenge fuktig og/eller våte</t>
+            <t decl="m" pos="n">lukt som av klær som har vært fuktige lenge</t>
          </tg>
       </mg>
    </e>
@@ -115004,31 +115006,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="n">sidja</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="m" pos="n">materie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t decl="m" pos="n">verk i byll, sår eller legemsdel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t decl="m" pos="n">væske</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t decl="m" pos="n">søvn i øye</t>
-         </tg>
-      </mg>
-   </e>
    <e src="nj" usage="vd">
       <lg>
          <l pos="n">siedja</l>
@@ -117527,8 +117504,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">skottbenk</t>
-            <te>en slags høvelbenk med 2 planker som er stilt på høykant ved siden av hverandre, den ene fast og den
-            andre på flyttbar, mellom disse plankene bringes bord som skal høvles rett i kanten eller pløyes</te>
+            <te>høvelbenk med 2 planker som er stilt på høykant ved siden av hverandre, den ene fast og den andre på
+            flyttbar, mellom disse bringes bord som skal høvles rett i kanten eller pløyes</te>
          </tg>
       </mg>
    </e>
@@ -130470,7 +130447,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">noe som garn eller not kan sette seg fast i</t>
+            <tf>noe som garn eller not kan sette seg fast i</tf>
          </tg>
       </mg>
    </e>
@@ -135753,7 +135730,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">omgang</t>
             <xg>
                <x>Mii vuodjit busse vuoruid mielde, ja lei ge Johána vuorru vuodjit.</x>
-               <xt>Vi kjører busse etter tur/etter turnus, og nå er det Johans tur å kjøre.</xt>
+               <xt>Vi kjører busse etter tur (etter turnus), og nå er det Johans tur å kjøre.</xt>
             </xg>
          </tg>
       </mg>
@@ -145217,7 +145194,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="n" pos="n">sted på fiskegarn/not hvor det er bøtt</t>
+            <re>om gran eller not</re>
+            <t decl="n" pos="n">sted hvor det er bøtt</t>
          </tg>
       </mg>
    </e>
