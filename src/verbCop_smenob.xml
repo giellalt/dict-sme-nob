@@ -59,7 +59,7 @@ For the full license text, see the link above.</lic>
    <!-- Singleton forms -->
    <e usage="vd">
       <lg>
-         <l mod="ind" persnr="sg2" pos="v">leat</l>
+         <l mod="ind" pers="2" nr="sg" pos="v">leat</l>
          <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
          <analysis>V_Ind_Prs_Sg2</analysis>
       </lg>
@@ -139,7 +139,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="du3" pos="v">leaba</l>
+         <l pers="3" nr="du" pos="v">leaba</l>
          <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
          <analysis>V_Ind_Prs_Du3</analysis>
       </lg>
@@ -155,7 +155,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="ind" persnr="pl1" pos="v">leat</l>
+         <l mod="ind" pers="1" nr="pl" pos="v">leat</l>
          <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
          <analysis>V_Ind_Prs_Pl1</analysis>
       </lg>
@@ -187,9 +187,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="ind" persnr="pl3" pos="v">leat</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
-         <analysis>V_Ind_Prs_Pl3</analysis>
+	<l mod="ind" pers="3" nr="pl" pos="v">leat</l>
+	<lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
+	<analysis>V_Ind_Prs_Pl3</analysis>
       </lg>
       <mg>
          <tg>
@@ -203,7 +203,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="ind" persnr="conneg" pos="v">leat</l>
+         <l mod="ind" type="conneg" pos="v">leat</l>
          <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
          <analysis>V_Ind_Prs_ConNeg</analysis>
       </lg>
@@ -219,7 +219,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="inf" pos="v">leat</l>
+         <l mod="inf" pos="v">leat</l>
          <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
          <analysis>V_Inf</analysis>
       </lg>
@@ -433,7 +433,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="ind" persnr="prfprc" pos="v">lean</l>
+         <l mod="ind" type="prfprc" pos="v">lean</l>
          <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
          <analysis>V_Ind_Prt_ConNeg</analysis>
       </lg>
@@ -577,7 +577,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="imp" persnr="pl1" pos="v">lehkot</l>
+         <l mod="imp" pers="1" nr="pl" pos="v">lehkot</l>
          <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
          <analysis>V_Imprt_Pl1</analysis>
       </lg>
@@ -789,7 +789,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="pl3" pos="v">livčče</l>
+         <l pers="3" nr="pl" pos="v">livčče</l>
          <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
          <analysis>V_Cond_Pl3</analysis>
       </lg>
@@ -809,7 +809,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="cond" persnr="conneg" pos="v">livčče</l>
+         <l mod="cond" type="conneg" pos="v">livčče</l>
          <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
          <analysis>V_Cond_ConNeg</analysis>
       </lg>
@@ -893,7 +893,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="sg3" pos="v">leaš</l>
+         <l pers="3" nr="sg" pos="v">leaš</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_Sg3</analysis>
       </lg>
@@ -915,7 +915,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="sg3" pos="v">leš</l>
+         <l pers="3" nr="sg" pos="v">leš</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_Sg3</analysis>
       </lg>
@@ -931,7 +931,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="du1" pos="v">ležže</l>
+         <l pers="1" nr="du" pos="v">ležže</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_Du1</analysis>
       </lg>
@@ -979,7 +979,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="pl1" pos="v">leažžat</l>
+         <l pers="1" nr="pl" pos="v">leažžat</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_Pl1</analysis>
       </lg>
@@ -1011,7 +1011,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="pl3" pos="v">ležžet</l>
+         <l pers="3" nr="pl" pos="v">ležžet</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_Pl3</analysis>
       </lg>
@@ -1027,7 +1027,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="conneg" pos="v">leačča</l>
+         <l type="conneg" pos="v">leačča</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_ConNeg</analysis>
       </lg>
@@ -1045,7 +1045,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="conneg" pos="v">leaš</l>
+         <l type="conneg" pos="v">leaš</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_ConNeg</analysis>
       </lg>
@@ -1061,7 +1061,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l persnr="conneg" pos="v">leš</l>
+         <l type="conneg" pos="v">leš</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_ConNeg</analysis>
       </lg>
