@@ -18,7 +18,7 @@
   
   <xsl:param name="inFile" select="'gogo_file'"/>
   <xsl:param name="inDir" select="'ind'"/>
-  <xsl:variable name="outDir" select="'outd'"/>
+  <xsl:variable name="outDir" select="'init_dir'"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="'true_gogo'"/>
