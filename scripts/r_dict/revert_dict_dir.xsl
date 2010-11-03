@@ -22,10 +22,10 @@
 
   
   <!-- Input files -->
-  <xsl:param name="inDir" select="'idy'"/>
+  <xsl:param name="inDir" select="'yid'"/>
 
   <!-- Output dir, files -->
-  <xsl:variable name="outDir" select="'ody'"/>
+  <xsl:variable name="outDir" select="'yod'"/>
   <!-- use only the first translation -->
   <xsl:variable name="modus" select="'all'"/>
   <!--   <xsl:variable name="modus" select="'only_one'"/> -->
@@ -79,6 +79,28 @@
 		      </re>
 		    </xsl:for-each>
 		    <t xml:lang="{$srcl}" pos="{../../../lg/l/@pos}">
+		      <!-- transfer sme-relevant attributes to the nobsme as production dictionary -->
+		      <xsl:if test="../../../lg/l/@type">
+			<xsl:copy-of select="../../../lg/l/@type"/>
+		      </xsl:if>
+		      <xsl:if test="../../../lg/l/@nr">
+			<xsl:copy-of select="../../../lg/l/@nr"/>
+		      </xsl:if>
+		      <xsl:if test="../../../lg/l/@pers">
+			<xsl:copy-of select="../../../lg/l/@pers"/>
+		      </xsl:if>
+		      <xsl:if test="../../../lg/l/@mod">
+			<xsl:copy-of select="../../../lg/l/@mod"/>
+		      </xsl:if>
+		      <xsl:if test="../../../lg/l/@context">
+			<xsl:copy-of select="../../../lg/l/@context"/>
+		      </xsl:if>
+		      <xsl:if test="../../../lg/l/@attr">
+			<xsl:value-of select="../../../lg/l/@attr"/>
+		      </xsl:if>
+		      <xsl:if test="../../../lg/l/@illpl">
+			<xsl:value-of select="../../../lg/l/@illpl"/>
+		      </xsl:if>
 		      <xsl:value-of select="normalize-space(../../../lg/l)"/>
 		    </t>
 		    <xsl:if test="../xg">
@@ -103,7 +125,7 @@
 	</r>
       </xsl:variable>
       
-      <xsl:result-document href="{$outDir}/{$current_file}" format="{$of}">
+      <xsl:result-document href="{$outDir}/{concat(substring-before($current_file, '_'), '_', $trgl, $srcl)}.{$e}" format="{$of}">
 	<xsl:copy-of select="$out_tmp"/>
       </xsl:result-document>
       
