@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+          Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
    <e usage="vd">
       <lg>
          <l pos="num">miljovdna</l>
@@ -86,7 +114,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="num">mange tusen</t>
+            <tf pos="phrase">mange tusen</tf>
          </tg>
       </mg>
    </e>
@@ -106,7 +134,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="num">mange hundretusen</t>
+            <tf pos="phrase">mange hundretusen</tf>
          </tg>
       </mg>
    </e>
@@ -187,7 +215,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="num">hvor mange</t>
+            <tf pos="phrase">hvor mange</tf>
             <xg>
                <x>Galle máná dus leat?</x>
                <xt>Hvor mange barn har du?</xt>
@@ -196,7 +224,7 @@
       </mg>
       <mg>
          <tg>
-            <t pos="adv">så mange</t>
+            <tf pos="phrase">så mange</tf>
             <xg>
                <x>Gilážis eai oro nu galle olbmo.</x>
                <xt>I grenda bor det ikke så mange mennesker.</xt>
@@ -245,7 +273,7 @@
       <mg>
          <tg>
             <t pos="n">par</t>
-            <t pos="x">noen få</t>
+            <tf pos="phrase">noen få</tf>
             <xg>
                <x>Bivden su vuordit moadde beaivvi.</x>
                <xt>Jeg ba henne vente et par dager.</xt>
@@ -919,4 +947,5 @@
          </tg>
       </mg>
    </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

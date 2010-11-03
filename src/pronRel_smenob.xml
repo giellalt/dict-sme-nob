@@ -2,8 +2,8 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML" "../../scripts/gt_staticdictionary.dtd">
-<r>
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -28,9 +28,9 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="rel">mii</l>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">mii</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
@@ -52,24 +52,24 @@ For the full license text, see the link above.</lic>
                <wordform>manin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hva</t>
-        <xg>
-          <x>Mii bat doppe lea?</x>
-          <xt>Hva er så der?</xt>
-        </xg>
-        <xg>
-          <x>Dat mii dáhpáhuvvá, dat dáhpáhuvvá.</x>
-          <xt>Det som skjer, det skjer.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="rel">gii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hva</t>
+            <xg>
+               <x>Mii bat doppe lea?</x>
+               <xt>Hva er så der?</xt>
+            </xg>
+            <xg>
+               <x>Dat mii dáhpáhuvvá, dat dáhpáhuvvá.</x>
+               <xt>Det som skjer, det skjer.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">gii</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
@@ -91,24 +91,24 @@ For the full license text, see the link above.</lic>
                <wordform>geanin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hvem</t>
-        <xg>
-          <x>Gii bat don leat?</x>
-          <xt>Hvem er så du?</xt>
-        </xg>
-        <xg>
-          <x>Dološ áigge lei muhtin geafes olmmái gii dávjá finadii báhpa luhtte ánuheame.</x>
-          <xt>I gamle dager var det en fattig mann som ofte var innom og tigget hos presten.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="rel">mat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem</t>
+            <xg>
+               <x>Gii bat don leat?</x>
+               <xt>Hvem er så du?</xt>
+            </xg>
+            <xg>
+               <x>Dološ áigge lei muhtin geafes olmmái gii dávjá finadii báhpa luhtte ánuheame.</x>
+               <xt>I gamle dager var det en fattig mann som ofte var innom og tigget hos presten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">mat</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc">
@@ -130,24 +130,24 @@ For the full license text, see the link above.</lic>
                <wordform>manin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hva (flertall)</t>
-        <xg>
-          <x>Mat leat asteroiidat?</x>
-          <xt>Hva er asteroider?</xt>
-        </xg>
-        <xg>
-          <x>Ohcamat mat bohtet dan áigemeari maŋŋel, eai meannuduvvo.</x>
-          <xt>Søknader som kommer etter den tidsfristen, behandles ikke.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="rel">geat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hva (flertall)</tf>
+            <xg>
+               <x>Mat leat asteroiidat?</x>
+               <xt>Hva er asteroider?</xt>
+            </xg>
+            <xg>
+               <x>Ohcamat mat bohtet dan áigemeari maŋŋel, eai meannuduvvo.</x>
+               <xt>Søknader som kommer etter den tidsfristen, behandles ikke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">geat</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc">
@@ -169,24 +169,24 @@ For the full license text, see the link above.</lic>
                <wordform>geanin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="pron">hvem (flertall)</t>
-        <xg>
-          <x>Geat leat váldoneaktárat filmmas?</x>
-          <xt>Hvem er hovedrolleinnehaverne i filmen?</xt>
-        </xg>
-        <xg>
-          <x>Áššu humadii máŋgasiin geat eai lean duhtavaččat.</x>
-          <xt>Áššu snakket med mange som ikke var fornøyde.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="rel">goabbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hvem (flertall)</tf>
+            <xg>
+               <x>Geat leat váldoneaktárat filmmas?</x>
+               <xt>Hvem er hovedrolleinnehaverne i filmen?</xt>
+            </xg>
+            <xg>
+               <x>Áššu humadii máŋgasiin geat eai lean duhtavaččat.</x>
+               <xt>Áššu snakket med mange som ikke var fornøyde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">goabbá</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
@@ -208,16 +208,16 @@ For the full license text, see the link above.</lic>
                <wordform>goabbán</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="pron">hvilken av de to</t>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="rel">goappát</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hvilken av de to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">goappát</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc">
@@ -239,16 +239,16 @@ For the full license text, see the link above.</lic>
                <wordform>goabbán</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="pron">hvilken av de to (om flertallsord)</t>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="rel">guhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hvilken av de to (om flertallsord)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">guhte</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
@@ -270,16 +270,16 @@ For the full license text, see the link above.</lic>
                <wordform>guhten</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hvem</t>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="rel">guđet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">guđet</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc">
@@ -301,16 +301,16 @@ For the full license text, see the link above.</lic>
                <wordform>guhten</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="pron">hvem (flertall)</t>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="interr" nr="sg">makkár</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hvem (flertall)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="interr" nr="sg">makkár</l>
          <analysis>Pron_Interr_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Sg_Acc">
@@ -332,16 +332,16 @@ For the full license text, see the link above.</lic>
                <wordform>makkárin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hva slags</t>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="interr" nr="pl">makkárat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hva slags</tf>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="interr" nr="pl">makkárat</l>
          <analysis>Pron_Interr_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Pl_Acc">
@@ -363,14 +363,13 @@ For the full license text, see the link above.</lic>
                <wordform>makkárin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hva slags (flertall)</t>
-      </tg>
-    </mg>
-  </e>
-<!-- example for flected forms -->
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hva slags (flertall)</tf>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
       <lg>
          <l pos="pron" type="rel" nr="sg">maid</l>
@@ -380,14 +379,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">hva</t>
-        <xg>
-          <x>Maid dagat dáppe?</x>
-          <xt>Hva gjør du her?</xt>
-        </xg>
-        <xg>
-          <x>Son jurddašii iežas báŋkoloana birra maid galggai máksit odne.</x>
-          <xt>Han/hun tenkte på banklånet sitt som han/hun skulle betale idag.</xt>
-        </xg>
+            <xg>
+               <x>Maid dagat dáppe?</x>
+               <xt>Hva gjør du her?</xt>
+            </xg>
+            <xg>
+               <x>Son jurddašii iežas báŋkoloana birra maid galggai máksit odne.</x>
+               <xt>Han/hun tenkte på banklånet sitt som han/hun skulle betale idag.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -400,14 +399,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">hva</t>
-        <xg>
-          <x>Man birra čállibehtet?</x>
-          <xt>Hva skriver dere om?</xt>
-        </xg>
-        <xg>
-          <x>Buoskavári guoras lea várri man namma lea Ráhpesvárri.</x>
-          <xt>Ved siden av Buoskavárri er det et fjell som heter Ráhpesvárri.</xt>
-        </xg>
+            <xg>
+               <x>Man birra čállibehtet?</x>
+               <xt>Hva skriver dere om?</xt>
+            </xg>
+            <xg>
+               <x>Buoskavári guoras lea várri man namma lea Ráhpesvárri.</x>
+               <xt>Ved siden av Buoskavárri er det et fjell som heter Ráhpesvárri.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -419,15 +418,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hva</t>
-        <xg>
-          <x>Masa don áiggut dien geavahit?</x>
-          <xt>Hva skal du bruke den til?</xt>
-        </xg>
-        <xg>
-          <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
-          <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
-        </xg>
+            <tf pos="phrase">til hva</tf>
+            <xg>
+               <x>Masa don áiggut dien geavahit?</x>
+               <xt>Hva skal du bruke den til?</xt>
+            </xg>
+            <xg>
+               <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
+               <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -440,14 +439,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">hvor</t>
-        <xg>
-          <x>Mas leat eanemus vitamiinnat?</x>
-          <xt>Hva har mest vitaminer?</xt>
-        </xg>
-        <xg>
-          <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-          <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-        </xg>
+            <xg>
+               <x>Mas leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -459,15 +458,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hva</t>
-        <xg>
-          <x>Mainna lágiin leat vieksát ja gotkkat ovttaláganat?</x>
-          <xt>På hvilken måte er veps og maur likedanne?</xt>
-        </xg>
-        <xg>
-          <x>Dat lea stuora biila mainna lea hui buorre vuodjit.</x>
-          <xt>Det er en stor bil som er god å kjøre med.</xt>
-        </xg>
+            <tf pos="phrase">med hva</tf>
+            <xg>
+               <x>Mainna lágiin leat vieksát ja gotkkat ovttaláganat?</x>
+               <xt>På hvilken måte er veps og maur likedanne?</xt>
+            </xg>
+            <xg>
+               <x>Dat lea stuora biila mainna lea hui buorre vuodjit.</x>
+               <xt>Det er en stor bil som er god å kjøre med.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -479,7 +478,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hva</t>
+            <tf pos="phrase">som hva</tf>
          </tg>
       </mg>
    </e>
@@ -493,23 +492,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">hvem</t>
-            <t pos="pron">hvem sin</t>
-        <xg>
-          <x>Gean ovddasvástádus dat lea?</x>
-          <xt>Hvem sitt ansvar er det?</xt>
-        </xg>
-        <xg>
-          <x>Gean don oidnet?</x>
-          <xt>Hvem så du?</xt>
-        </xg>
-        <xg>
-          <x>Min spábbačiekčit leat lohkan gean sii háliidit hárjeheaddjin.</x>
-          <xt>Våre fotballspillere har sagt hvem de ønsker som trener.</xt>
-        </xg>
-        <xg>
-          <x>Gii diehtá gean miessi dat lea?</x>
-          <xt>Hvem vet hvem sin reinkalv det er?</xt>
-        </xg>
+            <tf pos="phrase">hvem sin</tf>
+            <xg>
+               <x>Gean ovddasvástádus dat lea?</x>
+               <xt>Hvem sitt ansvar er det?</xt>
+            </xg>
+            <xg>
+               <x>Gean don oidnet?</x>
+               <xt>Hvem så du?</xt>
+            </xg>
+            <xg>
+               <x>Min spábbačiekčit leat lohkan gean sii háliidit hárjeheaddjin.</x>
+               <xt>Våre fotballspillere har sagt hvem de ønsker som trener.</xt>
+            </xg>
+            <xg>
+               <x>Gii diehtá gean miessi dat lea?</x>
+               <xt>Hvem vet hvem sin reinkalv det er?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -521,15 +520,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hvem</t>
-        <xg>
-          <x>Geasa dat lea ávkin?</x>
-          <xt>For hvem er det nyttig?</xt>
-        </xg>
-        <xg>
-          <x>Dábálaš olbmui lea váttis diehtit geasa galgá jáhkkit dán áššis.</x>
-          <xt>For vanlige folk er det vanskelig å vite hvem man skal tro på i denne saken.</xt>
-        </xg>
+            <tf pos="phrase">til hvem</tf>
+            <xg>
+               <x>Geasa dat lea ávkin?</x>
+               <xt>For hvem er det nyttig?</xt>
+            </xg>
+            <xg>
+               <x>Dábálaš olbmui lea váttis diehtit geasa galgá jáhkkit dán áššis.</x>
+               <xt>For vanlige folk er det vanskelig å vite hvem man skal tro på i denne saken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -541,15 +540,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem (har)</t>
-        <xg>
-          <x>Geas lea nu ollu ruhta?</x>
-          <xt>Hvem har så mye penger?</xt>
-        </xg>
-        <xg>
-          <x>Virgái ohcat olbmo geas lea alit ekonomi- ja hálddašanoahppu.</x>
-          <xt>Til stillingen søker vi en person som har høyere utdanning i økonomi og administrasjon.</xt>
-        </xg>
+            <tf pos="phrase">hvem (har)</tf>
+            <xg>
+               <x>Geas lea nu ollu ruhta?</x>
+               <xt>Hvem har så mye penger?</xt>
+            </xg>
+            <xg>
+               <x>Virgái ohcat olbmo geas lea alit ekonomi- ja hálddašanoahppu.</x>
+               <xt>Til stillingen søker vi en person som har høyere utdanning i økonomi og administrasjon.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -561,15 +560,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvem</t>
-        <xg>
-          <x>Geainna bat mun dál human?</x>
-          <xt>Hvem snakker jeg så med nå?</xt>
-        </xg>
-        <xg>
-          <x>Son lei gonagasnieida geainna ii oktage birgen.</x>
-          <xt>Hun var kongsdatteren som ingen kunne berges med.</xt>
-        </xg>
+            <tf pos="phrase">med hvem</tf>
+            <xg>
+               <x>Geainna bat mun dál human?</x>
+               <xt>Hvem snakker jeg så med nå?</xt>
+            </xg>
+            <xg>
+               <x>Son lei gonagasnieida geainna ii oktage birgen.</x>
+               <xt>Hun var kongsdatteren som ingen kunne berges med.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -581,11 +580,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hvem</t>
+            <tf pos="phrase">som hvem</tf>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="rel" nr="pl">maid</l>
@@ -595,15 +593,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hva (flertall)</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-        <xg>
-          <x>Dás beasat lohkat muhtin áššiid maid birra Áššu lea čállán mannan jagi.</x>
-          <xt>Her får du lese om noen saker som Áššu har skrevet om det siste året.</xt>
-        </xg>
+            <tf pos="phrase">hva (flertall)</tf>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+            <xg>
+               <x>Dás beasat lohkat muhtin áššiid maid birra Áššu lea čállán mannan jagi.</x>
+               <xt>Her får du lese om noen saker som Áššu har skrevet om det siste året.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -615,15 +613,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hva (flertall)</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-        <xg>
-          <x>Buot dát ledje atnudávvirat, maidda beaivválaččat lei dárbu.</x>
-          <xt>Alt dette var bruksgjenstander som det var bruk for til hverdags.</xt>
-        </xg>
+            <tf pos="phrase">til hva (flertall)</tf>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+            <xg>
+               <x>Buot dát ledje atnudávvirat, maidda beaivválaččat lei dárbu.</x>
+               <xt>Alt dette var bruksgjenstander som det var bruk for til hverdags.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -635,15 +633,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">av hva (flertall)</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-        <xg>
-          <x>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</x>
-          <xt>Alle har selv kjøpt materialer som de syr bukser av.</xt>
-        </xg>
+            <tf pos="phrase">av hva (flertall)</tf>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+            <xg>
+               <x>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</x>
+               <xt>Alle har selv kjøpt materialer som de syr bukser av.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -655,20 +653,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hva (flertall)</t>
-        <xg>
-          <x></x>
-          <xt></xt>
-        </xg>
-        <xg>
-          <x>Dathan leat áššit maiguin Sámediggi bargá.</x>
-          <xt>Det er saker som Sametinget arbeider med.</xt>
-        </xg>
+            <tf pos="phrase">med hva (flertall)</tf>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+            <xg>
+               <x>Dathan leat áššit maiguin Sámediggi bargá.</x>
+               <xt>Det er saker som Sametinget arbeider med.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="rel">geaid</l>
@@ -678,24 +674,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem sin (flertall)</t>
-            <t pos="pron">hvem (flertall)</t>
-        <xg>
-          <x>Geaid Ráisa háliida iežaset jovkui?</x>
-          <xt>Hvem Reisa vil på laget?</xt>
-        </xg>
-        <xg>
-          <x>Geaid sárgumat leat čájáhusas?</x>
-          <xt>Hvem har tegninger på utstillinga?</xt>
-        </xg>
-        <xg>
-          <x>Doppe leat vihtta čiekči geaid Ráisa háliida iežaset jovkui.</x>
-          <xt>Der er det fem fotballspillere som Reisa vil på laget.</xt>
-        </xg>
-        <xg>
-          <x>Vuolábealde oainnát sin namaid geaid sárgumat leat čájáhusas.</x>
-          <xt>Nedenfor ser du navnene til dem som har tegninger på utstillinga.</xt>
-        </xg>
+            <tf pos="phrase">hvem sin (flertall)</tf>
+            <tf pos="phrase">hvem (flertall)</tf>
+            <xg>
+               <x>Geaid Ráisa háliida iežaset jovkui?</x>
+               <xt>Hvem Reisa vil på laget?</xt>
+            </xg>
+            <xg>
+               <x>Geaid sárgumat leat čájáhusas?</x>
+               <xt>Hvem har tegninger på utstillinga?</xt>
+            </xg>
+            <xg>
+               <x>Doppe leat vihtta čiekči geaid Ráisa háliida iežaset jovkui.</x>
+               <xt>Der er det fem fotballspillere som Reisa vil på laget.</xt>
+            </xg>
+            <xg>
+               <x>Vuolábealde oainnát sin namaid geaid sárgumat leat čájáhusas.</x>
+               <xt>Nedenfor ser du navnene til dem som har tegninger på utstillinga.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -707,15 +703,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hvem (flertall)</t>
-        <xg>
-          <x>Geaidda bohccot gulle?</x>
-          <xt>Til hvem tilhørte reinen?</xt>
-        </xg>
-        <xg>
-          <x>Dađi bahábut ii lean vejolaš duođaštit, geaidda bohccot gulle.</x>
-          <xt>Dessverre var det ikke mulig å bevise hvem reinen tilhørte.</xt>
-        </xg>
+            <tf pos="phrase">til hvem (flertall)</tf>
+            <xg>
+               <x>Geaidda bohccot gulle?</x>
+               <xt>Til hvem tilhørte reinen?</xt>
+            </xg>
+            <xg>
+               <x>Dađi bahábut ii lean vejolaš duođaštit, geaidda bohccot gulle.</x>
+               <xt>Dessverre var det ikke mulig å bevise hvem reinen tilhørte.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -727,15 +723,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem (har) (flertall)</t>
-        <xg>
-          <x>Geain lea dakkár oahppu?</x>
-          <xt>Hvem har slik utdanning?</xt>
-        </xg>
-        <xg>
-          <x>Doppe leat olbmot geain lea oahppu ja guhkes bargovásáhus.</x>
-          <xt>Der er det folk som har utdanning og lang arbeidsansiennitet.</xt>
-        </xg>
+            <tf pos="phrase">hvem (har) (flertall)</tf>
+            <xg>
+               <x>Geain lea dakkár oahppu?</x>
+               <xt>Hvem har slik utdanning?</xt>
+            </xg>
+            <xg>
+               <x>Doppe leat olbmot geain lea oahppu ja guhkes bargovásáhus.</x>
+               <xt>Der er det folk som har utdanning og lang arbeidsansiennitet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -747,15 +743,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvem (flertall)</t>
-        <xg>
-          <x>Geaiguin dii lehpet hárjehallan?</x>
-          <xt>Hvem har dere trent med?</xt>
-        </xg>
-        <xg>
-          <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
-          <xt>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</xt>
-        </xg>
+            <tf pos="phrase">med hvem (flertall)</tf>
+            <xg>
+               <x>Geaiguin dii lehpet hárjehallan?</x>
+               <xt>Hvem har dere trent med?</xt>
+            </xg>
+            <xg>
+               <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
+               <xt>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -768,8 +764,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvilken av de to</t>
-            <t pos="pron">hvilken av de to sin</t>
+            <tf pos="phrase">hvilken av de to</tf>
+            <tf pos="phrase">hvilken av de to sin</tf>
          </tg>
       </mg>
    </e>
@@ -781,7 +777,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hvilken av de to</t>
+            <tf pos="phrase">til hvilken av de to</tf>
          </tg>
       </mg>
    </e>
@@ -793,7 +789,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvilken av de to (har)</t>
+            <tf pos="phrase">hvilken av de to (har)</tf>
          </tg>
       </mg>
    </e>
@@ -805,7 +801,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvilken av de to</t>
+            <tf pos="phrase">med hvilken av de to</tf>
          </tg>
       </mg>
    </e>
@@ -817,11 +813,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hvilken av de to</t>
+            <tf pos="phrase">som hvilken av de to</tf>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="rel">goappáid</l>
@@ -831,8 +826,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvilken av de to sin (flertall)</t>
-            <t pos="pron">hvilken av de to (flertall)</t>
+            <tf pos="phrase">hvilken av de to sin (flertall)</tf>
+            <tf pos="phrase">hvilken av de to (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -844,7 +839,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hvilken av de to (flertall)</t>
+            <tf pos="phrase">til hvilken av de to (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -856,7 +851,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvilken av de to (har) (flertall)</t>
+            <tf pos="phrase">hvilken av de to (har) (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -868,7 +863,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvilken av de to (flertall)</t>
+            <tf pos="phrase">med hvilken av de to (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -882,7 +877,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">hvem</t>
-            <t pos="pron">hvem sin</t>
+            <tf pos="phrase">hvem sin</tf>
          </tg>
       </mg>
    </e>
@@ -894,7 +889,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hvem</t>
+            <tf pos="phrase">til hvem</tf>
          </tg>
       </mg>
    </e>
@@ -906,7 +901,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem (har)</t>
+            <tf pos="phrase">hvem (har)</tf>
          </tg>
       </mg>
    </e>
@@ -918,7 +913,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvem</t>
+            <tf pos="phrase">med hvem</tf>
          </tg>
       </mg>
    </e>
@@ -930,11 +925,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hvem</t>
+            <tf pos="phrase">som hvem</tf>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="rel">guđiid</l>
@@ -944,8 +938,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem sin (flertall)</t>
-            <t pos="pron">hvem (flertall)</t>
+            <tf pos="phrase">hvem sin (flertall)</tf>
+            <tf pos="phrase">hvem (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -957,7 +951,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hvem (flertall)</t>
+            <tf pos="phrase">til hvem (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -969,7 +963,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem (har) (flertall)</t>
+            <tf pos="phrase">hvem (har) (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -981,7 +975,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvem (flertall)</t>
+            <tf pos="phrase">med hvem (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -994,7 +988,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hva slags</t>
+            <tf pos="phrase">hva slags</tf>
          </tg>
       </mg>
    </e>
@@ -1006,7 +1000,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hva slags</t>
+            <tf pos="phrase">til hva slags</tf>
          </tg>
       </mg>
    </e>
@@ -1018,8 +1012,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">i/av hva slags</t>
-            <t pos="pron">hva slags (har)</t>
+            <tf pos="phrase">i/av hva slags</tf>
+            <tf pos="phrase">hva slags (har)</tf>
          </tg>
       </mg>
    </e>
@@ -1031,8 +1025,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hva slags</t>
-        </tg>
+            <tf pos="phrase">med hva slags</tf>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -1043,7 +1037,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hva slags</t>
+            <tf pos="phrase">som hva slags</tf>
          </tg>
       </mg>
    </e>
@@ -1056,7 +1050,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hva slags (flertall)</t>
+            <tf pos="phrase">hva slags (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -1068,7 +1062,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hva slags (flertall)</t>
+            <tf pos="phrase">til hva slags (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -1080,8 +1074,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">i/av hva slags (flertall)</t>
-            <t pos="pron">hva slags (har) (flertall)</t>
+            <tf pos="phrase">i/av hva slags (flertall)</tf>
+            <tf pos="phrase">hva slags (har) (flertall)</tf>
          </tg>
       </mg>
    </e>
@@ -1093,8 +1087,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hva slags (flertall)</t>
-        </tg>
+            <tf pos="phrase">med hva slags (flertall)</tf>
+         </tg>
       </mg>
    </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
-"../../scripts/gt_staticdictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -33,15 +33,33 @@ For the full license text, see the link above.</lic>
          <l context="mun" pos="v">ii</l>
          <analysis>IV_Neg_Ind_Sg3</analysis>
          <mini_paradigm>
-            <analysis ms="IV_Neg_Ind_Sg1"><wordform>in</wordform></analysis>
-            <analysis ms="IV_Neg_Ind_Sg2"><wordform>it</wordform></analysis>
-            <analysis ms="IV_Neg_Ind_Sg3"><wordform>ii</wordform></analysis>
-            <analysis ms="IV_Neg_Ind_Du1"><wordform>ean</wordform></analysis>
-            <analysis ms="IV_Neg_Ind_Du2"><wordform>eahppi</wordform></analysis>
-            <analysis ms="IV_Neg_Ind_Du3"><wordform>eaba</wordform></analysis>
-            <analysis ms="IV_Neg_Ind_Pl1"><wordform>eat</wordform></analysis>
-            <analysis ms="IV_Neg_Ind_Pl2"><wordform>ehpet</wordform></analysis>
-            <analysis ms="IV_Neg_Ind_Pl3"><wordform>eai</wordform></analysis>
+            <analysis ms="IV_Neg_Ind_Sg1">
+               <wordform>in</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Sg2">
+               <wordform>it</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Sg3">
+               <wordform>ii</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Du1">
+               <wordform>ean</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Du2">
+               <wordform>eahppi</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Du3">
+               <wordform>eaba</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Pl1">
+               <wordform>eat</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Pl2">
+               <wordform>ehpet</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Pl3">
+               <wordform>eai</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -232,15 +250,33 @@ For the full license text, see the link above.</lic>
          <l pos="v">allos</l>
          <analysis>Neg_Imprt_Sg3</analysis>
          <mini_paradigm>
-            <analysis ms="Neg_Imprt_Sg1"><wordform>allon</wordform></analysis>
-            <analysis ms="Neg_Imprt_Sg2"><wordform>ale</wordform></analysis>
-            <analysis ms="Neg_Imprt_Sg3"><wordform>allos</wordform></analysis>
-            <analysis ms="Neg_Imprt_Du1"><wordform>allu</wordform></analysis>
-            <analysis ms="Neg_Imprt_Du2"><wordform>alli</wordform></analysis>
-            <analysis ms="Neg_Imprt_Du3"><wordform>alloska</wordform></analysis>
-            <analysis ms="Neg_Imprt_Pl1"><wordform>allot</wordform></analysis>
-            <analysis ms="Neg_Imprt_Pl2"><wordform>allet</wordform></analysis>
-            <analysis ms="Neg_Imprt_Pl3"><wordform>alloset</wordform></analysis>
+            <analysis ms="Neg_Imprt_Sg1">
+               <wordform>allon</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Sg2">
+               <wordform>ale</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Sg3">
+               <wordform>allos</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Du1">
+               <wordform>allu</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Du2">
+               <wordform>alli</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Du3">
+               <wordform>alloska</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Pl1">
+               <wordform>allot</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Pl2">
+               <wordform>allet</wordform>
+            </analysis>
+            <analysis ms="Neg_Imprt_Pl3">
+               <wordform>alloset</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -390,4 +426,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

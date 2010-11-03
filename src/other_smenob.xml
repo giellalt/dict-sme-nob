@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hver av to</t>
+            <tf pos="phrase">hver av to</tf>
             <xg>
                <x>Sii doalahit dálá organiserema mas lea okta rektor goabbatge skuvllas.</x>
                <xt>De fortsetter dagens organisering med en rektor på hver av de to skolene.</xt>
@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="pron">hver sin</t>
+            <tf pos="phrase">hver sin</tf>
             <xg>
                <x>Dán áššis orrot hálddahus ja stivra goabbat oaivilis.</x>
                <xt>I denne saken virker administrasjonen og styret å ha hver sin mening.</xt>
@@ -70,7 +70,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="pron">hver sin</t>
+            <tf pos="phrase">hver sin</tf>
             <xg>
                <x>De manne sii guhtet guovlluidasaset.</x>
                <xt>Så gikk de hver sin veg.</xt>
@@ -98,7 +98,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">som helst</t>
+            <tf pos="phrase">som helst</tf>
             <xg>
                <x>mii ihkinassii</x>
                <xt>hva som helst</xt>
@@ -142,7 +142,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">til den siden</t>
+            <tf pos="phrase">til den siden</tf>
             <xg>
                <x>Dan maŋŋá son fárrii ovttas bearrašiinnis rájá nuppe beallái.</x>
                <xt>Etter det flyttet hun sammen med familien sin til andre siden av grensen.</xt>
@@ -160,7 +160,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">til den siden</t>
+            <tf pos="phrase">til den siden</tf>
             <xg>
                <x>Dan maŋŋá son fárrii ovttas bearrašiinnis rájá nuppe beallai.</x>
                <xt>Etter det flyttet hun sammen med familien sin til andre siden av grensen.</xt>
@@ -192,7 +192,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">så mye som</t>
+            <tf pos="phrase">så mye som</tf>
             <xg>
                <x>dan veardde</x>
                <xt>så pass mye</xt>
@@ -263,7 +263,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">å javel</t>
+            <tf pos="phrase">å javel</tf>
             <xg>
                <x>Nu bat dat lea?</x>
                <xt>Å, er det slik det er?</xt>
@@ -309,7 +309,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ikke sant</t>
+            <tf pos="phrase">ikke sant</tf>
             <xg>
                <x>Almma muittát dan?</x>
                <xt>Du husker det, ikke sant?</xt>
@@ -332,7 +332,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">mon tro</t>
+            <tf pos="phrase">mon tro</tf>
             <xg>
                <x>Mo dal aitto geavvá?</x>
                <xt>Hvordan går det, mon tro?</xt>
@@ -355,7 +355,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="i">en hilsen</t>
+            <tf pos="phrase">en hilsen</tf>
          </tg>
       </mg>
    </e>
@@ -495,8 +495,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">for at</t>
-            <t pos="xxx">for å</t>
+            <tf pos="phrase">for at</tf>
+            <tf pos="phrase">for å</tf>
             <xg>
                <x>Ferten árrat nohkkat vai veaddján iđđes.</x>
                <xt>Jeg må legge meg tidlig slik at jeg klarer å stå opp om morgenen.</xt>
@@ -561,7 +561,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="cs">slik som</t>
+            <tf pos="phrase">slik som</tf>
             <t pos="cs">som</t>
             <xg>
                <x>Daga nugo mun.</x>
@@ -589,7 +589,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="cs">akkurat som</t>
+            <tf pos="phrase">akkurat som</tf>
             <t pos="cs">liksom</t>
             <xg>
                <x>Don borat dugo spiidni.</x>
@@ -608,7 +608,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="cs">akkurat som</t>
+            <tf pos="phrase">akkurat som</tf>
             <t pos="cs">liksom</t>
             <xg>
                <x>Don borat dego spiidni.</x>
@@ -642,8 +642,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="cs">om så</t>
-            <t pos="cs">selv om</t>
+            <tf pos="phrase">om så</tf>
+            <tf pos="phrase">selv om</tf>
             <xg>
                <x>Don gal borat vaikke man ollu.</x>
                <xt>Du spiser om så hvor mye.</xt>
@@ -661,8 +661,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="cs">om så</t>
-            <t pos="cs">selv om</t>
+            <tf pos="phrase">om så</tf>
+            <tf pos="phrase">selv om</tf>
             <xg>
                <x>Don gal borat vaikko man ollu.</x>
                <xt>Du spiser om så hvor mye.</xt>
@@ -783,7 +783,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i alle fall</t>
+            <tf pos="phrase">i alle fall</tf>
             <xg>
                <x>Máret goit boahtá.</x>
                <xt>Marit kommer i alle fall.</xt>
@@ -937,7 +937,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="p">på grunn av</t>
+            <tf pos="phrase">på grunn av</tf>
             <xg>
                <x>Dien mearrádusa dihtii ánssáša ovdagoddi rámi.</x>
                <xt>På grunn av det vedtaket fortjener formannskapet ros.</xt>
@@ -960,7 +960,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="p">på grunn av</t>
+            <tf pos="phrase">på grunn av</tf>
             <xg>
                <x>Dan dihte fertejit ráhkadit oktasaš listtu Sámediggeválgii.</x>
                <xt>På grunn av dette må de lage en felles liste til Sametingsvalget.</xt>
@@ -981,7 +981,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg>
-            <t pos="p">sammenlignet med</t>
+            <tf pos="phrase">sammenlignet med</tf>
             <xg>
                <x>Dat golut leat govttolaččat veahki ektui.</x>
                <xt>Kostnadene er gunstige sammenlignet med nytten.</xt>
@@ -1047,7 +1047,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">inn i</t>
+            <tf pos="phrase">inn i</tf>
             <xg>
                <x>Son bidjalii reivve girjji sisa.</x>
                <xt>Hun stakk brevet inn i boka.</xt>
@@ -1069,7 +1069,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">på grunnlag av</t>
+            <tf pos="phrase">på grunnlag av</tf>
             <xg>
                <x>Dán materiála vuođul lea váttis mearridit.</x>
                <xt>Det er vanskelig å gjøre vedtak på grunnlag av dette materialet.</xt>
@@ -1111,7 +1111,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ved siden av</t>
+            <tf pos="phrase">ved siden av</tf>
             <xg>
                <x>Máze skuvlla báldda golggai ája.</x>
                <xt>Ved siden av Máze skole rant en bekk.</xt>
@@ -1125,7 +1125,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ved siden av</t>
+            <tf pos="phrase">ved siden av</tf>
             <xg>
                <x>Mánná oađđá eatni bálddas.</x>
                <xt>Barnet sover ved siden av mora.</xt>
@@ -1139,7 +1139,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ved siden av</t>
+            <tf pos="phrase">ved siden av</tf>
             <xg>
                <x>Vellet mu báldii!</x>
                <xt>Legg deg ned ved siden av meg!</xt>
@@ -1260,7 +1260,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">midt i</t>
+            <tf pos="phrase">midt i</tf>
             <t pos="p">på</t>
             <t pos="p">mellom</t>
             <xg>
@@ -1320,7 +1320,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">i nerenden</t>
+            <tf pos="phrase">i nerenden</tf>
          </tg>
       </mg>
    </e>
@@ -1392,7 +1392,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">ved siden av</t>
+            <tf pos="phrase">ved siden av</tf>
             <xg>
                <x>Mánná čohkká eatni guoras.</x>
                <xt>Barnet sitter ved siden av mor.</xt>
@@ -1406,7 +1406,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">midt på</t>
+            <tf pos="phrase">midt på</tf>
          </tg>
       </mg>
    </e>
@@ -1416,8 +1416,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">midt på</t>
-            <t pos="p">midt i</t>
+            <tf pos="phrase">midt på</tf>
+            <tf pos="phrase">midt i</tf>
             <xg>
                <x>Son vázzá guovdu luotta.</x>
                <xt>Han går midt på veien.</xt>
@@ -1432,7 +1432,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="p">nær</t>
-            <t pos="p">i nærheten av</t>
+            <tf pos="phrase">i nærheten av</tf>
             <xg>
                <x>In beassan lahka ge uvssa.</x>
                <xt>Jeg kom meg ikke i nærheten av døra engang.</xt>
@@ -1631,7 +1631,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="p">i følge</t>
+            <tf pos="phrase">i følge</tf>
             <xg>
                <x>Buohkat geat leat čálihan iežaset jienastuslohkui leat dien čilgehusa mielde sámit.</x>
                <xt>Alle som har meldt seg inn i manntallet er samer i følge den definisjonen.</xt>
@@ -1683,7 +1683,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="p">foran</t>
-            <t pos="x">i veien</t>
+            <tf pos="phrase">i veien</tf>
             <xg>
                <x>Don leat mu ovddas.</x>
                <xt>Du er i vegen for meg.</xt>
@@ -1706,7 +1706,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">tvers av</t>
+            <tf pos="phrase">tvers av</tf>
          </tg>
       </mg>
    </e>
@@ -1716,7 +1716,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">inne i</t>
+            <tf pos="phrase">inne i</tf>
             <xg>
                <x>Girjji siste gávdnui reive.</x>
                <xt>Et brev ble funnet inne i boka.</xt>
@@ -1731,7 +1731,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="p">for</t>
-            <t pos="p">av hensyn til</t>
+            <tf pos="phrase">av hensyn til</tf>
             <xg>
                <x>Joatkkaskuvlla várás eai báljo gávdno oahppogirjjit sámegillii.</x>
                <xt>Det finnes nesten ikke lærebøker på samisk for den videregående skolen.</xt>
@@ -1801,7 +1801,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">med hensyn til</t>
+            <tf pos="phrase">med hensyn til</tf>
             <xg>
                <x>dan dáfus</x>
                <xt>med hensyn til det</xt>
@@ -1819,7 +1819,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">på grunn av</t>
+            <tf pos="phrase">på grunn av</tf>
             <xg>
                <x>dan geažil</x>
                <xt>på grunn av det den</xt>
@@ -1866,7 +1866,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="p">før</t>
-            <t pos="p">i møte</t>
+            <tf pos="phrase">i møte</tf>
             <xg>
                <x>Son bođii mu ovddal.</x>
                <xt>Hun kom meg i møte.</xt>
@@ -1933,7 +1933,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">midt i</t>
+            <tf pos="phrase">midt i</tf>
             <xg>
                <x>Son sáhtii gaskan dajaldaga geahččagoahtit maid nu.</x>
                <xt>Ho kunne begynne å se på hva som helst midt i ei setning.</xt>
@@ -1956,7 +1956,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">midt på</t>
+            <tf pos="phrase">midt på</tf>
             <xg>
                <x>guovdelas beaivvi</x>
                <xt>midt på dagen</xt>
@@ -1995,7 +1995,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="p">tvers av</t>
+            <tf pos="phrase">tvers av</tf>
          </tg>
       </mg>
    </e>
@@ -2005,7 +2005,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="p">i følge</t>
+            <tf pos="phrase">i følge</tf>
             <xg>
                <x>aisttan Sámmola</x>
                <xt>for å si som Sammul</xt>
@@ -2065,7 +2065,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">de fleste</t>
+            <tf pos="phrase">de fleste</tf>
          </tg>
       </mg>
    </e>
@@ -2098,7 +2098,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">noen</t>
             <t pos="x">mange</t>
-            <t pos="x">hvor mange</t>
+            <tf pos="phrase">hvor mange</tf>
             <xg>
                <x>Gallis leat?</x>
                <xt>Hvor mange mennesker er det</xt>
@@ -2225,7 +2225,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i sin tur</t>
+            <tf pos="phrase">i sin tur</tf>
             <xg>
                <x>Go biktasiid lea bassan ja goikadan, ferte ges máhccut daid.</x>
                <xt>Når man har vaska og tørka klær, så må man også brette dem.</xt>
@@ -2240,7 +2240,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">ovenfor</t>
-            <t pos="x">høyere oppe</t>
+            <tf pos="phrase">høyere oppe</tf>
             <xg>
                <x>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</x>
                <xt>De måler hvor mye hvert vann er over havnivå.</xt>
@@ -2265,7 +2265,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langs nordsiden</t>
+            <tf pos="phrase">langs nordsiden</tf>
             <xg>
                <x>Buoremus lea čuoigat davágeaže jávrri.</x>
                <xt>Det er best å gå på ski langs nordsiden av vannet.</xt>
@@ -2279,7 +2279,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langs østsiden</t>
+            <tf pos="phrase">langs østsiden</tf>
             <xg>
                <x>Buoremus lea čuoigat nuorttageaže jávrri.</x>
                <xt>Det er best å gå på ski langs østsiden av vannet.</xt>
@@ -2293,7 +2293,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langs sørsiden</t>
+            <tf pos="phrase">langs sørsiden</tf>
             <xg>
                <x>Buoremus lea čuoigat lulágeaže jávrri.</x>
                <xt>Det er best å gå på ski langs sørsiden av vannet.</xt>
@@ -2307,7 +2307,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langs sørsiden</t>
+            <tf pos="phrase">langs sørsiden</tf>
             <xg>
                <x>Buoremus lea čuoigat máttageaže jávrri.</x>
                <xt>Det er best å gå på ski langs sørsiden av vannet.</xt>
@@ -2321,7 +2321,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langs vestsiden</t>
+            <tf pos="phrase">langs vestsiden</tf>
             <xg>
                <x>Buoremus lea čuoigat oarjjageaže jávrri.</x>
                <xt>Det er best å gå på ski langs vestsiden av vannet.</xt>
@@ -2335,7 +2335,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">begge to</t>
+            <tf pos="phrase">begge to</tf>
             <xg>
                <x>Árvolassáneapmi lei jagis 1997 sullii seamma dásis goappaš riikkain.</x>
                <xt>Verdistigningen var i 1997 omtrent på samme nivå i begge landa.</xt>
@@ -2349,7 +2349,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">i retning av</t>
+            <tf pos="phrase">i retning av</tf>
             <xg>
                <x>Liikká orru mannamin dan guvlui.</x>
                <xt>Det virker likevel å gå i den retningen.</xt>
@@ -2387,4 +2387,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

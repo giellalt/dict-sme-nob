@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -401,8 +401,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="actor">uhyre</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -704,7 +704,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="actor">levende vesen</t>
+            <tf pos="phrase">levende vesen</tf>
          </tg>
       </mg>
       <mg>
@@ -794,7 +794,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">smittsom sykdom</t>
+            <tf pos="phrase">smittsom sykdom</tf>
          </tg>
       </mg>
    </e>
@@ -1226,7 +1226,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="S">samfunnsinteressert person</t>
+            <tf pos="phrase">samfunnsinteressert person</tf>
          </tg>
       </mg>
    </e>
@@ -1256,7 +1256,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">daglig leder</t>
+            <tf pos="phrase">daglig leder</tf>
          </tg>
       </mg>
    </e>
@@ -1491,7 +1491,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">utflyttet person</t>
+            <tf pos="phrase">utflyttet person</tf>
             <t pos="m">utflytter</t>
          </tg>
       </mg>
@@ -1602,7 +1602,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">innkallingsansvarlig person</t>
+            <tf pos="phrase">innkallingsansvarlig person</tf>
          </tg>
       </mg>
    </e>
@@ -2217,7 +2217,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">kapitalsterk investor</t>
+            <tf pos="phrase">kapitalsterk investor</tf>
          </tg>
       </mg>
    </e>
@@ -2850,7 +2850,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">person som går på ski rundt hjorden</t>
+            <tf pos="phrase">person som går på ski rundt hjorden</tf>
          </tg>
       </mg>
    </e>
@@ -2940,7 +2940,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">meldepliktig person</t>
+            <tf pos="phrase">meldepliktig person</tf>
          </tg>
       </mg>
    </e>
@@ -3180,7 +3180,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">offensiv midtbanespiller</t>
+            <tf pos="phrase">offensiv midtbanespiller</tf>
          </tg>
       </mg>
    </e>
@@ -3827,7 +3827,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="actor">vilt dyr</t>
+            <tf pos="phrase">vilt dyr</tf>
          </tg>
       </mg>
    </e>
@@ -3929,4 +3929,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

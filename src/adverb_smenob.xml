@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">litt tidligere</t>
+            <tf pos="phrase">litt tidligere</tf>
          </tg>
       </mg>
    </e>
@@ -272,7 +272,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">i snurr</t>
+            <tf pos="phrase">i snurr</tf>
          </tg>
       </mg>
    </e>
@@ -360,7 +360,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om våren</t>
+            <tf pos="phrase">om våren</tf>
          </tg>
       </mg>
    </e>
@@ -380,7 +380,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">med strømmen</t>
+            <tf pos="phrase">med strømmen</tf>
          </tg>
       </mg>
    </e>
@@ -391,7 +391,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nordover</t>
-            <t pos="x">mot nord</t>
+            <tf pos="phrase">mot nord</tf>
          </tg>
       </mg>
    </e>
@@ -402,7 +402,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">sørover</t>
-            <t pos="x">mot sør</t>
+            <tf pos="phrase">mot sør</tf>
          </tg>
       </mg>
    </e>
@@ -427,7 +427,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">vestover</t>
-            <t pos="x">mot vest</t>
+            <tf pos="phrase">mot vest</tf>
          </tg>
       </mg>
    </e>
@@ -437,7 +437,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på forhånd</t>
+            <tf pos="phrase">på forhånd</tf>
          </tg>
       </mg>
    </e>
@@ -461,7 +461,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på baksiden</t>
+            <tf pos="phrase">på baksiden</tf>
          </tg>
       </mg>
    </e>
@@ -482,7 +482,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">østover</t>
-            <t pos="x">mot øst</t>
+            <tf pos="phrase">mot øst</tf>
          </tg>
       </mg>
    </e>
@@ -493,7 +493,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nordpå</t>
-            <t pos="x">i nord</t>
+            <tf pos="phrase">i nord</tf>
          </tg>
       </mg>
       <mg>
@@ -509,7 +509,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">sørpå</t>
-            <t pos="x">i sør</t>
+            <tf pos="phrase">i sør</tf>
          </tg>
       </mg>
       <mg>
@@ -525,7 +525,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">østpå</t>
-            <t pos="x">i øst</t>
+            <tf pos="phrase">i øst</tf>
          </tg>
       </mg>
       <mg>
@@ -541,7 +541,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">vestpå</t>
-            <t pos="x">i vest</t>
+            <tf pos="phrase">i vest</tf>
          </tg>
       </mg>
       <mg>
@@ -558,7 +558,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">mirakel</t>
-            <t pos="x">noe underlig</t>
+            <tf pos="phrase">noe underlig</tf>
             <xg>
                <x>oavdu son manai</x>
                <xt>ikke rart at han (hun) dro</xt>
@@ -572,7 +572,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til låns</t>
+            <tf pos="phrase">til låns</tf>
          </tg>
       </mg>
    </e>
@@ -634,7 +634,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">sammen med</t>
+            <tf pos="phrase">sammen med</tf>
          </tg>
       </mg>
    </e>
@@ -665,7 +665,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">alfabetisk</t>
-            <t pos="adv">i alfabetisk rekkefølge</t>
+            <tf pos="phrase">i alfabetisk rekkefølge</tf>
          </tg>
       </mg>
    </e>
@@ -700,7 +700,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">oppe</t>
-            <t pos="adv">oppe fra</t>
+            <tf pos="phrase">oppe fra</tf>
          </tg>
       </mg>
    </e>
@@ -720,7 +720,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">stemme avholdende</t>
+            <tf pos="phrase">stemme avholdende</tf>
             <xg>
                <x>Áirras lei jienaskeahttá.</x>
                <xt>Representanten stemte avholdende.</xt>
@@ -889,7 +889,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">for lenge siden</t>
+            <tf pos="phrase">for lenge siden</tf>
          </tg>
       </mg>
    </e>
@@ -899,7 +899,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i tide</t>
+            <tf pos="phrase">i tide</tf>
          </tg>
       </mg>
    </e>
@@ -924,7 +924,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="m">en gang</t>
+            <tf pos="phrase">en gang</tf>
          </tg>
       </mg>
    </e>
@@ -945,7 +945,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i begynnelsen</t>
+            <tf pos="phrase">i begynnelsen</tf>
          </tg>
       </mg>
    </e>
@@ -955,7 +955,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på skrå</t>
+            <tf pos="phrase">på skrå</tf>
          </tg>
       </mg>
    </e>
@@ -990,7 +990,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">oppå hverandre</t>
+            <tf pos="phrase">oppå hverandre</tf>
          </tg>
       </mg>
    </e>
@@ -1011,7 +1011,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">her og der</t>
+            <tf pos="phrase">her og der</tf>
          </tg>
       </mg>
    </e>
@@ -1064,8 +1064,8 @@ For the full license text, see the link above.</lic>
             <t pos="x">nederst</t>
             <te>til nederst</te>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1105,7 +1105,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om dagen</t>
+            <tf pos="phrase">om dagen</tf>
          </tg>
       </mg>
    </e>
@@ -1168,7 +1168,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">for seg sjøl</t>
+            <tf pos="phrase">for seg sjøl</tf>
          </tg>
       </mg>
    </e>
@@ -1212,7 +1212,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om høsten</t>
+            <tf pos="phrase">om høsten</tf>
          </tg>
       </mg>
    </e>
@@ -1252,7 +1252,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">for ei tid siden</t>
+            <tf pos="phrase">for ei tid siden</tf>
          </tg>
       </mg>
    </e>
@@ -1263,7 +1263,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">straks</t>
-            <t pos="x">med en gang</t>
+            <tf pos="phrase">med en gang</tf>
          </tg>
       </mg>
    </e>
@@ -1298,7 +1298,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">straks</t>
-            <t pos="x">med en gang</t>
+            <tf pos="phrase">med en gang</tf>
          </tg>
       </mg>
    </e>
@@ -1309,7 +1309,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">straks</t>
-            <t pos="x">med en gang</t>
+            <tf pos="phrase">med en gang</tf>
          </tg>
       </mg>
    </e>
@@ -1320,7 +1320,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">straks</t>
-            <t pos="x">med en gang</t>
+            <tf pos="phrase">med en gang</tf>
          </tg>
       </mg>
    </e>
@@ -1372,7 +1372,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om vinteren</t>
+            <tf pos="phrase">om vinteren</tf>
          </tg>
       </mg>
    </e>
@@ -1493,7 +1493,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">dit til dere</t>
+            <tf pos="phrase">dit til dere</tf>
          </tg>
       </mg>
    </e>
@@ -1504,7 +1504,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">der</t>
-            <t pos="x">den der</t>
+            <tf pos="phrase">den der</tf>
          </tg>
       </mg>
    </e>
@@ -1514,7 +1514,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">der hos dere</t>
+            <tf pos="phrase">der hos dere</tf>
          </tg>
       </mg>
    </e>
@@ -1524,7 +1524,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i fjor</t>
+            <tf pos="phrase">i fjor</tf>
          </tg>
       </mg>
    </e>
@@ -1534,7 +1534,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">fullt ut</t>
+            <tf pos="phrase">fullt ut</tf>
          </tg>
       </mg>
    </e>
@@ -1554,7 +1554,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på tvers</t>
+            <tf pos="phrase">på tvers</tf>
          </tg>
       </mg>
    </e>
@@ -1574,7 +1574,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">før i tiden</t>
+            <tf pos="phrase">før i tiden</tf>
          </tg>
       </mg>
    </e>
@@ -1584,8 +1584,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">der borte</t>
-            <t pos="x">det der borte</t>
+            <tf pos="phrase">der borte</tf>
+            <tf pos="phrase">det der borte</tf>
          </tg>
       </mg>
    </e>
@@ -1595,7 +1595,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">der borte</t>
+            <tf pos="phrase">der borte</tf>
          </tg>
       </mg>
    </e>
@@ -1617,7 +1617,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">ustanselig</t>
-            <t pos="x">i lengden</t>
+            <tf pos="phrase">i lengden</tf>
          </tg>
       </mg>
    </e>
@@ -1627,7 +1627,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">der borte</t>
+            <tf pos="phrase">der borte</tf>
          </tg>
       </mg>
    </e>
@@ -1676,7 +1676,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">for en tid siden</t>
+            <tf pos="phrase">for en tid siden</tf>
          </tg>
       </mg>
    </e>
@@ -1698,12 +1698,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">det meste</t>
+            <tf pos="phrase">det meste</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="x">de fleste</t>
+            <tf pos="phrase">de fleste</tf>
          </tg>
       </mg>
    </e>
@@ -1743,7 +1743,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ganske mye</t>
+            <tf pos="phrase">ganske mye</tf>
          </tg>
       </mg>
    </e>
@@ -1779,7 +1779,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i stad</t>
+            <tf pos="phrase">i stad</tf>
          </tg>
       </mg>
    </e>
@@ -1859,7 +1859,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hvor mange</t>
+            <tf pos="phrase">hvor mange</tf>
          </tg>
       </mg>
       <mg>
@@ -1912,7 +1912,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">av og til</t>
+            <tf pos="phrase">av og til</tf>
          </tg>
       </mg>
    </e>
@@ -1922,7 +1922,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">midt i</t>
+            <tf pos="phrase">midt i</tf>
          </tg>
       </mg>
    </e>
@@ -1932,7 +1932,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på rygg</t>
+            <tf pos="phrase">på rygg</tf>
          </tg>
       </mg>
    </e>
@@ -1942,7 +1942,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om sommeren</t>
+            <tf pos="phrase">om sommeren</tf>
          </tg>
       </mg>
    </e>
@@ -2000,7 +2000,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på gløtt</t>
+            <tf pos="phrase">på gløtt</tf>
          </tg>
       </mg>
    </e>
@@ -2077,7 +2077,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langt bort</t>
+            <tf pos="phrase">langt bort</tf>
          </tg>
       </mg>
    </e>
@@ -2087,8 +2087,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langt borte</t>
-            <t pos="x">langt bortefra</t>
+            <tf pos="phrase">langt borte</tf>
+            <tf pos="phrase">langt bortefra</tf>
          </tg>
       </mg>
    </e>
@@ -2098,7 +2098,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">to ganger</t>
+            <tf pos="phrase">to ganger</tf>
          </tg>
       </mg>
    </e>
@@ -2176,7 +2176,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på egen hånd</t>
+            <tf pos="phrase">på egen hånd</tf>
          </tg>
       </mg>
    </e>
@@ -2186,7 +2186,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om natten</t>
+            <tf pos="phrase">om natten</tf>
          </tg>
       </mg>
    </e>
@@ -2196,7 +2196,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">til i morgen</t>
+            <tf pos="phrase">til i morgen</tf>
          </tg>
       </mg>
    </e>
@@ -2206,7 +2206,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i morgen</t>
+            <tf pos="phrase">i morgen</tf>
          </tg>
       </mg>
    </e>
@@ -2216,7 +2216,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">natt og dag</t>
+            <tf pos="phrase">natt og dag</tf>
          </tg>
       </mg>
    </e>
@@ -2226,7 +2226,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i går</t>
+            <tf pos="phrase">i går</tf>
          </tg>
       </mg>
    </e>
@@ -2261,7 +2261,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">nesten ikke</t>
+            <tf pos="phrase">nesten ikke</tf>
          </tg>
       </mg>
    </e>
@@ -2276,7 +2276,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">nesten ikke</t>
+            <tf pos="phrase">nesten ikke</tf>
          </tg>
       </mg>
    </e>
@@ -2405,7 +2405,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">nær hverandre</t>
+            <tf pos="phrase">nær hverandre</tf>
          </tg>
       </mg>
    </e>
@@ -2443,7 +2443,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">etter hverandre</t>
+            <tf pos="phrase">etter hverandre</tf>
          </tg>
       </mg>
    </e>
@@ -2453,7 +2453,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">etter hverandre</t>
+            <tf pos="phrase">etter hverandre</tf>
          </tg>
       </mg>
    </e>
@@ -2473,7 +2473,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til overs</t>
+            <tf pos="phrase">til overs</tf>
          </tg>
       </mg>
    </e>
@@ -2493,7 +2493,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til slutt</t>
+            <tf pos="phrase">til slutt</tf>
          </tg>
       </mg>
    </e>
@@ -2514,7 +2514,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">mot sør</t>
+            <tf pos="phrase">mot sør</tf>
             <t pos="x">sørover</t>
          </tg>
       </mg>
@@ -2525,7 +2525,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">mot sør</t>
+            <tf pos="phrase">mot sør</tf>
             <t pos="x">sørover</t>
          </tg>
       </mg>
@@ -2536,8 +2536,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langt sør</t>
-            <t pos="x">langt sørfra</t>
+            <tf pos="phrase">langt sør</tf>
+            <tf pos="phrase">langt sørfra</tf>
          </tg>
       </mg>
    </e>
@@ -2547,13 +2547,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i sør</t>
+            <tf pos="phrase">i sør</tf>
             <t pos="x">sørpå</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="x">fra sør</t>
+            <tf pos="phrase">fra sør</tf>
          </tg>
       </mg>
    </e>
@@ -2563,8 +2563,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til låns</t>
-            <t pos="x">til leie</t>
+            <tf pos="phrase">til låns</tf>
+            <tf pos="phrase">til leie</tf>
          </tg>
       </mg>
    </e>
@@ -2579,7 +2579,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">for eksempel</t>
+            <tf pos="phrase">for eksempel</tf>
          </tg>
       </mg>
    </e>
@@ -2621,7 +2621,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">mange ganger</t>
+            <tf pos="phrase">mange ganger</tf>
          </tg>
       </mg>
    </e>
@@ -2693,7 +2693,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">nokså mye</t>
+            <tf pos="phrase">nokså mye</tf>
          </tg>
       </mg>
    </e>
@@ -2778,7 +2778,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">slik som</t>
+            <tf pos="phrase">slik som</tf>
          </tg>
       </mg>
    </e>
@@ -2797,7 +2797,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">slik som</t>
+            <tf pos="phrase">slik som</tf>
             <xg>
                <x>Mii oaččuimet dán jagi miljovdnabeali nu movt diibmá.</x>
                <xt>Vi fikk i år en halv million, slik som i fjor.</xt>
@@ -2875,8 +2875,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i blant</t>
-            <t pos="x">av og til</t>
+            <tf pos="phrase">i blant</tf>
+            <tf pos="phrase">av og til</tf>
          </tg>
       </mg>
    </e>
@@ -2887,7 +2887,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">slik</t>
-            <t pos="x">sånn her</t>
+            <tf pos="phrase">sånn her</tf>
          </tg>
       </mg>
    </e>
@@ -2908,7 +2908,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">slik</t>
-            <t pos="x">sånn der</t>
+            <tf pos="phrase">sånn der</tf>
          </tg>
       </mg>
    </e>
@@ -2944,12 +2944,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">for det andre</t>
+            <tf pos="phrase">for det andre</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="x">for annen gang</t>
+            <tf pos="phrase">for annen gang</tf>
          </tg>
       </mg>
    </e>
@@ -2964,7 +2964,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">uten videre</t>
+            <tf pos="phrase">uten videre</tf>
          </tg>
       </mg>
    </e>
@@ -2974,7 +2974,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">for en liten stund</t>
+            <tf pos="phrase">for en liten stund</tf>
          </tg>
       </mg>
    </e>
@@ -2995,7 +2995,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i dag</t>
+            <tf pos="phrase">i dag</tf>
          </tg>
       </mg>
    </e>
@@ -3005,7 +3005,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på ny</t>
+            <tf pos="phrase">på ny</tf>
             <t pos="x">igjen</t>
          </tg>
       </mg>
@@ -3026,7 +3026,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">sammen med</t>
+            <tf pos="phrase">sammen med</tf>
             <xg>
                <x>áhčči oktan mánáinis</x>
                <xt>faren med barnet sitt</xt>
@@ -3045,7 +3045,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="m">en gang</t>
+            <tf pos="phrase">en gang</tf>
          </tg>
       </mg>
    </e>
@@ -3125,7 +3125,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">nesten ikke</t>
+            <tf pos="phrase">nesten ikke</tf>
          </tg>
       </mg>
    </e>
@@ -3146,7 +3146,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i hele tatt</t>
+            <tf pos="phrase">i hele tatt</tf>
          </tg>
       </mg>
    </e>
@@ -3156,7 +3156,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til i dag</t>
+            <tf pos="phrase">til i dag</tf>
          </tg>
       </mg>
    </e>
@@ -3176,7 +3176,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i veien</t>
+            <tf pos="phrase">i veien</tf>
          </tg>
       </mg>
    </e>
@@ -3210,7 +3210,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">langs vegen</t>
+            <tf pos="phrase">langs vegen</tf>
          </tg>
       </mg>
    </e>
@@ -3220,7 +3220,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">gjennom døråpninga</t>
+            <tf pos="phrase">gjennom døråpninga</tf>
          </tg>
       </mg>
    </e>
@@ -3235,7 +3235,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">tvers av</t>
+            <tf pos="phrase">tvers av</tf>
          </tg>
       </mg>
    </e>
@@ -3245,7 +3245,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i orden</t>
+            <tf pos="phrase">i orden</tf>
          </tg>
       </mg>
       <mg>
@@ -3307,8 +3307,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til samisk</t>
-            <t pos="x">på samisk</t>
+            <tf pos="phrase">til samisk</tf>
+            <tf pos="phrase">på samisk</tf>
          </tg>
       </mg>
    </e>
@@ -3328,7 +3328,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om morgenen</t>
+            <tf pos="phrase">om morgenen</tf>
          </tg>
       </mg>
    </e>
@@ -3338,7 +3338,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om morgenen</t>
+            <tf pos="phrase">om morgenen</tf>
          </tg>
       </mg>
    </e>
@@ -3348,7 +3348,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">om kvelden</t>
+            <tf pos="phrase">om kvelden</tf>
          </tg>
       </mg>
    </e>
@@ -3358,7 +3358,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i ro</t>
+            <tf pos="phrase">i ro</tf>
             <t pos="x">stille</t>
          </tg>
       </mg>
@@ -3404,7 +3404,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på slump</t>
+            <tf pos="phrase">på slump</tf>
          </tg>
       </mg>
    </e>
@@ -3434,7 +3434,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på slump</t>
+            <tf pos="phrase">på slump</tf>
          </tg>
       </mg>
    </e>
@@ -3454,7 +3454,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i hemmelighet</t>
+            <tf pos="phrase">i hemmelighet</tf>
          </tg>
       </mg>
    </e>
@@ -3496,7 +3496,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">for</t>
-            <t pos="x">av hensyn til</t>
+            <tf pos="phrase">av hensyn til</tf>
          </tg>
       </mg>
    </e>
@@ -3526,7 +3526,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">med makt</t>
+            <tf pos="phrase">med makt</tf>
          </tg>
       </mg>
    </e>
@@ -3547,7 +3547,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på kreditt</t>
+            <tf pos="phrase">på kreditt</tf>
          </tg>
       </mg>
    </e>
@@ -3640,7 +3640,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på skrå</t>
+            <tf pos="phrase">på skrå</tf>
          </tg>
       </mg>
    </e>
@@ -3662,7 +3662,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">først</t>
-            <t pos="x">i begynnelsen</t>
+            <tf pos="phrase">i begynnelsen</tf>
          </tg>
       </mg>
    </e>
@@ -3721,7 +3721,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">først</t>
-            <t pos="x">i begynnelsen</t>
+            <tf pos="phrase">i begynnelsen</tf>
          </tg>
       </mg>
    </e>
@@ -3812,7 +3812,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">slett ikke</t>
+            <tf pos="phrase">slett ikke</tf>
             <xg>
                <x>Neahttasadji ii leat gal eisege loahpalaš.</x>
                <xt>Nettstedet er nok ikke endelig i det hele tatt.</xt>
@@ -3886,7 +3886,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">til og med</t>
+            <tf pos="phrase">til og med</tf>
             <xg>
                <x>Doppe lei feara mii.</x>
                <xt>Der borte var det litt av hvert.</xt>
@@ -3923,7 +3923,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ved siden av</t>
+            <tf pos="phrase">ved siden av</tf>
             <xg>
                <x>Bija dan geaidnogurrii.</x>
                <xt>Sett den ved veien.</xt>
@@ -3937,7 +3937,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">se ut til</t>
+            <tf pos="phrase">se ut til</tf>
             <xg>
                <x>Nu lea gusto.</x>
                <xt>Slik er det, ser det ut til.</xt>
@@ -4030,11 +4030,11 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l pos="adv">ruossalassii</l>
-         <lc></lc>
+         <lc/>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i kryss</t>
+            <tf pos="phrase">i kryss</tf>
          </tg>
       </mg>
    </e>
@@ -4044,7 +4044,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">skulle ønske</t>
+            <tf pos="phrase">skulle ønske</tf>
             <xg>
                <x>Vare boađášii.</x>
                <xt>Jeg skulle ønske at hun kom.</xt>
@@ -4058,7 +4058,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på egen hånd</t>
+            <tf pos="phrase">på egen hånd</tf>
          </tg>
       </mg>
    </e>
@@ -4068,7 +4068,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i mot</t>
+            <tf pos="phrase">i mot</tf>
             <xg>
                <x>vuhtii váldit</x>
                <xt>å ta hensyn til</xt>
@@ -4194,7 +4194,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">i det minste</t>
+            <tf pos="phrase">i det minste</tf>
          </tg>
       </mg>
    </e>
@@ -4214,7 +4214,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">noen slags</t>
+            <tf pos="phrase">noen slags</tf>
          </tg>
       </mg>
    </e>
@@ -4299,7 +4299,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">en gang til</t>
+            <tf pos="phrase">en gang til</tf>
          </tg>
       </mg>
    </e>
@@ -4349,7 +4349,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">til da</t>
+            <tf pos="phrase">til da</tf>
          </tg>
       </mg>
    </e>
@@ -4404,7 +4404,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">til nå</t>
+            <tf pos="phrase">til nå</tf>
          </tg>
       </mg>
    </e>
@@ -4435,7 +4435,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">til syne</t>
+            <tf pos="phrase">til syne</tf>
          </tg>
       </mg>
    </e>
@@ -4490,8 +4490,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i blant</t>
-            <t pos="x">av og til</t>
+            <tf pos="phrase">i blant</tf>
+            <tf pos="phrase">av og til</tf>
          </tg>
       </mg>
    </e>
@@ -4541,7 +4541,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i dag</t>
+            <tf pos="phrase">i dag</tf>
          </tg>
       </mg>
    </e>
@@ -4551,7 +4551,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ja visst</t>
+            <tf pos="phrase">ja visst</tf>
          </tg>
       </mg>
       <mg>
@@ -4616,7 +4616,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">først og fremst</t>
+            <tf pos="phrase">først og fremst</tf>
          </tg>
       </mg>
    </e>
@@ -4626,7 +4626,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">først og fremst</t>
+            <tf pos="phrase">først og fremst</tf>
          </tg>
       </mg>
    </e>
@@ -4636,7 +4636,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">først og fremst</t>
+            <tf pos="phrase">først og fremst</tf>
             <t pos="x">helst</t>
          </tg>
       </mg>
@@ -4647,7 +4647,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">først og fremst</t>
+            <tf pos="phrase">først og fremst</tf>
          </tg>
       </mg>
    </e>
@@ -4677,7 +4677,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i det hele tatt</t>
+            <tf pos="phrase">i det hele tatt</tf>
          </tg>
       </mg>
    </e>
@@ -4701,7 +4701,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">svært lite</t>
+            <tf pos="phrase">svært lite</tf>
             <xg>
                <x>Riidu orru háddjemin daid uhccánaš návccaid mat searvvis leat.</x>
                <xt>Krangelen synes å splitte de få kreftene foreninga har.</xt>
@@ -4799,7 +4799,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i allefall</t>
+            <tf pos="phrase">i allefall</tf>
             <xg>
                <x>Nillá jurdilii fitnat dieđiheamen áššis juoba Pentte- ja Ándde-guoktái.</x>
                <xt>Nillá tenkte å dra innom og gi beskjed om saken i allefall til Pente og Ánde.</xt>
@@ -4864,7 +4864,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til i morgen</t>
+            <tf pos="phrase">til i morgen</tf>
          </tg>
       </mg>
    </e>
@@ -4874,7 +4874,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">mot kvelden</t>
+            <tf pos="phrase">mot kvelden</tf>
          </tg>
       </mg>
    </e>
@@ -4899,7 +4899,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">fra i går</t>
+            <tf pos="phrase">fra i går</tf>
             <xg>
                <x>ivttážis otnážii</x>
                <xt>fra i går til i dag</xt>
@@ -4913,7 +4913,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i kor</t>
+            <tf pos="phrase">i kor</tf>
             <xg>
                <x>Sii čirrot oktiinjálmmiid.</x>
                <xt>De skriker i kor.</xt>
@@ -4943,8 +4943,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">sjeldnere</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -4955,8 +4955,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">med ørene på stilk</t>
-            <t pos="x">med ørene rett opp</t>
+            <tf pos="phrase">med ørene på stilk</tf>
+            <tf pos="phrase">med ørene rett opp</tf>
             <xg>
                <x>Áhkku muitala ollu somás muitalusaid ja mii čohkkát ceakkobeljiid ja guldalit.</x>
                <xt>Bestemor forteller mange morsomme fortellinger og vi sitter med lytter med ørene på stilk.</xt>
@@ -4970,10 +4970,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">med ryggen mot</t>
+            <tf pos="phrase">med ryggen mot</tf>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -4984,7 +4984,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ved senga</t>
+            <tf pos="phrase">ved senga</tf>
             <xg>
                <x>Eadni vieččai skálu maid seaŋgagurrii bijai.</x>
                <xt>Mor henta ei bøtte som hun satte ved senga.</xt>
@@ -4998,7 +4998,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til salgs</t>
+            <tf pos="phrase">til salgs</tf>
             <xg>
                <x>Váffelat lea vuovdimassii.</x>
                <xt>Det er vafler til salgs.</xt>
@@ -5026,7 +5026,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">fra før</t>
+            <tf pos="phrase">fra før</tf>
             <xg>
                <x>Soai máhttiba sámegiela ovdalaččas juo.</x>
                <xt>De to kan samisk fra før.</xt>
@@ -5064,7 +5064,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på forhånd</t>
+            <tf pos="phrase">på forhånd</tf>
          </tg>
       </mg>
    </e>
@@ -5074,7 +5074,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i nærheten</t>
+            <tf pos="phrase">i nærheten</tf>
             <xg>
                <x>Doppe ledje buorit guollejávrrit lahkosis.</x>
                <xt>Der var det gode fiskevann i nærheten.</xt>
@@ -5131,7 +5131,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">med ansiktet vendt mot</t>
+            <tf pos="phrase">med ansiktet vendt mot</tf>
          </tg>
       </mg>
    </e>
@@ -5271,7 +5271,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til øverenden</t>
+            <tf pos="phrase">til øverenden</tf>
          </tg>
       </mg>
    </e>
@@ -5281,7 +5281,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ved øverenden</t>
+            <tf pos="phrase">ved øverenden</tf>
          </tg>
       </mg>
    </e>
@@ -5321,7 +5321,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i hverandres favn</t>
+            <tf pos="phrase">i hverandres favn</tf>
          </tg>
       </mg>
    </e>
@@ -5331,7 +5331,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i hverandres favn</t>
+            <tf pos="phrase">i hverandres favn</tf>
          </tg>
       </mg>
    </e>
@@ -5341,7 +5341,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">helt i begynnelsen</t>
+            <tf pos="phrase">helt i begynnelsen</tf>
             <xg>
                <x>Go eiseválddit álgoálggos leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go
                dál lea dilli šaddan váttisin.</x>
@@ -5389,7 +5389,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x"></t>
             <xg>
                <x>duohkut deike</x>
                <xt>hit og dit</xt>
@@ -5403,7 +5402,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x"></t>
             <xg>
                <x>duohkut deike</x>
                <xt>hit og dit</xt>
@@ -5421,4 +5419,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

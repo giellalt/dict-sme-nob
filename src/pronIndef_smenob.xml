@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
-"../../scripts/gt_staticdictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -63,7 +63,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>av flere enn to</re>
-            <t pos="x">hver sin</t>
+            <tf pos="phrase">hver sin</tf>
             <t pos="x">hver</t>
             <xg>
                <x>Iešguhtet válddii doppe biillas.</x>
@@ -78,7 +78,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">alle sammen</t>
+            <tf pos="phrase">alle sammen</tf>
             <xg>
                <x>Čoahkkin lea rabas buohkaide - bures boahtin!</x>
                <xt>Møtet er åpent for alle - velkommen!</xt>
@@ -109,7 +109,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">begge</t>
-            <t pos="pron">hver av to</t>
+            <tf pos="phrase">hver av to</tf>
             <xg>
                <x>Soai leaba goappašagat vázzán dáiddaallaskuvlla.</x>
                <xt>De har begge gått på kunsthøgskole.</xt>
@@ -270,7 +270,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">begge</t>
-            <t pos="x">hver av de to</t>
+            <tf pos="phrase">hver av de to</tf>
             <xg>
                <x>Mun in eahpit ahte ledje 2000 olbmo goappáge konsearttas.</x>
                <xt>Jeg tviler ikke på at det var 2000 mennesker på hver av de to konsertene.</xt>
@@ -292,7 +292,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">mange personer</t>
+            <tf pos="phrase">mange personer</tf>
             <xg>
                <x>Ii dás goit leat fylkkagielddas mihkkege váttisvuođaid, olus lohket.</x>
                <xt>Det er ihvertfall ikke noen problemer med fylkeskommunen her, sier mange.</xt>
@@ -308,7 +308,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">noen</t>
-            <t pos="m">en eller annen</t>
+            <tf pos="phrase">en eller annen</tf>
             <xg>
                <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
                <xt>Men noen hadde helt andre interesser.</xt>
@@ -327,7 +327,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">noen</t>
-            <t pos="m">en eller annen</t>
+            <tf pos="phrase">en eller annen</tf>
             <xg>
                <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
                <xt>Men noen hadde helt andre interesser.</xt>
@@ -417,7 +417,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hver for seg</t>
+            <tf pos="phrase">hver for seg</tf>
             <xg>
                <x>Dál leat biddjon iešguđetge ruskkaide kontainerat.</x>
                <xt>Nå er det plassert containere for hvert slags søppel.</xt>
@@ -446,7 +446,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">noe</t>
-            <t pos="x">ett eller annet</t>
+            <tf pos="phrase">ett eller annet</tf>
             <xg>
                <x>Muhto juogaman dihte nu ii leat.</x>
                <xt>Men på grunn av ett eller annet er det ikke slik.</xt>
@@ -464,7 +464,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">begge to</t>
+            <tf pos="phrase">begge to</tf>
             <xg>
                <x>Máhtte ja Biera goabbánai bážiiga moala.</x>
                <xt>Máhtte og Biera skjøt mål begge to.</xt>
@@ -478,7 +478,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">den ene</t>
+            <tf pos="phrase">den ene</tf>
             <xg>
                <x>Juobbá munnos oažžu gal friddja.</x>
                <xt>Den ene av oss to får ihvertfall fri.</xt>
@@ -492,7 +492,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">den andre</t>
+            <tf pos="phrase">den andre</tf>
             <xg>
                <x>duobbá dábbá</x>
                <xt>den ene etter den andre</xt>
@@ -510,10 +510,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hver enkelt</t>
+            <tf pos="phrase">hver enkelt</tf>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -524,7 +524,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">den ene av de to</t>
+            <tf pos="phrase">den ene av de to</tf>
             <xg>
                <x>Verddestallama vuođđojurdda lea lonuhangávpi, mas juobbágoabbá lea álo velggolaš nubbái.</x>
                <xt>Verddestystemets prinsipp er byttehandel hvor den ene alltid er skyldig til den andre.</xt>
@@ -538,7 +538,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hver enkelt</t>
+            <tf pos="phrase">hver enkelt</tf>
             <xg>
                <x>Bivdit eai beasa báhčit eanet go guokte lotti guhtenai.</x>
                <xt>Jegerne får ikke skyte mer enn to fugler hver.</xt>
@@ -552,7 +552,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">den ene</t>
+            <tf pos="phrase">den ene</tf>
             <xg>
                <x>duobbá dábbá</x>
                <xt>den ene etter den andre</xt>
@@ -564,4 +564,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

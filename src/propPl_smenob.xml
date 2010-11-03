@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Hopseidvannan (Lebesby) (SK)</t>
+            <tf pos="phrase">Hopseidvannan (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Tommelfingertoppen (Alta) (SK)</t>
+            <tf pos="phrase">Tommelfingertoppen (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Øretoppvatnet (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Øretoppvatnet (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -64,7 +64,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Slettfjellet (Balsfjord) (SK)</t>
+            <tf pos="phrase">Slettfjellet (Balsfjord) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -74,7 +74,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Nedre Næverfjellvatnet (Narvik) (SK)</t>
+            <tf pos="phrase">Nedre Næverfjellvatnet (Narvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -84,7 +84,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Hunborhaugen (Berg) (SK)</t>
+            <tf pos="phrase">Hunborhaugen (Berg) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -94,7 +94,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Hundbergan (Narvik) (SK)</t>
+            <tf pos="phrase">Hundbergan (Narvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -104,7 +104,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Hundtoppen (Berlevåg) (SK)</t>
+            <tf pos="phrase">Hundtoppen (Berlevåg) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -114,7 +114,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Bjørnøya (Måsøy) (SK)</t>
+            <tf pos="phrase">Bjørnøya (Måsøy) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -124,7 +124,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Pepperholman (Porsanger) (SK)</t>
+            <tf pos="phrase">Pepperholman (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -134,7 +134,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Biltoelvvatna (Nordreisa) (SK)</t>
+            <tf pos="phrase">Biltoelvvatna (Nordreisa) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -144,12 +144,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Første Sagvatna (Alta) (SK)</t>
+            <tf pos="phrase">Første Sagvatna (Alta) (SK)</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop">Porsvannan (Porsanger) (SK)</t>
+            <tf pos="phrase">Porsvannan (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -159,7 +159,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kvalfjorddalvatna (Alta) (SK)</t>
+            <tf pos="phrase">Kvalfjorddalvatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -169,7 +169,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Valenvatnan (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Valenvatnan (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -179,7 +179,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skjåholmvatna (Kvalsund) (SK)</t>
+            <tf pos="phrase">Skjåholmvatna (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -189,7 +189,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Norden (PS</t>
+            <tf pos="phrase">Norden (PS</tf>
             <t pos="prop">SA)</t>
          </tg>
       </mg>
@@ -200,7 +200,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Tørrelvvatna (Alta) (SK)</t>
+            <tf pos="phrase">Tørrelvvatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -210,7 +210,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Doareshaugen (Nordreisa) (SK)</t>
+            <tf pos="phrase">Doareshaugen (Nordreisa) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -220,7 +220,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Tverrvannan (Alta) (SK)</t>
+            <tf pos="phrase">Tverrvannan (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -230,7 +230,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Dåggeflogan (Kvalsund) (SK)</t>
+            <tf pos="phrase">Dåggeflogan (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -240,7 +240,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kjelmøya (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Kjelmøya (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -250,12 +250,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ørretvannan (Lebesby) (SK)</t>
+            <tf pos="phrase">Ørretvannan (Lebesby) (SK)</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop">Nedre Matvatnet (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Nedre Matvatnet (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -265,7 +265,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Rundvatnet (Bardu) (SK)</t>
+            <tf pos="phrase">Rundvatnet (Bardu) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -275,7 +275,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Tønnevannan (Vadsø) (SK)</t>
+            <tf pos="phrase">Tønnevannan (Vadsø) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -285,7 +285,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ingøya (Måsøy) (SK)</t>
+            <tf pos="phrase">Ingøya (Måsøy) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -295,7 +295,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Gahperustjørna (Nordreisa) (SK)</t>
+            <tf pos="phrase">Gahperustjørna (Nordreisa) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -305,7 +305,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Tvillingvannan (Alta) (SK)</t>
+            <tf pos="phrase">Tvillingvannan (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -315,7 +315,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Gettosvannene (Alta) (SK)</t>
+            <tf pos="phrase">Gettosvannene (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -325,7 +325,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Sommerøy (Porsanger) (SK)</t>
+            <tf pos="phrase">Sommerøy (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -335,7 +335,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Leirpollvannan (Porsanger) (SK)</t>
+            <tf pos="phrase">Leirpollvannan (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -345,7 +345,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Storelvvatna (Alta) (SK)</t>
+            <tf pos="phrase">Storelvvatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -355,7 +355,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Banddalsryggen (Alta) (SK)</t>
+            <tf pos="phrase">Banddalsryggen (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -365,7 +365,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kjerkevatna (Nordreisa) (SK)</t>
+            <tf pos="phrase">Kjerkevatna (Nordreisa) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -375,7 +375,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Gammevatnan (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Gammevatnan (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -385,7 +385,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Klokkarøya (Hammerfest) (SK)</t>
+            <tf pos="phrase">Klokkarøya (Hammerfest) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -395,7 +395,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ørnefjellet (Porsanger) (SK)</t>
+            <tf pos="phrase">Ørnefjellet (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -405,7 +405,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ørretvatna (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Ørretvatna (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -415,7 +415,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Korsvatnet (Alta) (SK)</t>
+            <tf pos="phrase">Korsvatnet (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -425,7 +425,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Masterbakkvatna (Øverbygd) (SK)</t>
+            <tf pos="phrase">Masterbakkvatna (Øverbygd) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -435,7 +435,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Langvatnan (Porsanger) (SK)</t>
+            <tf pos="phrase">Langvatnan (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -445,7 +445,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Slettfjellvatna (Alta) (SK)</t>
+            <tf pos="phrase">Slettfjellvatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -455,7 +455,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kråkefjella (Kvalsund) (SK)</t>
+            <tf pos="phrase">Kråkefjella (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -465,7 +465,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Karlstadvannan (Lebesby) (SK)</t>
+            <tf pos="phrase">Karlstadvannan (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -475,7 +475,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Perfjell (Kvalsund) (SK)</t>
+            <tf pos="phrase">Perfjell (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -485,7 +485,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kuberget (Narvik) (SK)</t>
+            <tf pos="phrase">Kuberget (Narvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -495,12 +495,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kuvatna (Alta) (SK)</t>
+            <tf pos="phrase">Kuvatna (Alta) (SK)</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop">Karenvatnan (Narvik) (SK)</t>
+            <tf pos="phrase">Karenvatnan (Narvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -510,7 +510,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Rolvsøya (Måsøy) (SK)</t>
+            <tf pos="phrase">Rolvsøya (Måsøy) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -520,7 +520,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Geitvatnan (Narvik) (SK)</t>
+            <tf pos="phrase">Geitvatnan (Narvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -530,7 +530,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Gaissane (Lebesby) (SK)</t>
+            <tf pos="phrase">Gaissane (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -540,7 +540,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kåfjordbergan (Kåfjord) (GT)</t>
+            <tf pos="phrase">Kåfjordbergan (Kåfjord) (GT)</tf>
          </tg>
       </mg>
    </e>
@@ -550,7 +550,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kalvevannan (Lebesby) (SK)</t>
+            <tf pos="phrase">Kalvevannan (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -560,7 +560,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kuskarvannene (Hammerfest) (SK)</t>
+            <tf pos="phrase">Kuskarvannene (Hammerfest) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -570,7 +570,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Korpmyran (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Korpmyran (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -580,7 +580,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kråkholman (Porsanger) (SK)</t>
+            <tf pos="phrase">Kråkholman (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -590,7 +590,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kråkeberget (Kvalsund) (SK)</t>
+            <tf pos="phrase">Kråkeberget (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -600,7 +600,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Gardivatna (Alta) (SK)</t>
+            <tf pos="phrase">Gardivatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -610,7 +610,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Karenvannan (Porsanger) (SK)</t>
+            <tf pos="phrase">Karenvannan (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -620,7 +620,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kargilmyra (Vadsø) (SK)</t>
+            <tf pos="phrase">Kargilmyra (Vadsø) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -630,7 +630,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Hanglevatna (Berlevåg) (SK)</t>
+            <tf pos="phrase">Hanglevatna (Berlevåg) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -640,7 +640,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Oksefjellet (Storfjord) (SK)</t>
+            <tf pos="phrase">Oksefjellet (Storfjord) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -650,12 +650,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Fossevannet (Lebesby) (SK)</t>
+            <tf pos="phrase">Fossevannet (Lebesby) (SK)</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop">Tredjevannet (Lebesby) (SK)</t>
+            <tf pos="phrase">Tredjevannet (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -665,7 +665,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Išmismyran (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Išmismyran (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -675,7 +675,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Lille Ekkerøy (Vadsø) (nou94)</t>
+            <tf pos="phrase">Lille Ekkerøy (Vadsø) (nou94)</tf>
          </tg>
       </mg>
    </e>
@@ -685,7 +685,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ingøy (PS</t>
+            <tf pos="phrase">Ingøy (PS</tf>
             <t pos="prop">SA)</t>
          </tg>
       </mg>
@@ -696,7 +696,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Nivatna (Kvalsund) (SK)</t>
+            <tf pos="phrase">Nivatna (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -706,7 +706,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Lausklubben (Nesseby) (SK)</t>
+            <tf pos="phrase">Lausklubben (Nesseby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -716,7 +716,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Titindan (Alta) (SK)</t>
+            <tf pos="phrase">Titindan (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -726,7 +726,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Reinbenkan (Nordkapp) (SK)</t>
+            <tf pos="phrase">Reinbenkan (Nordkapp) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -736,7 +736,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Sennalandvatna (Kvalsund) (SK)</t>
+            <tf pos="phrase">Sennalandvatna (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -746,7 +746,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Gussaloamit (Målselv) (SK)</t>
+            <tf pos="phrase">Gussaloamit (Målselv) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -756,7 +756,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Svenskesteinan (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Svenskesteinan (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -766,7 +766,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Melkevatna (Alta) (SK)</t>
+            <tf pos="phrase">Melkevatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -776,7 +776,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Melkøya (Hammerfest) (SK)</t>
+            <tf pos="phrase">Melkøya (Hammerfest) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -786,7 +786,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Eidevannan (Lebesby) (SK)</t>
+            <tf pos="phrase">Eidevannan (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -796,12 +796,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Litlevatnet (Båtsfjord) (SK)</t>
+            <tf pos="phrase">Litlevatnet (Båtsfjord) (SK)</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop">Molvikvatnan (Båtsfjord) (SK)</t>
+            <tf pos="phrase">Molvikvatnan (Båtsfjord) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -811,7 +811,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Møllevannan (Alta) (SK)</t>
+            <tf pos="phrase">Møllevannan (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -821,7 +821,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Veikjoven (Kvalsund) (SK)</t>
+            <tf pos="phrase">Veikjoven (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -831,7 +831,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Stjernevatna (Gamvik) (SK)</t>
+            <tf pos="phrase">Stjernevatna (Gamvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -841,7 +841,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Vestre Nikkevatnet (Kvænangen) (SK)</t>
+            <tf pos="phrase">Vestre Nikkevatnet (Kvænangen) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -851,7 +851,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skredvannan (Lebesby) (SK)</t>
+            <tf pos="phrase">Skredvannan (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -861,7 +861,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Svanevannan (Vadsø) (SK)</t>
+            <tf pos="phrase">Svanevannan (Vadsø) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -871,7 +871,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ytre Nortasholmen (Lyngen) (SK)</t>
+            <tf pos="phrase">Ytre Nortasholmen (Lyngen) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -881,7 +881,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Lille Djupvatnet (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Lille Djupvatnet (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -891,7 +891,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kvænangstindan (Kvænangen) (SK)</t>
+            <tf pos="phrase">Kvænangstindan (Kvænangen) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -901,7 +901,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Fiskartind (Alta) (SK)</t>
+            <tf pos="phrase">Fiskartind (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -911,7 +911,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Akselbergan (Storfjord) (SK)</t>
+            <tf pos="phrase">Akselbergan (Storfjord) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -921,7 +921,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Reppenskjæret (Nesseby) (SK)</t>
+            <tf pos="phrase">Reppenskjæret (Nesseby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -931,7 +931,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Reinøya (Måsøy) (SK)</t>
+            <tf pos="phrase">Reinøya (Måsøy) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -941,7 +941,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Repvannet (Alta) (SK)</t>
+            <tf pos="phrase">Repvannet (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -951,7 +951,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Revdalsvatna (Storfjord) (SK)</t>
+            <tf pos="phrase">Revdalsvatna (Storfjord) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -961,7 +961,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Revdalsvatnet (Kåfjord) (SK)</t>
+            <tf pos="phrase">Revdalsvatnet (Kåfjord) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -971,12 +971,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Lille Rypøya (Måsøy) (SK)</t>
+            <tf pos="phrase">Lille Rypøya (Måsøy) (SK)</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop">Store Rypøya (Måsøy) (SK)</t>
+            <tf pos="phrase">Store Rypøya (Måsøy) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -996,7 +996,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ristindane (Alta) (SK)</t>
+            <tf pos="phrase">Ristindane (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1006,7 +1006,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Grasbakkholman (Nesseby) (SK)</t>
+            <tf pos="phrase">Grasbakkholman (Nesseby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1016,7 +1016,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Gorvatna (Kvalsund) (SK)</t>
+            <tf pos="phrase">Gorvatna (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1026,7 +1026,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Brannvasstjørna (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Brannvasstjørna (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1036,7 +1036,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Blåfjellvatnet (Øverbygd) (SK)</t>
+            <tf pos="phrase">Blåfjellvatnet (Øverbygd) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1046,7 +1046,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Steinelvvatnet (Bardu) (SK)</t>
+            <tf pos="phrase">Steinelvvatnet (Bardu) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1056,7 +1056,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Raudvannan (Porsanger) (SK)</t>
+            <tf pos="phrase">Raudvannan (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1066,7 +1066,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Rombaken (Narvik) (SK)</t>
+            <tf pos="phrase">Rombaken (Narvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1076,7 +1076,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Brottvatna (Kvænangen) (SK)</t>
+            <tf pos="phrase">Brottvatna (Kvænangen) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1086,7 +1086,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Russermyra (Nesseby) (SK)</t>
+            <tf pos="phrase">Russermyra (Nesseby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1096,7 +1096,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Trollvatna (Alta) (SK)</t>
+            <tf pos="phrase">Trollvatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1106,7 +1106,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Gressvatnet (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Gressvatnet (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1116,7 +1116,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kråktinden (Tromsø) (SK)</t>
+            <tf pos="phrase">Kråktinden (Tromsø) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1126,7 +1126,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Sarvesvannene (Alta) (SK)</t>
+            <tf pos="phrase">Sarvesvannene (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1136,7 +1136,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Djupvatn (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Djupvatn (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1146,7 +1146,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Magerdalsvatna (Berlevåg) (SK)</t>
+            <tf pos="phrase">Magerdalsvatna (Berlevåg) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1156,7 +1156,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Silfarmyra (Porsanger) (SK)</t>
+            <tf pos="phrase">Silfarmyra (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1166,7 +1166,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Silfarvannan (Porsanger) (SK)</t>
+            <tf pos="phrase">Silfarvannan (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1176,7 +1176,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skjåvannan (Lebesby) (SK)</t>
+            <tf pos="phrase">Skjåvannan (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1186,12 +1186,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skjåholmen (Porsanger) (SK)</t>
+            <tf pos="phrase">Skjåholmen (Porsanger) (SK)</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop">Skjåholman (Tana) (SK)</t>
+            <tf pos="phrase">Skjåholman (Tana) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1201,7 +1201,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skillefjordvatna (Alta) (SK)</t>
+            <tf pos="phrase">Skillefjordvatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1211,7 +1211,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skoddetjerna (Alta) (SK)</t>
+            <tf pos="phrase">Skoddetjerna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1221,7 +1221,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skulvatindane (Tromsø) (SK)</t>
+            <tf pos="phrase">Skulvatindane (Tromsø) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1231,7 +1231,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skarvskjæret (Porsanger) (SK)</t>
+            <tf pos="phrase">Skarvskjæret (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1241,7 +1241,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ørntindvannan (Lebesby) (SK)</t>
+            <tf pos="phrase">Ørntindvannan (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1251,7 +1251,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Sennagrasvatna (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Sennagrasvatna (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1261,7 +1261,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Holmvatna (Alta) (SK)</t>
+            <tf pos="phrase">Holmvatna (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1271,7 +1271,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Grimstadvannet (Alta) (SK)</t>
+            <tf pos="phrase">Grimstadvannet (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1281,7 +1281,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kvislvannene (Alta) (SK)</t>
+            <tf pos="phrase">Kvislvannene (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1291,7 +1291,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Bergebyfjellet (Nesseby) (SK)</t>
+            <tf pos="phrase">Bergebyfjellet (Nesseby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1301,7 +1301,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ytre Sinkelvika (Måsøy) (SK)</t>
+            <tf pos="phrase">Ytre Sinkelvika (Måsøy) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1311,7 +1311,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Blautmyrvatnan (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Blautmyrvatnan (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1321,7 +1321,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Finnvollen (Storfjord) (SK)</t>
+            <tf pos="phrase">Finnvollen (Storfjord) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1331,7 +1331,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Sandøya (Hammerfest) (SK)</t>
+            <tf pos="phrase">Sandøya (Hammerfest) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1341,7 +1341,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Sagskjæret (Lebesby) (SK)</t>
+            <tf pos="phrase">Sagskjæret (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1351,7 +1351,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ytre Sauhamn (Måsøy) (SK)</t>
+            <tf pos="phrase">Ytre Sauhamn (Måsøy) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1361,7 +1361,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Onkavatnan (Lyngen) (SK)</t>
+            <tf pos="phrase">Onkavatnan (Lyngen) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1371,7 +1371,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Vestfjelldammen (Hammerfest) (SK)</t>
+            <tf pos="phrase">Vestfjelldammen (Hammerfest) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1381,7 +1381,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kvitsteinan (Porsanger) (SK)</t>
+            <tf pos="phrase">Kvitsteinan (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1391,7 +1391,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Brattelvvatna (Kvalsund) (SK)</t>
+            <tf pos="phrase">Brattelvvatna (Kvalsund) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1401,12 +1401,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kvitfjellvatnan (Lenvik) (SK)</t>
+            <tf pos="phrase">Kvitfjellvatnan (Lenvik) (SK)</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop">Snøvatnan (Lenvik) (SK)</t>
+            <tf pos="phrase">Snøvatnan (Lenvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1416,7 +1416,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Johannesvatna (Gamvik) (SK)</t>
+            <tf pos="phrase">Johannesvatna (Gamvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1426,7 +1426,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Hungern (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Hungern (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1436,7 +1436,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Abbortjørnan (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Abbortjørnan (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1446,7 +1446,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Sandhaugane (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Sandhaugane (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1456,7 +1456,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Dalfjell (Kvænangen) (SK)</t>
+            <tf pos="phrase">Dalfjell (Kvænangen) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1466,7 +1466,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kufjordvatnet (Alta) (SK)</t>
+            <tf pos="phrase">Kufjordvatnet (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1476,7 +1476,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Langvatnet (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Langvatnet (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1486,7 +1486,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Vaggastindan (Lyngen) (SK)</t>
+            <tf pos="phrase">Vaggastindan (Lyngen) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1496,7 +1496,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Skardholmen (Tana) (SK)</t>
+            <tf pos="phrase">Skardholmen (Tana) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1506,7 +1506,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Vardø (PS</t>
+            <tf pos="phrase">Vardø (PS</tf>
             <t pos="prop">SA)</t>
          </tg>
       </mg>
@@ -1517,7 +1517,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kjerringvatnet (Alta) (SK)</t>
+            <tf pos="phrase">Kjerringvatnet (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1527,7 +1527,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Stabbursvatnet (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Stabbursvatnet (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1537,7 +1537,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Kjeldevatnan (Lenvik) (SK)</t>
+            <tf pos="phrase">Kjeldevatnan (Lenvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1547,7 +1547,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Adamssletta (Lebesby) (SK)</t>
+            <tf pos="phrase">Adamssletta (Lebesby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1557,7 +1557,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Nåttefjellet (Lenvik) (SK)</t>
+            <tf pos="phrase">Nåttefjellet (Lenvik) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1567,7 +1567,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Storskarvatnan (Tromsø) (SK)</t>
+            <tf pos="phrase">Storskarvatnan (Tromsø) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1577,7 +1577,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Syvvannan (Porsanger) (SK)</t>
+            <tf pos="phrase">Syvvannan (Porsanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1587,7 +1587,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Svabergan (Nordkapp) (SK)</t>
+            <tf pos="phrase">Svabergan (Nordkapp) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1597,7 +1597,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Oterfjordskjæret (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Oterfjordskjæret (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1607,7 +1607,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Hornvatna (Sør-Varanger) (SK)</t>
+            <tf pos="phrase">Hornvatna (Sør-Varanger) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1617,7 +1617,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Tømmerholmen (Alta) (SK)</t>
+            <tf pos="phrase">Tømmerholmen (Alta) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1627,7 +1627,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Spisshoveneset (Nesseby) (SK)</t>
+            <tf pos="phrase">Spisshoveneset (Nesseby) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1637,7 +1637,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Tindvannene (Hammerfest) (SK)</t>
+            <tf pos="phrase">Tindvannene (Hammerfest) (SK)</tf>
          </tg>
       </mg>
    </e>
@@ -1647,8 +1647,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Svartskjæret (Loppa) (SK)</t>
+            <tf pos="phrase">Svartskjæret (Loppa) (SK)</tf>
          </tg>
       </mg>
    </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

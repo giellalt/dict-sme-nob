@@ -2,8 +2,8 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML" "../../scripts/gt_staticdictionary.dtd">
-<r>
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -28,9 +28,9 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guoibmáme</l>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guoibmáme</l>
          <analysis>Pron_Recipr_Du1_Acc</analysis>
          <analysis>Pron_Recipr_Du1_Gen</analysis>
          <mini_paradigm>
@@ -50,20 +50,20 @@ For the full license text, see the link above.</lic>
                <wordform>goabbat guimmiineame</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (vi to)</t>
-	   <xg>
-          <x>Moai dovde goabbat guoibmáme.</x>
-          <xt>Vi (to) kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guoimmáde</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (vi to)</tf>
+            <xg>
+               <x>Moai dovde goabbat guoibmáme.</x>
+               <xt>Vi (to) kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guoimmáde</l>
          <analysis>Pron_Recipr_Du2_Acc</analysis>
          <analysis>Pron_Recipr_Du2_Gen</analysis>
          <mini_paradigm>
@@ -83,20 +83,20 @@ For the full license text, see the link above.</lic>
                <wordform>goabbat guimmiineatte</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (dere to)</t>
-	   <xg>
-          <x>Doai dovdabeahtti goabbat guoimmáde.</x>
-          <xt>Dere (to) kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guoimmiska</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (dere to)</tf>
+            <xg>
+               <x>Doai dovdabeahtti goabbat guoimmáde.</x>
+               <xt>Dere (to) kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guoimmiska</l>
          <analysis>Pron_Recipr_Du3_Acc</analysis>
          <analysis>Pron_Recipr_Du3_Gen</analysis>
          <mini_paradigm>
@@ -116,21 +116,20 @@ For the full license text, see the link above.</lic>
                <wordform>goabbat guimmiineaskka</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (de to)</t>
-	   <xg>
-          <x>Soai dovdaba goabbat guoimmiska.</x>
-          <xt>De (to) kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guoibmámet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (de to)</tf>
+            <xg>
+               <x>Soai dovdaba goabbat guoimmiska.</x>
+               <xt>De (to) kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guoibmámet</l>
          <analysis>Pron_Recipr_Pl1_Acc</analysis>
          <analysis>Pron_Recipr_Pl1_Gen</analysis>
          <mini_paradigm>
@@ -150,20 +149,20 @@ For the full license text, see the link above.</lic>
                <wordform>guhtet guimmiineamet</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (vi - flere enn 2)</t>
-	   <xg>
-          <x>Mii dovdat guhtet guoibmámet.</x>
-          <xt>Vi kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guimmiideamet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (vi - flere enn 2)</tf>
+            <xg>
+               <x>Mii dovdat guhtet guoibmámet.</x>
+               <xt>Vi kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guimmiideamet</l>
          <analysis>Pron_Recipr_Pl1_Acc</analysis>
          <analysis>Pron_Recipr_Pl1_Gen</analysis>
          <mini_paradigm>
@@ -183,22 +182,20 @@ For the full license text, see the link above.</lic>
                <wordform>guhtet guimmiideametguin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (vi - flere enn 2)</t>
-	   <xg>
-          <x>Mii dovdat guhtet guimmiideamet.</x>
-          <xt>Vi kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guoimmádet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (vi - flere enn 2)</tf>
+            <xg>
+               <x>Mii dovdat guhtet guimmiideamet.</x>
+               <xt>Vi kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guoimmádet</l>
          <analysis>Pron_Recipr_Pl2_Acc</analysis>
          <analysis>Pron_Recipr_Pl2_Gen</analysis>
          <mini_paradigm>
@@ -218,20 +215,20 @@ For the full license text, see the link above.</lic>
                <wordform>guhtet guimmiineattet</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (dere - flere enn 2)</t>
-	   <xg>
-          <x>Dii dovdabehtet guhtet guoimmádet.</x>
-          <xt>Dere kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guimmiideattet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (dere - flere enn 2)</tf>
+            <xg>
+               <x>Dii dovdabehtet guhtet guoimmádet.</x>
+               <xt>Dere kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guimmiideattet</l>
          <analysis>Pron_Recipr_Pl2_Acc</analysis>
          <analysis>Pron_Recipr_Pl2_Gen</analysis>
          <mini_paradigm>
@@ -241,7 +238,7 @@ For the full license text, see the link above.</lic>
             <analysis ms="Pron_Recipr_Pl2_Gen">
                <wordform>guhtet guimmiideattet</wordform>
              </analysis>
-           <analysis ms="Pron_Recipr_Pl2_Ill">
+            <analysis ms="Pron_Recipr_Pl2_Ill">
                <wordform>guhtet guimmiidasadet</wordform>
             </analysis>
             <analysis ms="Pron_Recipr_Pl2_Loc">
@@ -251,21 +248,20 @@ For the full license text, see the link above.</lic>
                <wordform>guhtet guimmiideattetguin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (dere - flere enn 2)</t>
-	   <xg>
-          <x>Dii dovdabehtet guhtet guimmiideattet.</x>
-          <xt>Dere kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guoimmiset</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (dere - flere enn 2)</tf>
+            <xg>
+               <x>Dii dovdabehtet guhtet guimmiideattet.</x>
+               <xt>Dere kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guoimmiset</l>
          <analysis>Pron_Recipr_Pl3_Acc</analysis>
          <analysis>Pron_Recipr_Pl3_Gen</analysis>
          <mini_paradigm>
@@ -285,20 +281,20 @@ For the full license text, see the link above.</lic>
                <wordform>guhtet guimmiineaset</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (de - flere enn 2)</t>
-	   <xg>
-          <x>Sii dovdet guhtet guoimmiset.</x>
-          <xt>De kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">guimmiideaset</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (de - flere enn 2)</tf>
+            <xg>
+               <x>Sii dovdet guhtet guoimmiset.</x>
+               <xt>De kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">guimmiideaset</l>
          <analysis>Pron_Recipr_Pl3_Acc</analysis>
          <analysis>Pron_Recipr_Pl3_Gen</analysis>
          <mini_paradigm>
@@ -318,21 +314,20 @@ For the full license text, see the link above.</lic>
                <wordform>guhtet guimmiideasetguin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (de - flere enn 2)</t>
-	   <xg>
-          <x>Sii dovdet guhtet guimmiideaset.</x>
-          <xt>De kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">nuppi</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (de - flere enn 2)</tf>
+            <xg>
+               <x>Sii dovdet guhtet guimmiideaset.</x>
+               <xt>De kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">nuppi</l>
          <analysis>Pron_Recipr_Du_Acc</analysis>
          <analysis>Pron_Recipr_Du_Gen</analysis>
          <mini_paradigm>
@@ -355,30 +350,30 @@ For the full license text, see the link above.</lic>
                <wordform>nubbi nubbin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (om to)</t>
-	   <xg>
-          <x>Moai dovde nubbi nuppi.</x>
-          <xt>Vi to kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron" type="recipr">nuppiid</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (om to)</tf>
+            <xg>
+               <x>Moai dovde nubbi nuppi.</x>
+               <xt>Vi to kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">nuppiid</l>
          <analysis>Pron_Recipr_Pl_Acc</analysis>
          <analysis>Pron_Recipr_Pl_Gen</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Recipr_Pl_Acc">
                <wordform>nuppit nuppiid</wordform>
              </analysis>
-           <analysis ms="Pron_Recipr_Pl_Gen">
+            <analysis ms="Pron_Recipr_Pl_Gen">
                <wordform>nuppit nuppiid</wordform>
              </analysis>
-           <analysis ms="Pron_Recipr_Pl_Ill">
+            <analysis ms="Pron_Recipr_Pl_Ill">
                <wordform>nuppit nuppiide</wordform>
             </analysis>
             <analysis ms="Pron_Recipr_Pl_Loc">
@@ -391,19 +386,17 @@ For the full license text, see the link above.</lic>
                <wordform>nuppit nubbin</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">hverandre (flere enn to)</t>
-	   <xg>
-          <x>Sii dovdet nuppit nuppiid.</x>
-          <xt>De kjenner hverandre.</xt>
-        </xg>   
-      </tg>
-    </mg>
-  </e>
-
-
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hverandre (flere enn to)</tf>
+            <xg>
+               <x>Sii dovdet nuppit nuppiid.</x>
+               <xt>De kjenner hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
       <lg>
          <l pos="pron" type="recipr">guoibmáseame</l>
@@ -412,11 +405,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (vi to)</t>
-	   <xg>
-          <x>Moai muitaletne ságaid goabbat guoibmáseame.</x>
-          <xt>Vi (to) forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (vi to)</tf>
+            <xg>
+               <x>Moai muitaletne ságaid goabbat guoibmáseame.</x>
+               <xt>Vi (to) forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -428,12 +421,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (vi to)</t>
-            <t pos="pron">fra hverandre (vi to)</t>
-	   <xg>
-          <x>Moai ožžo rávvagiid goabbat guoimmisteame.</x>
-          <xt>Vi (to) får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (vi to)</tf>
+            <tf pos="phrase">fra hverandre (vi to)</tf>
+            <xg>
+               <x>Moai ožžo rávvagiid goabbat guoimmisteame.</x>
+               <xt>Vi (to) får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -445,11 +438,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (vi to)</t>
-	   <xg>
-          <x>Moai leaikkastalle goabbat guimmiineame.</x>
-          <xt>Vi (to) spøker med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (vi to)</tf>
+            <xg>
+               <x>Moai leaikkastalle goabbat guimmiineame.</x>
+               <xt>Vi (to) spøker med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -461,11 +454,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (dere to)</t>
-	   <xg>
-          <x>Doai muitaleahppi ságaid goabbat guoibmáseatte.</x>
-          <xt>Dere (to) forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (dere to)</tf>
+            <xg>
+               <x>Doai muitaleahppi ságaid goabbat guoibmáseatte.</x>
+               <xt>Dere (to) forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -477,11 +470,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">fra hverandre (dere to)</t>
-	   <xg>
-          <x>Doai oažžubeahtti rávvagiid goabbat guoimmisteatte.</x>
-          <xt>Dere (to) får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">fra hverandre (dere to)</tf>
+            <xg>
+               <x>Doai oažžubeahtti rávvagiid goabbat guoimmisteatte.</x>
+               <xt>Dere (to) får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -493,11 +486,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (dere to)</t>
-	   <xg>
-          <x>Doai leaikkastallabeahtti goabbat guimmiineatte.</x>
-          <xt>Dere (to) spøker med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (dere to)</tf>
+            <xg>
+               <x>Doai leaikkastallabeahtti goabbat guimmiineatte.</x>
+               <xt>Dere (to) spøker med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -509,11 +502,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (de to)</t>
-	   <xg>
-          <x>Soai muitaleaba ságaid goabbat guoibmáseaskka.</x>
-          <xt>De (to) forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (de to)</tf>
+            <xg>
+               <x>Soai muitaleaba ságaid goabbat guoibmáseaskka.</x>
+               <xt>De (to) forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -525,12 +518,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (de to)</t>
-            <t pos="pron">fra hverandre (de to)</t>
-	   <xg>
-          <x>Soai oažžuba rávvagiid goabbat guoimmisteaskka.</x>
-          <xt>De (to) får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (de to)</tf>
+            <tf pos="phrase">fra hverandre (de to)</tf>
+            <xg>
+               <x>Soai oažžuba rávvagiid goabbat guoimmisteaskka.</x>
+               <xt>De (to) får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -542,11 +535,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (de to)</t>
-	   <xg>
-          <x>Soai leaikkastallaba goabbat guimmiineaskka.</x>
-          <xt>De (to) spøker med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (de to)</tf>
+            <xg>
+               <x>Soai leaikkastallaba goabbat guimmiineaskka.</x>
+               <xt>De (to) spøker med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -558,11 +551,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (vi)</t>
-	   <xg>
-          <x>Mii muitalit ságaid guhtet guoibmáseamet.</x>
-          <xt>Vi forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (vi)</tf>
+            <xg>
+               <x>Mii muitalit ságaid guhtet guoibmáseamet.</x>
+               <xt>Vi forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -574,12 +567,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (vi)</t>
-            <t pos="pron">fra hverandre (vi)</t>
-	   <xg>
-          <x>Mii oažžut rávvagiid guhtet guoimmisteamet.</x>
-          <xt>Vi får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (vi)</tf>
+            <tf pos="phrase">fra hverandre (vi)</tf>
+            <xg>
+               <x>Mii oažžut rávvagiid guhtet guoimmisteamet.</x>
+               <xt>Vi får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -591,15 +584,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (vi)</t>
-	   <xg>
-          <x>Mii leaikkastallat guhtet guimmiineamet.</x>
-          <xt>Vi skøyer med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (vi)</tf>
+            <xg>
+               <x>Mii leaikkastallat guhtet guimmiineamet.</x>
+               <xt>Vi skøyer med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="recipr">guimmiidasamet</l>
@@ -608,11 +600,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (vi)</t>
-	   <xg>
-          <x>Mii muitalit ságaid guhtet guimmiidasamet.</x>
-          <xt>Vi forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (vi)</tf>
+            <xg>
+               <x>Mii muitalit ságaid guhtet guimmiidasamet.</x>
+               <xt>Vi forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -624,12 +616,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (vi)</t>
-            <t pos="pron">fra hverandre (vi)</t>
-	   <xg>
-          <x>Mii oažžut rávvagiid guhtet guimmiineamet.</x>
-          <xt>Vi får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (vi)</tf>
+            <tf pos="phrase">fra hverandre (vi)</tf>
+            <xg>
+               <x>Mii oažžut rávvagiid guhtet guimmiineamet.</x>
+               <xt>Vi får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -641,15 +633,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (vi)</t>
-	   <xg>
-          <x>Mii leaikkastallat guhtet guimmiideametguin.</x>
-          <xt>Vi skøyer med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (vi)</tf>
+            <xg>
+               <x>Mii leaikkastallat guhtet guimmiideametguin.</x>
+               <xt>Vi skøyer med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="recipr">guoibmáseattet</l>
@@ -658,11 +649,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (dere)</t>
-	   <xg>
-          <x>Dii muitalehpet ságaid guhtet guoibmáseattet.</x>
-          <xt>Dere forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (dere)</tf>
+            <xg>
+               <x>Dii muitalehpet ságaid guhtet guoibmáseattet.</x>
+               <xt>Dere forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -674,12 +665,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (dere)</t>
-            <t pos="pron">fra hverandre (dere)</t>
-	   <xg>
-          <x>Dii oažžubehtet rávvagiid guhtet guoimmisteattet.</x>
-          <xt>Dere får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (dere)</tf>
+            <tf pos="phrase">fra hverandre (dere)</tf>
+            <xg>
+               <x>Dii oažžubehtet rávvagiid guhtet guoimmisteattet.</x>
+               <xt>Dere får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -691,15 +682,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (dere)</t>
-	   <xg>
-          <x>Dii leaikkastallabehtet guhtet guimmiineattet.</x>
-          <xt>Dere skøyer med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (dere)</tf>
+            <xg>
+               <x>Dii leaikkastallabehtet guhtet guimmiineattet.</x>
+               <xt>Dere skøyer med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="recipr">guimmiidasadet</l>
@@ -708,11 +698,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (dere)</t>
-	   <xg>
-          <x>Dii muitalehpet ságaid guhtet guimmiidasadet.</x>
-          <xt>Dere forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (dere)</tf>
+            <xg>
+               <x>Dii muitalehpet ságaid guhtet guimmiidasadet.</x>
+               <xt>Dere forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -724,12 +714,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (dere)</t>
-            <t pos="pron">fra hverandre (dere)</t>
-	   <xg>
-          <x>Dii oažžubehtet rávvagiid guhtet guimmiineattet.</x>
-          <xt>Dere får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (dere)</tf>
+            <tf pos="phrase">fra hverandre (dere)</tf>
+            <xg>
+               <x>Dii oažžubehtet rávvagiid guhtet guimmiineattet.</x>
+               <xt>Dere får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -741,15 +731,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (dere)</t>
-	   <xg>
-          <x>Dii leaikkastallabehtet guhtet guimmiideattetguin.</x>
-          <xt>Dere skøyer med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (dere)</tf>
+            <xg>
+               <x>Dii leaikkastallabehtet guhtet guimmiideattetguin.</x>
+               <xt>Dere skøyer med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="recipr">guoibmáseaset</l>
@@ -758,11 +747,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (de)</t>
-	   <xg>
-          <x>Sii muitalit ságaid guhtet guoibmáseaset.</x>
-          <xt>De forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (de)</tf>
+            <xg>
+               <x>Sii muitalit ságaid guhtet guoibmáseaset.</x>
+               <xt>De forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -774,12 +763,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (de)</t>
-            <t pos="pron">fra hverandre (de)</t>
-	   <xg>
-          <x>Sii ožžot rávvagiid guhtet guoimmisteaset.</x>
-          <xt>De får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (de)</tf>
+            <tf pos="phrase">fra hverandre (de)</tf>
+            <xg>
+               <x>Sii ožžot rávvagiid guhtet guoimmisteaset.</x>
+               <xt>De får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -791,15 +780,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (de)</t>
-	   <xg>
-          <x>Sii leaikkastallet guhtet guimmiineaset.</x>
-          <xt>De skøyer med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (de)</tf>
+            <xg>
+               <x>Sii leaikkastallet guhtet guimmiineaset.</x>
+               <xt>De skøyer med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pron" type="recipr">guimmiidasaset</l>
@@ -808,11 +796,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (de)</t>
-	   <xg>
-          <x>Sii muitalit ságaid guhtet guimmiidasaset.</x>
-          <xt>De forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (de)</tf>
+            <xg>
+               <x>Sii muitalit ságaid guhtet guimmiidasaset.</x>
+               <xt>De forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -824,12 +812,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (de)</t>
-            <t pos="pron">fra hverandre (de)</t>
-	   <xg>
-          <x>Sii ožžot rávvagiid guhtet guimmiineaset.</x>
-          <xt>De får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (de)</tf>
+            <tf pos="phrase">fra hverandre (de)</tf>
+            <xg>
+               <x>Sii ožžot rávvagiid guhtet guimmiineaset.</x>
+               <xt>De får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -841,11 +829,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (de)</t>
-	   <xg>
-          <x>Sii leaikkastallet guhtet guimmiideasetguin.</x>
-          <xt>De skøyer med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (de)</tf>
+            <xg>
+               <x>Sii leaikkastallet guhtet guimmiideasetguin.</x>
+               <xt>De skøyer med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -857,11 +845,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (om to)</t>
-	   <xg>
-          <x>Soai muitaleaba ságaid nubbi nubbái.</x>
-          <xt>De to forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (om to)</tf>
+            <xg>
+               <x>Soai muitaleaba ságaid nubbi nubbái.</x>
+               <xt>De to forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -873,12 +861,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (om to)</t>
-            <t pos="pron">fra hverandre (om to)</t>
-	   <xg>
-          <x>Soai oažžuba rávvagiid nubbi nuppis.</x>
-          <xt>De to får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (om to)</tf>
+            <tf pos="phrase">fra hverandre (om to)</tf>
+            <xg>
+               <x>Soai oažžuba rávvagiid nubbi nuppis.</x>
+               <xt>De to får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -890,11 +878,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (om to)</t>
-	   <xg>
-          <x>Soai leaikkastallaba nubbi nuppiin.</x>
-          <xt>De to spøker med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (om to)</tf>
+            <xg>
+               <x>Soai leaikkastallaba nubbi nuppiin.</x>
+               <xt>De to spøker med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -906,11 +894,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hverandre (om to)</t> 
-	   <xg>
-          <x>Soai loggiiga sisa nubbi nubbin.</x>
-          <xt>De to logget inn som hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">som hverandre (om to)</tf>
+            <xg>
+               <x>Soai loggiiga sisa nubbi nubbin.</x>
+               <xt>De to logget inn som hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -922,11 +910,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hverandre (om flere enn to)</t>
-	   <xg>
-          <x>Sii muitalit ságaid nuppit nuppiide.</x>
-          <xt>De forteller nytt til hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">til hverandre (om flere enn to)</tf>
+            <xg>
+               <x>Sii muitalit ságaid nuppit nuppiide.</x>
+               <xt>De forteller nytt til hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -938,12 +926,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hverandre (om flere enn to)</t>
-            <t pos="pron">fra hverandre (om flere enn to)</t>
-	   <xg>
-          <x>Mii oažžut rávvagiid nuppit nuppiin.</x>
-          <xt>Vi får råd fra hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">hos hverandre (om flere enn to)</tf>
+            <tf pos="phrase">fra hverandre (om flere enn to)</tf>
+            <xg>
+               <x>Mii oažžut rávvagiid nuppit nuppiin.</x>
+               <xt>Vi får råd fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -955,11 +943,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hverandre (om flere enn to)</t>
-	   <xg>
-          <x>Dii leaikkastallabehtet nuppit nuppiiguin.</x>
-          <xt>Dere spøker med hverandre.</xt>
-        </xg>   
+            <tf pos="phrase">med hverandre (om flere enn to)</tf>
+            <xg>
+               <x>Dii leaikkastallabehtet nuppit nuppiiguin.</x>
+               <xt>Dere spøker med hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -971,13 +959,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hverandre (om flere enn to)</t>
+            <tf pos="phrase">som hverandre (om flere enn to)</tf>
             <xg>
-          <x>Sii loggejedje sisa nubbi nubbin.</x>
-          <xt>De logget inn som hverandre.</xt>
-        </xg>  
-        </tg>
+               <x>Sii loggejedje sisa nubbi nubbin.</x>
+               <xt>De logget inn som hverandre.</xt>
+            </xg>
+         </tg>
       </mg>
    </e>
-
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>
