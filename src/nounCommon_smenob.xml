@@ -364,7 +364,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="S">løfte</t>
+            <t decl="n" pos="n">løfte</t>
          </tg>
       </mg>
    </e>
@@ -11249,12 +11249,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">oversiden</t>
-            <xg>
-               <x>Dat lea bajábealde.</x>
-               <xt></xt>
-               <x>Dat manai bajábeallai.</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -11275,10 +11269,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">overenden</t>
-            <xg>
-               <x>dat lea bajágeahčen, manai bajágeahčai</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -14378,10 +14368,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">stengselsplass i Karasjok</t>
-            <xg>
-               <x>rávdnjás coagis jogas</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -18437,7 +18423,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">hjulbeint person</t>
             <xg>
                <x>boaggejuolgi</x>
-               <xt>hjulbeint</xt>
+               <xt>hjulbeint person</xt>
             </xg>
          </tg>
       </mg>
@@ -25372,7 +25358,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">tjeneste</t>
             <xg>
                <x>ipmilbálvalus</x>
-               <xt>en gudstjeneste</xt>
+               <xt>gudstjeneste</xt>
             </xg>
          </tg>
       </mg>
@@ -50400,7 +50386,7 @@ For the full license text, see the link above.</lic>
             <t decl="n" pos="n">lite berg</t>
             <xg>
                <x>goapma lea unnit go goarvi</x>
-               <xt></xt>
+               <xt>goapma er mindre enn goarvi</xt>
             </xg>
          </tg>
       </mg>
@@ -51147,9 +51133,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">vinterkomag</t>
+            <t decl="m" pos="n">skalle</t>
             <xg>
-               <x>gállohat ja nuvttohat</x>
-               <xt></xt>
+               <x>Mus leat ođđa goikkehat.</x>
+               <xt>Jeg har nye skaller.</xt>
             </xg>
          </tg>
       </mg>
@@ -57287,10 +57274,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="f" pos="n">svigerinne</t>
-            <xg>
-               <x>olbmá vielja áhkká</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -68419,8 +68402,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="n" pos="n">svalt vinddrag</t>
             <xg>
-               <x>Geasset lea jáldu.</x>
-               <xt></xt>
+               <x>Lei báhkka geassebeaivi, muhto lihkus lei jáldu.</x>
+               <xt>Det var en het sommerdag, men heldigvis et svalt vinddrag.</xt>
             </xg>
          </tg>
       </mg>
@@ -76613,10 +76596,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">plass på hver side av ildstedet i gamme</t>
-            <xg>
-               <x>sadji goappátge bealde árrana goađis</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -77784,8 +77763,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="f" pos="n">skøyte</t>
             <xg>
-               <x>mainna luiste jieŋa alde</x>
-               <xt></xt>
+               <x>Váldde luisttiid mielde, de sáhtte luistet jieŋa alde.</x>
+               <xt>Ta med skøytene, så kan vi skøyte på isen.</xt>
             </xg>
          </tg>
       </mg>
@@ -80314,8 +80293,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="n" pos="n">beite</t>
             <xg>
-               <x>gusaid ja heasttaid atná láiddomis</x>
-               <xt></xt>
+               <x>Gusaid ja heasttaid atná láiddomis.</x>
+               <xt>Kyr og hester har man på beite.</xt>
             </xg>
          </tg>
       </mg>
@@ -89407,11 +89386,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">stamfar</t>
             <xg>
                <x>máttaráhkku</x>
-               <xt>oldemor</xt>
-            </xg>
-            <xg>
-               <x>máttaráhkku</x>
-               <xt>en stammor</xt>
+               <xt>oldemor/stammor</xt>
             </xg>
          </tg>
       </mg>
@@ -89805,10 +89780,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">sju års gammel hanrein</t>
-            <xg>
-               <x>čiežajahkásaš varis boazu</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -92677,8 +92648,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="m" pos="n">sagnfigur</t>
             <xg>
-               <x>áhkká, mii gulai dološ sámi cukcasiidda</x>
-               <xt></xt>
+               <x>Njávešeatni gullá dološ sámi cukcasiidda.</x>
+               <xt>Njávešeatni hører til gamle samiske eventyr.</xt>
             </xg>
          </tg>
       </mg>
@@ -95093,10 +95064,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">utsikt</t>
-            <xg>
-               <x>"dálu oidnosis" lea gos oaidná dálu dahje gosa oidno dállu</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -105239,10 +105206,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="n" pos="n">tau i overkant og underkant av fiskegarn</t>
-            <xg>
-               <x>sáimmas leat reašmmit</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -108968,7 +108931,7 @@ For the full license text, see the link above.</lic>
             <t decl="f" pos="n">gjeldsimle</t>
             <xg>
                <x>rotnu gussa</x>
-               <xt>ei gjeldku</xt>
+               <xt>gjeldku</xt>
             </xg>
          </tg>
       </mg>
@@ -112355,7 +112318,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">draug</t>
             <xg>
                <x>idjarávga</x>
-               <xt>en natterangler</xt>
+               <xt>natterangler</xt>
             </xg>
          </tg>
       </mg>
@@ -113117,6 +113080,8 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Dat lea sadjosis.</x>
                <xt>Den er på plass.</xt>
+            </xg>
+            <xg>
                <x>Bija dan sadjosii!</x>
                <xt>Sett den på plass!</xt>
             </xg>
@@ -117078,7 +117043,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">kjeltring</t>
             <xg>
                <x>skealbma gánda</x>
-               <xt>en uskikkelig gutt</xt>
+               <xt>uskikkelig gutt</xt>
             </xg>
          </tg>
       </mg>
@@ -118126,10 +118091,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="n" pos="n">skremsel</t>
-            <xg>
-               <x>dološ oskku háldi</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -118289,10 +118250,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="n" pos="n">åmot</t>
             <t decl="n" pos="n">land mellom to elver som møtes</t>
-            <xg>
-               <x>aláš guovtti johkanjálmmi gaskka</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -119476,10 +119433,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">plass innerst ved veggen</t>
-            <xg>
-               <x>siskkimusas seaidneguoras</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -120604,10 +120557,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">svoger</t>
-            <xg>
-               <x>gii lea náitalan áhká oappáin</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -120895,10 +120844,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">utemmet kastrert rein</t>
-            <xg>
-               <x>dámakeahtes gáskkit</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -121913,10 +121858,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">råtten trestokk</t>
-            <xg>
-               <x>mieska lastamuorra mas lea beassi</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -122595,10 +122536,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="f" pos="n">simle som ikke får kalv</t>
-            <xg>
-               <x>áldu mii ii guotte miesi</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -123954,7 +123891,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">finger</t>
             <xg>
                <x>juolgesuorbma</x>
-               <xt>ei tå</xt>
+               <xt>tå</xt>
             </xg>
          </tg>
       </mg>
@@ -133514,10 +133451,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">hannrein i treårsalderen</t>
-            <xg>
-               <x>golmma jahkásaš varis boazu</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -133802,8 +133735,8 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">fiskekrok</t>
             <t decl="m" pos="n">sluk</t>
             <xg>
-               <x>dolgevuogga</x>
-               <xt>en flue</xt>
+               <x>Dien jogas sáhttá lea buorre oaggut dolgevuokkain.</x>
+               <xt>I den elva kan det være bra å fiske med flue.</xt>
             </xg>
          </tg>
       </mg>
@@ -135360,10 +135293,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">underside</t>
-            <xg>
-               <x>vuolábealde</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -135516,7 +135445,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">skjebne</t>
             <xg>
                <x>vuorbbi geassit</x>
-               <xt>å trekke lodd</xt>
+               <xt>trekke lodd</xt>
             </xg>
          </tg>
       </mg>
@@ -135784,7 +135713,7 @@ For the full license text, see the link above.</lic>
             <t decl="m" pos="n">livmor på dyr</t>
             <xg>
                <x>vuosat</x>
-               <xt>en etterbyrd</xt>
+               <xt>etterbyrd</xt>
             </xg>
          </tg>
       </mg>
