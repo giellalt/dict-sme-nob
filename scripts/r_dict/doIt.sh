@@ -21,10 +21,10 @@ perl -pi -e 's/^(<r) xmlns.*(>)$/$1$2/' init_dir/*.xml
 
 echo	"adding pos phrase to all tf"
 # add pos="phrase"
-java net.sf.saxon.Transform -it main add_phrase_pos.xsl inDir=init_dir
+java net.sf.saxon.Transform -it main add_phrase_pos_smenob.xsl inDir=init_dir
 
 echo	"adding meta info like license and the like"
-java -Xmx2048m net.sf.saxon.Transform -it main add_meta-info.xsl inDir=outx
+java -Xmx2048m net.sf.saxon.Transform -it main add_meta-info_smenob.xsl inDir=outx
 
 echo    " ....... removing xhtml namespace"
 
