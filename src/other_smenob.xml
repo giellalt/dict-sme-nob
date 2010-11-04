@@ -211,7 +211,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">varighet</t>
+            <t pos="adv">fremdeles</t>
             <xg>
                <x>Lea dehálaš čohkket boazodoallotearpmaid, dan bále go ain gávdnojit boazosámit geat máhttet dáid.</x>
                <xt>Det er viktig å samle reindriftstermer mens det fremdeles fins reindriftssamer som kan dem.</xt>
@@ -245,7 +245,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">også</t>
-            <t pos="xxx">sannelig</t>
+            <t pos="adv">sannelig</t>
             <xg>
                <x>de son gis</x>
                <xt>også han</xt>
@@ -286,7 +286,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nå</t>
-            <t pos="xxx">da</t>
+            <t pos="adv">da</t>
             <xg>
                <x>Mo ba dan galgá dahkat?</x>
                <xt>Hvordan skal man gjøre det da?</xt>
@@ -680,7 +680,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">se</t>
+            <t pos="v">se</t>
             <xg>
                <x>Gea, beana skierbmu!</x>
                <xt>Se, hunden halter!</xt>
@@ -712,7 +712,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">også</t>
+            <t pos="adv">også</t>
             <xg>
                <x>Danin lea ge mu mielas nu ártet.</x>
                <xt>Derfor synes jeg også at det er så rart.</xt>
@@ -726,7 +726,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">spørrepartikkel</t>
+            <te>spørrepartikkel</te>
             <xg>
                <x>Boađát go deike?</x>
                <xt>Kommer du hit?</xt>
@@ -797,7 +797,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">likevel</t>
+            <t pos="adv">likevel</t>
             <xg>
                <x>Vaikko liikojit biergogáhkuide, de goitge daidda dolket.</x>
                <xt>Selv om de liker kjøttkaker, så blir de likevel lei av dem.</xt>
@@ -811,7 +811,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">også</t>
+            <t pos="adv">også</t>
             <xg>
                <x>Máret nai boahtá.</x>
                <xt>Marit kommer også.</xt>
@@ -1284,7 +1284,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">nå</t>
+            <t pos="adv">nå</t>
             <xg>
                <x>Almmuhuvvo go girji sámegillii, na dan ii dieđe oktage.</x>
                <xt>Publiseres boka på samisk, nei, det vet ingen.</xt>
@@ -1303,8 +1303,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">ja</t>
-            <t pos="x">jo</t>
+            <t pos="adv">ja</t>
+            <t pos="adv">jo</t>
             <xg>
                <x>Jus dus nai lea muhtun geasa áiggut skeaŋkka oastit, na de heive hui bures odne oastit girjji ja
                ruvssu.</x>
@@ -2048,8 +2048,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">alt</t>
-            <t pos="x">alle</t>
+            <t decl="1" pos="a">all</t>
          </tg>
       </mg>
    </e>
@@ -2060,7 +2059,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">størsteparten</t>
+            <t pos="adv">størsteparten</t>
          </tg>
       </mg>
       <mg>
@@ -2075,7 +2074,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="m">mengde</t>
+            <t pos="adv">mye</t>
          </tg>
       </mg>
    </e>
@@ -2085,7 +2084,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hvilken</t>
+            <t pos="adv">hvilken</t>
          </tg>
       </mg>
    </e>
@@ -2096,8 +2095,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">noen</t>
-            <t pos="x">mange</t>
+            <t pos="pron">noen</t>
+            <t pos="pron">mange</t>
             <tf pos="phrase">hvor mange</tf>
             <xg>
                <x>Gallis leat?</x>
@@ -2126,18 +2125,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">samme</t>
+            <t pos="pron">samme</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="interj">vuoi</l>
+         <l pos="i">vuoi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="interj">akk</t>
-            <t pos="interj">å</t>
+            <t pos="i">akk</t>
+            <t pos="i">å</t>
             <xg>
                <x>Vuoi, go lea váivi.</x>
                <xt>Å akk, hvor trist det er.</xt>
@@ -2155,7 +2154,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">før</t>
+            <t pos="cs">før</t>
          </tg>
       </mg>
    </e>
@@ -2165,7 +2164,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">under</t>
+            <t pos="pr">under</t>
          </tg>
       </mg>
    </e>
@@ -2175,7 +2174,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">bak</t>
+            <t pos="pr">bak</t>
          </tg>
       </mg>
    </e>
@@ -2185,7 +2184,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">bak</t>
+            <t pos="pr">bak</t>
          </tg>
       </mg>
    </e>
@@ -2195,7 +2194,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">mellom</t>
+            <t pos="pr">mellom</t>
          </tg>
       </mg>
    </e>
@@ -2205,7 +2204,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">foran</t>
+            <t pos="pr">foran</t>
          </tg>
       </mg>
    </e>
@@ -2215,7 +2214,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">utenfor</t>
+            <t pos="pr">utenfor</t>
          </tg>
       </mg>
    </e>
@@ -2239,7 +2238,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ovenfor</t>
+            <t pos="pr">ovenfor</t>
             <tf pos="phrase">høyere oppe</tf>
             <xg>
                <x>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</x>
@@ -2254,8 +2253,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">over</t>
-            <t pos="x">ovenfor</t>
+            <t pos="pr">over</t>
+            <t pos="adv">ovenfor</t>
          </tg>
       </mg>
    </e>
