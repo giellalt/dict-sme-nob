@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -33534,13 +33534,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">vahágahttit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">forurette</t>
+            <t pos="v">skade</t>
+            <xg>
+               <x>Ollu ealggat bohtet bivdoáiggis dán guvlui ja vahágahttet sakka dálveorohagaid dáppe.</x>
+               <xt>Mye elg kommer i jakttida denne veien og skader vinterbeitet her voldsomt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -39406,10 +39410,10 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v"/>
+         <l context="mun" pos="v"></l>
       </lg>
       <mg>
-         <tg/>
+         <tg></tg>
       </mg>
    </e>
    <e usage="vd">
