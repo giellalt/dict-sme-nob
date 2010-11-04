@@ -34207,7 +34207,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="m" pos="n">duk</t>
-            <t pos="xxx">bordduk</t>
+            <t decl="m" pos="n">bordduk</t>
             <xg>
                <x></x>
                <xt></xt>
@@ -34242,8 +34242,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf decl="m" pos="phrase">ingen ting</tf>
-            <t pos="xxx">bagatell</t>
+            <tf pos="phrase">ingen ting</tf>
+            <t decl="m" pos="n">bagatell</t>
          </tg>
       </mg>
    </e>
@@ -34368,13 +34368,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="S">forsikring</t>
+            <t pos="F">forsikring</t>
          </tg>
          <tg>
-            <t pos="">garanti</t>
+            <t pos="m">garanti</t>
          </tg>
          <tg>
-            <t pos="">sikkerhetsstillelse</t>
+            <t pos="m">sikkerhetsstillelse</t>
          </tg>
       </mg>
    </e>
@@ -34926,8 +34926,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="S">bufinn</t>
-            <t pos="xxx">fastboende</t>
+            <t pos="m">bufinn</t>
+            <t pos="m">fastboende</t>
          </tg>
       </mg>
    </e>
@@ -39108,7 +39108,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">meningsløshet</t>
+            <t pos="f">meningsløshet</t>
             <xg>
                <x>Lei čielgasit oaidnimis, ahte juoga lei mannan endorii.</x>
                <xt>Det var åpenbart at noe hadde gått helt galt.</xt>
@@ -44587,7 +44587,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">midnatt</t>
+            <t pos="f">midnatt</t>
          </tg>
       </mg>
    </e>
@@ -77575,7 +77575,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">sør</t>
+            <t pos="n">sør</t>
          </tg>
       </mg>
    </e>
@@ -87830,7 +87830,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">sør</t>
+            <t pos="n">sør</t>
             <xg>
                <x>máttás</x>
                <xt>sørover</xt>
@@ -150773,7 +150773,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">utendørs</t>
+            <t pos="adv">utendørs</t>
             <xg>
                <x>olggu ovddas</x>
                <xt>i friluft</xt>
