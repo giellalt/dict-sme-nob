@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -986,8 +986,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="1" pos="a">bar</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t decl="4" pos="a">skallet</t>
          </tg>
@@ -2352,8 +2350,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="2" pos="a">udugelig</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t decl="1" pos="a">svak</t>
          </tg>
@@ -9877,7 +9873,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase" context="heargi">med store horn</tf>
+            <tf context="heargi" pos="phrase">med store horn</tf>
          </tg>
       </mg>
       <mg>
@@ -10170,10 +10166,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="3" pos="a">påvirkende</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t decl="3" pos="a">stimulerende</t>
          </tg>
       </mg>
@@ -10191,7 +10183,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="dállu" pos="a">oainnus</l>
-         <lc/>
+         <lc></lc>
       </lg>
       <mg>
          <tg>
