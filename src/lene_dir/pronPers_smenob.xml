@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">mon</l>
+         <analysis>Pron_Pers_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg1_Acc">
+               <wordform>mu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Gen">
+               <wordform>mu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ill">
+               <wordform>munnje</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Loc">
+               <wordform>mus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Com">
+               <wordform>muinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ess">
+               <wordform>munin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">jeg</t>
+            <xg>
+               <x>mus lea</x>
+               <xt>jeg har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">mun</l>
+         <lc>mu, munnje, mus, muinna</lc>
+         <analysis>Pron_Pers_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg1_Acc">
+               <wordform>mu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Gen">
+               <wordform>mu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ill">
+               <wordform>munnje</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Loc">
+               <wordform>mus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Com">
+               <wordform>muinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ess">
+               <wordform>munin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">jeg</t>
+            <xg>
+               <x>mus lea</x>
+               <xt>jeg har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">don</l>
+         <analysis>Pron_Pers_Sg2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg2_Acc">
+               <wordform>du</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Gen">
+               <wordform>du</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ill">
+               <wordform>dutnje</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Loc">
+               <wordform>dus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Com">
+               <wordform>duinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ess">
+               <wordform>dunin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">du</t>
+            <xg>
+               <x>dus lea beana</x>
+               <xt>du har en hund</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">son</l>
+         <analysis>Pron_Pers_Sg3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg3_Acc">
+               <wordform>su</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Gen">
+               <wordform>su</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ill">
+               <wordform>sutnje</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Loc">
+               <wordform>sus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Com">
+               <wordform>suinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ess">
+               <wordform>sunin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">han</t>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">hun</t>
+            <xg>
+               <x>sus lea</x>
+               <xt>han/hun har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="pers">dat</l>
+         <analysis>Pron_Pers_Sg3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg3_Acc">
+               <wordform>dan</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Gen">
+               <wordform>dan</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ill">
+               <wordform>dasa</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Loc">
+               <wordform>das</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Com">
+               <wordform>dainna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Ess">
+               <wordform>danin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">det</t>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">den</t>
+            <xg>
+               <x>Muhto dat galgá albma borramušaid borrat.</x>
+               <xt>Men det/han/hun skal spise ordentlige matsorter.</xt>
+            </xg>
+            <xg>
+               <x>Muhto dan son ii diehtán.</x>
+               <xt>Men det visste han/hun ikke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">moai</l>
+         <analysis>Pron_Pers_Du1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du1_Acc">
+               <wordform>munno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Gen">
+               <wordform>munno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ill">
+               <wordform>munnuide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Loc">
+               <wordform>munnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Com">
+               <wordform>munnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ess">
+               <wordform>munnon</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">vi to</tf>
+            <xg>
+               <x>munnos lea</x>
+               <xt>vi to har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">doai</l>
+         <analysis>Pron_Pers_Du2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du2_Acc">
+               <wordform>dudno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Gen">
+               <wordform>dudno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ill">
+               <wordform>dudnuide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Loc">
+               <wordform>dudnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Com">
+               <wordform>dudnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ess">
+               <wordform>dudnon</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">dere to</tf>
+            <xg>
+               <x>dudnos lea</x>
+               <xt>dere to har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">soai</l>
+         <analysis>Pron_Pers_Du3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du3_Acc">
+               <wordform>sudno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Gen">
+               <wordform>sudno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ill">
+               <wordform>sudnuide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Loc">
+               <wordform>sudnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Com">
+               <wordform>sudnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ess">
+               <wordform>sudnon</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">de to</tf>
+            <xg>
+               <x>sudnos lea</x>
+               <xt>de to har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">mii</l>
+         <analysis>Pron_Pers_Pl1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl1_Acc">
+               <wordform>min</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Gen">
+               <wordform>min</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ill">
+               <wordform>midjiide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Loc">
+               <wordform>mis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Com">
+               <wordform>minguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ess">
+               <wordform>minin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">vi</t>
+            <xg>
+               <x>mis lea</x>
+               <xt>vi har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">dii</l>
+         <analysis>Pron_Pers_Pl2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl2_Acc">
+               <wordform>din</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Gen">
+               <wordform>din</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ill">
+               <wordform>didjiide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Loc">
+               <wordform>dis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Com">
+               <wordform>dinguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ess">
+               <wordform>dinin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">dere</t>
+            <xg>
+               <x>dis lea</x>
+               <xt>dere har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="pers">sii</l>
+         <analysis>Pron_Pers_Pl3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl3_Acc">
+               <wordform>sin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Gen">
+               <wordform>sin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ill">
+               <wordform>sidjiide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Loc">
+               <wordform>sis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Com">
+               <wordform>singuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ess">
+               <wordform>sinin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">de</t>
+            <xg>
+               <x>sis lea</x>
+               <xt>de har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="pers">dat</l>
+         <analysis>Pron_Pers_Pl3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl3_Acc">
+               <wordform>daid</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Gen">
+               <wordform>daid</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ill">
+               <wordform>daidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Loc">
+               <wordform>dain</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Com">
+               <wordform>daiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Ess">
+               <wordform>danin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">de</t>
+            <xg>
+               <x>Mii gávppašeimmet ovdal Kárášjoga borramušbuvddain, muhto dat heite gálvvu buktimis midjiide.</x>
+               <xt>Vi handlet før i matvarebutikkene i Karasjok, men de sluttet å bringe varer til oss.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

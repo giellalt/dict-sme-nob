@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="dem">dat</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc">
+               <wordform>dan viesu</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Gen">
+               <wordform>dan viesus</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>dainna viesuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>danin viessun</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">den</t>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">det</t>
+            <xg>
+               <x>Oahpaheaddjis gal ii leat dat áigumuš.</x>
+               <xt>Læreren har ikke den hensikten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="dem">dát</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc">
+               <wordform>dán</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Gen">
+               <wordform>dán</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>dása</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>dás</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>dáinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>dánin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">denne</t>
+            <te>nærmere meg enn deg</te>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">dette</t>
+            <te>nærmere meg enn deg</te>
+            <xg>
+               <x>Leago dát duođasge Sáme Radio oaivil?</x>
+               <xt>Er dette virkelig Same Radioens mening?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="dem">diet</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc">
+               <wordform>dien</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Gen">
+               <wordform>dien</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>diesa</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>dies</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>dieinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>dienin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">den</t>
+            <te>nærmere meg enn deg</te>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">det</t>
+            <te>nærmere meg enn deg</te>
+            <xg>
+               <x>Mii diet lea?</x>
+               <xt>Hva er det som du har der?</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">den</t>
+            <te>som nettopp ble nevnt</te>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">det</t>
+            <te>som nettopp ble nevnt</te>
+            <xg>
+               <x>Lea lunddolaš ahte diet čoahkkin dollo Álttás.</x>
+               <xt>Det er naturlig at det møtet (som det nettopp har vært snakk om) holdes i Alta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="dem">duot</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc">
+               <wordform>duon</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Gen">
+               <wordform>duon</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>duosa</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>duos</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>duoinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>duonin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">den der borte</tf>
+            <tf pos="phrase" oa="yes" dict="yes">det der borte</tf>
+            <xg>
+               <x>Mii duot lea?</x>
+               <xt>Hva er det der?</xt>
+            </xg>
+         </tg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">den der</tf>
+            <tf pos="phrase" oa="yes" dict="yes">det der</tf>
+            <xg>
+               <x>Movt bat duot geafes čivga sáhtii du beastit?</x>
+               <xt>Og hvordan kunne den der fattige ungen redde deg?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="dem">dot</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc">
+               <wordform>don</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Gen">
+               <wordform>don</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>dosa</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>dos</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>doinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>donin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">den lengst borte</tf>
+            <tf pos="phrase" oa="yes" dict="yes">det lengst borte</tf>
+            <xg>
+               <x>Ja dan dáfus eai dárbbaš ballat maid duot dahje dot riikabellodat dadjá jus sii oaivvildit nuo dahje
+               ná.</x>
+               <xt>Og i den forbindelse trenger de ikke å være redd for hva det ene eller det andre landsdekkende
+               partiet sier hvis de mener slik eller slik.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="dem">dat</l>
+         <analysis>Pron_Dem_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Acc">
+               <wordform>daid viesuid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Gen">
+               <wordform>daid viesuid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>daidda viesuide</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>dain viesuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>daiguin viesuiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>danin viessun</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">de</t>
+            <xg>
+               <x>Sii leat dušše čujuhan sullii gos dat jávrrit leat.</x>
+               <xt>De har bare vist til omtrentlig hvor de vannene er.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="dem">dát</l>
+         <analysis>Pron_Dem_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Acc">
+               <wordform>dáid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Gen">
+               <wordform>dáid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>dáidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>dáin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>dáiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>dánin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">disse</t>
+            <te>nærmere meg enn deg</te>
+            <xg>
+               <x>Gosa dolvot dát dáhpáhusat?</x>
+               <xt>Hvor fører disse hendingene?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="dem">diet</l>
+         <analysis>Pron_Dem_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Acc">
+               <wordform>dieid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Gen">
+               <wordform>dieid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>dieidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>diein</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>dieiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>dienin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">de</t>
+            <te>nærmere meg enn deg</te>
+         </tg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">de (som nettopp er nevnt)</tf>
+            <xg>
+               <x>Gal mun dál oainnán man duođat diet sánit leat maid vuoras olbmot lávejit lohkat.</x>
+               <xt>Nå ser jeg hvor sanne de ordene er som gamle folk pleier å si.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="dem">duot</l>
+         <analysis>Pron_Dem_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Acc">
+               <wordform>duoid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Gen">
+               <wordform>duoid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>duoidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>duoin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>duoiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>duonin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">de der borte</tf>
+            <xg>
+               <x>Geat bat duot leaba? jearai eadni.</x>
+               <xt>Hvem er så de der (om to)? spurte mor.</xt>
+            </xg>
+         </tg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">de der</tf>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="dem">dot</l>
+         <analysis>Pron_Dem_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Acc">
+               <wordform>doid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Gen">
+               <wordform>doid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>doidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>doin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>doiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>donin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">de lengst borte</tf>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="dem">dakkár</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc">
+               <wordform>dakkára</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Gen">
+               <wordform>dakkára</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>dakkárii</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>dakkáris</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>dakkáriin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>dakkárin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">slik</t>
+            <xg>
+               <x>Jođiheaddji diehtá ahte dakkár evttohus baldá olu olbmuid.</x>
+               <xt>Lederen vet at et slikt forslag skremmer mye folk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="dem">dakkárat</l>
+         <analysis>Pron_Dem_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Acc">
+               <wordform>dakkáriid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Gen">
+               <wordform>dakkáriid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>dakkáriidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>dakkáriin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>dakkáriiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>dakkárin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">slike</t>
+            <xg>
+               <x>Das leat dološ sárgumat vuođđun, ovdamearkka dihte dakkárat go meavrresgáris ledje.</x>
+               <xt>Den har gamle tegninger som grunnlag, for eksempel slike som var på runebomma.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="dem">dákkár</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc">
+               <wordform>dákkára</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Gen">
+               <wordform>dákkára</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>dákkárii</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>dákkáris</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>dákkáriin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>dákkárin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">sånn her</tf>
+            <xg>
+               <x>Biret lea dákkár.</x>
+               <xt>Biret er sånn.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="dem">dákkárat</l>
+         <analysis>Pron_Dem_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Acc">
+               <wordform>dákkáriid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Gen">
+               <wordform>dákkáriid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>dakkáriidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>dakkáriin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>dákkáriiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>dákkárin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <re>om flere</re>
+            <tf pos="phrase" oa="yes" dict="yes">sånn her</tf>
+            <xg>
+               <x>Dál lea Biret maid hirpmahuvvan ahte dákkárat sáhttet dáhpáhuvvat.</x>
+               <xt>Nå er Biret også forskrekket over at slikt kan skje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="sg" pos="pron" type="dem">diekkár</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc">
+               <wordform>diekkára</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Gen">
+               <wordform>diekkára</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>diekkárii</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>diekkáris</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>diekkáriin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>diekkárin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">en slik en</tf>
+            <t pos="pron" oa="yes" dict="yes" tcomm="no">slikt</t>
+            <xg>
+               <x>Son dánssui sallalaga nuorra bártniin, ja diekkár gal váibmui čuohcá.</x>
+               <xt>Hun danset i armene til en ung gutt, og slikt rammer hjertet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l nr="pl" pos="pron" type="dem">diekkárat</l>
+         <analysis>Pron_Dem_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Acc">
+               <wordform>diekkáriid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Gen">
+               <wordform>diekkáriid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>diekkáriidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>diekkáriin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>diekkáriiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>diekkárin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" oa="yes" dict="yes">slike som det</tf>
+            <xg>
+               <x>Stuorra meahcceeallit leat bierdna ja sarvá, ja smávva meahcceeallit leat rievssahat ja diekkárat.</x>
+               <xt>Storvilt er bjørn og elg, og småvilt er ryper og slike som det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>
