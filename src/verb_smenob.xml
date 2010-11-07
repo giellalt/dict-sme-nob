@@ -12239,8 +12239,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">bli ferdigkokt</tf>
-            <t pos="v">stekt</t>
-            <t pos="v">speket</t>
+            <tf pos="phrase">bli ferdigstekt</tf>
+            <tf pos="phrase">bli ferdigspeket</tf>
          </tg>
       </mg>
    </e>
@@ -12250,7 +12250,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">sette synkestein på not, garn</tf>
+            <tf pos="phrase">sette synkestein på not eller garn</tf>
          </tg>
       </mg>
    </e>
@@ -12634,15 +12634,11 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">klatre</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="v">stige</t>
          </tg>
-      </mg>
-      <mg>
          <tg>
-            <tf pos="phrase">stake en elvebåt</tf>
+            <tf pos="phrase">stake elvebåt</tf>
          </tg>
       </mg>
    </e>
@@ -12711,6 +12707,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">greie å få med seg</tf>
+            <te>f.eks. få med seg varer gående</te>
          </tg>
       </mg>
    </e>
