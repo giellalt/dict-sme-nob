@@ -1615,7 +1615,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">laskeyngel</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">lakseyngel</t>
          </tg>
       </mg>
    </e>
@@ -4616,7 +4616,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="2" dict="yes" oa="yes" pos="a" tcomm="no">østsamisk</t>
+            <tf dict="yes" oa="yes">østsamisk språk</tf>
          </tg>
       </mg>
    </e>
@@ -4676,13 +4676,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" oa="yes" pos="phrase">søknad om penger</tf>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n">pengesøknad</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">oktiičaskin</l>
+         <l illpl="ok" pos="n">toktiičaskin</l>
       </lg>
       <mg>
          <tg>
@@ -5964,7 +5964,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">lybilde</t>
+            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">lydbilde</t>
          </tg>
       </mg>
    </e>
@@ -6549,7 +6549,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">ord</t>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">innlegg</t>
          </tg>
       </mg>
@@ -6686,6 +6685,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t decl="1" gen="m" pos="n">svekling</t>
             <tf dict="yes" gen="m" oa="yes" pos="phrase">svak person eller ting</tf>
             <tf dict="yes" gen="m" oa="yes" pos="phrase">dårlig person eller ting</tf>
          </tg>
@@ -6780,6 +6780,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">adresseringsetikett</t>
+            <t decl="1" gen="m" pos="n">adresselapp</t>
          </tg>
       </mg>
    </e>
@@ -7296,7 +7297,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>plurale tantum</re>
-            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">regnklær</t>
+            <t decl="1" dict="yes" gen="n" nr="pl" oa="yes" pos="n" tcomm="no">regnklær</t>
          </tg>
       </mg>
    </e>
@@ -7591,7 +7592,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase">streng mellom juksas snøre og jernstein</tf>
+            <te>streng mellom juksas snøre og jernstein</te>
          </tg>
       </mg>
    </e>
@@ -7790,7 +7791,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">rettledning</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">rettledning</t>
          </tg>
       </mg>
    </e>
@@ -7802,7 +7803,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">rettleiing</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">rettlednng</t>
          </tg>
       </mg>
    </e>
@@ -7860,6 +7861,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">endetarmsåpning</t>
+            <t decl="1" gen="m" pos="n">anus</t>
          </tg>
       </mg>
    </e>
@@ -9579,7 +9581,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase">kald vind fra øst</tf>
+            <tf dict="yes" gen="m" oa="yes" pos="phrase">kald østavind</tf>
          </tg>
       </mg>
    </e>
@@ -9877,7 +9879,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">næringsmiddelkontrollen</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">næringsmiddelkontroll</t>
          </tg>
       </mg>
    </e>
