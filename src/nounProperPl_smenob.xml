@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Nordmannset</t>
+            <t pos="prop" type="plc">Nordmannset</t>
          </tg>
       </mg>
    </e>
@@ -43,9 +43,9 @@ For the full license text, see the link above.</lic>
          <l pos="npl">Skánit</l>
       </lg>
       <mg>
-         <tg>
-            <tf pos="phrase">Skånland (Troms)</tf>
-         </tg>
+	<tg>
+	  <t pos="prop" type="plc" reg="Troms">Skånland</t>
+	</tg>
       </mg>
    </e>
    <e usage="vd">
@@ -53,9 +53,9 @@ For the full license text, see the link above.</lic>
          <l pos="npl">Dálmmát</l>
       </lg>
       <mg>
-         <tg>
-            <tf pos="phrase">Kjelmøya (Finnmark)</tf>
-         </tg>
+	<tg>
+	  <t pos="prop" type="plc" reg="Finnmark">Kjelmøya</t>
+	</tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
@@ -78,7 +78,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Hillesøy</t>
+            <t pos="prop" type="plc">Hillesøy</t>
          </tg>
       </mg>
    </e>
@@ -88,7 +88,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Ingøy</t>
+            <t pos="prop" type="plc">Ingøy</t>
          </tg>
       </mg>
    </e>
@@ -98,7 +98,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">Store Ekkerøy</tf>
+            <tf pos="phrase" type="plc">Store Ekkerøy</tf>
          </tg>
       </mg>
    </e>
@@ -108,7 +108,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Lødingen</t>
+            <t pos="prop" type="plc">Lødingen</t>
          </tg>
       </mg>
    </e>
@@ -118,7 +118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Måsøy</t>
+            <t pos="prop" type="plc">Måsøy</t>
          </tg>
       </mg>
    </e>
@@ -127,9 +127,9 @@ For the full license text, see the link above.</lic>
          <l pos="npl">Várggát</l>
       </lg>
       <mg>
-         <tg>
-            <tf pos="phrase">Vardø (Finnmark)</tf>
-         </tg>
+	<tg>
+	  <t pos="prop" type="plc" reg="Finnmark">Vardø</t>
+	</tg>
       </mg>
    </e>
    <e usage="vd">
@@ -138,7 +138,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop">Vågan</t>
+            <t pos="prop" type="plc">Vågan</t>
          </tg>
       </mg>
    </e>
