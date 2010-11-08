@@ -70,12 +70,6 @@
 					 [not(local-name() = 'dict')]
 					 [not(local-name() = 'pos')]"/>
 
-<!-- 		    <xsl:if test=""> -->
-<!-- 		      <xsl:attribute name="decl"> -->
-<!-- 			<xsl:value-of select="if (@pos and not(@pos = '')) then @pos else 'xxx'"/> -->
-<!-- 		      </xsl:attribute> -->
-<!-- 		    </xsl:if> -->
-
 		    <xsl:value-of select="normalize-space(.)"/>
 		  </l>
 		</lg>
