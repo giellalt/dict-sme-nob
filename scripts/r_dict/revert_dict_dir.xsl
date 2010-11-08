@@ -93,9 +93,10 @@
 		      </re>
 		    </xsl:for-each>
 		    <t>
-		      <xsl:attribute name="xml:lang">
-			<xsl:value-of select="$srcl"/>
-		      </xsl:attribute>
+		      <!-- not needed yet on the t element: it is on the mg element -->
+		      <!-- 		      <xsl:attribute name="xml:lang"> -->
+		      <!-- 			<xsl:value-of select="$srcl"/> -->
+		      <!-- 		      </xsl:attribute> -->
 		      <!-- transfer sme-relevant attributes to the nobsme as production dictionary -->
 		      <xsl:copy-of select="../../../lg/l/@*[not(local-name() = 'oa')]
 					   [not(local-name() = 'tcomm')]
