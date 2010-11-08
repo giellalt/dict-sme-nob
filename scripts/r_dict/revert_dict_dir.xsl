@@ -64,13 +64,27 @@
 		    <xsl:attribute name="pos">
 		      <xsl:value-of select="if (@pos and not(@pos = '')) then @pos else 'xxx'"/>
 		    </xsl:attribute>
-		    <xsl:attribute name="decl">
-		      <xsl:value-of select="if (@decl and not(@decl = '')) then @decl else 'xxx'"/>
-		    </xsl:attribute>
+		    <xsl:copy-of select="./@*[not(local-name() = 'oa')]
+					 [not(local-name() = 'context')]
+					 [not(local-name() = 'tcomm')]
+					 [not(local-name() = 'dict')]
+					 [not(local-name() = 'pos')]"/>
+
+<!-- 		    <xsl:if test=""> -->
+<!-- 		      <xsl:attribute name="decl"> -->
+<!-- 			<xsl:value-of select="if (@pos and not(@pos = '')) then @pos else 'xxx'"/> -->
+<!-- 		      </xsl:attribute> -->
+<!-- 		    </xsl:if> -->
+
 		    <xsl:value-of select="normalize-space(.)"/>
 		  </l>
 		</lg>
 		<mg>
+		  <!-- as CLT agreed upon, the interim representation of the reverted dictionaries will get the lang tag on the meaning group -->
+		  <!-- Is there a problem for Cip's dream: tante vs. faster/moster; søskenbarn vs. kusin; fetter, kusine vs. kusin? -->
+		  <xsl:attribute name="xml:lang">
+		    <xsl:value-of select="$srcl"/>
+		  </xsl:attribute>
 		  <tg>
 		    <xsl:copy-of select="../re"/>
 		    <xsl:for-each select="../te">
@@ -78,29 +92,15 @@
 			<xsl:value-of select="."/>
 		      </re>
 		    </xsl:for-each>
-		    <t xml:lang="{$srcl}" pos="{../../../lg/l/@pos}">
+		    <t>
+		      <xsl:attribute name="xml:lang">
+			<xsl:value-of select="$srcl"/>
+		      </xsl:attribute>
 		      <!-- transfer sme-relevant attributes to the nobsme as production dictionary -->
-		      <xsl:if test="../../../lg/l/@type">
-			<xsl:copy-of select="../../../lg/l/@type"/>
-		      </xsl:if>
-		      <xsl:if test="../../../lg/l/@nr">
-			<xsl:copy-of select="../../../lg/l/@nr"/>
-		      </xsl:if>
-		      <xsl:if test="../../../lg/l/@pers">
-			<xsl:copy-of select="../../../lg/l/@pers"/>
-		      </xsl:if>
-		      <xsl:if test="../../../lg/l/@mod">
-			<xsl:copy-of select="../../../lg/l/@mod"/>
-		      </xsl:if>
-		      <xsl:if test="../../../lg/l/@context">
-			<xsl:copy-of select="../../../lg/l/@context"/>
-		      </xsl:if>
-		      <xsl:if test="../../../lg/l/@attr">
-			<xsl:value-of select="../../../lg/l/@attr"/>
-		      </xsl:if>
-		      <xsl:if test="../../../lg/l/@illpl">
-			<xsl:value-of select="../../../lg/l/@illpl"/>
-		      </xsl:if>
+		      <xsl:copy-of select="../../../lg/l/@*[not(local-name() = 'oa')]
+					   [not(local-name() = 'tcomm')]
+					   [not(local-name() = 'dict')]"/>
+		      <xsl:copy-of select="./@context"/>
 		      <xsl:value-of select="normalize-space(../../../lg/l)"/>
 		    </t>
 		    <xsl:if test="../xg">
