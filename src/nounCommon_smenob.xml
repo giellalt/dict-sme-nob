@@ -31331,9 +31331,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase">st. hans</tf>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">St.Hans</t>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">sankthans</t>
+	   <tf gen="m" pos="phrase" type="pers">St. Hans</tf>
+	   <tf gen="m" pos="phrase" type="pers">Sankt Hans</tf>
          </tg>
       </mg>
    </e>
