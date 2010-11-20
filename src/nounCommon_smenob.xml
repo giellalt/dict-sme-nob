@@ -4616,7 +4616,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase" dict="yes" oa="yes">østsamisk språk</tf>
+            <tf dict="yes" oa="yes" pos="phrase">østsamisk språk</tf>
          </tg>
       </mg>
    </e>
@@ -16150,8 +16150,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">kone</t>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">hustru</t>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">kone</t>
          </tg>
       </mg>
    </e>
@@ -21787,6 +21787,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">jordgolv</t>
+            <t decl="1" gen="n" pos="n">golv</t>
          </tg>
       </mg>
    </e>
@@ -23983,10 +23984,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">bryllupsgave</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -25998,7 +25995,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>plurale tantum</re>
-            <tf dict="yes" oa="yes" nr="pl" pos="phrase">kulørte klær</tf>
+            <tf dict="yes" nr="pl" oa="yes" pos="phrase">kulørte klær</tf>
          </tg>
       </mg>
    </e>
@@ -31331,8 +31328,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-	   <tf gen="m" pos="phrase" type="pers">St. Hans</tf>
-	   <tf gen="m" pos="phrase" type="pers">Sankt Hans</tf>
+            <tf gen="m" pos="phrase" type="pers">St. Hans</tf>
+            <tf gen="m" pos="phrase" type="pers">Sankt Hans</tf>
          </tg>
       </mg>
    </e>
