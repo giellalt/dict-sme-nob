@@ -58,7 +58,7 @@
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="'true_gogo'"/>
   <xsl:variable name="nl" select="'&#xa;'"/>
-  <xsl:variable name="lang" select="'sma'"/>
+  <xsl:variable name="lang" select="'sme'"/>
   
   <xsl:template match="/" name="main">
 
@@ -76,17 +76,17 @@
 	    <xsl:value-of select="'-----------------------------------------'"/>
 	  </xsl:message>
 	</xsl:if>
-
+	<!-- glue all lemma strings to a big string -->
 	<xsl:for-each select="./r/e/lg/l">
 	  <xsl:value-of select="."/>
 	</xsl:for-each>
       </xsl:for-each>
     </xsl:variable>
-
+    <!-- split the string into characters separated by whitespace -->
     <xsl:variable name="solo_letter">
       <xsl:value-of select="functx:chars($big_string)"/>
     </xsl:variable>
-
+    <!-- uniq the characters and sort them by default -->
     <xsl:variable name="abc">
       <abc xml:lang="{$lang}">
 	<xsl:for-each select="distinct-values(tokenize($solo_letter, ' '))">
