@@ -613,6 +613,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="actor">kántorbargi</l>
+         <lsub>kánturbargi</lsub>
       </lg>
       <mg>
          <tg>
@@ -1020,16 +1021,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="actor">kánturbargi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">kontoransatt</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l illpl="ok" pos="actor">hárjeheaddji</l>
       </lg>
       <mg>
@@ -1041,6 +1032,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="actor">stivrajođiheaddji</l>
+		 <lsub>stivrrajođiheaddji</lsub>
       </lg>
       <mg>
          <tg>
@@ -1182,16 +1174,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="actor">stivrrajođiheaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n" gen="m" decl="2">styreleder</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l illpl="ok" pos="actor">mánáidáittardeaddji</l>
       </lg>
       <mg>
@@ -1213,6 +1195,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="actor">siviilaáittardeaddji</l>
+		 <lsub>siviláittardeaddji</lsub>
       </lg>
       <mg>
          <tg>
@@ -2241,16 +2224,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="actor">siviláittardeaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n" gen="n" decl="1">sivilombud</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l illpl="ok" pos="actor">skeŋkejeaddji</l>
@@ -2293,7 +2266,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="actor">sosiáljođiheaddji</l>
+         <l illpl="ok" pos="actor">sosiálajođiheaddji</l>
       </lg>
       <mg>
          <tg>
@@ -2303,7 +2276,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="actor">sosiáloahpaheaddji</l>
+         <l illpl="ok" pos="actor">sosiálaoahpaheaddji</l>
       </lg>
       <mg>
          <tg>
@@ -2313,7 +2286,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="actor">sosiáloaivadeaddji</l>
+         <l illpl="ok" pos="actor">sosiálaoaivadeaddji</l>
       </lg>
       <mg>
          <tg>
@@ -3106,7 +3079,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="actor">gieldarehketdoalli</l>
+         <l illpl="ok" pos="actor">gielddarehketdoalli</l>
+         <lsub>gieldarehketdoalli</lsub>
       </lg>
       <mg>
          <tg>
@@ -3603,7 +3577,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="actor">sosiálčálli</l>
+         <l illpl="ok" pos="actor">sosiálačálli</l>
       </lg>
       <mg>
          <tg>
@@ -3823,7 +3797,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="actor">meahcceealli</l>
+         <l pos="actor">meahciealli</l>
+         <lsub>meahcceealli</lsub>
       </lg>
       <mg>
          <tg>

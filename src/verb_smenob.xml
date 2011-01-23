@@ -21352,19 +21352,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
-      <lg>
-         <l context="mun" pos="v">mearredit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bestemme</t>
-         </tg>
-      </mg>
-   </e>
    <e src="nj" usage="vd">
       <lg>
          <l context="mun" pos="v">mearridit</l>
+         <lsub>mearredit</lsub>
       </lg>
       <mg>
          <tg>
@@ -28951,6 +28942,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="mun" pos="v">rábmot</l>
+         <lsub>rápmot</lsub>
          <lc>(sii) rábmojit</lc>
       </lg>
       <mg>
@@ -38477,16 +38469,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">sihkarastit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sikre</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l context="mun" pos="v">gárvet</l>
       </lg>
       <mg>
@@ -38532,19 +38514,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">ta hensyn til</tf>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l context="mun" pos="v">rápmot</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">rose</t>
-         </tg>
-         <tg>
-            <t pos="v">skryte</t>
          </tg>
       </mg>
    </e>
@@ -38696,7 +38665,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">hirpmáhuvvat</l>
+         <l context="mun" pos="v">hirpmahuvvat</l>
       </lg>
       <mg>
          <tg>
@@ -38817,16 +38786,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">digáštallat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">diskutere</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l context="mun" pos="v">sulastahttit</l>
       </lg>
       <mg>
@@ -38847,17 +38806,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">jávkkehit</l>
-      </lg>
-      <mg>
-         <tg>
-            <tf pos="phrase">forsvinne plutselig</tf>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l context="mun" pos="v">jávkkihit</l>
+         <lsub>jávkkehit</lsub>
       </lg>
       <mg>
          <tg>

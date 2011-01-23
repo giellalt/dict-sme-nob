@@ -281,6 +281,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">válgabiire</l>
+         <lsub>válgabire</lsub>
       </lg>
       <mg>
          <tg>
@@ -325,16 +326,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">sokneprest</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">distat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">tirsdag</t>
          </tg>
       </mg>
    </e>
@@ -505,16 +496,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">søknadsfrist</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">departementa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">departement</t>
          </tg>
       </mg>
    </e>
@@ -1021,6 +1002,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l illpl="ok" pos="n">sámepolitihkar</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">samepolitiker</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l illpl="ok" pos="n">riddoguovlu</l>
       </lg>
       <mg>
@@ -1351,16 +1342,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">válgabire</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">valgkrets</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l illpl="ok" pos="n">stivračoahkkin</l>
       </lg>
       <mg>
@@ -1376,16 +1357,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">hjemtrakt</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">politihkár</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">politiker</t>
          </tg>
       </mg>
    </e>
@@ -1541,7 +1512,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">leansmánnikántuvra</l>
+         <l illpl="ok" pos="n">leansmánnikantuvra</l>
+         <lsub>leansmánnikántuvra</lsub>
       </lg>
       <mg>
          <tg>
@@ -1601,7 +1573,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">minoritehtta</l>
+         <l illpl="ok" pos="n">minoritehta</l>
       </lg>
       <mg>
          <tg>
@@ -1707,17 +1679,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">høstfestival</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">guovllukantuvra</l>
-         <lsub>guovllukántuvra</lsub>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="3" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">distriktskontor</t>
          </tg>
       </mg>
    </e>
@@ -2249,6 +2210,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">sentrumsparti</t>
+            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">senterparti</t>
          </tg>
       </mg>
    </e>
@@ -3051,6 +3013,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">máilmmisoahti</l>
+         <lsub>máilmmesoahti</lsub>
       </lg>
       <mg>
          <tg>
@@ -3131,31 +3094,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">máilmmesoahti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">verdenskrig</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l illpl="ok" pos="n">lihkkusávaldat</l>
       </lg>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">lykkeønskning</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">leansmánnekántuvra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">lensmannskontor</t>
          </tg>
       </mg>
    </e>
@@ -4160,7 +4103,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">boastakántuvra</l>
+         <l illpl="ok" pos="n">boastakantuvra</l>
+         <lsub>boastakántuvra</lsub>
       </lg>
       <mg>
          <tg>
@@ -4205,17 +4149,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">gymnas</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">guovddašbellodat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">sentrumsparti</t>
-            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">senterparti</t>
          </tg>
       </mg>
    </e>
@@ -5197,16 +5130,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">váldokántuvra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">hovedkontor</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l illpl="ok" pos="n">viessoeaiggát</l>
       </lg>
       <mg>
@@ -5307,7 +5230,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">bargokántuvra</l>
+         <l illpl="ok" pos="n">bargokantuvra</l>
+         <lsub>bargokántuvra</lsub>
       </lg>
       <mg>
          <tg>
@@ -5398,21 +5322,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">politimeašttir</l>
+         <l illpl="ok" pos="n">politiijameašttir</l>
+         <lsub>politimeašttir</lsub>
       </lg>
       <mg>
          <tg>
             <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">politimester</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">politiguovlu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">politidistrikt</t>
          </tg>
       </mg>
    </e>
@@ -5498,7 +5413,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">sosialkantuvra</l>
+         <l illpl="ok" pos="n">sosiálakantuvra</l>
+         <lsub>sosialkantuvra</lsub>
          <lsub>sosialkántuvra</lsub>
       </lg>
       <mg>
@@ -5579,7 +5495,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">bázáhus</l>
+         <l illpl="ok" pos="n">bázahus</l>
       </lg>
       <mg>
          <tg>
@@ -5645,16 +5561,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">prosjektarbeid</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">politibálvá</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">politibetjent</t>
          </tg>
       </mg>
    </e>
@@ -5841,6 +5747,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">politiijabálvá</l>
+		 <lsub>politibálvá</lsub>
       </lg>
       <mg>
          <tg>
@@ -5865,16 +5772,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">kulturtilbud</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">kulturdepartementa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">kulturdepartement</t>
          </tg>
       </mg>
    </e>
@@ -6111,6 +6008,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">máilmmimeašttir</l>
+         <lsub>máilmmemeašttir</lsub>
       </lg>
       <mg>
          <tg>
@@ -6476,6 +6374,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">politiijaguovlu</l>
+		 <lsub>politiguovlu</lsub>
       </lg>
       <mg>
          <tg>
@@ -14281,6 +14180,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l illpl="ok" pos="n">disdat</l>
+		 <lsub>distat</lsub>
          <lc>-daga</lc>
          <lc>-dahkii</lc>
       </lg>
@@ -15950,16 +15850,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">eier</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">eaktodáhtolaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">frivillig</t>
          </tg>
       </mg>
    </e>
@@ -21124,16 +21014,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">govvadus</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">framstilling</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l illpl="ok" pos="n">govvadáidda</l>
       </lg>
       <mg>
@@ -21179,6 +21059,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">beskrivelse</t>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">framstilling</t>
          </tg>
       </mg>
    </e>
@@ -22479,8 +22360,10 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">guovllokantuvra</l>
+         <l illpl="ok" pos="n">guovllukantuvra</l>
          <lsub>guovllokántuvra</lsub>
+         <lsub>guovllokantuvra</lsub>
+         <lsub>guovllukántuvra</lsub>
       </lg>
       <mg>
          <tg>
@@ -25676,16 +25559,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">selvfølelse</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">iešdáhtolaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">forsettlig</t>
          </tg>
       </mg>
    </e>
@@ -32010,17 +31883,8 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">musea</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">museum</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="n">museá</l>
-      </lg>
+		 <lsub>museá</lsub>
+     </lg>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">museum</t>
@@ -49624,7 +49488,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">johkanjálbmi</l>
+         <l illpl="ok" pos="n">joganjálbmi</l>
       </lg>
       <mg>
          <tg>

@@ -26,7 +26,8 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>   </lics>
+     </sourcenote>
+   </lics>
    <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">eallilan</l>
@@ -6282,18 +6283,18 @@ For the full license text, see the link above.</lic>
          <lc>skoavdasat</lc>
       </lg>
       <mg>
-	<tg>
-	  <t pos="n">hul</t>
-	  <te>f.eks. snø eller is</te>
-	  <xg>
-	    <x>skoavdeláibi</x>
-	    <xt>hult brød</xt>
-	  </xg>
-	  <xg>
-	    <x>Jiekŋa lea skoavddas.</x>
-	    <xt>Isen har hulrom.</xt>
-	  </xg>
-	</tg>
+         <tg>
+            <t pos="n">hul</t>
+            <te>f.eks. snø eller is</te>
+            <xg>
+               <x>skoavdeláibi</x>
+               <xt>hult brød</xt>
+            </xg>
+            <xg>
+               <x>Jiekŋa lea skoavddas.</x>
+               <xt>Isen har hulrom.</xt>
+            </xg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -10257,6 +10258,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="2" pos="a">synlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="doaibma" illpl="ok" pos="a">eaktodáhtolaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="a" tcomm="no">frivillig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="dahku" illpl="ok" pos="a">iešdáhtolaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t dict="yes" oa="yes" pos="a" tcomm="no">forsettlig</t>
          </tg>
       </mg>
    </e>
