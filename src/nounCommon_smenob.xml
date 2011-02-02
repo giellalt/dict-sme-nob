@@ -1875,7 +1875,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">stuorradiggeáirras</l>
-		 <lsub>stuoradiggeáirras</lsub>
+         <lsub>stuoradiggeáirras</lsub>
       </lg>
       <mg>
          <tg>
@@ -2573,7 +2573,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">stuorradiggi</l>
-		 <lsub>stuoradiggi</lsub>
+         <lsub>stuoradiggi</lsub>
       </lg>
       <mg>
          <tg>
@@ -3460,7 +3460,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">stuorradiggedieđáhus</l>
-		 <lsub>stuoradiggedieđáhus</lsub>
+         <lsub>stuoradiggedieđáhus</lsub>
       </lg>
       <mg>
          <tg>
@@ -5680,7 +5680,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">politiijabálvá</l>
-		 <lsub>politibálvá</lsub>
+         <lsub>politibálvá</lsub>
       </lg>
       <mg>
          <tg>
@@ -6307,7 +6307,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">politiijaguovlu</l>
-		 <lsub>politiguovlu</lsub>
+         <lsub>politiguovlu</lsub>
       </lg>
       <mg>
          <tg>
@@ -14103,7 +14103,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l illpl="ok" pos="n">disdat</l>
-		 <lsub>distat</lsub>
+         <lsub>distat</lsub>
          <lc>-daga</lc>
          <lc>-dahkii</lc>
       </lg>
@@ -17333,7 +17333,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">fylkkadiggi</l>
-		 <lsub>fylkadiggi</lsub>
+         <lsub>fylkadiggi</lsub>
       </lg>
       <mg>
          <tg>
@@ -19458,7 +19458,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">giitossárdni</l>
+         <l illpl="ok" pos="n">giittossárdni</l>
       </lg>
       <mg>
          <tg>
@@ -26781,7 +26781,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">johttisámidilli</l>
+         <l illpl="ok" pos="n">johttisámedilli</l>
       </lg>
       <mg>
          <tg>
@@ -31789,8 +31789,8 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">musea</l>
-		 <lsub>museá</lsub>
-     </lg>
+         <lsub>museá</lsub>
+      </lg>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">museum</t>
@@ -50318,14 +50318,24 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">husarbeid</t>
          </tg>
       </mg>
-  </e>
-  <e usage="vd">
+   </e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">viisodat</l>
       </lg>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">klokskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">jáffut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="n" pos="n">mel</t>
          </tg>
       </mg>
    </e>

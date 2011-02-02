@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="3">never</t>
+            <t decl="3" gen="m" pos="n">never</t>
             <xg>
                <x>Mun gaikon beassi muoras cahkkehahkan.</x>
                <xt>Jeg flerret never av treet til opptenning.</xt>
@@ -48,7 +48,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">toll</t>
+            <t decl="1" gen="m" pos="n">toll</t>
             <xg>
                <x>Eanandoalloministtar sáhttá vuolidit duollu.</x>
                <xt>Landbruksministeren kan sette ned tollen.</xt>
@@ -63,7 +63,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">panne</t>
+            <t decl="2" gen="f" pos="n">panne</t>
             <xg>
                <x>Bivastat gálluid vihke lunttažat spáppa maŋis.</x>
                <xt>Med svette panner løp guttungene etter ballen.</xt>
@@ -77,7 +77,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">vinterstøing</t>
+            <t decl="1" gen="m" pos="n">vinterstøing</t>
             <xg>
                <x>Eanus leat vuorrut.</x>
                <xt>I elva er det vinterstøinger.</xt>
@@ -93,7 +93,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">ekorn</t>
+            <t decl="1" gen="n" pos="n">ekorn</t>
          </tg>
       </mg>
    </e>
@@ -104,8 +104,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="2">klede</t>
-            <t pos="n" gen="n" decl="1">stoff</t>
+            <t decl="2" gen="n" pos="n">klede</t>
+            <t decl="1" gen="n" pos="n">stoff</t>
          </tg>
       </mg>
    </e>
@@ -115,12 +115,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">svovel</t>
+            <t decl="1" gen="m" pos="n">svovel</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">fyrstikk</t>
+            <t decl="1" gen="m" pos="n">fyrstikk</t>
             <xg>
                <x>Bárdni cahkkehii buot riššaid oktanis.</x>
                <xt>Gutten tente på alle fystikkene samtidig.</xt>
@@ -134,7 +134,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">hall</t>
+            <t decl="1" gen="m" pos="n">hall</t>
          </tg>
       </mg>
    </e>
@@ -145,7 +145,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">harr</t>
+            <t decl="1" gen="m" pos="n">harr</t>
          </tg>
       </mg>
    </e>
@@ -155,7 +155,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">klasse</t>
+            <t decl="1" gen="m" pos="n">klasse</t>
          </tg>
       </mg>
    </e>
@@ -165,7 +165,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">vindbord</t>
+            <t decl="1" gen="n" pos="n">vindbord</t>
          </tg>
       </mg>
    </e>
@@ -175,7 +175,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">vindmølle</t>
+            <t decl="2" gen="f" pos="n">vindmølle</t>
          </tg>
       </mg>
    </e>
@@ -187,7 +187,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">bjølle</t>
+            <t decl="2" gen="f" pos="n">bjølle</t>
          </tg>
       </mg>
    </e>
@@ -198,8 +198,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">børse</t>
-            <t pos="n" gen="n" decl="1">gevær</t>
+            <t decl="2" gen="f" pos="n">børse</t>
+            <t decl="1" gen="n" pos="n">gevær</t>
          </tg>
       </mg>
    </e>
@@ -210,7 +210,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">okse</t>
+            <t decl="1" gen="m" pos="n">okse</t>
          </tg>
       </mg>
    </e>
@@ -221,7 +221,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">testikkel</t>
+            <t decl="1" gen="m" pos="n">testikkel</t>
          </tg>
       </mg>
    </e>
@@ -233,8 +233,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="1">fjøl</t>
-            <t pos="n" gen="n" decl="1">bord</t>
+            <t decl="1" gen="f" pos="n">fjøl</t>
+            <t decl="1" gen="n" pos="n">bord</t>
          </tg>
       </mg>
    </e>
@@ -245,11 +245,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">dyr</t>
+            <t decl="1" gen="n" pos="n">dyr</t>
             <te>ikke husdyr</te>
          </tg>
          <tg>
-            <t pos="n" gen="n" decl="1">småvilt</t>
+            <t decl="1" gen="n" pos="n">småvilt</t>
          </tg>
       </mg>
    </e>
@@ -259,7 +259,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">hauk</t>
+            <t decl="1" gen="m" pos="n">hauk</t>
          </tg>
       </mg>
    </e>
@@ -269,7 +269,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">lettmetall</t>
+            <t decl="1" gen="n" pos="n">lettmetall</t>
          </tg>
       </mg>
    </e>
@@ -279,8 +279,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">tranlampe</t>
-            <t pos="n" gen="f" decl="2">lampe</t>
+            <t decl="2" gen="f" pos="n">tranlampe</t>
+            <t decl="2" gen="f" pos="n">lampe</t>
          </tg>
       </mg>
    </e>
@@ -291,7 +291,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">gull</t>
+            <t decl="1" gen="n" pos="n">gull</t>
          </tg>
       </mg>
    </e>
@@ -301,7 +301,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">fiskehjell</t>
+            <t decl="1" gen="m" pos="n">fiskehjell</t>
          </tg>
       </mg>
    </e>
@@ -312,8 +312,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">steinblokk</t>
-            <t pos="n" gen="f" decl="2">klippe</t>
+            <t decl="1" gen="m" pos="n">steinblokk</t>
+            <t decl="2" gen="f" pos="n">klippe</t>
          </tg>
       </mg>
    </e>
@@ -323,12 +323,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">kasse</t>
+            <t decl="2" gen="f" pos="n">kasse</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">gass</t>
+            <t decl="1" gen="m" pos="n">gass</t>
             <xg>
                <x>Min biilavuoddji lei nu suorganan ahte ille šat nagoda duolmmastit gása.</x>
                <xt>Bilføreren vår var så forskrekket at hun knapt greide å trø på gassen.</xt>
@@ -346,10 +346,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">hotell</t>
+            <t decl="1" gen="n" pos="n">hotell</t>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
@@ -360,7 +360,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">haglegevær</t>
+            <t decl="1" gen="n" pos="n">haglegevær</t>
          </tg>
       </mg>
    </e>
@@ -371,17 +371,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">mel</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="g3">jáffut</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n" gen="n" decl="1">mel</t>
+            <t decl="1" gen="n" pos="n">mel</t>
          </tg>
       </mg>
    </e>
@@ -393,12 +383,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">elvemel</t>
+            <t decl="1" gen="m" pos="n">elvemel</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">styreåre</t>
+            <t decl="2" gen="f" pos="n">styreåre</t>
          </tg>
       </mg>
    </e>
@@ -408,7 +398,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">snøvær</t>
+            <t decl="1" gen="n" pos="n">snøvær</t>
          </tg>
       </mg>
    </e>
@@ -419,10 +409,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">mønster</t>
-            <t pos="n" gen="m" decl="1">mal</t>
-            <t pos="n" gen="m" decl="1">fasong</t>
-            <t pos="n" gen="m" decl="1">design</t>
+            <t decl="1" gen="n" pos="n">mønster</t>
+            <t decl="1" gen="m" pos="n">mal</t>
+            <t decl="1" gen="m" pos="n">fasong</t>
+            <t decl="1" gen="m" pos="n">design</t>
          </tg>
       </mg>
    </e>
@@ -432,7 +422,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">kråkesølv</t>
+            <t decl="1" gen="n" pos="n">kråkesølv</t>
          </tg>
       </mg>
    </e>
@@ -442,7 +432,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">rolle</t>
+            <t decl="2" gen="f" pos="n">rolle</t>
          </tg>
       </mg>
    </e>
@@ -453,8 +443,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">snelle</t>
-            <t pos="n" gen="f" decl="2">rulle</t>
+            <t decl="2" gen="f" pos="n">snelle</t>
+            <t decl="2" gen="f" pos="n">rulle</t>
          </tg>
       </mg>
    </e>
@@ -465,7 +455,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">sil</t>
+            <t decl="1" gen="m" pos="n">sil</t>
          </tg>
       </mg>
    </e>
@@ -475,7 +465,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="1">saks</t>
+            <t decl="1" gen="f" pos="n">saks</t>
          </tg>
       </mg>
    </e>
@@ -485,7 +475,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">sofa</t>
+            <t decl="1" gen="m" pos="n">sofa</t>
          </tg>
       </mg>
    </e>
@@ -497,9 +487,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">avsats</t>
-            <t pos="n" gen="m" decl="1">terrasse</t>
-            <t pos="n" gen="f" decl="2">rampe</t>
+            <t decl="1" gen="m" pos="n">avsats</t>
+            <t decl="1" gen="m" pos="n">terrasse</t>
+            <t decl="2" gen="f" pos="n">rampe</t>
          </tg>
       </mg>
    </e>
@@ -509,7 +499,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">tabell</t>
+            <t decl="1" gen="m" pos="n">tabell</t>
          </tg>
       </mg>
    </e>
@@ -520,7 +510,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="1">ull</t>
+            <t decl="1" gen="f" pos="n">ull</t>
          </tg>
       </mg>
    </e>
@@ -530,7 +520,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">idrettshall</t>
+            <t decl="1" gen="m" pos="n">idrettshall</t>
          </tg>
       </mg>
    </e>
@@ -540,7 +530,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">skinnsofa</t>
+            <t decl="1" gen="m" pos="n">skinnsofa</t>
          </tg>
       </mg>
    </e>
@@ -550,7 +540,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="2">dørklokke</t>
+            <t decl="2" gen="f" pos="n">dørklokke</t>
          </tg>
       </mg>
    </e>
@@ -560,7 +550,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">seriefotballtabell</t>
+            <t decl="1" gen="m" pos="n">seriefotballtabell</t>
          </tg>
       </mg>
    </e>
