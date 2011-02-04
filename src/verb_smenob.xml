@@ -5519,10 +5519,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">cábadit</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="v">skjære i små biter</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="v">makulere</t>
@@ -7271,6 +7276,16 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">reparere</t>
             <tf pos="phrase">rette på</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="upers" pos="v">golihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">gå fort (om tid)</tf>
          </tg>
       </mg>
    </e>
@@ -14035,7 +14050,37 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
+      <lg>
+         <l context="upers" pos="v">ránodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">lysne av dag</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">vuorddestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">vente litt</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">páhkket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pakke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">gáhkket</l>
       </lg>
@@ -39466,7 +39511,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">gjøre trøtt</tf>
+            <tf pos="phrase">trøtte ut</tf>
          </tg>
       </mg>
    </e>
