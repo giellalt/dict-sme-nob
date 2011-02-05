@@ -30,6 +30,147 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l illpl="ok" pos="n">ámadadju</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">ansikt</t>
+        </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">orrunlatnja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">stue</t>
+        </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">olgoseaidni</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">yttervegg</t>
+        </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">olggoš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">omslag</t>
+             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">trekk</t>
+        </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">jumešbealli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">tvilling</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">goddesáhpán</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">lemen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">borranlustu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">matlyst</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">boradanlatnja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">spiserom</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">banána</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">banan</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">šuhkoláda</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">sjokolade</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">rumašlahttu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kroppsdel</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">lávgungárri</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">badekar</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">láseráigi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">vindu</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">koaffar</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">koffert</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l illpl="ok" pos="n">suovasluossa</l>
       </lg>
       <mg>
@@ -18332,6 +18473,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">vegkant</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">johtolatčuovga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">trafikklys</t>
          </tg>
       </mg>
    </e>
@@ -46833,7 +46984,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">hagl</t>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">snø</t>
          </tg>
       </mg>
    </e>
@@ -48472,6 +48622,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">handlelapp</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">gávppašanlistu</l>
+      </lg>
+      <mg>
+         <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">handleliste</t>
          </tg>
       </mg>
@@ -48723,6 +48883,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l illpl="ok" pos="n">readdju</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">jakke</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">frakk</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l illpl="ok" pos="n">arvereaddju</l>
       </lg>
       <mg>
@@ -48857,7 +49028,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">laksebit</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">laksestykke</t>
          </tg>
       </mg>
    </e>
