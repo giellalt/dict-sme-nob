@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">goabbat</l>
+         <l pg="no" pos="pron" type="indef">goabbat</l>
       </lg>
       <mg>
          <tg>
@@ -57,7 +57,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">guhtet</l>
+         <l pg="no" pos="pron" type="indef">guhtet</l>
       </lg>
       <mg>
          <tg>
@@ -94,7 +94,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">ihkinassii</l>
+         <l pg="no" pos="pron" type="indef">ihkinassii</l>
       </lg>
       <mg>
          <tg>
@@ -313,15 +313,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Almma muittát dan?</x>
                <xt>Du husker det, ikke sant?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="adv">uten</t>
-            <xg>
-               <x>Ja dat oainnat ii sáhte doaibmat almma dakkár meahcceguovllu haga.</x>
-               <xt>Og den kan nemlig ikke fungere uten et slikt utmarksområde.</xt>
             </xg>
          </tg>
       </mg>
@@ -1885,6 +1876,10 @@ For the full license text, see the link above.</lic>
                <x>almmá mu dieđekeahttá</x>
                <xt>uten at jeg vet</xt>
             </xg>
+            <xg>
+               <x>Ja dat oainnat ii sáhte doaibmat almmá dakkár meahcceguovllu haga.</x>
+               <xt>Og den kan nemlig ikke fungere uten et slikt utmarksområde.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2015,7 +2010,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-	<!-- why pron relf in other file when there is a special file for them? -->
+         <!-- why pron relf in other file when there is a special file for them? -->
          <l pos="pron" type="refl">ieš</l>
       </lg>
       <mg>
@@ -2030,7 +2025,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-        <!-- why pron relf in other file when there is a special file for them? -->
+         <!-- why pron relf in other file when there is a special file for them? -->
          <l pos="pron" type="refl">ieža</l>
       </lg>
       <mg>
@@ -2046,7 +2041,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">buot</l>
+         <l pg="no" pos="pron" type="indef">buot</l>
       </lg>
       <mg>
          <tg>
@@ -2056,7 +2051,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">eanas</l>
+         <l pg="no" pos="pron" type="indef">eanas</l>
          <lc>eatnasat</lc>
       </lg>
       <mg>
@@ -2072,7 +2067,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">eatnat</l>
+         <l pg="no" pos="pron" type="indef">eatnat</l>
       </lg>
       <mg>
          <tg>
@@ -2082,7 +2077,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">gallát</l>
+         <l pg="no" pos="pron" type="indef">gallát</l>
       </lg>
       <mg>
          <tg>
@@ -2092,7 +2087,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">gallis</l>
+         <l pg="no" pos="pron" type="indef">gallis</l>
          <lc>gallásat</lc>
       </lg>
       <mg>
@@ -2113,7 +2108,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">juohke</l>
+         <l pg="no" pos="pron" type="indef">juohke</l>
       </lg>
       <mg>
          <tg>
@@ -2123,7 +2118,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">seammá</l>
+         <l pg="no" pos="pron" type="indef">seammá</l>
       </lg>
       <mg>
          <tg>
@@ -2332,7 +2327,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef" pg="no">goappaš</l>
+         <l pg="no" pos="pron" type="indef">goappaš</l>
       </lg>
       <mg>
          <tg>
