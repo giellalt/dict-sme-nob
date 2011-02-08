@@ -752,16 +752,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">eanandoallodepartemeanta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">landbruksdepartement</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="n">militeara</l>
       </lg>
       <mg>
@@ -5851,6 +5841,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">eanadoallodepartemeanta</l>
+		 <lsub>eanandoallodepartemeanta</lsub>
       </lg>
       <mg>
          <tg>
