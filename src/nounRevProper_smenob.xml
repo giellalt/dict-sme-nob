@@ -926,7 +926,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="prop">xxx_correct_me_please_xxx</l>
+         <l pos="prop">Loabát</l>
       </lg>
       <mg>
          <tg>
@@ -935,19 +935,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e usage="vd">
-      <lg>
-         <l pos="prop">Málatvuopmi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="prop" type="plc" reg="Troms">Målselv</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="prop" type="plc">Målselvdalen</t>
-         </tg>
-      </mg>
+     <lg>
+       <l pos="prop">Loabák</l>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="prop" type="plc" reg="Troms">Lavangen</t>
+       </tg>
+     </mg>
+   </e>  
+   <e usage="vd">
+     <lg>
+       <l pos="prop">Málatvuopmi</l>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="prop" type="plc" reg="Troms">Målselv</t>
+       </tg>
+     </mg>
+     <mg>
+       <tg>
+	 <t pos="prop" type="plc">Målselvdalen</t>
+       </tg>
+     </mg>
    </e>
    <e usage="vd">
       <lg>
