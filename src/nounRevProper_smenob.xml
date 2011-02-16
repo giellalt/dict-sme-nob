@@ -28,17 +28,6 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e src="ps,sa" usage="vd">
-      <lg>
-         <l pos="prop">Gárasavvon</l>
-      </lg>
-      <mg>
-         <tg>
-            <tf pos="prop" type="plc" country="Finland">Kaaresuvanto</tf>
-            <tf pos="prop" type="plc">Karesuando</tf>
-         </tg>
-      </mg>
-   </e>
    <e usage="vd">
       <lg>
          <l pos="prop">Sámiráđđi</l>
@@ -559,7 +548,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e src="ps,sa" usage="vd">
       <lg>
          <l pos="prop">Gárasavvon</l>
       </lg>
