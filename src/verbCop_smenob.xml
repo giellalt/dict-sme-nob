@@ -292,6 +292,10 @@ For the full license text, see the link above.</lic>
             <analysis ms="V_Ind_Prt_ConNeg">
                <wordform>lean</wordform>
             </analysis>
+            <analysis ms="V_PrfPrc">
+               <wordform>leamaš</wordform>
+               <wordform>leamašan</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -485,6 +489,38 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Sis ii lean gal jur njulgestaga heahti.</x>
                <xt>De var ikke direkte i nød.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l mod="ind" type="prfprc" pos="v">leamaš</l>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <analysis>V_PrfPrc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vært</t>
+            <xg>
+               <x>Mun leamaš guokte mánu buohccin dieđihuvvon.</x>
+               <xt>Jeg har vært sykemeldt i to måneder.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l mod="ind" type="prfprc" pos="v">leamašan</l>
+         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <analysis>V_PrfPrc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vært</t>
+            <xg>
+               <x>Mun leamašan guokte mánu buohccin dieđihuvvon.</x>
+               <xt>Jeg har vært sykemeldt i to måneder.</xt>
             </xg>
          </tg>
       </mg>
