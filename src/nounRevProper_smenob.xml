@@ -1844,12 +1844,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" country="Finland">Joensuu</t>
+            <t pos="prop" type="plc" reg="Alta">Elvebakken</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Alta">Elvebakken</t>
+            <t pos="prop" type="plc" country="Finland">Joensuu</t>
          </tg>
       </mg>
    </e>
@@ -2169,12 +2169,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase" type="plc" reg="Alta">Lille Bekkarfjorden</tf>
+            <t pos="prop" type="plc" reg="Kvænangen">Reinfjorden</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Kvænangen">Reinfjorden</t>
+            <tf pos="phrase" type="plc" reg="Alta">Lille Bekkarfjorden</tf>
          </tg>
       </mg>
    </e>
@@ -2289,12 +2289,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Loppa">Arnnesbukta</t>
+            <t pos="prop" type="plc" reg="Balsfjord">Balsfjorden</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Balsfjord">Balsfjorden</t>
+            <t pos="prop" type="plc" reg="Loppa">Arnnesbukta</t>
          </tg>
       </mg>
       <mg>
@@ -2524,17 +2524,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t pos="prop" type="plc" reg="Tranøy">Tverrdalen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="prop" type="plc" reg="Nordreisa">Doaresdalen</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="prop" type="plc" reg="Storfjord">Tverrdalen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="prop" type="plc" reg="Tranøy">Tverrdalen</t>
          </tg>
       </mg>
    </e>
@@ -3109,12 +3109,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Alta">Goddevik</t>
+            <t pos="prop" type="plc" reg="Alta">Villreindalen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Alta">Villreindalen</t>
+            <t pos="prop" type="plc" reg="Alta">Goddevik</t>
          </tg>
       </mg>
    </e>
@@ -3154,12 +3154,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Alta">Bjørnelvdalen</t>
+            <t pos="prop" type="plc" reg="Tromsø">Breidalen</t>
          </tg>
       </mg>
-      <mg>
+     <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Tromsø">Breidalen</t>
+            <t pos="prop" type="plc" reg="Alta">Bjørnelvdalen</t>
          </tg>
       </mg>
       <mg>
@@ -3244,12 +3244,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase" type="plc" reg="Storfjord">Berg, indre</tf>
+            <t pos="prop" type="plc" reg="Storfjord">Bergsdalen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Storfjord">Bergsdalen</t>
+            <tf pos="phrase" type="plc" reg="Storfjord">Indre Berg</tf>
          </tg>
       </mg>
    </e>
@@ -3454,12 +3454,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Lyngen">Koppangsdalen</t>
+            <t pos="prop" type="plc" reg="Balsfjord">Russedalen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Balsfjord">Russedalen</t>
+            <t pos="prop" type="plc" reg="Lyngen">Koppangsdalen</t>
          </tg>
       </mg>
       <mg>
@@ -3629,12 +3629,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Tromsø">Fornesdalen</t>
+            <t pos="prop" type="plc" reg="Målselv">Iselvdalen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Målselv">Iselvdalen</t>
+            <t pos="prop" type="plc" reg="Tromsø">Fornesdalen</t>
          </tg>
       </mg>
    </e>
@@ -3749,12 +3749,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Alta">Olderfjorden</t>
+            <t pos="prop" type="plc" reg="Porsanger">Olderfjorden</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Porsanger">Olderfjorden</t>
+            <t pos="prop" type="plc" reg="Alta">Olderfjorden</t>
          </tg>
       </mg>
    </e>
@@ -3939,12 +3939,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Tromsø">Sørfjorden</t>
+            <t pos="prop" type="plc" reg="Tromsø">Ullsfjorden</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Tromsø">Ullsfjorden</t>
+            <t pos="prop" type="plc" reg="Tromsø">Sørfjorden</t>
          </tg>
       </mg>
    </e>
@@ -4149,12 +4149,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Sør-Varanger">Kjøfjorden</t>
+            <t pos="prop" type="plc" reg="Sør-Varanger">Neidenfjorden</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Sør-Varanger">Neidenfjorden</t>
+            <t pos="prop" type="plc" reg="Sør-Varanger">Kjøfjorden</t>
          </tg>
       </mg>
    </e>
@@ -4334,12 +4334,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Tromsø">Kalvebakkdalen</t>
+            <t pos="prop" type="plc" reg="Tromsø">Stordalen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Tromsø">Stordalen</t>
+            <t pos="prop" type="plc" reg="Tromsø">Kalvebakkdalen</t>
          </tg>
       </mg>
    </e>
@@ -4554,12 +4554,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Nordreisa">Reisafjorden</t>
+            <t pos="prop" type="plc">Sørreisa</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc">Sørreisa</t>
+            <t pos="prop" type="plc" reg="Nordreisa">Reisafjorden</t>
          </tg>
       </mg>
    </e>
@@ -5464,12 +5464,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Lyngen">Furuflaten</t>
+            <t pos="prop" type="plc" reg="Lyngen">Lyngsdalen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Lyngen">Lyngsdalen</t>
+            <t pos="prop" type="plc" reg="Lyngen">Furuflaten</t>
          </tg>
       </mg>
    </e>
@@ -5549,17 +5549,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Nordreisa">Oksfjorden</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="prop" type="plc" reg="Loppa">Øksfjord</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="prop" type="plc" reg="Loppa">Øksfjorden</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="prop" type="plc" reg="Nordreisa">Oksfjorden</t>
          </tg>
       </mg>
    </e>
@@ -5589,12 +5589,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Kvænangen">Arisdalen</t>
+            <t pos="prop" type="plc" reg="Kvænangen">Sørstraumdalen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc" reg="Kvænangen">Sørstraumdalen</t>
+            <t pos="prop" type="plc" reg="Kvænangen">Arisdalen</t>
          </tg>
       </mg>
    </e>
@@ -6094,12 +6094,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="prop" type="plc">Troms</t>
+            <t pos="prop" type="plc">Tromsø</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="prop" type="plc">Tromsø</t>
+            <t pos="prop" type="plc">Troms</t>
          </tg>
       </mg>
    </e>
