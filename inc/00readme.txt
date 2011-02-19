@@ -1,6 +1,6 @@
 Incoming files to the smenob dictionary.
 
-Some of these files are entries on their way to a smanob dictionary.
+Some of these files are entries on their way to a smenob dictionary.
 
 
 
@@ -18,8 +18,6 @@ lemma<SPACE>_<SPACE>POS<SPACE>_<SPACE>meaning_1<COMMA>meaning_2<COMMA>meaning_3<
 The resulting csv files should then be converted to xml and fed to 
 our dictionary platforms.
 
-The major challenge in this phase is to reduce the multiple entries of
-the sma lemmas. (@cip: ???)
 
 
 Todolist:
@@ -43,5 +41,4 @@ vi out/test_t2x.csv.xml
 
 
 POS tags:
-v1, ..., v6, and the rest (odd, contract, irregularI) are "v".
 
