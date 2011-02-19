@@ -1,6 +1,11 @@
 Incoming files to the smenob dictionary.
 
-These files are entries on their way to a smanob dictionary.
+Some of these files are entries on their way to a smanob dictionary.
+
+
+
+
+
 
 The files are on the csv (comma separated) format, like this:
 "lemma"<tab>"POS"<tab>"translation"<tab>"...
