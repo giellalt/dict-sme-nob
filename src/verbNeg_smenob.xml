@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+	<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
@@ -241,6 +241,169 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Nieiddat eai boahtán iktege.</x>
                <xt>Jentene kom ikke i går heller.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="mun" pos="v">iige</l>
+         <analysis>IV_Neg_Ind_Sg3_Foc/ge</analysis>
+         <mini_paradigm>
+            <analysis ms="IV_Neg_Ind_Sg1_Foc/ge">
+               <wordform>inge</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Sg2_Foc/ge">
+               <wordform>itge</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Sg3_Foc/ge">
+               <wordform>iige</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Du1_Foc/ge">
+               <wordform>eange</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Du2_Foc/ge">
+               <wordform>eahppige</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Du3_Foc/ge">
+               <wordform>eabage</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Pl1_Foc/ge">
+               <wordform>eatge</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Pl2_Foc/ge">
+               <wordform>ehpetge</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Ind_Pl3_Foc/ge">
+               <wordform>eaige</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <re>3. person entall</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">inge</l>
+         <lemma_ref lemmaID="ii_v_mun_Foc/ge">iige</lemma_ref>
+         <analysis>IV_Neg_Ind_Sg1_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <re>om meg selv</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">itge</l>
+         <lemma_ref lemmaID="ii_v_mun_Foc/ge">iige</lemma_ref>
+         <analysis>IV_Neg_Ind_Sg2_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <re>om deg</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">eange</l>
+         <lemma_ref lemmaID="ii_v_mun_Foc/ge">iige</lemma_ref>
+         <analysis>IV_Neg_Ind_Du1_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <re>om oss to</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">eahppige</l>
+         <lemma_ref lemmaID="ii_v_mun_Foc/ge">iige</lemma_ref>
+         <analysis>IV_Neg_Ind_Du2_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <re>om dere to</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">eabage</l>
+         <lemma_ref lemmaID="ii_v_mun_Foc/ge">iige</lemma_ref>
+         <analysis>IV_Neg_Ind_Du3_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <re>om de to</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">eatge</l>
+         <lemma_ref lemmaID="ii_v_mun_Foc/ge">iige</lemma_ref>
+         <analysis>IV_Neg_Ind_Pl1_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <re>om oss</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">ehpetge</l>
+         <lemma_ref lemmaID="ii_v_mun_Foc/ge">iige</lemma_ref>
+         <analysis>IV_Neg_Ind_Pl2_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <re>om dere</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">eaige</l>
+         <lemma_ref lemmaID="ii_v_mun_Foc/ge">iige</lemma_ref>
+         <analysis>IV_Neg_Ind_Pl3_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <re>om dem</re>
+            <t pos="adv">heller ikke</t>
+            <xg>
             </xg>
          </tg>
       </mg>
