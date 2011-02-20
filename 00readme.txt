@@ -1,6 +1,3 @@
-
-
-
 This directory contains the following
  bin     -- 
  deliv   -- directories containing dictionaries compiled for different OSs
@@ -9,30 +6,39 @@ This directory contains the following
  scripts -- scripts and other resoures to transform data
  src     -- the dictionary files (split modulo POS)
 
-   <e>
-      <lg>
-         <l pos="n">bahálaš</l>
-         <lc>-laččat</lc>
-         <lc>-lažžii</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="m">den onde</t>
-         </tg>
-      </mg>
-   </e>
 
-   <e usage="ped">
-      <lg>
-         <l pos="v">rávvestit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gi råd</t>
-            <t pos="v">råde</t>
-         </tg>
-      </mg>
-   </e>
+1) PrfPrc av copula mangla!! Den har jeg lagt til i det statiske paradigmet, under Prt paradigmet. Er det en ok plass?
 
+2) iige, inge osv er frekvente. Jeg har nå laget et Neg Foc/ge paradigme med entryer. Her må det legges til eksempler - kanskje en oppgave for Berit M?
+
+3) verb Der/n og Der/eapmi mangler Ess. Jeg har lagt til i verb-codes. Vi har bare med Sg, jeg tror at Pl også burde vært lagt til?
+
+4) "irreal" som presentasjonstag i dict for potensialis er ikke så høvelig -> "pot" er bedre
+
+5)  "ess" som presentasjonstag i dict for actio essiv er ikke så høvelig -> "aktio ess" er bedre
+
+6) Mange prop har flere meaninggroup, og det er den første som brukes som oversettelse i miniparadigmet. Det gjør at jeg bør gå gjennom denne fila og endre på rekkefølgen på noen av dem da det mest frekvente bør være med i oversettelsen. Eksempler på dette er Báhccavuotna, Romsa
+
+7) passiv:
+- Presentasjonstag mangler - det må komme fram at det er passivform av lemmaet 
+- jeg ser nå at det er fare for overgenerering. Kan vi stoppe den i genereringa (f.eks. merke de verbene som skal ha passiv i leksikonet, eller ville vi få et bra resultat ved å generere passive former bare av transitive verb?)? Eksempel på overgenering er "divvojuvvon" som peker på to verb: divvut (ok) og dievvat (ikke ok)
+
+
+8) ved å sjekke mot Ávvir, så blir man voldsomt inspirert til å legge til nye lemmaer/former :-)
+I tillegg til det som er nevnt under punkt 1-3, er det her eksempler på lemmaer som bør legges til:
+- geardde, reastaluvvat, álbmotrávdnji, veahkaváldin, suorggahahtti, eastadanbargu, bealis Po
+
+9) adjektiver: i miniparadigmet skal være med et substantiv (context) for attributtformen, f.eks. fiskes (bivttas).
+Substantiveet er ikke med i denne versjonen.
+
+10) numeraler: også her mangler subtantivet, f.eks. guovttit (gápmagat) guvttiid (gápmagiid)
+
+11) vuovdi vs vuovdi Actor
+Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke er Actor. Dette gjelder ogs dikšu, lohkki osv
+
+
+Et lite mysterium.... 
+
+Jeg ble overraska over at dicten kan skanne ordet VEAHKAVÁLDIN skrevet med store bokstaver som to ord. Det er jo ikke ofte at ord er skrevet med store bokstaver, så det gir begrensa effekt for brukeren. Men jeg skjønner ikke hvorfor MacDict ikke da kan skanne SKUVLAVUODJIN som to ord?  Ingen stor sak, men et lite mysterium...
 
 
