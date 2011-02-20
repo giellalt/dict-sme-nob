@@ -6,6 +6,25 @@ This directory contains the following
  scripts -- scripts and other resoures to transform data
  src     -- the dictionary files (split modulo POS)
 
+-------
+
+How to check whether words are in the dict:
+
+write:
+
+make -f make-smedict
+
+(if the computer complains, ask Ciprian or Börre for help).
+
+in order to check whether a list of words list.txt is in smenob-dict, do this:
+
+cat list.txt | lookup bin/smedict.fst | grep '?'
+
+All words marked with ? are missing in the smenob dictionary.
+
+
+--------------
+Lenes notater:
 
 1) PrfPrc av copula mangla!! Den har jeg lagt til i det statiske paradigmet, under Prt paradigmet. Er det en ok plass?
 
