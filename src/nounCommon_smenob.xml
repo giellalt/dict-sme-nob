@@ -273,6 +273,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">politihkkár</l>
+
+      <lsub pos="n">politihkár</lsub>
     </lg>
 
     <mg>
@@ -411,6 +413,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">direktevra</l>
+
+      <lsub pos="???">direktora</lsub>
     </lg>
 
     <mg>
@@ -1050,6 +1054,10 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">leansmánnekantuvra</l>
+
+      <lsub pos="n">leansmánnikántuvra</lsub>
+
+      <lsub pos="n">leansmánnikantuvra</lsub>
 
       <lsub>leansmánnekántuvra</lsub>
     </lg>
@@ -2068,21 +2076,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg>
         <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">mandat</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">leansmánnikantuvra</l>
-
-      <lsub>leansmánnikántuvra</lsub>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n"
-        tcomm="no">lensmannskontor</t>
       </tg>
     </mg>
   </e>
@@ -4237,7 +4230,9 @@ For the full license text, see the link above.</lic>
 
   <e usage="vd">
     <lg>
-      <l illpl="ok" pos="n">gielddaministtar</l>
+      <l illpl="ok" pos="n">gieldaministtar</l>
+
+      <lsub pos="???">gielddaministtar</lsub>
     </lg>
 
     <mg>
@@ -4251,6 +4246,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">gieldadepartemeanta</l>
+
+      <lsub pos="???">gielddadepartemeanta</lsub>
     </lg>
 
     <mg>
@@ -8094,12 +8091,18 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">riikkasearvi</l>
+
+      <lsub pos="n">riikasearvi</lsub>
     </lg>
 
     <mg>
       <tg>
+        <t pos="n">landsforening</t>
+
         <t decl="1" dict="yes" gen="n" oa="yes" pos="n"
         tcomm="no">riksforbund</t>
+
+        <t decl="1" gen="n" pos="n">landsforbund</t>
       </tg>
     </mg>
   </e>
@@ -8145,6 +8148,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">sámediggepresideanta</l>
+
+      <lsub pos="n">sámedikkepresideanta</lsub>
     </lg>
 
     <mg>
@@ -8158,6 +8163,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">oađđinlatnja</l>
+
+      <lsub pos="n">oađđenlatnja</lsub>
     </lg>
 
     <mg>
@@ -15798,6 +15805,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">buohccedivššár</l>
+
+      <lsub pos="n">buohccidivššár</lsub>
     </lg>
 
     <mg>
@@ -15811,6 +15820,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">buohcceviessu</l>
+
+      <lsub pos="n">buohcciviessu</lsub>
     </lg>
 
     <mg>
@@ -17279,6 +17290,8 @@ For the full license text, see the link above.</lic>
   <e src="nj" usage="vd">
     <lg>
       <l pos="n">cuoŋománnu</l>
+
+      <lsub pos="???">cuoŋumánnu</lsub>
     </lg>
 
     <mg>
@@ -17807,6 +17820,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">departemeanta</l>
+
+      <lsub pos="n">departementa</lsub>
     </lg>
 
     <mg>
@@ -22030,6 +22045,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">festivála</l>
+
+      <lsub pos="n">feastivála</lsub>
     </lg>
 
     <mg>
@@ -22647,6 +22664,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">fylkkagielda</l>
+
+      <lsub pos="n">fylkagielda</lsub>
     </lg>
 
     <mg>
@@ -22660,6 +22679,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">fylkkamánni</l>
+
+      <lsub pos="n">fylkamánni</lsub>
     </lg>
 
     <mg>
@@ -27593,6 +27614,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">miellahttu</l>
+
+      <lsub pos="???">mielláhttu</lsub>
     </lg>
 
     <mg>
@@ -32521,6 +32544,8 @@ For the full license text, see the link above.</lic>
     <lg>
       <l illpl="ok" pos="n">hálddahus</l>
 
+      <lsub pos="???">hálddáhus</lsub>
+
       <lc>-hussii</lc>
     </lg>
 
@@ -36396,6 +36421,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">konferánsa</l>
+
+      <lsub pos="n">konfereansa</lsub>
     </lg>
 
     <mg>
@@ -40773,6 +40800,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">minuhtta</l>
+
+      <lsub pos="n">minukta</lsub>
     </lg>
 
     <mg>
@@ -44854,18 +44883,6 @@ For the full license text, see the link above.</lic>
 
   <e usage="vd">
     <lg>
-      <l illpl="ok" pos="n">oađđenlatnja</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">soverom</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
       <l illpl="ok" pos="n">oađđinseahkka</l>
     </lg>
 
@@ -45586,6 +45603,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l pos="n">ođđajagemánnu</l>
+
+      <lsub pos="n">ođđajagimánnu</lsub>
     </lg>
 
     <mg>
@@ -46217,6 +46236,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">resursa</l>
+
+      <lsub pos="n">ressursa</lsub>
     </lg>
 
     <mg>
@@ -46610,12 +46631,28 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">riikkarádji</l>
+
+      <lsub pos="???">riikarádji</lsub>
     </lg>
 
     <mg>
       <tg>
         <t decl="1" dict="yes" gen="f" oa="yes" pos="n"
         tcomm="no">riksgrense</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e usage="vd">
+    <lg>
+      <l pos="n">riikkajoavku</l>
+
+      <lsub pos="???">riikajoavku</lsub>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="n">landslag</t>
       </tg>
     </mg>
   </e>
@@ -49735,6 +49772,8 @@ For the full license text, see the link above.</lic>
   <e src="nj" usage="vd">
     <lg>
       <l illpl="ok" pos="n">siseana</l>
+
+      <lsub pos="n">siseanan</lsub>
     </lg>
 
     <mg>
@@ -54328,6 +54367,10 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">vahkkoloahppa</l>
+
+      <lsub pos="???">vahkuloahppa</lsub>
+
+      <lsub pos="???">vahkoloahppa</lsub>
     </lg>
 
     <mg>
