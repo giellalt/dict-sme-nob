@@ -8097,12 +8097,23 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-        <t pos="n">landsforening</t>
+        <t decl="1" dict="no" gen="n" pos="n">landsforbund</t>
 
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n"
-        tcomm="no">riksforbund</t>
+        <xg>
+          <x>Norgga Sámiid Riikkasearvi lea riikkasearvi.</x>
 
-        <t decl="1" gen="n" pos="n">landsforbund</t>
+          <xt>Norske Samers Riksforbund er et landsforbund.</xt>
+        </xg>
+      </tg>
+
+      <tg>
+        <t pos="">landsforening</t>
+
+        <xg>
+          <x>Riikkasearvvis leat miellahtut olles riikkas.</x>
+
+          <xt>Landsforeninga har medlemmer i hele landet.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -10864,6 +10875,18 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
+  <e>
+    <lg>
+      <l pos="n">bargobáiki</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="x">arbeidssted</t>
+      </tg>
+    </mg>
+  </e>
+
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">bargosadji</l>
@@ -10872,7 +10895,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg>
         <t decl="1" dict="yes" gen="n" oa="yes" pos="n"
-        tcomm="no">arbeidssted</t>
+        tcomm="no">arbeidsplass</t>
       </tg>
     </mg>
   </e>
