@@ -55,6 +55,9 @@ Substantiveet er ikke med i denne versjonen.
 11) vuovdi vs vuovdi Actor
 Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke er Actor. Dette gjelder ogs dikšu, lohkki osv
 
+12) Informasjon om geografisk område (reg) mangler på stedsnavn.
+
+
 
 Et lite mysterium.... 
 
