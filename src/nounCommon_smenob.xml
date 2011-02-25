@@ -376,6 +376,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">sámediggeáirras</l>
+
+      <lsub pos="n">sámedikkeáirras</lsub>
     </lg>
 
     <mg>
@@ -491,6 +493,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">politihkar</l>
+
+      <lsub pos="???">politihkár</lsub>
     </lg>
 
     <mg>
@@ -1055,11 +1059,11 @@ For the full license text, see the link above.</lic>
     <lg>
       <l illpl="ok" pos="n">leansmánnekantuvra</l>
 
-      <lsub pos="n">leansmánnikántuvra</lsub>
+      <lsub pos="n">leansmánnekántuvra</lsub>
 
-      <lsub pos="n">leansmánnikantuvra</lsub>
+      <lsub pos="n"></lsub>
 
-      <lsub>leansmánnekántuvra</lsub>
+      <lsub></lsub>
     </lg>
 
     <mg>
@@ -3431,7 +3435,11 @@ For the full license text, see the link above.</lic>
 
   <e usage="vd">
     <lg>
-      <l illpl="ok" pos="n">guovludepartemeanta</l>
+      <l illpl="ok" pos="n">guovlodepartemeanta</l>
+
+      <lsub pos="???">guovludepartemeanta</lsub>
+
+      <lsub pos="???">guovlludepartemeanta</lsub>
     </lg>
 
     <mg>
@@ -8097,22 +8105,24 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-        <t decl="1" dict="no" gen="n" pos="n">landsforbund</t>
-
-        <xg>
-          <x>Norgga Sámiid Riikkasearvi lea riikkasearvi.</x>
-
-          <xt>Norske Samers Riksforbund er et landsforbund.</xt>
-        </xg>
-      </tg>
-
-      <tg>
         <t pos="">landsforening</t>
 
         <xg>
           <x>Riikkasearvvis leat miellahtut olles riikkas.</x>
 
           <xt>Landsforeninga har medlemmer i hele landet.</xt>
+        </xg>
+
+        <xg>
+          <x>Norgga Sámiid Riikkasearvi</x>
+
+          <xt>Norske Samers Riksforbund</xt>
+        </xg>
+
+        <xg>
+          <x>Norgga Boazosápmelaččaid Riikkasearvi</x>
+
+          <xt>Norske Reindriftssamers Landsforbund</xt>
         </xg>
       </tg>
     </mg>
@@ -40810,6 +40820,8 @@ For the full license text, see the link above.</lic>
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">ministtar</l>
+
+      <lsub pos="???">ministar</lsub>
     </lg>
 
     <mg>
