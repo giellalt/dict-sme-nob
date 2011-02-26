@@ -33,9 +33,9 @@ Lenes notater:
 3) verb Der/n og Der/eapmi mangler Ess. Jeg har lagt til i verb-codes. Vi har bare med Sg, jeg tror at Pl også burde vært lagt til?
 
 4) "irreal" som presentasjonstag i dict for potensialis er ikke så høvelig -> "pot" er bedre
-
+   ==> done
 5)  "ess" som presentasjonstag i dict for actio essiv er ikke så høvelig -> "aktio ess" er bedre
-
+   ==> done
 6) Mange prop har flere meaninggroup, og det er den første som brukes som oversettelse i miniparadigmet. Det gjør at jeg bør gå gjennom denne fila og endre på rekkefølgen på noen av dem da det mest frekvente bør være med i oversettelsen. Eksempler på dette er Báhccavuotna, Romsa
 
 7) passiv:
@@ -49,15 +49,15 @@ I tillegg til det som er nevnt under punkt 1-3, er det her eksempler på lemmaer
 
 9) adjektiver: i miniparadigmet skal være med et substantiv (context) for attributtformen, f.eks. fiskes (bivttas).
 Substantiveet er ikke med i denne versjonen.
-
+   ==> done
 10) numeraler: også her mangler subtantivet, f.eks. guovttit (gápmagat) guvttiid (gápmagiid)
-
+   ==> done
 11) vuovdi vs vuovdi Actor
 Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke er Actor. Dette gjelder ogs dikšu, lohkki osv
 
 12) Informasjon om geografisk område (reg) mangler på stedsnavn.
 
-
+13) as reported by Lene, kantuvra-like sub-forms do not show up in the compiled dict
 
 Et lite mysterium.... 
 
