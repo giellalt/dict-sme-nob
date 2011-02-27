@@ -56,7 +56,7 @@ Substantiveet er ikke med i denne versjonen.
 Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke er Actor. Dette gjelder ogs dikšu, lohkki osv
 
 12) Informasjon om geografisk område (reg) mangler på stedsnavn.
-
+   ==> done
 13) as reported by Lene, kantuvra-like sub-forms do not show up in the compiled dict
 
 Et lite mysterium.... 
