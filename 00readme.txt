@@ -59,6 +59,8 @@ Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke e
    ==> done
 13) as reported by Lene, kantuvra-like sub-forms do not show up in the compiled dict
 
+14) go-spørrepartikel til noe ordformer
+
 Et lite mysterium.... 
 
 Jeg ble overraska over at dicten kan skanne ordet VEAHKAVÁLDIN skrevet med store bokstaver som to ord. Det er jo ikke ofte at ord er skrevet med store bokstaver, så det gir begrensa effekt for brukeren. Men jeg skjønner ikke hvorfor MacDict ikke da kan skanne SKUVLAVUODJIN som to ord?  Ingen stor sak, men et lite mysterium...
