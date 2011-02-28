@@ -41,8 +41,7 @@ Lenes notater:
 7) passiv:
 - Presentasjonstag mangler - det må komme fram at det er passivform av lemmaet 
 - jeg ser nå at det er fare for overgenerering. Kan vi stoppe den i genereringa (f.eks. merke de verbene som skal ha passiv i leksikonet, eller ville vi få et bra resultat ved å generere passive former bare av transitive verb?)? Eksempel på overgenering er "divvojuvvon" som peker på to verb: divvut (ok) og dievvat (ikke ok)
-
-
+   ==> done
 8) ved å sjekke mot Ávvir, så blir man voldsomt inspirert til å legge til nye lemmaer/former :-)
 I tillegg til det som er nevnt under punkt 1-3, er det her eksempler på lemmaer som bør legges til:
 - geardde, reastaluvvat, álbmotrávdnji, veahkaváldin, suorggahahtti, eastadanbargu, bealis Po
