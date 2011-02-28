@@ -966,19 +966,6 @@ For the full license text, see the link above.</lic>
 
   <e usage="vd">
     <lg>
-      <l illpl="ok" pos="n">meassut</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n"
-        tcomm="no">festlighet</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
       <l illpl="ok" pos="n">ruvkedoaibma</l>
     </lg>
 
@@ -8654,17 +8641,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">adreassa</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">adresse</t>
-      </tg>
-    </mg>
-  </e>
 
   <e usage="vd">
     <lg>
@@ -8933,18 +8909,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">allameassu</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n"
-        tcomm="no">høymesse</t>
-      </tg>
-    </mg>
-  </e>
 
   <e usage="vd">
     <lg>
@@ -16128,40 +16092,6 @@ For the full license text, see the link above.</lic>
 
   <e src="nj" usage="vd">
     <lg>
-      <l illpl="ok" pos="n">busse</l>
-
-      <lc>busset</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">buss</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">pose</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">bussá</l>
-
-      <lc>bussát</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">katt</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
       <l illpl="ok" pos="n">bustu</l>
 
       <lc>busttut</lc>
@@ -17149,22 +17079,6 @@ For the full license text, see the link above.</lic>
         <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">skjede</t>
 
         <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">vagina</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="n">cissa</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">urin</t>
-
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">tiss</t>
-
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">piss</t>
       </tg>
     </mg>
   </e>
@@ -25847,18 +25761,6 @@ For the full license text, see the link above.</lic>
 
   <e usage="vd">
     <lg>
-      <l illpl="ok" pos="n">girjebusse</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">bokbuss</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
       <l illpl="ok" pos="n">girjegávpi</l>
     </lg>
 
@@ -28999,21 +28901,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">guossi</l>
-
-      <lc>guossit</lc>
-
-      <lc>gussiid</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">gjest</t>
-      </tg>
-    </mg>
-  </e>
 
   <e usage="vd">
     <lg>
@@ -30913,25 +30800,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="n">gássi</l>
-
-      <lc>gássi</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">råmelk</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kjelost</t>
-      </tg>
-    </mg>
-  </e>
 
   <e src="nj" usage="vd">
     <lg>
@@ -36852,20 +36720,6 @@ For the full license text, see the link above.</lic>
 
   <e src="nj" usage="vd">
     <lg>
-      <l illpl="ok" pos="n">kássa</l>
-
-      <lc>kássat</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kasse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
       <l pos="n">ladju</l>
 
       <lc>lajut</lc>
@@ -40783,18 +40637,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg>
         <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">mil</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">millu</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">mølle</t>
       </tg>
     </mg>
   </e>
@@ -46798,22 +46640,6 @@ For the full license text, see the link above.</lic>
 
   <e src="nj" usage="vd">
     <lg>
-      <l illpl="ok" pos="n">rissi</l>
-
-      <lc>rissit</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">ris</t>
-
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kvist</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
       <l illpl="ok" pos="n">rista</l>
 
       <lc>risttat</lc>
@@ -47632,29 +47458,6 @@ For the full license text, see the link above.</lic>
       <tg>
         <t decl="1" dict="yes" gen="m" oa="yes" pos="n"
         tcomm="no">grønnsak</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">ruossa</l>
-
-      <lc>ruossat</lc>
-
-      <lc>russii</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">kors</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n"
-        tcomm="no">felgkryss</t>
       </tg>
     </mg>
   </e>
@@ -54556,19 +54359,6 @@ For the full license text, see the link above.</lic>
         <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">sport</t>
 
         <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">idrett</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">valáštallanhálla</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n"
-        tcomm="no">idrettshall</t>
       </tg>
     </mg>
   </e>
@@ -63515,19 +63305,6 @@ For the full license text, see the link above.</lic>
 
   <e usage="vd">
     <lg>
-      <l illpl="ok" pos="n">gálvobusse</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n"
-        tcomm="no">bærepose</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
       <l illpl="ok" pos="n">čottanjálggis</l>
     </lg>
 
@@ -65569,19 +65346,6 @@ For the full license text, see the link above.</lic>
       <tg>
         <t decl="1" dict="yes" gen="m" oa="yes" pos="n"
         tcomm="no">rattkjelke</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="n">guorbmebiilavuoddji</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n"
-        tcomm="no">lastebilsjåfør</t>
       </tg>
     </mg>
   </e>
