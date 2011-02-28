@@ -65,4 +65,8 @@ Et lite mysterium....
 
 Jeg ble overraska over at dicten kan skanne ordet VEAHKAVÁLDIN skrevet med store bokstaver som to ord. Det er jo ikke ofte at ord er skrevet med store bokstaver, så det gir begrensa effekt for brukeren. Men jeg skjønner ikke hvorfor MacDict ikke da kan skanne SKUVLAVUODJIN som to ord?  Ingen stor sak, men et lite mysterium...
 
+Wow, this is quite a lot! Why, folk, why?
+no_paradigm_generation>wc -l missing_paradigm_n.txt 
+      16 missing_paradigm_n.txt
+
 
