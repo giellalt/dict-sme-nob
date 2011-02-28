@@ -54,11 +54,12 @@ Substantiveet er ikke med i denne versjonen.
 11) vuovdi vs vuovdi Actor
 Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke er Actor. Dette gjelder ogs dikšu, lohkki osv
    ==> tested: obviously an fst issue which now has beed corrected by Trond and Lene (Takk!)
+   ==> done
 12) Informasjon om geografisk område (reg) mangler på stedsnavn.
    ==> done
 13) as reported by Lene, kantuvra-like sub-forms do not show up in the compiled dict
-
-14) go-spørrepartikel til noe ordformer
+   ==> done
+14) go-spørrepartikel til noe ordformer: Ind, Cond og Pot
 
 Et lite mysterium.... 
 
