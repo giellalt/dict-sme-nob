@@ -659,7 +659,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">dan</l>
-         <lemma_ref lemmaID="dat_pron_pers_sg">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Gen</analysis>
          <analysis>Pron_Pers_Sg3_Acc</analysis>
       </lg>
@@ -680,7 +680,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">dasa</l>
-         <lemma_ref lemmaID="dat_pron_pers_sg">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ill</analysis>
       </lg>
       <mg>
@@ -697,7 +697,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">das</l>
-         <lemma_ref lemmaID="dat_pron_pers_sg">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Loc</analysis>
       </lg>
       <mg>
@@ -714,7 +714,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">dainna</l>
-         <lemma_ref lemmaID="dat_pron_pers_sg">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Com</analysis>
       </lg>
       <mg>
@@ -731,7 +731,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">danin</l>
-         <lemma_ref lemmaID="dat_pron_pers_sg">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Ess</analysis>
       </lg>
       <mg>
@@ -1133,7 +1133,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">daid</l>
-         <lemma_ref lemmaID="dat_pron_pers_pl">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Pl3_Gen</analysis>
          <analysis>Pron_Pers_Pl3_Acc</analysis>
       </lg>
@@ -1153,7 +1153,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">daidda</l>
-         <lemma_ref lemmaID="dat_pron_pers_pl">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ill</analysis>
       </lg>
       <mg>
@@ -1169,7 +1169,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">dain</l>
-         <lemma_ref lemmaID="dat_pron_pers_pl">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Pl3_Loc</analysis>
       </lg>
       <mg>
@@ -1186,7 +1186,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="pron" type="pers">daiguin</l>
-         <lemma_ref lemmaID="dat_pron_pers_pl">dat</lemma_ref>
+         <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Pl3_Com</analysis>
       </lg>
       <mg>
