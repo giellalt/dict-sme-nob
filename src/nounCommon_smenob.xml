@@ -4,8 +4,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,11 +13,13 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+
+    <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+
+    <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -8639,7 +8641,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">adreassalihppu</l>
@@ -8906,7 +8907,6 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-
 
   <e usage="vd">
     <lg>
@@ -9306,7 +9306,6 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-
         <t decl="1" dict="yes" gen="n" nr="pl" oa="yes" pos="n"
         tcomm="no">regnklær</t>
       </tg>
@@ -15109,7 +15108,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg>
         <te dict="yes" oa="yes">den innerste plassen i telt eller gamme</te>
-
       </tg>
     </mg>
   </e>
@@ -18130,12 +18128,26 @@ For the full license text, see the link above.</lic>
     <lg>
       <l illpl="ok" pos="n">diibmu</l>
 
+      <lsub pos="???">diibmo</lsub>
+
       <lc>diimmut</lc>
     </lg>
 
     <mg>
       <tg>
         <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">time</t>
+
+        <xg>
+          <x>Elle álgá skuvlii diimmu ovdal go earát.</x>
+
+          <xt>Elle begynner på skolen en time tidligere enn andre.</xt>
+        </xg>
+
+        <xg>
+          <x>Čájálmas bistá sullii guokte diimmu. </x>
+
+          <xt>Forestillingen varer i omtrent to timer.</xt>
+        </xg>
       </tg>
     </mg>
 
@@ -18144,6 +18156,12 @@ For the full license text, see the link above.</lic>
         <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">ur</t>
 
         <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">klokke</t>
+
+        <xg>
+          <x>Son lei oastán ođđa diimmu.</x>
+
+          <xt>Hun hadde kjøpt en ny klokke.</xt>
+        </xg>
 
         <xg>
           <x>Ollu lea diibmu?</x>
@@ -18691,7 +18709,6 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-
         <t decl="2" dict="yes" gen="n" oa="yes" pos="n"
         tcomm="no">tilskuddsstyre</t>
       </tg>
@@ -28894,7 +28911,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-
   <e usage="vd">
     <lg>
       <l illpl="ok" pos="n">guossoheapmi</l>
@@ -30793,7 +30809,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-
   <e src="nj" usage="vd">
     <lg>
       <l illpl="ok" pos="n">gásta</l>
@@ -30860,7 +30875,6 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-
         <t decl="1" dict="yes" gen="n" nr="pl" oa="yes" pos="n"
         tcomm="no">sengetøy</t>
       </tg>
@@ -32716,7 +32730,6 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-
         <t decl="1" dict="yes" gen="n" nr="pl" oa="yes" pos="n"
         tcomm="no">treningsklær</t>
       </tg>
@@ -33633,7 +33646,6 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-
         <tf dict="yes" nr="pl" oa="yes" pos="phrase">kulørte klær</tf>
       </tg>
     </mg>
@@ -55482,7 +55494,6 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-
         <t decl="1" dict="yes" gen="n" oa="yes" pos="n"
         tcomm="no">rettighetsutvalg</t>
       </tg>
@@ -56534,9 +56545,21 @@ For the full license text, see the link above.</lic>
         tcomm="no">underskudd</t>
 
         <xg>
-          <x>Diibmu lea vihtta váili golbma.</x>
+          <x>Soahtejagiid lei borramušváili.</x>
 
-          <xt>Klokka er fem på tre.</xt>
+          <xt>I krigsårene var det matmangel.</xt>
+        </xg>
+
+        <xg>
+          <x>Fitnodagas lea ruhtaváili.</x>
+
+          <xt>Bedriften mangler kapital.</xt>
+        </xg>
+
+        <xg>
+          <x>Nuorat buolvva váili čuozai jođánit čalbmái.</x>
+
+          <xt>Fraværet av ungdom var iøynefallende.</xt>
         </xg>
       </tg>
     </mg>
