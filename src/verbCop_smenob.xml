@@ -67,6 +67,9 @@ For the full license text, see the link above.</lic>
             <analysis ms="V_Ind_Prs_ConNeg">
                <wordform>leat</wordform>
             </analysis>
+            <analysis ms="V_Actio">
+               <wordform>leahkin</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -235,6 +238,22 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Ii ge leat duohta.</x>
                <xt>Det er ikke sant heller.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="actio" pos="v">leahkin</l>
+         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
+         <analysis>V_Actio</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+            <xg>
+               <x>Dál leat eamiálbmogiin ođđa hástalusat ja sin leahkin lea áitojuvvon.</x>
+               <xt>Nå har urfolk nye utfordringer og deres eksistens er truet.</xt>
             </xg>
          </tg>
       </mg>
