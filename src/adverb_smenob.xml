@@ -77,7 +77,7 @@ For the full license text, see the link above.</lic>
         <t pos="">manglende</t>
 
         <xg>
-          <x>Okta boazu lea váile. </x>
+          <x>Okta boazu lea váile.</x>
 
           <xt>En rein mangler.</xt>
         </xg>
@@ -795,9 +795,9 @@ For the full license text, see the link above.</lic>
         <t pos="adv">ennå</t>
 
         <xg>
-          <x>ain buoret</x>
+          <x>Mii áigut fállat ain buoret aviissa didjiide.</x>
 
-          <xt>enda bedre</xt>
+          <xt>Vi skal tilby en enda bedre avis til dere.</xt>
         </xg>
 
         <xg>
@@ -5076,6 +5076,30 @@ For the full license text, see the link above.</lic>
 
   <e src="nj" usage="vd">
     <lg>
+      <l pos="adv">mađi</l>
+    </lg>
+
+    <mg>
+      <tg>
+        <t pos="adv">likeså</t>
+
+        <xg>
+          <x>Sus leat dan mađi ahte birge.</x>
+
+          <xt>Hun hadde så pass at hun klarte seg.</xt>
+        </xg>
+
+        <xg>
+          <x>Mađi stuorit, dađi buoret.</x>
+
+          <xt>Jo større, desto bedre.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e src="nj" usage="vd">
+    <lg>
       <l pos="adv">mihá</l>
     </lg>
 
@@ -5086,9 +5110,9 @@ For the full license text, see the link above.</lic>
         <t pos="adv">så</t>
 
         <xg>
-          <x>mihá buoret</x>
+          <x>Lea mihá buoret leat siste lieggasis go olgun goallut.</x>
 
-          <xt>mye bedre</xt>
+          <xt>Det er mye bedre å være inne i varmen enn å fryse utenfor.</xt>
         </xg>
 
         <xg>
@@ -5368,7 +5392,7 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e usage="vd">
+  <e src="nj" usage="vd">
     <lg>
       <l pos="adv">dađi</l>
     </lg>
@@ -5376,6 +5400,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg>
         <t pos="adv">desto</t>
+
+        <xg>
+          <x>Mađi stuorát, dađi buoret.</x>
+
+          <xt>Jo større, desto bedre.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -6674,7 +6704,19 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg>
-        <t pos="adv">bedre</t>
+        <t pos="adv">heller, snarere</t>
+
+        <xg>
+          <x>Jus buoret livččet borramuša oastán, njálgáid sadjái!</x>
+
+          <xt>Om du heller hadde kjøpt mat, istedenfor godteri!</xt>
+        </xg>
+
+        <xg>
+          <x>Mun in gille viesu čorget, mun gal buoret manan TV geahččat.</x>
+
+          <xt>Jeg orker ikke å rydde huset, jeg skal heller se på TV.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
