@@ -463,6 +463,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">meg</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">min</t>
             <t pos="pron">mine</t>
@@ -532,6 +534,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">deg</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">din</t>
             <t pos="pron">dine</t>
@@ -598,6 +602,8 @@ For the full license text, see the link above.</lic>
             <t pos="pron">han</t>
             <t pos="pron">henne</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">hans</t>
             <t pos="pron">hennes</t>
@@ -746,12 +752,14 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">munno</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Gen</analysis>
-         <analysis>Pron_Pers_Du1_</analysis>
+         <analysis>Pron_Pers_Du1_Acc</analysis>
       </lg>
       <mg>
          <tg>
             <tf pos="phrase">oss to</tf>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <re>om to personer</re>
             <t pos="pron">vår</t>
@@ -818,6 +826,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">dere to</tf>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <re>om to personer</re>
             <t pos="pron">deres</t>
@@ -883,6 +893,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">de to</tf>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <re>om to personer</re>
             <t pos="pron">deres</t>
@@ -948,6 +960,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">oss</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">vår</t>
             <t pos="pron">våre</t>
@@ -1013,6 +1027,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">dere</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">deres</t>
          </tg>
@@ -1077,6 +1093,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">dem</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">deres</t>
          </tg>
@@ -1145,6 +1163,8 @@ For the full license text, see the link above.</lic>
                <xt>De burde la reindriftsamene slakte dem.</xt>
             </xg>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">deres</t>
          </tg>
