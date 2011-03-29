@@ -49,7 +49,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">det</t>
             <t pos="pron">den</t>
             <xg>
                <x>Oahpaheaddjis gal ii leat dat áigumuš.</x>
@@ -121,7 +120,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">det</t>
             <t pos="pron">den</t>
             <te>nærmere meg enn deg</te>
             <xg>
@@ -130,7 +128,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg>
-            <t pos="pron">det</t>
             <t pos="pron">den</t>
             <te>som nettopp ble nevnt</te>
             <xg>
@@ -620,7 +617,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">den</t>
-            <t pos="pron">det</t>
             <xg>
                <x>Liikká orru mannamin dan guvlui.</x>
                <xt>Det virker likevel å gå i den retningen.</xt>
@@ -669,7 +665,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">dette</t>
+            <t pos="pron">denne</t>
             <xg>
                <x>Dovddat go dán bártni?</x>
                <xt>Kjenner du denne gutten?</xt>
@@ -1023,6 +1019,8 @@ For the full license text, see the link above.</lic>
                <xt>Og du synes det er tungt å gjøre de oppgavene som du du vanligvis gjør.</xt>
             </xg>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">deres</t>
          </tg>
@@ -1092,6 +1090,8 @@ For the full license text, see the link above.</lic>
                <xt>Mor har aldri før nevnt disse tankene til oss.</xt>
             </xg>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="pron">disses</t>
          </tg>
@@ -1238,6 +1238,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">de der borte</tf>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <tf pos="phrase">de der borte sine</tf>
             <xg>
@@ -1299,6 +1301,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">de lengst borte</tf>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <tf pos="phrase">de lengst borte sine</tf>
          </tg>
@@ -1519,10 +1523,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">en slik en</tf>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
          </tg>
       </mg>
    </e>

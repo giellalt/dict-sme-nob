@@ -35,6 +35,7 @@ For the full license text, see the link above.</lic>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
                <wordform>maid</wordform>
+               <wordform>man</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Gen">
                <wordform>man</wordform>
@@ -395,6 +396,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="rel">man</l>
          <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
+         <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg>
@@ -406,6 +408,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Buoskavári guoras lea várri man namma lea Ráhpesvárri.</x>
                <xt>Ved siden av Buoskavárri er det et fjell som heter Ráhpesvárri.</xt>
+            </xg>
+            <xg>
+               <x>Vižžen mutuvrra, man Niillas lei divvon.</x>
+               <xt>Jeg hentet den motoren som Niillas hadde reparert.</xt>
             </xg>
          </tg>
       </mg>
