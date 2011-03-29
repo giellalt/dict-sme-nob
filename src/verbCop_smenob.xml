@@ -30,8 +30,8 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l pos="v" mod="ind">lean</l>
-         <analysis>V_Ind_Prs_Sg1</analysis>
+         <l pos="v">lea</l>
+         <analysis>V_Ind_Prs_Sg3</analysis>
          <mini_paradigm>
             <analysis ms="V_Inf">
                <wordform>leat</wordform>
@@ -76,38 +76,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">er</t>
             <xg>
-               <x>Mun dat lean aviissa gáldu dán áššis.</x>
-               <xt>Det er jeg som er avisens kilde i denne saken.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l mod="ind" pers="2" nr="sg" pos="v">leat</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
-         <analysis>V_Ind_Prs_Sg2</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">er</t>
-            <xg>
-               <x>Ja dan dihte don leat 34 jagi giksašuvvan.</x>
-               <xt>Og på grunn av det har du vært plaget i 34 år.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="v">lea</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
-         <analysis>V_Ind_Prs_Sg3</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">er</t>
-            <xg>
                <x>Mu oabbá lea sámediggeáirras.</x>
                <xt>Søstera mi er sametingsrepresentant.</xt>
             </xg>
@@ -116,8 +84,60 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l mod="ind" pers="2" nr="sg" pos="v">leat</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Sg2</analysis>
+         <analysis>V_Ind_Prs_Pl1</analysis>
+         <analysis>V_Ind_Prs_Pl3</analysis>
+         <analysis>V_Ind_Prs_ConNeg</analysis>
+         <analysis>V_Inf</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+            <xg>
+               <x>Ja dan dihte don leat 34 jagi giksašuvvan.</x>
+               <xt>Og på grunn av det har du vært plaget i 34 år.</xt>
+            </xg>
+            <xg>
+               <x>Mii leat dán birra hupman.</x>
+               <xt>Vi har snakket om dette.</xt>
+            </xg>
+            <xg>
+               <x>Skuvllas leat 13 sámegiel oahppi guovtti klássas.</x>
+               <xt>På skolen er det 13 samiskelever i to klasser.</xt>
+            </xg>
+            <xg>
+               <x>Ii ge leat duohta.</x>
+               <xt>Det er ikke sant heller.</xt>
+            </xg>
+            <xg>
+               <x>Fitnodagas galgá leat báikkálaš ossodat Guovdageainnus.</x>
+               <xt>Bedriften skal ha en lokal avdeling i Kautokeino.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">lean</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Sg1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+            <xg>
+               <x>Mun dat lean aviissa gáldu dán áššis.</x>
+               <xt>Det er jeg som er avisens kilde i denne saken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="v">letne</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Du1</analysis>
       </lg>
       <mg>
@@ -133,7 +153,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">ledne</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Du1</analysis>
       </lg>
       <mg>
@@ -149,7 +169,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">leahppi</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Du2</analysis>
       </lg>
       <mg>
@@ -165,7 +185,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pers="3" nr="du" pos="v">leaba</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Du3</analysis>
       </lg>
       <mg>
@@ -180,24 +200,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="ind" pers="1" nr="pl" pos="v">leat</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
-         <analysis>V_Ind_Prs_Pl1</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">er</t>
-            <xg>
-               <x>Mii leat dán birra hupman.</x>
-               <xt>Vi har snakket om dette.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="v">lehpet</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Pl2</analysis>
       </lg>
       <mg>
@@ -212,40 +216,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="ind" pers="3" nr="pl" pos="v">leat</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
-         <analysis>V_Ind_Prs_Pl3</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">er</t>
-            <xg>
-               <x>Skuvllas leat 13 sámegiel oahppi guovtti klássas.</x>
-               <xt>På skolen er det 13 samiskelever i to klasser.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l mod="ind" type="conneg" pos="v">leat</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
-         <analysis>V_Ind_Prs_ConNeg</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">er</t>
-            <xg>
-               <x>Ii ge leat duohta.</x>
-               <xt>Det er ikke sant heller.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l type="actio" pos="v">leahkin</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Actio</analysis>
       </lg>
       <mg>
@@ -260,24 +232,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="inf" pos="v">leat</l>
-         <lemma_ref lemmaID="lean_v_ind">lean</lemma_ref>
-         <analysis>V_Inf</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">er</t>
-            <xg>
-               <x>Fitnodagas galgá leat báikkálaš ossodat Guovdageainnus.</x>
-               <xt>Bedriften skal ha en lokal avdeling i Kautokeino.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="v">ledjen</l>
-         <analysis>V_Ind_Prt_Sg1</analysis>
+         <l pos="v">lei</l>
+         <analysis>V_Ind_Prt_Sg3</analysis>
          <mini_paradigm>
             <analysis ms="V_Ind_Prt_Sg1">
                <wordform>ledjen</wordform>
@@ -321,8 +277,12 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">var</t>
             <xg>
-               <x>Mii bođiimet fas Norgii go mun ledjen 5 jahkásaš.</x>
-               <xt>Vi kom til Norge igjen da jeg var 5 år gammel.</xt>
+               <x>Uhcastáloš lei buot šieđđaluvvan ja bivastuvvan go viimmat jovde dohko.</x>
+               <xt>Den lille stalloen var fullstendig andpusten og svett da de endelig kom fram.</xt>
+            </xg>
+            <xg>
+               <x>Son lei Nuortanástte doaimmaheaddji 32 jagi.</x>
+               <xt>Han var redaktør for Nuortanáste i 32 år.</xt>
             </xg>
          </tg>
       </mg>
@@ -330,7 +290,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">ledjet</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Sg2</analysis>
       </lg>
       <mg>
@@ -345,28 +305,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="v">lei</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
-         <analysis>V_Ind_Prt_Sg3</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">var</t>
-            <xg>
-               <x>Uhcastáloš lei buot šieđđaluvvan ja bivastuvvan go viimmat jovde dohko.</x>
-               <xt>Den lille stalloen var fullstendig andpusten og svett da de endelig kom fram.</xt>
-            </xg>
-            <xg>
-               <x>Son lei Nuortanástte doaimmaheaddji 32 jagi.</x>
-               <xt>Han var redaktør for Nuortanáste i 32 år.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="v">leai</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Sg3</analysis>
       </lg>
       <mg>
@@ -385,8 +325,24 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l pos="v">ledjen</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Sg1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">var</t>
+            <xg>
+               <x>Mii bođiimet fas Norgii go mun ledjen 5 jahkásaš.</x>
+               <xt>Vi kom til Norge igjen da jeg var 5 år gammel.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="v">leimme</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Du1</analysis>
       </lg>
       <mg>
@@ -402,7 +358,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">leidde</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Du2</analysis>
       </lg>
       <mg>
@@ -418,7 +374,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">leigga</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Du3</analysis>
       </lg>
       <mg>
@@ -435,7 +391,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">leaigga</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Du3</analysis>
       </lg>
       <mg>
@@ -451,7 +407,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">leimmet</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Pl1</analysis>
       </lg>
       <mg>
@@ -467,7 +423,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">leiddet</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Pl2</analysis>
       </lg>
       <mg>
@@ -483,7 +439,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="v">ledje</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_Pl3</analysis>
       </lg>
       <mg>
@@ -499,7 +455,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l mod="ind" type="prfprc" pos="v">lean</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_Ind_Prt_ConNeg</analysis>
       </lg>
       <mg>
@@ -515,7 +471,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l type="prfprc" pos="v">leamaš</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_PrfPrc</analysis>
       </lg>
       <mg>
@@ -531,7 +487,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l type="prfprc" pos="v">leamašan</l>
-         <lemma_ref lemmaID="ledjen_v">ledjen</lemma_ref>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_PrfPrc</analysis>
       </lg>
       <mg>
