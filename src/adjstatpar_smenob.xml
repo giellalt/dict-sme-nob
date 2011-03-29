@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -45,8 +45,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">sørligere</t>
             <xg>
-               <x>lulit</x>
-               <xt>dafs</xt>
+               <x>Mun orun lulit viesus.</x>
+               <xt>Jeg bor i det sørligere huset.</xt>
             </xg>
          </tg>
       </mg>
@@ -61,8 +61,125 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">sørligst</t>
             <xg>
-               <x>lulimus</x>
-               <xt>dafs</xt>
+               <x>Lulimus báiki Norggas lea Lindesnes.</x>
+               <xt>Den sørligste plassen i Norge er Lindesnes.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">davit</l>
+         <analysis>A_Comp_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="A_Comp_Sg_Nom">
+               <wordform>davit</wordform>
+            </analysis>
+            <analysis ms="A_Superl_Sg_Nom">
+               <wordform>davimus</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">nordligere</t>
+            <xg>
+               <x>Mun orun davit viesus.</x>
+               <xt>Jeg bor i det nordlige huset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">davimus</l>
+         <lemma_ref lemmaID="davit_a">davit</lemma_ref>
+         <analysis>A_Superl_Sg_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">nordligst</t>
+            <xg>
+               <x>Davimus báiki Norggas lea Nordkapp.</x>
+               <xt>Den nordligste plassen i Norge er Nordkapp.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">oarjjit</l>
+         <analysis>A_Comp_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="A_Comp_Sg_Nom">
+               <wordform>oarjjit</wordform>
+            </analysis>
+            <analysis ms="A_Superl_Sg_Nom">
+               <wordform>oarjjimus</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">vestligere</t>
+            <xg>
+               <x>Mun orun oarjjit viesus.</x>
+               <xt>Jeg bor i det vestlige huset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">oarjjimus</l>
+         <lemma_ref lemmaID="oarjjit_a">oarjjit</lemma_ref>
+         <analysis>A_Superl_Sg_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">vestligst</t>
+            <xg>
+               <x>Oarjjimus báiki Norggas lea Lindesnes.</x>
+               <xt>Den vestligste plassen i Norge er Lindesnes.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">nuorttit</l>
+         <analysis>A_Comp_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="A_Comp_Sg_Nom">
+               <wordform>nuorttit</wordform>
+            </analysis>
+            <analysis ms="A_Superl_Sg_Nom">
+               <wordform>nuorttamus</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">østligere</t>
+            <xg>
+               <x>Mun orun nuorttit viesus.</x>
+               <xt>Jeg bor i det østligere huset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">nuorttamus</l>
+         <lemma_ref lemmaID="nuorttit_a">nuorttit</lemma_ref>
+         <analysis>A_Superl_Sg_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">østligst</t>
+            <xg>
+               <x>Nuorttamus báiki Norggas lea Lindesnes.</x>
+               <xt>Den østligste plassen i Norge er Lindesnes.</xt>
             </xg>
          </tg>
       </mg>
