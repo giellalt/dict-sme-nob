@@ -100,8 +100,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">nordligst</t>
             <xg>
-               <x>Davimus báiki Norggas lea Nordkapp.</x>
-               <xt>Den nordligste plassen i Norge er Nordkapp.</xt>
+               <x>Norgga davimus sadji lea Davvinjárga.</x>
+               <xt>Det nordligste stedet i Norge er Nordkapp.</xt>
             </xg>
          </tg>
       </mg>
@@ -139,8 +139,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">vestligst</t>
             <xg>
-               <x>Oarjjimus báiki Norggas lea Lindesnes.</x>
-               <xt>Den vestligste plassen i Norge er Lindesnes.</xt>
+               <x>Norgga oarjjimus gávpot lea Florø.</x>
+               <xt>Den vestligste byen i Norge er Florø.</xt>
             </xg>
          </tg>
       </mg>
@@ -178,8 +178,125 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">østligst</t>
             <xg>
-               <x>Nuorttamus báiki Norggas lea Lindesnes.</x>
-               <xt>Den østligste plassen i Norge er Lindesnes.</xt>
+               <x>Norgga nuorttamus gávpot lea Várggát.</x>
+               <xt>Den østligste byen i Norge er Vardø.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">máttit</l>
+         <analysis>A_Comp_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="A_Comp_Sg_Nom">
+               <wordform>máttit</wordform>
+            </analysis>
+            <analysis ms="A_Superl_Sg_Nom">
+               <wordform>máttimus</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">sørligere</t>
+            <xg>
+               <x>Mun orun máttit viesus.</x>
+               <xt>Jeg bor i det sørligere huset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">máttimus</l>
+         <lemma_ref lemmaID="máttit_a">máttit</lemma_ref>
+         <analysis>A_Superl_Sg_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">sørligst</t>
+            <xg>
+               <x>Norgga máttimus báiki lea Lindesnes.</x>
+               <xt>Det sørligste stedet i Norge er Lindesnes.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">fávllit</l>
+         <analysis>A_Comp_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="A_Comp_Sg_Nom">
+               <wordform>fávllit</wordform>
+            </analysis>
+            <analysis ms="A_Superl_Sg_Nom">
+               <wordform>fávllimus</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">dypere</t>
+            <xg>
+               <x>Fávllit sullos leat ollu lottit.</x>
+               <xt>På den øya som er lengere ute er det mye fugler.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">fávllimus</l>
+         <lemma_ref lemmaID="nuorttit_a">fávllit</lemma_ref>
+         <analysis>A_Superl_Sg_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">dypest</t>
+            <xg>
+               <x>Fávllimus sadji jogas gohčoduvvo oallin. </x>
+               <xt>Det dypeste stedet i elva kalles for djupål.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">gáttit</l>
+         <analysis>A_Comp_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="A_Comp_Sg_Nom">
+               <wordform>gáttit</wordform>
+            </analysis>
+            <analysis ms="A_Superl_Sg_Nom">
+               <wordform>gáttimus</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">nærmere stranda</t>
+            <xg>
+               <x>Gáttit sullos mii lávet dolastallat.</x>
+               <xt>På den øya som er nærmere stranda bruker vi å brenne bål.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">gáttimus</l>
+         <lemma_ref lemmaID="gáttit_a">gáttit</lemma_ref>
+         <analysis>A_Superl_Sg_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">nærmest stranda</t>
+            <xg>
+               <x>Gáttimus fanas lea mu edno fanas.</x>
+               <xt>Den båten som er nærmest stranda tilhører onkelen min. </xt>
             </xg>
          </tg>
       </mg>
