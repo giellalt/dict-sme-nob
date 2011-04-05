@@ -54,12 +54,17 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">meg selv</tf>
             <xg>
-               <x>Mun oidnen iežan speadjalis.</x>
-               <xt>Jeg så meg selv i speilet.</xt>
+               <x>Mun oainnán iežan speadjalis.</x>
+               <xt>Jeg ser meg selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
+            <t pos="pron">min</t>
             <t pos="phrase">min egen</t>
+            <xg>
+               <x>Mun stoagan iežan ustibiin.</x>
+               <xt>Jeg leker med vennen min.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -89,12 +94,17 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">meg selv</tf>
             <xg>
-               <x>Mun oidnen iehčan speadjalis.</x>
-               <xt>Jeg så meg selv i speilet.</xt>
+               <x>Mun oainnán iehčan speadjalis.</x>
+               <xt>Jeg ser meg selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
+            <t pos="pron">mun</t>
             <t pos="phrase">min egen</t>
+            <xg>
+               <x>Mun stoagan iežan ustibiin.</x>
+               <xt>Jeg leker med vennen min.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -124,12 +134,17 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">deg selv</tf>
             <xg>
-               <x>Don oidnet iežat speadjalis.</x>
-               <xt>Du så deg selv i speilet.</xt>
+               <x>Don oainnát iežat speadjalis.</x>
+               <xt>Du ser deg selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
+            <t pos="pron">din</t>
             <t pos="phrase">din egen</t>
+            <xg>
+               <x>Don stoagat iežat ustibiin.</x>
+               <xt>Du leker med vennen din.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -160,12 +175,17 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">seg selv</tf>
             <xg>
-               <x>Eadni oinnii iežas speadjalis.</x>
-               <xt>Mor så seg selv i speilet.</xt>
+               <x>Eadni oaidná iežas speadjalis.</x>
+               <xt>Mor ser seg selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
+            <t pos="pron">sin</t>
             <t pos="phrase">sin egen</t>
+            <xg>
+               <x>Lásse stoahká iežas ustibiin.</x>
+               <xt>Lasse leker med vennen sin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -197,13 +217,18 @@ For the full license text, see the link above.</lic>
             <re>om to</re>
             <tf pos="phrase">oss selv</tf>
             <xg>
-               <x>Moai oinniime iežame speadjalis.</x>
-               <xt>Vi to så oss selv i speilet.</xt>
+               <x>Moai oidne iežame speadjalis.</x>
+               <xt>Vi to ser oss selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
             <re>om to</re>
+            <t pos="pron">vår</t>
             <t pos="phrase">vår egen</t>
+            <xg>
+               <x>Moai stohke iežame ustibiin.</x>
+               <xt>Vi to leker med vennen vår.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -235,13 +260,18 @@ For the full license text, see the link above.</lic>
             <re>om to</re>
             <tf pos="phrase">oss selv</tf>
             <xg>
-               <x>Moai oinniime iehčame speadjalis.</x>
-               <xt>Vi to så oss selv i speilet.</xt>
+               <x>Moai oidne iehčame speadjalis.</x>
+               <xt>Vi to ser oss selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
             <re>om to</re>
+            <t pos="pron">vår</t>
             <t pos="phrase">vår egen</t>
+            <xg>
+               <x>Moai stohke iehčame ustibiin.</x>
+               <xt>Vi to leker med vennen vår.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -273,13 +303,18 @@ For the full license text, see the link above.</lic>
             <re>om to</re>
             <tf pos="phrase">oss selv</tf>
             <xg>
-               <x>Moai oinniime iežaideame speadjalis.</x>
-               <xt>Vi to så oss selv i speilet.</xt>
+               <x>Moai oidne iežaideame speadjalis.</x>
+               <xt>Vi to ser oss selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
             <re>om to</re>
+            <t pos="pron">vår</t>
             <t pos="phrase">vår egen</t>
+            <xg>
+               <x>Moai stohke iežaideame ustibiin.</x>
+               <xt>Vi to leker med vennen vår.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -311,13 +346,18 @@ For the full license text, see the link above.</lic>
             <re>om to</re>
             <tf pos="phrase">dere selv</tf>
             <xg>
-               <x>Doai oinniide iežade speadjalis.</x>
-               <xt>Dere to så dere selv i speilet.</xt>
+               <x>Doai oaidnibeahtti iežade speadjalis.</x>
+               <xt>Dere to ser dere selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
             <re>om to</re>
+            <t pos="pron">deres</t>
             <t pos="phrase">deres egen</t>
+            <xg>
+               <x>Doai stoahkabeahtti iežade ustibiin.</x>
+               <xt>Dere to leker med vennen deres.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -349,13 +389,18 @@ For the full license text, see the link above.</lic>
             <re>om to</re>
             <tf pos="phrase">dere selv</tf>
             <xg>
-               <x>Doai oinniide iežaideatte speadjalis.</x>
-               <xt>Dere to så dere selv i speilet.</xt>
+               <x>Doai oaidnibeahtti iežaideatte speadjalis.</x>
+               <xt>Dere to ser dere selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
             <re>om to</re>
+            <t pos="pron">deres</t>
             <t pos="phrase">deres egen</t>
+            <xg>
+               <x>Doai stoahkabeahtti iežaideatte ustibiin.</x>
+               <xt>Dere to leker med vennen deres.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -386,15 +431,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>om to</re>
-            <tf pos="phrase">dem selv</tf>
+            <tf pos="phrase">seg selv</tf>
             <xg>
-               <x>Soai oinniiga iežaska speadjalis.</x>
-               <xt>De to så dem selv i speilet.</xt>
+               <x>Soai oaidniba iežaska speadjalis.</x>
+               <xt>De to ser seg selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
             <re>om to</re>
+            <t pos="pron">deres</t>
             <tf pos="phrase">deres egen</tf>
+            <xg>
+               <x>Soai stoahkaba iežaska ustibiin.</x>
+               <xt>De to leker med vennen deres.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -425,15 +475,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>om to</re>
-            <tf pos="phrase">dem selv</tf>
+            <tf pos="phrase">seg selv</tf>
             <xg>
-               <x>Soai oinniiga iežaideaskka speadjalis.</x>
-               <xt>De to så dem selv i speilet.</xt>
+               <x>Soai oaidniba iežaideaskka speadjalis.</x>
+               <xt>De to ser seg selv i speilet.</xt>
             </xg>
          </tg>
          <tg>
             <re>om to</re>
+            <t pos="pron">deres</t>
             <t pos="phrase">deres egen</t>
+            <xg>
+               <x>Soai stoahkaba iežaideaskka ustibiin.</x>
+               <xt>De to leker med vennen deres.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -463,9 +518,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">oss selv</tf>
+            <xg>
+               <x>Mii oaidnit iežamet speadjalis.</x>
+               <xt>Vi ser oss selv i speilet.</xt>
+            </xg>
          </tg>
          <tg>
+            <t pos="pron">vår</t>
             <t pos="phrase">vår egen</t>
+            <xg>
+               <x>Mii stoahkat iežamet ustibiin.</x>
+               <xt>Vi leker med vennen vår.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -495,9 +559,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">oss selv</tf>
+            <xg>
+               <x>Mii oaidnit iehčamet speadjalis.</x>
+               <xt>Vi ser oss selv i speilet.</xt>
+            </xg>
          </tg>
          <tg>
+            <t pos="pron">vår</t>
             <t pos="phrase">vår egen</t>
+            <xg>
+               <x>Mii stoahkat iehčamet ustibiin.</x>
+               <xt>Vi leker med vennen vår.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -527,9 +600,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">oss selv</tf>
+            <xg>
+               <x>Mii oaidnit iežaideamet speadjalis.</x>
+               <xt>Vi ser oss selv i speilet.</xt>
+            </xg>
          </tg>
          <tg>
+            <t pos="pron">vår</t>
             <t pos="phrase">vår egen</t>
+            <xg>
+               <x>Mii stoahkat iežaideamet ustibiin.</x>
+               <xt>Vi leker med vennen vår.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -559,9 +641,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">dere selv</tf>
+            <xg>
+               <x>Dii oaidnibehtet iežadet speadjalis.</x>
+               <xt>Dere ser dere selv i speilet.</xt>
+            </xg>
          </tg>
          <tg>
+            <t pos="pron">deres</t>
             <t pos="phrase">deres egen</t>
+            <xg>
+               <x>Dii stoahkabehtet iežadet ustibiin.</x>
+               <xt>Dere leker med vennen deres.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -591,9 +682,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">dere selv</tf>
+            <xg>
+               <x>Dii oaidnibehtet iežaideattet speadjalis.</x>
+               <xt>Dere ser dere selv i speilet.</xt>
+            </xg>
          </tg>
          <tg>
+            <t pos="pron">deres</t>
             <t pos="phrase">deres egen</t>
+            <xg>
+               <x>Dii stoahkabehtet iežaideattet ustibiin.</x>
+               <xt>Dere leker med vennen deres.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -623,10 +723,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">dem selv</tf>
+            <re>om flere</re>
+            <tf pos="phrase">seg selv</tf>
+            <xg>
+               <x>Sii oidnet iežaset speadjalis.</x>
+               <xt>De ser seg selv i speilet.</xt>
+            </xg>
          </tg>
          <tg>
+            <t pos="pron">deres</t>
             <t pos="phrase">deres egen</t>
+            <xg>
+               <x>Sii stohket iežaset ustibiin.</x>
+               <xt>De leker med vennen deres.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -656,10 +766,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">dem selv</tf>
+            <re>om flere</re>
+            <tf pos="phrase">seg selv</tf>
+            <xg>
+               <x>Sii oidnet iežaideaset speadjalis.</x>
+               <xt>De ser seg selv i speilet.</xt>
+            </xg>
          </tg>
          <tg>
+            <t pos="pron">deres</t>
             <t pos="phrase">deres egen</t>
+            <xg>
+               <x>Sii stohket iežaideaset ustibiin.</x>
+               <xt>De leker med vennen deres.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -726,7 +846,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">jeg (har) selv</tf>
             <xg>
                <x>Mus lea alddán biila.</x>
-               <xt>Jeg har selv bil.</xt>
+               <xt>Jeg har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -824,7 +944,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">du (har) selv</tf>
             <xg>
                <x>Dus lea alddát biila.</x>
-               <xt>Du har selv bil.</xt>
+               <xt>Du har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -921,7 +1041,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">hun (har) selv</tf>
             <xg>
                <x>Eatnis lea alddis biila.</x>
-               <xt>Mor har selv bil.</xt>
+               <xt>Mor har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -938,7 +1058,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">hun (har) selv</tf>
             <xg>
                <x>Eatnis lea alddes biila.</x>
-               <xt>Mor har selv bil.</xt>
+               <xt>Mor har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -951,7 +1071,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">med seg selv (om 1 person)</tf>
+            <tf pos="phrase">med seg selv</tf>
             <xg>
                <x>Eadni humai iežainis.</x>
                <xt>Mor snakket med seg selv.</xt>
@@ -967,7 +1087,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">som seg selv (om 1 person)</tf>
+            <tf pos="phrase">som seg selv</tf>
             <xg>
                <x>Eadni lei doppe iehčanis.</x>
                <xt>Mor var der alene.</xt>
@@ -1041,7 +1161,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">vi to (har) selv</tf>
             <xg>
                <x>Munnos lea alddáme biila.</x>
-               <xt>Vi to har selv bil.</xt>
+               <xt>Vi to har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1058,7 +1178,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">vi to (har) selv</tf>
             <xg>
                <x>Munnos lea alddiineame biila.</x>
-               <xt>Vi to har selv bil.</xt>
+               <xt>Vi to har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1161,7 +1281,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">dere to (har) selv</tf>
             <xg>
                <x>Dudnos lea alddáde biila.</x>
-               <xt>Dere to har selv bil.</xt>
+               <xt>Dere to har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1177,7 +1297,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">dere to (har) selv</tf>
             <xg>
                <x>Dudnos lea alddiineatte biila.</x>
-               <xt>Dere to har selv bil.</xt>
+               <xt>Dere to har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1194,7 +1314,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">med dere selv</tf>
             <xg>
                <x>Doai humaide iežaineatte.</x>
-               <xt>Dere to snakket dere selv.</xt>
+               <xt>Dere to snakket med dere selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1278,7 +1398,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">de to (har) selv</tf>
             <xg>
                <x>Sudnos lea alddiska biila.</x>
-               <xt>De to har selv bil.</xt>
+               <xt>De to har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1294,7 +1414,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">de to (har) selv</tf>
             <xg>
                <x>Sudnos lea alddeska biila.</x>
-               <xt>De to har selv bil.</xt>
+               <xt>De to har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1310,7 +1430,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">de to (har) selv</tf>
             <xg>
                <x>Sudnos lea alddiineaskka biila.</x>
-               <xt>De to har selv bil.</xt>
+               <xt>De to har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1327,7 +1447,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">med seg selv</tf>
             <xg>
                <x>Soai humaiga iežaineaskka.</x>
-               <xt>De to snakket med selv.</xt>
+               <xt>De to snakket med seg selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1412,7 +1532,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">vi (har) selv</tf>
             <xg>
                <x>Mis lea alddámet biila.</x>
-               <xt>Vi har selv bil.</xt>
+               <xt>Vi har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1429,7 +1549,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">vi (har) selv</tf>
             <xg>
                <x>Mis lea alddiineamet biila.</x>
-               <xt>Vi har selv bil.</xt>
+               <xt>Vi har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1527,7 +1647,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">dere (har) selv</tf>
             <xg>
                <x>Dis lea alddádet biila.</x>
-               <xt>Dere har selv bil.</xt>
+               <xt>Dere har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1543,7 +1663,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">dere (har) selv</tf>
             <xg>
                <x>Dis lea alddiineattet biila.</x>
-               <xt>Dere har selv bil.</xt>
+               <xt>Dere har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1642,7 +1762,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">de (har) selv</tf>
             <xg>
                <x>Sis lea alddiset biila.</x>
-               <xt>De har selv bil.</xt>
+               <xt>De har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1658,7 +1778,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">de (har) selv</tf>
             <xg>
                <x>Sis lea alddeset biila.</x>
-               <xt>De har selv bil.</xt>
+               <xt>De har bil selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -1674,7 +1794,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">de (har) selv</tf>
             <xg>
                <x>Sis lea alddiineaset biila.</x>
-               <xt>de har selv bil</xt>
+               <xt>De har bil selv.</xt>
             </xg>
          </tg>
       </mg>
