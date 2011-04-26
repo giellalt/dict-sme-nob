@@ -459,7 +459,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nordover</t>
-            <tf pos="phrase">mot nord</tf>
+            <xg>
+               <x>Ánte fárre davás.</x>
+               <xt>Ánte flytter nordover.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -470,7 +473,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">sørover</t>
-            <tf pos="phrase">mot sør</tf>
+            <xg>
+               <x>Guoros bursa máttás doalvu.</x>
+               <xt>En tom lommebok fører deg sørover.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -495,7 +501,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">vestover</t>
-            <tf pos="phrase">mot vest</tf>
+            <xg>
+               <x>Mii fertet oarjjás johttát.</x>
+               <xt>Vi må flytte mot vest.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -550,7 +559,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">østover</t>
-            <tf pos="phrase">mot øst</tf>
+            <xg>
+               <x>Eat berre nuorttas ribahit ealu.</x>
+               <xt>Vi bør ikke miste flokken østover.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -561,12 +573,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nordpå</t>
-            <tf pos="phrase">i nord</tf>
+            <xg>
+               <x>Ánte orru davvin.</x>
+               <xt>Ánte bor nordpå.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="adv">nordfra</t>
+            <xg>
+               <x>Ánte bođii davvin ikte.</x>
+               <xt>Ánte kom nordfra i går.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -577,12 +596,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">sørpå</t>
-            <tf pos="phrase">i sør</tf>
+            <xg>
+               <x>Elle lea 20 jagi orron máddin.</x>
+               <xt>Elle har bodd 20 år sørpå.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="adv">sørfra</t>
+            <xg>
+               <x>Elle lea máddin boahtán davás geasselupmui.</x>
+               <xt>Elle har kommet sørfra på sommerferie i nord.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -593,7 +619,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">østpå</t>
-            <tf pos="phrase">i øst</tf>
          </tg>
       </mg>
       <mg>
@@ -2146,7 +2171,7 @@ For the full license text, see the link above.</lic>
                <xt>Hvor er den?</xt>
             </xg>
             <xg>
-               <x>Gos boađát</x>
+               <x>Gos boađát?</x>
                <xt>Hvor kommer du fra?</xt>
             </xg>
          </tg>
@@ -2608,6 +2633,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">mot sør</tf>
             <t pos="adv">sørover</t>
+            <xg>
+               <x>Eallu vulggii luksa.</x>
+               <xt>Reinflokken satte kursen sørover.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2619,6 +2648,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">mot sør</tf>
             <t pos="adv">sørover</t>
+            <xg>
+               <x>Mun in háliit lulás fárret.</x>
+               <xt>Jeg vil ikke flytte sørover.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2629,7 +2662,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">langt sør</tf>
-            <tf pos="phrase">langt sørfra</tf>
+            <xg>
+               <x>Lulde ásset ollu olbmot.</x>
+               <xt>Sørpå bor det mange mennesker.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="phrase">langt sørfra</t>
+            <xg>
+               <x>Lulde leat boahtán ollu olbmot dán konferánsii.</x>
+               <xt>Sørfra er det kommet mange mennesker til denne konferansen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2641,11 +2686,19 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">i sør</tf>
             <t pos="adv">sørpå</t>
+            <xg>
+               <x>Sii leat guhká ássan lullin.</x>
+               <xt>De har bodd lenge sørpå.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <tf pos="phrase">fra sør</tf>
+            <xg>
+               <x>Mun bohten ikte lullin.</x>
+               <xt>Jeg kom sørfra i går.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
