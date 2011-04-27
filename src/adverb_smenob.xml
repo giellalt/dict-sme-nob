@@ -30,6 +30,36 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="adv">uhtes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nesten</t>
+            <xg>
+               <x>uhtes ii</x>
+               <xt>nesten</xt>
+               <x>Nieida moddjái nu, ahte su čalmmit uhtes eai jávkan.</x>
+               <xt>Jenta smilte slik at øynene nesten forsvant.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="adv">buoril</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikke med en gang</t>
+            <xg>
+               <x>Bárdni ii nohkan buoril.</x>
+               <xt>Gutten sovnet ikke med en gang.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="adv">maŋŋelaš</l>
       </lg>
       <mg>
@@ -326,6 +356,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">stående</t>
+            <xg>
+               <x>Bárdni njuikii čuoččat ja doamihii olggos.</x>
+               <xt>Gutten hoppet opp i stående stilling og skyndte seg ut.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1658,6 +1692,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">på tvers</tf>
+            <xg>
+               <x>Bárdni vujii duoddara ruossut doarrás skohteriin.</x>
+               <xt>Gutten kjørte med skuteren på kryss og tvers over vidda.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="adv">ruossut</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">på kryss</tf>
+            <xg>
+               <x>Bárdni vujii duoddara ruossut doarrás skohteriin.</x>
+               <xt>Gutten kjørte med skuteren på kryss og tvers over vidda.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
