@@ -153,6 +153,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">bakover</t>
+            <xg>
+               <x>Genaid bokte sáhttá guorrat olmmošsoga maŋosguvlui.</x>
+               <xt>Ved hjelp av genene kan man følge menneskeslekten bakover i tid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -654,7 +658,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">østpå</t>
             <xg>
-               <x>Ánde ássá nuortan. </x>
+               <x>Ánde ássá nuortan.</x>
                <xt>Ánde bor østpå.</xt>
             </xg>
          </tg>
@@ -843,6 +847,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">oppe</t>
             <tf pos="phrase">oppe fra</tf>
+            <xg>
+               <x>Mánát stohket badjin.</x>
+               <xt>Barna leker oppe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1165,6 +1173,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">opp</t>
             <t pos="adv">oppover</t>
+            <xg>
+               <x>Mánát vihke bajás.</x>
+               <xt>Barna sprang opp.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1437,8 +1449,12 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">her</t>
             <xg>
-               <x>manai dákko</x>
-               <xt>han (hun ) gikk her forbi</xt>
+               <x>Olbmot galget dákko vázzit.</x>
+               <xt>Fotgjengere skal gå her.</xt>
+            </xg>
+            <xg>
+               <x>Elle manai dákko.</x>
+               <xt>Elle gikk her forbi.</xt>
             </xg>
          </tg>
       </mg>
@@ -1559,6 +1575,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">her i dette området</tf>
+            <xg>
+               <x>Elle orru dáppe.</x>
+               <xt>Elle bor her i dette området.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1569,6 +1589,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">akkurat her</tf>
+            <xg>
+               <x>Elle orru dás.</x>
+               <xt>Elle bor akkurat her.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1625,6 +1649,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">hit</t>
+            <xg>
+               <x>Elle boahtá deike.</x>
+               <xt>Elle kommer hit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1646,6 +1674,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">dit til dere</tf>
+            <xg>
+               <x>Mun buvttán riššaid diehko.</x>
+               <xt>Jeg bringer fyrstikkene dit til dere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1667,6 +1699,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">der hos dere</tf>
+            <xg>
+               <x>Leat go dieppe riššat?</x>
+               <xt>Er det fyrstikker der hos dere?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1735,6 +1771,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">dit</t>
+            <xg>
+               <x>De gal in háliit dohko vuolgit.</x>
+               <xt>Da vil jeg ikke dra dit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1765,7 +1805,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">der borte</tf>
+            <tf pos="phrase">der</tf>
+            <xg>
+               <x>Doppe gávdnojit gearbmašat.</x>
+               <xt>Det fins slanger der.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">duos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">akkurat der</t>
+            <xg>
+               <x>Elle orru duos.</x>
+               <xt>Elle bor akkurat der.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2195,6 +2253,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">hvor</t>
             <xg>
+               <x>Gokko don leat čuohpaduvvon?</x>
+               <xt>Hvor (på kroppen) er du blitt operert?</xt>
+            </xg>
+            <xg>
                <x>Gokko eadni manai?</x>
                <xt>Hvilken vei gikk mor?</xt>
             </xg>
@@ -2234,6 +2296,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">hvor</t>
             <xg>
+               <x>Gos don leat čuohpaduvvon?</x>
+               <xt>Hvor (i hvilket sykehus) er du blitt operert?</xt>
+            </xg>
+            <xg>
                <x>Gos dat lea?</x>
                <xt>Hvor er den?</xt>
             </xg>
@@ -2261,6 +2327,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">langt bort</tf>
+            <xg>
+               <x>Don it njuike guhkás.</x>
+               <xt>Du hopper ikke langt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2272,6 +2342,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">langt borte</tf>
             <tf pos="phrase">langt bortefra</tf>
+            <xg>
+               <x>Don leat nu guhkkin, muhto liikká nu lahka.</x>
+               <xt>Du er så langt borte, men likevel så nær.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3276,12 +3350,12 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">ut</t>
             <xg>
-               <x>Moai njuikiime olggos biillas.</x>
-               <xt>Vi hoppet ut av bilen.</xt>
+               <x>Sárá manná olggos.</x>
+               <xt>Sárá går ut.</xt>
             </xg>
             <xg>
-               <x>Dál ii ábut šat viesus stoahkat, muhto olggos mannat, vai dearvvašin bissubehtet.</x>
-               <xt>Nå kan dere ikke leke inne lenger, men dere må gå ut for å holde dere friske.</xt>
+               <x>Moai njuikiime olggos biillas.</x>
+               <xt>Vi hoppet ut av bilen.</xt>
             </xg>
          </tg>
       </mg>
@@ -3303,6 +3377,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">ute</t>
+            <xg>
+               <x>Sárá lea olgun.</x>
+               <xt>Sárá er ute.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3386,6 +3464,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">i veien</tf>
+            <xg>
+               <x>Don čuoččut mu ovddas.</x>
+               <xt>Du står i veien for meg,</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3496,6 +3578,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">hjemme</t>
+            <xg>
+               <x>Ruovttus lei dievas moivi.</x>
+               <xt>Hjemme var det fullstendig kaos.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">hjemmefra</t>
+            <xg>
+               <x>Mun vulgen ruovttus golmma áigge.</x>
+               <xt>Jeg dro hjemmefra i tre-tiden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3604,6 +3699,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">inne</t>
             <t pos="adv">innenfra</t>
+            <xg>
+               <x>In gille siste čohkkát.</x>
+               <xt>Jeg gidder ikke å sitte inne.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3861,6 +3960,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">ned</t>
             <t pos="adv">nedover</t>
+            <xg>
+               <x>Ivvár manná vulos.</x>
+               <xt>Ivvár går ned.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3909,6 +4012,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nede</t>
+            <xg>
+               <x>Ivvár lea vuollin.</x>
+               <xt>Ivvár er nede.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4437,6 +4544,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">tilbake</t>
+            <xg>
+               <x>Nuppe beaivvi juo máhcaiga ruovttoluotta.</x>
+               <xt>Allerede dagen etter kom de tilbake.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4481,11 +4592,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">hjem</t>
+            <xg>
+               <x>Ihttin mii vuoddját ruoktot.</x>
+               <xt>I morgen kjører vi hjem.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="adv">tilbake</t>
+            <xg>
+               <x>Nu moai vuojašeimme ruoktot ovdan.</x>
+               <xt>Slik kjørte vi fram og tilbake.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4827,6 +4946,29 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">framover</t>
+            <xg>
+               <x>Dál fertet ovddosguvlui jurddašit.</x>
+               <xt>Nå må vi tenke framover.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ovddos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">fram</t>
+            <xg>
+               <x>Álggos son lávkii ovddos ja dasto guokte lávkki maŋos.</x>
+               <xt>Først tok han et skritt framover og deretter to skritt tilbake.</xt>
+            </xg>
+            <xg>
+               <x>Ovllá vujii máŋgii ovddos maŋos biillain ovdal go deaivvai njuolga sázuid gaskii.</x>
+               <xt>Ovllá kjørte bilen fram og tilbake flere ganger før han fikk den plassert midt i mellom
+               strekene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5641,7 +5783,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <xg>
-               <x>duohkut deike</x>
+               <x>duohkot deike</x>
                <xt>hit og dit</xt>
             </xg>
          </tg>
