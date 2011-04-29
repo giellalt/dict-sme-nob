@@ -65,6 +65,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">seinere</t>
+            <xg>
+               <x>Oasseválddit bohtet maŋŋelaš.</x>
+               <xt>Deltakerne kommer senere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -467,6 +471,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om våren</tf>
+            <xg>
+               <x>Giđđat sáhttet leat dulvvit.</x>
+               <xt>Om våren kan det være flom.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1040,6 +1048,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">for lenge siden</tf>
+            <xg>
+               <x>Moai letne áigá geargan.</x>
+               <xt>Vi to er ferdige for lenge siden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1096,6 +1108,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">i begynnelsen</tf>
+            <xg>
+               <x>Álggos mun in ipmirdan maidege</x>
+               <xt>I begynnelsen forsto jeg ingenting.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1116,6 +1132,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">alltid</t>
+            <xg>
+               <x>Don leat álo heajos mielas.</x>
+               <xt>Du er alltid i dårlig humør.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1127,6 +1147,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">tidlig</t>
+            <xg>
+               <x>Doavttir bođii árrat bargui.</x>
+               <xt>Legen kom tidlig på jobb.</xt>
+            </xg>
             <xg>
                <x>árrat iđedis</x>
                <xt>tidlig om morgenen</xt>
@@ -1260,6 +1284,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om dagen</tf>
+            <xg>
+               <x>Iđđes lei guoldu, muhto beaivet de firtii.</x>
+               <xt>Om morgenen var det snøfokk, men ut på dagen ble det fint vær.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1377,6 +1405,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om høsten</tf>
+            <xg>
+               <x>Čakčat álgá skuvla.</x>
+               <xt>Om høsten begynner skolen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1407,6 +1439,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">etterhvert</t>
+            <xg>
+               <x>Dađistaga mii hárjáneimmet buollašii.</x>
+               <xt>Etterhvert ble vi vant til kulda.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1428,6 +1464,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">straks</t>
             <tf pos="phrase">med en gang</tf>
+            <xg>
+               <x>Boađe sisa dakkaviđe!</x>
+               <xt>Kom inn med en gang!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1499,6 +1539,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">da</t>
+            <xg>
+               <x>Dalle go áddjá elii, láviimet juoŋastit.</x>
+               <xt>Da bestefar levde, pleide vi å fiske med garn under isen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1509,6 +1553,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nå</t>
+            <xg>
+               <x>Mun vuolggán dál.</x>
+               <xt>Jeg drar nå.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1541,6 +1589,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om vinteren</tf>
+            <xg>
+               <x>Dálvet sáhttá čuoigat, muhto geasset ii gal sáhte.</x>
+               <xt>Om vinteren kan man gå på ski, men ikke om sommeren. </xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1574,10 +1626,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">her i dette området</tf>
+            <t pos="adv">her</t>
+            <tf pos="phrase">her omkring</tf>
             <xg>
                <x>Elle orru dáppe.</x>
-               <xt>Elle bor her i dette området.</xt>
+               <xt>Elle bor her omkring.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">herfra</t>
+            <tf>herfra omkring</tf>
+            <xg>
+               <x>Ánte vulggii dáppe ikte.</x>
+               <xt>Ánte dro herfra i går.</xt>
             </xg>
          </tg>
       </mg>
@@ -1588,10 +1651,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">akkurat her</tf>
+            <t pos="adv">her</t>
+            <tf pos="phrase_adv">akkurat her</tf>
             <xg>
                <x>Elle orru dás.</x>
                <xt>Elle bor akkurat her.</xt>
+            </xg>
+            <xg>
+               <x>Dát viessu lea čužžon dás guhká.</x>
+               <xt>Dette huset har stått her lenge.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">herfra</t>
+            <tf>akkurat herfra</tf>
+            <xg>
+               <x>Mii vuoddjáimet dás golmma áigge.</x>
+               <xt>Vi kjørte herfra i tretiden.</xt>
             </xg>
          </tg>
       </mg>
@@ -1618,6 +1696,14 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">deretter</t>
             <t pos="adv">så</t>
+            <xg>
+               <x>Dasto ferten eará čovdosa gávdnat.</x>
+               <xt>I så fall må jeg finne en annen løsning.</xt>
+            </xg>
+            <xg>
+               <x>Mun fitnen álggos rambuvrris ja dasto mannen báŋkui.</x>
+               <xt>Jeg var først innom butikken og deretter dro jeg til banken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1639,6 +1725,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">ofte</t>
+            <xg>
+               <x>Mii fitnat dávjá Romssas.</x>
+               <xt>Vi er ofte i Tromsø.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1713,6 +1803,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">i fjor</tf>
+            <xg>
+               <x>Moai náitaleimme diibmá.</x>
+               <xt>Vi to giftet oss i fjor.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1785,6 +1879,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">før i tiden</tf>
+            <xg>
+               <x>Dolin ledje mádjigat dáppe.</x>
+               <xt>Før i tiden fantes det bevere her.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1805,7 +1903,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">der</tf>
+            <t pos="adv">der</t>
+            <tf pos="phrase">der omkring</tf>
             <xg>
                <x>Doppe gávdnojit gearbmašat.</x>
                <xt>Det fins slanger der.</xt>
@@ -1819,6 +1918,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t pos="adv">der</t>
             <t pos="phrase">akkurat der</t>
             <xg>
                <x>Elle orru duos.</x>
@@ -1962,6 +2062,10 @@ For the full license text, see the link above.</lic>
                <x>De easka vulggii.</x>
                <xt>Da først dro hun.</xt>
             </xg>
+            <xg>
+               <x>Moai letne easka boahtán.</x>
+               <xt>Vi to har nettopp kommet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2007,7 +2111,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">i stad</tf>
+            <tf pos="phrase">i sted</tf>
+            <xg>
+               <x>Mun oidnen du eske.</x>
+               <xt>Jeg så deg i sted.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2171,6 +2279,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om sommeren</tf>
+            <xg>
+               <x>Dálvet sáhttá čuoigat, muhto geasset ii gal sáhte.</x>
+               <xt>Om vinteren kan man gå på ski, men ikke om sommeren.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2317,6 +2429,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">lenge</t>
+            <xg>
+               <x>Mii leat guhká vuordán.</x>
+               <xt>Vi har ventet lenge.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2377,6 +2493,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">sjelden</t>
+            <xg>
+               <x>Áhkku lea hárve buohcci.</x>
+               <xt>Bestemor er sjelden syk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2444,6 +2564,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om natten</tf>
+            <xg>
+               <x>Sámmol liiko ihkku johtit.</x>
+               <xt>Sámmol liker å reise om natta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2454,6 +2578,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">til i morgen</tf>
+            <xg>
+               <x>Goassážii mii galgat geargat? Na ihtážii.</x>
+               <xt>Når skal vi være ferdig? Til i morgen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2464,6 +2592,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">i morgen</tf>
+            <xg>
+               <x>Goas mii galgat geargat? Na ihttin.</x>
+               <xt>Når skal vi bli ferdige? I morgen.</xt>
+            </xg>
+            <xg>
+               <x>Ihttin álgá juovlaluopmu.</x>
+               <xt>I morgen begynner juleferien.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2484,6 +2620,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">i går</tf>
+            <xg>
+               <x>Mun oiden Sárá ikte.</x>
+               <xt>Jeg så Sárá i går.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2621,6 +2761,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">allerede</t>
+            <xg>
+               <x>Mun lean juo geargan.</x>
+               <xt>Jeg er allerede ferdig.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2752,6 +2896,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">til slutt</tf>
+            <xg>
+               <x>Loahpas mii vuolláineimmet.</x>
+               <xt>Til slutt ga vi opp.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2895,6 +3043,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">endelig</t>
             <t pos="adv">omsider</t>
+            <xg>
+               <x>Maŋážassii Lásse ollii muhtun stobu lusa.</x>
+               <xt>Omsider kom Lásse frem til en stue.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2926,6 +3078,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">sent</t>
+            <xg>
+               <x>Mánát leat maŋŋit nohkkan.</x>
+               <xt>Barna har lagt seg sent.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3278,7 +3434,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">i dag</tf>
+            <tf pos="phrase">i xdag</tf>
+            <xg>
+               <x>Mii geargat odne.</x>
+               <xt>Viblir ferdige i dag.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3300,6 +3460,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">samtidig</t>
+            <xg>
+               <x>Soai olliiga mollii oktanaga.</x>
+               <xt>De to kom i mål samtidig.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3454,6 +3618,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">før</t>
+            <xg>
+               <x>Manne it leat ovdal boahtán?</x>
+               <xt>Hvorfor har du ikke kommet før?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3492,6 +3660,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="2" pos="a">bestandig</t>
+            <xg>
+               <x>Manne don ovtto biegut?</x>
+               <xt>Hvorfor klager du bestandig?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3633,6 +3805,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om morgenen</tf>
+            <xg>
+               <x>Iđedis lei guoldu, muhto beaivet de firtii.</x>
+               <xt>Om morgenen var det snøfokk, men ut på dagen ble det fint vær.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3643,6 +3819,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om morgenen</tf>
+            <xg>
+               <x>Iđđes lei guoldu, muhto beaivet de firtii.</x>
+               <xt>Om morgenen var det snøfokk, men ut på dagen ble det fint vær.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3653,6 +3833,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">om kvelden</tf>
+            <xg>
+               <x>Eahkes lei ipmilbálvalus girkus.</x>
+               <xt>Om kvelden var det gudstjeneste i kirka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4192,6 +4376,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Mun válddán dán, don fas dien.</x>
                <xt>Jeg tar denne, du igjen den der.</xt>
+            </xg>
+            <xg>
+               <x>Goas don fas boađát?</x>
+               <xt>Når kommer du igjen?</xt>
             </xg>
          </tg>
       </mg>
@@ -4795,6 +4983,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">igjen</t>
+            <xg>
+               <x>Leat go du buvssat vuot duolvan?</x>
+               <xt>Er buksene dine blitt skitne igjen?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4841,6 +5033,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">i blant</tf>
             <tf pos="phrase">av og til</tf>
+            <xg>
+               <x>Muhtomin in ipmir maid Ánne dadjá.</x>
+               <xt>Noen ganger forstår jeg ikke hva Ánne sier.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5125,12 +5321,20 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">noensinne</t>
             <xg>
+               <x>Leat go goassege leamaš doppe?</x>
+               <xt>Har du noen gang vært der?</xt>
+            </xg>
+            <xg>
+               <x>ii goassege</x>
+               <xt>aldri</xt>
+            </xg>
+            <xg>
                <x>In livčče dan goassege jáhkkán.</x>
                <xt>Jeg ville aldri ha trodd det.</xt>
             </xg>
             <xg>
-               <x>Leat go goassege leamaš doppe?</x>
-               <xt>Har du noen gang vært der?</xt>
+               <x>Moai ean vuollán goassege.</x>
+               <xt>Vi to gir aldri opp.</xt>
             </xg>
          </tg>
       </mg>
@@ -5237,6 +5441,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">til i morgen</tf>
+            <xg>
+               <x>Goassážii mii galgat geargat? Na ihttážii.</x>
+               <xt>Når skal vi være ferdig? Til i morgen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
