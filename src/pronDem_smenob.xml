@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -703,13 +703,6 @@ For the full license text, see the link above.</lic>
                <xt>Av dette kommer det ikke noen fornuftig løsning.</xt>
             </xg>
          </tg>
-         <tg>
-            <t pos="pron">her</t>
-            <xg>
-               <x>Dát viessu lea čužžon dás guhká.</x>
-               <xt>Dette huset har stått her lenge.</xt>
-            </xg>
-         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -795,10 +788,6 @@ For the full license text, see the link above.</lic>
             <te>som er nærmere deg</te>
          </tg>
          <tg>
-            <t pos="pron">der</t>
-            <te>nærmere deg</te>
-         </tg>
-         <tg>
             <tf pos="phrase">av det</tf>
             <te>som nettopp er nevnt</te>
             <xg>
@@ -880,7 +869,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase">til det der</tf>
             <xg>
                <x>Don galggat duosa oahpahit sámegiela!</x>
-               <xt>Og du skal skal lære samisk til henne der!</xt>
+               <xt>Du skal skal lære samisk til hun der!</xt>
             </xg>
          </tg>
       </mg>
