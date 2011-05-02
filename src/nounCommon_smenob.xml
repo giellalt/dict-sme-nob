@@ -28,6 +28,28 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e>
+      <lg>
+         <l pos="n">salastat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">omfavning</t>
+            <t pos="n">klem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">buorrestat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">omfavning</t>
+            <t pos="n">klem</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
       <lg>
          <l pos="n">ámadadju</l>
@@ -25784,12 +25806,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>mannlig</re>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kjæreste</t>
-            <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">frier</t>
-            <te>mannlig</te>
          </tg>
+      </mg>
+      <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">brudgom</t>
+            <t decl="2" pos="n">frier</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t decl="1" pos="n">brudgom</t>
          </tg>
       </mg>
    </e>
@@ -31344,11 +31372,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>kvinnelig</re>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kjæreste</t>
-            <te>kvinnelig</te>
          </tg>
+      </mg>
+      <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">brud</t>
+            <t decl="1" pos="n">brud</t>
          </tg>
       </mg>
    </e>
@@ -44936,6 +44966,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">oppmerksomhet</t>
+            <t pos="???">omsorg</t>
+            <xg>
+               <x>Eadni atná ávvira mánáin.</x>
+               <xt>Mor viser omsorg for barna.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -48161,6 +48196,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">gode</t>
+            <xg>
+               <x>Eai buot buorit leat ovtta sajis.</x>
+               <xt>Alle goder er ikke på samme plass.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
