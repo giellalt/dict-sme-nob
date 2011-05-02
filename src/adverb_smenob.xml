@@ -463,6 +463,10 @@ For the full license text, see the link above.</lic>
                <x>Ii leat šat.</x>
                <xt>Det er ikke mer.</xt>
             </xg>
+            <xg>
+               <x>In gille šat diggot.</x>
+               <xt>Jeg gidder ikke å krangle mer.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -771,6 +775,10 @@ For the full license text, see the link above.</lic>
             <t pos="adv">bare</t>
             <t pos="adv">ganske</t>
             <t pos="adv">helt</t>
+            <xg>
+               <x>Don dulkot buot aivve bahá guvlui.</x>
+               <xt>Du tolker alt bare i negativ retning.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1040,6 +1048,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">ganske</t>
             <t pos="adv">aldeles</t>
+            <xg>
+               <x>Leat go áibbas gáigi?</x>
+               <xt>Er du helt dum?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1368,6 +1380,10 @@ For the full license text, see the link above.</lic>
                <x>Bures dat manná.</x>
                <xt>Det går bra.</xt>
             </xg>
+            <xg>
+               <x>Don leat bargan bures.</x>
+               <xt>Du har jobbet godt.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1608,6 +1624,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Joavkkus ii leat leamaš jođiheaddji mannan jagi ja danne eai leat leamaš makkárge čuoigandoaimmat.</x>
                <xt>Gruppa har ikke hatt leder det siste året og derfor har det ikke vært noen slags skiaktiviteter.</xt>
+            </xg>
+            <xg>
+               <x>Danne mii leat maŋŋonan.</x>
+               <xt>Derfor er vi forsinket.</xt>
             </xg>
          </tg>
       </mg>
@@ -1997,6 +2017,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">bare</t>
+            <xg>
+               <x>Mus leat dušše guokte máná,</x>
+               <xt>Jeg har bare to barn.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2128,6 +2152,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">plutselig</t>
+            <xg>
+               <x>Sárá buohccái fáhkka.</x>
+               <xt>Sárá ble brått syk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2320,6 +2348,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="">igjen</t>
+            <xg>
+               <x>Uksa lea gitta.</x>
+               <xt>Døra er igjen.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -2328,6 +2365,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nesten</t>
+            <xg>
+               <x>Moai goasii báziime busses.</x>
+               <xt>Vi to mistet nesten bussen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2546,6 +2587,10 @@ For the full license text, see the link above.</lic>
                <x>hui buorre</x>
                <xt>ganske bra</xt>
             </xg>
+            <xg>
+               <x>Eadni lea hui váibbas.</x>
+               <xt>Mor er veldig trøtt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2677,6 +2722,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">nesten ikke</tf>
+            <xg>
+               <x>Diesa mun gal ille jáhkán.</x>
+               <xt>Det der tror jeg nesten ikke på.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2739,8 +2788,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">fort</t>
             <xg>
-               <x>manná jođánit</x>
-               <xt>det går fort</xt>
+               <x>Ánte bargá jođánit.</x>
+               <xt>Ánte jobber fort.</xt>
             </xg>
          </tg>
       </mg>
@@ -2800,6 +2849,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">just</t>
             <t pos="adv">nettopp</t>
+            <xg>
+               <x>Muital juste movt dat lei!</x>
+               <xt>Fortell akkurat hvordan det var!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3114,6 +3167,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">hvorfor</t>
+            <xg>
+               <x>Manne leat deike boahtán?</x>
+               <xt>Hvorfor er du kommet hit?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3145,6 +3202,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">nesten</t>
+            <xg>
+               <x>Moai measta vulge dohko.</x>
+               <xt>Vi to er på nippet til å dra dit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3173,6 +3234,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>menddo guhkkin</x>
                <xt>altfor langt borte</xt>
+            </xg>
+            <xg>
+               <x>Eadni lea menddo váibbas.</x>
+               <xt>Mor er altfor trøtt.</xt>
             </xg>
          </tg>
       </mg>
@@ -3233,6 +3298,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Ja movt dalle manná sámi kultuvrrain?</x>
                <xt>Og hvordan går det da med den samiske kulturen?</xt>
+            </xg>
+            <xg>
+               <x>Movt duinna manná?</x>
+               <xt>Hvordan går det med deg?</xt>
             </xg>
          </tg>
       </mg>
@@ -3329,6 +3398,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">slik</t>
             <tf pos="phrase">sånn her</tf>
+            <xg>
+               <x>Mun čálán ná.</x>
+               <xt>Jeg skriver slik.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3505,6 +3578,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">alene</t>
+            <xg>
+               <x>Mun boađán okto.</x>
+               <xt>Jeg kommer alene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3929,6 +4006,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">på slump</tf>
+            <xg>
+               <x>Ale čále ná summal.</x>
+               <xt>Ikke skriv så slurvete.</xt>
+            </xg>
+            <xg>
+               <x>Oahpaheaddji lei summal válljen vehkiid.</x>
+               <xt>Læreren hadde valgt assistenter på slump.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3949,6 +4034,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">i hemmelighet</tf>
+            <xg>
+               <x>Fabrihkkabargit ledje suoli doallan čoahkkima.</x>
+               <xt>Fabrikkarbeiderne hadde holdt et møte i all hemmelighet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4032,6 +4121,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">litt</t>
+            <xg>
+               <x>Mun lean veahá beahtahallan.</x>
+               <xt>Jeg er litt skuffet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4548,6 +4641,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv">ganske</t>
             <t pos="adv">nokså</t>
+            <xg>
+               <x>Eadni lea oalle váibbas.</x>
+               <xt>Mor er ganske trøtt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4698,7 +4795,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ganske</t>
+            <t pos="adv">temmelig</t>
+            <xg>
+               <x>Eadni lea oba váibbas.</x>
+               <xt>Mor er temmelig trøtt.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4899,6 +5000,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">fullstendig</t>
+            <xg>
+               <x>Dan gal lean oalát vajálduhttán.</x>
+               <xt>Det har jeg helt glemt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5009,6 +5114,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">plutselig</t>
+            <xg>
+               <x>Fáhkkestaga iđistii golloloddi.</x>
+               <xt>Plutselig kom det til syne en gullfugl.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5248,6 +5357,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">i det hele tatt</tf>
+            <xg>
+               <x>Mánát ean jeagadan su obanassiige.</x>
+               <xt>Barna hørte ikke på ham i det hele tatt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5806,6 +5919,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">pent</t>
+            <xg>
+               <x>Don čálát čábbát.</x>
+               <xt>Du skriver pent.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5816,6 +5933,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">sakte</t>
+            <xg>
+               <x>Ánte bargá njozet.</x>
+               <xt>Ánte jobber sakte.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
