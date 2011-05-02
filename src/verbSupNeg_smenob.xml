@@ -4,8 +4,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
-  <lics xml:space="preserve">
-    <lic xml:lang="en">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,13 +13,11 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-    <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,247 +27,178 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote>
-  </lics>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">amas</l>
-
-      <analysis>IV_Neg_Sup_Sg3</analysis>
-
-      <mini_paradigm>
-        <analysis ms="IV_Neg_Sup_Sg1">
-          <wordform>aman</wordform>
-        </analysis>
-
-        <analysis ms="IV_Neg_Sup_Sg2">
-          <wordform>amat</wordform>
-        </analysis>
-
-        <analysis ms="IV_Neg_Sup_Sg3">
-          <wordform>amas</wordform>
-        </analysis>
-
-        <analysis ms="IV_Neg_Sup_Du1">
-          <wordform>amame</wordform>
-        </analysis>
-
-        <analysis ms="IV_Neg_Sup_Du2">
-          <wordform>amade</wordform>
-        </analysis>
-
-        <analysis ms="IV_Neg_Sup_Du3">
-          <wordform>amaska</wordform>
-        </analysis>
-
-        <analysis ms="IV_Neg_Sup_Pl1">
-          <wordform>amamet</wordform>
-        </analysis>
-
-        <analysis ms="IV_Neg_Sup_Pl2">
-          <wordform>amadet</wordform>
-        </analysis>
-
-        <analysis ms="IV_Neg_Sup_Pl3">
-          <wordform>amaset</wordform>
-        </analysis>
-      </mini_paradigm>
-    </lg>
-
-    <mg>
-      <tg>
-        <re>3. person entall</re>
-
-        <tf pos="x">for at han eller hun ikke</tf>
-
-        <xg>
-          <x>Son ferte leat várrogas go vázzá amas gáhččat.</x>
-
-          <xt>Han må være forsiktig når han går, så han ikke faller.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">aman</l>
-
-      <lemma_ref lemmaID="amas_v">amas</lemma_ref>
-
-      <analysis>IV_Neg_Sup_Sg1</analysis>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="x">for at jeg ikke</tf>
-
-        <xg>
-          <x>Dál boran dearvvašlaš borramuša ja lášmmohalan aman buohccát.</x>
-
-          <xt>Nå spiser jeg sunn mat og trener for at jeg ikke skal bli
-          syk.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">amat</l>
-
-      <lemma_ref lemmaID="amas_v">amas</lemma_ref>
-
-      <analysis>IV_Neg_Sup_Sg2</analysis>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="x">for at du ikke</tf>
-
-        <xg>
-          <x>Ale váldde badjelasat eanet bargguid amat váibat.</x>
-
-          <xt>Ikke påta deg mer arbeid så du ikke blir sliten.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">amame</l>
-
-      <lemma_ref lemmaID="amas_v">amas</lemma_ref>
-
-      <analysis>IV_Neg_Sup_Du1</analysis>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="x">for at vi to ikke</tf>
-
-        <xg>
-          <x>Moai fertejetne garvit jeakki amame njuoskat.</x>
-
-          <xt>Vi to må gå rundt myra så vi ikke blir våte.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">amade</l>
-
-      <lemma_ref lemmaID="amas_v">amas</lemma_ref>
-
-      <analysis>IV_Neg_Sup_Du2</analysis>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="x">for at dere to ikke</tf>
-
-        <xg>
-          <x>Doai viehkaleahppi báhtui amade gávnnahallat.</x>
-
-          <xt>Dere to stikker av så dere ikke bli oppdaget.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">amaska</l>
-
-      <lemma_ref lemmaID="amas_v">amas</lemma_ref>
-
-      <analysis>IV_Neg_Sup_Du3</analysis>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="x">for at de to ikke</tf>
-
-        <xg>
-          <x>Soai jugisteigga gáfegohpu ja vulggiiga, amaska maŋŋonit menddo
-          sakka.</x>
-
-          <xt>De to drakk en kopp kaffe og dro så de ikke ble altfor
-          sene.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">amamet</l>
-
-      <lemma_ref lemmaID="amas_v">amas</lemma_ref>
-
-      <analysis>IV_Neg_Sup_Pl1</analysis>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="x">for at vi ikke</tf>
-
-        <xg>
-          <x>Mii oahpahallat sámegiela amamet dárbbašit dárustit.</x>
-
-          <xt>Vi lærer oss samisk så vi ikke behøver å snakke norsk.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">amadet</l>
-
-      <lemma_ref lemmaID="amas_v">amas</lemma_ref>
-
-      <analysis>IV_Neg_Sup_Pl2</analysis>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="x">for at dere ikke</tf>
-
-        <xg>
-          <x>Fertebehtet guorrat dán luotta amadet láhppot.</x>
-
-          <xt>Dere må følge denne stien så dere ikke går dere vill.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="v">amaset</l>
-
-      <lemma_ref lemmaID="amas_v">amas</lemma_ref>
-
-      <analysis>IV_Neg_Sup_Pl3</analysis>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="x">for at de ikke</tf>
-
-        <xg>
-          <x>Ovdal hálle ollesolbmot sámegiela amaset mánát áddet.</x>
-
-          <xt>Før snakket voksne samisk for at barna ikke skulle forstå.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   </lics>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">amas</l>
+         <analysis>IV_Neg_Sup_Sg3</analysis>
+         <mini_paradigm>
+            <analysis ms="IV_Neg_Sup_Sg1">
+               <wordform>aman</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Sup_Sg2">
+               <wordform>amat</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Sup_Sg3">
+               <wordform>amas</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Sup_Du1">
+               <wordform>amame</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Sup_Du2">
+               <wordform>amade</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Sup_Du3">
+               <wordform>amaska</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Sup_Pl1">
+               <wordform>amamet</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Sup_Pl2">
+               <wordform>amadet</wordform>
+            </analysis>
+            <analysis ms="IV_Neg_Sup_Pl3">
+               <wordform>amaset</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at han eller hun ikke</tf>
+            <xg>
+               <x>Son ferte leat várrogas go vázzá amas gáhččat.</x>
+               <xt>Han må være forsiktig når han går, så han ikke faller.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">aman</l>
+         <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         <analysis>IV_Neg_Sup_Sg1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at jeg ikke</tf>
+            <xg>
+               <x>Dál boran dearvvašlaš borramuša ja lášmmohalan aman buohccát.</x>
+               <xt>Nå spiser jeg sunn mat og trener for at jeg ikke skal bli syk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">amat</l>
+         <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         <analysis>IV_Neg_Sup_Sg2</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at du ikke</tf>
+            <xg>
+               <x>Ale váldde badjelasat eanet bargguid amat váibat.</x>
+               <xt>Ikke påta deg mer arbeid så du ikke blir sliten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">amame</l>
+         <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         <analysis>IV_Neg_Sup_Du1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at vi to ikke</tf>
+            <xg>
+               <x>Moai fertejetne garvit jeakki amame njuoskat.</x>
+               <xt>Vi to må gå rundt myra så vi ikke blir våte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">amade</l>
+         <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         <analysis>IV_Neg_Sup_Du2</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at dere to ikke</tf>
+            <xg>
+               <x>Doai viehkaleahppi báhtui amade gávnnahallat.</x>
+               <xt>Dere to stikker av så dere ikke bli oppdaget.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">amaska</l>
+         <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         <analysis>IV_Neg_Sup_Du3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at de to ikke</tf>
+            <xg>
+               <x>Soai jugisteigga gáfegohpu ja vulggiiga, amaska maŋŋonit menddo sakka.</x>
+               <xt>De to drakk en kopp kaffe og dro så de ikke ble altfor sene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">amamet</l>
+         <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         <analysis>IV_Neg_Sup_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at vi ikke</tf>
+            <xg>
+               <x>Mii oahpahallat sámegiela amamet dárbbašit dárustit.</x>
+               <xt>Vi lærer oss samisk så vi ikke behøver å snakke norsk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">amadet</l>
+         <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         <analysis>IV_Neg_Sup_Pl2</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at dere ikke</tf>
+            <xg>
+               <x>Fertebehtet guorrat dán luotta amadet láhppot.</x>
+               <xt>Dere må følge denne stien så dere ikke går dere vill.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="v">amaset</l>
+         <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         <analysis>IV_Neg_Sup_Pl3</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">for at de ikke</tf>
+            <xg>
+               <x>Ovdal hálle ollesolbmot sámegiela amaset mánát áddet.</x>
+               <xt>Før snakket voksne samisk for at barna ikke skulle forstå.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
