@@ -28,6 +28,67 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e>
+      <lg>
+         <l pos="v">ráhkistuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">forelske seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="v">fátmmastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">omfavne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="v">buorrestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">klemme</t>
+            <t pos="v">omfavne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">salastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">omfavne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="v">njuorasmuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">bli rørt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="v">njuorrasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase">bli rørt</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">lagadit</l>
@@ -3301,7 +3362,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-			<re>transitiv</re>
+            <re>transitiv</re>
             <t pos="v">brenne</t>
             <xg>
                <x>Mun boalddán boares báhpáriid.</x>
@@ -13118,8 +13179,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-           <re>en gang</re>
-           <t pos="v">hoste</t>
+            <re>en gang</re>
+            <t pos="v">hoste</t>
          </tg>
       </mg>
    </e>
@@ -19758,6 +19819,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Mun liikon dasa.</x>
                <xt>Jeg liker det.</xt>
+            </xg>
+            <xg>
+               <x>Mun liikon dutnje.</x>
+               <xt>Jeg liker deg.</xt>
             </xg>
             <xg>
                <x>Soai liikoba hui bures bargat heasttaiguin.</x>
@@ -29112,6 +29177,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">elske</t>
             <tf pos="phrase">være glad i</tf>
+            <xg>
+               <x>Mun ráhkistan du.</x>
+               <xt>Jeg elsker deg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -38005,7 +38074,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>en gang</re>
-           <t pos="v">slenge</t>
+            <t pos="v">slenge</t>
          </tg>
       </mg>
    </e>
@@ -39109,10 +39178,10 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">doamihit</l>
-            <xg>
-               <x>Bárdni rábádii gahpiris ja doamihii olggos.</x>
-               <xt>Gutten nappet til seg lua si og skyndte seg ut.</xt>
-            </xg>
+         <xg>
+            <x>Bárdni rábádii gahpiris ja doamihii olggos.</x>
+            <xt>Gutten nappet til seg lua si og skyndte seg ut.</xt>
+         </xg>
       </lg>
       <mg>
          <tg>
@@ -39271,6 +39340,13 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Liikostin su gáktái.</x>
                <xt>Jeg likte kofta hennes.</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="phrase">bry seg om</t>
+            <xg>
+               <x>Mun lean liikostan muhtun bárdnái.</x>
+               <xt>Jeg er blitt kjær i en gutt.</xt>
             </xg>
          </tg>
       </mg>
