@@ -30,6 +30,128 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="v">bidjalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sette</t>
+            <t pos="v">legge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čiekŋudit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fordype</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">ráhkkanahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">utruste</t>
+            <t pos="v">forberede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">cavgilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tipse</t>
+            <xg>
+               <x>Mun cavgilin aviisii lihkohisvuođa birra.</x>
+               <xt>Jeg tipset avisa om ulykken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gártet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kartlegge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hásttuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">oppfordre</t>
+            <t pos="v">utfordre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">deaividit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">inntreffe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vikkahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">forsøke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">iskkadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">undersøke</t>
+            <tf>holde på å forsøke</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vihkket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">veie</t>
+            <xg>
+               <x>Mun vihkken buđehiid.</x>
+               <xt>Jeg veier potetene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">studeret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">studere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l context="mun" pos="v">ráhkásnuvvat</l>
       </lg>
       <mg>
@@ -5856,6 +5978,15 @@ For the full license text, see the link above.</lic>
             <t pos="v">presse</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">veie</t>
+            <xg>
+               <x>Unna oappáš deaddá vihttanuppelohkái kilo.</x>
+               <xt>Lillesøster veier femten kilo.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -6904,6 +7035,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">digaštallat</l>
+         <lsub pos="???">digáštallat</lsub>
       </lg>
       <mg>
          <tg>
@@ -11771,6 +11903,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="mun" pos="v">geahpidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lette</t>
+            <t pos="v">minske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geahppánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">avta</t>
+            <tf>bli færre</tf>
+            <tf>bli lettere</tf>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">geahčadit</l>
@@ -15635,6 +15790,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="mun" pos="v">háliidit</l>
+         <lsub pos="???">hálidit</lsub>
       </lg>
       <mg>
          <tg>
@@ -21152,6 +21308,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="mun" pos="v">mannat</l>
+         <lsub pos="???">mánnat</lsub>
          <lc>(son) manai</lc>
       </lg>
       <mg>
@@ -24531,6 +24688,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">oahpásmuvvat</l>
+         <lsub pos="???">oahpasmuvvat</lsub>
       </lg>
       <mg>
          <tg>
@@ -24837,6 +24995,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="mun" pos="v">olahit</l>
+         <lsub pos="???">oláhit</lsub>
       </lg>
       <mg>
          <tg>
@@ -26894,6 +27053,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">punktere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rabastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åpne</t>
+            <tf>lukke opp</tf>
          </tg>
       </mg>
    </e>
@@ -30195,6 +30365,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">sihkkarastit</l>
+         <lsub pos="???">sihkarastit</lsub>
       </lg>
       <mg>
          <tg>
@@ -34476,6 +34647,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="v">virgádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ansette</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l context="mun" pos="v">virgáibidjat</l>
       </lg>
       <mg>
@@ -38544,6 +38725,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">oahpásnuvvat</l>
+         <lsub pos="???">oahpasnuvvat</lsub>
       </lg>
       <mg>
          <tg>
@@ -38865,6 +39047,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">hirpmahuvvat</l>
+         <lsub pos="???">hirpmáhuvvat</lsub>
       </lg>
       <mg>
          <tg>
