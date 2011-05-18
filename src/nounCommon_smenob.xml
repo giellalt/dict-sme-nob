@@ -32354,10 +32354,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">oldefar</t>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">stamfar</t>
-            <xg>
-               <x>máttaráhkku</x>
-               <xt>oldemor/stammor</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -32367,8 +32363,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">oldefar</t>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">stamfar</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">oldemor</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">stammor</t>
          </tg>
       </mg>
    </e>
@@ -38911,12 +38907,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">fløy</t>
+            <t pos="n">vinge</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">skovl</t>
+            <t pos="n">erme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">fløy</t>
          </tg>
       </mg>
    </e>
@@ -38938,11 +38939,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">fløy</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">trebukkbein</t>
          </tg>
       </mg>
    </e>
