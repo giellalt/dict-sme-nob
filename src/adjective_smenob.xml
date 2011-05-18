@@ -436,6 +436,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om flate gjenstander</re>
             <t decl="1" pos="a">tynn</t>
             <xg>
                <x>Sus lea asehis náhkki.</x>
@@ -461,7 +462,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om flate gjenstander</re>
             <t decl="1" pos="a">tjukk</t>
+            <xg>
+               <x>Sus lea assás náhkki.</x>
+               <xt>Hun har tjukk hud.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2407,7 +2413,33 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om runde gjenstander</re>
             <t decl="1" pos="a">tykk</t>
+            <xg>
+               <x>Lásses lea gassa soabbi.</x>
+               <xt>Lásse har en tykk stokk.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om snø</re>
+            <t pos="">dyp</t>
+            <xg>
+               <x>Muohta lea gassat.</x>
+               <xt>Snøen er dyp.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om lyd</re>
+            <t pos="">dyp</t>
+            <t pos="???">grov</t>
+            <xg>
+               <x>Máhtes lea gassa jietna.</x>
+               <xt>Máhtte har en dyp stemme.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6125,6 +6157,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om runde gjenstander</re>
             <t decl="1" pos="a">tynn</t>
             <t decl="5" pos="a">spinkel</t>
          </tg>
