@@ -293,11 +293,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="pron">den</t>
-            <t pos="phrase">det som</t>
+            <t pos="phrase">den som</t>
             <xg>
-               <x>Šaldi vuolde lea stállu, guhte áitá borrat sin.</x>
-               <xt>Under brua er det et troll som truer med å spise dem.</xt>
+               <x>Kandidáhtta guhte buohccá skuvlaeksámena áigge, ferte dieđihit dan eksámenlanja váldofáktii.</x>
+               <xt>En kandidat som blir syk under skoleeksamen, må underrette hovedvakt i eksamenslokalet.</xt>
             </xg>
          </tg>
       </mg>
@@ -347,7 +346,7 @@ For the full license text, see the link above.</lic>
             <t pos="phrase">de som</t>
             <xg>
                <x>Kurssat leat sin várás guđet máhttet veaháš sámegiela ovddežis.</x>
-               <xt>Kursene er ment for de som kan litt samisk fra før.</xt>
+               <xt>Kursene er ment for dem som kan litt samisk fra før.</xt>
             </xg>
          </tg>
       </mg>
@@ -928,6 +927,15 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron">hvem</t>
             <tf pos="phrase">hvem sin</tf>
+            <t pos="pron">hvilken</t>
+            <xg>
+               <x>Guđe riikkas don leat eret?</x>
+               <xt>Hvilket land kommer du fra?</xt>
+            </xg>
+            <xg>
+               <x>In leat mearridan guđe presideantaevttohasa jienastan.</x>
+               <xt>Jeg har ikke bestemt meg for hvilken presidentkandidat jeg skal stemme på.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -940,6 +948,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">til hvem</tf>
+            <xg>
+               <x>Guhtiige galgá 50 ruvdno bálkán.</x>
+               <xt>Hver skal ha 50 kroner i lønn.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -952,6 +964,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">hvem (har)</tf>
+            <xg>
+               <x>Mii fertet geavahit daid čanastagaid mat guđesge leat.</x>
+               <xt>Vi må bruke de forbindelsene som hver enkelt har.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -964,6 +980,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">med hvem</tf>
+            <xg>
+               <x>Guđiin biillain don bohtet?</x>
+               <xt>Med hvilken bil kom du?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -976,6 +996,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">som hvem</tf>
+            <xg>
+               <x>Guhten filbmanástin don háliidivččet šaddat?</x>
+               <xt>Hvilken filmstjerne hadde du hatt lyst til å bli?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="">som</t>
+            <xg>
+               <x>Dat filbmanásti, guhten don háliidivččet šaddat, lea biddjon giddagassii.</x>
+               <xt>Den filmstjerna som du har lyst til å bli, er satt i fengsel.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -990,6 +1023,19 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">hvem sin (flertall)</tf>
             <tf pos="phrase">hvem (flertall)</tf>
+            <xg>
+               <x>Guđiid biktasiid mun galggan bassat?</x>
+               <xt>Hvilke klær skal jeg vaske?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="">som</t>
+            <xg>
+               <x>Daid biktasiid, guđiid mun lean aiddo bassan, ferte fas bassat.</x>
+               <xt>De klærne, som jeg nettopp har vasket, må vaskes igjen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1002,6 +1048,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">til hvem (flertall)</tf>
+            <xg>
+               <x>Guđiide viesuide leat don dolvon juovlaskeaŋkkaid?</x>
+               <xt>Til hvilke hus har du levert julegaver?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="">som</t>
+            <xg>
+               <x>Daidda viesuide, guđiide don dolvot juovlaskeaŋkkaid, leat jo boahtán juovlaguossit.</x>
+               <xt>Til de husene, som du leverte julegaver, er det allerede kommet julebesøk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1014,6 +1073,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">hvem (har) (flertall)</tf>
+            <xg>
+               <x>Guđiin viesuin leat biilavisttit?</x>
+               <xt>Hvilke hus har garasjer?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="">som</t>
+            <xg>
+               <x>Dat viesut, guđiin leat biilavisttit, leat divrasat.</x>
+               <xt>De husene, som har garasjer, er dyre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1026,6 +1098,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase">med hvem (flertall)</tf>
+            <xg>
+               <x>Guđiiguin mašiinnaiguin lea álkimus goarrut?</x>
+               <xt>Med hvilke maskiner er det lettest å sy?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="">som</t>
+            <xg>
+               <x>Daiguin mašiinnaiguin, guđiiguin lea álkimus goarrut, leat álo olbmot goarrume.</x>
+               <xt>Med de maskinene, som det er lettest å sy med, er det alltid noen som syr.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
