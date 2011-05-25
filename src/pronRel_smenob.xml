@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -274,7 +274,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>innenfor en avgrenset gruppe</re>
             <t pos="pron">hvem</t>
+            <t pos="pron">hvilken</t>
+            <xg>
+               <x>Guhte lea dán bargan?</x>
+               <xt>Hvem har gjort dette?</xt>
+            </xg>
+            <xg>
+               <x>Guhte seahkka lea losimus?</x>
+               <xt>Hvilken sekk er tyngst?</xt>
+            </xg>
+            <xg>
+               <x>Elle muitalii maid guhte válddii.</x>
+               <xt>Elle fortalte hva hver enkelt tok.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="phrase">den/det som</t>
+            <xg>
+               <x>Šaldi vuolde lea stállu, guhte áitá borrat sin.</x>
+               <xt>Under brua er det et troll som truer med å spise dem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -305,13 +328,32 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hvem (flertall)</tf>
+            <re>om flere innefor en avgrenset gruppe</re>
+            <t pos="pron">hvem</t>
+            <t pos="pron">hvilke</t>
+            <xg>
+               <x>Guđet leat dán bargan?</x>
+               <xt>Hvem har gjort dette?</xt>
+            </xg>
+            <xg>
+               <x>Guđet fáhcat leat du?</x>
+               <xt>Hvilke votter er dine?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="phrase">de som</t>
+            <xg>
+               <x>Kurssat leat sin várás guđet máhttet veaháš sámegiela ovddežis.</x>
+               <xt>Kursene er ment for de som kan litt samisk fra før.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="interr" nr="sg">makkár</l>
+         <l nr="sg" pos="pron" type="interr">makkár</l>
          <analysis>Pron_Interr_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Sg_Acc">
@@ -342,7 +384,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="interr" nr="pl">makkárat</l>
+         <l nr="pl" pos="pron" type="interr">makkárat</l>
          <analysis>Pron_Interr_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Pl_Acc">
@@ -367,13 +409,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hva slags (flertall)</tf>
+            <re>om flere</re>
+            <tf pos="phrase">hva slags</tf>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel" nr="sg">maid</l>
+         <l nr="sg" pos="pron" type="rel">maid</l>
          <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
@@ -592,7 +635,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel" nr="pl">maid</l>
+         <l nr="pl" pos="pron" type="rel">maid</l>
          <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
@@ -601,8 +644,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">hva (flertall)</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
             <xg>
                <x>Dás beasat lohkat muhtin áššiid maid birra Áššu lea čállán mannan jagi.</x>
@@ -621,8 +664,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">til hva (flertall)</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
             <xg>
                <x>Buot dát ledje atnudávvirat, maidda beaivválaččat lei dárbu.</x>
@@ -641,8 +684,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">av hva (flertall)</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
             <xg>
                <x>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</x>
@@ -661,8 +704,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">med hva (flertall)</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
             <xg>
                <x>Dathan leat áššit maiguin Sámediggi bargá.</x>
@@ -801,7 +844,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel" nr="sg">goappáin</l>
+         <l nr="sg" pos="pron" type="rel">goappáin</l>
          <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -851,7 +894,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel" nr="pl">goappáin</l>
+         <l nr="pl" pos="pron" type="rel">goappáin</l>
          <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -913,7 +956,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel" nr="sg">guđiin</l>
+         <l nr="sg" pos="pron" type="rel">guđiin</l>
          <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -963,7 +1006,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel" nr="pl">guđiin</l>
+         <l nr="pl" pos="pron" type="rel">guđiin</l>
          <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -1025,7 +1068,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr" nr="sg">makkáriin</l>
+         <l nr="sg" pos="pron" type="interr">makkáriin</l>
          <lemma_ref lemmaID="makkár_pron_interr_sg">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Com</analysis>
       </lg>
@@ -1074,7 +1117,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr" nr="pl">makkáriin</l>
+         <l nr="pl" pos="pron" type="interr">makkáriin</l>
          <lemma_ref lemmaID="makkárat_pron_interr_pl">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Loc</analysis>
       </lg>
