@@ -30,6 +30,122 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">tunealla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tunnell</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">turistabiila</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">turistbil</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">váibmogolláš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">"hjertegull"</t>
+            <xg>
+               <x>Hei, váibmogolláš, don go leat ge dás vázzimin? (S. B. Johansen 2010: Sárá beaivegirji s. 62.)</x>
+               <xt>Hei, hjertegullet mitt, er det du som er ute og går her? (S. B. Johansen 2010: Saras dagbok s.
+               58.)</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">vázzinmátki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gåtur</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">ádjáš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">en liten gammel mann</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">šaddanbeaidoalut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">bursdagsselskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">álkeslohkangirjjáš</l>
+         <lsub pos="n">álkkeslohkangirjjáš</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">en liten lettlest bok</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">čuorvvus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rop</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">čakčaguohtun</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">høstbeite</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">vuodjináigi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kjøretid</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">vázzinsoabbi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gåstav</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">spihkeluossa</l>
       </lg>
       <mg>
@@ -667,7 +783,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">gårdsgjøremål</t>
             <xg>
                <x>Geasset láve veahkehit boandahommáiguin. (S. B. Johansen 2010: Sárá beaivegirji s. 4.)</x>
-               <xt>Om sommeren pleier hun å hjelpe til på gården. (S. B. Johansen 2010: Saras dagbok s. 4.) </xt>
+               <xt>Om sommeren pleier hun å hjelpe til på gården. (S. B. Johansen 2010: Saras dagbok s. 4.)</xt>
             </xg>
          </tg>
       </mg>
@@ -13621,7 +13737,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">bukser</t>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">bukse</t>
          </tg>
       </mg>
    </e>
@@ -15812,7 +15928,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">dongeribukser</t>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">dongeribukse</t>
          </tg>
       </mg>
    </e>
