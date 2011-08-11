@@ -28,230 +28,213 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">valáštallanhálla</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n"
-        tcomm="no">idrettshall</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">ruossa</l>
-
-      <lc>ruossat</lc>
-
-      <lc>russii</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">kors</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n"
-        tcomm="no">felgkryss</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">rissi</l>
-
-      <lc>rissit</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">ris</t>
-
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kvist</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">millu</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">mølle</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">meassut</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n"
-        tcomm="no">festlighet</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">kássa</l>
-
-      <lc>kássat</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kasse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">guossi</l>
-
-      <lc>guossit</lc>
-
-      <lc>gussiid</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">gjest</t>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="G3">gássi</l>
-
-      <lc>gássi</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">råmelk</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kjelost</t>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj" usage="vd">
-    <lg>
-      <l pos="G3">cissa</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">urin</t>
-
-        <t decl="1" dict="no" gen="m" oa="yes" pos="n" tcomm="no">tiss</t>
-
-        <t decl="1" dict="no" gen="m" oa="yes" pos="n" tcomm="no">piss</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">busse</l>
-
-      <lc>busset</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">buss</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">pose</t>
-      </tg>
-    </mg>
-  </e>
-
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">gálvobusse</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n"
-        tcomm="no">bærepose</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">girjebusse</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">bokbuss</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">bussá</l>
-
-      <lc>bussát</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">katt</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">adreassa</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">adresse</t>
-      </tg>
-    </mg>
-  </e>
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="G3">allameassu</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="f" oa="yes" pos="n"
-        tcomm="no">høymesse</t>
-      </tg>
-    </mg>
-  </e>
+   <e usage="vd">
+      <lg>
+         <l pos="g3">tunealla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tunnel</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="g3">tunnealla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tunnel</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="g3">biffa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">biff</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">valáštallanhálla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">idrettshall</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">ruossa</l>
+         <lc>ruossat</lc>
+         <lc>russii</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">kors</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">felgkryss</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">rissi</l>
+         <lc>rissit</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">ris</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kvist</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">millu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">mølle</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">meassut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">festlighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">kássa</l>
+         <lc>kássat</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">guossi</l>
+         <lc>guossit</lc>
+         <lc>gussiid</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">gjest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="G3">gássi</l>
+         <lc>gássi</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">råmelk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kjelost</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="G3">cissa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">urin</t>
+            <t decl="1" dict="no" gen="m" oa="yes" pos="n" tcomm="no">tiss</t>
+            <t decl="1" dict="no" gen="m" oa="yes" pos="n" tcomm="no">piss</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">busse</l>
+         <lc>busset</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">buss</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">pose</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">gálvobusse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">bærepose</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">girjebusse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">bokbuss</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">bussá</l>
+         <lc>bussát</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">katt</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">adreassa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">adresse</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="G3">allameassu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">høymesse</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l illpl="ok" pos="g3">beassi</l>

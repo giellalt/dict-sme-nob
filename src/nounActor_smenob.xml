@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -28,27 +28,34 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-  <e usage="vd">
-    <lg>
-      <l illpl="ok" pos="actor">guorbmebiilavuoddji</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t decl="1" dict="yes" gen="m" oa="yes" pos="n"
-        tcomm="no">lastebilsjåfør</t>
-      </tg>
-    </mg>
-  </e>
-
+   <e usage="vd">
+      <lg>
+         <l pos="actor">geaidnobargi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vegarbeider</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="actor">guorbmebiilavuoddji</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">lastebilsjåfør</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l illpl="ok" pos="actor">bassi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">rengjøringsassistent</t>
-            <t pos="n" gen="m" decl="2">vasker</t>
+            <t decl="1" gen="m" pos="n">rengjøringsassistent</t>
+            <t decl="2" gen="m" pos="n">vasker</t>
             <xg>
                <x>Skuvllas leat guokte bassi.</x>
                <xt>På skolen er det to rengjøringsassistenter.</xt>
@@ -66,7 +73,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">kattedyr</t>
+            <t decl="1" gen="n" pos="n">kattedyr</t>
          </tg>
       </mg>
    </e>
@@ -76,7 +83,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">statssekretær</t>
+            <t decl="1" gen="m" pos="n">statssekretær</t>
          </tg>
       </mg>
    </e>
@@ -86,7 +93,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">arbeidsgiver</t>
+            <t decl="1" gen="m" pos="n">arbeidsgiver</t>
          </tg>
       </mg>
    </e>
@@ -96,7 +103,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">personalkonsulent</t>
+            <t decl="1" gen="m" pos="n">personalkonsulent</t>
          </tg>
       </mg>
    </e>
@@ -106,17 +113,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">instruktør</t>
+            <t decl="1" gen="m" pos="n">instruktør</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">konsulent</t>
+            <t decl="1" gen="m" pos="n">konsulent</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">rettleder</t>
+            <t decl="2" gen="m" pos="n">rettleder</t>
          </tg>
       </mg>
    </e>
@@ -126,7 +133,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">deltaker</t>
+            <t decl="2" gen="m" pos="n">deltaker</t>
          </tg>
       </mg>
    </e>
@@ -136,7 +143,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">reindriftsutøver</t>
+            <t decl="2" gen="m" pos="n">reindriftsutøver</t>
          </tg>
       </mg>
    </e>
@@ -146,7 +153,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">filmskaper</t>
+            <t decl="2" gen="m" pos="n">filmskaper</t>
          </tg>
       </mg>
    </e>
@@ -156,7 +163,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">redaktør</t>
+            <t decl="1" gen="m" pos="n">redaktør</t>
          </tg>
       </mg>
    </e>
@@ -166,7 +173,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">rådgiver</t>
+            <t decl="2" gen="m" pos="n">rådgiver</t>
          </tg>
       </mg>
    </e>
@@ -176,7 +183,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">vandrer</t>
+            <t decl="2" gen="m" pos="n">vandrer</t>
          </tg>
       </mg>
    </e>
@@ -186,7 +193,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kriminell</t>
+            <t decl="2" gen="m" pos="n">kriminell</t>
          </tg>
       </mg>
    </e>
@@ -196,7 +203,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">sjåfør</t>
+            <t decl="1" gen="m" pos="n">sjåfør</t>
          </tg>
       </mg>
    </e>
@@ -206,7 +213,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">vaktmester</t>
+            <t decl="2" gen="m" pos="n">vaktmester</t>
          </tg>
       </mg>
    </e>
@@ -216,7 +223,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">vinner</t>
+            <t decl="2" gen="m" pos="n">vinner</t>
          </tg>
       </mg>
    </e>
@@ -226,7 +233,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">bussjåfør</t>
+            <t decl="1" gen="m" pos="n">bussjåfør</t>
          </tg>
       </mg>
    </e>
@@ -236,7 +243,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fullmektig</t>
+            <t decl="2" gen="m" pos="n">fullmektig</t>
          </tg>
       </mg>
    </e>
@@ -246,7 +253,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">veileder</t>
+            <t decl="2" gen="m" pos="n">veileder</t>
          </tg>
       </mg>
    </e>
@@ -256,8 +263,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">drosjesjåfør</t>
-            <t pos="n" gen="m" decl="1">taksisjåfør</t>
+            <t decl="1" gen="m" pos="n">drosjesjåfør</t>
+            <t decl="1" gen="m" pos="n">taksisjåfør</t>
          </tg>
       </mg>
    </e>
@@ -267,7 +274,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">førskolelærer</t>
+            <t decl="2" gen="m" pos="n">førskolelærer</t>
          </tg>
       </mg>
    </e>
@@ -277,8 +284,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">søker</t>
-            <t pos="n" gen="m" decl="2">skjerper</t>
+            <t decl="2" gen="m" pos="n">søker</t>
+            <t decl="2" gen="m" pos="n">skjerper</t>
          </tg>
       </mg>
    </e>
@@ -288,7 +295,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">elev</t>
+            <t decl="1" gen="m" pos="n">elev</t>
          </tg>
       </mg>
    </e>
@@ -298,7 +305,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">slakter</t>
+            <t decl="2" gen="m" pos="n">slakter</t>
          </tg>
       </mg>
    </e>
@@ -308,7 +315,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">barnepasser</t>
+            <t decl="2" gen="m" pos="n">barnepasser</t>
          </tg>
       </mg>
    </e>
@@ -318,7 +325,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">joiker</t>
+            <t decl="2" gen="m" pos="n">joiker</t>
          </tg>
       </mg>
    </e>
@@ -328,7 +335,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fisker</t>
+            <t decl="2" gen="m" pos="n">fisker</t>
          </tg>
       </mg>
    </e>
@@ -338,7 +345,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fisker</t>
+            <t decl="2" gen="m" pos="n">fisker</t>
          </tg>
       </mg>
    </e>
@@ -348,7 +355,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">skredder</t>
+            <t decl="2" gen="m" pos="n">skredder</t>
          </tg>
       </mg>
    </e>
@@ -358,7 +365,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">jordbruker</t>
+            <t decl="2" gen="m" pos="n">jordbruker</t>
          </tg>
       </mg>
    </e>
@@ -368,7 +375,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">bumann</t>
+            <t decl="irr" gen="m" pos="n">bumann</t>
          </tg>
       </mg>
    </e>
@@ -378,7 +385,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">jordbruker</t>
+            <t decl="2" gen="m" pos="n">jordbruker</t>
          </tg>
       </mg>
    </e>
@@ -388,7 +395,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fotballspiller</t>
+            <t decl="2" gen="m" pos="n">fotballspiller</t>
          </tg>
       </mg>
    </e>
@@ -398,7 +405,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">jeger</t>
+            <t decl="2" gen="m" pos="n">jeger</t>
          </tg>
       </mg>
    </e>
@@ -408,8 +415,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">spiser</t>
-            <t pos="n" gen="m" decl="2">eter</t>
+            <t decl="2" gen="m" pos="n">spiser</t>
+            <t decl="2" gen="m" pos="n">eter</t>
             <xg>
                <x>Dat olbmát ledje duhpátborrit, geaid lusa son bođii.</x>
                <xt>De karene var snustyggere, som han kom til.</xt>
@@ -422,10 +429,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="2">uhyre</t>
+            <t decl="2" gen="n" pos="n">uhyre</t>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
@@ -436,7 +443,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">pleier</t>
+            <t decl="2" gen="m" pos="n">pleier</t>
             <xg>
                <x>Ođđa ossodahkii dárbbašuvvojit goitge logi dikšu.</x>
                <xt>Til den nye avdelingen trenges iallfall 10 pleiere.</xt>
@@ -454,8 +461,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">morder</t>
-            <t pos="n" gen="m" decl="2">avliver</t>
+            <t decl="2" gen="m" pos="n">morder</t>
+            <t decl="2" gen="m" pos="n">avliver</t>
          </tg>
       </mg>
    </e>
@@ -465,7 +472,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">spørsmålstiller</t>
+            <t decl="2" gen="m" pos="n">spørsmålstiller</t>
          </tg>
       </mg>
    </e>
@@ -475,7 +482,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">bærer</t>
+            <t decl="2" gen="m" pos="n">bærer</t>
          </tg>
       </mg>
    </e>
@@ -485,7 +492,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">språkmedarbeider</t>
+            <t decl="2" gen="m" pos="n">språkmedarbeider</t>
          </tg>
       </mg>
    </e>
@@ -495,7 +502,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">språkmedarbeider</t>
+            <t decl="2" gen="m" pos="n">språkmedarbeider</t>
          </tg>
       </mg>
    </e>
@@ -505,8 +512,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sanger</t>
-            <t pos="n" gen="m" decl="1">vokalist</t>
+            <t decl="2" gen="m" pos="n">sanger</t>
+            <t decl="1" gen="m" pos="n">vokalist</t>
             <xg>
                <x>Oktiibuot logi juoigi ja guhtta lávlu leat lávddi alde beassášlávvordaga.</x>
                <xt>Tilsammen ti joikere og seks sangere er på scenen påskeaften.</xt>
@@ -524,7 +531,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">leser</t>
+            <t decl="2" gen="m" pos="n">leser</t>
             <xg>
                <x>Jurddašin jearahallat vihtta lohkki luopmoplánaid birra.</x>
                <xt>Jeg tenkte å intervje fem lesere om ferieplaner.</xt>
@@ -542,7 +549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">selger</t>
+            <t decl="2" gen="m" pos="n">selger</t>
             <xg>
                <x>Máŋga vuovdi ledje boahtán márkanii.</x>
                <xt>Mange selgere var kommet til markedet.</xt>
@@ -561,8 +568,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">leder</t>
-            <t pos="n" gen="m" decl="2">styrer</t>
+            <t decl="2" gen="m" pos="n">leder</t>
+            <t decl="2" gen="m" pos="n">styrer</t>
          </tg>
       </mg>
    </e>
@@ -572,7 +579,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">prosjektleder</t>
+            <t decl="2" gen="m" pos="n">prosjektleder</t>
          </tg>
       </mg>
    </e>
@@ -582,7 +589,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">ordfører</t>
+            <t decl="2" gen="m" pos="n">ordfører</t>
          </tg>
       </mg>
    </e>
@@ -593,12 +600,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">arbeider</t>
+            <t decl="2" gen="m" pos="n">arbeider</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">arbeidstaker</t>
+            <t decl="2" gen="m" pos="n">arbeidstaker</t>
          </tg>
       </mg>
    </e>
@@ -608,7 +615,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">helsearbeider</t>
+            <t decl="2" gen="m" pos="n">helsearbeider</t>
          </tg>
       </mg>
    </e>
@@ -618,7 +625,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fabrikkarbeider</t>
+            <t decl="2" gen="m" pos="n">fabrikkarbeider</t>
          </tg>
       </mg>
    </e>
@@ -628,8 +635,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">ekspeditør</t>
-            <t pos="n" gen="m" decl="2">butikkansatt</t>
+            <t decl="1" gen="m" pos="n">ekspeditør</t>
+            <t decl="2" gen="m" pos="n">butikkansatt</t>
          </tg>
       </mg>
    </e>
@@ -640,8 +647,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kontorarbeider</t>
-            <t pos="n" gen="m" decl="2">kontoransatt</t>
+            <t decl="2" gen="m" pos="n">kontorarbeider</t>
+            <t decl="2" gen="m" pos="n">kontoransatt</t>
          </tg>
       </mg>
    </e>
@@ -652,7 +659,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">innbygger</t>
+            <t decl="2" gen="m" pos="n">innbygger</t>
          </tg>
       </mg>
    </e>
@@ -662,7 +669,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forfatter</t>
+            <t decl="2" gen="m" pos="n">forfatter</t>
          </tg>
       </mg>
    </e>
@@ -673,17 +680,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forfatter</t>
+            <t decl="2" gen="m" pos="n">forfatter</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">sekretær</t>
+            <t decl="1" gen="m" pos="n">sekretær</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">skribent</t>
+            <t decl="1" gen="m" pos="n">skribent</t>
          </tg>
       </mg>
    </e>
@@ -695,7 +702,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">skiløper</t>
+            <t decl="2" gen="m" pos="n">skiløper</t>
          </tg>
       </mg>
    </e>
@@ -706,7 +713,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forsker</t>
+            <t decl="2" gen="m" pos="n">forsker</t>
          </tg>
       </mg>
    </e>
@@ -716,7 +723,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">kjæledyr</t>
+            <t decl="1" gen="n" pos="n">kjæledyr</t>
          </tg>
       </mg>
    </e>
@@ -733,7 +740,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">dyr</t>
+            <t decl="1" gen="n" pos="n">dyr</t>
          </tg>
       </mg>
    </e>
@@ -744,12 +751,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">fly</t>
+            <t decl="1" gen="n" pos="n">fly</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">flyver</t>
+            <t decl="2" gen="m" pos="n">flyver</t>
          </tg>
       </mg>
    </e>
@@ -761,7 +768,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">gjeter</t>
+            <t decl="2" gen="m" pos="n">gjeter</t>
          </tg>
       </mg>
    </e>
@@ -772,8 +779,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">død</t>
-            <t pos="n" gen="n" decl="1">lik</t>
+            <t decl="2" gen="m" pos="n">død</t>
+            <t decl="1" gen="n" pos="n">lik</t>
          </tg>
       </mg>
    </e>
@@ -785,8 +792,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="3">disippel</t>
-            <t pos="n" gen="m" decl="3">apostel</t>
+            <t decl="3" gen="m" pos="n">disippel</t>
+            <t decl="3" gen="m" pos="n">apostel</t>
          </tg>
       </mg>
    </e>
@@ -798,7 +805,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">lærer</t>
+            <t decl="2" gen="m" pos="n">lærer</t>
          </tg>
       </mg>
    </e>
@@ -808,7 +815,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forbryter</t>
+            <t decl="2" gen="m" pos="n">forbryter</t>
          </tg>
       </mg>
    </e>
@@ -828,7 +835,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forbryter</t>
+            <t decl="2" gen="m" pos="n">forbryter</t>
          </tg>
       </mg>
    </e>
@@ -838,7 +845,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">stangfisker</t>
+            <t decl="2" gen="m" pos="n">stangfisker</t>
          </tg>
       </mg>
    </e>
@@ -848,7 +855,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">reindriftarbeider</t>
+            <t decl="2" gen="m" pos="n">reindriftarbeider</t>
          </tg>
       </mg>
    </e>
@@ -858,7 +865,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">flyktning</t>
+            <t decl="1" gen="m" pos="n">flyktning</t>
          </tg>
       </mg>
    </e>
@@ -868,7 +875,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">skytter</t>
+            <t decl="2" gen="m" pos="n">skytter</t>
          </tg>
       </mg>
    </e>
@@ -878,7 +885,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">informasjonsmedarbeider</t>
+            <t decl="2" gen="m" pos="n">informasjonsmedarbeider</t>
          </tg>
       </mg>
    </e>
@@ -888,7 +895,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">kontrollør</t>
+            <t decl="1" gen="m" pos="n">kontrollør</t>
          </tg>
       </mg>
    </e>
@@ -898,7 +905,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">generalsekretær</t>
+            <t decl="1" gen="m" pos="n">generalsekretær</t>
          </tg>
       </mg>
    </e>
@@ -908,7 +915,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">konkurrent</t>
+            <t decl="1" gen="m" pos="n">konkurrent</t>
          </tg>
       </mg>
    </e>
@@ -918,7 +925,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">førstegangsvelger</t>
+            <t decl="2" gen="m" pos="n">førstegangsvelger</t>
          </tg>
       </mg>
    </e>
@@ -928,7 +935,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">velger</t>
+            <t decl="2" gen="m" pos="n">velger</t>
          </tg>
       </mg>
    </e>
@@ -938,7 +945,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kulturarbeider</t>
+            <t decl="2" gen="m" pos="n">kulturarbeider</t>
          </tg>
       </mg>
    </e>
@@ -948,7 +955,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">prosjektarbeider</t>
+            <t decl="2" gen="m" pos="n">prosjektarbeider</t>
          </tg>
       </mg>
    </e>
@@ -958,7 +965,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">administrasjonsansatt</t>
+            <t decl="2" gen="m" pos="n">administrasjonsansatt</t>
          </tg>
       </mg>
    </e>
@@ -968,7 +975,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kommuneansatt</t>
+            <t decl="2" gen="m" pos="n">kommuneansatt</t>
          </tg>
       </mg>
    </e>
@@ -978,7 +985,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">rørlegger</t>
+            <t decl="2" gen="m" pos="n">rørlegger</t>
          </tg>
       </mg>
    </e>
@@ -988,7 +995,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">lønnsmottaker</t>
+            <t decl="2" gen="m" pos="n">lønnsmottaker</t>
          </tg>
       </mg>
    </e>
@@ -998,7 +1005,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">yrkesutøver</t>
+            <t decl="2" gen="m" pos="n">yrkesutøver</t>
          </tg>
       </mg>
    </e>
@@ -1008,7 +1015,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">transportarbeider</t>
+            <t decl="2" gen="m" pos="n">transportarbeider</t>
          </tg>
       </mg>
    </e>
@@ -1018,7 +1025,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">prosjektmedarbeider</t>
+            <t decl="2" gen="m" pos="n">prosjektmedarbeider</t>
          </tg>
       </mg>
    </e>
@@ -1028,7 +1035,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">butikkansatt</t>
+            <t decl="2" gen="m" pos="n">butikkansatt</t>
          </tg>
       </mg>
    </e>
@@ -1038,18 +1045,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">trener</t>
+            <t decl="2" gen="m" pos="n">trener</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="actor">stivrajođiheaddji</l>
-		 <lsub>stivrrajođiheaddji</lsub>
+         <lsub>stivrrajođiheaddji</lsub>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">styreleder</t>
+            <t decl="2" gen="m" pos="n">styreleder</t>
          </tg>
       </mg>
    </e>
@@ -1059,18 +1066,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">varaordfører</t>
+            <t decl="2" gen="m" pos="n">varaordfører</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="actor">nubbejođiheaddji</l>
-		 <lsub>nubbinjođiheaddji</lsub>
+         <lsub>nubbinjođiheaddji</lsub>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">nestleder</t>
+            <t decl="2" gen="m" pos="n">nestleder</t>
          </tg>
       </mg>
    </e>
@@ -1080,7 +1087,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">innflytter</t>
+            <t decl="2" gen="m" pos="n">innflytter</t>
          </tg>
       </mg>
    </e>
@@ -1090,7 +1097,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">oversetter</t>
+            <t decl="2" gen="m" pos="n">oversetter</t>
          </tg>
       </mg>
    </e>
@@ -1100,7 +1107,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">redaktør</t>
+            <t decl="1" gen="m" pos="n">redaktør</t>
          </tg>
       </mg>
    </e>
@@ -1110,7 +1117,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">eier</t>
+            <t decl="2" gen="m" pos="n">eier</t>
          </tg>
       </mg>
    </e>
@@ -1120,7 +1127,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">motstander</t>
+            <t decl="2" gen="m" pos="n">motstander</t>
          </tg>
       </mg>
    </e>
@@ -1130,7 +1137,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">finansiør</t>
+            <t decl="1" gen="m" pos="n">finansiør</t>
          </tg>
       </mg>
    </e>
@@ -1140,7 +1147,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="indecl">reisende</t>
+            <t decl="indecl" gen="m" pos="n">reisende</t>
          </tg>
       </mg>
    </e>
@@ -1150,8 +1157,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">initiativtaker</t>
-            <t pos="n" gen="m" decl="2">oppstarter</t>
+            <t decl="2" gen="m" pos="n">initiativtaker</t>
+            <t decl="2" gen="m" pos="n">oppstarter</t>
          </tg>
       </mg>
    </e>
@@ -1161,7 +1168,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sultestreiker</t>
+            <t decl="2" gen="m" pos="n">sultestreiker</t>
          </tg>
       </mg>
    </e>
@@ -1171,8 +1178,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">ordfører</t>
-            <t pos="n" gen="m" decl="2">ordstyrer</t>
+            <t decl="2" gen="m" pos="n">ordfører</t>
+            <t decl="2" gen="m" pos="n">ordstyrer</t>
          </tg>
       </mg>
    </e>
@@ -1182,7 +1189,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">barneombud</t>
+            <t decl="1" gen="n" pos="n">barneombud</t>
          </tg>
       </mg>
    </e>
@@ -1192,18 +1199,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fjordfisker</t>
+            <t decl="2" gen="m" pos="n">fjordfisker</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="actor">siviilaáittardeaddji</l>
-		 <lsub>siviláittardeaddji</lsub>
+         <lsub>siviláittardeaddji</lsub>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">sivilombudsmann</t>
+            <t decl="irr" gen="m" pos="n">sivilombudsmann</t>
          </tg>
       </mg>
    </e>
@@ -1223,7 +1230,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">angiver</t>
+            <t decl="2" gen="m" pos="n">angiver</t>
          </tg>
       </mg>
    </e>
@@ -1233,7 +1240,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fritidsleder</t>
+            <t decl="2" gen="m" pos="n">fritidsleder</t>
          </tg>
       </mg>
    </e>
@@ -1253,7 +1260,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forsvarer</t>
+            <t decl="2" gen="m" pos="n">forsvarer</t>
          </tg>
       </mg>
    </e>
@@ -1263,7 +1270,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">familiebarnehagestyrer</t>
+            <t decl="2" gen="m" pos="n">familiebarnehagestyrer</t>
          </tg>
       </mg>
    </e>
@@ -1273,7 +1280,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">miljøvernleder</t>
+            <t decl="2" gen="m" pos="n">miljøvernleder</t>
          </tg>
       </mg>
    </e>
@@ -1283,12 +1290,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">produksjonsleder</t>
+            <t decl="2" gen="m" pos="n">produksjonsleder</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">produsent</t>
+            <t decl="1" gen="m" pos="n">produsent</t>
          </tg>
       </mg>
    </e>
@@ -1298,7 +1305,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">ekspropriant</t>
+            <t decl="1" gen="m" pos="n">ekspropriant</t>
          </tg>
       </mg>
    </e>
@@ -1308,7 +1315,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">sufflør</t>
+            <t decl="1" gen="m" pos="n">sufflør</t>
          </tg>
       </mg>
    </e>
@@ -1318,7 +1325,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">bestiller</t>
+            <t decl="2" gen="m" pos="n">bestiller</t>
          </tg>
       </mg>
    </e>
@@ -1328,7 +1335,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">rapportør</t>
+            <t decl="1" gen="m" pos="n">rapportør</t>
          </tg>
       </mg>
    </e>
@@ -1338,7 +1345,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">debattleder</t>
+            <t decl="2" gen="m" pos="n">debattleder</t>
          </tg>
       </mg>
    </e>
@@ -1348,7 +1355,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">ordreprodusent</t>
+            <t decl="1" gen="m" pos="n">ordreprodusent</t>
          </tg>
       </mg>
    </e>
@@ -1358,7 +1365,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">driftsbestyrer</t>
+            <t decl="2" gen="m" pos="n">driftsbestyrer</t>
          </tg>
       </mg>
    </e>
@@ -1368,7 +1375,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">tiltakskonsulent</t>
+            <t decl="1" gen="m" pos="n">tiltakskonsulent</t>
          </tg>
       </mg>
    </e>
@@ -1378,7 +1385,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">festtaler</t>
+            <t decl="2" gen="m" pos="n">festtaler</t>
          </tg>
       </mg>
    </e>
@@ -1388,7 +1395,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">akseptant</t>
+            <t decl="1" gen="m" pos="n">akseptant</t>
          </tg>
       </mg>
    </e>
@@ -1398,7 +1405,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">mottaker</t>
+            <t decl="2" gen="m" pos="n">mottaker</t>
          </tg>
       </mg>
    </e>
@@ -1408,7 +1415,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">kausjonist</t>
+            <t decl="1" gen="m" pos="n">kausjonist</t>
          </tg>
       </mg>
    </e>
@@ -1418,7 +1425,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">likestillingsombud</t>
+            <t decl="1" gen="n" pos="n">likestillingsombud</t>
          </tg>
       </mg>
    </e>
@@ -1428,7 +1435,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">eierpretendent</t>
+            <t decl="1" gen="m" pos="n">eierpretendent</t>
          </tg>
       </mg>
    </e>
@@ -1438,7 +1445,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">næringskonsulent</t>
+            <t decl="1" gen="m" pos="n">næringskonsulent</t>
          </tg>
       </mg>
    </e>
@@ -1448,7 +1455,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">landmåler</t>
+            <t decl="2" gen="m" pos="n">landmåler</t>
          </tg>
       </mg>
    </e>
@@ -1458,7 +1465,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">økonomikonsulent</t>
+            <t decl="1" gen="m" pos="n">økonomikonsulent</t>
          </tg>
       </mg>
    </e>
@@ -1468,7 +1475,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">samboer</t>
+            <t decl="2" gen="m" pos="n">samboer</t>
          </tg>
       </mg>
    </e>
@@ -1479,7 +1486,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="phrase_n">utflyttet person</tf>
-            <t pos="n" gen="m" decl="2">utflytter</t>
+            <t decl="2" gen="m" pos="n">utflytter</t>
          </tg>
       </mg>
    </e>
@@ -1489,7 +1496,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forslagstiller</t>
+            <t decl="2" gen="m" pos="n">forslagstiller</t>
          </tg>
       </mg>
    </e>
@@ -1499,7 +1506,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">yrkesveileder</t>
+            <t decl="2" gen="m" pos="n">yrkesveileder</t>
          </tg>
       </mg>
    </e>
@@ -1509,7 +1516,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">foretaker</t>
+            <t decl="2" gen="m" pos="n">foretaker</t>
          </tg>
       </mg>
    </e>
@@ -1519,18 +1526,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forsørger</t>
+            <t decl="2" gen="m" pos="n">forsørger</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="actor">fylkkasátnejođiheaddji</l>
-		 <lsub>fylkasátnejođiheaddji</lsub>
+         <lsub>fylkasátnejođiheaddji</lsub>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fylkesordfører</t>
+            <t decl="2" gen="m" pos="n">fylkesordfører</t>
          </tg>
       </mg>
    </e>
@@ -1540,7 +1547,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">faglærer</t>
+            <t decl="2" gen="m" pos="n">faglærer</t>
          </tg>
       </mg>
    </e>
@@ -1550,7 +1557,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">kommisjonær</t>
+            <t decl="1" gen="m" pos="n">kommisjonær</t>
          </tg>
       </mg>
    </e>
@@ -1560,7 +1567,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">bruker</t>
+            <t decl="2" gen="m" pos="n">bruker</t>
          </tg>
       </mg>
    </e>
@@ -1570,7 +1577,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">forbrukerombud</t>
+            <t decl="1" gen="n" pos="n">forbrukerombud</t>
          </tg>
       </mg>
    </e>
@@ -1580,7 +1587,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">språkkonsulent</t>
+            <t decl="1" gen="m" pos="n">språkkonsulent</t>
          </tg>
       </mg>
    </e>
@@ -1600,7 +1607,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">fotograf</t>
+            <t decl="1" gen="m" pos="n">fotograf</t>
          </tg>
       </mg>
    </e>
@@ -1610,7 +1617,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">fotograf</t>
+            <t decl="1" gen="m" pos="n">fotograf</t>
          </tg>
       </mg>
    </e>
@@ -1620,7 +1627,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">tilsynslærer</t>
+            <t decl="2" gen="m" pos="n">tilsynslærer</t>
          </tg>
       </mg>
    </e>
@@ -1630,7 +1637,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">inspisient</t>
+            <t decl="1" gen="m" pos="n">inspisient</t>
          </tg>
       </mg>
    </e>
@@ -1640,7 +1647,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kontaktlærer</t>
+            <t decl="2" gen="m" pos="n">kontaktlærer</t>
          </tg>
       </mg>
    </e>
@@ -1650,7 +1657,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">tilhører</t>
+            <t decl="2" gen="m" pos="n">tilhører</t>
          </tg>
       </mg>
    </e>
@@ -1660,7 +1667,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">beitekonsulent</t>
+            <t decl="1" gen="m" pos="n">beitekonsulent</t>
          </tg>
       </mg>
    </e>
@@ -1670,7 +1677,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">midtbanespiller</t>
+            <t decl="2" gen="m" pos="n">midtbanespiller</t>
          </tg>
       </mg>
    </e>
@@ -1680,7 +1687,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">pretendent</t>
+            <t decl="1" gen="m" pos="n">pretendent</t>
          </tg>
       </mg>
    </e>
@@ -1690,7 +1697,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">handelsforvalter</t>
+            <t decl="2" gen="m" pos="n">handelsforvalter</t>
          </tg>
       </mg>
    </e>
@@ -1700,7 +1707,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">byggherre</t>
+            <t decl="1" gen="m" pos="n">byggherre</t>
          </tg>
       </mg>
    </e>
@@ -1710,7 +1717,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">tømrer</t>
+            <t decl="2" gen="m" pos="n">tømrer</t>
          </tg>
       </mg>
    </e>
@@ -1720,12 +1727,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">administrator</t>
+            <t decl="1" gen="m" pos="n">administrator</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">oppsitter</t>
+            <t decl="2" gen="m" pos="n">oppsitter</t>
          </tg>
       </mg>
    </e>
@@ -1735,7 +1742,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">innehaver</t>
+            <t decl="2" gen="m" pos="n">innehaver</t>
          </tg>
       </mg>
    </e>
@@ -1745,7 +1752,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">høyttaler</t>
+            <t decl="2" gen="m" pos="n">høyttaler</t>
          </tg>
       </mg>
    </e>
@@ -1755,12 +1762,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">nomade</t>
+            <t decl="1" gen="m" pos="n">nomade</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">trafikant</t>
+            <t decl="1" gen="m" pos="n">trafikant</t>
          </tg>
       </mg>
    </e>
@@ -1770,7 +1777,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">trafikkovervåker</t>
+            <t decl="2" gen="m" pos="n">trafikkovervåker</t>
          </tg>
       </mg>
    </e>
@@ -1780,7 +1787,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">dørselger</t>
+            <t decl="2" gen="m" pos="n">dørselger</t>
          </tg>
       </mg>
    </e>
@@ -1790,7 +1797,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">brannmann</t>
+            <t decl="irr" gen="m" pos="n">brannmann</t>
          </tg>
       </mg>
    </e>
@@ -1800,7 +1807,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kantineleder</t>
+            <t decl="2" gen="m" pos="n">kantineleder</t>
          </tg>
       </mg>
    </e>
@@ -1810,7 +1817,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">konferansearrangør</t>
+            <t decl="1" gen="m" pos="n">konferansearrangør</t>
          </tg>
       </mg>
    </e>
@@ -1820,7 +1827,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">konferansedeltaker</t>
+            <t decl="2" gen="m" pos="n">konferansedeltaker</t>
          </tg>
       </mg>
    </e>
@@ -1830,7 +1837,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">kulturkonsulent</t>
+            <t decl="1" gen="m" pos="n">kulturkonsulent</t>
          </tg>
       </mg>
    </e>
@@ -1840,7 +1847,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kulestøter</t>
+            <t decl="2" gen="m" pos="n">kulestøter</t>
          </tg>
       </mg>
    </e>
@@ -1850,7 +1857,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kontorfullmektig</t>
+            <t decl="2" gen="m" pos="n">kontorfullmektig</t>
          </tg>
       </mg>
    </e>
@@ -1860,7 +1867,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kontorleder</t>
+            <t decl="2" gen="m" pos="n">kontorleder</t>
          </tg>
       </mg>
    </e>
@@ -1870,7 +1877,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">koreograf</t>
+            <t decl="1" gen="m" pos="n">koreograf</t>
          </tg>
       </mg>
    </e>
@@ -1880,7 +1887,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">belåner</t>
+            <t decl="2" gen="m" pos="n">belåner</t>
          </tg>
       </mg>
    </e>
@@ -1890,7 +1897,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">lånegiver</t>
+            <t decl="2" gen="m" pos="n">lånegiver</t>
          </tg>
       </mg>
    </e>
@@ -1900,7 +1907,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">klassestyrer</t>
+            <t decl="2" gen="m" pos="n">klassestyrer</t>
          </tg>
       </mg>
    </e>
@@ -1910,12 +1917,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">arrangør</t>
+            <t decl="1" gen="m" pos="n">arrangør</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">leverandør</t>
+            <t decl="1" gen="m" pos="n">leverandør</t>
          </tg>
       </mg>
    </e>
@@ -1925,12 +1932,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">dirigent</t>
+            <t decl="1" gen="m" pos="n">dirigent</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">pådriver</t>
+            <t decl="2" gen="m" pos="n">pådriver</t>
          </tg>
       </mg>
    </e>
@@ -1940,12 +1947,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">utleier</t>
+            <t decl="2" gen="m" pos="n">utleier</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">bortfester</t>
+            <t decl="2" gen="m" pos="n">bortfester</t>
          </tg>
       </mg>
    </e>
@@ -1955,7 +1962,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">scenograf</t>
+            <t decl="1" gen="m" pos="n">scenograf</t>
          </tg>
       </mg>
    </e>
@@ -1965,7 +1972,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">instruktør</t>
+            <t decl="1" gen="m" pos="n">instruktør</t>
          </tg>
       </mg>
    </e>
@@ -1975,7 +1982,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">militærnekter</t>
+            <t decl="2" gen="m" pos="n">militærnekter</t>
          </tg>
       </mg>
    </e>
@@ -1985,12 +1992,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forteller</t>
+            <t decl="2" gen="m" pos="n">forteller</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">informant</t>
+            <t decl="1" gen="m" pos="n">informant</t>
          </tg>
       </mg>
    </e>
@@ -2000,7 +2007,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">jeg-forteller</t>
+            <t decl="2" gen="m" pos="n">jeg-forteller</t>
          </tg>
       </mg>
    </e>
@@ -2010,7 +2017,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="3">disippel</t>
+            <t decl="3" gen="m" pos="n">disippel</t>
          </tg>
       </mg>
    </e>
@@ -2020,7 +2027,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">barnehagestyrer</t>
+            <t decl="2" gen="m" pos="n">barnehagestyrer</t>
          </tg>
       </mg>
    </e>
@@ -2030,7 +2037,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">barnevernsleder</t>
+            <t decl="2" gen="m" pos="n">barnevernsleder</t>
          </tg>
       </mg>
    </e>
@@ -2040,7 +2047,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">undervisningsinspektør</t>
+            <t decl="1" gen="m" pos="n">undervisningsinspektør</t>
          </tg>
       </mg>
    </e>
@@ -2050,7 +2057,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">studieinspektør</t>
+            <t decl="1" gen="m" pos="n">studieinspektør</t>
          </tg>
       </mg>
    </e>
@@ -2060,7 +2067,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">koordinator</t>
+            <t decl="1" gen="m" pos="n">koordinator</t>
          </tg>
       </mg>
    </e>
@@ -2070,7 +2077,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">eiendomsmekler</t>
+            <t decl="2" gen="m" pos="n">eiendomsmekler</t>
          </tg>
       </mg>
    </e>
@@ -2080,7 +2087,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">avdelingsleder</t>
+            <t decl="2" gen="m" pos="n">avdelingsleder</t>
          </tg>
       </mg>
    </e>
@@ -2090,7 +2097,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">foredragsholder</t>
+            <t decl="2" gen="m" pos="n">foredragsholder</t>
          </tg>
       </mg>
    </e>
@@ -2100,12 +2107,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">foresatt</t>
+            <t decl="2" gen="m" pos="n">foresatt</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">representant</t>
+            <t decl="1" gen="m" pos="n">representant</t>
          </tg>
       </mg>
    </e>
@@ -2115,7 +2122,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">envareprodusent</t>
+            <t decl="1" gen="m" pos="n">envareprodusent</t>
          </tg>
       </mg>
    </e>
@@ -2125,7 +2132,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">meningsfelle</t>
+            <t decl="1" gen="m" pos="n">meningsfelle</t>
          </tg>
       </mg>
    </e>
@@ -2135,7 +2142,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">panelleder</t>
+            <t decl="2" gen="m" pos="n">panelleder</t>
          </tg>
       </mg>
    </e>
@@ -2145,7 +2152,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">paneldeltaker</t>
+            <t decl="2" gen="m" pos="n">paneldeltaker</t>
          </tg>
       </mg>
    </e>
@@ -2155,7 +2162,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">planlegger</t>
+            <t decl="2" gen="m" pos="n">planlegger</t>
          </tg>
       </mg>
    </e>
@@ -2165,7 +2172,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">pressetalsmann</t>
+            <t decl="irr" gen="m" pos="n">pressetalsmann</t>
          </tg>
       </mg>
    </e>
@@ -2175,7 +2182,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">prosessfullmektig</t>
+            <t decl="2" gen="m" pos="n">prosessfullmektig</t>
          </tg>
       </mg>
    </e>
@@ -2185,7 +2192,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">revisor</t>
+            <t decl="1" gen="m" pos="n">revisor</t>
          </tg>
       </mg>
    </e>
@@ -2195,7 +2202,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">riksmeklingsmann</t>
+            <t decl="irr" gen="m" pos="n">riksmeklingsmann</t>
          </tg>
       </mg>
    </e>
@@ -2215,7 +2222,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">feier</t>
+            <t decl="2" gen="m" pos="n">feier</t>
          </tg>
       </mg>
    </e>
@@ -2225,7 +2232,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">inntrenger</t>
+            <t decl="2" gen="m" pos="n">inntrenger</t>
          </tg>
       </mg>
    </e>
@@ -2235,7 +2242,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">donator</t>
+            <t decl="1" gen="m" pos="n">donator</t>
          </tg>
       </mg>
    </e>
@@ -2245,7 +2252,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">diskoskaster</t>
+            <t decl="2" gen="m" pos="n">diskoskaster</t>
          </tg>
       </mg>
    </e>
@@ -2255,7 +2262,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">rektor</t>
+            <t decl="1" gen="m" pos="n">rektor</t>
          </tg>
       </mg>
    </e>
@@ -2265,7 +2272,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">mekler</t>
+            <t decl="2" gen="m" pos="n">mekler</t>
          </tg>
       </mg>
    </e>
@@ -2275,7 +2282,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sosialleder</t>
+            <t decl="2" gen="m" pos="n">sosialleder</t>
          </tg>
       </mg>
    </e>
@@ -2285,7 +2292,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sosiallærer</t>
+            <t decl="2" gen="m" pos="n">sosiallærer</t>
          </tg>
       </mg>
    </e>
@@ -2295,7 +2302,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">sosialkonsulent</t>
+            <t decl="1" gen="m" pos="n">sosialkonsulent</t>
          </tg>
       </mg>
    </e>
@@ -2305,7 +2312,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="indecl">innstevnede</t>
+            <t decl="indecl" gen="m" pos="n">innstevnede</t>
          </tg>
       </mg>
    </e>
@@ -2315,7 +2322,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">styrer</t>
+            <t decl="2" gen="m" pos="n">styrer</t>
          </tg>
       </mg>
    </e>
@@ -2325,7 +2332,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">verneombud</t>
+            <t decl="1" gen="n" pos="n">verneombud</t>
          </tg>
       </mg>
    </e>
@@ -2335,7 +2342,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sveiser</t>
+            <t decl="2" gen="m" pos="n">sveiser</t>
          </tg>
       </mg>
    </e>
@@ -2345,7 +2352,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">avsender</t>
+            <t decl="2" gen="m" pos="n">avsender</t>
          </tg>
       </mg>
    </e>
@@ -2355,7 +2362,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">spydkaster</t>
+            <t decl="2" gen="m" pos="n">spydkaster</t>
          </tg>
       </mg>
    </e>
@@ -2365,7 +2372,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">delegasjonsleder</t>
+            <t decl="2" gen="m" pos="n">delegasjonsleder</t>
          </tg>
       </mg>
    </e>
@@ -2375,7 +2382,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">tabulatorstopper</t>
+            <t decl="2" gen="m" pos="n">tabulatorstopper</t>
          </tg>
       </mg>
    </e>
@@ -2385,7 +2392,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">skattesaksbehandler</t>
+            <t decl="2" gen="m" pos="n">skattesaksbehandler</t>
          </tg>
       </mg>
    </e>
@@ -2395,7 +2402,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fordringshaver</t>
+            <t decl="2" gen="m" pos="n">fordringshaver</t>
          </tg>
       </mg>
    </e>
@@ -2405,7 +2412,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">kreditor</t>
+            <t decl="1" gen="m" pos="n">kreditor</t>
          </tg>
       </mg>
    </e>
@@ -2415,7 +2422,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">boligveileder</t>
+            <t decl="2" gen="m" pos="n">boligveileder</t>
          </tg>
       </mg>
    </e>
@@ -2425,7 +2432,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kjørelærer</t>
+            <t decl="2" gen="m" pos="n">kjørelærer</t>
          </tg>
       </mg>
    </e>
@@ -2435,7 +2442,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">kjøreelev</t>
+            <t decl="1" gen="m" pos="n">kjøreelev</t>
          </tg>
       </mg>
    </e>
@@ -2445,7 +2452,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">rettighetspretendent</t>
+            <t decl="1" gen="m" pos="n">rettighetspretendent</t>
          </tg>
       </mg>
    </e>
@@ -2455,7 +2462,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">motpretendent</t>
+            <t decl="1" gen="m" pos="n">motpretendent</t>
          </tg>
       </mg>
    </e>
@@ -2465,7 +2472,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">førstekonsulent</t>
+            <t decl="1" gen="m" pos="n">førstekonsulent</t>
          </tg>
       </mg>
    </e>
@@ -2475,7 +2482,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">selger</t>
+            <t decl="2" gen="m" pos="n">selger</t>
          </tg>
       </mg>
    </e>
@@ -2485,7 +2492,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">hovedtaler</t>
+            <t decl="2" gen="m" pos="n">hovedtaler</t>
          </tg>
       </mg>
    </e>
@@ -2495,7 +2502,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">årmann</t>
+            <t decl="irr" gen="m" pos="n">årmann</t>
          </tg>
       </mg>
    </e>
@@ -2505,7 +2512,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">amtsfullmektig</t>
+            <t decl="2" gen="m" pos="n">amtsfullmektig</t>
          </tg>
       </mg>
    </e>
@@ -2515,7 +2522,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">råstoffleverandør</t>
+            <t decl="1" gen="m" pos="n">råstoffleverandør</t>
          </tg>
       </mg>
    </e>
@@ -2525,7 +2532,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">saksordfører</t>
+            <t decl="2" gen="m" pos="n">saksordfører</t>
          </tg>
       </mg>
    </e>
@@ -2535,7 +2542,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">saksbehandler</t>
+            <t decl="2" gen="m" pos="n">saksbehandler</t>
          </tg>
       </mg>
    </e>
@@ -2545,7 +2552,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">saksøker</t>
+            <t decl="2" gen="m" pos="n">saksøker</t>
          </tg>
       </mg>
    </e>
@@ -2555,8 +2562,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">dirigent</t>
-            <t pos="n" gen="m" decl="2">møteleder</t>
+            <t decl="1" gen="m" pos="n">dirigent</t>
+            <t decl="2" gen="m" pos="n">møteleder</t>
          </tg>
       </mg>
    </e>
@@ -2566,7 +2573,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">samlingsstyrer</t>
+            <t decl="2" gen="m" pos="n">samlingsstyrer</t>
          </tg>
       </mg>
    </e>
@@ -2576,7 +2583,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">skriftprosjektor</t>
+            <t decl="1" gen="m" pos="n">skriftprosjektor</t>
          </tg>
       </mg>
    </e>
@@ -2586,7 +2593,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forhandlingsleder</t>
+            <t decl="2" gen="m" pos="n">forhandlingsleder</t>
          </tg>
       </mg>
    </e>
@@ -2596,7 +2603,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">postomdeler</t>
+            <t decl="2" gen="m" pos="n">postomdeler</t>
          </tg>
       </mg>
    </e>
@@ -2606,7 +2613,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">postomdeler</t>
+            <t decl="2" gen="m" pos="n">postomdeler</t>
          </tg>
       </mg>
    </e>
@@ -2616,7 +2623,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fotballspiller</t>
+            <t decl="2" gen="m" pos="n">fotballspiller</t>
          </tg>
       </mg>
    </e>
@@ -2626,7 +2633,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">deltaker</t>
+            <t decl="2" gen="m" pos="n">deltaker</t>
          </tg>
       </mg>
    </e>
@@ -2636,7 +2643,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">statssekretær</t>
+            <t decl="1" gen="m" pos="n">statssekretær</t>
          </tg>
       </mg>
    </e>
@@ -2646,7 +2653,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">hovedsekretær</t>
+            <t decl="1" gen="m" pos="n">hovedsekretær</t>
          </tg>
       </mg>
    </e>
@@ -2656,7 +2663,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">rypejeger</t>
+            <t decl="2" gen="m" pos="n">rypejeger</t>
          </tg>
       </mg>
    </e>
@@ -2666,7 +2673,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">lakseforsker</t>
+            <t decl="2" gen="m" pos="n">lakseforsker</t>
          </tg>
       </mg>
    </e>
@@ -2676,7 +2683,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">samboer</t>
+            <t decl="2" gen="m" pos="n">samboer</t>
          </tg>
       </mg>
    </e>
@@ -2686,8 +2693,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kritiker</t>
-            <t pos="n" gen="m" decl="2">anmelder</t>
+            <t decl="2" gen="m" pos="n">kritiker</t>
+            <t decl="2" gen="m" pos="n">anmelder</t>
          </tg>
       </mg>
    </e>
@@ -2697,7 +2704,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kulturbærer</t>
+            <t decl="2" gen="m" pos="n">kulturbærer</t>
          </tg>
       </mg>
    </e>
@@ -2707,7 +2714,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">samfunnsforsker</t>
+            <t decl="2" gen="m" pos="n">samfunnsforsker</t>
          </tg>
       </mg>
    </e>
@@ -2717,7 +2724,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">skuterkjører</t>
+            <t decl="2" gen="m" pos="n">skuterkjører</t>
          </tg>
       </mg>
    </e>
@@ -2727,7 +2734,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">horekjøper</t>
+            <t decl="2" gen="m" pos="n">horekjøper</t>
          </tg>
       </mg>
    </e>
@@ -2737,8 +2744,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">befrier</t>
-            <t pos="n" gen="m" decl="2">frelser</t>
+            <t decl="2" gen="m" pos="n">befrier</t>
+            <t decl="2" gen="m" pos="n">frelser</t>
          </tg>
       </mg>
    </e>
@@ -2748,7 +2755,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">tilsynsmann</t>
+            <t decl="irr" gen="m" pos="n">tilsynsmann</t>
          </tg>
       </mg>
    </e>
@@ -2758,7 +2765,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">overoppsynsmann</t>
+            <t decl="irr" gen="m" pos="n">overoppsynsmann</t>
          </tg>
       </mg>
    </e>
@@ -2768,7 +2775,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">dagpasient</t>
+            <t decl="1" gen="m" pos="n">dagpasient</t>
          </tg>
       </mg>
    </e>
@@ -2778,7 +2785,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">oppsynsmann</t>
+            <t decl="irr" gen="m" pos="n">oppsynsmann</t>
          </tg>
       </mg>
    </e>
@@ -2788,7 +2795,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">referent</t>
+            <t decl="1" gen="m" pos="n">referent</t>
          </tg>
       </mg>
    </e>
@@ -2798,7 +2805,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="1">vindmølle</t>
+            <t decl="1" gen="f" pos="n">vindmølle</t>
          </tg>
       </mg>
    </e>
@@ -2808,7 +2815,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">bilfører</t>
+            <t decl="2" gen="m" pos="n">bilfører</t>
          </tg>
       </mg>
    </e>
@@ -2818,7 +2825,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">miljøvernrådgiver</t>
+            <t decl="2" gen="m" pos="n">miljøvernrådgiver</t>
          </tg>
       </mg>
    </e>
@@ -2838,7 +2845,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">reindriftsinspektør</t>
+            <t decl="1" gen="m" pos="n">reindriftsinspektør</t>
          </tg>
       </mg>
    </e>
@@ -2848,7 +2855,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">reinvokter</t>
+            <t decl="2" gen="m" pos="n">reinvokter</t>
          </tg>
       </mg>
    </e>
@@ -2858,7 +2865,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">detaljist</t>
+            <t decl="1" gen="m" pos="n">detaljist</t>
          </tg>
       </mg>
    </e>
@@ -2868,7 +2875,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sykepleier</t>
+            <t decl="2" gen="m" pos="n">sykepleier</t>
          </tg>
       </mg>
    </e>
@@ -2878,7 +2885,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sykepleier</t>
+            <t decl="2" gen="m" pos="n">sykepleier</t>
          </tg>
       </mg>
    </e>
@@ -2888,7 +2895,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">konseptholder</t>
+            <t decl="2" gen="m" pos="n">konseptholder</t>
          </tg>
       </mg>
    </e>
@@ -2898,7 +2905,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">tjener</t>
+            <t decl="2" gen="m" pos="n">tjener</t>
          </tg>
       </mg>
    </e>
@@ -2908,7 +2915,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">tannpleier</t>
+            <t decl="2" gen="m" pos="n">tannpleier</t>
          </tg>
       </mg>
    </e>
@@ -2928,7 +2935,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">debattant</t>
+            <t decl="1" gen="m" pos="n">debattant</t>
          </tg>
       </mg>
    </e>
@@ -2938,7 +2945,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">tingdeltaker</t>
+            <t decl="2" gen="m" pos="n">tingdeltaker</t>
          </tg>
       </mg>
    </e>
@@ -2948,7 +2955,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">dikter</t>
+            <t decl="2" gen="m" pos="n">dikter</t>
          </tg>
       </mg>
    </e>
@@ -2958,7 +2965,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">diskonteringsfaktor</t>
+            <t decl="1" gen="m" pos="n">diskonteringsfaktor</t>
          </tg>
       </mg>
    </e>
@@ -2968,7 +2975,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">innehaver</t>
+            <t decl="2" gen="m" pos="n">innehaver</t>
          </tg>
       </mg>
    </e>
@@ -2978,7 +2985,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">konsesjonsinnehaver</t>
+            <t decl="2" gen="m" pos="n">konsesjonsinnehaver</t>
          </tg>
       </mg>
    </e>
@@ -2988,7 +2995,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">innehaver</t>
+            <t decl="2" gen="m" pos="n">innehaver</t>
          </tg>
       </mg>
    </e>
@@ -2998,7 +3005,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forsikringstaker</t>
+            <t decl="2" gen="m" pos="n">forsikringstaker</t>
          </tg>
       </mg>
    </e>
@@ -3008,7 +3015,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">husøkonom</t>
+            <t decl="1" gen="m" pos="n">husøkonom</t>
          </tg>
       </mg>
    </e>
@@ -3018,7 +3025,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">servitør</t>
+            <t decl="2" gen="m" pos="n">servitør</t>
          </tg>
       </mg>
    </e>
@@ -3028,7 +3035,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="indecl">næringsdrivende</t>
+            <t decl="indecl" gen="m" pos="n">næringsdrivende</t>
          </tg>
       </mg>
    </e>
@@ -3038,7 +3045,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">lærling</t>
+            <t decl="1" gen="m" pos="n">lærling</t>
          </tg>
       </mg>
    </e>
@@ -3048,7 +3055,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">filbehandler</t>
+            <t decl="2" gen="m" pos="n">filbehandler</t>
          </tg>
       </mg>
    </e>
@@ -3058,7 +3065,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">hvalfangsthistoriker</t>
+            <t decl="2" gen="m" pos="n">hvalfangsthistoriker</t>
          </tg>
       </mg>
    </e>
@@ -3068,7 +3075,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">publikum</t>
+            <t decl="1" gen="n" pos="n">publikum</t>
          </tg>
       </mg>
    </e>
@@ -3078,7 +3085,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">steinvender</t>
+            <t decl="2" gen="m" pos="n">steinvender</t>
          </tg>
       </mg>
    </e>
@@ -3089,7 +3096,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kommunekasserer</t>
+            <t decl="2" gen="m" pos="n">kommunekasserer</t>
          </tg>
       </mg>
    </e>
@@ -3099,7 +3106,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">passer</t>
+            <t decl="2" gen="m" pos="n">passer</t>
          </tg>
       </mg>
    </e>
@@ -3109,7 +3116,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kostnadsbærer</t>
+            <t decl="2" gen="m" pos="n">kostnadsbærer</t>
          </tg>
       </mg>
    </e>
@@ -3119,7 +3126,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">bildeleser</t>
+            <t decl="2" gen="m" pos="n">bildeleser</t>
          </tg>
       </mg>
    </e>
@@ -3129,7 +3136,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">fiskeriinspektør</t>
+            <t decl="1" gen="m" pos="n">fiskeriinspektør</t>
          </tg>
       </mg>
    </e>
@@ -3139,7 +3146,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">lastbærer</t>
+            <t decl="2" gen="m" pos="n">lastbærer</t>
          </tg>
       </mg>
    </e>
@@ -3149,7 +3156,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">hospitant</t>
+            <t decl="1" gen="m" pos="n">hospitant</t>
          </tg>
       </mg>
    </e>
@@ -3169,7 +3176,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">nødstopp</t>
+            <t decl="1" gen="m" pos="n">nødstopp</t>
          </tg>
       </mg>
    </e>
@@ -3179,7 +3186,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">toalettforhøyer</t>
+            <t decl="2" gen="m" pos="n">toalettforhøyer</t>
          </tg>
       </mg>
    </e>
@@ -3189,7 +3196,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">skjøt</t>
+            <t decl="1" gen="m" pos="n">skjøt</t>
          </tg>
       </mg>
    </e>
@@ -3199,7 +3206,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">måltrost</t>
+            <t decl="1" gen="m" pos="n">måltrost</t>
          </tg>
       </mg>
    </e>
@@ -3209,7 +3216,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">vegholder</t>
+            <t decl="2" gen="m" pos="n">vegholder</t>
          </tg>
       </mg>
    </e>
@@ -3219,7 +3226,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sweeper</t>
+            <t decl="2" gen="m" pos="n">sweeper</t>
          </tg>
       </mg>
    </e>
@@ -3229,7 +3236,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">lovgiver</t>
+            <t decl="2" gen="m" pos="n">lovgiver</t>
          </tg>
       </mg>
    </e>
@@ -3239,7 +3246,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">rekvisitør</t>
+            <t decl="1" gen="m" pos="n">rekvisitør</t>
          </tg>
       </mg>
    </e>
@@ -3249,7 +3256,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">etterkommer</t>
+            <t decl="2" gen="m" pos="n">etterkommer</t>
          </tg>
       </mg>
    </e>
@@ -3259,7 +3266,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">midtforsvarer</t>
+            <t decl="2" gen="m" pos="n">midtforsvarer</t>
          </tg>
       </mg>
    </e>
@@ -3269,7 +3276,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forsvarer</t>
+            <t decl="2" gen="m" pos="n">forsvarer</t>
          </tg>
       </mg>
    </e>
@@ -3279,7 +3286,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="indecl">forbikjørende</t>
+            <t decl="indecl" gen="m" pos="n">forbikjørende</t>
          </tg>
       </mg>
    </e>
@@ -3289,12 +3296,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">ledsager</t>
+            <t decl="2" gen="m" pos="n">ledsager</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">passasjer</t>
+            <t decl="1" gen="m" pos="n">passasjer</t>
          </tg>
       </mg>
    </e>
@@ -3304,7 +3311,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">tåkesmører</t>
+            <t decl="2" gen="m" pos="n">tåkesmører</t>
          </tg>
       </mg>
    </e>
@@ -3314,7 +3321,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">sminkør</t>
+            <t decl="1" gen="m" pos="n">sminkør</t>
          </tg>
       </mg>
    </e>
@@ -3324,7 +3331,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="1">firehjulsdrift</t>
+            <t decl="1" gen="f" pos="n">firehjulsdrift</t>
          </tg>
       </mg>
    </e>
@@ -3334,7 +3341,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">kantspiss</t>
+            <t decl="1" gen="m" pos="n">kantspiss</t>
          </tg>
       </mg>
    </e>
@@ -3344,7 +3351,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">spiss</t>
+            <t decl="1" gen="m" pos="n">spiss</t>
          </tg>
       </mg>
    </e>
@@ -3354,7 +3361,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fjøsrøkter</t>
+            <t decl="2" gen="m" pos="n">fjøsrøkter</t>
          </tg>
       </mg>
    </e>
@@ -3364,7 +3371,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">lottfisker</t>
+            <t decl="2" gen="m" pos="n">lottfisker</t>
          </tg>
       </mg>
    </e>
@@ -3374,8 +3381,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kjøper</t>
-            <t pos="n" gen="m" decl="1">kunde</t>
+            <t decl="2" gen="m" pos="n">kjøper</t>
+            <t decl="1" gen="m" pos="n">kunde</t>
          </tg>
       </mg>
    </e>
@@ -3385,7 +3392,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">aksjonær</t>
+            <t decl="1" gen="m" pos="n">aksjonær</t>
          </tg>
       </mg>
    </e>
@@ -3395,7 +3402,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">eiendomsmekler</t>
+            <t decl="2" gen="m" pos="n">eiendomsmekler</t>
          </tg>
       </mg>
    </e>
@@ -3405,7 +3412,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">avdelingssykepleier</t>
+            <t decl="2" gen="m" pos="n">avdelingssykepleier</t>
          </tg>
       </mg>
    </e>
@@ -3415,7 +3422,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="1">forhjulsdrift</t>
+            <t decl="1" gen="f" pos="n">forhjulsdrift</t>
          </tg>
       </mg>
    </e>
@@ -3425,7 +3432,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forgjenger</t>
+            <t decl="2" gen="m" pos="n">forgjenger</t>
          </tg>
       </mg>
    </e>
@@ -3435,7 +3442,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">pionér</t>
+            <t decl="1" gen="m" pos="n">pionér</t>
          </tg>
       </mg>
    </e>
@@ -3445,8 +3452,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">bureiser</t>
-            <t pos="n" gen="m" decl="irr">rydningsmann</t>
+            <t decl="2" gen="m" pos="n">bureiser</t>
+            <t decl="irr" gen="m" pos="n">rydningsmann</t>
          </tg>
       </mg>
    </e>
@@ -3456,7 +3463,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">programmanager</t>
+            <t decl="2" gen="m" pos="n">programmanager</t>
          </tg>
       </mg>
    </e>
@@ -3466,7 +3473,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kantspiller</t>
+            <t decl="2" gen="m" pos="n">kantspiller</t>
          </tg>
       </mg>
    </e>
@@ -3476,7 +3483,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="n" decl="1">krepsdyr</t>
+            <t decl="1" gen="n" pos="n">krepsdyr</t>
          </tg>
       </mg>
    </e>
@@ -3486,7 +3493,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">regnskapsfører</t>
+            <t decl="2" gen="m" pos="n">regnskapsfører</t>
          </tg>
       </mg>
    </e>
@@ -3496,7 +3503,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">rekvirent</t>
+            <t decl="1" gen="m" pos="n">rekvirent</t>
          </tg>
       </mg>
    </e>
@@ -3506,7 +3513,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="indecl">fødende</t>
+            <t decl="indecl" gen="m" pos="n">fødende</t>
          </tg>
       </mg>
    </e>
@@ -3516,7 +3523,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">rettshistoriker</t>
+            <t decl="2" gen="m" pos="n">rettshistoriker</t>
          </tg>
       </mg>
    </e>
@@ -3526,7 +3533,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">rettsforgjenger</t>
+            <t decl="2" gen="m" pos="n">rettsforgjenger</t>
          </tg>
       </mg>
    </e>
@@ -3536,7 +3543,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">kasserer</t>
+            <t decl="2" gen="m" pos="n">kasserer</t>
          </tg>
       </mg>
    </e>
@@ -3546,7 +3553,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="1">sikring</t>
+            <t decl="1" gen="f" pos="n">sikring</t>
          </tg>
       </mg>
    </e>
@@ -3556,7 +3563,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="f" decl="1">fotsåleforhøyning</t>
+            <t decl="1" gen="f" pos="n">fotsåleforhøyning</t>
          </tg>
       </mg>
    </e>
@@ -3566,7 +3573,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">drøvtygger</t>
+            <t decl="2" gen="m" pos="n">drøvtygger</t>
          </tg>
       </mg>
    </e>
@@ -3576,7 +3583,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">småbåtfisker</t>
+            <t decl="2" gen="m" pos="n">småbåtfisker</t>
          </tg>
       </mg>
    </e>
@@ -3586,7 +3593,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">sosialsekretær</t>
+            <t decl="1" gen="m" pos="n">sosialsekretær</t>
          </tg>
       </mg>
    </e>
@@ -3596,7 +3603,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">røykdykker</t>
+            <t decl="2" gen="m" pos="n">røykdykker</t>
          </tg>
       </mg>
    </e>
@@ -3606,12 +3613,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">ordfører</t>
+            <t decl="2" gen="m" pos="n">ordfører</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">talsmann</t>
+            <t decl="irr" gen="m" pos="n">talsmann</t>
          </tg>
       </mg>
    </e>
@@ -3621,7 +3628,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">tabelltopp</t>
+            <t decl="1" gen="m" pos="n">tabelltopp</t>
          </tg>
       </mg>
    </e>
@@ -3631,7 +3638,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">oppebørselmann</t>
+            <t decl="irr" gen="m" pos="n">oppebørselmann</t>
          </tg>
       </mg>
    </e>
@@ -3641,7 +3648,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">skattebetaler</t>
+            <t decl="2" gen="m" pos="n">skattebetaler</t>
          </tg>
       </mg>
    </e>
@@ -3651,7 +3658,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">rettighetsbærer</t>
+            <t decl="2" gen="m" pos="n">rettighetsbærer</t>
          </tg>
       </mg>
    </e>
@@ -3661,7 +3668,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">frisør</t>
+            <t decl="1" gen="m" pos="n">frisør</t>
          </tg>
       </mg>
    </e>
@@ -3671,7 +3678,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">debattmotstander</t>
+            <t decl="2" gen="m" pos="n">debattmotstander</t>
          </tg>
       </mg>
    </e>
@@ -3681,7 +3688,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">klager</t>
+            <t decl="2" gen="m" pos="n">klager</t>
          </tg>
       </mg>
    </e>
@@ -3691,7 +3698,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sjefsykepleier</t>
+            <t decl="2" gen="m" pos="n">sjefsykepleier</t>
          </tg>
       </mg>
    </e>
@@ -3701,7 +3708,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">hovedinnleder</t>
+            <t decl="2" gen="m" pos="n">hovedinnleder</t>
          </tg>
       </mg>
    </e>
@@ -3711,7 +3718,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sesongfisker</t>
+            <t decl="2" gen="m" pos="n">sesongfisker</t>
          </tg>
       </mg>
    </e>
@@ -3721,7 +3728,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">folkerettssakkyndig</t>
+            <t decl="2" gen="m" pos="n">folkerettssakkyndig</t>
          </tg>
       </mg>
    </e>
@@ -3731,7 +3738,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">yrkessjåfør</t>
+            <t decl="1" gen="m" pos="n">yrkessjåfør</t>
          </tg>
       </mg>
    </e>
@@ -3741,12 +3748,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">ekspert</t>
+            <t decl="1" gen="m" pos="n">ekspert</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">sakkyndig</t>
+            <t decl="2" gen="m" pos="n">sakkyndig</t>
          </tg>
       </mg>
    </e>
@@ -3756,7 +3763,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">møtedeltaker</t>
+            <t decl="2" gen="m" pos="n">møtedeltaker</t>
          </tg>
       </mg>
    </e>
@@ -3766,7 +3773,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">møtesekretær</t>
+            <t decl="1" gen="m" pos="n">møtesekretær</t>
          </tg>
       </mg>
    </e>
@@ -3776,7 +3783,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forhandler</t>
+            <t decl="2" gen="m" pos="n">forhandler</t>
          </tg>
       </mg>
    </e>
@@ -3786,7 +3793,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">komponist</t>
+            <t decl="1" gen="m" pos="n">komponist</t>
          </tg>
       </mg>
    </e>
@@ -3796,7 +3803,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">samboer</t>
+            <t decl="2" gen="m" pos="n">samboer</t>
          </tg>
       </mg>
    </e>
@@ -3824,7 +3831,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="1">pasient</t>
+            <t decl="1" gen="m" pos="n">pasient</t>
          </tg>
       </mg>
    </e>
@@ -3834,7 +3841,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">lovkyndig</t>
+            <t decl="2" gen="m" pos="n">lovkyndig</t>
          </tg>
       </mg>
    </e>
@@ -3844,7 +3851,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">mottaker</t>
+            <t decl="2" gen="m" pos="n">mottaker</t>
          </tg>
       </mg>
    </e>
@@ -3854,7 +3861,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">idrettsutøver</t>
+            <t decl="2" gen="m" pos="n">idrettsutøver</t>
          </tg>
       </mg>
    </e>
@@ -3864,7 +3871,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">fotgjenger</t>
+            <t decl="2" gen="m" pos="n">fotgjenger</t>
          </tg>
       </mg>
    </e>
@@ -3884,7 +3891,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t  pos="n" gen="m" decl="irr">brannmann</t>
+            <t decl="irr" gen="m" pos="n">brannmann</t>
          </tg>
       </mg>
    </e>
@@ -3894,7 +3901,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="2">forkjemper</t>
+            <t decl="2" gen="m" pos="n">forkjemper</t>
          </tg>
       </mg>
    </e>
@@ -3904,8 +3911,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" gen="m" decl="irr">målmann</t>
-            <t pos="n" gen="m" decl="2">keeper</t>
+            <t decl="irr" gen="m" pos="n">målmann</t>
+            <t decl="2" gen="m" pos="n">keeper</t>
          </tg>
       </mg>
    </e>

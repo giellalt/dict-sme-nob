@@ -270,26 +270,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">tunnealla</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">tunnel</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">tunealla</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">tunnel</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="n">turistabiila</l>
       </lg>
       <mg>
@@ -928,16 +908,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">steinstøv</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">geaidnobargi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">vegarbeider</t>
          </tg>
       </mg>
    </e>
@@ -12306,6 +12276,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">bit</t>
             <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">stykke</t>
+            <xg>
+               <x>binná bánna</x>
+               <xt>bitte liten</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
