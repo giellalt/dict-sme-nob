@@ -28,7 +28,101 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">dorggiidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">bli skjelven</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">doalahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">holde igjen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">cirgguhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sprute</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">bávkalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">smelle</t>
+            <t pos="phrase_v">fyre av</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">báittašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skinne</t>
+            <t pos="v">lyse</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">borastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">spise</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">bidjalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>i hast eller en gang</re>
+            <t pos="v">legge</t>
+            <t pos="v">sette</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">balddáhallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skremme</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">baladit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">frykte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l pos="v">bidjalit</l>
       </lg>
@@ -39,7 +133,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">čiekŋudit</l>
       </lg>
@@ -49,7 +143,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="x">ráhkkanahttit</l>
       </lg>
@@ -60,7 +154,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">cavgilit</l>
       </lg>
@@ -74,7 +168,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">gártet</l>
       </lg>
@@ -84,7 +178,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">hásttuhit</l>
       </lg>
@@ -95,7 +189,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">deaividit</l>
       </lg>
@@ -105,7 +199,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">vikkahit</l>
       </lg>
@@ -115,7 +209,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">iskkadit</l>
       </lg>
@@ -126,7 +220,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">vihkket</l>
       </lg>
@@ -140,7 +234,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">studeret</l>
       </lg>
@@ -150,7 +244,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">ráhkásnuvvat</l>
       </lg>
@@ -160,7 +254,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">ráhkásmuvvat</l>
       </lg>
@@ -170,7 +264,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">ráhkistuvvat</l>
       </lg>
@@ -180,7 +274,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">fátmmastit</l>
       </lg>
@@ -190,7 +284,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">buorrestit</l>
       </lg>
@@ -201,7 +295,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="v">salastit</l>
       </lg>
@@ -211,7 +305,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">njuorasmuvvat</l>
       </lg>
@@ -221,7 +315,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">njuorrasit</l>
       </lg>
