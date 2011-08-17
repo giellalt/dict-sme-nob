@@ -28,7 +28,93 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e>
+   <e usage="vd">
+      <lg>
+         <l context="vuovttat" pos="a">čuorgat</l>
+         <lc>čurges</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">grå</t>
+            <t pos="phrase_a">grå i håret</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="a">soabalaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">fredelig</t>
+            <t pos="a">forsonlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="a">skurtnjas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">motløs</t>
+            <t pos="a">unnselig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">ruivvas</l>
+         <lc>ruive</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">tilsølet</t>
+            <t pos="phrase_a">som er i uorden</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="gussa" pos="a">mielkkas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_a">som melker godt</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="biila" pos="a">kula</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kul</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="a">geniála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">genial</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="a">boareslágán </l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_a">ganske gammel</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">árvvas</l>
       </lg>
@@ -39,7 +125,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">fávru</l>
       </lg>
