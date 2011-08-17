@@ -128,6 +128,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l pos="po">duohken</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">bak</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="po">siskkobealde</l>
       </lg>
       <mg>
@@ -660,6 +670,25 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Mun veahkehan du, vaikko it dárbbaš ge veahki.</x>
+               <xt>Jeg hjelper deg, selv om du ikke trenger hjelp.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="other" usage="vd">
+      <lg>
+         <l pos="cs">váikko</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">om så</tf>
+            <tf pos="phrase">selv om</tf>
+            <xg>
+               <x>Don gal borat váikko man ollu.</x>
+               <xt>Du spiser om så hvor mye.</xt>
+            </xg>
+            <xg>
+               <x>Mun veahkehan du, váikko it dárbbaš ge veahki.</x>
                <xt>Jeg hjelper deg, selv om du ikke trenger hjelp.</xt>
             </xg>
          </tg>
