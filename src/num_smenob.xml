@@ -4,8 +4,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
-  <lics xml:space="preserve">
-    <lic xml:lang="en">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,13 +13,11 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-    <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,1125 +27,934 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote>
-  </lics>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">miljovdna</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">million</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">beannot</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">halvannen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">moaddelogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">20-30</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">máŋgalogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">40-90</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">moaddenuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">12-13</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">moaddečuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">200-300</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">máŋgačuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">400-900</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">čuođiduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">hundretusen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">máŋgaduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="phrase">mange tusen</tf>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guokteduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">2000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">máŋgačuođiduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="phrase">mange hundretusen</tf>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">oktanuppelotčuohti</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">1100</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">máŋganuppelohkáiduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">14-19000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">máŋganuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">14-19</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">moaddeduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">2-3000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">miljon</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">million</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">miljárda</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">milliard</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">gákci</l>
-
-      <lc>gávcci</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">8</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">galle</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="phrase">hvor mange</tf>
-
-        <xg>
-          <x>Galle máná dus leat?</x>
-
-          <xt>Hvor mange barn har du?</xt>
-        </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <tf pos="phrase">så mange</tf>
-
-        <xg>
-          <x>Gilážis eai oro nu galle olbmo.</x>
-
-          <xt>I grenda bor det ikke så mange mennesker.</xt>
-        </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="adv">nok</t>
-
-        <xg>
-          <x>Ja ii ge das galle - rámbuvrris lea maid erenoamáš fálaldat buot
-          kundariidda.</x>
-
-          <xt>Og ikke nok med det - i butikken er det også et spesielt tilbud
-          til alle kundene.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">logi</l>
-
-      <lc>logit</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">10</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">máŋga</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="pron">mange</t>
-
-        <xg>
-          <x>Doppe ledje máŋga ealgga.</x>
-
-          <xt>Der var det mange elger.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">moadde</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <tf pos="phrase">et par</tf>
-
-        <tf pos="phrase">noen få</tf>
-
-        <xg>
-          <x>Bivden su vuordit moadde beaivvi.</x>
-
-          <xt>Jeg ba henne vente et par dager.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">njeallje</l>
-
-      <lc>njealji, njeljiin</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">4</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">nuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">elleve</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg>
-        <t pos="num">tolv-tretten</t>
-
-        <xg>
-          <x>Álttás ledje nuppelohkái sisagaikuma mannan vahkkoloahpa.</x>
-
-          <xt>I Alta var det tolv-tretten innbrudd sist helg.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">okta</l>
-
-      <lc>ovtta</lc>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">1</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">ovcci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">9</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">vihtta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">5</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj">
-    <lg>
-      <l context="gápmagat" pos="num">okci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">ni</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l context="gápmagat" pos="num">okciloge</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">nitti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">ovccilogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">90</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">čieža</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">7</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l context="gápmagat" pos="num">čiehčalogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">sytti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">guokte</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">2</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">golbma</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">3</t>
-
-        <xg>
-          <x>Muhto dál leat juo vássán golbma beaivvi dan rájes go dát
-          dáhpáhuvai.</x>
-
-          <xt>Men det har allerede gått tre dager siden det skjedde.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">guhtta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">6</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="nj" usage="vd">
-    <lg>
-      <l context="gápmagat" pos="num">gávcci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">8</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">oktanuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">11</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktenuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">12</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmanuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">13</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">njealljenuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">14</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">vihttanuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">15</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guhttanuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">16</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">čiežanuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">17</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">gávccinuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">18</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">ovccinuppelohkái</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">19</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">20</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogiokta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">21</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogiguokte</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">22</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogigolbma</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">23</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guokteloginjeallje</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">24</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogivihtta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">25</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogiguhtta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">26</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogičieža</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">27</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogigávcci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">28</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktelogiovcci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">29</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">30</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogiokta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">31</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogiguokte</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">32</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogigolbma</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">33</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmaloginjeallje</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">34</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogivihtta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">35</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogiguhtta</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">36</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogičieža</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">37</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogigávcci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">38</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmalogiovcci</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">39</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">njealljelogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">40</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">vihttalogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">50</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guhttalogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">60</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">čiežalogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">70</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">gávccilogi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">80</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">čuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">100</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guoktečuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">200</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmačuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">300</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">njeallječuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">400</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">vihttačuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">500</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guhttačuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">600</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">čiežačuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">700</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">gávccičuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">800</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">ovccičuođi</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">900</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">duhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">1000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">golbmaduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">3000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">njealljeduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">4000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">vihttaduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">5000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">guhttaduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">6000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">čiežaduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">7000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">gávcciduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">8000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e usage="vd">
-    <lg>
-      <l pos="num">ovcciduhát</l>
-    </lg>
-
-    <mg>
-      <tg>
-        <t pos="num">9000</t>
-      </tg>
-    </mg>
-  </e>
-
-  <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   </lics>
+   <e usage="vd">
+      <lg>
+         <l pos="num">millijuvdna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">million</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">miljovdna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">million</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">beannot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">halvannen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">moaddelogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">20-30</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">máŋgalogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">40-90</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">moaddenuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">12-13</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">moaddečuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">200-300</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">máŋgačuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">400-900</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">čuođiduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">hundretusen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">máŋgaduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">mange tusen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guokteduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">2000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">máŋgačuođiduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">mange hundretusen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">oktanuppelotčuohti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">1100</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">máŋganuppelohkáiduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">14-19000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">máŋganuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">14-19</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">moaddeduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">2-3000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">miljon</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">million</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">miljárda</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">milliard</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">gákci</l>
+         <lc>gávcci</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">8</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">galle</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hvor mange</tf>
+            <xg>
+               <x>Galle máná dus leat?</x>
+               <xt>Hvor mange barn har du?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <tf pos="phrase">så mange</tf>
+            <xg>
+               <x>Gilážis eai oro nu galle olbmo.</x>
+               <xt>I grenda bor det ikke så mange mennesker.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">nok</t>
+            <xg>
+               <x>Ja ii ge das galle - rámbuvrris lea maid erenoamáš fálaldat buot kundariidda.</x>
+               <xt>Og ikke nok med det - i butikken er det også et spesielt tilbud til alle kundene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">logi</l>
+         <lc>logit</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">10</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">máŋga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">mange</t>
+            <xg>
+               <x>Doppe ledje máŋga ealgga.</x>
+               <xt>Der var det mange elger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">moadde</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">et par</tf>
+            <tf pos="phrase">noen få</tf>
+            <xg>
+               <x>Bivden su vuordit moadde beaivvi.</x>
+               <xt>Jeg ba henne vente et par dager.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">njeallje</l>
+         <lc>njealji, njeljiin</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">4</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">nuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">elleve</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="num">tolv-tretten</t>
+            <xg>
+               <x>Álttás ledje nuppelohkái sisagaikuma mannan vahkkoloahpa.</x>
+               <xt>I Alta var det tolv-tretten innbrudd sist helg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">okta</l>
+         <lc>ovtta</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">1</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">ovcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">9</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">vihtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">5</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l context="gápmagat" pos="num">okci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">ni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="gápmagat" pos="num">okciloge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">nitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">ovccilogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">90</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">čieža</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">7</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="gápmagat" pos="num">čiehčalogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">sytti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">guokte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">2</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">golbma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">3</t>
+            <xg>
+               <x>Muhto dál leat juo vássán golbma beaivvi dan rájes go dát dáhpáhuvai.</x>
+               <xt>Men det har allerede gått tre dager siden det skjedde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">guhtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">6</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="gápmagat" pos="num">gávcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">8</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">oktanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">11</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktenuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">12</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">13</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">njealljenuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">14</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">vihttanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">15</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guhttanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">16</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">čiežanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">17</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">gávccinuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">18</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">ovccinuppelohkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">19</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">20</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogiokta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">21</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogiguokte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">22</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogigolbma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">23</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guokteloginjeallje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">24</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogivihtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">25</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogiguhtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">26</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogičieža</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">27</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogigávcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">28</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktelogiovcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">29</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">30</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogiokta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">31</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogiguokte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">32</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogigolbma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">33</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmaloginjeallje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">34</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogivihtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">35</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogiguhtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">36</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogičieža</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">37</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogigávcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">38</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmalogiovcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">39</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">njealljelogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">40</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">vihttalogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">50</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guhttalogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">60</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">čiežalogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">70</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">gávccilogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">80</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">čuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">100</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guoktečuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">200</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmačuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">300</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">njeallječuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">400</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">vihttačuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">500</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guhttačuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">600</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">čiežačuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">700</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">gávccičuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">800</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">ovccičuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">900</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">duhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">1000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">golbmaduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">3000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">njealljeduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">4000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">vihttaduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">5000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">guhttaduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">6000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">čiežaduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">7000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">gávcciduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">8000</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">ovcciduhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">9000</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
