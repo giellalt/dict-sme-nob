@@ -23,6 +23,8 @@ ADJ         = adjective_smenob.xml
 ADV         = adverb_smenob.xml
 NOUNC       = nounCommon_smenob.xml
 NOUNP       = prop_smenob.xml
+NOUNA		= nounActor_smenob.xml
+NOUNG		= nounG3_smenob.xml
 OTHER       = other_smenob.xml
 VERB        = verb_smenob.xml
 SN_XML      = smenob.xml
@@ -130,8 +132,8 @@ $(SN_XML):
 	@echo
 	$(BEGIN)
 	@$(XQL) $(SCRIPTS)/collect-smenob-parts.xql \
-	 adj=../$(SRC)/$(ADJ) adv=../$(SRC)/$(ADV) nounc=../$(SRC)/$(NOUNC) \
-	 nounp=../$(SRC)/$(NOUNP) other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
+	 adj=../$(SRC)/$(ADJ) adv=../$(SRC)/$(ADV) nounc=../$(SRC)/$(NOUNC) nouna=../$(SRC)/$(NOUNA) \
+	 noung=../$(SRC)/$(NOUNG) nounp=../$(SRC)/$(NOUNP) other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
 	@echo
 	$(END)
 	@echo
@@ -142,7 +144,8 @@ $(SN_XML):
 # 	$(BEGIN)
 # 	@java $(JARF) $(XSLT) $(SCRIPTS)/dummy.xml $(SCRIPTS)/collect-smenob-parts.xsl \
 # 	 adj=../$(SRC)/$(ADJ) adv=../$(SRC)/$(ADV) nounc=../$(SRC)/$(NOUNC) \
-# 	 nounp=../$(SRC)/$(NOUNP) other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
+# 	 nounp=../$(SRC)/$(NOUNP) nouna=../$(SRC)/$(NOUNA) \
+#	 noung=../$(SRC)/$(NOUNG) other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
 # 	@echo
 # 	$(END)
 # 	@echo
