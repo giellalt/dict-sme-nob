@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r xml:lang="sme">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+          Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e usage="vd">
+      <lg>
+         <l pos="num">oktage</l>
+         <analysis>okta_Num_Sg_Nom_Foc/ge</analysis>
+         <mini_paradigm>
+            <analysis ms="okta_Num_Sg_Acc_Foc/ge">
+               <wordform>ovttage</wordform>
+            </analysis>
+            <analysis ms="okta_Num_Sg_Gen_Foc/ge">
+               <wordform>ovttage</wordform>
+            </analysis>
+            <analysis ms="okta_Num_Sg_Ill_Foc/ge">
+               <wordform>oktiige</wordform>
+            </analysis>
+            <analysis ms="okta_Num_Sg_Loc_Foc/ge">
+               <wordform>ovttasge</wordform>
+            </analysis>
+            <analysis ms="okta_Num_Sg_Com_Foc">
+               <wordform>ovttainge</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">en eneste</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">ovttage</l>
+         <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         <analysis>okta_Num_Sg_Acc_Foc/ge</analysis>
+         <analysis>okta_Num_Sg_Gen_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">en eneste</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">oktiige</l>
+         <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         <analysis>okta_Num_Sg_Ill_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">til en eneste</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">ovttasge</l>
+         <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         <analysis>okta_Num_Sg_Loc_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">i en eneste</tf>
+            <tf pos="phrase">hos en eneste</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <tf pos="phrase">fra en eneste</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">ovttainge</l>
+         <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         <analysis>okta_Num_Sg_Com_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">med en eneste</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+</r>
