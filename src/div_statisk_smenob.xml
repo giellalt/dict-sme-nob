@@ -135,5 +135,137 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="indef">vaikko mii</l>
+         <analysis>Pron_Indef_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Indef_Sg_Acc">
+               <wordform>vaikko maid</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Gen">
+               <wordform>vaikko man</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Ill">
+               <wordform>vaikko masa</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Loc">
+               <wordform>vaikko mas</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Com">
+               <wordform>vaikko mainna</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Ess">
+               <wordform>vaikko manin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">om så hva</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="indef">vaikko maid</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">om så hva</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="indef">vaikko man</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">om så hvor</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="indef">vaikko masa</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+			<re>bevegelse til</re>
+            <tf pos="phrase">om så hvor</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="indef">vaikko mas</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">om så hvor</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="indef">vaikko mainna</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">om så med hvilken</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="indef">vaikko manin</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">om så hvordan</tf>
+            <xg>
+               <x>xxxx</x>
+               <xt>xxxxx</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
     <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
