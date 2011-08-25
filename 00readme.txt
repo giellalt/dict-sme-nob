@@ -13,6 +13,10 @@ How to check whether words are in the dict:
 write:
 
 make -f make-smedict
+ eller (med parameter)
+# make -f make-smedict smedict.fst
+# make -f make-smedict vddict.fst
+# make -f make-smedict nonvddict.fst
 
 (if the computer complains, ask Ciprian or Börre for help).
 
