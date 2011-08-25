@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -28,13 +28,27 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e usage="vd">
+      <lg>
+         <l pos="pron" type="indef">eambbosat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">flere</t>
+            <xg>
+               <x> Mii sávvat ahte bohtet vel eambbosat boahtte jagi, lohká festiválajođiheaddji.</x>
+               <xt>Vi håper at det kommer enda flere neste år, sier festivallederen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l pg="no" pos="pron" type="indef">veahá</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a" decl="3">litt</t>
+            <t decl="3" pos="a">litt</t>
             <xg>
                <x>Vuoidalin veahá juolgesuorpmaid nai, go lávejit nu bivastuvvat.</x>
                <xt>Jeg smurte litt på tærne også, fordi de pleier å bli så svette.</xt>
@@ -48,7 +62,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a" decl="3">litt</t>
+            <t decl="3" pos="a">litt</t>
             <xg>
                <x>De lea ge buorre veaháš bosihit, ja lohkalit aviissa.</x>
                <xt>Og så er det godt å puste ut litt, og lese litt i avisa.</xt>
@@ -512,8 +526,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf pos="phrase">hver enkelt</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
