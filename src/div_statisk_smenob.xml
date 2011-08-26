@@ -30,6 +30,165 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="indef">mii nu</l>
+         <analysis>Pron_Indef_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Indef_Sg_Acc">
+               <wordform>maid nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Gen">
+               <wordform>man nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Ill">
+               <wordform>masa nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Loc">
+               <wordform>mas nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Com">
+               <wordform>mainna nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Ess">
+               <wordform>manin nu</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">noe</t>
+            <xg>
+               <x>Ii oktage leat heakkaheađis, muhto mii nu dáidá leat dáhpáhuvvan.</x>
+               <xt>Ingen er i livsfare, men noe har trolig skjedd.</xt>
+            </xg>
+            <xg>
+               <x>Láđus gullui mii nu skoahpamin.</x>
+               <xt>Fra låven hørtes noe som raslet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">maid nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+       <e usage="vd">
+      <lg>
+         <l pos="indef">man nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">masa nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase_indef">til noe</tf>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">mas nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">av noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">mainna nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">med noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">manin nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">som noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="num">oktage</l>
          <analysis>okta_Num_Sg_Nom_Foc/ge</analysis>
          <mini_paradigm>
@@ -236,7 +395,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>bevegelse til</re>
             <tf pos="phrase">til hva som helst</tf>
             <xg>
                <x>Dál fertet leat gearggus vaikko masa.</x>
@@ -299,6 +457,146 @@ For the full license text, see the link above.</lic>
                jearrat njálgáid dahje gáhkuid.</x>
                <xt>31. oktober kan både barn og voksne kle seg om så hvordan og gå fra hus til hus og spørre etter
                goderi eller kaker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+      <e usage="vd">
+      <lg>
+         <l pos="indef">gii nu</l>
+         <analysis>Pron_Indef_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Indef_Sg_Acc">
+               <wordform>gean nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Gen">
+               <wordform>gean nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Ill">
+               <wordform>geasa nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Loc">
+               <wordform>geas nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Com">
+               <wordform>geainna nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Ess">
+               <wordform>geanin nu</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">noe</t>
+            <xg>
+               <x>Ii oktage leat heakkaheađis, muhto mii nu dáidá leat dáhpáhuvvan.</x>
+               <xt>Ingen er i livsfare, men noe har trolig skjedd.</xt>
+            </xg>
+            <xg>
+               <x>Láđus gullui mii nu skoahpamin.</x>
+               <xt>Fra låven hørtes noe som raslet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">gean nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Acc</analysis>
+          <analysis>Pron_Indef_Sg_Gen</analysis>
+     </lg>
+      <mg>
+         <tg>
+            <t pos="indef">noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">geasa nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">til noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">geas nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">av noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">geainna nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">med noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e usage="vd">
+      <lg>
+         <l pos="indef">geanin nu</l>
+         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="indef">som noe</t>
+            <xg>
+               <x>čččččččččč</x>
+               <xt>ččččččč</xt>
+            </xg>
+            <xg>
+               <x>čččččč</x>
+               <xt>čččč</xt>
             </xg>
          </tg>
       </mg>
