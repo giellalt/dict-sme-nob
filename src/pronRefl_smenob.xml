@@ -30,6 +30,51 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="nj" usage="vd">
       <lg>
+         <l pos="pron" type="refl">ieš</l>
+         <analysis>Pron_Refl_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Refl_Du_Nom">
+               <wordform>ieža</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Pl_Nom">
+               <wordform>ieža</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="refl">sjøl</t>
+            <xg>
+               <x>Mun lean dan ieš dáhkan.</x>
+               <xt>Jeg har gjort det sjøl.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="pron" type="refl">ieža</l>
+         <lemma_ref lemmaID="Pron_Refl_Sg_Nom">ieš</lemma_ref>
+            <analysis ms="Pron_Refl_Du_Nom">
+            <analysis ms="Pron_Refl_Pl_Nom">
+      </lg>
+      <mg>
+         <tg>
+            <re>om flere</re>
+            <t pos="refl">sjøl</t>
+            <xg>
+               <x>Soai leaba dan ieža dáhkan.</x>
+               <xt>De to har gjort det sjøl.</xt>
+            </xg>
+            <xg>
+               <x>Mii leat dan ieža dáhkan.</x>
+               <xt>Vi har gjort det sjøl.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
          <l pos="pron" type="refl">iežan</l>
          <analysis>Pron_Refl_Sg1_Acc</analysis>
          <analysis>Pron_Refl_Sg1_Gen</analysis>
