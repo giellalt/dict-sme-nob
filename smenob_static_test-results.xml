@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+   <file name="adjstatpar_smenob.xml" ls="8" ws="8">
+      <ls>
+         <l str="lulit" id="lulit_a" out="2" in="1"/>
+         <l str="davit" id="davit_a" out="2" in="1"/>
+         <l str="oarjjit" id="oarjjit_a" out="2" in="1"/>
+         <l str="nuorttit" id="nuorttit_a" out="2" in="1"/>
+         <l str="nuorttat" id="nuorttat_a" out="2" in="1"/>
+         <l str="máttit" id="máttit_a" out="2" in="1"/>
+         <l str="fávllit" id="fávllit_a" out="2" in="1"/>
+         <l str="gáttit" id="gáttit_a" out="2" in="1"/>
+      </ls>
+      <ws>
+         <w str="lulimus" l_ref="1">
+            <lemma_ref lemmaID="lulit_a">lulit</lemma_ref>
+         </w>
+         <w str="davimus" l_ref="1">
+            <lemma_ref lemmaID="davit_a">davit</lemma_ref>
+         </w>
+         <w str="oarjjimus" l_ref="1">
+            <lemma_ref lemmaID="oarjjit_a">oarjjit</lemma_ref>
+         </w>
+         <w str="nuorttimus" l_ref="1">
+            <lemma_ref lemmaID="nuorttit_a">nuorttit</lemma_ref>
+         </w>
+         <w str="nuorttamus" l_ref="1">
+            <lemma_ref lemmaID="nuorttat_a">nuorttat</lemma_ref>
+         </w>
+         <w str="máttimus" l_ref="1">
+            <lemma_ref lemmaID="máttit_a">máttit</lemma_ref>
+         </w>
+         <w str="fávllimus" l_ref="1">
+            <lemma_ref lemmaID="fávllit_a">fávllit</lemma_ref>
+         </w>
+         <w str="gáttimus" l_ref="1">
+            <lemma_ref lemmaID="gáttit_a">gáttit</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="div_statisk_smenob.xml" ls="4" ws="21">
+      <ls>
+         <l str="mii nu" id="mii nu_indef" out="6" in="0"/>
+         <l str="oktage" id="oktage_num" out="5" in="0"/>
+         <l str="vaikko mii" id="vaikko mii_indef" out="6" in="0"/>
+         <l str="gii nu" id="gii nu_indef" out="6" in="0"/>
+      </ls>
+      <ws>
+         <w str="maid nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         </w>
+         <w str="man nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         </w>
+         <w str="masa nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         </w>
+         <w str="mas nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         </w>
+         <w str="mainna nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         </w>
+         <w str="manin nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         </w>
+         <w str="ovttage" l_ref="1">
+            <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         </w>
+         <w str="oktiige" l_ref="1">
+            <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         </w>
+         <w str="ovttasge" l_ref="1">
+            <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         </w>
+         <w str="ovttainge" l_ref="1">
+            <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         </w>
+         <w str="vaikko maid" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         </w>
+         <w str="vaikko man" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         </w>
+         <w str="vaikko masa" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         </w>
+         <w str="vaikko mas" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         </w>
+         <w str="vaikko mainna" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         </w>
+         <w str="vaikko manin" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         </w>
+         <w str="gean nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         </w>
+         <w str="geasa nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         </w>
+         <w str="geas nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         </w>
+         <w str="geainna nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         </w>
+         <w str="geanin nu" l_ref="1">
+            <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="pronDem_smenob.xml" ls="16" ws="70">
+      <ls>
+         <l str="dat" id="dat_sg_pron_dem" out="4" in="3"/>
+         <l str="dát" id="dát_sg_pron_dem" out="6" in="5"/>
+         <l str="diet" id="diet_sg_pron_dem" out="6" in="5"/>
+         <l str="duot" id="duot_sg_pron_dem" out="6" in="5"/>
+         <l str="dot" id="dot_sg_pron_dem" out="6" in="5"/>
+         <l str="dat" id="dat_pl_pron_dem" out="6" in="4"/>
+         <l str="dát" id="dát_pl_pron_dem" out="6" in="4"/>
+         <l str="diet" id="diet_pl_pron_dem" out="6" in="4"/>
+         <l str="duot" id="duot_pl_pron_dem" out="6" in="4"/>
+         <l str="dot" id="dot_pl_pron_dem" out="6" in="4"/>
+         <l str="dakkár" id="dakkár_sg_pron_dem" out="6" in="5"/>
+         <l str="dakkárat" id="dakkárat_pl_pron_dem" out="6" in="4"/>
+         <l str="dákkár" id="dákkár_sg_pron_dem" out="6" in="5"/>
+         <l str="dákkárat" id="dákkárat_pl_pron_dem" out="6" in="4"/>
+         <l str="diekkár" id="diekkár_sg_pron_dem" out="6" in="5"/>
+         <l str="diekkárat" id="diekkárat_pl_pron_dem" out="6" in="4"/>
+      </ls>
+      <ws>
+         <w str="dan" l_ref="1">
+            <lemma_ref lemmaID="dat_sg_pron_dem">dat</lemma_ref>
+         </w>
+         <w str="dainna" l_ref="1">
+            <lemma_ref lemmaID="dat_sg_pron_dem">dat</lemma_ref>
+         </w>
+         <w str="danin" l_ref="1">
+            <lemma_ref lemmaID="dat_sg_pron_dem">dat</lemma_ref>
+         </w>
+         <w str="dán" l_ref="1">
+            <lemma_ref lemmaID="dát_sg_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dása" l_ref="1">
+            <lemma_ref lemmaID="dát_sg_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dás" l_ref="1">
+            <lemma_ref lemmaID="dát_sg_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dáinna" l_ref="1">
+            <lemma_ref lemmaID="dát_sg_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dánin" l_ref="1">
+            <lemma_ref lemmaID="dát_sg_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dien" l_ref="1">
+            <lemma_ref lemmaID="diet_sg_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="diesa" l_ref="1">
+            <lemma_ref lemmaID="diet_sg_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="dies" l_ref="1">
+            <lemma_ref lemmaID="diet_sg_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="dieinna" l_ref="1">
+            <lemma_ref lemmaID="diet_sg_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="dienin" l_ref="1">
+            <lemma_ref lemmaID="diet_sg_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="duon" l_ref="1">
+            <lemma_ref lemmaID="duot_sg_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="duosa" l_ref="1">
+            <lemma_ref lemmaID="duot_sg_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="duos" l_ref="1">
+            <lemma_ref lemmaID="duot_sg_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="duoinna" l_ref="1">
+            <lemma_ref lemmaID="duot_sg_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="duonin" l_ref="1">
+            <lemma_ref lemmaID="duot_sg_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="don" l_ref="1">
+            <lemma_ref lemmaID="dot_sg_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="dosa" l_ref="1">
+            <lemma_ref lemmaID="dot_sg_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="dos" l_ref="1">
+            <lemma_ref lemmaID="dot_sg_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="doinna" l_ref="1">
+            <lemma_ref lemmaID="dot_sg_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="donin" l_ref="1">
+            <lemma_ref lemmaID="dot_sg_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="daid" l_ref="1">
+            <lemma_ref lemmaID="dat_pl_pron_dem">dat</lemma_ref>
+         </w>
+         <w str="daidda" l_ref="1">
+            <lemma_ref lemmaID="dat_pl_pron_dem">dat</lemma_ref>
+         </w>
+         <w str="dain" l_ref="1">
+            <lemma_ref lemmaID="dat_pl_pron_dem">dat</lemma_ref>
+         </w>
+         <w str="daiguin" l_ref="1">
+            <lemma_ref lemmaID="dat_pl_pron_dem">dat</lemma_ref>
+         </w>
+         <w str="dáid" l_ref="1">
+            <lemma_ref lemmaID="dát_pl_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dáidda" l_ref="1">
+            <lemma_ref lemmaID="dát_pl_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dáin" l_ref="1">
+            <lemma_ref lemmaID="dát_pl_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dáiguin" l_ref="1">
+            <lemma_ref lemmaID="dát_pl_pron_dem">dát</lemma_ref>
+         </w>
+         <w str="dieid" l_ref="1">
+            <lemma_ref lemmaID="diet_pl_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="dieidda" l_ref="1">
+            <lemma_ref lemmaID="diet_pl_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="diein" l_ref="1">
+            <lemma_ref lemmaID="diet_pl_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="dieiguin" l_ref="1">
+            <lemma_ref lemmaID="diet_pl_pron_dem">diet</lemma_ref>
+         </w>
+         <w str="duoid" l_ref="1">
+            <lemma_ref lemmaID="duot_pl_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="duoidda" l_ref="1">
+            <lemma_ref lemmaID="duot_pl_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="duoin" l_ref="1">
+            <lemma_ref lemmaID="duot_pl_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="duoiguin" l_ref="1">
+            <lemma_ref lemmaID="duot_pl_pron_dem">duot</lemma_ref>
+         </w>
+         <w str="doid" l_ref="1">
+            <lemma_ref lemmaID="dot_pl_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="doidda" l_ref="1">
+            <lemma_ref lemmaID="dot_pl_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="doin" l_ref="1">
+            <lemma_ref lemmaID="dot_pl_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="doiguin" l_ref="1">
+            <lemma_ref lemmaID="dot_pl_pron_dem">dot</lemma_ref>
+         </w>
+         <w str="dakkára" l_ref="1">
+            <lemma_ref lemmaID="dakkár_sg_pron_dem">dakkár</lemma_ref>
+         </w>
+         <w str="dakkárii" l_ref="1">
+            <lemma_ref lemmaID="dakkár_sg_pron_dem">dakkár</lemma_ref>
+         </w>
+         <w str="dakkáris" l_ref="1">
+            <lemma_ref lemmaID="dakkár_sg_pron_dem">dakkár</lemma_ref>
+         </w>
+         <w str="dakkáriin" l_ref="1">
+            <lemma_ref lemmaID="dakkár_sg_pron_dem">dakkár</lemma_ref>
+         </w>
+         <w str="dakkárin" l_ref="1">
+            <lemma_ref lemmaID="dakkár_sg_pron_dem">dakkár</lemma_ref>
+         </w>
+         <w str="dákkára" l_ref="1">
+            <lemma_ref lemmaID="dákkár_sg_pron_dem">dákkár</lemma_ref>
+         </w>
+         <w str="dákkárii" l_ref="1">
+            <lemma_ref lemmaID="dákkár_sg_pron_dem">dákkár</lemma_ref>
+         </w>
+         <w str="dákkáris" l_ref="1">
+            <lemma_ref lemmaID="dákkár_sg_pron_dem">dákkár</lemma_ref>
+         </w>
+         <w str="dákkáriin" l_ref="1">
+            <lemma_ref lemmaID="dákkár_sg_pron_dem">dákkár</lemma_ref>
+         </w>
+         <w str="dákkárin" l_ref="1">
+            <lemma_ref lemmaID="dákkár_sg_pron_dem">dákkár</lemma_ref>
+         </w>
+         <w str="diekkára" l_ref="1">
+            <lemma_ref lemmaID="diekkár_sg_pron_dem">diekkár</lemma_ref>
+         </w>
+         <w str="diekkárii" l_ref="1">
+            <lemma_ref lemmaID="diekkár_sg_pron_dem">diekkár</lemma_ref>
+         </w>
+         <w str="diekkáris" l_ref="1">
+            <lemma_ref lemmaID="diekkár_sg_pron_dem">diekkár</lemma_ref>
+         </w>
+         <w str="diekkáriin" l_ref="1">
+            <lemma_ref lemmaID="diekkár_sg_pron_dem">diekkár</lemma_ref>
+         </w>
+         <w str="diekkárin" l_ref="1">
+            <lemma_ref lemmaID="diekkár_sg_pron_dem">diekkár</lemma_ref>
+         </w>
+         <w str="dakkáriid" l_ref="1">
+            <lemma_ref lemmaID="dakkárat_pl_pron_dem">dakkárat</lemma_ref>
+         </w>
+         <w str="dakkáriidda" l_ref="1">
+            <lemma_ref lemmaID="dakkárat_pl_pron_dem">dakkárat</lemma_ref>
+         </w>
+         <w str="dakkáriin" l_ref="1">
+            <lemma_ref lemmaID="dakkárat_pl_pron_dem">dakkárat</lemma_ref>
+         </w>
+         <w str="dakkáriiguin" l_ref="1">
+            <lemma_ref lemmaID="dakkárat_pl_pron_dem">dakkárat</lemma_ref>
+         </w>
+         <w str="dákkáriid" l_ref="1">
+            <lemma_ref lemmaID="dákkárat_pl_pron_dem">dákkárat</lemma_ref>
+         </w>
+         <w str="dákkáriidda" l_ref="1">
+            <lemma_ref lemmaID="dákkárat_pl_pron_dem">dákkárat</lemma_ref>
+         </w>
+         <w str="dákkáriin" l_ref="1">
+            <lemma_ref lemmaID="dákkárat_pl_pron_dem">dákkárat</lemma_ref>
+         </w>
+         <w str="dákkáriiguin" l_ref="1">
+            <lemma_ref lemmaID="dákkárat_pl_pron_dem">dákkárat</lemma_ref>
+         </w>
+         <w str="diekkáriid" l_ref="1">
+            <lemma_ref lemmaID="diekkárat_pl_pron_dem">diekkárat</lemma_ref>
+         </w>
+         <w str="diekkáriidda" l_ref="1">
+            <lemma_ref lemmaID="diekkárat_pl_pron_dem">diekkárat</lemma_ref>
+         </w>
+         <w str="diekkáriin" l_ref="1">
+            <lemma_ref lemmaID="diekkárat_pl_pron_dem">diekkárat</lemma_ref>
+         </w>
+         <w str="diekkáriiguin" l_ref="1">
+            <lemma_ref lemmaID="diekkárat_pl_pron_dem">diekkárat</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="pronPers_smenob.xml" ls="12" ws="54">
+      <ls>
+         <l str="mon" id="mon_pron_pers" out="6" in="5"/>
+         <l str="mun" id="mun_pron_pers" out="6" in="5"/>
+         <l str="don" id="don_pron_pers" out="6" in="5"/>
+         <l str="son" id="son_pron_pers" out="6" in="5"/>
+         <l str="dat" id="dat_sg_pron_pers" out="6" in="5"/>
+         <l str="moai" id="moai_pron_pers" out="6" in="5"/>
+         <l str="doai" id="doai_pron_pers" out="6" in="5"/>
+         <l str="soai" id="soai_pron_pers" out="6" in="5"/>
+         <l str="mii" id="mii_pron_pers" out="6" in="5"/>
+         <l str="dii" id="dii_pron_pers" out="6" in="5"/>
+         <l str="sii" id="sii_pron_pers" out="6" in="5"/>
+         <l str="dat" id="dat_pl_pron_pers" out="6" in="4"/>
+      </ls>
+      <ws>
+         <w str="mu" l_ref="2">
+            <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+            <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
+         </w>
+         <w str="munnje" l_ref="2">
+            <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+            <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
+         </w>
+         <w str="mus" l_ref="2">
+            <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+            <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
+         </w>
+         <w str="muinna" l_ref="2">
+            <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+            <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
+         </w>
+         <w str="munin" l_ref="2">
+            <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+            <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
+         </w>
+         <w str="du" l_ref="1">
+            <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         </w>
+         <w str="dutnje" l_ref="1">
+            <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         </w>
+         <w str="dus" l_ref="1">
+            <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         </w>
+         <w str="duinna" l_ref="1">
+            <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         </w>
+         <w str="dunin" l_ref="1">
+            <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         </w>
+         <w str="su" l_ref="1">
+            <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         </w>
+         <w str="sutnje" l_ref="1">
+            <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         </w>
+         <w str="sus" l_ref="1">
+            <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         </w>
+         <w str="suinna" l_ref="1">
+            <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         </w>
+         <w str="sunin" l_ref="1">
+            <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         </w>
+         <w str="dan" l_ref="1">
+            <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         </w>
+         <w str="dasa" l_ref="1">
+            <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         </w>
+         <w str="das" l_ref="1">
+            <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         </w>
+         <w str="dainna" l_ref="1">
+            <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         </w>
+         <w str="danin" l_ref="1">
+            <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         </w>
+         <w str="munno" l_ref="1">
+            <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         </w>
+         <w str="munnuide" l_ref="1">
+            <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         </w>
+         <w str="munnos" l_ref="1">
+            <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         </w>
+         <w str="munnuin" l_ref="1">
+            <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         </w>
+         <w str="munnon" l_ref="1">
+            <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         </w>
+         <w str="dudno" l_ref="1">
+            <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         </w>
+         <w str="dudnuide" l_ref="1">
+            <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         </w>
+         <w str="dudnos" l_ref="1">
+            <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         </w>
+         <w str="dudnuin" l_ref="1">
+            <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         </w>
+         <w str="dudnon" l_ref="1">
+            <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         </w>
+         <w str="sudno" l_ref="1">
+            <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         </w>
+         <w str="sudnuide" l_ref="1">
+            <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         </w>
+         <w str="sudnos" l_ref="1">
+            <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         </w>
+         <w str="sudnuin" l_ref="1">
+            <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         </w>
+         <w str="sudnon" l_ref="1">
+            <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         </w>
+         <w str="min" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         </w>
+         <w str="midjiide" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         </w>
+         <w str="mis" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         </w>
+         <w str="minguin" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         </w>
+         <w str="minin" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         </w>
+         <w str="din" l_ref="1">
+            <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         </w>
+         <w str="didjiide" l_ref="1">
+            <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         </w>
+         <w str="dis" l_ref="1">
+            <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         </w>
+         <w str="dinguin" l_ref="1">
+            <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         </w>
+         <w str="dinin" l_ref="1">
+            <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         </w>
+         <w str="sin" l_ref="1">
+            <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         </w>
+         <w str="sidjiide" l_ref="1">
+            <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         </w>
+         <w str="sis" l_ref="1">
+            <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         </w>
+         <w str="singuin" l_ref="1">
+            <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         </w>
+         <w str="sinin" l_ref="1">
+            <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         </w>
+         <w str="daid" l_ref="1">
+            <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
+         </w>
+         <w str="daidda" l_ref="1">
+            <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
+         </w>
+         <w str="dain" l_ref="1">
+            <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
+         </w>
+         <w str="daiguin" l_ref="1">
+            <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="pronRec_smenob.xml" ls="11" ws="35">
+      <ls>
+         <l str="guoibmáme" id="guoibmáme_pron_recipr" out="5" in="3"/>
+         <l str="guoimmáde" id="guoimmáde_pron_recipr" out="5" in="3"/>
+         <l str="guoimmiska" id="guoimmiska_pron_recipr" out="5" in="3"/>
+         <l str="guoibmámet" id="guoibmámet_pron_recipr" out="5" in="3"/>
+         <l str="guimmiideamet" id="guimmiideamet_pron_recipr" out="5" in="3"/>
+         <l str="guoimmádet" id="guoimmádet_pron_recipr" out="5" in="3"/>
+         <l str="guimmiideattet" id="guimmiideattet_pron_recipr" out="5" in="3"/>
+         <l str="guoimmiset" id="guoimmiset_pron_recipr" out="5" in="3"/>
+         <l str="guimmiideaset" id="guimmiideaset_pron_recipr" out="5" in="3"/>
+         <l str="nuppi" id="nuppi_pron_recipr" out="6" in="4"/>
+         <l str="nuppiid" id="nuppiid_pron_recipr" out="6" in="4"/>
+      </ls>
+      <ws>
+         <w str="guoibmáseame" l_ref="1">
+            <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
+         </w>
+         <w str="guoimmisteame" l_ref="1">
+            <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
+         </w>
+         <w str="guimmiineame" l_ref="1">
+            <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
+         </w>
+         <w str="guoibmáseatte" l_ref="1">
+            <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
+         </w>
+         <w str="guoimmisteatte" l_ref="1">
+            <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
+         </w>
+         <w str="guimmiineatte" l_ref="1">
+            <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
+         </w>
+         <w str="guoibmáseaskka" l_ref="1">
+            <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
+         </w>
+         <w str="guoimmisteaskka" l_ref="1">
+            <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
+         </w>
+         <w str="guimmiineaskka" l_ref="1">
+            <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
+         </w>
+         <w str="guoibmáseamet" l_ref="1">
+            <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
+         </w>
+         <w str="guoimmisteamet" l_ref="1">
+            <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
+         </w>
+         <w str="guimmiineamet" l_ref="1">
+            <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
+         </w>
+         <w str="guimmiidasamet" l_ref="1">
+            <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
+         </w>
+         <w str="guimmiineamet" l_ref="1">
+            <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
+         </w>
+         <w str="guimmiideametguin" l_ref="1">
+            <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
+         </w>
+         <w str="guoibmáseattet" l_ref="1">
+            <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
+         </w>
+         <w str="guoimmisteattet" l_ref="1">
+            <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
+         </w>
+         <w str="guimmiineattet" l_ref="1">
+            <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
+         </w>
+         <w str="guimmiidasadet" l_ref="1">
+            <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
+         </w>
+         <w str="guimmiineattet" l_ref="1">
+            <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
+         </w>
+         <w str="guimmiideattetguin" l_ref="1">
+            <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
+         </w>
+         <w str="guoibmáseaset" l_ref="1">
+            <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
+         </w>
+         <w str="guoimmisteaset" l_ref="1">
+            <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
+         </w>
+         <w str="guimmiineaset" l_ref="1">
+            <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
+         </w>
+         <w str="guimmiidasaset" l_ref="1">
+            <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
+         </w>
+         <w str="guimmiineaset" l_ref="1">
+            <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
+         </w>
+         <w str="guimmiideasetguin" l_ref="1">
+            <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
+         </w>
+         <w str="nubbái" l_ref="1">
+            <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
+         </w>
+         <w str="nuppis" l_ref="1">
+            <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
+         </w>
+         <w str="nuppiin" l_ref="1">
+            <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
+         </w>
+         <w str="nubbin" l_ref="1">
+            <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
+         </w>
+         <w str="nuppiide" l_ref="1">
+            <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
+         </w>
+         <w str="nuppiin" l_ref="1">
+            <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
+         </w>
+         <w str="nuppiiguin" l_ref="1">
+            <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
+         </w>
+         <w str="nubbin" l_ref="1">
+            <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="pronRefl_smenob.xml" ls="19" ws="64">
+      <ls>
+         <l str="ieš" id="ieš_pron_refl" out="2" in="0"/>
+         <l str="iežan" id="iežan_pron_refl" out="6" in="6"/>
+         <l str="iehčan" id="iehčan_pron_refl" out="6" in="6"/>
+         <l str="iežat" id="iežat_pron_refl" out="6" in="6"/>
+         <l str="iežas" id="iežas_pron_refl" out="7" in="7"/>
+         <l str="iežame" id="iežame_pron_refl" out="7" in="7"/>
+         <l str="iehčame" id="iehčame_pron_refl" out="7" in="7"/>
+         <l str="iežaideame" id="iežaideame_pron_refl" out="7" in="0"/>
+         <l str="iežade" id="iežade_pron_refl" out="7" in="7"/>
+         <l str="iežaideatte" id="iežaideatte_pron_refl" out="7" in="0"/>
+         <l str="iežaska" id="iežaska_pron_refl" out="8" in="8"/>
+         <l str="iežaideaskka" id="iežaideaskka_pron_refl" out="8" in="0"/>
+         <l str="iežamet" id="iežamet_pron_refl" out="7" in="7"/>
+         <l str="iehčamet" id="iehčamet_pron_refl" out="7" in="7"/>
+         <l str="iežaideamet" id="iežaideamet_pron_refl" out="7" in="0"/>
+         <l str="iežadet" id="iežadet_pron_refl" out="7" in="7"/>
+         <l str="iežaideattet" id="iežaideattet_pron_refl" out="7" in="0"/>
+         <l str="iežaset" id="iežaset_pron_refl" out="8" in="8"/>
+         <l str="iežaideaset" id="iežaideaset_pron_refl" out="8" in="0"/>
+      </ls>
+      <ws>
+         <w str="ieža" l_ref="1">
+            <lemma_ref lemmaID="Pron_Refl_Sg_Nom">ieš</lemma_ref>
+         </w>
+         <w str="alccesan" l_ref="2">
+            <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+            <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
+         </w>
+         <w str="alccan" l_ref="2">
+            <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+            <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
+         </w>
+         <w str="alccen" l_ref="2">
+            <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+            <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
+         </w>
+         <w str="alddán" l_ref="2">
+            <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+            <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
+         </w>
+         <w str="iežainan" l_ref="2">
+            <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+            <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
+         </w>
+         <w str="iehčanan" l_ref="2">
+            <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
+            <lemma_ref lemmaID="iehčan_pron_refl">iehčan</lemma_ref>
+         </w>
+         <w str="alccesat" l_ref="1">
+            <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
+         </w>
+         <w str="alccat" l_ref="1">
+            <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
+         </w>
+         <w str="alccet" l_ref="1">
+            <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
+         </w>
+         <w str="alddát" l_ref="1">
+            <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
+         </w>
+         <w str="iežainat" l_ref="1">
+            <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
+         </w>
+         <w str="iehčanat" l_ref="1">
+            <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
+         </w>
+         <w str="alccesis" l_ref="1">
+            <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
+         </w>
+         <w str="alccis" l_ref="1">
+            <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
+         </w>
+         <w str="alcces" l_ref="1">
+            <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
+         </w>
+         <w str="alddis" l_ref="1">
+            <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
+         </w>
+         <w str="alddes" l_ref="1">
+            <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
+         </w>
+         <w str="iežainis" l_ref="1">
+            <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
+         </w>
+         <w str="iehčanis" l_ref="1">
+            <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
+         </w>
+         <w str="alcceseame" l_ref="2">
+            <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+            <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
+         </w>
+         <w str="alcceme" l_ref="2">
+            <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+            <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
+         </w>
+         <w str="alccame" l_ref="2">
+            <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+            <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
+         </w>
+         <w str="alddáme" l_ref="2">
+            <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+            <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
+         </w>
+         <w str="alddiineame" l_ref="2">
+            <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+            <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
+         </w>
+         <w str="iežaineame" l_ref="2">
+            <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+            <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
+         </w>
+         <w str="iehčaneame" l_ref="2">
+            <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
+            <lemma_ref lemmaID="iehčame_pron_refl">iehčame</lemma_ref>
+         </w>
+         <w str="alcceseatte" l_ref="1">
+            <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
+         </w>
+         <w str="alccade" l_ref="1">
+            <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
+         </w>
+         <w str="alccede" l_ref="1">
+            <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
+         </w>
+         <w str="alddáde" l_ref="1">
+            <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
+         </w>
+         <w str="alddiineatte" l_ref="1">
+            <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
+         </w>
+         <w str="iežaineatte" l_ref="1">
+            <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
+         </w>
+         <w str="iehčaneatte" l_ref="1">
+            <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
+         </w>
+         <w str="alcceseaskka" l_ref="1">
+            <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
+         </w>
+         <w str="alcciska" l_ref="1">
+            <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
+         </w>
+         <w str="alcceska" l_ref="1">
+            <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
+         </w>
+         <w str="alddiska" l_ref="1">
+            <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
+         </w>
+         <w str="alddeska" l_ref="1">
+            <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
+         </w>
+         <w str="alddiineaskka" l_ref="1">
+            <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
+         </w>
+         <w str="iežaineaskka" l_ref="1">
+            <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
+         </w>
+         <w str="iehčaneaskka" l_ref="1">
+            <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
+         </w>
+         <w str="alcceseamet" l_ref="2">
+            <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+            <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
+         </w>
+         <w str="alccamet" l_ref="2">
+            <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+            <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
+         </w>
+         <w str="alccemet" l_ref="2">
+            <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+            <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
+         </w>
+         <w str="alddámet" l_ref="2">
+            <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+            <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
+         </w>
+         <w str="alddiineamet" l_ref="2">
+            <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+            <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
+         </w>
+         <w str="iežaineamet" l_ref="2">
+            <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+            <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
+         </w>
+         <w str="iehčaneamet" l_ref="2">
+            <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
+            <lemma_ref lemmaID="iehčamet_pron_refl">iehčamet</lemma_ref>
+         </w>
+         <w str="alcceseattet" l_ref="1">
+            <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
+         </w>
+         <w str="alccadet" l_ref="1">
+            <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
+         </w>
+         <w str="alccedet" l_ref="1">
+            <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
+         </w>
+         <w str="alddádet" l_ref="1">
+            <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
+         </w>
+         <w str="alddiineattet" l_ref="1">
+            <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
+         </w>
+         <w str="iežaineattet" l_ref="1">
+            <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
+         </w>
+         <w str="iehčaneattet" l_ref="1">
+            <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
+         </w>
+         <w str="alcceseaset" l_ref="1">
+            <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
+         </w>
+         <w str="alcceset" l_ref="1">
+            <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
+         </w>
+         <w str="alcciset" l_ref="1">
+            <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
+         </w>
+         <w str="alddiset" l_ref="1">
+            <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
+         </w>
+         <w str="alddeset" l_ref="1">
+            <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
+         </w>
+         <w str="alddiineaset" l_ref="1">
+            <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
+         </w>
+         <w str="iežaineaset" l_ref="1">
+            <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
+         </w>
+         <w str="iehčaneaset" l_ref="1">
+            <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="pronRel_smenob.xml" ls="10" ws="46">
+      <ls>
+         <l str="mii" id="mii_pron_rel" out="7" in="6"/>
+         <l str="gii" id="gii_pron_rel" out="6" in="5"/>
+         <l str="mat" id="mat_pron_rel" out="6" in="4"/>
+         <l str="geat" id="geat_pron_rel" out="6" in="4"/>
+         <l str="goabbá" id="goabbá_pron_rel" out="6" in="5"/>
+         <l str="goappát" id="goappát_pron_rel" out="6" in="4"/>
+         <l str="guhte" id="guhte_pron_rel" out="6" in="5"/>
+         <l str="guđet" id="guđet_pron_rel" out="6" in="4"/>
+         <l str="makkár" id="makkár_sg_pron_interr" out="6" in="5"/>
+         <l str="makkárat" id="makkárat_pl_pron_interr" out="6" in="4"/>
+      </ls>
+      <ws>
+         <w str="maid" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
+         </w>
+         <w str="man" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
+         </w>
+         <w str="masa" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
+         </w>
+         <w str="mas" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
+         </w>
+         <w str="mainna" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
+         </w>
+         <w str="manin" l_ref="1">
+            <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
+         </w>
+         <w str="gean" l_ref="1">
+            <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
+         </w>
+         <w str="geasa" l_ref="1">
+            <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
+         </w>
+         <w str="geas" l_ref="1">
+            <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
+         </w>
+         <w str="geainna" l_ref="1">
+            <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
+         </w>
+         <w str="geanin" l_ref="1">
+            <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
+         </w>
+         <w str="maid" l_ref="1">
+            <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
+         </w>
+         <w str="maidda" l_ref="1">
+            <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
+         </w>
+         <w str="main" l_ref="1">
+            <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
+         </w>
+         <w str="maiguin" l_ref="1">
+            <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
+         </w>
+         <w str="geaid" l_ref="1">
+            <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
+         </w>
+         <w str="geaidda" l_ref="1">
+            <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
+         </w>
+         <w str="geain" l_ref="1">
+            <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
+         </w>
+         <w str="geaiguin" l_ref="1">
+            <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
+         </w>
+         <w str="goappá" l_ref="1">
+            <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
+         </w>
+         <w str="goabbái" l_ref="1">
+            <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
+         </w>
+         <w str="goappás" l_ref="1">
+            <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
+         </w>
+         <w str="goappáin" l_ref="1">
+            <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
+         </w>
+         <w str="goabbán" l_ref="1">
+            <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
+         </w>
+         <w str="goappáid" l_ref="1">
+            <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
+         </w>
+         <w str="goappáide" l_ref="1">
+            <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
+         </w>
+         <w str="goappáin" l_ref="1">
+            <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
+         </w>
+         <w str="goappáiguin" l_ref="1">
+            <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
+         </w>
+         <w str="guđe" l_ref="1">
+            <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
+         </w>
+         <w str="guhtii" l_ref="1">
+            <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
+         </w>
+         <w str="guđes" l_ref="1">
+            <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
+         </w>
+         <w str="guđiin" l_ref="1">
+            <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
+         </w>
+         <w str="guhten" l_ref="1">
+            <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
+         </w>
+         <w str="guđiid" l_ref="1">
+            <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
+         </w>
+         <w str="guđiide" l_ref="1">
+            <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
+         </w>
+         <w str="guđiin" l_ref="1">
+            <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
+         </w>
+         <w str="guđiiguin" l_ref="1">
+            <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
+         </w>
+         <w str="makkára" l_ref="1">
+            <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
+         </w>
+         <w str="makkárii" l_ref="1">
+            <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
+         </w>
+         <w str="makkáris" l_ref="1">
+            <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
+         </w>
+         <w str="makkáriin" l_ref="1">
+            <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
+         </w>
+         <w str="makkárin" l_ref="1">
+            <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
+         </w>
+         <w str="makkáriid" l_ref="1">
+            <lemma_ref lemmaID="makkárat_pl_pron_interr">makkárat</lemma_ref>
+         </w>
+         <w str="makkáriidda" l_ref="1">
+            <lemma_ref lemmaID="makkárat_pl_pron_interr">makkárat</lemma_ref>
+         </w>
+         <w str="makkáriin" l_ref="1">
+            <lemma_ref lemmaID="makkárat_pl_pron_interr">makkárat</lemma_ref>
+         </w>
+         <w str="makkáriiguin" l_ref="1">
+            <lemma_ref lemmaID="makkárat_pl_pron_interr">makkárat</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="verbCop_smenob.xml" ls="5" ws="53">
+      <ls>
+         <l str="lea" id="lea_v" out="13" in="8"/>
+         <l str="lei" id="lei_v" out="14" in="13"/>
+         <l str="lehkon" id="lehkon_v_imprt" out="11" in="10"/>
+         <l str="livččen" id="livččen_v_cond" out="10" in="9"/>
+         <l str="leaččan" id="leaččan_v_pot" out="14" in="13"/>
+      </ls>
+      <ws>
+         <w str="leat" l_ref="1">
+            <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         </w>
+         <w str="lean" l_ref="1">
+            <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         </w>
+         <w str="letne" l_ref="1">
+            <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         </w>
+         <w str="ledne" l_ref="1">
+            <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         </w>
+         <w str="leahppi" l_ref="1">
+            <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         </w>
+         <w str="leaba" l_ref="1">
+            <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         </w>
+         <w str="lehpet" l_ref="1">
+            <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         </w>
+         <w str="leahkin" l_ref="1">
+            <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         </w>
+         <w str="ledjet" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leai" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="ledjen" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leimme" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leidde" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leigga" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leaigga" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leimmet" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leiddet" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="ledje" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="lean" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leamaš" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leamašan" l_ref="1">
+            <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         </w>
+         <w str="leage" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="lehkos" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="leahkku" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="leadnu" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="leahkki" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="lehkoska" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="lehkot" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="leatnot" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="lehket" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="lehkoset" l_ref="1">
+            <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         </w>
+         <w str="livččet" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="livččii" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="livččiime" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="livččiide" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="livččiiga" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="livččiimet" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="livččiidet" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="livčče" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="livčče" l_ref="1">
+            <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         </w>
+         <w str="leaččat" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leažžá" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leaš" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leš" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="ležže" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leažžabeahtti" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leažžaba" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leažžat" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leažžabehtet" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="ležžet" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leačča" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leaš" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+         <w str="leš" l_ref="1">
+            <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="verbNeg_smenob.xml" ls="3" ws="24">
+      <ls>
+         <l str="ii" id="ii_v" out="9" in="8"/>
+         <l str="iige" id="iige_v" out="9" in="8"/>
+         <l str="allos" id="allos_v" out="9" in="8"/>
+      </ls>
+      <ws>
+         <w str="in" l_ref="1">
+            <lemma_ref lemmaID="ii_v">ii</lemma_ref>
+         </w>
+         <w str="it" l_ref="1">
+            <lemma_ref lemmaID="ii_v">ii</lemma_ref>
+         </w>
+         <w str="ean" l_ref="1">
+            <lemma_ref lemmaID="ii_v">ii</lemma_ref>
+         </w>
+         <w str="eahppi" l_ref="1">
+            <lemma_ref lemmaID="ii_v">ii</lemma_ref>
+         </w>
+         <w str="eaba" l_ref="1">
+            <lemma_ref lemmaID="ii_v">ii</lemma_ref>
+         </w>
+         <w str="eat" l_ref="1">
+            <lemma_ref lemmaID="ii_v">ii</lemma_ref>
+         </w>
+         <w str="ehpet" l_ref="1">
+            <lemma_ref lemmaID="ii_v">ii</lemma_ref>
+         </w>
+         <w str="eai" l_ref="1">
+            <lemma_ref lemmaID="ii_v">ii</lemma_ref>
+         </w>
+         <w str="inge" l_ref="1">
+            <lemma_ref lemmaID="iige_v">iige</lemma_ref>
+         </w>
+         <w str="itge" l_ref="1">
+            <lemma_ref lemmaID="iige_v">iige</lemma_ref>
+         </w>
+         <w str="eange" l_ref="1">
+            <lemma_ref lemmaID="iige_v">iige</lemma_ref>
+         </w>
+         <w str="eahppige" l_ref="1">
+            <lemma_ref lemmaID="iige_v">iige</lemma_ref>
+         </w>
+         <w str="eabage" l_ref="1">
+            <lemma_ref lemmaID="iige_v">iige</lemma_ref>
+         </w>
+         <w str="eatge" l_ref="1">
+            <lemma_ref lemmaID="iige_v">iige</lemma_ref>
+         </w>
+         <w str="ehpetge" l_ref="1">
+            <lemma_ref lemmaID="iige_v">iige</lemma_ref>
+         </w>
+         <w str="eaige" l_ref="1">
+            <lemma_ref lemmaID="iige_v">iige</lemma_ref>
+         </w>
+         <w str="allon" l_ref="1">
+            <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         </w>
+         <w str="ale" l_ref="1">
+            <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         </w>
+         <w str="allu" l_ref="1">
+            <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         </w>
+         <w str="alli" l_ref="1">
+            <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         </w>
+         <w str="alloska" l_ref="1">
+            <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         </w>
+         <w str="allot" l_ref="1">
+            <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         </w>
+         <w str="allet" l_ref="1">
+            <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         </w>
+         <w str="alloset" l_ref="1">
+            <lemma_ref lemmaID="allos_v">allos</lemma_ref>
+         </w>
+      </ws>
+   </file>
+   <file name="verbSupNeg_smenob.xml" ls="1" ws="8">
+      <ls>
+         <l str="amas" id="amas_v" out="9" in="8"/>
+      </ls>
+      <ws>
+         <w str="aman" l_ref="1">
+            <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         </w>
+         <w str="amat" l_ref="1">
+            <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         </w>
+         <w str="amame" l_ref="1">
+            <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         </w>
+         <w str="amade" l_ref="1">
+            <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         </w>
+         <w str="amaska" l_ref="1">
+            <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         </w>
+         <w str="amamet" l_ref="1">
+            <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         </w>
+         <w str="amadet" l_ref="1">
+            <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         </w>
+         <w str="amaset" l_ref="1">
+            <lemma_ref lemmaID="amas_v">amas</lemma_ref>
+         </w>
+      </ws>
+   </file>
+</test>
