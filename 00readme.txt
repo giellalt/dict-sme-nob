@@ -69,6 +69,8 @@ Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke e
 
 16) adapt scripts to account for the src-attribute in the example groups
 
+17) improve disjunction instances in smanob: 'han eller hun', xxx/yyy', etc.
+
 Et lite mysterium.... 
 
 Jeg ble overraska over at dicten kan skanne ordet VEAHKAVÁLDIN skrevet med store bokstaver som to ord. Det er jo ikke ofte at ord er skrevet med store bokstaver, så det gir begrensa effekt for brukeren. Men jeg skjønner ikke hvorfor MacDict ikke da kan skanne SKUVLAVUODJIN som to ord?  Ingen stor sak, men et lite mysterium...
