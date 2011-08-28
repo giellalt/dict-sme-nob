@@ -74,6 +74,24 @@ Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke e
 (18) check the files in the dir no_wordform_during_generation
      ... by the way, 'tunealla' vs. 'tunnealla' is, again, a case of lsub!
 
+(19) just to be sure: there are 9 entries in the static files that don't have the vd-flag.
+     why I am mentioning it? it is weird to have entries with big examples but that are not
+     used in vd. Just check whether it is ok so.
+
+s_src>grep '<e>' *.xml | wc -l 
+       9
+s_src>grep '<e>' *.xml 
+adverb_smenob.xml:   <e>
+adverb_smenob.xml:   <e>
+adverb_smenob.xml:   <e>
+adverb_smenob.xml:   <e>
+adverb_smenob.xml:   <e>
+adverb_smenob.xml:   <e>
+other_stat_smenob.xml:   <e>
+other_stat_smenob.xml:   <e>
+other_stat_smenob.xml:   <e>
+
+
 
 
 Et lite mysterium.... 
