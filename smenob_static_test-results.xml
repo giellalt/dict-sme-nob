@@ -2,14 +2,14 @@
 <test>
    <file name="adjstatpar_smenob.xml" ls="8" ws="8">
       <ls>
-         <l str="lulit" id="lulit_a" out="2" in="1"/>
-         <l str="davit" id="davit_a" out="2" in="1"/>
-         <l str="oarjjit" id="oarjjit_a" out="2" in="1"/>
-         <l str="nuorttit" id="nuorttit_a" out="2" in="1"/>
-         <l str="nuorttat" id="nuorttat_a" out="2" in="1"/>
-         <l str="máttit" id="máttit_a" out="2" in="1"/>
-         <l str="fávllit" id="fávllit_a" out="2" in="1"/>
-         <l str="gáttit" id="gáttit_a" out="2" in="1"/>
+         <l str="lulit" id="lulit_a" out="1" in="1"/>
+         <l str="davit" id="davit_a" out="1" in="1"/>
+         <l str="oarjjit" id="oarjjit_a" out="1" in="1"/>
+         <l str="nuorttit" id="nuorttit_a" out="1" in="1"/>
+         <l str="nuorttat" id="nuorttat_a" out="1" in="1"/>
+         <l str="máttit" id="máttit_a" out="1" in="1"/>
+         <l str="fávllit" id="fávllit_a" out="1" in="1"/>
+         <l str="gáttit" id="gáttit_a" out="1" in="1"/>
       </ls>
       <ws>
          <w str="lulimus" l_ref="1">
