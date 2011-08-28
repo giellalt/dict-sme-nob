@@ -118,6 +118,20 @@ other_stat_smenob.xml:   <e>
 (21) systematic check of punctuation in content elements, for instance:
      <te>ca. 2 år gammel</te> vs. <re>ca 4-10 stk</re>
 
+(22) systematic check of pointers in the static files, e.g., by means of the script check_static_files.xsl
+    for example, in div_statisk_smenob, the lemma "mii nu" points to 6 word forms (out="6") but the pointers from
+    the word forms are not correct (in="0")
+
+   <file name="div_statisk_smenob.xml" ls="4" ws="21">
+      <ls>
+         <l str="mii nu" id="mii nu_indef" out="6" in="0"/>
+         <l str="oktage" id="oktage_num" out="5" in="0"/>
+         <l str="vaikko mii" id="vaikko mii_indef" out="6" in="0"/>
+         <l str="gii nu" id="gii nu_indef" out="6" in="0"/>
+      </ls>
+
+
+
 Et lite mysterium.... 
 
 Jeg ble overraska over at dicten kan skanne ordet VEAHKAVÁLDIN skrevet med store bokstaver som to ord. Det er jo ikke ofte at ord er skrevet med store bokstaver, så det gir begrensa effekt for brukeren. Men jeg skjønner ikke hvorfor MacDict ikke da kan skanne SKUVLAVUODJIN som to ord?  Ingen stor sak, men et lite mysterium...
