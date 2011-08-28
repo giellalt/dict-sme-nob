@@ -91,10 +91,22 @@ other_stat_smenob.xml:   <e>
 other_stat_smenob.xml:   <e>
 other_stat_smenob.xml:   <e>
 
+(20) systematic check and content normalizing of te vs. re elements (but not only),
+     such as 
+     <te>som nettopp er nevnt</te> vs. <te>som nettopp ble nevnt</te>
+     <re>om oss</re> vs. <re>om oss to</re> (if 'om oss' means 'om oss (mer enn to)' it should be clear, othewise is not consistent with 'om oss to')
 
 
+(21) systematic check of punctuation in content elements, for instance:
+     <te>ca. 2 år gammel</te> vs. <re>ca 4-10 stk</re>
 
 Et lite mysterium.... 
 
 Jeg ble overraska over at dicten kan skanne ordet VEAHKAVÁLDIN skrevet med store bokstaver som to ord. Det er jo ikke ofte at ord er skrevet med store bokstaver, så det gir begrensa effekt for brukeren. Men jeg skjønner ikke hvorfor MacDict ikke da kan skanne SKUVLAVUODJIN som to ord?  Ingen stor sak, men et lite mysterium...
+
+Test versions:
+A test version of the latest source files is downloadable at
+http://divvun.no/static_files/test-20110828-smenob-mac-dictionary.tgz
+
+
 
