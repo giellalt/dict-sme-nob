@@ -723,11 +723,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hvem sin (flertall)</tf>
-            <tf pos="phrase">hvem (flertall)</tf>
+         <re>flertall</re>
+            <tf pos="phrase">hvem sin</tf>
+            <tf pos="phrase">hvem</tf>
             <xg>
-               <x>Geaid Ráisa háliida iežaset jovkui?</x>
-               <xt>Hvem Reisa vil på laget?</xt>
+               <x>Geaid Ráissa hárjeheaddji háliida jovkui?</x>
+               <xt>Hvem vil Reisas trener ha på laget?</xt>
             </xg>
             <xg>
                <x>Geaid sárgumat leat čájáhusas?</x>
