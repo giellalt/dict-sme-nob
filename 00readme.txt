@@ -49,10 +49,13 @@ the current version of the nounCommon file contains a doubled lemma.
 Lenes notater:
 
 (1) PrfPrc av copula mangla!! Den har jeg lagt til i det statiske paradigmet, under Prt paradigmet. Er det en ok plass?
+   ==> done
 
 (2) iige, inge osv er frekvente. Jeg har nå laget et Neg Foc/ge paradigme med entryer. Her må det legges til eksempler - kanskje en oppgave for Berit M?
+   ==> done
 
 (3) verb Der/n og Der/eapmi mangler Ess. Jeg har lagt til i verb-codes. Vi har bare med Sg, jeg tror at Pl også burde vært lagt til?
+   ==> done
 
 (4) "irreal" som presentasjonstag i dict for potensialis er ikke så høvelig -> "pot" er bedre
    ==> done
@@ -88,9 +91,11 @@ Her har vuovdi Actor fått riktig bøyningsparadigme, men ikke vuovdi som ikke e
 (16) adapt scripts to account for the src-attribute in the example groups
 
 (17) improve disjunction instances in smanob: 'han eller hun', xxx/yyy', etc.
+   ==> done in smenob
 
 (18) check the files in the dir no_wordform_during_generation
      ... by the way, 'tunealla' vs. 'tunnealla' is, again, a case of lsub!
+    ==> done
 
 (19) just to be sure: there are 9 entries in the static files that don't have the vd-flag.
      why I am mentioning it? it is weird to have entries with big examples but that are not
@@ -108,6 +113,8 @@ adverb_smenob.xml:   <e>
 other_stat_smenob.xml:   <e>
 other_stat_smenob.xml:   <e>
 other_stat_smenob.xml:   <e>
+
+   ==> done adverbs, not other_stat_smenob.
 
 (20) systematic check and content normalizing of te vs. re elements (but not only),
      such as 
