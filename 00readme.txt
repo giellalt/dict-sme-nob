@@ -48,7 +48,7 @@ the current version of the nounCommon file contains a doubled lemma.
 --------------
 Lenes notater:
 
-(1) PrfPrc av copula mangla!! Den har jeg lagt til i det statiske paradigmet, under Prt paradigmet. Er det en ok plass?
+(1) PrfPrc av copula mangla!! Den har jeg lagt til i det statiske paradigmet, under Prt paradigmet. Er det en ok plass? ok
    ==> done
 
 (2) iige, inge osv er frekvente. Jeg har nå laget et Neg Foc/ge paradigme med entryer. Her må det legges til eksempler - kanskje en oppgave for Berit M?
@@ -136,6 +136,27 @@ other_stat_smenob.xml:   <e>
          <l str="vaikko mii" id="vaikko mii_indef" out="6" in="0"/>
          <l str="gii nu" id="gii nu_indef" out="6" in="0"/>
       </ls>
+
+(23) prop_smenob.xml 
+skal unifiseres, dvs at oversettelsen av dubletter legges som  <mg> under lemmaet.
+Formatet skal endres - jeg foreslår slik
+ 
+      fra      <tf pos="phrase">Storbukta (Kvalsund) (SK)</tf> skal endres til
+      til      <t pos="prop" src="sk" type="plc" reg="Kvalsund">Storbukta</t>
+      pga av scope for src-attributten
+
+
+(24) nounRevProper_smenob.xml
+Entryene i skal ha samme format som under (23), dvs at src-attributten flyttes fra <e> til <t>-elementet
+
+(25)
+prop_smenob.xml og nounRevProper_smenob.xml slås sammen til ei fil, med navnet nounProper_smenob.xml. Dubletter fjernes.  I denne fila vil en del av entryene ha usage="vd", men langt fra alle.
+
+(26)
+nounProperPl_smenob.xml skal også ha samme format som nevnt i (23)
+
+
+
 
 
 
