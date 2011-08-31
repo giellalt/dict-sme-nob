@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l pos="indef">mii nu</l>
+         <l pos="pron" type="indef">mii nu</l>
          <analysis>Pron_Indef_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Indef_Sg_Acc">
@@ -55,7 +55,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">noe</t>
+            <t pos="pron" type="indef">noe</t>
             <xg>
                <x>Ii oktage leat heakkaheađis, muhto mii nu dáidá leat dáhpáhuvvan.</x>
                <xt>Ingen er i livsfare, men noe har trolig skjedd.</xt>
@@ -69,13 +69,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">maid nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <l pos="pron" type="indef">maid nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">noe</t>
+            <t pos="pron" type="indef">noe</t>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -89,13 +89,13 @@ For the full license text, see the link above.</lic>
    </e>
        <e usage="vd">
       <lg>
-         <l pos="indef">man nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <l pos="pron" type="indef">man nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Gen</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">noe</t>
+            <t pos="pron" type="indef">noe</t>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -109,13 +109,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">masa nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <l pos="pron" type="indef">masa nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Ill</analysis>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase_indef">til noe</tf>
+            <tf pos="pron" type="indef">til noe</tf>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -129,13 +129,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">mas nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <l pos="pron" type="indef">mas nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Loc</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">av noe</t>
+            <t pos="pron" type="indef">av noe</t>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -149,13 +149,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">mainna nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <l pos="pron" type="indef">mainna nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">med noe</t>
+            <t pos="pron" type="indef">med noe</t>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -169,13 +169,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">manin nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">mii nu</lemma_ref>
+         <l pos="pron" type="indef">manin nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Ess</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">som noe</t>
+            <tf pos="pron" type="indef">som noe</tf>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -226,7 +226,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="num">ovttage</l>
-         <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
          <analysis>okta_Num_Sg_Acc_Foc/ge</analysis>
          <analysis>okta_Num_Sg_Gen_Foc/ge</analysis>
       </lg>
@@ -243,7 +243,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="num">oktiige</l>
-         <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
          <analysis>okta_Num_Sg_Ill_Foc/ge</analysis>
       </lg>
       <mg>
@@ -259,7 +259,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="num">ovttasge</l>
-         <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
          <analysis>okta_Num_Sg_Loc_Foc/ge</analysis>
       </lg>
       <mg>
@@ -289,7 +289,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="num">ovttainge</l>
-         <lemma_ref lemmaID="okta_Num_Sg_Nom_Foc/ge">oktage</lemma_ref>
+         <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
          <analysis>okta_Num_Sg_Com_Foc/ge</analysis>
       </lg>
       <mg>
@@ -308,7 +308,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="indef">vaikko mii</l>
+         <l pos="pron" type="indef">vaikko mii</l>
          <analysis>Pron_Indef_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Indef_Sg_Acc">
@@ -349,8 +349,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="indef">vaikko maid</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <l pos="pron" type="indef">vaikko maid</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Acc</analysis>
       </lg>
       <mg>
@@ -369,8 +369,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="indef">vaikko man</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <l pos="pron" type="indef">vaikko man</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Gen</analysis>
       </lg>
       <mg>
@@ -389,8 +389,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="indef">vaikko masa</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <l pos="pron" type="indef">vaikko masa</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Ill</analysis>
       </lg>
       <mg>
@@ -409,8 +409,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="indef">vaikko mas</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <l pos="pron" type="indef">vaikko mas</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Loc</analysis>
       </lg>
       <mg>
@@ -425,8 +425,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="indef">vaikko mainna</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <l pos="pron" type="indef">vaikko mainna</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Com</analysis>
       </lg>
       <mg>
@@ -441,8 +441,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="indef">vaikko manin</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">vaikko mii</lemma_ref>
+         <l pos="pron" type="indef">vaikko manin</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Ess</analysis>
       </lg>
       <mg>
@@ -463,7 +463,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e usage="vd">
       <lg>
-         <l pos="indef">gii nu</l>
+         <l pos="pron" type="indef">gii nu</l>
          <analysis>Pron_Indef_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Indef_Sg_Acc">
@@ -488,7 +488,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">noe</t>
+            <t pos="pron" type="indef">noe</t>
             <xg>
                <x>Ii oktage leat heakkaheađis, muhto mii nu dáidá leat dáhpáhuvvan.</x>
                <xt>Ingen er i livsfare, men noe har trolig skjedd.</xt>
@@ -502,14 +502,14 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">gean nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <l pos="pron" type="indef">gean nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Acc</analysis>
           <analysis>Pron_Indef_Sg_Gen</analysis>
      </lg>
       <mg>
          <tg>
-            <t pos="indef">noe</t>
+            <t pos="pron" type="indef">noe</t>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -523,13 +523,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">geasa nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <l pos="pron" type="indef">geasa nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Ill</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">til noe</t>
+            <tf pos="pron" type="indef">til noe</tf>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -543,13 +543,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">geas nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <l pos="pron" type="indef">geas nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Loc</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">av noe</t>
+            <tf pos="pron" type="indef">av noe</tf>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -563,13 +563,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">geainna nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <l pos="pron" type="indef">geainna nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">med noe</t>
+            <tf pos="pron" type="indef">med noe</tf>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
@@ -583,13 +583,13 @@ For the full license text, see the link above.</lic>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="indef">geanin nu</l>
-         <lemma_ref lemmaID="Pron_Indef_Sg_Nom">gii nu</lemma_ref>
+         <l pos="pron" type="indef">geanin nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Ess</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="indef">som noe</t>
+            <tf pos="pron" type="indef">som noe</tf>
             <xg>
                <x>čččččččččč</x>
                <xt>ččččččč</xt>
