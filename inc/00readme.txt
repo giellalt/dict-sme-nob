@@ -32,4 +32,23 @@ and after that have a look at the output
 
 vi out/test_t2x.csv.xml
 
+----------------------------------------------------------------------
+
+Files in cabbamus/lemma_refined4beme:
+
+lemma_refined4beme>grep '<e>' * | sort | uniq -c | sort -nr
+ 145 v_smanob.xml:   <e>
+  53 n_smanob.xml:   <e>
+  49 adv_smanob.xml:   <e>
+  23 a_smanob.xml:   <e>
+  12 po_smanob.xml:   <e>
+   8 pr_smanob.xml:   <e>
+   4 pcle_smanob.xml:   <e>
+   2 pron_smanob.xml:   <e>
+   1 interj_smanob.xml:   <e>
+   1 g3_smanob.xml:   <e>
+   1 cs_smanob.xml:   <e>
+----------------------------------------------------------------------
+
+
 
