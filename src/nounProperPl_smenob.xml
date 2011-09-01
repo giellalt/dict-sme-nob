@@ -1738,13 +1738,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="prop" type="obj" reg="">Orions belte</tf>
+            <tf pos="phrase" type="obj" reg="">Orions belte</tf>
          </tg>
       </mg>
    </e>
    <e src="ps,sa">
       <lg>
-         <l pos="prop">Davviriikkat</l>
+         <l pos="npl">Davviriikkat</l>
       </lg>
       <mg>
          <tg>
@@ -1754,11 +1754,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="prop">Čuđegoađát</l>
+         <l pos="npl">Čuđegoađát</l>
       </lg>
       <mg>
          <tg>
             <tf pos="prop" type="plc" reg="Nesseby">Spisshoveneset</tf>
+         </tg>
+      </mg>
+   </e>
+   <e src="nou94">
+      <lg>
+         <l pos="npl">Ižžot</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase" type="plc" reg="Vadsø">Lille Ekkerøy</tf>
          </tg>
       </mg>
    </e>
