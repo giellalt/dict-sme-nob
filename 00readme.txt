@@ -43,6 +43,18 @@ Doubled entries are output as twins, for instance,
    </file>
 the current version of the nounCommon file contains a doubled lemma.
 
+-------
+Some other useful commandos
+
+a. Is a word in fst?
+cat inc/inc_cabbamus_iditguovssu.txt | usmeNorm | grep '?' | cut -f1 | sort
+
+b. Is a word non-lexicalized?
+cat inc/inc_cabbamus_iditguovssu.txt | usmeNorm | egrep '\+.*#.*\+'
+
+c. Is a word lexicalized?
+cat inc/inc_cabbamus_iditguovssu.txt | usmeNorm | egrep '#' | egrep -v '\+.*#.*\+' | less
+
 
 
 --------------
