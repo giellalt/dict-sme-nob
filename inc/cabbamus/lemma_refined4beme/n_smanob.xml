@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../../../scripts/gt_dictionary.dtd">
 <r>
-   <e>
-      <lg>
-         <l pos="n">bealle</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">bealle_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="n">geahčastat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">geahčastat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">blikk</t>
+            <t pos="n">øyekast</t>
          </tg>
       </mg>
    </e>
@@ -34,10 +21,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">gealdagas_nob</t>
+            <t pos="n">spenn</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Máret lei gealdagasas.</x>
+               <xt>Máret var spent.</xt>
             </xg>
          </tg>
       </mg>
@@ -48,10 +35,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">givssideapmi_nob</t>
+            <t pos="n">mobbing</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Mii eat galgga givssideami dohkkehit.</x>
+               <xt>Vi skal ikke godta mobbing.</xt>
             </xg>
          </tg>
       </mg>
@@ -62,24 +49,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">golmmačiegat_nob</t>
+            <t pos="n">trekant</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">gulli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">gulli_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Sii galge sárgut rieggáid ja golmmačiegagiid.</x>
+               <xt>De skulle tegne sirkler og trekanter.</xt>
             </xg>
          </tg>
       </mg>
@@ -90,10 +63,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">iđđesidja_nob</t>
+            <t pos="phrase_n">tidlig morgen</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Sii ollejedje ruoktot iđđesija.</x>
+               <xt>De kom hjem tidlig på morgenen.</xt>
             </xg>
          </tg>
       </mg>
@@ -104,10 +77,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">iđđesveaigi_nob</t>
+            <t pos="n">morgenskumring</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Iđđesveaigi lea buoremus oaggunáigi.</x>
+               <xt>Morgenskumringen er den beste fisketiden.</xt>
             </xg>
          </tg>
       </mg>
@@ -118,10 +91,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">jearahallan_nob</t>
+            <t pos="n">intervju</t>
+            <t pos="n">utspørring</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Mu leat gohččon jearahallamii.</x>
+               <xt>Jeg er innkalt til intervju.</xt>
             </xg>
          </tg>
       </mg>
@@ -132,25 +106,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">jitnositlohkan_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">loakta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">loakta_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">høytlesing</t>
          </tg>
       </mg>
    </e>
@@ -160,11 +116,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">lottáš_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_n">liten fugl</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">kvise på øyelokksranden</t>
          </tg>
       </mg>
    </e>
@@ -174,24 +131,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">láhpi_nob</t>
+            <t pos="n">fotblad</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">lávke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">lávke_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Márehis eai galbmon juolggit go sus ledje ullobuvssat main ledje lábit.</x>
+               <xt>Máret frøs ikke på føttene fordi hun hadde på seg ullbukse med fot.</xt>
             </xg>
          </tg>
       </mg>
@@ -202,11 +145,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">magneahtta_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">magnet</t>
          </tg>
       </mg>
    </e>
@@ -230,11 +169,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">muslima_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">muslim</t>
          </tg>
       </mg>
    </e>
@@ -244,11 +179,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">mánnálaš_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">barnslig</t>
          </tg>
       </mg>
    </e>
@@ -258,10 +189,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">njealječiegat_nob</t>
+            <t pos="n">firkant</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Matematihkkadiimmuss mii sárgut njealječiegagiid.</x>
+               <xt>I matematikktimen tegner vi firkanter.</xt>
             </xg>
          </tg>
       </mg>
@@ -272,11 +203,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">njurggonas_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">fløyte</t>
+            <t pos="n">blåseinstrument</t>
          </tg>
       </mg>
    </e>
@@ -286,11 +214,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">njáigu_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_n">blyg person</t>
          </tg>
       </mg>
    </e>
