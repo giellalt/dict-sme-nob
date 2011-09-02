@@ -48,6 +48,9 @@ For the full license text, see the link above.</lic>
             <analysis ms="Pron_Indef_Sg_Com">
                <wordform>mainna nu</wordform>
             </analysis>
+            <analysis ms="Pron_Indef_Ess">
+               <wordform>manin nu</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -148,7 +151,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
+      <lg>
+         <l pos="pron" type="indef">manin nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="pron" type="indef">som noe</tf>
+            <xg>
+               <x>Manin nu dat áigu šaddat, go geargá skuvllas.</x>
+               <xt>Noe skal han bli, når han blir ferdig med skolen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l pos="num">oktage</l>
          <analysis>okta_Num_Sg_Nom_Foc/ge</analysis>
@@ -442,6 +461,9 @@ For the full license text, see the link above.</lic>
             <analysis ms="Pron_Indef_Sg_Com">
                <wordform>geainna nu</wordform>
             </analysis>
+            <analysis ms="Pron_Indef_Ess">
+               <wordform>geanin nu</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -526,6 +548,26 @@ For the full license text, see the link above.</lic>
                váldit oktavuođa</x>
                <xt>Hvis noen har behov for å prate med noen om hendelsen, så har vi folk der som man kan ta kontakt
                med.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="pron" type="indef">geanin nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="pron" type="indef">som noen</tf>
+            <xg>
+               <x>Geanin nu dat logai dan olbmo, muhto in muitte šat geanin.</x>
+               <xt>Hun sa hvem han var, men jeg husker ikke lenger hvem.</xt>
+            </xg>
+            <xg>
+               <x>Háliidan leahkit geanin nu.</x>
+               <xt>Jeg vil være en eller annen.</xt>
             </xg>
          </tg>
       </mg>
