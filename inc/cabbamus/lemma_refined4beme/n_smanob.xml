@@ -191,7 +191,7 @@
          <tg>
             <t pos="n">firkant</t>
             <xg>
-               <x>Matematihkkadiimmuss mii sárgut njealječiegagiid.</x>
+               <x>Matematihkkadiimmus mii sárgut njealječiegagiid.</x>
                <xt>I matematikktimen tegner vi firkanter.</xt>
             </xg>
          </tg>
@@ -225,20 +225,6 @@
       <mg>
          <tg>
             <t pos="n">oanebodda_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">oađđi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">oađđi_nob</t>
             <xg>
                <x>xxxxxxx</x>
                <xt>xxxxxxx</xt>
@@ -291,10 +277,6 @@
       <mg>
          <tg>
             <t pos="n">planet</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -420,10 +402,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">streaŋga_nob</t>
+            <t pos="n">streng</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Mun niegadin ahte čuojahin čuojanasain mas leat duhát streaŋgga.</x>
+               <xt>Jeg drømte om at jeg spilte på et instrument som har tusen strenger.</xt>
             </xg>
          </tg>
       </mg>
@@ -434,7 +416,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">stáhkkár_nob</t>
+            <t pos="n">stakkar</t>
             <xg>
                <x>xxxxxxx</x>
                <xt>xxxxxxx</xt>
@@ -462,11 +444,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">symfoniija_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">symfoni</t>
          </tg>
       </mg>
    </e>
@@ -476,11 +454,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">tennjet_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">tegning</t>
          </tg>
       </mg>
    </e>
@@ -490,11 +464,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">tákta_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">takt</t>
          </tg>
       </mg>
    </e>
@@ -504,11 +474,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">unohasvuohta_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">ubehagelighet</t>
          </tg>
       </mg>
    </e>
@@ -518,11 +484,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">veránda_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">veranda</t>
          </tg>
       </mg>
    </e>
@@ -532,10 +494,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">visoš_nob</t>
+            <t pos="phrase_n">lite hus</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Mu áhkku orru unna visožis meahcis. </x>
+               <xt>Bestemora mi bor i et lite hus i skogen.</xt>
             </xg>
          </tg>
       </mg>
@@ -546,11 +508,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">vitsa_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="n">vits</t>
          </tg>
       </mg>
    </e>
@@ -560,7 +518,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">vuoiŋŋasteapmi_nob</t>
+            <t pos="n">hviling</t>
             <xg>
                <x>xxxxxxx</x>
                <xt>xxxxxxx</xt>
@@ -576,7 +534,7 @@
          <tg>
             <t pos="n">árbmi_nob</t>
             <xg>
-               <x>xxxxxxx</x>
+               <x>Gii árpmuid</x>
                <xt>xxxxxxx</xt>
             </xg>
          </tg>
@@ -589,34 +547,6 @@
       <mg>
          <tg>
             <t pos="n">čiekŋalas_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čoaggi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">čoaggi_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čuojaheaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">čuojaheaddji_nob</t>
             <xg>
                <x>xxxxxxx</x>
                <xt>xxxxxxx</xt>
