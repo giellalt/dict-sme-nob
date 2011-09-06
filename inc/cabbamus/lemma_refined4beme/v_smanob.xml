@@ -13,7 +13,7 @@
             <t pos="v">blåne</t>
             <xg>
                <x>Duoddarat alihaste guhkkin davvin.</x>
-               <xt>Fjellene blånet langt i nord.</xt>
+               <xt>Fjellene lyste blått langt i nord.</xt>
             </xg>
          </tg>
       </mg>
@@ -76,7 +76,7 @@
             <t pos="v">luftes</t>
             <xg>
                <x>Doalvvo gávnniid olggos biggot!</x>
-               <xt>Bring sengetøyet ut for å luftes!</xt>
+               <xt>Ta sengetøyet ut for å luftes!</xt>
             </xg>
          </tg>
       </mg>
@@ -539,20 +539,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">govastit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">govastit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">govddodit</l>
       </lg>
       <mg>
@@ -732,10 +718,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jaskkodahttit_nob</t>
+            <t pos="phrase_v">roe ned</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Ossodatjođiheaddji geahččala jaskkodahttit olbmuid geat leat healkkehan dán ođđasii ahte fitnodat
+               galgá heaittihuvvot.</x>
+               <xt>Avdelingslederen prøver å roe ned de personene som er rystet over nyheten om at bedriften skal legges
+               ned.</xt>
             </xg>
          </tg>
       </mg>
@@ -746,11 +734,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jearadit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">spørre flere ganger</t>
          </tg>
       </mg>
    </e>
@@ -760,11 +744,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jieppadit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">være sjenert</t>
+            <tf>være blyg</tf>
          </tg>
       </mg>
    </e>
@@ -774,10 +755,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jierásnuvvat_nob</t>
+            <t pos="phrase_v">bli oppskaket</t>
+            <tf>bli nervøs</tf>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Sátnejođiheaddji mielas lea dehálaš ahte iskagohtet ášši vai olbmot eai jierásnuva.</x>
+               <xt>Ordføreren mener at det er viktig at de begynner å granske saken slik at folk ikke blir
+               engstelige.</xt>
             </xg>
          </tg>
       </mg>
@@ -788,10 +771,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jietnadit_nob</t>
+            <t pos="phrase_v">gi lyd fra seg</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Ii álo leat dárbu jietnadit, muhtomin lea buorre leat áibbas jaska.</x>
+               <xt>Det er ikke alltid behov for å si noe, i blant er det godt å være helt stille.</xt>
             </xg>
          </tg>
       </mg>
@@ -802,11 +785,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jorahallat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">snurre rundt</t>
          </tg>
       </mg>
    </e>
@@ -816,11 +795,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jugestit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">drikke fort</t>
          </tg>
       </mg>
    </e>
@@ -830,11 +805,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">juoiggadit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">holde på så smått med å joike</t>
          </tg>
       </mg>
    </e>
@@ -844,10 +815,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jámihit_nob</t>
+            <t pos="v">bedøve</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Bátnedoavttir láve jámihit báni ovdal go duogŋá dan.</x>
+               <xt>Tannlegen pleier å bedøve tanna før han borer i den.</xt>
             </xg>
          </tg>
       </mg>
@@ -858,11 +829,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">jávohuvvat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">bli taus</t>
          </tg>
       </mg>
    </e>
@@ -872,11 +839,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">laktadit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">føye sammen</t>
          </tg>
       </mg>
    </e>
@@ -886,10 +849,19 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">lihkahallat_nob</t>
+            <t pos="phrase_v">berøre flere ganger</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>It galgga lihkahallat maidege!</x>
+               <xt>Du må ikke røre noe!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">bevege flere ganger</t>
+            <xg>
+               <x>Bussá lihkahalai beljiid.</x>
+               <xt>Katten beveget på ørene.</xt>
             </xg>
          </tg>
       </mg>
@@ -900,11 +872,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">lihkestit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">bevege</t>
          </tg>
       </mg>
    </e>
@@ -914,25 +882,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">liibmet_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">liikodit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">liikodit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">lime</t>
          </tg>
       </mg>
    </e>
@@ -942,10 +892,20 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">livžžodit_nob</t>
+            <t pos="phrase_v">fare og vimse</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Oahpaheaddji livžžoda luohkkálanjas.</x>
+               <xt>Læreren vimser rundt i klasserommet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om nordlys</re>
+            <t pos="">flimre</t>
+            <xg>
+               <x>Guovssahas livžžoda almmis.</x>
+               <xt>Nordlyset flimrer på himmelen,</xt>
             </xg>
          </tg>
       </mg>
@@ -956,11 +916,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">logahit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">få til å lese</t>
          </tg>
       </mg>
    </e>
@@ -970,11 +926,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">loktestit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">løfte plutselig</t>
          </tg>
       </mg>
    </e>
@@ -984,11 +936,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">luoitilit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">slippe i hast</t>
          </tg>
       </mg>
    </e>
@@ -998,10 +946,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">láktadit_nob</t>
+            <t pos="v">fukte</t>
+            <t pos="v">væte</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Elle láktadii baksamiiddis njuovččagehčiin.</x>
+               <xt>Elle fuktet leppene sine med tungespissen.</xt>
             </xg>
          </tg>
       </mg>
@@ -1012,11 +961,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">lásset_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">låse</t>
          </tg>
       </mg>
    </e>
@@ -1026,11 +971,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">meahcástit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">klare seg i villmarka</t>
          </tg>
       </mg>
    </e>
@@ -1040,11 +981,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">mielddistit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">medføre</t>
          </tg>
       </mg>
    </e>
@@ -1054,11 +991,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">moddjestit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">smile kort</t>
+            <tf>smile plutselig</tf>
          </tg>
       </mg>
    </e>
@@ -1068,11 +1002,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">monnet_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">legge egg</t>
          </tg>
       </mg>
    </e>
@@ -1082,11 +1012,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">muitát_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">komme til å huske på</t>
          </tg>
       </mg>
    </e>
@@ -1096,11 +1022,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">mulggádit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">plutselig kaste et skulende blikk</t>
          </tg>
       </mg>
    </e>
@@ -1110,11 +1032,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">nanosmahttit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">styrke</t>
+            <t pos="v">forsterke</t>
          </tg>
       </mg>
    </e>
@@ -1124,11 +1043,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">njágahit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">liste seg til noe</t>
          </tg>
       </mg>
    </e>
@@ -1138,11 +1053,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">njávkkastit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">stryke litt</t>
          </tg>
       </mg>
    </e>
@@ -1152,11 +1063,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">nohkastit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">ta seg en blund</t>
          </tg>
       </mg>
    </e>
@@ -1166,25 +1073,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">oadjudit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">oahpadit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">oahpadit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">gjøre trygg</t>
          </tg>
       </mg>
    </e>
@@ -1194,10 +1083,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">olggosoaidnit_nob</t>
+            <t pos="phrase_v">se ut</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Don logat dan goahtin, muhto lea olggosoaidnit dego barta.</x>
+               <xt>Du sier at det er en gamme, men det ser ut som ei hytte.</xt>
             </xg>
          </tg>
       </mg>
@@ -1208,11 +1097,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">pusset_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">pusse</t>
          </tg>
       </mg>
    </e>
@@ -1222,11 +1107,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">rabestit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">åpne</t>
+            <tf>lukke opp</tf>
          </tg>
       </mg>
    </e>
@@ -1236,11 +1118,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">ravkkuhit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">blinke flere ganger</t>
          </tg>
       </mg>
    </e>
@@ -1250,11 +1128,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">reaggut_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">kjenne stikkende smerte</t>
          </tg>
       </mg>
    </e>
@@ -1264,11 +1138,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">rokkastit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">ta fram</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">grave litt</t>
          </tg>
       </mg>
    </e>
@@ -1278,11 +1153,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">ruohkastit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">klø litt</t>
          </tg>
       </mg>
    </e>
@@ -1292,11 +1163,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">ruoškkehit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">plutselig knake</t>
+            <tf>knake en gang</tf>
          </tg>
       </mg>
    </e>
@@ -1306,11 +1174,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">ruškkodahttit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">få til å bli brunaktig</t>
          </tg>
       </mg>
    </e>
@@ -1320,11 +1184,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">siktet_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">sikte</t>
          </tg>
       </mg>
    </e>
@@ -1334,11 +1194,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">sirdašuvvat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">flytte på seg</t>
          </tg>
       </mg>
    </e>
@@ -1348,11 +1204,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">skoalkalit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">banke på</t>
          </tg>
       </mg>
    </e>
@@ -1362,11 +1214,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">skuvihit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">dukke opp uanmeldt</t>
          </tg>
       </mg>
    </e>
@@ -1376,11 +1224,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">snuđđut_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">snufse</t>
+            <tf>blåse luften gjennom nesen</tf>
          </tg>
       </mg>
    </e>
@@ -1390,11 +1235,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">sojaldahttit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">bøye en gang</t>
          </tg>
       </mg>
    </e>
@@ -1404,11 +1245,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">spiiddistit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">svi</t>
          </tg>
       </mg>
    </e>
@@ -1418,11 +1255,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">stađđat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">få ro til å</t>
+            <tf>gi seg tid til å</tf>
          </tg>
       </mg>
    </e>
@@ -1432,11 +1266,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">stellet_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">stelle</t>
+            <t pos="v">ordne</t>
          </tg>
       </mg>
    </e>
@@ -1446,11 +1277,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">suotnjat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">krype inn eller gjennom</t>
          </tg>
       </mg>
    </e>
@@ -1460,11 +1287,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">surgehit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">skremme</t>
          </tg>
       </mg>
    </e>
@@ -1474,25 +1297,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">susttašit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">sáhkat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sáhkat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">lukte på lenge</t>
          </tg>
       </mg>
    </e>
@@ -1502,11 +1307,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">sárggodit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">holde på med å tegne</t>
          </tg>
       </mg>
    </e>
@@ -1516,11 +1317,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">sáđđat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">pese</t>
          </tg>
       </mg>
    </e>
@@ -1530,11 +1327,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">tennjet_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">tegne</t>
          </tg>
       </mg>
    </e>
@@ -1544,11 +1337,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">unohastit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">være ubehagelig</t>
          </tg>
       </mg>
    </e>
@@ -1558,11 +1347,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">vašuhit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">hate</t>
          </tg>
       </mg>
    </e>
@@ -1572,11 +1357,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">velohallat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">ligge og strekke seg</t>
          </tg>
       </mg>
    </e>
@@ -1586,11 +1367,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">viegahit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">løpe etter noe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">få noen til å løpe</t>
          </tg>
       </mg>
    </e>
@@ -1600,11 +1382,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">viissástallat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">være påståelig</t>
+            <tf>gjøre seg viktig</tf>
          </tg>
       </mg>
    </e>
@@ -1614,11 +1393,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">vuhtodit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">bysse</t>
          </tg>
       </mg>
    </e>
@@ -1628,11 +1403,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">vuojadit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">svømme</t>
+            <tf>holde på med å svømme</tf>
          </tg>
       </mg>
    </e>
@@ -1642,11 +1414,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">vuovssihit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">få til å spy</t>
          </tg>
       </mg>
    </e>
@@ -1656,11 +1424,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">vuoššastit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">koke fort</t>
          </tg>
       </mg>
    </e>
@@ -1670,11 +1434,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">áddestallat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">herme</t>
          </tg>
       </mg>
    </e>
@@ -1684,25 +1444,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">ájahallat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">árranit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">árranit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">oppholde</t>
          </tg>
       </mg>
    </e>
@@ -1713,10 +1455,6 @@
       <mg>
          <tg>
             <t pos="v">herme</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1726,11 +1464,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">čatnasit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">bli bundet</t>
          </tg>
       </mg>
    </e>
@@ -1740,11 +1474,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">šealggáhallat_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">holde på med å glitre</t>
          </tg>
       </mg>
    </e>
@@ -1755,38 +1485,6 @@
       <mg>
          <tg>
             <t pos="v">knele</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">čoallit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">čoallit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">čohkkehit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">čohkkehit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1796,11 +1494,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">čorgestit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">rydde fort</t>
          </tg>
       </mg>
    </e>
@@ -1810,11 +1504,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">čuggestit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">stikke en gang</t>
          </tg>
       </mg>
    </e>
@@ -1824,11 +1514,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">čuoigát_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">sette avgårde på ski</t>
          </tg>
       </mg>
    </e>
@@ -1838,11 +1524,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">čuoččahit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="v">reise seg</t>
          </tg>
       </mg>
    </e>
@@ -1852,11 +1534,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">čábbudit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">gjøre penere</t>
+            <t pos="v">pynte</t>
          </tg>
       </mg>
    </e>
@@ -1866,11 +1545,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">čálašit_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase_v">holde på med å skrive</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">brevveksle</t>
          </tg>
       </mg>
    </e>
