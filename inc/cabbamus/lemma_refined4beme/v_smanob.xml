@@ -6,7 +6,7 @@
 <r>
    <e>
       <lg>
-         <l pos="v">alihastit</l>
+         <l context="dat" pos="v">alihastit</l>
       </lg>
       <mg>
          <tg>
@@ -20,7 +20,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">analyseret</l>
+         <l context="mun" pos="v">analyseret</l>
       </lg>
       <mg>
          <tg>
@@ -30,7 +30,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bagadallat</l>
+         <l context="mun" pos="v">bagadallat</l>
       </lg>
       <mg>
          <tg>
@@ -45,7 +45,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bahkkehit</l>
+         <l context="mun" pos="v">bahkkehit</l>
       </lg>
       <mg>
          <tg>
@@ -59,7 +59,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">baldalit</l>
+         <l context="mun" pos="v">baldalit</l>
       </lg>
       <mg>
          <tg>
@@ -70,7 +70,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">biggot</l>
+         <l context="dat" pos="v">biggot</l>
       </lg>
       <mg>
          <tg>
@@ -84,7 +84,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bivdalit</l>
+         <l context="mun" pos="v">bivdalit</l>
       </lg>
       <mg>
          <tg>
@@ -95,7 +95,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">biškkádit</l>
+         <l context="mun" pos="v">biškkádit</l>
       </lg>
       <mg>
          <tg>
@@ -106,7 +106,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bláđet</l>
+         <l context="mun" pos="v">bláđet</l>
       </lg>
       <mg>
          <tg>
@@ -120,7 +120,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">boaluhit</l>
+         <l context="mun" pos="v">boaluhit</l>
       </lg>
       <mg>
          <tg>
@@ -131,7 +131,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">boarásnuvvat</l>
+         <l context="mun" pos="v">boarásnuvvat</l>
       </lg>
       <mg>
          <tg>
@@ -141,7 +141,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bogostallat</l>
+         <l context="mun" pos="v">bogostallat</l>
       </lg>
       <mg>
          <tg>
@@ -151,7 +151,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bosodit</l>
+         <l context="mun" pos="v">bosodit</l>
       </lg>
       <mg>
          <tg>
@@ -161,18 +161,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bosádit</l>
+         <l context="mun" pos="v">bosádit</l>
       </lg>
       <mg>
          <tg>
-			<re>en gang</re>
+            <re>en gang</re>
             <t pos="v">blåse</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">bumbet</l>
+         <l context="mun" pos="v">bumbet</l>
       </lg>
       <mg>
          <tg>
@@ -182,7 +182,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">buokčat</l>
+         <l context="mun" pos="v">buokčat</l>
       </lg>
       <mg>
          <tg>
@@ -192,7 +192,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">buođđut</l>
+         <l context="mun" pos="v">buođđut</l>
       </lg>
       <mg>
          <tg>
@@ -208,7 +208,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">buvttehit</l>
+         <l context="mun" pos="v">buvttehit</l>
       </lg>
       <mg>
          <tg>
@@ -223,7 +223,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bárgut</l>
+         <l context="mun" pos="v">bárgut</l>
       </lg>
       <mg>
          <tg>
@@ -244,7 +244,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">ceggestit</l>
+         <l context="mun" pos="v">ceggestit</l>
       </lg>
       <mg>
          <tg>
@@ -254,7 +254,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">cibmut</l>
+         <l context="mun" pos="v">cibmut</l>
       </lg>
       <mg>
          <tg>
@@ -269,11 +269,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">civkkádit</l>
+         <l context="dat" pos="v">civkkádit</l>
       </lg>
       <mg>
          <tg>
-			<re>plutselig</re>
+            <re>plutselig</re>
             <t pos="v">kvitre</t>
             <t pos="v">pipe</t>
          </tg>
@@ -281,7 +281,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dadjalit</l>
+         <l context="mun" pos="v">dadjalit</l>
       </lg>
       <mg>
          <tg>
@@ -295,7 +295,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">darvvihit</l>
+         <l context="mun" pos="v">darvvihit</l>
       </lg>
       <mg>
          <tg>
@@ -313,7 +313,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dievihit</l>
+         <l context="dat" pos="v">dievihit</l>
       </lg>
       <mg>
          <tg>
@@ -327,7 +327,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">divodit</l>
+         <l context="mun" pos="v">divodit</l>
       </lg>
       <mg>
          <tg>
@@ -338,7 +338,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dolkadit</l>
+         <l context="mun" pos="v">dolkadit</l>
       </lg>
       <mg>
          <tg>
@@ -348,7 +348,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dollestit</l>
+         <l context="mun" pos="v">dollestit</l>
       </lg>
       <mg>
          <tg>
@@ -358,7 +358,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dovddiidit</l>
+         <l context="mun" pos="v">dovddiidit</l>
       </lg>
       <mg>
          <tg>
@@ -373,7 +373,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dovdot</l>
+         <l context="dat" pos="v">dovdot</l>
       </lg>
       <mg>
          <tg>
@@ -383,7 +383,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dramatiseret</l>
+         <l context="mun" pos="v">dramatiseret</l>
       </lg>
       <mg>
          <tg>
@@ -393,7 +393,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">durget</l>
+         <l context="mun" pos="v">durget</l>
       </lg>
       <mg>
          <tg>
@@ -407,7 +407,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dárrat</l>
+         <l context="mun" pos="v">dárrat</l>
       </lg>
       <mg>
          <tg>
@@ -418,7 +418,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">fanahallat</l>
+         <l context="mun" pos="v">fanahallat</l>
       </lg>
       <mg>
          <tg>
@@ -428,7 +428,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">fantaseret</l>
+         <l context="mun" pos="v">fantaseret</l>
       </lg>
       <mg>
          <tg>
@@ -438,11 +438,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gaikkehit</l>
+         <l context="mun" pos="v">gaikkehit</l>
       </lg>
       <mg>
          <tg>
-			<re>plutselig</re>
+            <re>plutselig</re>
             <t pos="phrase_v">rykke til</t>
             <t pos="v">slite</t>
          </tg>
@@ -450,7 +450,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">geahpput</l>
+         <l context="mun" pos="v">geahpput</l>
       </lg>
       <mg>
          <tg>
@@ -460,7 +460,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">geahčastallat</l>
+         <l context="mun" pos="v">geahčastallat</l>
       </lg>
       <mg>
          <tg>
@@ -470,7 +470,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">geaigguhit</l>
+         <l context="mun" pos="v">geaigguhit</l>
       </lg>
       <mg>
          <tg>
@@ -481,7 +481,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gevret</l>
+         <l context="mun" pos="v">gevret</l>
       </lg>
       <mg>
          <tg>
@@ -491,7 +491,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">giessasaddat</l>
+         <l context="mun" pos="v">giessasaddat</l>
       </lg>
       <mg>
          <tg>
@@ -507,18 +507,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">giitalit</l>
+         <l context="mun" pos="v">giitalit</l>
       </lg>
       <mg>
          <tg>
-			<re>flere ganger</re>
+            <re>flere ganger</re>
             <t pos="v">takke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">gohccát</l>
+         <l context="mun" pos="v">gohccát</l>
       </lg>
       <mg>
          <tg>
@@ -533,7 +533,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">govahallat</l>
+         <l context="mun" pos="v">govahallat</l>
       </lg>
       <mg>
          <tg>
@@ -543,7 +543,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">govddodit</l>
+         <l context="mun" pos="v">govddodit</l>
       </lg>
       <mg>
          <tg>
@@ -553,7 +553,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gullostallat</l>
+         <l context="dat" pos="v">gullostallat</l>
       </lg>
       <mg>
          <tg>
@@ -564,7 +564,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gulustuvvat</l>
+         <l context="dat" pos="v">gulustuvvat</l>
       </lg>
       <mg>
          <tg>
@@ -575,18 +575,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">guorssádit</l>
+         <l context="mun" pos="v">guorssádit</l>
       </lg>
       <mg>
          <tg>
-			<re>en gang eller plutselig</re>
+            <re>en gang eller plutselig</re>
             <t pos="phrase_v">hoste stygt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">guoskkahallat</l>
+         <l context="mun" pos="v">guoskkahallat</l>
       </lg>
       <mg>
          <tg>
@@ -596,7 +596,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">guoskkehit</l>
+         <l context="mun" pos="v">guoskkehit</l>
       </lg>
       <mg>
          <tg>
@@ -606,7 +606,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">guvnnjádit</l>
+         <l context="mun" pos="v">guvnnjádit</l>
       </lg>
       <mg>
          <tg>
@@ -617,7 +617,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gáskkestit</l>
+         <l context="mun" pos="v">gáskkestit</l>
       </lg>
       <mg>
          <tg>
@@ -628,29 +628,29 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gávastallat</l>
+         <l context="mun" pos="v">gávastallat</l>
       </lg>
       <mg>
          <tg>
-			<re>flere ganger</re>
+            <re>flere ganger</re>
             <t pos="v">gjespe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">heaitalit</l>
+         <l context="mun" pos="v">heaitalit</l>
       </lg>
       <mg>
          <tg>
-			<re>om forhold</re>
+            <re>om forhold</re>
             <t pos="phrase_v">gjøre slutt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">heađásnuvvat</l>
+         <l context="mun" pos="v">heađásnuvvat</l>
       </lg>
       <mg>
          <tg>
@@ -660,7 +660,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">hoahpuhit</l>
+         <l context="mun" pos="v">hoahpuhit</l>
       </lg>
       <mg>
          <tg>
@@ -670,18 +670,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">hoigadit</l>
+         <l context="mun" pos="v">hoigadit</l>
       </lg>
       <mg>
          <tg>
-			<re>en gang</re>
+            <re>en gang</re>
             <t pos="v">skyve</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">humahallat</l>
+         <l context="mun" pos="v">humahallat</l>
       </lg>
       <mg>
          <tg>
@@ -691,7 +691,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">hávkadit</l>
+         <l context="mun" pos="v">hávkadit</l>
       </lg>
       <mg>
          <tg>
@@ -701,7 +701,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">illosit</l>
+         <l context="mun" pos="v">illosit</l>
       </lg>
       <mg>
          <tg>
@@ -711,7 +711,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">illástit</l>
+         <l context="mun" pos="v">illástit</l>
       </lg>
       <mg>
          <tg>
@@ -721,7 +721,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jaskkodahttit</l>
+         <l context="mun" pos="v">jaskkodahttit</l>
       </lg>
       <mg>
          <tg>
@@ -737,18 +737,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jearadit</l>
+         <l context="mun" pos="v">jearadit</l>
       </lg>
       <mg>
          <tg>
-			<re>flere ganger</re>
+            <re>flere ganger</re>
             <t pos="v">spørre</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">jieppadit</l>
+         <l context="mun" pos="v">jieppadit</l>
       </lg>
       <mg>
          <tg>
@@ -759,7 +759,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jierásnuvvat</l>
+         <l context="mun" pos="v">jierásnuvvat</l>
       </lg>
       <mg>
          <tg>
@@ -775,7 +775,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jietnadit</l>
+         <l context="mun" pos="v">jietnadit</l>
       </lg>
       <mg>
          <tg>
@@ -789,7 +789,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jorahallat</l>
+         <l context="mun" pos="v">jorahallat</l>
       </lg>
       <mg>
          <tg>
@@ -799,7 +799,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jugestit</l>
+         <l context="mun" pos="v">jugestit</l>
       </lg>
       <mg>
          <tg>
@@ -809,7 +809,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">juoiggadit</l>
+         <l context="mun" pos="v">juoiggadit</l>
       </lg>
       <mg>
          <tg>
@@ -819,7 +819,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jámihit</l>
+         <l context="mun" pos="v">jámihit</l>
       </lg>
       <mg>
          <tg>
@@ -833,7 +833,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jávohuvvat</l>
+         <l context="mun" pos="v">jávohuvvat</l>
       </lg>
       <mg>
          <tg>
@@ -843,7 +843,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">laktadit</l>
+         <l context="mun" pos="v">laktadit</l>
       </lg>
       <mg>
          <tg>
@@ -853,11 +853,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">lihkahallat</l>
+         <l context="mun" pos="v">lihkahallat</l>
       </lg>
       <mg>
          <tg>
-			<re>flere ganger</re>
+            <re>flere ganger</re>
             <t pos="v">berøre</t>
             <xg>
                <x>It galgga lihkahallat maidege!</x>
@@ -867,7 +867,7 @@
       </mg>
       <mg>
          <tg>
-			<re>flere ganger</re>
+            <re>flere ganger</re>
             <t pos="v">bevege</t>
             <xg>
                <x>Bussá lihkahalai beljiid.</x>
@@ -878,7 +878,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">lihkestit</l>
+         <l context="mun" pos="v">lihkestit</l>
       </lg>
       <mg>
          <tg>
@@ -888,7 +888,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">liibmet</l>
+         <l context="mun" pos="v">liibmet</l>
       </lg>
       <mg>
          <tg>
@@ -898,7 +898,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">livžžodit</l>
+         <l context="mun" pos="v">livžžodit</l>
       </lg>
       <mg>
          <tg>
@@ -915,14 +915,14 @@
             <t pos="v">flimre</t>
             <xg>
                <x>Guovssahas livžžoda almmis.</x>
-               <xt>Nordlyset flimrer på himmelen,</xt>
+               <xt>Nordlyset flimrer på himmelen.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">logahit</l>
+         <l context="mun" pos="v">logahit</l>
       </lg>
       <mg>
          <tg>
@@ -932,18 +932,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">loktestit</l>
+         <l context="mun" pos="v">loktestit</l>
       </lg>
       <mg>
          <tg>
-			<re>plutselig</re>
+            <re>plutselig</re>
             <t pos="v">løfte</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">luoitilit</l>
+         <l context="mun" pos="v">luoitilit</l>
       </lg>
       <mg>
          <tg>
@@ -953,7 +953,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">láktadit</l>
+         <l context="mun" pos="v">láktadit</l>
       </lg>
       <mg>
          <tg>
@@ -968,7 +968,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">lásset</l>
+         <l context="mun" pos="v">lásset</l>
       </lg>
       <mg>
          <tg>
@@ -978,7 +978,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">meahcástit</l>
+         <l context="mun" pos="v">meahcástit</l>
       </lg>
       <mg>
          <tg>
@@ -988,7 +988,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">mielddistit</l>
+         <l context="dat" pos="v">mielddistit</l>
       </lg>
       <mg>
          <tg>
@@ -998,7 +998,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">moddjestit</l>
+         <l context="mun" pos="v">moddjestit</l>
       </lg>
       <mg>
          <tg>
@@ -1009,7 +1009,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">monnet</l>
+         <l context="dat" pos="v">monnet</l>
       </lg>
       <mg>
          <tg>
@@ -1019,7 +1019,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">muitát</l>
+         <l context="mun" pos="v">muitát</l>
       </lg>
       <mg>
          <tg>
@@ -1029,18 +1029,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">mulggádit</l>
+         <l context="mun" pos="v">mulggádit</l>
       </lg>
       <mg>
          <tg>
-			<re>plutselig</re>
+            <re>plutselig</re>
             <t pos="v">skule</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">nanosmahttit</l>
+         <l context="mun" pos="v">nanosmahttit</l>
       </lg>
       <mg>
          <tg>
@@ -1051,7 +1051,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">njágahit</l>
+         <l context="mun" pos="v">njágahit</l>
       </lg>
       <mg>
          <tg>
@@ -1061,7 +1061,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">njávkkastit</l>
+         <l context="mun" pos="v">njávkkastit</l>
       </lg>
       <mg>
          <tg>
@@ -1071,7 +1071,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">nohkastit</l>
+         <l context="mun" pos="v">nohkastit</l>
       </lg>
       <mg>
          <tg>
@@ -1081,7 +1081,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">oadjudit</l>
+         <l context="mun" pos="v">oadjudit</l>
       </lg>
       <mg>
          <tg>
@@ -1091,21 +1091,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">olggosoaidnit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="phrase_v">se ut</t>
-            <xg>
-               <x>Don logat dan goahtin, muhto lea olggosoaidnit dego barta.</x>
-               <xt>Du sier at det er en gamme, men det ser ut som ei hytte.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">pusset</l>
+         <l context="mun" pos="v">pusset</l>
       </lg>
       <mg>
          <tg>
@@ -1115,7 +1101,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">rabestit</l>
+         <l context="mun" pos="v">rabestit</l>
       </lg>
       <mg>
          <tg>
@@ -1126,18 +1112,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">ravkkuhit</l>
+         <l context="mun" pos="v">ravkkuhit</l>
       </lg>
       <mg>
          <tg>
-			<re>flere ganger</re>
+            <re>flere ganger</re>
             <t pos="v">blinke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">reaggut</l>
+         <l context="dat" pos="v">reaggut</l>
       </lg>
       <mg>
          <tg>
@@ -1147,7 +1133,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">rokkastit</l>
+         <l context="mun" pos="v">rokkastit</l>
       </lg>
       <mg>
          <tg>
@@ -1162,29 +1148,29 @@
    </e>
    <e>
       <lg>
-         <l pos="v">ruohkastit</l>
+         <l context="mun" pos="v">ruohkastit</l>
       </lg>
       <mg>
          <tg>
-			<re>transitiv</re>
+            <re>transitiv</re>
             <t pos="phrase_v">klø litt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">ruoškkehit</l>
+         <l context="dat" pos="v">ruoškkehit</l>
       </lg>
       <mg>
          <tg>
-			<re>en gang eller plutselig</re>
+            <re>en gang eller plutselig</re>
             <t pos="v">knake</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">ruškkodahttit</l>
+         <l context="mun" pos="v">ruškkodahttit</l>
       </lg>
       <mg>
          <tg>
@@ -1194,7 +1180,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">siktet</l>
+         <l context="mun" pos="v">siktet</l>
       </lg>
       <mg>
          <tg>
@@ -1204,7 +1190,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sirdašuvvat</l>
+         <l context="mun" pos="v">sirdašuvvat</l>
       </lg>
       <mg>
          <tg>
@@ -1214,7 +1200,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">skoalkalit</l>
+         <l context="mun" pos="v">skoalkalit</l>
       </lg>
       <mg>
          <tg>
@@ -1224,7 +1210,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">skuvihit</l>
+         <l context="mun" pos="v">skuvihit</l>
       </lg>
       <mg>
          <tg>
@@ -1234,7 +1220,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">snuđđut</l>
+         <l context="mun" pos="v">snuđđut</l>
       </lg>
       <mg>
          <tg>
@@ -1245,7 +1231,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sojaldahttit</l>
+         <l context="mun" pos="v">sojaldahttit</l>
       </lg>
       <mg>
          <tg>
@@ -1255,18 +1241,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">spiiddistit</l>
+         <l context="dat" pos="v">spiiddistit</l>
       </lg>
       <mg>
          <tg>
-			<re>intransitiv</re>
+            <re>intransitiv</re>
             <t pos="v">svi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">stađđat</l>
+         <l context="mun" pos="v">stađđat</l>
       </lg>
       <mg>
          <tg>
@@ -1277,7 +1263,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">stellet</l>
+         <l context="mun" pos="v">stellet</l>
       </lg>
       <mg>
          <tg>
@@ -1288,7 +1274,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">suotnjat</l>
+         <l context="mun" pos="v">suotnjat</l>
       </lg>
       <mg>
          <tg>
@@ -1299,7 +1285,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">surgehit</l>
+         <l context="mun" pos="v">surgehit</l>
       </lg>
       <mg>
          <tg>
@@ -1309,7 +1295,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">susttašit</l>
+         <l context="mun" pos="v">susttašit</l>
       </lg>
       <mg>
          <tg>
@@ -1319,7 +1305,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sárggodit</l>
+         <l context="mun" pos="v">sárggodit</l>
       </lg>
       <mg>
          <tg>
@@ -1329,7 +1315,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sáđđat</l>
+         <l context="mun" pos="v">sáđđat</l>
       </lg>
       <mg>
          <tg>
@@ -1339,7 +1325,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">tennjet</l>
+         <l context="mun" pos="v">tennjet</l>
       </lg>
       <mg>
          <tg>
@@ -1349,7 +1335,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">unohastit</l>
+         <l context="dat" pos="v">unohastit</l>
       </lg>
       <mg>
          <tg>
@@ -1359,7 +1345,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">vašuhit</l>
+         <l context="mun" pos="v">vašuhit</l>
       </lg>
       <mg>
          <tg>
@@ -1369,7 +1355,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">velohallat</l>
+         <l context="mun" pos="v">velohallat</l>
       </lg>
       <mg>
          <tg>
@@ -1379,7 +1365,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">viegahit</l>
+         <l context="mun" pos="v">viegahit</l>
       </lg>
       <mg>
          <tg>
@@ -1405,7 +1391,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">vuhtodit</l>
+         <l context="mun" pos="v">vuhtodit</l>
       </lg>
       <mg>
          <tg>
@@ -1415,7 +1401,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">vuojadit</l>
+         <l context="mun" pos="v">vuojadit</l>
       </lg>
       <mg>
          <tg>
@@ -1426,7 +1412,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">vuovssihit</l>
+         <l context="dat" pos="v">vuovssihit</l>
       </lg>
       <mg>
          <tg>
@@ -1436,18 +1422,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">vuoššastit</l>
+         <l context="mun" pos="v">vuoššastit</l>
       </lg>
       <mg>
          <tg>
-			<re>transitiv</re>
+            <re>transitiv</re>
             <t pos="phrase_v">koke fort</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">áddestallat</l>
+         <l context="mun" pos="v">áddestallat</l>
       </lg>
       <mg>
          <tg>
@@ -1457,7 +1443,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">ájahallat</l>
+         <l context="mun" pos="v">ájahallat</l>
       </lg>
       <mg>
          <tg>
@@ -1467,7 +1453,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">áđđestallat</l>
+         <l context="mun" pos="v">áđđestallat</l>
       </lg>
       <mg>
          <tg>
@@ -1477,7 +1463,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čatnasit</l>
+         <l context="mun" pos="v">čatnasit</l>
       </lg>
       <mg>
          <tg>
@@ -1487,7 +1473,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">šealggáhallat</l>
+         <l context="dat" pos="v">šealggáhallat</l>
       </lg>
       <mg>
          <tg>
@@ -1497,7 +1483,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čippostit</l>
+         <l context="mun" pos="v">čippostit</l>
       </lg>
       <mg>
          <tg>
@@ -1507,7 +1493,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čorgestit</l>
+         <l context="mun" pos="v">čorgestit</l>
       </lg>
       <mg>
          <tg>
@@ -1517,18 +1503,18 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čuggestit</l>
+         <l context="mun" pos="v">čuggestit</l>
       </lg>
       <mg>
          <tg>
-			<re>en gang</re>
+            <re>en gang</re>
             <t pos="v">stikke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">čuoigát</l>
+         <l context="mun" pos="v">čuoigát</l>
       </lg>
       <mg>
          <tg>
@@ -1538,7 +1524,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čuoččahit</l>
+         <l context="mun" pos="v">čuoččahit</l>
       </lg>
       <mg>
          <tg>
@@ -1562,7 +1548,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čábbudit</l>
+         <l context="mun" pos="v">čábbudit</l>
       </lg>
       <mg>
          <tg>
@@ -1573,7 +1559,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čálašit</l>
+         <l context="mun" pos="v">čálašit</l>
       </lg>
       <mg>
          <tg>
