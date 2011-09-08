@@ -29674,7 +29674,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-	    <re>om firbente dyr</re>
+            <re>om firbente dyr</re>
             <t pos="v">løpe</t>
             <ref>viehkat_v</ref>
             <xg>
@@ -35013,9 +35013,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-	    <re>om tobeinte</re>
+            <re>om tobeinte</re>
             <t pos="v">løpe</t>
-	    <ref>ruohttat_v</ref>
+            <ref>ruohttat_v</ref>
             <xg>
                <x>Guovttejuolggat viehká.</x>
                <xt>En tobeint løper.</xt>
@@ -38309,13 +38309,34 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>intransitiv</re>
-            <t pos="v">stoppe</t>
+            <t pos="phrase_v">reise seg</t>
+            <xg>
+               <x>Maŋŋel go čájálmas nogai, de muhtumat čuoččastedje doaškut gieđaid.</x>
+               <xt>Etter at forestillingen var slutt, reiste noen seg for å klappe i hendene.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="phrase_v">bli stående litt</t>
+            <re>intransitiv</re>
+            <t pos="v">stoppe</t>
+            <xg>
+               <x>Luossa čuoččasta savvoniida.</x>
+               <xt>Laksen stiller stanser opp i de stilleflytende stykker av elven.</xt>
+            </xg>
+            <xg>
+               <x>Lásse čuoččastii muinna háleštit.</x>
+               <xt>Lásse stoppet for å prate med meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">stille seg</t>
+            <xg>
+               <x>Ánne čuoččastii uksagurrii.</x>
+               <xt>Ánne stilte seg ved døren.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
