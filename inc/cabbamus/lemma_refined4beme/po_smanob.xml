@@ -6,42 +6,14 @@
 <r>
    <e>
       <lg>
-         <l pos="po">badjelaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">badjelaš_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="po">bajábeallái</l>
       </lg>
       <mg>
          <tg>
-            <t pos="po">bajábeallái_nob</t>
+            <t pos="pr">over</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">beali</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">beali_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Ánne heŋgii čuovgga seaidnái seaŋgga bajábeallái.</x>
+               <xt>Ánne hengte opp en lampe på veggen over senga.</xt>
             </xg>
          </tg>
       </mg>
@@ -52,11 +24,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="po">davábealde_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase">på nordsiden</t>
          </tg>
       </mg>
    </e>
@@ -66,11 +34,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="po">davábeallái_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase">til nordsiden</t>
          </tg>
       </mg>
    </e>
@@ -80,10 +44,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="po">duogi_nob</t>
+            <t pos="pr">bak</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Bussá liiko go Ánne njávká su beljiid duogi.</x>
+               <xt>Katten liker når Ánne stryker den bak ørene.</xt>
             </xg>
          </tg>
       </mg>
@@ -94,10 +58,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="po">duogábealde_nob</t>
+            <t pos="po">på baksiden</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Ánte duogábealde ledje muhtun nieiddat.</x>
+               <xt>Bak Ánte var det noen jenter.</xt>
             </xg>
          </tg>
       </mg>
@@ -108,10 +72,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="po">geažes_nob</t>
+            <t pos="pr">om</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Eadni galgá viežžat mu vahku geažes duottarstobus.</x>
+               <xt>Mor skal hente meg om en uke på fjellstua.</xt>
             </xg>
          </tg>
       </mg>
@@ -122,11 +86,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="po">lulábealde_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase">på sørsiden</t>
          </tg>
       </mg>
    </e>
@@ -136,10 +96,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="po">njeaiga_nob</t>
+            <t pos="phrase">rett på</t>
+            <t pos="phrase">rett mot</t>
             <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
+               <x>Dávjá lea buoret vuodjit ealli njeaiga go stivret luottas eret.</x>
+               <xt>Ofte er det bedre å kjøre rett på et dyr enn å styre over veien.</xt>
             </xg>
          </tg>
       </mg>
@@ -150,25 +111,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="po">nuorttabealde_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">ovdalis</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">ovdalis_nob</t>
-            <xg>
-               <x>xxxxxxx</x>
-               <xt>xxxxxxx</xt>
-            </xg>
+            <t pos="phrase">på østsiden</t>
          </tg>
       </mg>
    </e>
