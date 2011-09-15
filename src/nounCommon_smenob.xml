@@ -30,6 +30,51 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">skandála</l>
+         <lsub>skándala</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">skandale</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">fiásko</l>
+         <lsub>fiasko</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">fiasko</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">skuter</l>
+         <lsub>skutter</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">skuter</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">háliidus</l>
+         <lsub>hálidus</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lengsel</t>
+            <t pos="n">lyst</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">čáhppesolmmoš</l>
       </lg>
       <mg>
@@ -83,8 +128,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">halvveis</t>
-            <t pos="???">midtveis</t>
+            <t pos="n">halvveg</t>
+            <t pos="n">midtveg</t>
             <xg>
                <x>Mun lean fargga beallemuddui ollen dainna bargguin.</x>
                <xt>Jeg er snart kommet halvveis med dette arbeidet.</xt>
@@ -20160,6 +20205,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">friddjaminuhtta</l>
+         <lsub>friddjaminukta</lsub>
       </lg>
       <mg>
          <tg>
@@ -38004,6 +38050,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">politiija</l>
+         <lsub>politiijá</lsub>
       </lg>
       <mg>
          <tg>
@@ -41186,11 +41233,16 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l pos="n">skerttet</l>
+         <lsub>skerttehii</lsub>
          <lc>skerttegat</lc>
       </lg>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">grytekrok</t>
+            <xg>
+               <x>Ánne heŋgestii gáfegievnni skerttegii.</x>
+               <xt>Ánne hengte kaffekjelen på grytekroken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
