@@ -29,66 +29,66 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-    <lg>
-      <l pos="n">bálkkašupmi</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="n">pris</t>
-	<t pos="n">belønning</t>
-	<t pos="n">premie</t>
-	<xg>
-	  <x>Munnje lea stuora gudni oažžut dán bálkkašumi.</x>
-	  <xt>For meg er det en stor ære å få denne prisen.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e cips_comment="verken 'feiring' eller 'fest' dukke opp i eksempel: enten 'markering' til eller ændre eksempel.">
-    <lg>
-      <l pos="n">ávvudeapmi</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="n">feiring</t>
-	<t pos="n">fest</t>
-	<xg>
-	  <x>Sámi álbmotbeaivvi almmolaš ávvudeapmi lea kulturviesus.</x>
-	  <xt>Den offisielle markeringen av samefolkets dag er på kulturhuset.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">juogus</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="n">seksjon</t>
-	<xg>
-	  <x>Ossodagas leat guokte juhkosa: girjerájusjuogus ja diehtojuohkinjuogus.</x>
-	  <xt>Avdelingen har to seksjoner: bibliotekseksjonen og informasjonsseksjonen.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">čuovganeapmi</l>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="n">lysning</t>
-	<t pos="n">daggry</t>
-	<t pos="n">morgensiden av natten</t>
-	<xg>
-	  <x>Duorastatčuovganeapmái ožžo politiijat dieđu muhtun lihkohisvuođa birra.</x>
-	  <xt>På morgensiden av natt til torsdag fikk politiet melding om en ulykke.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
+      <lg>
+         <l pos="n">bálkkašupmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pris</t>
+            <t pos="n">belønning</t>
+            <t pos="n">premie</t>
+            <xg>
+               <x>Munnje lea stuora gudni oažžut dán bálkkašumi.</x>
+               <xt>For meg er det en stor ære å få denne prisen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e cips_comment="verken 'feiring' eller 'fest' dukke opp i eksempel: enten 'markering' til eller ændre eksempel.">
+      <lg>
+         <l pos="n">ávvudeapmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">feiring</t>
+            <t pos="n">fest</t>
+            <xg>
+               <x>Sámi álbmotbeaivvi almmolaš ávvudeapmi lea kulturviesus.</x>
+               <xt>Den offisielle markeringen av samefolkets dag er på kulturhuset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juogus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">seksjon</t>
+            <xg>
+               <x>Ossodagas leat guokte juhkosa: girjerájusjuogus ja diehtojuohkinjuogus.</x>
+               <xt>Avdelingen har to seksjoner: bibliotekseksjonen og informasjonsseksjonen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuovganeapmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lysning</t>
+            <t pos="n">daggry</t>
+            <t pos="n">morgensiden av natten</t>
+            <xg>
+               <x>Duorastatčuovganeapmái ožžo politiijat dieđu muhtun lihkohisvuođa birra.</x>
+               <xt>På morgensiden av natt til torsdag fikk politiet melding om en ulykke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="n">áviisa</l>
@@ -166,16 +166,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">søknad</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">mánus</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">manus</t>
          </tg>
       </mg>
    </e>
@@ -443,7 +433,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">sámemišuvdna</l>
+         <l pos="n">sámemiššuvdna</l>
       </lg>
       <mg>
          <tg>
@@ -474,6 +464,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="n">sámeskuvla</l>
+         <lsub>sámiskuvla</lsub>
       </lg>
       <mg>
          <tg>
@@ -544,6 +535,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="n">sámesearvi</l>
+         <lsub>sámisearvi</lsub>
       </lg>
       <mg>
          <tg>
@@ -583,7 +575,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">oahcci</l>
+         <l pos="n">ohcci</l>
       </lg>
       <mg>
          <tg>
@@ -613,7 +605,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">molla</l>
+         <l pos="n">moalla</l>
       </lg>
       <mg>
          <tg>
@@ -893,16 +885,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">jáhki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">år</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">sámecup</l>
       </lg>
       <mg>
@@ -913,7 +895,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">minoritehtta</l>
+         <l pos="n">minoritehta</l>
       </lg>
       <mg>
          <tg>
@@ -987,6 +969,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>dyr</re>
             <t pos="n">vær</t>
          </tg>
       </mg>
@@ -1047,7 +1030,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">narkotika</t>
+            <t pos="n">rusmiddel</t>
          </tg>
       </mg>
    </e>
@@ -1293,7 +1276,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">linjjá</l>
+         <l pos="n">linnjá</l>
       </lg>
       <mg>
          <tg>
@@ -1317,7 +1300,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">fotgjenger</t>
+            <t pos="n">gåing</t>
          </tg>
       </mg>
    </e>
@@ -1357,7 +1340,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">engelsk</t>
+            <t pos="n">engelsk språk</t>
          </tg>
       </mg>
    </e>
@@ -1368,16 +1351,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">hovedarbeid</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">sámisearvi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">sameforening</t>
          </tg>
       </mg>
    </e>
@@ -1437,7 +1410,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">ordfører</t>
+            <t pos="n">rådmann</t>
          </tg>
       </mg>
    </e>
@@ -1447,7 +1420,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">enaresamisk</t>
+            <t pos="n">enaresamisk språk</t>
          </tg>
       </mg>
    </e>
@@ -1477,7 +1450,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">samiskundervisning</t>
+            <t pos="n">samiskopplæring</t>
          </tg>
       </mg>
    </e>
@@ -1537,7 +1510,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">bruk</t>
+            <t pos="n">gruve</t>
          </tg>
       </mg>
    </e>
@@ -1553,7 +1526,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">kapasitehtta</l>
+         <l pos="n">kapasitehta</l>
       </lg>
       <mg>
          <tg>
@@ -1577,7 +1550,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">nordsamisk</t>
+            <t pos="n">nordsame</t>
          </tg>
       </mg>
    </e>
@@ -1587,7 +1560,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">reindriftssame</t>
+            <t pos="n">reindriftsfolk</t>
          </tg>
       </mg>
    </e>
@@ -1673,7 +1646,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">bieggapárka</l>
+         <l pos="n">bieggamillopárka</l>
       </lg>
       <mg>
          <tg>
@@ -1713,16 +1686,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">nuorttanáste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">øststjerna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">morála</l>
       </lg>
       <mg>
@@ -1733,7 +1696,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">gaskamearra</l>
+         <l pos="n">gaskamearri</l>
       </lg>
       <mg>
          <tg>
@@ -1758,16 +1721,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">kongekrabbe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">finnmárkolaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">finnmarking</t>
          </tg>
       </mg>
    </e>
@@ -1833,7 +1786,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">sámedikkeáirras</l>
+         <l pos="n">sámediggeáirras</l>
+         <lsub>sámedikkeáirras</lsub>
       </lg>
       <mg>
          <tg>
@@ -1877,13 +1831,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">finale</t>
+            <re>om fotball</re>
+            <t pos="n">sluttspill</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">klienta</l>
+         <l pos="n">klieanta</l>
       </lg>
       <mg>
          <tg>
@@ -1893,7 +1848,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">kalenddar</l>
+         <l pos="n">kaleanddar</l>
       </lg>
       <mg>
          <tg>
@@ -1927,13 +1882,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">nasjonalplan</t>
+            <t pos="n">riksplan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">máilmmemeašttir</l>
+         <l pos="n">máilmmimeašttir</l>
       </lg>
       <mg>
          <tg>
@@ -1957,7 +1912,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">fagområde</t>
+            <t pos="n">fagmiljø</t>
          </tg>
       </mg>
    </e>
@@ -1973,7 +1928,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">nubbingiella</l>
+         <l pos="n">nubbegiella</l>
+         <lsub>nubbingiella</lsub>
       </lg>
       <mg>
          <tg>
@@ -1987,7 +1943,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">administrativ leder</t>
+            <t pos="n">redaksjonssjef</t>
          </tg>
       </mg>
    </e>
@@ -2007,7 +1963,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">skoleelev</t>
+            <t pos="n">skolegang</t>
          </tg>
       </mg>
    </e>
@@ -2043,7 +1999,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">boastakántuvra</l>
+         <l pos="n">boastakantuvra</l>
+         <lsub>boastakántuvra</lsub>
       </lg>
       <mg>
          <tg>
@@ -2073,11 +2030,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">riikastivra</l>
+         <l pos="n">riikkastivra</l>
+         <lsub>riikastivra</lsub>
       </lg>
       <mg>
          <tg>
-            <t pos="n">regjering</t>
+            <t pos="n">landsstyre</t>
          </tg>
       </mg>
    </e>
@@ -2093,16 +2051,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">fylkkamánna</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">fylkesmann</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">ođđadárogiella</l>
       </lg>
       <mg>
@@ -2113,27 +2061,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">lensmánni</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">lensmann</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">stuoradiggi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">stortinget</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">sosialhoavda</l>
+         <l pos="n">sosiálahoavda</l>
+         <lsub>sosialhoavda</lsub>
       </lg>
       <mg>
          <tg>
@@ -2197,13 +2126,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">områdekonvensjon</t>
+            <t pos="n">distriktskommisjon</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">eanandoallodepartementa</l>
+         <l pos="n">eanandoallodepartemeanta</l>
+         <lsub>eanandoallodepartementa</lsub>
       </lg>
       <mg>
          <tg>
@@ -2237,7 +2167,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">kveite</t>
+            <t pos="phrase_n">plassen ved siden av</t>
          </tg>
       </mg>
    </e>
@@ -2248,16 +2178,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">byråkrat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">sámiskuvla</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">sameskole</t>
          </tg>
       </mg>
    </e>
@@ -2278,16 +2198,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">bokserie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">ealgabivddus</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">elgjakta</t>
          </tg>
       </mg>
    </e>
@@ -2403,31 +2313,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">skuvllamánná</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">skolebarn</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">nominašunčoahkkin</l>
       </lg>
       <mg>
          <tg>
             <t pos="n">nominasjonsmøte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">musihkkafeastivála</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">musikkfestival</t>
          </tg>
       </mg>
    </e>
@@ -2468,16 +2358,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">vannmannen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">sohkabealle</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">kjønn</t>
          </tg>
       </mg>
    </e>
@@ -2543,7 +2423,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">filbmafeastivála</l>
+         <l pos="n">filbmafestivála</l>
+         <lsub>filbmafeastivála</lsub>
       </lg>
       <mg>
          <tg>
@@ -2607,7 +2488,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">psss</t>
+            <t pos="n">pass</t>
          </tg>
       </mg>
    </e>
@@ -2623,21 +2504,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">bargokántuvra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">arbeidskontor</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">váldooassi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">hovedsak</t>
+            <t pos="n">hoveddel</t>
          </tg>
       </mg>
    </e>
@@ -2653,31 +2524,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">sosialkantuvra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">sosialkontor</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">skohtercrossa</l>
       </lg>
       <mg>
          <tg>
             <t pos="n">skotercross</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">ráđđeláhttu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">rådsmedlem</t>
          </tg>
       </mg>
    </e>
@@ -2788,16 +2639,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">fugleinfluensa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">kulturkantuvra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">kulturkontor</t>
          </tg>
       </mg>
    </e>
