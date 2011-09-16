@@ -30,6 +30,21 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">oaivadallan</l>
+         <lsub>oaivádallan</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">rådslåing</t>
+            <xg>
+               <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 61.">Ájlin muitalii ahte sin joavkkus lei leamaš hirbmat garra oaivadallan hárdima birra.</x>
+               <xt>Ájlin fortalte at hennes gruppe hadde hatt en svært heftig diskusjon om mobbing.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">skandála</l>
          <lsub>skándala</lsub>
       </lg>
@@ -1981,10 +1996,19 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">savkkus</l>
+         <lsub>savkosit</lsub>
       </lg>
       <mg>
          <tg>
             <t pos="n">hvisk</t>
+            <xg>
+               <x>savkosii</x>
+               <xt>hviskende</xt>
+            </xg>
+            <xg>
+               <x>Son ráhkista mu! lávllui Elle savkosii ja dánssui movttegit šiljus. </x>
+               <xt>Han elsker meg! sang Elle hviskende og danset glad på gårdsplassen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -30700,10 +30724,11 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">kaféa</l>
+         <lsub>gáfejá</lsub>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kafe</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kafé</t>
          </tg>
       </mg>
    </e>
