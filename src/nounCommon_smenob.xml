@@ -3394,6 +3394,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">filbmafestivála</l>
+         <lsub>filbmafeastivála</lsub>
       </lg>
       <mg>
          <tg>
@@ -4208,10 +4209,11 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">riikkastivra</l>
+         <lsub>riikastivra</lsub>
       </lg>
       <mg>
          <tg>
-            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">riksstyre</t>
+            <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">landsstyre</t>
          </tg>
       </mg>
    </e>
@@ -4668,6 +4670,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">minoritehta</l>
+         <lsub>minoritehtta</lsub>
       </lg>
       <mg>
          <tg>
@@ -30730,6 +30733,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">kaleanddar</l>
+         <lsub>kalenddar</lsub>
       </lg>
       <mg>
          <tg>
@@ -93849,16 +93853,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">kapasitehta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="yyy" dict="yes" gen="xxx" oa="yes" pos="n" tcomm="no">kapasitet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l illpl="ok" pos="n">kapealla</l>
       </lg>
       <mg>
@@ -99402,16 +99396,6 @@ For the full license text, see the link above.</lic>
                <x></x>
                <xt></xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="n">linnjá</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="yyy" dict="yes" gen="xxx" oa="yes" pos="n" tcomm="no">linje</t>
          </tg>
       </mg>
    </e>
@@ -132790,9 +132774,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">sosiálahoavda</l>
+         <lsub>sosialhoavda</lsub>
       </lg>
       <mg>
          <tg>
