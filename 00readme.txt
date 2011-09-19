@@ -219,7 +219,8 @@ src>grep '<te' *.xml | cut -d ':' -f1  | sort | uniq -c | sort -nr
    5 verb_smenob.xml
    1 nounG3_smenob.xml
 
-
+4. data that have to get into the src files:
+   inc/candidates/inc_skuvlalemmas.txt
 
 
 
