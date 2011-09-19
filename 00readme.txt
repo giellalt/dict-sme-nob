@@ -213,6 +213,11 @@ src>grep '<t' adjective_smenob.xml | grep context
 
 3. check and correct all te-elements in the whole smenob
 
+src>grep '<te' *.xml | cut -d ':' -f1  | sort | uniq -c | sort -nr 
+  30 nounCommon_smenob.xml
+  23 pronDem_smenob.xml
+   5 verb_smenob.xml
+   1 nounG3_smenob.xml
 
 
 
