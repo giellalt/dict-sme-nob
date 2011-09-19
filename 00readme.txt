@@ -168,7 +168,48 @@ prop_smenob.xml og nounRevProper_smenob.xml slås sammen til ei fil, med navnet 
 nounProperPl_smenob.xml skal også ha samme format som nevnt i (23)
 
 
+===========
+Test phase:
+===========
+1. the dtd do not contain decl="m"/"n" ==> please correct
 
+src>grep '<t ' adjective_smenob.xml | grep 'decl="m"'
+            <t decl="m" pos="n">hykler</t>
+            <t decl="m" pos="n">fullmåne</t>
+            <t decl="m" pos="n">stedfortreder</t>
+            <t decl="m" pos="a">fiendtlig</t>
+
+src>grep '<t ' adjective_smenob.xml | grep 'decl="n"'
+            <t decl="n" pos="n">kaldvær</t>
+
+2. there is no context attribute for the elements t/tf ==> to correct
+
+  <e usage="vd">
+     <lg>
+        <l pos="a">ruđalaš</l>
+     </lg>
+     <mg>
+        <tg>
+           <t context="veahkki" pos="a">finansiell</t>
+           <xg>
+              <x>Mis eai leat ruđalaš eaige olmmošlaš návccat dien bargui.</x>
+              <xt>Vi har hverken økonomiske eller menneskelige ressurser til det arbeidet.</xt>
+           </xg>
+        </tg>
+     </mg>
+     <mg>
+        <tg>
+           <t context="olmmoš" pos="a">rik</t>
+        </tg>
+     </mg>
+  </e>
+
+src>grep '<t' adjective_smenob.xml | grep context 
+            <t context="veahkki" pos="a">finansiell</t>
+            <t context="olmmoš" pos="a">rik</t>
+            <t context="láhtten" pos="a">høflig</t>
+            <t context="návccat" pos="a">menneskelig</t>
+            <t context="olmmoš" pos="a">herskesyk</t>
 
 
 
