@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l pos="v">smáhkohallat</l>
+         <l context="mun" pos="v">smáhkohallat</l>
       </lg>
       <mg>
          <tg>
@@ -40,13 +40,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="v">soaiggáhallat</l>
+         <l context="dat" pos="v">soaiggáhallat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase_v">holde på å gyse </t>
+            <t pos="phrase_v">holde på å gyse</t>
             <xg>
-               <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 159.">Sus soaiggáhalai sivvu, dego livččii juoga unohas áitimin juostá.</x>
+               <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 159.">Sus soaiggáhalai sivvu, dego livččii juoga unohas
+               áitimin juostá.</x>
                <xt>Hun gyste skikkelig, som om noe ubehagelig truet et sted.</xt>
             </xg>
          </tg>
@@ -54,7 +55,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="v">stresset</l>
+         <l context="mun" pos="v">stresset</l>
       </lg>
       <mg>
          <tg>
@@ -64,7 +65,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="v">guoskkaldahttit</l>
+         <l context="mun" pos="v">guoskkaldahttit</l>
       </lg>
       <mg>
          <tg>
@@ -74,7 +75,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="v">lovttohallat</l>
+         <l context="mun" pos="v">lovttohallat</l>
       </lg>
       <mg>
          <tg>
@@ -85,21 +86,22 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="v">bárvvastit</l>
+         <l context="dat" pos="v">bárvvastit</l>
       </lg>
       <mg>
          <tg>
             <t pos="phrase_v">bølge seg</t>
             <xg>
-               <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 49.">Das eai oidnon eará go moadde rukses sárgá mat bárvvastedje dego bárut.</x>
-               <xt>På den så man bare noen få røde streker som bølget seg som bølger. </xt>
+               <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 49.">Das eai oidnon eará go moadde rukses sárgá mat
+               bárvvastedje dego bárut.</x>
+               <xt>På den så man bare noen få røde streker som bølget seg som bølger.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="v">skužistit</l>
+         <l context="mun" pos="v">skužistit</l>
       </lg>
       <mg>
          <tg>
@@ -40231,14 +40233,14 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l context="mun" pos="v">doamihit</l>
-         </lg>
+      </lg>
       <mg>
          <tg>
             <t pos="phrase_v">skynde seg</t>
             <xg>
-            <x>Bárdni rábádii gahpiris ja doamihii olggos.</x>
-            <xt>Gutten nappet til seg lua si og skyndte seg ut.</xt>
-         </xg>
+               <x>Bárdni rábádii gahpiris ja doamihii olggos.</x>
+               <xt>Gutten nappet til seg lua si og skyndte seg ut.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
