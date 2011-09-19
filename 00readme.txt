@@ -211,6 +211,11 @@ src>grep '<t' adjective_smenob.xml | grep context
             <t context="návccat" pos="a">menneskelig</t>
             <t context="olmmoš" pos="a">herskesyk</t>
 
+3. check and correct all te-elements in the whole smenob
+
+
+
+
 
 
 Et lite mysterium.... 
