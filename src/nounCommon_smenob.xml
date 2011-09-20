@@ -10837,7 +10837,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <te>streng mellom juksas snøre og jernstein</te>
+            <tf pos="phrase_n">streng mellom juksas snøre og jernstein</tf>
          </tg>
       </mg>
    </e>
@@ -15017,7 +15017,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <te>den innerste plassen i telt eller gamme</te>
+            <tf pos="phrase_n">den innerste plassen i telt eller gamme</tf>
          </tg>
       </mg>
    </e>
@@ -18256,9 +18256,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>med pels</re>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">reinskinn</t>
-            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">elgskinn</t>
-            <te>med pels</te>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>med pels</re>
+            <t pos="n">elgskinn</t>
          </tg>
       </mg>
    </e>
@@ -19920,8 +19925,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <te>om mennesker og dyr</te>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">side</t>
+            <re>om mennesker og dyr</re>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">sidestykke</t>
          </tg>
       </mg>
    </e>
@@ -19963,7 +19968,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <te>valuta</te>
+            <re>valuta</re>
             <t decl="2" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">øre</t>
          </tg>
       </mg>
@@ -36696,8 +36701,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>kvinnelig</re>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">eventyrskikkelse</t>
-            <te>kvinnelig</te>
             <xg>
                <x>Njávešeatni gullá dološ sámi cukcasiidda.</x>
                <xt>Njávešeatni hører til gamle samiske eventyr.</xt>
@@ -40140,8 +40145,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>i snøen</re>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">haretråkk</t>
-            <te>i snøen</te>
          </tg>
       </mg>
    </e>
@@ -47254,8 +47259,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>kvinnelig</re>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">eventyrskikkelse</t>
-            <te>kvinnelig</te>
             <xg>
                <x>Áhčešeatni gullá dološ sámi cukcasiidda.</x>
                <xt>Áhčešeatni hører til gamle samiske eventyr.</xt>
@@ -47279,8 +47284,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>kvinnelig</re>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">eventyrskikkelse</t>
-            <te>kvinnelig</te>
             <xg>
                <x>Háhcešeatni gullá dološ sámi cukcasiidda.</x>
                <xt>Háhcešeatni hører til gamle samiske eventyr.</xt>
@@ -48041,8 +48046,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <te>om arbeidsrein</te>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n">utmattet rein</tf>
+            <tf dict="yes" gen="m" oa="yes" pos="phrase_n">utmattet arbeidsrein</tf>
          </tg>
       </mg>
    </e>
