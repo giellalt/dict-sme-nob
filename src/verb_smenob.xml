@@ -1097,10 +1097,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">få</t>
-            <te>få flere ting</te>
-         </tg>
-         <tg>
             <t pos="phrase_v">prøve å få</t>
          </tg>
       </mg>
@@ -1805,8 +1801,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">anmelde</t>
-            <te>melde til øvrigheten</te>
+            <tf pos="phrase_v">melde til øvrigheten</tf>
          </tg>
       </mg>
    </e>
@@ -9261,8 +9256,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+          <re>om å se eller høre</re>
             <t pos="v">tåle</t>
-            <te>å se eller høre</te>
             <xg>
                <x>In duotto dan oaidnit.</x>
                <xt>Jeg tåler ikke å se det.</xt>
@@ -13803,8 +13798,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <re>om fysiske ting</re>
             <t pos="phrase_v">greie å få med seg</t>
-            <te>f.eks. få med seg varer gående</te>
          </tg>
       </mg>
    </e>
@@ -14788,8 +14783,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">følge</t>
-            <te>følge et spor</te>
+            <tf pos="phrase_v">følge spor</tf>
          </tg>
       </mg>
    </e>
