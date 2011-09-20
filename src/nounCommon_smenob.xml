@@ -30,6 +30,207 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">mátkešukuláda</l>
+         <lsub>mátkešukoláda</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tursjokolade</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">gitárrakursa</l>
+         <lsub>gitarkursa</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gitarkurs</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">desimálalohku</l>
+         <lsub>desimalalohku</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">desimaltall</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">čállinproseassa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">skriveprosess</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">guovddáškonsonánta</l>
+         <lsub>guovddáškonsonanta</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">stammekonsonant</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">lohkankvárta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lesekvarter</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">šelggon</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">refleksbrikke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">subtrakšuvdna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">subtraksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">ritma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rytme</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">responsa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">respons</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">dássemolsašupmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">stadieveksling</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">fonta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">font</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">iđitboddu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">morgenstund</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">morgensamling</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">neahtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>om Internett</re>
+            <t pos="n">nett</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">ovttasbargoguoibmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">samarbeidspartner</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">rehkenastin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">det å regne sammen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">veasku</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">veske</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">veasta</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>om klesplagg</re>
+            <t pos="n">vest</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">čállin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">skriving</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">kroáhtalaš</l>
       </lg>
       <mg>
@@ -19807,10 +20008,11 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="no" pos="n">eŋgelasgiella</l>
+         <lsub>eŋgelasgilla</lsub>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">engelsk</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">engelsk språk</t>
          </tg>
       </mg>
    </e>
@@ -22964,6 +23166,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">girjerájus</l>
+         <lsub>girjerájos</lsub>
       </lg>
       <mg>
          <tg>
@@ -33804,6 +34007,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">lášmmohallan</l>
+         <lsub>lašmmohallan</lsub>
       </lg>
       <mg>
          <tg>
@@ -33892,6 +34096,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l pos="n">maŋŋebárga</l>
+         <lsub>maŋŋebarga</lsub>
          <lc>-árgga</lc>
       </lg>
       <mg>
@@ -46118,6 +46323,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l pos="n">vuossárga</l>
+         <lsub>vuossarga</lsub>
          <lc>-árgga</lc>
       </lg>
       <mg>
@@ -51052,6 +51258,11 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">refleksbrikke</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="n">blinklys</t>
+         </tg>
+      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -53746,9 +53957,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">addišuvdna</l>
+         <lsub>adišuvdna</lsub>
       </lg>
       <mg>
          <tg>
@@ -62269,7 +62481,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">borranáigi</l>
       </lg>
@@ -77974,16 +78186,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="yyy" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">fonologi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="n">fonta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="yyy" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">skrifttype</t>
          </tg>
       </mg>
    </e>
@@ -117801,16 +118003,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">ovttasbargoguoibmi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="yyy" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">samarbeidspartner</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l illpl="ok" pos="n">ovttasbargolávdegoddi</l>
       </lg>
       <mg>
@@ -118921,9 +119113,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">pennála</l>
+         <lsub>penála</lsub>
       </lg>
       <mg>
          <tg>
@@ -129854,9 +130047,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">siffar</l>
+         <lsub>siffár</lsub>
       </lg>
       <mg>
          <tg>
@@ -134018,9 +134212,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">stašuvdna</l>
+         <lsub>stášuvdna</lsub>
       </lg>
       <mg>
          <tg>
@@ -154131,9 +154326,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">šukuláda</l>
+         <lsub>šukoláda</lsub>
       </lg>
       <mg>
          <tg>
@@ -155075,7 +155271,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">uteklær</t>
+            <t pos="n">uteklesplagg</t>
+            <xg>
+               <x>olgobiktasat</x>
+               <xt>uteklær</xt>
+            </xg>
          </tg>
       </mg>
    </e>
