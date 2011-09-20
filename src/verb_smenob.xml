@@ -30,6 +30,37 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l context="mun" pos="v">lášmmohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">gjøre gymnastikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">vuojadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">svømme</t>
+            <tf pos="phrase_v">holde på med å svømme</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">válbmet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">gjøre ferdig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l context="mun" pos="v">smáhkohallat</l>
       </lg>
       <mg>
@@ -6823,6 +6854,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="sii" pos="v">deaivvadit</l>
+         <lsub>deaivadit</lsub>
       </lg>
       <mg>
          <tg>
@@ -28476,6 +28508,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="mun" pos="v">rehkenastit</l>
+         <lsub>rehkenasttit</lsub>
          <lc>-nasttii</lc>
       </lg>
       <mg>
