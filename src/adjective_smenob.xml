@@ -9048,6 +9048,36 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l context="vástádus" pos="a">positiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" pos="a">positiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="vástádus" pos="a">negatiiva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">negativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="olmmoš" pos="a">sosiála</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">sosial</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l context="vástádus" pos="a">eahpesihkar</l>
       </lg>
       <mg>
@@ -10423,6 +10453,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l context="aviisa" pos="a">ihtáš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">morgendagens</t>
+            <xg>
+               <x>Ihtáš áviisa lea juo boahtán.</x>
+               <xt>Morgendagens avis har alt kommet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l context="aviisa" pos="a">otnáš</l>
       </lg>
       <mg>
@@ -10700,6 +10744,20 @@ For the full license text, see the link above.</lic>
             <t pos="a">engelsk</t>
             <xg>
                <x>Mu mielas lea váttis oahppat eŋgelas lávlagiid.</x>
+               <xt>Jeg synes det er vanskelig å lære engelske sanger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="a">eaŋgalas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">engelsk</t>
+            <xg>
+               <x>Mu mielas lea váttis oahppat eaŋgalas lávlagiid.</x>
                <xt>Jeg synes det er vanskelig å lære engelske sanger.</xt>
             </xg>
          </tg>
