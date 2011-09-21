@@ -16222,11 +16222,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">sønn</t>
-         </tg>
-         <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">gutt</t>
          </tg>
+         </mg>
+      <mg>
+         <tg>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">sønn</t>
+         </tg>
+      
       </mg>
    </e>
    <e src="nj" usage="vd">
@@ -23677,10 +23680,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n">person som man er moster til</tf>
             <te>moster er eldre enn mor</te>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -36005,10 +36004,12 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">jente</t>
          </tg>
-         <tg>
+               </mg>
+   <mg>
+   <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">datter</t>
          </tg>
-      </mg>
+         </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -45123,15 +45124,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">varit</l>
-         <lc>varihat</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">reinsbukk</t>
-            <te>ca. 2 år gammel</te>
+            <tf pos="phrase_n">hannrein i toårsalderen</tf>
          </tg>
       </mg>
    </e>
@@ -99409,8 +99408,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" dict="yes" gen="xxx" oa="yes" pos="n" tcomm="no">steinsøkke</t>
-            <te>uten klør</te>
+            <tf decl="yyy" dict="yes" oa="yes" pos="phrase_n" tcomm="no">steinsøkke uten klør</tf>
          </tg>
       </mg>
    </e>
@@ -155900,7 +155898,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e cips_comment="verken 'feiring' eller 'fest' dukke opp i eksempel: enten 'markering' til eller ændre eksempel.">
+   <e usage="vd">
       <lg>
          <l pos="n">ávvudeapmi</l>
       </lg>
