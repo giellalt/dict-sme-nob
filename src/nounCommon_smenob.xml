@@ -23667,15 +23667,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">goaskit</l>
-         <lc>goaskibat</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n">person som man er moster til</tf>
-            <te>moster er eldre enn mor</te>
+            <re>om yngre søsters barn</re>
+            <t pos="n">tantebarn</t>
          </tg>
       </mg>
    </e>
@@ -35136,20 +35135,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">muoŧŧal</l>
-         <lc>muoŧŧalat</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="n" oa="yes" pos="phrase_n">person som man er moster til</tf>
-            <te>moster er yngre enn mor</te>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
-         </tg>
+         <re>om eldre søsters barn</re>
+            <t pos="n">tantebarn</t>
+            </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -41148,14 +41142,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">siessal</l>
-         <lc>siessalat</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n">person som man er faster til</tf>
+         <re>om brors barn</re>
+            <t pos="n">tantebarn</t>
          </tg>
       </mg>
    </e>
