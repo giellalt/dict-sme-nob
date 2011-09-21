@@ -19000,16 +19000,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">eahki</l>
-         <lc>eagit</lc>
-         <lc>egiid</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">farbror</t>
-            <te>eldre enn far</te>
+                     <te>om fars eldre bror</te>
+            <t pos="n">onkel</t>
          </tg>
       </mg>
    </e>
@@ -19536,14 +19534,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">eanu</l>
-         <lc>ednot</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">morbror</t>
+         <re>om mors bror</re>
+            <t pos="n">onkel</t>
          </tg>
       </mg>
    </e>
@@ -23647,16 +23645,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">goaski</l>
-         <lc>goaskkit</lc>
-         <lc>goskkiid</lc>
-      </lg>
+         </lg>
       <mg>
          <tg>
-            <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">moster</t>
-            <te>eldre enn mor</te>
+                     <re>om mors eldre søster</re>
+            <t pos="n">tante</t>
          </tg>
       </mg>
    </e>
@@ -26724,15 +26720,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">gálojeatni</l>
-         <lc>-eanit</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">svigerinne</t>
-            <te>ektemannens brors kone</te>
+                     <re>om ektemannens brors hustru</re>
+            <t pos="n">svigerinne</t>
          </tg>
       </mg>
    </e>
@@ -34064,19 +34059,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">mannji</l>
-         <lc>manjit</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">svigerdatter</t>
+            <t pos="n">svigerdatter</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <tf dict="yes" gen="f" oa="yes" pos="phrase_n">kvinnes svigerinne</tf>
+<re>om en kvinnes brors hustru og om ektemannens søster</re>
+<t pos="n">svigerinne</t>
          </tg>
       </mg>
    </e>
@@ -35158,16 +35153,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">muoŧŧá</l>
-         <lc>muoŧát</lc>
+       
       </lg>
       <mg>
          <tg>
-            <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">moster</t>
-            <te>yngre enn mor</te>
-         </tg>
+         <re>om mors yngre søster</re>
+            <t pos="n">tante</t>
+          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
@@ -35285,14 +35280,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">máhka</l>
       </lg>
       <mg>
          <tg>
-            <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">svoger</t>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n">inngift onkel</tf>
+            <tf pos="phrase_n">inngift onkel</tf>
+         </tg>
+      </mg>
+            <mg>
+            <re>om en manns søsters ektemann og om hustruens bror</re>
+         <tg>
+            <t pos="n">svoger</t>
          </tg>
       </mg>
    </e>
@@ -41160,15 +41160,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">siessá</l>
-         <lc>siesát</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">tante</t>
-            <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">faster</t>
+         <re>om fars søster</re>
+            <t pos="n">tante</t>
          </tg>
       </mg>
    </e>
@@ -41481,19 +41480,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">sivjjot</l>
-         <lc>sivjjogat</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n">kvinnes svoger</tf>
+         <re>om kvinnes</re>
+            <t pos="n">svoger</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <tf dict="yes" gen="f" oa="yes" pos="phrase_n">manns svigerinne</tf>
+                  <re>om manns</re>
+            <t pos="n">svigerinne</t>
          </tg>
       </mg>
    </e>
@@ -42749,15 +42749,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">spile</l>
-         <lc>spilet</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="2" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">svoger</t>
-            <te>hustruens bror eller søsters mann</te>
+                     <re>om hustruens søsters ektemann</re>
+            <t pos="n">svoger</t>
          </tg>
       </mg>
    </e>
@@ -48850,16 +48849,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">čeahci</l>
-         <lc>čeazit</lc>
-         <lc>čeziid</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">farbror</t>
-            <te>yngre enn far</te>
+                     <re>om fars yngre bror</re>
+            <t pos="n">onkel</t>
          </tg>
       </mg>
    </e>
@@ -108340,12 +108337,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="yyy" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">moldbenk</t>
-            <te>torvlag som legges rundt en gamme eller et hus</te>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
-         </tg>
+                                </tg>
       </mg>
    </e>
    <e>
@@ -131491,9 +131483,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="yyy" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">skottbenk</t>
-            <te>høvelbenk med 2 planker som er stilt på høykant ved siden av hverandre, den ene fast og den andre på
-            flyttbar, mellom disse bringes bord som skal høvles rett i kanten eller pløyes</te>
-         </tg>
+            </tg>
       </mg>
    </e>
    <e>
