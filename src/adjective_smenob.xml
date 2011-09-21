@@ -6199,11 +6199,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="a">ruđalaš</l>
+         <l context="veahkki" pos="a">ruđalaš</l>
       </lg>
       <mg>
          <tg>
-            <t context="veahkki" decl="2" pos="a">pengemessig</t>
+            <t decl="2" pos="a">pengemessig</t>
             <xg>
                <x>Mis eai leat ruđalaš eaige olmmošlaš návccat dien bargui.</x>
                <xt>Vi har hverken økonomiske eller menneskelige ressurser til det arbeidet.</xt>
@@ -6212,7 +6212,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t context="olmmoš" decl="1" pos="a">rik</t>
+            <t decl="1" pos="a">rik</t>
+            <xg>
+               <x>Ánne lea issoras ruđalaš nisu.</x>
+               <xt>Ánne er en veldig rik kvinne.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9320,11 +9324,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="a">olmmošlaš</l>
+         <l context="láhtten" pos="a">olmmošlaš</l>
       </lg>
       <mg>
          <tg>
-            <t context="láhtten" pos="a">høflig</t>
+            <t pos="a">høflig</t>
             <xg>
                <x>Nieida lei olmmošlaš, muhto hui rántui.</x>
                <xt>Jenta var høflig, men veldig kresen.</xt>
@@ -9333,7 +9337,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t context="návccat" pos="a">menneskelig</t>
+            <t pos="a">menneskelig</t>
             <xg>
                <x>Mis eai leat ruđalaš eaige olmmošlaš návccat dien bargui.</x>
                <xt>Vi har hverken økonomiske eller menneskelige ressurser til det arbeidet.</xt>
@@ -10333,7 +10337,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t context="olmmoš" pos="a">herskesyk</t>
+            <t pos="a">hovmodig</t>
+            <xg>
+               <x>Ánne lea nu čoarvái ahte illá čáhká lávvui.</x>
+               <xt>Ánne er så hovmodig at hun knapt får plass i lavvoen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
