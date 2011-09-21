@@ -39332,16 +39332,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">roahkki</l>
-         <lc>roahkit</lc>
-         <lc>rohkiid</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">krok</t>
+            <t pos="n">krok</t>
+            <t pos="n">hake</t>
          </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">hektekrok</t>
+            <t pos="n">malje</t>
+         </tg>
+         <xg><x>roahkit</x><xt>hektekrok og malje</xt></xg>
       </mg>
    </e>
    <e src="nj" usage="vd">
