@@ -211,6 +211,9 @@ src>grep '<t' adjective_smenob.xml | grep context
             <t context="návccat" pos="a">menneskelig</t>
             <t context="olmmoš" pos="a">herskesyk</t>
 
+==> done in smenob   
+
+
 3. check and correct all te-elements in the whole smenob
 
 src>grep '<te' *.xml | cut -d ':' -f1  | sort | uniq -c | sort -nr 
@@ -218,9 +221,14 @@ src>grep '<te' *.xml | cut -d ':' -f1  | sort | uniq -c | sort -nr
   23 pronDem_smenob.xml
    5 verb_smenob.xml
    1 nounG3_smenob.xml
+   
+==> done in smenob   
 
 4. data that have to get into the src files:
    inc/candidates/inc_skuvlalemmas.txt
+   
+==> done in smenob   
+
 
 
 
