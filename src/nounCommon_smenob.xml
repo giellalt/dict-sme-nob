@@ -28,6 +28,17 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+      <e usage="vd">
+      <lg>
+         <l pos="n">ipmit</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>om ektemannens brors og søsters barn</re>
+            <t pos="n">tantebarn</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
       <lg>
          <l pos="n">penála</l>
@@ -19011,15 +19022,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">eahkit</l>
-         <lc>eahkibat</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n">person som en er farbror til</tf>
-            <te>farbror er eldre enn far</te>
+            <re>om yngre brors barn</re>
+            <t pos="n">onkelbarn</t>
          </tg>
       </mg>
    </e>
@@ -35914,16 +35924,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">neahpi</l>
-         <lc>neabit</lc>
-         <lc>nebiid</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" oa="yes" pos="phrase_n">person som man er morbror til</tf>
+         <re>om søsters barn</re>
+            <t pos="n">onkelbarn</t>
          </tg>
+      </mg>
+         <mg>
          <tg>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n">manns nevø eller niese</tf>
          </tg>
@@ -48857,15 +48868,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">čeahcit</l>
-         <lc>čeahcibat</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n">person som man er farbror til</tf>
-            <te>farbror er yngre enn far</te>
+            <re>om eldre brors barn</re>
+            <t pos="n">onkelbarn</t>
          </tg>
       </mg>
    </e>
