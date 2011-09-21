@@ -19006,7 +19006,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <te>om fars eldre bror</te>
+                     <re>om fars eldre bror</re>
             <t pos="n">onkel</t>
          </tg>
       </mg>
@@ -32986,15 +32986,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">luiste</l>
-         <lc>luisttet</lc>
       </lg>
       <mg>
          <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">skøyte</t>
-            <te>for å skøyte på is</te>
+                     <re>om sportsutstyr</re>
+            <t pos="n">skøyte</t>
             <xg>
                <x>Váldde luisttiid mielde, de sáhtte luistet jieŋa alde.</x>
                <xt>Ta med skøytene, så kan vi skøyte på isen.</xt>
@@ -47113,14 +47112,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">áddjut</l>
-         <lc>áddjubat</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="n" oa="yes" pos="phrase_n">manns barnebarn</tf>
+         <re>om manns</re>
+            <t pos="n">barnebarn</t>
          </tg>
       </mg>
    </e>
@@ -47182,18 +47181,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">bestemor</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no">kjerring</t>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">áhkkut</l>
-         <lc>áhkkubat</lc>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" gen="n" oa="yes" pos="phrase_n">kvinnes barnebarn</tf>
+         <re>om kvinnes</re>
+            <t pos="n">barnebarn</t>
          </tg>
       </mg>
    </e>
