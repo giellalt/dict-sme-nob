@@ -41,6 +41,62 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l pos="n">risviellja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gudbror</t>
+         </tg>
+      </mg>
+   </e>
+<e usage="vd">
+      <lg>
+         <l pos="n">ristoabbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gudsøster</t>
+         </tg>
+      </mg>
+   </e>
+<e usage="vd">
+      <lg>
+         <l pos="n">risváhnen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gudforelder</t>
+         </tg>
+         <xg>
+               <x>risváhnemat</x>
+               <xt>gudforeldre</xt>
+            </xg>
+      </mg>
+   </e>
+<e usage="vd">
+      <lg>
+         <l pos="n">rismánná</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gudbarn</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">máhkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>om hustruens brors og søsters barn</re>
+            <t pos="n">onkelbarn</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e usage="vd">
+      <lg>
          <l pos="n">penála</l>
          <lsub>pennála</lsub>
       </lg>
@@ -374,7 +430,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">rådslåing</t>
+            <t pos="n">rådslåing</t>
             <xg>
                <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 61.">Ájlin muitalii ahte sin joavkkus lei leamaš hirbmat
                garra oaivadallan hárdima birra.</x>
@@ -157912,7 +157968,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>om kvinner</re>
-            <t pos="x">reindriftssame</t>
+            <t pos="n">reindriftssame</t>
          </tg>
       </mg>
    </e>
@@ -158403,7 +158459,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">frynse</t>
+            <t pos="n">frynse</t>
          </tg>
       </mg>
    </e>
