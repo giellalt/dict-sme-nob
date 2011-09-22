@@ -6,7 +6,7 @@
 # =========== Tools: ============= #
 LEXC = lexc #-utf8
 XFST = xfst #-utf8
-XSLT = /opt/local/share/java/saxon9.jar
+XSLT = ~/lib/saxon8.jar
 XQL  = java net.sf.saxon.Query
 JARF = -jar
 SSH  = /usr/bin/ssh

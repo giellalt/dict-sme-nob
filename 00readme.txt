@@ -82,6 +82,7 @@ Lenes notater:
 (8) ved å sjekke mot Ávvir, så blir man voldsomt inspirert til å legge til nye lemmaer/former :-)
 I tillegg til det som er nevnt under punkt 1-3, er det her eksempler på lemmaer som bør legges til:
 - geardde, reastaluvvat, álbmotrávdnji, veahkaváldin, suorggahahtti, eastadanbargu, bealis Po
+   ==> done, unntatt álbmotrávdnji and veahkaváldin (veahkaváldi is in VD)
 
 (9) adjektiver: i miniparadigmet skal være med et substantiv (context) for attributtformen, f.eks. fiskes (bivttas).
 Substantiveet er ikke med i denne versjonen.
