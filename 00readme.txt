@@ -32,7 +32,8 @@ How to check for doubled entries?
 from smenob dir go one up to the dicts dir and call the following script
 java -Xmx2048m net.sf.saxon.Transform -it main scripts/check_dict_entry.xsl inDir=../smenob/src
 
-Doubled entries are output as twins, for instance,
+Doubled entries are output as twins, for instance, in an output file named "test-results.xml"
+
    <file name="nounCommon_smenob.xml">
       <entries>
          <counter total="14586"/>
