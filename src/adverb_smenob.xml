@@ -28,14 +28,18 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e usage="vd">
+      <e usage="vd">
       <lg>
          <l pos="adv">buorremielas</l>
          <lsub>buoremielas</lsub>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase_adv">i godt humør</t>
+            <tf pos="phrase">i godt humør</tf>
+            <xg>
+               <x>Elle lea buorremielas.</x>
+               <xt>Elle er i godt humør.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -178,21 +182,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámena.</x>
                <xt>Ánte sa med et smil om munnen at han har bestått eksamen.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="adv">buorremielas</l>
-         <lc>buoremielas</lc>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="phrase">i godt humør</t>
-            <xg>
-               <x>Elle lea buorremielas.</x>
-               <xt>Elle er i godt humør.</xt>
             </xg>
          </tg>
       </mg>
