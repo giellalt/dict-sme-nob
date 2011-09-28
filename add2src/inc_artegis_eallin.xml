@@ -79,7 +79,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">xxx</t>
+            <t pos="n">sykdom</t>
          </tg>
       </mg>
    </e>
@@ -139,11 +139,11 @@
    </e>
    <e usage="vd">
       <lg>
-         <l context="sii" pos="v">dikkástit</l>
+         <l context="sii" pos="v">dikkáskit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">krangle</t>
+            <t pos="phrase_v">begynne å krangle</t>
          </tg>
       </mg>
    </e>
@@ -530,7 +530,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="adv">xxx</t>
+            <t pos="phrase_adv">lenger bak</t>
          </tg>
       </mg>
    </e>
@@ -899,7 +899,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="a">xxx</t>
+            <t pos="a">litenaktig</t>
          </tg>
       </mg>
    </e>
@@ -914,7 +914,8 @@
       </mg>
       <mg>
          <tg>
-            <t pos="n">tremenning</t>
+           <re>om menn</re>
+           <t pos="n">tremenning</t>
          </tg>
       </mg>
    </e>
@@ -924,7 +925,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="phrase_n">kvitkledd person</t>
+            <t pos="phrase_n">hvitkledd person</t>
          </tg>
       </mg>
    </e>
