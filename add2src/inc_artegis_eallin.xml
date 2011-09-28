@@ -2,11 +2,11 @@
 <r>
    <e>
       <lg>
-         <l pos="n">Ipmiláhčči</l>
+         <l pos="prop">Ipmiláhčči</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">Gud Fader</t>
+            <t pos="phrase_prop">Gud Fader</t>
          </tg>
       </mg>
    </e>
@@ -42,17 +42,17 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bonjagit</l>
+         <l context="dat" pos="v">bonjagit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">bli vridd</t>
+            <t pos="phrase_v">bli vridd</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">buiga</l>
+         <l context="meahcci" pos="a">buiga</l>
       </lg>
       <mg>
          <tg>
@@ -95,12 +95,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bázadit</l>
+         <l context="mun" pos="v">bázadit</l>
       </lg>
       <mg>
          <tg>
 			<re>flere ganger</re>
-            <t pos="v">bli etter</t>
+            <t pos="phrase_v">bli etter</t>
          </tg>
       </mg>
    </e>
@@ -116,7 +116,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">coahkkalit</l>
+         <l context="mun" pos="v">coahkkalit</l>
       </lg>
       <mg>
          <tg>
@@ -133,13 +133,13 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">datamaskinknapp</t>
+            <t pos="n">datamaskintast</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">dikkástit</l>
+         <l context="sii" pos="v">dikkástit</l>
       </lg>
       <mg>
          <tg>
@@ -149,21 +149,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">divustit</l>
+         <l context="mun" pos="v">divustit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">rette på</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">doaladit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">holde på noe</t>
+            <t pos="phrase_v">rette på</t>
          </tg>
       </mg>
    </e>
@@ -179,11 +169,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">doarostuddat</l>
+         <l context="mun" pos="v">doarostuddat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">xxx</t>
+            <t pos="phrase_v">ha lyst til å slåss</t>
          </tg>
       </mg>
    </e>
@@ -200,7 +190,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a">dánska</l>
+         <l context="dutki" pos="a">dánska</l>
       </lg>
       <mg>
          <tg>
@@ -214,7 +204,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="adv">mot kvelden</t>
+            <t pos="phrase_adv">mot kvelden</t>
          </tg>
       </mg>
    </e>
@@ -250,7 +240,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a">garragieđat</l>
+         <l context="olmmoš" pos="a">garragieđat</l>
       </lg>
       <mg>
          <tg>
@@ -260,7 +250,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a">gavvar</l>
+         <l context="njunni" pos="a">gavvar</l>
       </lg>
       <mg>
          <tg>
@@ -270,16 +260,16 @@
    </e>
    <e>
       <lg>
-         <l pos="v">geađđut</l>
+         <l context="dat" pos="v">geađđut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">bli dunkel</t>
+            <t pos="phrase_v">bli dunkel</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="v">bli hes</t>
+            <t pos="phrase_v">bli hes</t>
          </tg>
       </mg>
    </e>
@@ -305,17 +295,17 @@
    </e>
    <e>
       <lg>
-         <l pos="v">giikanastit</l>
+         <l context="mun" pos="v">giikanastit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">se med kikkert</t>
+            <t pos="phrase_v">se med kikkert</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">gizzut</l>
+         <l context="mun" pos="v">gizzut</l>
       </lg>
       <mg>
          <tg>
@@ -325,7 +315,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gišvvardit</l>
+         <l context="dat" pos="v">gišvvardit</l>
       </lg>
       <mg>
          <tg>
@@ -339,7 +329,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">liten gullstein</t>
+            <t pos="phrase_n">liten gullstein</t>
          </tg>
       </mg>
    </e>
@@ -360,7 +350,7 @@
       <mg>
          <tg>
 			<re>ved nekting</re>
-            <t pos="adv">noe sted</t>
+            <t pos="phrase_adv">noe sted</t>
          </tg>
       </mg>
    </e>
@@ -370,22 +360,22 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">liten hulder</t>
+            <t pos="phrase_n">liten hulder</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">gullostit</l>
+         <l context="dat" pos="v">gullostit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">plutselig høres</t>
+            <t pos="phrase_v">plutselig høres</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="v">føles svakt</t>
+            <t pos="phrase_v">føles svakt</t>
          </tg>
       </mg>
    </e>
@@ -401,7 +391,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">himáhallat</l>
+         <l context="mun" pos="v">himáhallat</l>
       </lg>
       <mg>
          <tg>
@@ -416,7 +406,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på skrå</t>
+            <t pos="phrase_adv">på skrå</t>
          </tg>
       </mg>
       <mg>
@@ -446,11 +436,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jietnadallat</l>
+         <l context="mun" pos="v">jietnadallat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">xxx</t>
+            <t pos="phrase_v">si noe flere ganger</t>
          </tg>
       </mg>
    </e>
@@ -466,11 +456,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">lahkonišgoahtit</l>
+         <l context="mun" pos="v">lahkonišgoahtit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">begynne å nærme seg</t>
+            <t pos="phrase_v">begynne å nærme seg</t>
          </tg>
       </mg>
    </e>
@@ -490,7 +480,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="adv">heldigvis adv?</t>
+            <t pos="adv">heldigvis</t>
          </tg>
       </mg>
    </e>
@@ -500,7 +490,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i sørenden</t>
+            <t pos="phrase_adv">i sørenden</t>
          </tg>
       </mg>
    </e>
@@ -510,7 +500,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="adv">langs vegen</t>
+            <t pos="phrase_adv">langs vegen</t>
          </tg>
       </mg>
    </e>
@@ -526,7 +516,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">lássestit</l>
+         <l context="mun" pos="v">lássestit</l>
       </lg>
       <mg>
          <tg>
@@ -550,7 +540,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">xxx</t>
+            <t pos="phrase_n">nederste del av ei busk</t>
          </tg>
       </mg>
    </e>
@@ -561,16 +551,6 @@
       <mg>
          <tg>
             <t pos="n">motorlyd</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">mohtorsihkkel</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">motorsykkel</t>
          </tg>
       </mg>
    </e>
@@ -596,11 +576,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">nivkkihit</l>
+         <l context="mun" pos="v">nivkkihit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">plutselig nikke</t>
+            <t pos="phrase_v">plutselig nikke</t>
          </tg>
       </mg>
    </e>
@@ -620,7 +600,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">liten noaidi</t>
+            <t pos="phrase_n">liten noaidi</t>
          </tg>
       </mg>
    </e>
@@ -656,41 +636,41 @@
    </e>
    <e>
       <lg>
-         <l pos="v">oađašit</l>
+         <l context="mun" pos="v">oađašit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">sove trygt</t>
+            <t pos="phrase_v">sove trygt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">oađestuvvat</l>
+         <l context="mun" pos="v">oađestuvvat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">ville sove</t>
+            <t pos="phrase_v">ville sove</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">oidnostit</l>
+         <l context="dat" pos="v">oidnostit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">vises litt</t>
+            <t pos="phrase_v">vises litt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">orodit</l>
+         <l context="mun" pos="v">orodit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">oppholde seg</t>
+            <t pos="phrase_v">oppholde seg</t>
          </tg>
       </mg>
    </e>
@@ -710,7 +690,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">tidligere tider</t>
+            <t pos="phrase_n">tidligere tid</t>
          </tg>
       </mg>
    </e>
@@ -726,7 +706,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">ravggadit</l>
+         <l context="dat" pos="v">ravggadit</l>
       </lg>
       <mg>
          <tg>
@@ -735,13 +715,13 @@
       </mg>
       <mg>
          <tg>
-            <t pos="v">fare avsted</t>
+            <t pos="phrase_v">fare avsted</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">reavgut</l>
+         <l context="mun" pos="v">reavgut</l>
       </lg>
       <mg>
          <tg>
@@ -756,21 +736,17 @@
       <mg>
          <tg>
             <t pos="n">regnemaskin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">kalkulator</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">riggut</l>
+         <l context="mun" pos="v">riggut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">bli rik</t>
+            <t pos="phrase_v">bli rik</t>
          </tg>
       </mg>
    </e>
@@ -807,7 +783,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">rusádit</l>
+         <l context="mun" pos="v">rusádit</l>
       </lg>
       <mg>
          <tg>
@@ -817,11 +793,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">ráhkadahttit</l>
+         <l context="mun" pos="v">ráhkadahttit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">få noen til å lage</t>
+            <t pos="phrase_v">få noen til å lage</t>
          </tg>
       </mg>
    </e>
@@ -831,13 +807,13 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">lite teppe</t>
+            <t pos="phrase_n">lite teppe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">rátkkašit</l>
+         <l context="mun" pos="v">rátkkašit</l>
       </lg>
       <mg>
          <tg>
@@ -848,7 +824,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a">searra</l>
+         <l context="nieida" pos="a">searra</l>
       </lg>
       <mg>
          <tg>
@@ -868,7 +844,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">skelbmošit</l>
+         <l context="mun" pos="v">skelbmošit</l>
       </lg>
       <mg>
          <tg>
@@ -878,7 +854,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">soalssidit</l>
+         <l context="mun" pos="v">soalssidit</l>
       </lg>
       <mg>
          <tg>
@@ -902,23 +878,13 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">samisk tolk</t>
+            <t pos="phrase_n">samisk tolk</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">sárdnestuollu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">talerstol</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">teknihkalaš</l>
+         <l context="rusttet" pos="a">teknihkalaš</l>
       </lg>
       <mg>
          <tg>
@@ -928,7 +894,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a">unnislágan</l>
+         <l context="olmmoš" pos="a">unnislágan</l>
       </lg>
       <mg>
          <tg>
@@ -957,13 +923,13 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">kvitkledd person</t>
+            <t pos="phrase_n">kvitkledd person</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vilgesbivttat</l>
+         <l context="olmmoš" pos="a">vilgesbivttat</l>
       </lg>
       <mg>
          <tg>
@@ -1013,7 +979,7 @@
    </e>
    <e>
       <lg>
-         <l pos="a">váibat</l>
+         <l context="čearpmat" pos="a">váibat</l>
       </lg>
       <mg>
          <tg>
@@ -1043,11 +1009,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čirodit</l>
+         <l context="mun" pos="v">čirodit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">holde på å gråte</t>
+            <t pos="phrase_v">holde på å gråte</t>
          </tg>
       </mg>
    </e>
@@ -1057,7 +1023,7 @@
       </lg>
       <mg>
          <tg>
-            <tf pos="n">lys på brystmelk</tf>
+            <tf pos="phrase_n">lyst på brystmelk</tf>
          </tg>
       </mg>
    </e>
@@ -1073,17 +1039,17 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čuovggahit</l>
+         <l context="mun" pos="v">čuovggahit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">lyse opp</t>
+            <t pos="phrase_v">lyse opp</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">čáhpodit</l>
+         <l context="dat" pos="v">čáhpodit</l>
       </lg>
       <mg>
          <tg>
@@ -1093,21 +1059,51 @@
    </e>
    <e>
       <lg>
-         <l pos="v">čájehastit</l>
+         <l context="mun" pos="v">čájehastit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">vise fort</t>
+            <t pos="phrase_v">vise fort</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">šávihit</l>
+         <l context="dat" pos="v">šávihit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">strømme inn</t>
+            <t pos="phrase_v">strømme inn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_x">bures boahtima</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">velkommen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">ovtta oaivilis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">enig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_i">vuoi ihán</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_i">så bra</t>
          </tg>
       </mg>
    </e>
