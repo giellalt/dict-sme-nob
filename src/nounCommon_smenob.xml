@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om ektemannens brors og søsters barn</re>
+            <re>om ektemannens søskens barn</re>
             <t pos="n">tantebarn</t>
          </tg>
       </mg>
@@ -85,7 +85,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om hustruens brors og søsters barn</re>
+            <re>om hustruens søskens barn</re>
             <t pos="n">onkelbarn</t>
          </tg>
       </mg>
@@ -19050,7 +19050,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om fars eldre bror</re>
+            <re>om fars eldre bror/fetter</re>
             <t pos="n">onkel</t>
          </tg>
       </mg>
@@ -19476,7 +19476,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">jordlov</t>
-          </tg>
+         </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
@@ -19581,7 +19581,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om mors bror</re>
+            <re>om mors bror/fetter</re>
             <t pos="n">onkel</t>
          </tg>
       </mg>
@@ -23695,7 +23695,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om mors eldre søster</re>
+            <re>om mors eldre søster/kusine</re>
             <t pos="n">tante</t>
          </tg>
       </mg>
@@ -29129,7 +29129,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" oa="yes" pos="phrase_n">inngift tante</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n">inngiftet tante</tf>
          </tg>
       </mg>
    </e>
@@ -29303,7 +29303,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">iđitbiebmu</l>
-         </lg>
+      </lg>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">frokost</t>
@@ -29313,7 +29313,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">iđđesbiebmu</l>
-         </lg>
+      </lg>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">frokost</t>
@@ -32938,8 +32938,10 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">tall</t>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no">antall</t>
             <xg>
-               <x>Davviriikkaid stáhtarievttálaš dilli rievddai ollu 1800-logu álggogeahčen, Napoleonsođiid oktavuođas.</x>
-               <xt>I forbindelse med Napoleonskrigene på begynnelsen av 1800-tallet, skjedde det store endringer i de statsrettslige forholdene i Norden.</xt>
+               <x>Davviriikkaid stáhtarievttálaš dilli rievddai ollu 1800-logu álggogeahčen, Napoleonsođiid
+               oktavuođas.</x>
+               <xt>I forbindelse med Napoleonskrigene på begynnelsen av 1800-tallet, skjedde det store endringer i de
+               statsrettslige forholdene i Norden.</xt>
             </xg>
          </tg>
       </mg>
@@ -34129,7 +34131,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <re>om en kvinnes brors hustru og om ektemannens søster</re>
+            <re>om en kvinnes brors hustru og ektemannens søster</re>
             <t pos="n">svigerinne</t>
          </tg>
       </mg>
@@ -35215,7 +35217,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om mors yngre søster</re>
+            <re>om mors yngre søster/kusine</re>
             <t pos="n">tante</t>
          </tg>
       </mg>
@@ -35341,12 +35343,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase_n">inngift onkel</tf>
+            <tf pos="phrase_n">inngiftet onkel</tf>
          </tg>
       </mg>
       <mg>
-         <re>om en manns søsters ektemann og om hustruens bror</re>
          <tg>
+         <re>om en manns søsters ektemann og hustruens bror</re>    
             <t pos="n">svoger</t>
          </tg>
       </mg>
@@ -41226,7 +41228,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om fars søster</re>
+            <re>om fars søster/kusine</re>
             <t pos="n">tante</t>
          </tg>
       </mg>
@@ -48926,7 +48928,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om fars yngre bror</re>
+            <re>om fars yngre bror/fetter</re>
             <t pos="n">onkel</t>
          </tg>
       </mg>
@@ -133964,6 +133966,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="yyy" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">dråpe</t>
+         </tg>
+         <tg>
             <te>Hoffmansdråpe, blanding av sprit og eter, som tidligere ble brukt sammen med kaffe</te>
          </tg>
       </mg>
@@ -157326,7 +157330,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="n">norggabealle</l>
       </lg>
