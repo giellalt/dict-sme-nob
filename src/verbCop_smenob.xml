@@ -35,6 +35,7 @@ For the full license text, see the link above.</lic>
          <mini_paradigm>
             <analysis ms="V_Inf">
                <wordform>leat</wordform>
+               <wordform>leahkit</wordform>
             </analysis>
             <analysis ms="V_Ind_Prs_Sg1">
                <wordform>lean</wordform>
@@ -67,8 +68,13 @@ For the full license text, see the link above.</lic>
             <analysis ms="V_Ind_Prs_ConNeg">
                <wordform>leat</wordform>
             </analysis>
-            <analysis ms="V_Actio">
+            <analysis ms="V_Actio_Nom">
                <wordform>leahkin</wordform>
+            </analysis>
+            <analysis ms="V_Actio_Ess">
+               <wordform>leame</wordform>
+               <wordform>leamen</wordform>
+               <wordform>leahkime</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
@@ -114,6 +120,22 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Fitnodagas galgá leat báikkálaš ossodat Guovdageainnus.</x>
                <xt>Bedriften skal ha en lokal avdeling i Kautokeino.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="v">leahkit</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Inf</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">være</t>
+            <xg>
+               <x>Fitnodat galgá leahkit dušše báikkálaš ossodat.</x>
+               <xt>Bedriften skal bare være en lokal avdeling.</xt>
             </xg>
          </tg>
       </mg>
@@ -218,7 +240,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l type="actio" pos="v">leahkin</l>
          <lemma_ref lemmaID="lea_v">lea</lemma_ref>
-         <analysis>V_Actio</analysis>
+         <analysis>V_Actio_Nom</analysis>
       </lg>
       <mg>
          <tg>
@@ -226,6 +248,54 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Dál leat eamiálbmogiin ođđa hástalusat ja sin leahkin lea áitojuvvon.</x>
                <xt>Nå har urfolk nye utfordringer og deres eksistens er truet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="actio" pos="v">leame</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Actio_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+            <xg>
+               <x>Eadni orui leame ovtta oaivilis muinna.</x>
+               <xt>Mor syntes å være enig med meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="actio" pos="v">leamen</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Actio_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+            <xg>
+               <x>Eadni orui leamen ovtta oaivilis muinna.</x>
+               <xt>Mor syntes å være enig med meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="actio" pos="v">leahkime</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Actio_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">er</t>
+            <xg>
+               <x>Eadni orui leahkime ovtta oaivilis muinna.</x>
+               <xt>Mor syntes å være enig med meg.</xt>
             </xg>
          </tg>
       </mg>
