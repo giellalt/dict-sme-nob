@@ -34131,7 +34131,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <re>om en kvinnes brors hustru og ektemannens søster</re>
+            <re>om en kvinnes brors hustru og om ektemannens søster</re>
             <t pos="n">svigerinne</t>
          </tg>
       </mg>
@@ -35348,7 +35348,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-         <re>om en manns søsters ektemann og hustruens bror</re>    
+         <re>om en manns søsters ektemann og om hustruens bror</re>    
             <t pos="n">svoger</t>
          </tg>
       </mg>
@@ -41549,13 +41549,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om kvinnes</re>
+            <re>om ektemannens bror og om en kvinnes søsters ektemann</re>
             <t pos="n">svoger</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <re>om manns</re>
+            <re>om husturens søster og om en manns brors hustru</re>
             <t pos="n">svigerinne</t>
          </tg>
       </mg>
@@ -42819,8 +42819,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <re>om hustruens søsters ektemann</re>
-            <t pos="n">svoger</t>
+         <re>om ektefellens søsters ektemann</re>
+         <t pos="n">svoger</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+         <re>om hustruens brors hustru</re>
+         <t pos="n">svigerinne</t>
          </tg>
       </mg>
    </e>
