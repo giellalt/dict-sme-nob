@@ -5141,7 +5141,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">justisdepartemeanta</l>
+         <l pos="n">justiisadepartemeanta</l>
+         <lsub>justisdepartemeanta</lsub>
       </lg>
       <mg>
          <tg>
@@ -7529,7 +7530,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">olgoriikkadepartemeanta</l>
+         <l pos="n">olgoriikadepartemeanta</l>
+         <lsub>olgoriikkadepartemeanta</lsub>
       </lg>
       <mg>
          <tg>
@@ -9172,7 +9174,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">eanadoallodepartemeanta</l>
+         <l pos="n">eanandoallodepartemeanta</l>
       </lg>
       <mg>
          <tg>
@@ -68082,7 +68084,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">departemeantaráđđi</l>
       </lg>
@@ -157699,16 +157701,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">distriktskommisjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">eanandoallodepartemeanta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">landbruksdepartement</t>
          </tg>
       </mg>
    </e>
