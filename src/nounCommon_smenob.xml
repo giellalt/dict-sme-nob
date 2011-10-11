@@ -30,6 +30,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">neahti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">mår</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">eastadanbargu</l>
       </lg>
       <mg>
@@ -108596,14 +108606,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e illpl="no" usage="vd">
       <lg>
          <l illpl="ok" pos="n">muoldu</l>
       </lg>
       <mg>
          <tg>
             <t decl="yyy" dict="yes" gen="xxx" oa="yes" pos="n" tcomm="no">humus</t>
-         </tg>
+             <t decl="yyy" dict="yes" gen="xxx" oa="yes" pos="n" tcomm="no">mold</t>
+        </tg>
       </mg>
    </e>
    <e>
@@ -108627,7 +108638,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e illpl="no" usage="vd">
       <lg>
          <l illpl="ok" pos="n">muorjemáihli</l>
       </lg>
@@ -108643,7 +108654,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">tresort</t>
+            <t decl="yyy" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">bærsort</t>
          </tg>
       </mg>
    </e>
@@ -108657,7 +108668,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e illpl="ok" usage="vd">
       <lg>
          <l illpl="ok" pos="n">muorraduodji</l>
       </lg>
@@ -108791,7 +108802,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e illpl="ok" usage="vd">
       <lg>
          <l illpl="ok" pos="n">muovjamiessi</l>
       </lg>
@@ -108891,7 +108902,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e illpl="ok" usage="vd">
       <lg>
          <l illpl="ok" pos="n">musihkkarusttet</l>
       </lg>
@@ -108991,7 +109002,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e illpl="ok" usage="vd">
       <lg>
          <l illpl="ok" pos="n">myhta</l>
       </lg>
