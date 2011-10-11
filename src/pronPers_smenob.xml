@@ -33,6 +33,10 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">mon</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg1_Nom">
+               <wordform>mun</wordform>
+               <wordform>mon</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Sg1_Acc">
                <wordform>mu</wordform>
             </analysis>
@@ -69,6 +73,10 @@ For the full license text, see the link above.</lic>
          <lc>mu, munnje, mus, muinna</lc>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg1_Nom">
+               <wordform>mun</wordform>
+               <wordform>mon</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Sg1_Acc">
                <wordform>mu</wordform>
             </analysis>
@@ -104,6 +112,9 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">don</l>
          <analysis>Pron_Pers_Sg2_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg2_Nom">
+               <wordform>don</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Sg2_Acc">
                <wordform>du</wordform>
             </analysis>
@@ -139,6 +150,9 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">son</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg3_Nom">
+               <wordform>son</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Sg3_Acc">
                <wordform>su</wordform>
             </analysis>
@@ -175,6 +189,9 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="pers">dat</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg3_Nom">
+               <wordform>dat</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Sg3_Acc">
                <wordform>dan</wordform>
             </analysis>
@@ -211,6 +228,9 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">moai</l>
          <analysis>Pron_Pers_Du1_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Du1_Nom">
+               <wordform>moai</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Du1_Acc">
                <wordform>munno</wordform>
             </analysis>
@@ -246,6 +266,9 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">doai</l>
          <analysis>Pron_Pers_Du2_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Du2_Nom">
+               <wordform>doai</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Du2_Acc">
                <wordform>dudno</wordform>
             </analysis>
@@ -281,6 +304,9 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">soai</l>
          <analysis>Pron_Pers_Du3_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Du3_Nom">
+               <wordform>soai</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Du3_Acc">
                <wordform>sudno</wordform>
             </analysis>
@@ -316,6 +342,9 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">mii</l>
          <analysis>Pron_Pers_Pl1_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl1_Nom">
+               <wordform>mii</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Pl1_Acc">
                <wordform>min</wordform>
             </analysis>
@@ -351,6 +380,9 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">dii</l>
          <analysis>Pron_Pers_Pl2_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl2_Nom">
+               <wordform>dii</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Pl2_Acc">
                <wordform>din</wordform>
             </analysis>
@@ -386,6 +418,9 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="pers">sii</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl3_Nom">
+               <wordform>sii</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Pl3_Acc">
                <wordform>sin</wordform>
             </analysis>
@@ -421,6 +456,9 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="pers">dat</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl3_Nom">
+               <wordform>dat</wordform>
+            </analysis>
             <analysis ms="Pron_Pers_Pl3_Acc">
                <wordform>daid</wordform>
             </analysis>
@@ -455,7 +493,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pron" type="pers">mu</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
-         <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
          <analysis>Pron_Pers_Sg1_Gen</analysis>
          <analysis>Pron_Pers_Sg1_Acc</analysis>
       </lg>
@@ -475,7 +512,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pron" type="pers">munnje</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
-         <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
          <analysis>Pron_Pers_Sg1_Ill</analysis>
       </lg>
       <mg>
@@ -488,7 +524,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pron" type="pers">mus</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
-         <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
          <analysis>Pron_Pers_Sg1_Loc</analysis>
       </lg>
       <mg>
@@ -501,7 +536,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pron" type="pers">muinna</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
-         <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
          <analysis>Pron_Pers_Sg1_Com</analysis>
       </lg>
       <mg>
@@ -514,7 +548,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pron" type="pers">munin</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
-         <lemma_ref lemmaID="mon_pron_pers">mon</lemma_ref>
          <analysis>Pron_Pers_Sg1_Ess</analysis>
       </lg>
       <mg>
