@@ -209,7 +209,17 @@ For the full license text, see the link above.</lic>
             <t pos="n">datarom</t>
          </tg>
       </mg>
-   </e>   
+   </e> 
+   <e usage="vd">
+      <lg>
+         <l pos="n">čearpmatjoavku</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">čearpmat-gruppe</t>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
       <lg>
          <l pos="n">miessejoavku</l>
@@ -217,7 +227,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">kalvegruppe</t>
+            <t pos="n">miessi-gruppe</t>
          </tg>
       </mg>
    </e>
@@ -228,7 +238,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">simlegruppe</t>
+            <t pos="n">áldu-gruppe</t>
          </tg>
       </mg>
    </e>
@@ -350,6 +360,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">penála</l>
+         <lsub>penala</lsub>
       </lg>
       <mg>
          <tg>
@@ -1887,6 +1898,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">skogshus</t>
+         </tg>
+      </mg>
+   </e>
+      <e usage="vd">
+      <lg>
+         <l pos="n">matte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">matte</t>
          </tg>
       </mg>
    </e>
@@ -7512,6 +7533,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">minsttar</l>
+         <lsub>minstar</lsub>
       </lg>
       <mg>
          <tg>
