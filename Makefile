@@ -205,6 +205,5 @@ upload-macdict:
 	@echo
 
 clean:
-	@rm -f $(BIN)/*fst $(BIN)/*dic $(BIN)/*lexc $(BIN)/*list $(BIN)/*html $(BIN)/*xml $(BIN)/*txt
-
+	rm -f $(BIN)/*fst $(BIN)/*dic $(BIN)/*lexc $(BIN)/*list $(BIN)/*html $(BIN)/*xml $(BIN)/*txt
 
