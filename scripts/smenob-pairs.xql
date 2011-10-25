@@ -20,7 +20,10 @@ declare variable $smenob external;
 <r>LEXICON Root
 {
 for $element in doc($smenob)//e
-let $t := $element/replace(normalize-space(mg[1]/tg[1]/t[1])," ","_")
-return <e>{concat($element/lg/l, ":", $t, " # ;", "
-")}</e>
+let $l := replace(normalize-space($element/lg/l), " ", "% ")
+let $t := replace(normalize-space($element/mg[1]/tg[1]/t[1])," ","_")
+(: Problem: datter av tg kan vere t eller tf :)
+(:       := replace(normalize-space($element/mg[1]/tg[1]/tf[1])," ","_") :)
+return <e>{concat($l, ":", $t, " # ;", "")}</e>
+(: return <e>{concat($element/lg/l, ":", $t, " # ;", " :)
 } </r>
