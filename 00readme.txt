@@ -5,6 +5,8 @@ This directory contains the following
  inc     -- data to be included into the source files in the src directory
  scripts -- scripts and other resoures to transform data
  src     -- the dictionary files (split modulo POS)
+ 2011_dict -- directory for the work in progress on the planed dictionary compilation
+              (lists of lemmata without paradigm generation, or with only one form, etc.)
 
 -------
 
