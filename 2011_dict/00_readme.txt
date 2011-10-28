@@ -22,3 +22,10 @@ Basically, @cip will put two different kind of lists here:
  Ex. tunealla (uten å slå på v1-v2-mekanismus)
 <result/>
 
+There is no workable way to implement a routine with variable number of parameter
+not even to know which lemmata get which v_n parameters.
+
+To clarify with lingvisten. Moreover, the two different mechanisms hid and v1-v2
+should be unified into a single implementable one. The description is counter-intuitive
+and difficult to debug.
+
