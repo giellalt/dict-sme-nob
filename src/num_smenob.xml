@@ -45,17 +45,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">millijuvdna</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="num">million</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="num">miljovdna</l>
+         <l context="gápmagat" pos="num">miljovdna</l>
+         <lsub>miljun<lsub>
       </lg>
       <mg>
          <tg>
@@ -200,16 +191,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="num">2-3000</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l context="gápmagat" pos="num">miljon</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="num">million</t>
          </tg>
       </mg>
    </e>
