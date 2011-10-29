@@ -34,5 +34,5 @@ Issues on the stack:
 1. webdict update: this is not dependent on the generation, however
    there might be a tiny unbalance: the v2-v4 forms would not be
    visible (unless a native speaker codes them in the source file, no paradigm necessary)
- ==> TODO
+ ==> DONE
 
