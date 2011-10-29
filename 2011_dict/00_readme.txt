@@ -29,3 +29,10 @@ To clarify with lingvisten. Moreover, the two different mechanisms hid and v1-v2
 should be unified into a single implementable one. The description is counter-intuitive
 and difficult to debug.
 
+Issues on the stack:
+
+1. webdict update: this is not dependent on the generation, however
+   there might be a tiny unbalance: the v2-v4 forms would not be
+   visible (unless a native speaker codes them in the source file, no paradigm necessary)
+ ==> TODO
+
