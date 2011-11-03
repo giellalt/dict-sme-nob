@@ -7552,8 +7552,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" pos="a">viss</t>
             <t decl="5" pos="a">sikker</t>
+            <xg>
+               <x>Mun lean vissis ahte máilbmi lea jorbbas.</x>
+               <xt>Jeg er sikker på at jorda er rund.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>bare som attributt</re>
+            <t decl="5" pos="a">bestemt</t>
+            <t decl="1" pos="a">viss</t>
+            <xg>
+               <x>Mun human vissis ášši birra.</x>
+               <xt>Jeg snakker om en bestemt sak.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
