@@ -59,8 +59,32 @@ Issues from the smenob dict meeting:
 
 4. compile a three-parted test version of the dict by Monday 07.11.2011:
    - a version with only the vmax-marked lemmata
-   - a version with only the static entries
-   - a versjon with only the generated entries (lemmata AND wordforms)
+   - a version with only the static entries, i.e., entries from the following files
+adjstatpar_smenob.xml
+adverb_smenob.xml
+div_statisk_smenob.xml
+mwe_smenob.xml
+other_stat_smenob.xml
+pronDem_smenob.xml
+pronPers_smenob.xml
+pronRec_smenob.xml
+pronRefl_smenob.xml
+pronRel_smenob.xml
+verbCop_smenob.xml
+verbNeg_smenob.xml
+verbSupNeg_smenob.xml
+
+   - a versjon with only the entries (lemmata AND wordforms, if the case) from the following files
+     (under exclusion of vmax-marked entries)
+adjective_smenob.xml
+nounActor_smenob.xml
+nounCommon_smenob.xml
+nounG3_smenob.xml
+nounProperPl_smenob.xml
+nounRevProper_smenob.xml
+num_smenob.xml
+pronIndef_smenob.xml
+verb_smenob.xml
   ==> TO DO
 
 5. prepare the StarDict version of the smenob dict
