@@ -66,7 +66,11 @@ Issues from the smenob dict meeting:
 5. prepare the StarDict version of the smenob dict
  ==> TO DO
 
-
+6. filter away synonyms in the mg/tg elements as proposed by Lene (lower priority)
+   - write a helping script for Trond (, whose task would be to mark those t-elements
+     that should be filtered away for the smenob dict, but still kept in the dictionary
+     for an eventual reversion to nobsme)
+ ==> TO DO
 
 =============================================
 
