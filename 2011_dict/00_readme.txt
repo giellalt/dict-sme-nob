@@ -59,6 +59,8 @@ Issues from the smenob dict meeting:
 
 4. compile a three-parted test version of the dict by Monday 07.11.2011:
    - a version with only the vmax-marked lemmata
+  ==> TO DO
+
    - a version with only the static entries, i.e., entries from the following files
 adjstatpar_smenob.xml
 adverb_smenob.xml
@@ -73,6 +75,7 @@ pronRel_smenob.xml
 verbCop_smenob.xml
 verbNeg_smenob.xml
 verbSupNeg_smenob.xml
+  ==> DONE
 
    - a versjon with only the entries (lemmata AND wordforms, if the case) from the following files
      (under exclusion of vmax-marked entries)
