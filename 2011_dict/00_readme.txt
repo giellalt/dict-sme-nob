@@ -29,6 +29,8 @@ To clarify with lingvisten. Moreover, the two different mechanisms hid and v1-v2
 should be unified into a single implementable one. The description is counter-intuitive
 and difficult to debug.
 
+
+=============================================
 Issues on the stack:
 
 1. webdict update: this is not dependent on the generation, however
@@ -36,3 +38,25 @@ Issues on the stack:
    visible (unless a native speaker codes them in the source file, no paradigm necessary)
  ==> DONE
 
+=============================================
+Issues from the smenob dict meeting:
+
+1. teste v1-v5 generering i hele pipeline
+ ==> TODO
+
+2. teste Use/NVD
+ ==> TODO
+
+3. posisjon i miniparadigm
+*** Nøkkelformer:
+*** attr. stuora stuorra (viessu)
+*** pl.nom. stuorrát
+*** KOMP.ATTR. stuorit stuorát
+*** komp.sg.nom. stuorit stuorát
+*** superl.sg.nom. Stuorimus
+** generere alt
+ ==> TODO
+
+=============================================
+
+=============================================
