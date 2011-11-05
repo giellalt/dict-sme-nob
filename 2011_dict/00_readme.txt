@@ -57,6 +57,17 @@ Issues from the smenob dict meeting:
 ** generere alt
  ==> TODO
 
+4. compile a three-parted test version of the dict by Monday 07.11.2011:
+   - a version with only the vmax-marked lemmata
+   - a version with only the static entries
+   - a versjon with only the generated entries (lemmata AND wordforms)
+  ==> TO DO
+
+5. prepare the StarDict version of the smenob dict
+ ==> TO DO
+
+
+
 =============================================
 
 =============================================
