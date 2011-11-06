@@ -42,10 +42,10 @@ Issues on the stack:
 Issues from the smenob dict meeting:
 
 1. teste v1-v5 generering i hele pipeline
- ==> TODO
+ ==> TODO (partly DONE)
 
 2. teste Use/NVD
- ==> TODO
+ ==> DONE
 
 3. posisjon i miniparadigm
 *** Nøkkelformer:
@@ -55,7 +55,7 @@ Issues from the smenob dict meeting:
 *** komp.sg.nom. stuorit stuorát
 *** superl.sg.nom. Stuorimus
 ** generere alt
- ==> TODO
+ ==> DONE
 
 4. compile a three-parted test version of the dict by Monday 07.11.2011:
    - a version with only the vmax-marked lemmata
@@ -88,7 +88,7 @@ nounRevProper_smenob.xml
 num_smenob.xml
 pronIndef_smenob.xml
 verb_smenob.xml
-  ==> TO DO
+  ==> DONE
 
 5. prepare the StarDict version of the smenob dict
  ==> TO DO
