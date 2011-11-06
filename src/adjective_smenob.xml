@@ -761,13 +761,13 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="náhkki" pos="a">asehaš</l>
+         <l_ref>seaggi_a</l_ref>
          <lc>-haččat, -hažžii</lc>
       </lg>
       <mg>
          <tg>
             <re>om flate gjenstander</re>
             <t decl="1" pos="a">tynn</t>
-            <l_ref>seaggi_a</l_ref>
             <xg>
                <x>Sus lea asehis náhkki.</x>
                <xt>Hun har tynn hud.</xt>
@@ -788,13 +788,13 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="náhkki" pos="a">assái</l>
+         <l_ref>gassat_a</l_ref>
          <lc>assás (náhkki)</lc>
       </lg>
       <mg>
          <tg>
             <re>om flate gjenstander</re>
             <t decl="1" pos="a">tjukk</t>
-            <l_ref>gassat_a</l_ref>
             <xg>
                <x>Sus lea assás náhkki.</x>
                <xt>Hun har tjukk hud.</xt>
@@ -2728,12 +2728,12 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="olmmoš" pos="a">gassat</l>
+         <l_ref>assái_a</l_ref>
       </lg>
       <mg>
          <tg>
             <re>om runde gjenstander</re>
             <t decl="1" pos="a">tykk</t>
-            <l_ref>assái_a</l_ref>
             <xg>
                <x>Lásses lea gassa soabbi.</x>
                <xt>Lásse har en tykk stokk.</xt>
@@ -6457,6 +6457,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="muorra" pos="a">seaggi</l>
+         <l_ref>asehaš_a</l_ref>
          <lc>seakkit, sekkiid, seakka (muorra)</lc>
       </lg>
       <mg>
@@ -6464,7 +6465,6 @@ For the full license text, see the link above.</lic>
             <re>om runde gjenstander</re>
             <t decl="1" pos="a">tynn</t>
             <t decl="5" pos="a">spinkel</t>
-            <l_ref>asehaš_a</l_ref>
          </tg>
       </mg>
    </e>
