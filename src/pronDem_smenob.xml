@@ -33,6 +33,9 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="dem">dat</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Nom">
+               <wordform>dat viessu</wordform>
+            </analysis>
             <analysis ms="Pron_Dem_Sg_Acc">
                <wordform>dan viesu</wordform>
             </analysis>
@@ -221,6 +224,9 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="dem">dat</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Nom">
+               <wordform>dat viesut</wordform>
+            </analysis>
             <analysis ms="Pron_Dem_Pl_Acc">
                <wordform>daid viesuid</wordform>
             </analysis>
