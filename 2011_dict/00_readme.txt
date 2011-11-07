@@ -39,66 +39,100 @@ Issues on the stack:
  ==> DONE
 
 =============================================
-Issues from the smenob dict meeting:
+Issues for the smenob dict:
 
 1. teste v1-v5 generering i hele pipeline
  ==> TODO (partly DONE)
 
-2. teste Use/NVD
- ==> DONE
+2. prepare the StarDict version of the smenob dict
+ ==> TODO
 
-3. posisjon i miniparadigm
-*** Nøkkelformer:
-*** attr. stuora stuorra (viessu)
-*** pl.nom. stuorrát
-*** KOMP.ATTR. stuorit stuorát
-*** komp.sg.nom. stuorit stuorát
-*** superl.sg.nom. Stuorimus
-** generere alt
- ==> DONE
-
-4. compile a three-parted test version of the dict by Monday 07.11.2011:
-   - a version with only the vmax-marked lemmata
-  ==> TO DO
-
-   - a version with only the static entries, i.e., entries from the following files
-adjstatpar_smenob.xml
-adverb_smenob.xml
-div_statisk_smenob.xml
-mwe_smenob.xml
-other_stat_smenob.xml
-pronDem_smenob.xml
-pronPers_smenob.xml
-pronRec_smenob.xml
-pronRefl_smenob.xml
-pronRel_smenob.xml
-verbCop_smenob.xml
-verbNeg_smenob.xml
-verbSupNeg_smenob.xml
-  ==> DONE
-
-   - a versjon with only the entries (lemmata AND wordforms, if the case) from the following files
-     (under exclusion of vmax-marked entries)
-adjective_smenob.xml
-nounActor_smenob.xml
-nounCommon_smenob.xml
-nounG3_smenob.xml
-nounProperPl_smenob.xml
-nounRevProper_smenob.xml
-num_smenob.xml
-pronIndef_smenob.xml
-verb_smenob.xml
-  ==> DONE
-
-5. prepare the StarDict version of the smenob dict
- ==> TO DO
-
-6. filter away synonyms in the mg/tg elements as proposed by Lene (lower priority)
+3. filter away synonyms in the mg/tg elements as proposed by Lene (lower priority)
    - write a helping script for Trond (, whose task would be to mark those t-elements
      that should be filtered away for the smenob dict, but still kept in the dictionary
      for an eventual reversion to nobsme)
- ==> TO DO
+ ==> TODO
 
 =============================================
+Comments after the first test:
+
+From BM:
+
+1. Soadji har to sg.gen-former: soaji, soaje. I Nøkkelformene i ordboka presenteres allegro formen først: soaje, soaji.
+Kan vi ordne det slik at soaji presenteres før soaje? Dette gjelder alle lemmar som har to gen former.
+
+ ==> vet ikke nå, kanskje.
+
+2. 'Nøkkelformer' bør heller kalles 'Grammatikkinformasjon' siden vi av og til gir nøkkelformer, av og til bare attr-form, av og til alle former (statiske filer)
+
+ ==> upp til dokker!
+
+3. Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale til boaššobealle er inaktiv.
+
+ ==> skal sjekke det!
+
+4. Presentasjon av <te>: i smanob står alle <te> i kursiv, skal dette også gjøres i smenob? 
+
+ ==> upp til dokker!
+
+5. Fjerne komma (,) i slutten av hver <te>.
+Alle <te> i smenob i dag slutter med en komma: boaššobealle: den side som vender mot boaššu, det vil si den innerste delen av telt, gamme eller hus,
+
+ ==> skal sjekke deet!
+
+6. Use/NVD er ikke implementert: 
+se feks lihkolaš i VD i dag:
+komp. attr. lihkolit lihkolut lihkolet lihkolat lihkolaččat
+komp. sg. nom. lihkolit lihkolut lihkolet lihkoleabbo lihkolat lihkolabbo lihkolaččat 
+
+Ved implementert Use/NVD skal resultatet være:
+komp. attr. lihkolet lihkolat lihkolaččat
+komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
+
+ ==> Jeg har ventet på et slikt eksempel!
+
+From Lene:
+Jeg foreslår at vi utelater soaje fra miniparadigmet (vi utelot allegro-formene tidligere også, se tidligere ordbokskompileringer, bortsett fra den siste som ikke inneholdt Allegro-former overhodet)
+
+soaje	soadji+N+Sg+Gen+Allegro
+soaji	soadji+N+Sg+Gen
+
+pga Allegro-tagen er den lett å filtrere bort, men det kan hende at Ciprian har noe annet i pipe-linen, fordi jeg mener å huske at han fikk til å filtrere dem bort fra miniparadigmet allerede _før_ jeg hadde lagt til Allegro-tagen.
+
+Men Allegro skal være med i ordboka.
+
+From Trond:
+
+
+Kan vi ordne det slik at soaji presenteres før soaje? Dette gjelder alle lemmar som har to gen former.
+Ja, allegro først er ikkje så bra. Det er betre utan allegro enn med allegro først... Miniparadigmer utan allegro (men sjølvsagt allegro i ordboka, med peikar til nominativ), er mitt syn. 
+
+ ==> uten Allegro-former er letter å implementere (skal se på det)
+ 
+Eg ser no Cip sitt siste brev. Altså:
+
+Allegroformene skal vere oppslagsformer __i ordboka__.
+Men __i miniparadigmet__ som er knytt til lemma-artikkelen skal vi ikkje ha allegroformer, berre vanleg genitiv.
+
+ ==> nå er det klar!
+
+2. 'Nøkkelformer' bør heller kalles 'Grammatikkinformasjon' siden vi av og til gir nøkkelformer, av og til bare attr-form, av og til alle former (statiske filer)
+
+"Grammatikkinformasjon" er veldig langt, og eigentleg misvisande. Eg går for "Bøyingsformer" eller evt. held vi på "Nøkkelformer" (ulike nøklar til ulike dører). Så eg er eigentleg for "Nøkkelformer", kjenner eg.
+
+ ==> Schlüssel-Schloss-Prinzip wie bei den Proteinen (like greit for meg)
+
+3. Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale til boaššobealle er inaktiv.
+aha, derfor er det! Eg har også sett former utan linking.
+
+4. Presentasjon av <te>: i smanob står alle <te> i kursiv, skal dette også gjøres i smenob? 
+Ja, syns eg.
+
+ ==> ok!
+
+5. buresboahtin (check for other entries)
+   sg. gen. sg. gen.
+   sg. ill. sg. ill. 
+ ==> TODO
 
 =============================================
