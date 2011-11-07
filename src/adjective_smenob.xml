@@ -9007,11 +9007,59 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="ipmárdus" pos="a">boasttu</l>
+         <l pg="no" pos="a">boasttu-</l>
+         <lsub>boasttu</lsub>
       </lg>
       <mg>
          <tg>
+            <re>som førsteledd i sammensetninger</re>
             <t decl="2" pos="a">feil</t>
+            <t decl="2" pos="a">uriktig</t>
+            <xg>
+               <x>boasttuipmárdus</x>
+               <xt>feil oppfatning</xt>
+            </xg>
+            <xg>
+               <x>boasttudieđut</x>
+               <xt>uriktige opplysninger</xt>
+            </xg>
+            <xg>
+               <x>boasttugálvu</x>
+               <xt>feil vare</xt>
+            </xg>
+            <xg>
+               <x>boasttugeavaheapmi</x>
+               <xt>uriktig bruk</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pg="no" pos="a">boastto-</l>
+         <lsub>boastto</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <re>som førsteledd i sammensetninger</re>
+            <t decl="2" pos="a">feil</t>
+            <t decl="2" pos="a">uriktig</t>
+            <xg>
+               <x>boasttoipmárdus</x>
+               <xt>feil oppfatning</xt>
+            </xg>
+            <xg>
+               <x>boasttodieđut</x>
+               <xt>uriktige opplysninger</xt>
+            </xg>
+            <xg>
+               <x>boasttogálvu</x>
+               <xt>feil vare</xt>
+            </xg>
+            <xg>
+               <x>boasttogeavaheapmi</x>
+               <xt>uriktig bruk</xt>
+            </xg>
          </tg>
       </mg>
    </e>
