@@ -135,4 +135,13 @@ Ja, syns eg.
    sg. ill. sg. ill. 
  ==> TODO
 
+6. correct mapping 
+<analysis ms="Pron_Refl_Sg1_Acc/Gen">
+ skal bli 1p. sg. akk./gen.
+
+1p. sg.
+
+
+iežan iehčan
+
 =============================================
