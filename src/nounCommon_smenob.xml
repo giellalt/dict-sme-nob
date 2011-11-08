@@ -551,8 +551,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">mátkešukkoláda</l>
+         <l pos="n" vmax="4">mátkešuhkoláda</l>
          <lsub>mátkešukoláda</lsub>
+         <lsub>mátkešukoláde</lsub>
+         <lsub>mátkešukkuláda</lsub>
+         <lsub>mátkešukkuláde</lsub>
+         <lsub>mátkešukuláda</lsub>
+         <lsub>mátkešukuláde</lsub>
       </lg>
       <mg>
          <tg>
@@ -3932,7 +3937,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">šuhkoláda</l>
+         <l pos="n" vmax="4">šuhkoláda</l>
+         <lsub>šukoláda</lsub>
+         <lsub>šukoláde</lsub>
+         <lsub>šukkuláda</lsub>
+         <lsub>šukkuláde</lsub>
+         <lsub>šukuláda</lsub>
+         <lsub>šukuláde</lsub>
       </lg>
       <mg>
          <tg>
@@ -51923,7 +51934,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">šuhkoládagáhkku</l>
+         <l pos="n" vmax="4">šuhkoládagáhkku</l>
+         <lsub>šukkuládagáhkku</lsub>
+         <lsub>šukkuládegáhkku</lsub>
+         <lsub>šukuládagáhkku</lsub>
+         <lsub>šukuládegáhkku</lsub>
+         <lsub>šukoládagáhkku</lsub>
+         <lsub>šukoládegáhkku</lsub>
       </lg>
       <mg>
          <tg>
@@ -51939,18 +51956,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf gen="n" pos="phrase_n">rim på tre</tf>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">šukkoláda</l>
-         <lsub>šukuláda</lsub>
-         <lsub>šukoláda</lsub>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" gen="m" pos="n">sjokolade</t>
          </tg>
       </mg>
    </e>
@@ -154762,16 +154767,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="yyy" gen="xxx" pos="n">smelte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="n">šuhkoláde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="yyy" gen="m" pos="n">sjokolade</t>
          </tg>
       </mg>
    </e>
