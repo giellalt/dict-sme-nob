@@ -172,10 +172,7 @@ For the full license text, see the link above.</lic>
          <l pos="num">oktage</l>
          <analysis>okta_Num_Sg_Nom_Foc/ge</analysis>
          <mini_paradigm>
-            <analysis ms="okta_Num_Sg_Acc_Foc/ge">
-               <wordform>ovttage</wordform>
-            </analysis>
-            <analysis ms="okta_Num_Sg_Gen_Foc/ge">
+            <analysis ms="okta_Num_Sg_Acc/Gen_Foc/ge">
                <wordform>ovttage</wordform>
             </analysis>
             <analysis ms="okta_Num_Sg_Ill_Foc/ge">
@@ -446,10 +443,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="indef">gii nu</l>
          <analysis>Pron_Indef_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Indef_Sg_Acc">
-               <wordform>gean nu</wordform>
-            </analysis>
-            <analysis ms="Pron_Indef_Sg_Gen">
+            <analysis ms="Pron_Indef_Sg_Acc/Gen">
                <wordform>gean nu</wordform>
             </analysis>
             <analysis ms="Pron_Indef_Sg_Ill">
