@@ -36,7 +36,7 @@ For the full license text, see the link above.</lic>
             <analysis ms="Pron_Dem_Sg_Nom">
                <wordform>dat viessu</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg_Acc">
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
                <wordform>dan viesu</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Gen">
@@ -65,10 +65,7 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="dem">dát</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>dán</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
                <wordform>dán</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ill">
@@ -101,10 +98,7 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="dem">diet</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>dien</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
                <wordform>dien</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ill">
@@ -145,10 +139,7 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="dem">duot</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>duon</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
                <wordform>duon</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ill">
@@ -187,10 +178,7 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="dem">dot</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>don</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
                <wordform>don</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ill">
@@ -227,10 +215,7 @@ For the full license text, see the link above.</lic>
             <analysis ms="Pron_Dem_Pl_Nom">
                <wordform>dat viesut</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>daid viesuid</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
                <wordform>daid viesuid</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -262,10 +247,7 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="dem">dát</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>dáid</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
                <wordform>dáid</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -298,10 +280,7 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="dem">diet</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>dieid</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
                <wordform>dieid</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -337,10 +316,7 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="dem">duot</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>duoid</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
                <wordform>duoid</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -375,10 +351,7 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="dem">dot</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>doid</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
                <wordform>doid</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -406,10 +379,7 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="dem">dakkár</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>dakkára</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
                <wordform>dakkára</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ill">
@@ -441,10 +411,7 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="dem">dakkárat</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>dakkáriid</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
                <wordform>dakkáriid</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -476,10 +443,7 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="dem">dákkár</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>dákkára</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
                <wordform>dákkára</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ill">
@@ -511,10 +475,7 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="dem">dákkárat</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>dákkáriid</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
                <wordform>dákkáriid</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -547,10 +508,7 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="dem">diekkár</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>diekkára</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
                <wordform>diekkára</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ill">
@@ -583,10 +541,7 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="dem">diekkárat</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>diekkáriid</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
                <wordform>diekkáriid</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
