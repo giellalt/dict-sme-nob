@@ -73,10 +73,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="rel">gii</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc">
-               <wordform>gean</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Gen">
+            <analysis ms="Pron_Rel_Sg_Acc/Gen">
                <wordform>gean</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Ill">
@@ -112,10 +109,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="rel">mat</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Pl_Acc">
-               <wordform>maid</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Gen">
+            <analysis ms="Pron_Rel_Pl_Acc/Gen">
                <wordform>maid</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ill">
@@ -151,10 +145,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="rel">geat</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Pl_Acc">
-               <wordform>geaid</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Gen">
+            <analysis ms="Pron_Rel_Pl_Acc/Gen">
                <wordform>geaid</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ill">
@@ -190,10 +181,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="rel">goabbá</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc">
-               <wordform>goappá</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Gen">
+            <analysis ms="Pron_Rel_Sg_Acc/Gen">
                <wordform>goappá</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Ill">
@@ -221,10 +209,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="rel">goappát</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Pl_Acc">
-               <wordform>goappáid</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Gen">
+            <analysis ms="Pron_Rel_Pl_Acc/Gen">
                <wordform>goappáid</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ill">
@@ -252,10 +237,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="rel">guhte</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc">
-               <wordform>guđe</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Gen">
+            <analysis ms="Pron_Rel_Sg_Acc/Gen">
                <wordform>guđe</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Ill">
@@ -306,10 +288,7 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="rel">guđet</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Pl_Acc">
-               <wordform>guđiid</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Gen">
+            <analysis ms="Pron_Rel_Pl_Acc/Gen">
                <wordform>guđiid</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ill">
@@ -356,10 +335,7 @@ For the full license text, see the link above.</lic>
          <l nr="sg" pos="pron" type="interr">makkár</l>
          <analysis>Pron_Interr_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Interr_Sg_Acc">
-               <wordform>makkára</wordform>
-            </analysis>
-            <analysis ms="Pron_Interr_Sg_Gen">
+            <analysis ms="Pron_Interr_Sg_Acc/Gen">
                <wordform>makkára</wordform>
             </analysis>
             <analysis ms="Pron_Interr_Sg_Ill">
@@ -387,10 +363,7 @@ For the full license text, see the link above.</lic>
          <l nr="pl" pos="pron" type="interr">makkárat</l>
          <analysis>Pron_Interr_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Interr_Pl_Acc">
-               <wordform>makkáriid</wordform>
-            </analysis>
-            <analysis ms="Pron_Interr_Pl_Gen">
+            <analysis ms="Pron_Interr_Pl_Acc/Gen">
                <wordform>makkáriid</wordform>
             </analysis>
             <analysis ms="Pron_Interr_Pl_Ill">
