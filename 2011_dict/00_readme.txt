@@ -56,24 +56,24 @@ Issues for the smenob dict:
 =============================================
 Comments after the first test:
 
-From BM:
 
-1. Soadji har to sg.gen-former: soaji, soaje. I Nøkkelformene i ordboka presenteres allegro formen først: soaje, soaji.
-Kan vi ordne det slik at soaji presenteres før soaje? Dette gjelder alle lemmar som har to gen former.
+1. Miniparadigmer til substantiver uten allegro.
+soaje	soadji+N+Sg+Gen+Allegro
+soaji	soadji+N+Sg+Gen
++N+Sg+Gen+Allegro utelates fra miniparadigmer til substantiver. Bare vanlig gentiv presenteres i miniparadigmet til substantiver. Allegro skal være med som oppslagsform i ordboka.  
+ 
+ ==> nå er det klar!
 
- ==> vet ikke nå, kanskje.
 
-2. 'Nøkkelformer' bør heller kalles 'Grammatikkinformasjon' siden vi av og til gir nøkkelformer, av og til bare attr-form, av og til alle former (statiske filer)
-
- ==> upp til dokker!
+2. 'Nøkkelformer' beholdes som navn på bøyningsformer/grammatikkinformasjon.
 
 3. Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale til boaššobealle er inaktiv.
 
- ==> skal sjekke det!
+ ==> dette fungerer når man inaktiverer andre ordbøker i dict-programmet og starter programmet på nytt. 
 
-4. Presentasjon av <te>: i smanob står alle <te> i kursiv, skal dette også gjøres i smenob? 
+4. Presentasjon av <te>: i smanob står alle <te> i kursiv. I smenob skal også alle <te> stå i kursiv.
 
- ==> upp til dokker!
+ ==> må sjekkes
 
 5. Fjerne komma (,) i slutten av hver <te>.
 Alle <te> i smenob i dag slutter med en komma: boaššobealle: den side som vender mot boaššu, det vil si den innerste delen av telt, gamme eller hus,
@@ -91,51 +91,12 @@ komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
  ==> Jeg har ventet på et slikt eksempel!
 
-From Lene:
-Jeg foreslår at vi utelater soaje fra miniparadigmet (vi utelot allegro-formene tidligere også, se tidligere ordbokskompileringer, bortsett fra den siste som ikke inneholdt Allegro-former overhodet)
-
-soaje	soadji+N+Sg+Gen+Allegro
-soaji	soadji+N+Sg+Gen
-
-pga Allegro-tagen er den lett å filtrere bort, men det kan hende at Ciprian har noe annet i pipe-linen, fordi jeg mener å huske at han fikk til å filtrere dem bort fra miniparadigmet allerede _før_ jeg hadde lagt til Allegro-tagen.
-
-Men Allegro skal være med i ordboka.
-
-From Trond:
-
-
-Kan vi ordne det slik at soaji presenteres før soaje? Dette gjelder alle lemmar som har to gen former.
-Ja, allegro først er ikkje så bra. Det er betre utan allegro enn med allegro først... Miniparadigmer utan allegro (men sjølvsagt allegro i ordboka, med peikar til nominativ), er mitt syn. 
-
- ==> uten Allegro-former er letter å implementere (skal se på det)
- 
-Eg ser no Cip sitt siste brev. Altså:
-
-Allegroformene skal vere oppslagsformer __i ordboka__.
-Men __i miniparadigmet__ som er knytt til lemma-artikkelen skal vi ikkje ha allegroformer, berre vanleg genitiv.
-
- ==> nå er det klar!
-
-2. 'Nøkkelformer' bør heller kalles 'Grammatikkinformasjon' siden vi av og til gir nøkkelformer, av og til bare attr-form, av og til alle former (statiske filer)
-
-"Grammatikkinformasjon" er veldig langt, og eigentleg misvisande. Eg går for "Bøyingsformer" eller evt. held vi på "Nøkkelformer" (ulike nøklar til ulike dører). Så eg er eigentleg for "Nøkkelformer", kjenner eg.
-
- ==> Schlüssel-Schloss-Prinzip wie bei den Proteinen (like greit for meg)
-
-3. Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale til boaššobealle er inaktiv.
-aha, derfor er det! Eg har også sett former utan linking.
-
-4. Presentasjon av <te>: i smanob står alle <te> i kursiv, skal dette også gjøres i smenob? 
-Ja, syns eg.
-
- ==> ok!
-
-5. buresboahtin (check for other entries)
+7. buresboahtin (check for other entries) og andre noun merket illpl="no" får dobbelt opp med analysetags i miniparadigmet, også pl. ill.
    sg. gen. sg. gen.
    sg. ill. sg. ill. 
  ==> TODO
 
-6. correct mapping 
+8. correct mapping 
 <analysis ms="Pron_Refl_Sg1_Acc/Gen">
  skal bli 1p. sg. akk./gen.
 
