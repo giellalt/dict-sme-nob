@@ -3541,9 +3541,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l context="mun" pos="v">biekkastit</l>
+         <l context="upers" pos="v">biekkastit</l>
       </lg>
       <mg>
          <tg>
@@ -5344,9 +5344,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">buolaštit</l>
+         <l context="upers" pos="v">buolaštit</l>
       </lg>
       <mg>
          <tg>
@@ -17964,7 +17964,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="dat" pos="v">jiellat</l>
+         <l context="upers" pos="v">jiellat</l>
          <lc>jielai</lc>
       </lg>
       <mg>
@@ -35862,11 +35862,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="v">vuoisat</l>
+         <l context="upers" pos="v">vuoisat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">sting</t>
+            <t pos="v">kjennes</t>
+            <xg>
+               <x>Mus vuoissai gieđa vuolde.</x>
+               <xt>Jeg kjente sting under armen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
