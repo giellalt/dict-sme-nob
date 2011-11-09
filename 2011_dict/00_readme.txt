@@ -109,7 +109,6 @@ iežan iehčan
 
 En annen ting man bør se på, er hvorfor ikke verbene ikke får Actio-tag i flertall (derfor er det i verb-codes Der/n og Der/eapmi isteden), men det gjør vi etter at denne ordboka er generert. Det fungerer slik som det er nå.
 
-
-
+10. plassering av l_ref: see email
 
 =============================================
