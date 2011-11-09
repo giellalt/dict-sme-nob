@@ -105,4 +105,11 @@ komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
 iežan iehčan
 
+9. En annen ting, bør det ikke komme fram i ordboka at Der/n og Der/eapmi  gir 'Aktio Sg. Akk'. osv. og ikke bare 'Sg Akk' som i forrige ordbok. 
+
+En annen ting man bør se på, er hvorfor ikke verbene ikke får Actio-tag i flertall (derfor er det i verb-codes Der/n og Der/eapmi isteden), men det gjør vi etter at denne ordboka er generert. Det fungerer slik som det er nå.
+
+
+
+
 =============================================
