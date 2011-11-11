@@ -61,21 +61,21 @@ soaje	soadji+N+Sg+Gen+Allegro
 soaji	soadji+N+Sg+Gen
 +N+Sg+Gen+Allegro utelates fra miniparadigmer til substantiver. Bare vanlig gentiv presenteres i miniparadigmet til substantiver. Allegro skal være med som oppslagsform i ordboka.  
  
- ==> TODO 
+ ==> DONE 
 
 3. Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale til boaššobealle er inaktiv.
 
  ==> dette fungerer når man inaktiverer andre ordbøker i dict-programmet og starter programmet på nytt. 
- ==> TODO (TO CHECK)
+ ==> DONE 
 
 4. Presentasjon av <te>: i smanob står alle <te> i kursiv. I smenob skal også alle <te> stå i kursiv.
 
- ==> TODO
+ ==> DONE
 
 5. Fjerne komma (,) i slutten av hver <te>.
 Alle <te> i smenob i dag slutter med en komma: boaššobealle: den side som vender mot boaššu, det vil si den innerste delen av telt, gamme eller hus,
 
- ==> TODO 
+ ==> DONE 
 
 6. Use/NVD er ikke implementert: 
 se feks lihkolaš i VD i dag:
@@ -86,7 +86,7 @@ Ved implementert Use/NVD skal resultatet være:
 komp. attr. lihkolet lihkolat lihkolaččat
 komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
- ==> TODO
+ ==> DONE (to test with these lemmata)
 
 7. buresboahtin (check for other entries) og andre noun merket illpl="no" får dobbelt opp med analysetags i miniparadigmet, også pl. ill.
    sg. gen. sg. gen.
