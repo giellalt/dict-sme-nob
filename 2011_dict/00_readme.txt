@@ -42,7 +42,7 @@ Issues on the stack:
 Issues for the smenob dict:
 
 1. teste v1-v5 generering i hele pipeline
- ==> TODO (partly DONE)
+ ==> DONE
 
 2. prepare the StarDict version of the smenob dict
  ==> TODO
@@ -56,29 +56,26 @@ Issues for the smenob dict:
 =============================================
 Comments after the first test:
 
-
 1. Miniparadigmer til substantiver uten allegro.
 soaje	soadji+N+Sg+Gen+Allegro
 soaji	soadji+N+Sg+Gen
 +N+Sg+Gen+Allegro utelates fra miniparadigmer til substantiver. Bare vanlig gentiv presenteres i miniparadigmet til substantiver. Allegro skal være med som oppslagsform i ordboka.  
  
- ==> nå er det klar!
-
-
-2. 'Nøkkelformer' beholdes som navn på bøyningsformer/grammatikkinformasjon.
+ ==> TODO 
 
 3. Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale til boaššobealle er inaktiv.
 
  ==> dette fungerer når man inaktiverer andre ordbøker i dict-programmet og starter programmet på nytt. 
+ ==> TODO (TO CHECK)
 
 4. Presentasjon av <te>: i smanob står alle <te> i kursiv. I smenob skal også alle <te> stå i kursiv.
 
- ==> må sjekkes
+ ==> TODO
 
 5. Fjerne komma (,) i slutten av hver <te>.
 Alle <te> i smenob i dag slutter med en komma: boaššobealle: den side som vender mot boaššu, det vil si den innerste delen av telt, gamme eller hus,
 
- ==> skal sjekke deet!
+ ==> TODO 
 
 6. Use/NVD er ikke implementert: 
 se feks lihkolaš i VD i dag:
@@ -89,7 +86,7 @@ Ved implementert Use/NVD skal resultatet være:
 komp. attr. lihkolet lihkolat lihkolaččat
 komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
- ==> Jeg har ventet på et slikt eksempel!
+ ==> TODO
 
 7. buresboahtin (check for other entries) og andre noun merket illpl="no" får dobbelt opp med analysetags i miniparadigmet, også pl. ill.
    sg. gen. sg. gen.
@@ -105,10 +102,16 @@ komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
 iežan iehčan
 
+ ==> TODO
+
 9. En annen ting, bør det ikke komme fram i ordboka at Der/n og Der/eapmi  gir 'Aktio Sg. Akk'. osv. og ikke bare 'Sg Akk' som i forrige ordbok. 
 
 En annen ting man bør se på, er hvorfor ikke verbene ikke får Actio-tag i flertall (derfor er det i verb-codes Der/n og Der/eapmi isteden), men det gjør vi etter at denne ordboka er generert. Det fungerer slik som det er nå.
 
+ ==> TODO
+
 10. plassering av l_ref: see email
+
+ ==> TODO
 
 =============================================
