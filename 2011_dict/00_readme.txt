@@ -91,7 +91,7 @@ komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 7. buresboahtin (check for other entries) og andre noun merket illpl="no" får dobbelt opp med analysetags i miniparadigmet, også pl. ill.
    sg. gen. sg. gen.
    sg. ill. sg. ill. 
- ==> TODO
+ ==> DONE
 
 8. correct mapping 
 <analysis ms="Pron_Refl_Sg1_Acc/Gen">
