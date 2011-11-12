@@ -86,7 +86,7 @@ Ved implementert Use/NVD skal resultatet være:
 komp. attr. lihkolet lihkolat lihkolaččat
 komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
- ==> DONE (to test with these lemmata)
+ ==> DONE
 
 7. buresboahtin (check for other entries) og andre noun merket illpl="no" får dobbelt opp med analysetags i miniparadigmet, også pl. ill.
    sg. gen. sg. gen.
