@@ -70,12 +70,12 @@ soaji	soadji+N+Sg+Gen
 
 4. Presentasjon av <te>: i smanob står alle <te> i kursiv. I smenob skal også alle <te> stå i kursiv.
 
- ==> DONE
+ ==> DONE TODO for static
 
 5. Fjerne komma (,) i slutten av hver <te>.
 Alle <te> i smenob i dag slutter med en komma: boaššobealle: den side som vender mot boaššu, det vil si den innerste delen av telt, gamme eller hus,
 
- ==> DONE 
+ ==> DONE TODO for static
 
 6. Use/NVD er ikke implementert: 
 se feks lihkolaš i VD i dag:
@@ -115,3 +115,23 @@ En annen ting man bør se på, er hvorfor ikke verbene ikke får Actio-tag i fle
  ==> TODO
 
 =============================================
+Some observations while testing before compiling:
+
+1. Static files:
+ - still quite a lot of inconsistencies as for additional information:
+   similar information both as <re>-element and in the translation in brackets
+
+Example 1:
+<re>om flere</re>
+<re>flertall</re>
+	versus
+<tf pos="phrase">hvilken av de to (om flertallsord)</tf>
+<tf pos="phrase">til hvilken av de to (flertall)</tf>
+<tf pos="phrase">til hva slags (flertall)</tf>
+<tf pos="phrase">til hva (flertall)</tf>
+
+Example 2:
+<re>som nettopp er nevnt</re>
+	versus
+<tf pos="phrase">de (som nettopp er nevnt)</tf>
+
