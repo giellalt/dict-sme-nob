@@ -114,6 +114,15 @@ En annen ting man bør se på, er hvorfor ikke verbene ikke får Actio-tag i fle
 
  ==> TODO
 
+11. lacking context infos (possibly because of the changed filter for vmax entries)
+
+ Example: vissis
+          attr. visses vissis
+ 
+ before:
+          attr. visses vissis (ášši)
+ ==> TODO
+
 =============================================
 Some observations while testing before compiling:
 
