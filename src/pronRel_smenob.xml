@@ -128,7 +128,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hva (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hva</tf>
             <xg>
                <x>Mat leat asteroiidat?</x>
                <xt>Hva er asteroider?</xt>
@@ -164,7 +165,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hvem (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hvem</tf>
             <xg>
                <x>Geat leat váldoneaktárat filmmas?</x>
                <xt>Hvem er hovedrolleinnehaverne i filmen?</xt>
@@ -615,7 +617,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hva (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hva</tf>
             <xg>
                <x></x>
                <xt></xt>
@@ -635,7 +638,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">til hva (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">til hva</tf>
             <xg>
                <x></x>
                <xt></xt>
@@ -655,7 +659,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">av hva (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">av hva</tf>
             <xg>
                <x></x>
                <xt></xt>
@@ -675,7 +680,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">med hva (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">med hva</tf>
             <xg>
                <x></x>
                <xt></xt>
@@ -726,7 +732,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">til hvem (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">til hvem</tf>
             <xg>
                <x>Geaidda bohccot gulle?</x>
                <xt>Til hvem tilhørte reinen?</xt>
@@ -746,7 +753,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hvem (har) (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hvem (har)</tf>
             <xg>
                <x>Geain lea dakkár oahppu?</x>
                <xt>Hvem har slik utdanning?</xt>
@@ -766,7 +774,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">med hvem (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">med hvem</tf>
             <xg>
                <x>Geaiguin dii lehpet hárjehallan?</x>
                <xt>Hvem har dere trent med?</xt>
@@ -849,8 +858,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hvilken av de to sin (flertall)</tf>
-            <tf pos="phrase">hvilken av de to (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hvilken av de to sin</tf>
+            <tf pos="phrase">hvilken av de to</tf>
          </tg>
       </mg>
    </e>
@@ -862,7 +872,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">til hvilken av de to (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">til hvilken av de to</tf>
          </tg>
       </mg>
    </e>
@@ -874,7 +885,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hvilken av de to (har) (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hvilken av de to (har)</tf>
          </tg>
       </mg>
    </e>
@@ -886,7 +898,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">med hvilken av de to (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">med hvilken av de to</tf>
          </tg>
       </mg>
    </e>
@@ -995,8 +1008,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hvem sin (flertall)</tf>
-            <tf pos="phrase">hvem (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hvem sin</tf>
+            <tf pos="phrase">hvem</tf>
             <xg>
                <x>Guđiid biktasiid mun galggan bassat?</x>
                <xt>Hvilke klær skal jeg vaske?</xt>
@@ -1021,7 +1035,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">til hvem (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">til hvem</tf>
             <xg>
                <x>Guđiide viesuide leat don dolvon juovlaskeaŋkkaid?</x>
                <xt>Til hvilke hus har du levert julegaver?</xt>
@@ -1046,7 +1061,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hvem (har) (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hvem (har)</tf>
             <xg>
                <x>Guđiin viesuin leat biilavisttit?</x>
                <xt>Hvilke hus har garasjer?</xt>
@@ -1071,7 +1087,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">med hvem (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">med hvem</tf>
             <xg>
                <x>Guđiiguin mašiinnaiguin lea álkimus goarrut?</x>
                <xt>Med hvilke maskiner er det lettest å sy?</xt>
@@ -1159,7 +1176,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hva slags (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">hva slags</tf>
          </tg>
       </mg>
    </e>
@@ -1171,7 +1189,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">til hva slags (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">til hva slags</tf>
          </tg>
       </mg>
    </e>
@@ -1183,8 +1202,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">i/av hva slags (flertall)</tf>
-            <tf pos="phrase">hva slags (har) (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">i/av hva slags</tf>
+            <tf pos="phrase">hva slags (har)</tf>
          </tg>
       </mg>
    </e>
@@ -1196,7 +1216,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">med hva slags (flertall)</tf>
+            <re>flertall</re>
+            <tf pos="phrase">med hva slags</tf>
          </tg>
       </mg>
    </e>
