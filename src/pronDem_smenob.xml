@@ -84,7 +84,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>nærmere meg enn deg</re>
+            <re>nærmere meg enn deg</re>
             <t pos="pron">dette</t>
             <xg>
                <x>Leago dát duođasge Sámi Radio oaivil?</x>
@@ -117,7 +117,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>nærmere deg enn meg</re>
+            <re>nærmere deg enn meg</re>
             <t pos="pron">den</t>
             <xg>
                <x>Mii diet lea?</x>
@@ -266,7 +266,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>nærmere meg enn deg</re>
+            <re>nærmere meg enn deg</re>
             <t pos="pron">disse</t>
             <xg>
                <x>Gosa dolvot dát dáhpáhusat?</x>
@@ -299,11 +299,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>nærmere meg enn deg</re>
+            <re>nærmere meg enn deg</re>
             <t pos="pron">de</t>
          </tg>
          <tg>
-            <tf pos="phrase">de (som nettopp er nevnt)</tf>
+            <re>som nettopp er nevnt</re>
+            <tf pos="phrase">de</tf>
             <xg>
                <x>Gal mun dál oainnán man duođat diet sánit leat maid vuoras olbmot lávejit lohkat.</x>
                <xt>Nå ser jeg hvor sanne de ordene er som gamle folk pleier å si.</xt>
@@ -703,11 +704,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <t pos="pron">det</t>
          </tg>
          <tg>
-                     <re>som nettopp er nevnt</re>
+            <re>som nettopp er nevnt</re>
             <t pos="pron">det</t>
             <xg>
                <x>Sii eai gal leat dien birra jurddašan nu olu.</x>
@@ -724,11 +725,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <tf pos="phrase">til det</tf>
          </tg>
          <tg>
-                     <re>som nettopp er nevnt</re>
+            <re>som nettopp er nevnt</re>
             <tf pos="phrase">til det</tf>
             <xg>
                <x>Eai sii nu beare olu ruđa gal jurddaš diesa geavahit.</x>
@@ -745,11 +746,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <tf pos="phrase">av det</tf>
          </tg>
          <tg>
-                     <re>som nettopp er nevnt</re>
+            <re>som nettopp er nevnt</re>
             <tf pos="phrase">av det</tf>
             <xg>
                <x>Ja dies mun fuobmájin ge ođđa ealáhusa.</x>
@@ -766,11 +767,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <tf pos="phrase">med det</tf>
          </tg>
          <tg>
-                     <re>som nettopp er nevnt</re>
+            <re>som nettopp er nevnt</re>
             <tf pos="phrase">med det</tf>
             <xg>
                <x>Vuosttažettiin danin go dieinna vugiin ii sáhte nuvttá riŋget.</x>
@@ -787,11 +788,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <tf pos="phrase">som det</tf>
          </tg>
          <tg>
-                     <re>som nettopp er nevnt</re>
+            <re>som nettopp er nevnt</re>
             <tf pos="phrase">som det</tf>
          </tg>
       </mg>
@@ -1104,11 +1105,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <t pos="pron">de</t>
          </tg>
          <tg>
-                     <re>som nettopp er nevnt</re>
+            <re>som nettopp er nevnt</re>
             <t pos="pron">de</t>
             <xg>
                <x>Mun muittán bures go ledjen nuorra dieid beakkán 70 jagiin.</x>
@@ -1125,11 +1126,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <tf pos="phrase">til dem</tf>
          </tg>
          <tg>
-                     <re>som nettopp er nevnt</re>
+            <re>som nettopp er nevnt</re>
             <tf pos="phrase">til dem</tf>
             <xg>
                <x>Nu sii manne dieidda báikkiide ja maŋŋel vel ollu eará báikkiide.</x>
@@ -1144,15 +1145,15 @@ For the full license text, see the link above.</lic>
          <lemma_ref lemmaID="diet_pl_pron_dem">diet</lemma_ref>
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
-      <mg>
+        <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <tf pos="phrase">i dem</tf>
-            </tg>
-            </mg>
-            <mg>
-            <tg>
-                        <re>som nettopp er nevnt</re>
+         </tg>
+       </mg>
+       <mg>
+         <tg>
+            <re>som nettopp er nevnt</re>
             <tf pos="phrase">i dem</tf>
             <xg>
                <x>Lea nu guhkes áigi go diekkár lágideapmi lei diein guovlluin.</x>
@@ -1169,13 +1170,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-                     <re>som er nærmere deg</re>
+            <re>som er nærmere deg</re>
             <tf pos="phrase">med dem</tf>
             </tg>
             </mg>
             <mg>
             <tg>
-                        <re>som nettopp er nevnt</re>
+            <re>som nettopp er nevnt</re>
             <tf pos="phrase">med dem</tf>
             <xg>
                <x>Sii geat dieiguin sáddagiiguin barget, eai leat bálkáhuvvon bargit.</x>
