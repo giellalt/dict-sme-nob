@@ -102,7 +102,7 @@ komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
 iežan iehčan
 
- ==> TODO
+ ==> DONE
 
 9. En annen ting, bør det ikke komme fram i ordboka at Der/n og Der/eapmi  gir 'Aktio Sg. Akk'. osv. og ikke bare 'Sg Akk' som i forrige ordbok. 
 
@@ -143,4 +143,6 @@ Example 2:
 <re>som nettopp er nevnt</re>
 	versus
 <tf pos="phrase">de (som nettopp er nevnt)</tf>
+
+ ==> DONE (by Berit Merete)
 
