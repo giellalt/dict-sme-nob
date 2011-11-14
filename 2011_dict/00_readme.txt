@@ -121,7 +121,7 @@ En annen ting man bør se på, er hvorfor ikke verbene ikke får Actio-tag i fle
  
  before:
           attr. visses vissis (ášši)
- ==> TODO
+ ==> DONE
 
 =============================================
 Some observations while testing before compiling:
