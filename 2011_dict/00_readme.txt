@@ -112,7 +112,7 @@ En annen ting man bør se på, er hvorfor ikke verbene ikke får Actio-tag i fle
 
 10. plassering av l_ref: see email
 
- ==> TODO
+ ==> DONE
 
 11. lacking context infos (possibly because of the changed filter for vmax entries)
 
