@@ -108,6 +108,24 @@ iežan iehčan
 
 En annen ting man bør se på, er hvorfor ikke verbene ikke får Actio-tag i flertall (derfor er det i verb-codes Der/n og Der/eapmi isteden), men det gjør vi etter at denne ordboka er generert. Det fungerer slik som det er nå.
 
+Lene:
+det er muligens ikke helt som det burde være i fst
+og verb-codes i forhold til det igjen
+så vi vil ha det slik nå:
+Der/n+N+Sg+Nom -> s. sg. nom 
+Der/eapmi+N+Sg+Nom -> s. sg. nom
+s = subst
+Actio+Ess -> Aktio Ess
+Actio+Ess -> aktio ess.
+med små forbokstaver
+slik som det er ellers
+Der/n+N+Sg+Loc -> s. sg. lok.
+osv
+evt subst. istedenfor s.
+dvs at du legger til subst.
+leneantonsen
+i tillegg til det som var før
+
  ==> TODO
 
 10. plassering av l_ref: see email
