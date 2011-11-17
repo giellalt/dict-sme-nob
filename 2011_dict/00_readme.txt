@@ -115,9 +115,14 @@ så vi vil ha det slik nå:
 Der/n+N+Sg+Nom -> s. sg. nom 
 Der/eapmi+N+Sg+Nom -> s. sg. nom
 s = subst
+
+
 Actio+Ess -> Aktio Ess
 Actio+Ess -> aktio ess.
 med små forbokstaver
+ ==> DONE (and tested)
+
+
 slik som det er ellers
 Der/n+N+Sg+Loc -> s. sg. lok.
 osv
