@@ -126,6 +126,15 @@ dvs at du legger til subst.
 leneantonsen
 i tillegg til det som var før
 
+Mining for tags:
+v_IV_Actio_Ess
+v_TV_Actio_Ess
+
+Der/PassL_V
+Der/PassS_V
+Der/eapmi_N
+Der/n_N
+
  ==> TODO
 
 10. plassering av l_ref: see email
