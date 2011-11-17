@@ -135,10 +135,69 @@ Mining for tags:
 v_IV_Actio_Ess
 v_TV_Actio_Ess
 
+addimin
+verb → addit
+å gi
+Analyse: aktio ess.
+
+addimen
+verb → addit
+å gi
+Analyse: aktio ess.
+
+addime
+verb → addit
+å gi
+Analyse: aktio ess.
+
+ ==> DONE (and tested)
+
+   <e>
+      <lg>
+         <l pos="v_wf_albmadit">albmadeamen</l>
+         <lemma_ref lemmaID="albmadit_mun_v">albmadit</lemma_ref>
+         <analysis>v_TV_Actio_Ess</analysis>
+         <analysis>v_TV_Der/eapmi_N_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase_v">melde til øvrigheten</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v_wf_albmadit">albmadeame</l>
+         <lemma_ref lemmaID="albmadit_mun_v">albmadit</lemma_ref>
+         <analysis>v_TV_Actio_Ess</analysis>
+         <analysis>v_TV_Der/eapmi_N_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase_v">melde til øvrigheten</tf>
+         </tg>
+      </mg>
+   </e>
+
+ ==> TODO
+
+=============
+
 Der/PassL_V
+test:
+addojuvvot
+verb → addit
+å gi
+Analyser: pass. inf., pass. indik. pres. 2p. sg. el. pass. indik. pres. 1p. pl.
+ ==> DONE (and tested)
+=============
+
 Der/PassS_V
 Der/eapmi_N
 Der/n_N
+
+
+=============
 
  ==> TODO
 
