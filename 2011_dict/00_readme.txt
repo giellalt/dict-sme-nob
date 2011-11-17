@@ -115,14 +115,9 @@ så vi vil ha det slik nå:
 Der/n+N+Sg+Nom -> s. sg. nom 
 Der/eapmi+N+Sg+Nom -> s. sg. nom
 s = subst
-
-
 Actio+Ess -> Aktio Ess
 Actio+Ess -> aktio ess.
 med små forbokstaver
- ==> DONE (and tested)
-
-
 slik som det er ellers
 Der/n+N+Sg+Loc -> s. sg. lok.
 osv
@@ -130,10 +125,6 @@ evt subst. istedenfor s.
 dvs at du legger til subst.
 leneantonsen
 i tillegg til det som var før
-
-Mining for tags:
-v_IV_Actio_Ess
-v_TV_Actio_Ess
 
 addimin
 verb → addit
@@ -150,36 +141,12 @@ verb → addit
 å gi
 Analyse: aktio ess.
 
- ==> DONE (and tested)
+albmadeame
+verb → albmadit
+å melde til øvrigheten
+Analyser: aktio ess. el. subst. ess.
 
-   <e>
-      <lg>
-         <l pos="v_wf_albmadit">albmadeamen</l>
-         <lemma_ref lemmaID="albmadit_mun_v">albmadit</lemma_ref>
-         <analysis>v_TV_Actio_Ess</analysis>
-         <analysis>v_TV_Der/eapmi_N_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <tf pos="phrase_v">melde til øvrigheten</tf>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v_wf_albmadit">albmadeame</l>
-         <lemma_ref lemmaID="albmadit_mun_v">albmadit</lemma_ref>
-         <analysis>v_TV_Actio_Ess</analysis>
-         <analysis>v_TV_Der/eapmi_N_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <tf pos="phrase_v">melde til øvrigheten</tf>
-         </tg>
-      </mg>
-   </e>
-
- ==> TODO
+ ==> DONE
 
 =============
 
@@ -199,7 +166,7 @@ Der/n_N
 
 =============
 
- ==> TODO
+ ==> DONE
 
 10. plassering av l_ref: see email
 
