@@ -181,6 +181,14 @@ Der/n_N
           attr. visses vissis (ášši)
  ==> DONE
 
+12. få 'src' synlig til de eksemplene som har det. F.eks. bákteolmmoš
+
+              <x src="S. B. Johansen 2010: Sárá beaivegirji s. 20-21.">Áhčči dadjá ahte ii sáhte goassege diehtit
+              makkárat bákteolbmot leat, dat dáidet eallit váikko agálaččat.</x>
+              <xt src="S. B. Johansen 2010: Saras dagbok s. 18.">Pappa sier at man kan aldri vite med sånne berg-folk,
+              de lever kanskje evig.</xt>
+ ==> TODO
+
 =============================================
 Some observations while testing before compiling:
 
