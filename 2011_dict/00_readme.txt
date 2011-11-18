@@ -189,6 +189,14 @@ Der/n_N
               de lever kanskje evig.</xt>
  ==> TODO
 
+13. re-for eksempler???
+
+adverb_smenob.xml: <xt>God dag! (når man handhilser første gangen)</xt>
+adverb_smenob.xml: <xt>God dag, takk for sist! (når man ikke har sett hverandre på en stund)</xt>
+adverb_smenob.xml: <xt>Ha det bra! (til den som blir igjen)</xt>
+pronRel_smenob.xml: <tf pos="phrase">hvilken av de to (om flertallsord)</tf>
+ ==> TODO
+
 =============================================
 Some observations while testing before compiling:
 
