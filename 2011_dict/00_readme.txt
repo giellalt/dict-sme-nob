@@ -51,7 +51,7 @@ Issues for the smenob dict:
    - write a helping script for Trond (, whose task would be to mark those t-elements
      that should be filtered away for the smenob dict, but still kept in the dictionary
      for an eventual reversion to nobsme)
- ==> TODO
+ ==> TODO for the next release!!!
 
 =============================================
 Comments after the first test:
@@ -187,7 +187,7 @@ Der/n_N
               makkárat bákteolbmot leat, dat dáidet eallit váikko agálaččat.</x>
               <xt src="S. B. Johansen 2010: Saras dagbok s. 18.">Pappa sier at man kan aldri vite med sånne berg-folk,
               de lever kanskje evig.</xt>
- ==> TODO
+ ==> TODO for the next release!!!
 
 13. re-for eksempler???
 
@@ -195,7 +195,11 @@ adverb_smenob.xml: <xt>God dag! (når man handhilser første gangen)</xt>
 adverb_smenob.xml: <xt>God dag, takk for sist! (når man ikke har sett hverandre på en stund)</xt>
 adverb_smenob.xml: <xt>Ha det bra! (til den som blir igjen)</xt>
 pronRel_smenob.xml: <tf pos="phrase">hvilken av de to (om flertallsord)</tf>
- ==> TODO
+
+<xg re="når man ikke har sett hverandre på en stund">
+<x>Bures.
+
+ ==> TODO for the next release!!!
 
 =============================================
 Some observations while testing before compiling:
