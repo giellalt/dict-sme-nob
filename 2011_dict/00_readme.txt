@@ -45,7 +45,7 @@ Issues for the smenob dict:
  ==> DONE
 
 2. prepare the StarDict version of the smenob dict
- ==> TODO
+ ==> DONE
 
 3. filter away synonyms in the mg/tg elements as proposed by Lene (lower priority)
    - write a helping script for Trond (, whose task would be to mark those t-elements
