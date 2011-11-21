@@ -5198,7 +5198,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="no" pos="n">eahpesihkarvuohta</l>
+         <l illpl="no" pos="n" vmax="2">eahpesihkarvuohta</l>
       </lg>
       <mg>
          <tg>
@@ -5449,7 +5449,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">mandáhta</l>
+         <l pos="n" vmax="2">mandáhta</l>
       </lg>
       <mg>
          <tg>
@@ -6064,7 +6064,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">plakáhta</l>
+         <l pos="n" vmax="2">plakáhta</l>
       </lg>
       <mg>
          <tg>
@@ -14277,18 +14277,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">biibal</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" gen="m" pos="n">bibel</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
-         <l pos="n">biibbal</l>
-         <lc>biibbalat</lc>
+         <l pos="n" vmax="2">biibal</l>
       </lg>
       <mg>
          <tg>
@@ -26296,7 +26285,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="n">guovttis</l>
+         <l illpl="no" pos="n" vmax="2">guovttis</l>
          <lc>guoktása</lc>
       </lg>
       <mg>
@@ -67737,7 +67726,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">dahkumagnehta</l>
+         <l illpl="ok" pos="n" vmax="2">dahkumagnehta</l>
       </lg>
       <mg>
          <tg>
@@ -97691,21 +97680,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">kvaliteahtta</l>
+         <l illpl="ok" pos="n" vmax="2">kvaliteahtta</l>
       </lg>
       <mg>
          <tg>
             <t decl="yyy" gen="m" pos="n">kvalitet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="n">kvalitehta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="yyy" gen="xxx" pos="n">kvalitet</t>
          </tg>
       </mg>
    </e>
@@ -104370,21 +104349,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">magneahtta</l>
+         <l illpl="ok" pos="n" vmax="2">magnehta</l>
       </lg>
       <mg>
          <tg>
             <t decl="yyy" gen="m" pos="n">magnet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="n">magnehta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="yyy" gen="xxx" pos="n">magnet</t>
          </tg>
       </mg>
    </e>
@@ -120066,16 +120035,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">plakáhtta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="yyy" gen="m" pos="n">plakat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l illpl="ok" pos="n">planetaria</l>
       </lg>
       <mg>
@@ -120934,7 +120893,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">preassakonferánsa</l>
+         <l illpl="ok" pos="n" vmax="2">preassakonferánsa</l>
       </lg>
       <mg>
          <tg>
