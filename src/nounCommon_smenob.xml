@@ -11168,7 +11168,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="m" pos="n">laptop</t>
+            <t decl="1" gen="m" pos="n">bærbar datamaskin</t>
          </tg>
       </mg>
    </e>
@@ -13122,6 +13122,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" gen="f" pos="n">neverløping</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">gárpa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="n" pos="n">flatbrød</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">mulljosáidi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="f" pos="n">seimølje</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">gárpamullju</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="f" pos="n">flatbrødsmølje</t>
          </tg>
       </mg>
    </e>
@@ -28743,6 +28773,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="2" gen="m" pos="n">uer</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">hávga</l>
+         <lc>hágát</lc>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="2" gen="m" pos="n">uer</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t decl="2" gen="f" pos="n">gjedde</t>
          </tg>
       </mg>
    </e>
@@ -126868,13 +126914,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">rutnot</l>
       </lg>
       <mg>
          <tg>
             <t decl="yyy" gen="m" pos="n">ungtorsk</t>
+            <t decl="yyy" gen="m" pos="n">gjedd</t>
          </tg>
       </mg>
    </e>
@@ -135484,7 +135531,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">stuorrasáidi</l>
       </lg>
@@ -135564,12 +135611,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">stábbasáidi</l>
       </lg>
       <mg>
          <tg>
+            <t decl="m" pos="n">stabbsei</t>
             <tf decl="m" pos="phrase">mellomstor sei</tf>
          </tg>
       </mg>
@@ -153168,13 +153216,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">čuska</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">grønnsporing</t>
+            <t decl="yyy" gen="m" pos="n">grønnsporing</t>
          </tg>
       </mg>
    </e>
