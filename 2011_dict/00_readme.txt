@@ -187,6 +187,7 @@ Der/n_N
               makkárat bákteolbmot leat, dat dáidet eallit váikko agálaččat.</x>
               <xt src="S. B. Johansen 2010: Saras dagbok s. 18.">Pappa sier at man kan aldri vite med sånne berg-folk,
               de lever kanskje evig.</xt>
+              
  ==> TODO for the next release!!!
 
 13. re-for eksempler???
@@ -200,6 +201,21 @@ pronRel_smenob.xml: <tf pos="phrase">hvilken av de to (om flertallsord)</tf>
 <x>Bures.
 
  ==> TODO for the next release!!!
+ 
+14. Adjektiver - manglende informasjon om context, se også punkt 11
+I VD 1.3 mangler alle adjektiver (feks dábálaš) informasjon om context.
+De eneste adjektivene som har info om context er vmax-adjektiver (feks vissis, se punkt 11) 
+
+Eksempel fra VD 1.3:
+	dábálaš
+	attr. dábálaš
+
+Eksempel fra VD 1.2:
+	dábálaš
+	attr. dábálaš (bivttas)
+	
+	 ==> TODO for the next release!!!
+
 
 =============================================
 Some observations while testing before compiling:
