@@ -239,4 +239,8 @@ Example 2:
 <tf pos="phrase">de (som nettopp er nevnt)</tf>
 
  ==> DONE (by Berit Merete)
+=============================================
+Some observations after release VD 1.3:
 
+1. Ordboksprogrammet lukkes når BM prøver å søke i VD 1.3. Å søke i VD 1.2, 1.1 går helt fint.
+Info om maskin: MAC OS X Server, Version 10.5.8, processor: 4x2.5 Ghz PowerPC G5, Memory: 6.5 GB DDR2 SDRAM
