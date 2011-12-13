@@ -127,9 +127,9 @@ For the full license text, see the link above.</lic>
          <tg>
             <re>som nettopp er nevnt</re>
             <t pos="pron">den</t>
-            <xg>
+            <xg re="møtet som det nettopp har vært snakk om">
                <x>Lea lunddolaš ahte diet čoahkkin dollo Álttás.</x>
-               <xt>Det er naturlig at det møtet (som det nettopp har vært snakk om) holdes i Alta.</xt>
+               <xt>Det er naturlig at det møtet holdes i Alta.</xt>
             </xg>
          </tg>
       </mg>
@@ -710,9 +710,9 @@ For the full license text, see the link above.</lic>
          <tg>
             <re>som nettopp er nevnt</re>
             <t pos="pron">det</t>
-            <xg>
+            <xg re="det som vi nettopp snakket om">
                <x>Sii eai gal leat dien birra jurddašan nu olu.</x>
-               <xt>De har nok ikke tenkt så mye på det (som vi nettopp snakket om).</xt>
+               <xt>De har nok ikke tenkt så mye på det.</xt>
             </xg>
          </tg>
       </mg>
@@ -731,9 +731,9 @@ For the full license text, see the link above.</lic>
          <tg>
             <re>som nettopp er nevnt</re>
             <tf pos="phrase">til det</tf>
-            <xg>
+            <xg re="det som vi nettopp nevnte">
                <x>Eai sii nu beare olu ruđa gal jurddaš diesa geavahit.</x>
-               <xt>De tenker ikke på å bruke så mye penger på det (som vi nettopp nevnte).</xt>
+               <xt>De tenker ikke på å bruke så mye penger på det.</xt>
             </xg>
          </tg>
       </mg>
@@ -1111,9 +1111,9 @@ For the full license text, see the link above.</lic>
          <tg>
             <re>som nettopp er nevnt</re>
             <t pos="pron">de</t>
-            <xg>
+            <xg re="de årene som du kjenner til">
                <x>Mun muittán bures go ledjen nuorra dieid beakkán 70 jagiin.</x>
-               <xt>Jeg husker godt da jeg var ung i de berømte 70-årene (som du kjenner til).</xt>
+               <xt>Jeg husker godt da jeg var ung i de berømte 70-årene.</xt>
             </xg>
          </tg>
       </mg>
