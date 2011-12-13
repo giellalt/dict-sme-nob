@@ -696,13 +696,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg>
         <re>til deg</re>
-
         <t pos="adv">ikke</t>
-
-        <xg>
+        <xg re="til en person">
           <x>Ale boađe deike!</x>
-
-          <xt>Ikke kom hit! (til en person)</xt>
+          <xt>Ikke kom hit!</xt>
         </xg>
       </tg>
     </mg>
@@ -744,13 +741,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg>
         <re>til dere to</re>
-
         <t pos="adv">ikke</t>
-
-        <xg>
+        <xg re="til to personer">
           <x>Alli boađe deike!</x>
-
-          <xt>Ikke kom hit! (til to personer)</xt>
+          <xt>Ikke kom hit!</xt>
         </xg>
       </tg>
     </mg>
@@ -816,13 +810,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg>
         <re>til dere</re>
-
         <t pos="adv">ikke</t>
-
-        <xg>
+        <xg re="til flere enn to personer">
           <x>Allet boađe deike!</x>
-
-          <xt>Ikke kom hit! (til flere enn to personer)</xt>
+          <xt>Ikke kom hit!</xt>
         </xg>
       </tg>
     </mg>
