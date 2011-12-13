@@ -192,15 +192,15 @@ Der/n_N
 
 13. re-for eksempler???
 
-adverb_smenob.xml: <xt>God dag! (når man handhilser første gangen)</xt>
-adverb_smenob.xml: <xt>God dag, takk for sist! (når man ikke har sett hverandre på en stund)</xt>
 adverb_smenob.xml: <xt>Ha det bra! (til den som blir igjen)</xt>
 pronRel_smenob.xml: <tf pos="phrase">hvilken av de to (om flertallsord)</tf>
 
-<xg re="når man ikke har sett hverandre på en stund">
-<x>Bures.
+<xg re="til den som blir igjen">
+    <x>Báze dearvan!</x>
+    <xt>Ha det bra!</xt>
+</xg>
 
- ==> TODO for the next release!!!
+ ==> DONE for parentes i oversettelser!!!
  
 14. Adjektiver - manglende informasjon om context, se også punkt 11
 I VD 1.3 mangler alle adjektiver (feks dábálaš) informasjon om context.
