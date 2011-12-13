@@ -5685,9 +5685,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="phrase_v">bli igjen</t>
-            <xg>
+            <xg re="til den som blir igjen">
                <x>Báze dearvan!</x>
-               <xt>Ha det bra! (til den som blir igjen)</xt>
+               <xt>Ha det bra!</xt>
             </xg>
          </tg>
       </mg>
@@ -8331,7 +8331,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase_v">gå fort (om tid)</t>
+            <re>om tid</re>
+            <t pos="phrase_v">gå fort</t>
          </tg>
       </mg>
    </e>
@@ -9745,7 +9746,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase_v">kanskje (sannsynligvis)</t>
+            <t pos="phrase_adv">kanskje</t>
+            <t pos="phrase_adv">sannsynligvis</t>
             <xg>
                <x>Eadni ii dáidde jienastit Bargiidbellodaga dán jagi válggas.</x>
                <xt>Mor stemmer kanskje ikke på Arbeiderpartiet ved årets valg.</xt>
@@ -22171,9 +22173,9 @@ For the full license text, see the link above.</lic>
                <x>Mana ruoktot!</x>
                <xt>Gå hjem!</xt>
             </xg>
-            <xg>
+            <xg re="til den som drar">
                <x>Mana dearvan!</x>
-               <xt>Ha det bra! (til den som drar)</xt>
+               <xt>Ha det bra!</xt>
             </xg>
          </tg>
       </mg>
