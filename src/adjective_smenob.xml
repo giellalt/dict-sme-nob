@@ -30,6 +30,91 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l context="biktasat" pos="a">ivdnásaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="4" pos="a">farget</t>
+            <xg>
+               <x>ruksesruškes ivdnásaš </x>
+               <xt>rødbrunfarget</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="plána" pos="a">seammasullasaš</l>
+         <lsub>seammásullásaš</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="3" pos="a">lignende</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="njoammil" pos="a">ruškesránis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">brungrå</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="guovža" pos="a">čáhppesruškat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">mørkebrun</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="lasttat" pos="a">fiskesruškat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">gulbrun</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="vuovttat" pos="a">ruksesruškat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">rødbrun</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="a">hállái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">pratsom</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="a">veahkkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">hjelpsom</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l context="bealdu" pos="a">gilvvakeahtes</l>
       </lg>
       <mg>
@@ -6262,7 +6347,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="lásttat" pos="a">ruškat</l>
+         <l context="lasttat" pos="a">ruškat</l>
          <lc>ruškadat, ruškes (lasttat)</lc>
       </lg>
       <mg>
