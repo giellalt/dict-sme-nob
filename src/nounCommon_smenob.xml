@@ -30,6 +30,26 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">láža</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sønns eller datters svigerfar eller svigermor</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">brors eller søsters svigerfar eller svigermor</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">svigersønns eller svigerdatters bror eller søster</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">mannjesássa</l>
          <l_ref>mannji_n</l_ref>
       </lg>
@@ -345,16 +365,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">pynteband</t>
-         </tg>
-      </mg>
-   </e>  
-   <e usage="vd">
-      <lg>
-         <l pos="n">mielvázzi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">medfølger</t>
          </tg>
       </mg>
    </e>  
