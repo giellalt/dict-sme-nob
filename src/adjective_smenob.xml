@@ -30,6 +30,37 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l context="sihkkel" pos="a">máŋggabealat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="2" pos="a">allsidig</t>
+            <t decl="2" pos="a">mangesidig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="sihkkel" pos="a">njealjejuvllat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="3" pos="a">firehjuls</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="váikkuhus" pos="a">máilmmiviidosaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" pos="a">global</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l context="mátki" pos="a">guhkibuš</l>
          <lsub>guhkebuš</lsub>
       </lg>
@@ -1200,13 +1231,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="ášši" pos="a">boahtteáigásaš</l>
       </lg>
       <mg>
          <tg>
             <t decl="4" pos="a">fremtidsrettet</t>
+            <t decl="2" pos="a">fremtidig</t>
          </tg>
       </mg>
    </e>
@@ -1828,7 +1860,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">doaresfágalaš</l>
       </lg>
@@ -3933,13 +3965,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">iešráđálaš</l>
       </lg>
       <mg>
          <tg>
             <t decl="2" pos="a">egenmektig</t>
+            <t decl="2" pos="a">selvstendig</t>
          </tg>
       </mg>
    </e>
@@ -4987,13 +5020,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">molssaevttolaš</l>
       </lg>
       <mg>
          <tg>
-            <t decl="1" pos="a">fakultativ</t>
+            <t decl="1" pos="a">alternativ</t>
          </tg>
       </mg>
    </e>
@@ -5595,7 +5628,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="olmmoš" pos="a">oktageardán</l>
       </lg>
