@@ -13507,6 +13507,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l pos="n">suollemassátni</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="n" pos="n">passord</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">beassejeagil</l>
       </lg>
       <mg>
@@ -63538,7 +63548,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">bossučolga</l>
       </lg>
@@ -68158,13 +68168,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">dahkkivuoigatvuohta</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">opphavsrett</t>
+            <t decl="yyy" gen="m" pos="n">opphavsrett</t>
          </tg>
       </mg>
    </e>
@@ -68293,7 +68303,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">davvebiegga</l>
       </lg>
@@ -68333,7 +68343,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">davviguovlopolitihkka</l>
       </lg>
@@ -68604,7 +68614,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">dearvvašvuođadivššár</l>
       </lg>
@@ -69255,7 +69265,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">diehtobearráigeahčču</l>
       </lg>
@@ -69275,13 +69285,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">diehtogáldu</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">kunnskapsbase</t>
+            <t decl="yyy" gen="m" pos="n">informasjonskilde</t>
+            <t decl="yyy" gen="m" pos="n">datakilde</t>
          </tg>
       </mg>
    </e>
@@ -69295,13 +69306,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">diehtojuohkinkampánja</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">nyhetsformidlingskampanje</t>
+            <t decl="yyy" gen="m" pos="n">informasjonskampanje</t>
          </tg>
       </mg>
    </e>
@@ -69335,7 +69346,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">diehtojuohkinteknologiija</l>
       </lg>
@@ -69356,13 +69367,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">diehtojuohkinčoahkkin</l>
       </lg>
       <mg>
          <tg>
-            <t decl="2" gen="n" pos="n">orienteringsmøte</t>
+            <t decl="2" gen="n" pos="n">informasjonsmøte</t>
          </tg>
       </mg>
    </e>
@@ -69446,7 +69457,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">dielkoduvvá</l>
       </lg>
@@ -69566,7 +69577,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">dieđihandivat</l>
       </lg>
@@ -69616,7 +69627,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">dieđihanskovvi</l>
       </lg>
@@ -69636,7 +69647,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">dieđihanáigemearri</l>
       </lg>
@@ -69796,15 +69807,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">diggeriekti</l>
       </lg>
-      <mg>
-         <tg>
-            <t decl="1" gen="n" pos="n">tinglag</t>
-         </tg>
-      </mg>
       <mg>
          <tg>
             <t decl="yyy" gen="n" pos="n">tingrett</t>
@@ -70046,7 +70052,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">diktatuvra</l>
       </lg>
@@ -70111,7 +70117,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">dikšunruoktu</l>
       </lg>
@@ -70267,7 +70273,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">tekstilforming</t>
+            <t pos="phrase_n">håndarbeid med myke materialer</t>
          </tg>
       </mg>
    </e>
@@ -70750,7 +70756,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">doaibmaboađus</l>
       </lg>
@@ -70760,13 +70766,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">doaibmabušeahtta</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">hovedbudsjett</t>
+            <t decl="yyy" gen="m" pos="n">driftsbudsjett</t>
          </tg>
       </mg>
    </e>
@@ -70780,7 +70786,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">doaibmadoarjja</l>
       </lg>
@@ -70840,13 +70846,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">doaibmagollu</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">driftskostnad</t>
+            <t decl="yyy" gen="m" pos="n">driftsutgift</t>
          </tg>
       </mg>
    </e>
