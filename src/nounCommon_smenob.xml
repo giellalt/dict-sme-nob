@@ -135766,16 +135766,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">stuoradiggeválga</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" gen="n" pos="n">stortingsvalg</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l illpl="ok" pos="n">stuorideapmi</l>
       </lg>
       <mg>
@@ -135784,7 +135774,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">stuorradiggeválga</l>
          <lsub>stuoradiggeválga</lsub>
@@ -141037,13 +141027,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ulbmiljoavku</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">målgruppe</t>
+            <t decl="yyy" gen="f" pos="n">målgruppe</t>
          </tg>
       </mg>
    </e>
