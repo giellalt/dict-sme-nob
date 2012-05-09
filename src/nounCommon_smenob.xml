@@ -44543,6 +44543,11 @@ For the full license text, see the link above.</lic>
             <t decl="1" gen="f" pos="n">linje</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t decl="1" gen="n" pos="n">felt</t>
+         </tg>
+      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -118629,13 +118634,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ovddasvástádussuorgi</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">ansvarsfelt</t>
+            <t decl="yyy" gen="n" pos="n">ansvarsfelt</t>
          </tg>
       </mg>
    </e>
@@ -118649,7 +118654,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ovddidandoarjja</l>
       </lg>
@@ -118669,7 +118674,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ovddidanprošeakta</l>
       </lg>
@@ -118894,17 +118899,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ovttaolbmofitnodat</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">eneierforetak</t>
+            <t decl="yyy" gen="n" pos="n">eneierforetak</t>
+            <t decl="yyy" gen="n" pos="n">enkeltmannsforetak</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ovttaolbmolatnja</l>
       </lg>
@@ -123628,7 +123634,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">regulerenplána</l>
       </lg>
@@ -123752,13 +123758,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">rehketdoallu</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">regnskap</t>
+            <t decl="yyy" gen="n" pos="n">regnskap</t>
          </tg>
       </mg>
    </e>
@@ -124480,7 +124486,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riektecealkámuš</l>
       </lg>
@@ -124514,7 +124520,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riektedilli</l>
       </lg>
@@ -124575,7 +124581,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riektegeavahus</l>
       </lg>
@@ -124585,7 +124591,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riektegeavat</l>
       </lg>
@@ -124625,7 +124631,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riektegáldu</l>
       </lg>
@@ -124645,17 +124651,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riektejoavku</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">rettsgruppe</t>
+            <t decl="yyy" gen="f" pos="n">rettsgruppe</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riektelatnja</l>
       </lg>
@@ -124766,7 +124772,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">riektesihkarvuohta</l>
       </lg>
@@ -125334,9 +125340,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riikkageaidnu</l>
+         <lsub>riikageaidnu</lsub>
       </lg>
       <mg>
          <tg>
@@ -125344,9 +125351,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riikkapolitihkka</l>
+         <lsub>riikapolitihkka</lsub>
       </lg>
       <mg>
          <tg>
@@ -125354,9 +125362,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">riikkarevišuvdna</l>
+         <lsub>riikarevišuvdna</lsub>
       </lg>
       <mg>
          <tg>
