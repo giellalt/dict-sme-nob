@@ -39547,7 +39547,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="f" pos="n">parringstid</t>
+            <t decl="1" gen="f" pos="n">brunst</t>
          </tg>
       </mg>
    </e>
@@ -80218,21 +80218,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">fávrrosorda</l>
-      </lg>
-      <mg>
-         <tg>
-            <tf decl="m" pos="phrase">fin tregrense</tf>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <tf decl="m" pos="phrase">fin skogsgrense</tf>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l illpl="ok" pos="n">føderalisma</l>
       </lg>
       <mg>
@@ -118080,13 +118065,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ovdagiehta</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">eksempel</t>
+            <re>om horn</re>
+            <t decl="yyy" gen="m" pos="n">framgrein</t>
          </tg>
       </mg>
    </e>
@@ -118941,7 +118927,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ovttasbargovuohki</l>
       </lg>
@@ -122591,13 +122577,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ragatáigi</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">parringstid</t>
+            <t decl="yyy" gen="m" pos="n">brunst</t>
          </tg>
       </mg>
    </e>
@@ -133511,13 +133497,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">soahteveahka</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">streifkorps</t>
+            <t decl="yyy" gen="m" pos="n">hærstyrke</t>
          </tg>
       </mg>
    </e>
