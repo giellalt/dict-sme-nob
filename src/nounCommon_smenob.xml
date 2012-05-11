@@ -7699,6 +7699,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l pos="n">luohttámušalmmái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="m" pos="n">tillitsmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l illpl="no" pos="n">juhkanvuohta</l>
       </lg>
       <mg>
@@ -11814,7 +11824,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="m" pos="n">reinsamegutt</t>
+            <t decl="1" gen="m" pos="n">reindriftsgutt</t>
          </tg>
       </mg>
    </e>
@@ -11874,8 +11884,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="m" pos="n">fjellsame</t>
-            <t decl="1" gen="m" pos="n">flyttsame</t>
+            <t decl="1" gen="m" pos="n">reindriftssame</t>
          </tg>
       </mg>
    </e>
@@ -15741,6 +15750,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf gen="f" pos="phrase_n">ugift kvinne</tf>
+            <t decl="1" gen="f" pos="n">peppermø</t>
          </tg>
       </mg>
    </e>
@@ -20304,7 +20314,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="n" pos="n">urfolk</t>
+            <t decl="1" gen="m" pos="n">urbefolkning</t>
          </tg>
       </mg>
    </e>
@@ -34002,6 +34012,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">davvisápmelaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="m" pos="n">nordsame</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l pos="n">lumma</l>
@@ -36974,7 +36994,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf gen="f" pos="phrase_n">liten jente</tf>
+            <tf gen="f" pos="phrase_n">lita jente</tf>
          </tg>
       </mg>
    </e>
@@ -37857,12 +37877,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf gen="m" pos="phrase_n">person som er østfra</tf>
+            <t decl="1" gen="m" pos="n">østsame</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t decl="1" gen="m" pos="n">østsame</t>
+            <tf gen="m" pos="phrase_n">person som er østfra</tf>
          </tg>
       </mg>
    </e>
@@ -39120,9 +39140,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="m" pos="n">forkvinne</t>
-            <t decl="1" gen="m" pos="n">formann</t>
             <t decl="2" gen="m" pos="n">leder</t>
+            <t decl="1" gen="m" pos="n">formann</t>
+            <t decl="1" gen="m" pos="n">forkvinne</t>
          </tg>
       </mg>
    </e>
@@ -41541,6 +41561,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">ráđđeaddi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="m" pos="n">rådgiver</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l pos="n">ráđđehus</l>
@@ -42493,6 +42523,11 @@ For the full license text, see the link above.</lic>
          <lc>skealmmat</lc>
          <lc>skelbmii</lc>
       </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="m" pos="n">skøyer</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t decl="1" gen="m" pos="n">kjeltring</t>
@@ -44391,7 +44426,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="m" pos="n">tjuv</t>
+            <t decl="1" gen="m" pos="n">tyv</t>
          </tg>
       </mg>
    </e>
@@ -48097,6 +48132,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" gen="m" pos="n">bestefar</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <tf gen="m" pos="phrase_n">gammel mann</tf>
          </tg>
       </mg>
@@ -54535,6 +54574,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" gen="m" pos="n">skolekamerat</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">duhkoraddanskibir</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="m" pos="n">lekekamerat</t>
          </tg>
       </mg>
    </e>
@@ -128921,6 +128970,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">sadjásaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="yyy" gen="m" pos="n">vikar</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l illpl="ok" pos="n">sadomasochisma</l>
@@ -158519,6 +158578,17 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">badjealmmái</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>om menn</re>
+            <t pos="n">reindriftssame</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">boazoalmmái</l>
       </lg>
       <mg>
          <tg>
