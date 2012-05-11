@@ -2918,22 +2918,11 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="no" pos="n">skuvlaáigi</l>
-         <lsub
-         cips-comment="__why is the following entry not as lsub to this entry, as I put it now?___">asttahat</lsub>
+         <lsub>skuvllaáigi</lsub>
       </lg>
       <mg>
          <tg>
             <t decl="1" gen="f" pos="n">skoletid</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">skuvllaáigi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">skoletid</t>
          </tg>
       </mg>
    </e>
@@ -72649,7 +72638,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">duohtasáhka</l>
       </lg>
@@ -86824,13 +86813,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">guovlopolitihkka</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">distriktspolitikk</t>
+            <t decl="yyy" gen="m" pos="n">distriktspolitikk</t>
          </tg>
       </mg>
    </e>
@@ -86984,13 +86973,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">guođohanáigi</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="xxx" pos="n">beitetid</t>
+            <t decl="yyy" gen="m" pos="n">beitetid</t>
          </tg>
       </mg>
    </e>
@@ -88429,13 +88418,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">gávpejas</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">pomor</t>
+            <t decl="yyy" gen="m" pos="n">handelsmann</t>
          </tg>
       </mg>
    </e>
@@ -107336,7 +107325,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">mielleravda</l>
       </lg>
@@ -115021,13 +115010,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">oamastanriekti</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">hevdsrett</t>
+            <t decl="yyy" gen="m" pos="n">eiendomsrett</t>
          </tg>
       </mg>
    </e>
@@ -118436,12 +118425,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ovdastávdni</l>
       </lg>
       <mg>
          <tg>
+            <re>på båt</re>
             <t decl="yyy" gen="m" pos="n">forstavn</t>
          </tg>
       </mg>
@@ -123440,7 +123430,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">regionálapolitihkka</l>
       </lg>
@@ -125146,7 +125136,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">rihkuspolitiija</l>
       </lg>
@@ -137957,18 +137947,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">ságastallanáigi</l>
       </lg>
       <mg>
          <tg>
-            <t decl="yyy" gen="m" pos="n">konferansetime</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t decl="yyy" gen="m" pos="n">taletid</t>
+            <t pos="n">samtaletid</t>
          </tg>
       </mg>
    </e>
@@ -141202,13 +141187,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">unnimusmearri</l>
       </lg>
       <mg>
          <tg>
             <t decl="yyy" gen="xxx" pos="n">minimum</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t decl="yyy" gen="xxx" pos="n">minstestandard</t>
          </tg>
       </mg>
    </e>
