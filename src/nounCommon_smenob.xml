@@ -12529,6 +12529,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t decl="1" gen="n" pos="n">utvalg</t>
             <t decl="1" gen="f" pos="n">arbeidsgruppe</t>
          </tg>
       </mg>
@@ -17215,7 +17216,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="m" pos="n">barre</t>
+            <t decl="1" gen="n" pos="n">par</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">nuorrabárra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">ungt kjærestepar</t>
          </tg>
       </mg>
    </e>
@@ -19180,7 +19191,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="2" gen="m" pos="n">håndverker</t>
+            <t decl="2" gen="m" pos="n">duodjiutøver</t>
          </tg>
       </mg>
    </e>
@@ -34039,7 +34050,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="1" gen="m" pos="n">guttunge</t>
+            <t decl="1" gen="m" pos="n">gutt</t>
          </tg>
       </mg>
    </e>
@@ -34791,6 +34802,9 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="1" gen="m" pos="n">komité</t>
             <t decl="1" gen="n" pos="n">utvalg</t>
+         </tg>
+         <tg>
+            <t decl="1" gen="f" pos="n">nemnd</t>
          </tg>
       </mg>
    </e>
@@ -36478,6 +36492,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" gen="m" pos="n">barnepike</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">beavdebiigá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="f" pos="n">servitrise</t>
          </tg>
       </mg>
    </e>
@@ -68149,7 +68173,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">cára</l>
       </lg>
@@ -70888,7 +70912,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t decl="1" gen="m" pos="n">kommisjon</t>
             <t decl="1" gen="n" pos="n">arbeidsutvalg</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">komitea</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" gen="m" pos="n">komité</t>
          </tg>
       </mg>
    </e>
@@ -157915,6 +157950,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">enaresamisk språk</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">anáraš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">enaresame</t>
          </tg>
       </mg>
    </e>
