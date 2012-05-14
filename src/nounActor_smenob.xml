@@ -531,27 +531,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="ok" pos="actor">eatnandoalli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="2" gen="m" pos="n">jordbruker</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="actor">eanandoalli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="irr" gen="m" pos="n">bumann</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l illpl="ok" pos="actor">eanadoalli</l>
+         <l illpl="ok" pos="actor" vmax="3">eanadoalli</l>
       </lg>
       <mg>
          <tg>
