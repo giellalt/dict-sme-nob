@@ -80,7 +80,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">poastamáhppa</l>
+         <l pos="n" vmax="2">poastamáhppa</l>
+         <lsub>poastamáppa</lsub>
+         <lsub>boastamáppa</lsub>
       </lg>
       <mg>
          <tg>
@@ -45693,6 +45695,8 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">tiibma</l>
+         <lsub>tii</lsub>
+         <lsub>tii.</lsub>
       </lg>
       <mg>
          <tg>
@@ -47517,6 +47521,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">vuossárga</l>
          <lsub>vuossarga</lsub>
+         <lsub>vuoss</lsub>
          <lc>-árgga</lc>
       </lg>
       <mg>
@@ -101203,6 +101208,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="ok" pos="n">generálageahččaleapmi</l>
+         <lsub>generalgeahččaleapmi</lsub>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="yyy" gen="m" pos="n">generalprøve</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l illpl="ok" pos="n">loahppaguite</l>
@@ -132877,6 +132893,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">skuvlafriddjaortnet</l>
+         <lsub>sfo</lsub>
       </lg>
       <mg>
          <tg>
@@ -143431,7 +143448,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">viehkanskuovva</l>
       </lg>
