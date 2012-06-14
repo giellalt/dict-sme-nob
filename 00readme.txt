@@ -244,5 +244,12 @@ Test versions:
 A test version of the latest source files is downloadable at
 http://divvun.no/static_files/test-20110828-smenob-mac-dictionary.tgz
 
+TODO: feedback fra Sjur
+
+bargama
+verb → bargat
+1. å arbeide; å gjøre
+Analyser: subst. sg. gen. el. subst. sg. akk.
+
 
 
