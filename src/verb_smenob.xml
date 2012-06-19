@@ -504,7 +504,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="sii" pos="v">savkkástallat</l>
+         <l context="mun" pos="v">savkkástallat</l>
       </lg>
       <mg>
          <tg>
@@ -683,7 +683,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="sii" pos="v">káfestallat</l>
+         <l context="mun" pos="v">káfestallat</l>
       </lg>
       <mg>
          <tg>
@@ -40108,8 +40108,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="sii" pos="v">lonohallat</l>
+         <l context="mun" pos="v">lonohallat</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="v">skifte</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="phrase_v">bytte med hverandre</t>
