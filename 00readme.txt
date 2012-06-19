@@ -280,6 +280,12 @@ for num_smenob mangler kontekst i siste utgave: kontekst skal knyttes til pl.nom
 okta
  pl. nom. ovttat (gápmagat)
  
+- Verb med context="dat"
+I Nøkkelformene til verb med context=dat må det legges inn (odne dat) i indik. Pres 3p. Pl., slik at det blir slikt:
+
+ruohttat
+indik. pres. 3p. pl.	(odne dat) ruhtte
+ 
 
 
 
