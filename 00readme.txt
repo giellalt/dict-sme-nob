@@ -244,12 +244,25 @@ Test versions:
 A test version of the latest source files is downloadable at
 http://divvun.no/static_files/test-20110828-smenob-mac-dictionary.tgz
 
-TODO: feedback fra Sjur
+TODO (14.06.2012): 
+
+1. feedback fra Sjur: pos inconsistencies (verb vs. subst.)
 
 bargama
 verb → bargat
 1. å arbeide; å gjøre
 Analyser: subst. sg. gen. el. subst. sg. akk.
+
+2. reminder from BM: manglende kontekst for adj attr former
+
+fiinnis
+ attr. fiinna (bivttas)
+
+ - to check for other pos (BM)
+ - to check whether vmax-forms get the context right (BM)
+
+
+
 
 
 
