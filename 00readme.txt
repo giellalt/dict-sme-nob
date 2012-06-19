@@ -254,13 +254,30 @@ verb → bargat
 Analyser: subst. sg. gen. el. subst. sg. akk.
 
 2. reminder from BM: manglende kontekst for adj attr former
+slik er det i dag:
+
+fiinnis
+ attr. fiinna
+ 
+slik skal det være når konteksten er med: 
 
 fiinnis
  attr. fiinna (bivttas)
 
- - to check for other pos (BM)
- - to check whether vmax-forms get the context right (BM)
+ - to check whether vmax-forms get the context right (BM):
+Adjektiver med vmax får kontekst for attributt-formen på riktig måte i dagens versjon, feks:
 
+erenoamáš
+ attr. erenoamáš (dáhpáhus)
+ 
+vissis
+ attr. vissis (ášši)
+ 
+ 
+ - to check for other pos (BM)
+for verb_smenob er kontekst kommet med i siste utgave av VD
+for num_smenob
+for verbNeg_smenob
 
 
 
