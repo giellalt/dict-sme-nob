@@ -276,8 +276,10 @@ vissis
  
  - to check for other pos (BM)
 for verb_smenob er kontekst kommet med i siste utgave av VD
-for num_smenob
-for verbNeg_smenob
+for num_smenob mangler kontekst i siste utgave: kontekst skal knyttes til pl.nom slik at det blir:
+okta
+ pl. nom. ovttat (gápmagat)
+ 
 
 
 
