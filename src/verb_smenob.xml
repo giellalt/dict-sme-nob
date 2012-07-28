@@ -30,6 +30,62 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l context="dat" pos="v">rádnát</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="v">se grå ut</t>
+              <xg>
+               <x>Njárggas rádnái unna lavdnjegáhtot stohpu.</x>
+               <xt>På nesset var det et lite grått hus med torvtak.</xt>
+            </xg>
+       </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="dat" pos="v">ruoksát</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="v">se rød ut</t>
+              <xg>
+               <x>Árranis hillabihtát ruoksájedje.</x>
+               <xt>På ildstedet var det røde glør.</xt>
+            </xg>
+       </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="dat" pos="v">vielgát</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="v">se hvit ut</t>
+              <xg>
+               <x>Ja doppe badjin duoddarat vielgájit.</x>
+               <xt>Og der oppe er det hvite vidder.</xt>
+            </xg>
+       </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="dat" pos="v"> </l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="v"> </t>
+              <xg>
+               <x> </x>
+               <xt> </xt>
+            </xg>
+       </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l context="mun" pos="v">oahpistit</l>
       </lg>
       <mg>
@@ -21723,10 +21779,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l context="mun" pos="v">luvdet</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="phrase_v">koste med sopelime</t>
+              <xg>
+               <x>Váldde luvddá ja luvde láhtti!</x>
+               <xt>Ta sopelimen og kost golvet!</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">sette flåer</t>
