@@ -199,3 +199,18 @@ Info om maskin: MAC OS X Server, Version 10.5.8, processor: 4x2.5 Ghz PowerPC G5
   recompile both smanob 1.2 and smenob 1.3 with old Mac-tools: the new dict-compiling tools are buggy!!!
  ==> TODO
 
+==============
+Notes on the way of generation:
+1. src>grep 'eanadoalli' *
+noun-sme-lex.txt:eanadoalli+v1+CmpN/SgN+CmpN/SgG+CmpN/PlG+Hum:eana#doalli¤ ACTOR ;
+
+eanadoalli is marked as vmax but it gets only one form.
+
+  <l illpl="ok" pos="actor" vmax="3">eanadoalli</l>
+  <tg xml:lang="nob">
+     <t decl="2" gen="m" pos="n">jordbruker</t>
+  </tg>
+
+Vmax is a kind of checksum for me that the generation went ok, that means
+with eanadoalli this is not the case.
+
