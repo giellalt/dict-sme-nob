@@ -215,6 +215,8 @@ eanadoalli is marked as vmax but it gets only one form.
 Vmax is a kind of checksum for me that the generation went ok, that means
 with eanadoalli this is not the case.
 
+==> Feilen var i noun-sme-lex, har endret lemmaet til eanadoalli også for v2 og v3. Eanadoalli skal være vmax=3.
+
 2. real doubling or just a pseudo-twin here?
 
    <file name="other_stat_smenob.xml">
@@ -226,7 +228,7 @@ with eanadoalli this is not the case.
       </entries>
    </file>
 
-  ==> to check
+  ==> Sjekket! Fjernet en dobbel entry. Vuollai er nå representert to ganger i fila, en gang som po og en gang som pr.
 
 3. debugging paradigm generation:
 testing>wc -l cips_dictwords.txt 
@@ -247,3 +249,4 @@ nounCommon_smenob.xml:         <l pos="n">mánáid-TV</l>
 
 in lexfiles only one!
 
+  ==> Fikset! Jeg mánáid-tv er merket vmax="2". Fikset i acro-sme-lex, mánáid-tv er v1 og lemmaet, mens mánáid-TV er v2.
