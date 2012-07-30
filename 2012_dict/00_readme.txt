@@ -201,6 +201,7 @@ Info om maskin: MAC OS X Server, Version 10.5.8, processor: 4x2.5 Ghz PowerPC G5
 
 ==============
 Notes on the way of generation:
+
 1. src>grep 'eanadoalli' *
 noun-sme-lex.txt:eanadoalli+v1+CmpN/SgN+CmpN/SgG+CmpN/PlG+Hum:eana#doalli¤ ACTOR ;
 
@@ -213,4 +214,25 @@ eanadoalli is marked as vmax but it gets only one form.
 
 Vmax is a kind of checksum for me that the generation went ok, that means
 with eanadoalli this is not the case.
+
+2. real doubling or just a pseudo-twin here?
+
+   <file name="other_stat_smenob.xml">
+      <entries>
+         <counter total="221"/>
+         <twins>
+            <lemma>vuollai</lemma>
+         </twins>
+      </entries>
+   </file>
+
+  ==> to check
+
+3. debugging paradigm generation:
+testing>wc -l cips_dictwords.txt 
+    9635 cips_dictwords.txt
+testing>ls Gen_tmp/Para_tmp/ | wc -l
+    9634
+
+ ==> [mánáid-tv     n] got not paradim file. Why?
 
