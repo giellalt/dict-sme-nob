@@ -249,4 +249,4 @@ nounCommon_smenob.xml:         <l pos="n">mánáid-TV</l>
 
 in lexfiles only one!
 
-  ==> Fikset! Jeg mánáid-tv er merket vmax="2". Fikset i acro-sme-lex, mánáid-tv er v1 og lemmaet, mens mánáid-TV er v2.
+  ==> Fikset!  Jeg har merket mánáid-tv med vmax="2". Fikset i acro-sme-lex, mánáid-tv er v1 og lemmaet, mens mánáid-TV er v2.
