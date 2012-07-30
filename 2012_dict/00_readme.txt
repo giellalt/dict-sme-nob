@@ -236,7 +236,14 @@ testing>ls Gen_tmp/Para_tmp/ | wc -l
 
  ==> [mánáid-tv     n] got not paradim file. Why?
 
- Aha: der for 
+ Aha, derfor 
 
 mánáid-TV+N+Sg+Nom
 mánáid-TV
+
+ Also: in dict source there are both
+nounCommon_smenob.xml:         <l pos="n">mánáid-tv</l>
+nounCommon_smenob.xml:         <l pos="n">mánáid-TV</l>
+
+in lexfiles only one!
+
