@@ -236,3 +236,7 @@ testing>ls Gen_tmp/Para_tmp/ | wc -l
 
  ==> [mánáid-tv     n] got not paradim file. Why?
 
+ Aha: der for 
+
+mánáid-TV+N+Sg+Nom
+mánáid-TV
