@@ -250,3 +250,19 @@ nounCommon_smenob.xml:         <l pos="n">mánáid-TV</l>
 in lexfiles only one!
 
   ==> Fikset!  Jeg har merket mánáid-tv med vmax="2". Fikset i acro-sme-lex, mánáid-tv er v1 og lemmaet, mens mánáid-TV er v2.
+
+4. further debugging paradigm generation:
+   I've already corrected a couple of vmax errors but I am discovering
+   even more thank to the vmax flag.
+
+    <l illpl="no" pos="n" vmax="2">eahpesihkarvuohta</l>
+vs.
+    <l illpl="no" pos="n">sihkarvuohta</l>
+    <l illpl="no" pos="n">johtolatsihkarvuohta</l>
+    <l pos="n">riektesihkarvuohta</l>
+
+Why? The even weirder issue is that the lemmata without vmax DO get a paradigm generated, but then this means that the modelling in the FST is not correct.
+Please check.
+
+
+
