@@ -264,5 +264,5 @@ vs.
 Why? The even weirder issue is that the lemmata without vmax DO get a paradigm generated, but then this means that the modelling in the FST is not correct.
 Please check.
  ==> once again, this was ment to make the entries consistent, not to insert errors in the dict files (see "Please check" right above this line)
-
+==> Fikset! Har lagt til v-merking av -sihk(k)arvuo- både i fst og dict.
 
