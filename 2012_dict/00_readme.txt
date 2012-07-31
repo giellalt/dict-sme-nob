@@ -266,3 +266,18 @@ Please check.
  ==> once again, this was ment to make the entries consistent, not to insert errors in the dict files (see "Please check" right above this line)
 ==> Fikset! Har lagt til v-merking av -sihk(k)arvuo- både i fst og dict.
 
+5. Som BM ba meg har jeg sjekket om alle entrier er i usmeNorm og her er 
+resultatene. Hvis det var noe feil i det vær så snile å peke på det.
+Jeg gjorde slik:
+
+ a. tok bare entrier fra filer som er ikke statisk, also som skal genereres og i tilleg adverb-fila
+
+ b. brukte derfra bare verdier av <l>- og <lsub>-elementen
+
+ c. sendte til usme og usmeNorm
+
+  cat dyno_test.txt | usme | grep '?' > 2012_dict/non-rec_usme.txt 
+  cat dyno_test.txt | usmeNorm | grep '?' > 2012_dict/non-rec_usmeNorm.txt 
+
+Resulatatene er i non-rec_usme.txt og non-rec_usmeNorm.txt. 
+
