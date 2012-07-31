@@ -30,6 +30,87 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="po">hárrái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="p">vedrørende</t>
+            <t pos="p">angående</t>
+            <xg>
+               <x>dan hárrái</x>
+               <xt>vedrørende det</xt>
+            </xg>
+            <xg>
+               <x>Min bellodagas lea čielga politihkalaš oaidnu sámi rivttiid hárrái.</x>
+               <xt>Vårt parti har et klart politisk syn vedrørende samiske rettigheter.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="po">ektui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="p">i forhold til</t>
+            <xg>
+               <x>dan ektui</x>
+               <xt>i forhold til det</xt>
+            </xg>
+            <xg>
+               <x>Vuosttaš logi minuhta lei buorre áigodat Nordlysa ektui.</x>
+               <xt>De første ti minuttene var en god periode sett fra Nordlys sitt synspunkt.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">sammenlignet med</tf>
+            <xg>
+               <x>Dat golut leat govttolaččat veahki ektui.</x>
+               <xt>Kostnadene er gunstige sammenlignet med nytten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="po">olis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="phrase">i henhold til</t>
+            <t pos="phrase">i samsvar med</t>
+            <xg>
+               <x>dan olis</x>
+               <xt>i henhold til det</xt>
+            </xg>
+            <xg>
+               <x>Boazologu mearrádusat mat leat dahkkon 1978-lága olis, gustojit dassážii go ođđa boazologu mearrádusat dahkkojit.</x>
+               <xt>Vedtak om reintall som er gjort i tråd med 1978-loven, vil gjelde inntil det foreligger nye vedtak om reintall.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="po">dáfus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med hensyn til</tf>
+            <xg>
+               <x>dan dáfus</x>
+               <xt>med hensyn til det</xt>
+            </xg>
+            <xg>
+               <x>Nu lea maid lobihis áiddiid dáfus.</x>
+               <xt>Slik er det også når det gjelder ulovlige gjerder.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="po">vuollai</l>
       </lg>
       <mg>
@@ -466,7 +547,7 @@ For the full license text, see the link above.</lic>
             <re>om mål</re>
             <t pos="a">bred</t>
             <xg>
-               <x>Latnja lea njeallje mehtara govddu.</x>
+               <x>Latnja lea njeallje mehtera govddu.</x>
                <xt>Rommet er fire meter bredt.</xt>
             </xg>
          </tg>
@@ -585,7 +666,7 @@ For the full license text, see the link above.</lic>
             <re>om mål</re>
             <t pos="a">dyp</t>
             <xg>
-               <x>Fielbmá lea njeallje mehtar čieŋu.</x>
+               <x>Fielbmá lea njeallje mehter čieŋu.</x>
                <xt>Den lille, stille elva er fire meter dyp.</xt>
             </xg>
          </tg>
@@ -644,7 +725,7 @@ For the full license text, see the link above.</lic>
             <re>om sted</re>
             <t pos="a">høy</t>
             <xg>
-               <x>Duot soahki lea golbma mehtara alu.</x>
+               <x>Duot soahki lea golbma mehtera alu.</x>
                <xt>Den der bjørka er tre meter høy.</xt>
             </xg>
          </tg>
@@ -1779,27 +1860,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="po">ektui</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="p">for</t>
-            <xg>
-               <x>Vuosttaš logi minuhta lei buorre áigodat Nordlysa ektui.</x>
-               <xt>De første ti minuttene var en god periode sett fra Nordlys sitt synspunkt.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="nob">
-            <tf pos="phrase">sammenlignet med</tf>
-            <xg>
-               <x>Dat golut leat govttolaččat veahki ektui.</x>
-               <xt>Kostnadene er gunstige sammenlignet med nytten.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
          <l pos="po">rádjai</l>
       </lg>
       <mg>
@@ -2073,7 +2133,7 @@ For the full license text, see the link above.</lic>
             <t pos="p">på</t>
             <t pos="p">mellom</t>
             <xg>
-               <x>Telefuvdna riŋgii gasku čoahkkima.</x>
+               <x>Telefovdna riŋgii gasku čoahkkima.</x>
                <xt>Telefonen ringte midt under møtet.</xt>
             </xg>
             <xg>
@@ -2589,38 +2649,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Son ceggii sabehiid seainni vuostá.</x>
                <xt>Han stilte skiene mot veggen.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="po">hárrái</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="p">vedrørende</t>
-            <xg>
-               <x>Min bellodagas lea čielga politihkalaš oaidnu sámi rivttiid hárrái.</x>
-               <xt>Vårt parti har et klart politisk syn vedrørende samiske rettigheter.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
-         <l pos="po">dáfus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <tf pos="phrase">med hensyn til</tf>
-            <xg>
-               <x>dan dáfus</x>
-               <xt>med hensyn til det</xt>
-            </xg>
-            <xg>
-               <x>Nu lea maid lobihis áiddiid dáfus.</x>
-               <xt>Slik er det også når det gjelder ulovlige gjerder.</xt>
             </xg>
          </tg>
       </mg>

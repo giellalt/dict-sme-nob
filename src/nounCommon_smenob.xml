@@ -616,17 +616,8 @@ For the full license text, see the link above.</lic>
    </e>  
    <e usage="vd">
       <lg>
-         <l pos="n">vánhenságastallan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="n">foreldresamtale</t>
-         </tg>
-      </mg>
-   </e>  
-   <e usage="vd">
-      <lg>
          <l pos="n">váhnenságastallan</l>
+         <lsub>vánhenságastallan</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -34003,7 +33994,7 @@ For the full license text, see the link above.</lic>
             <t decl="1" gen="n" pos="n">tall</t>
             <t decl="1" gen="n" pos="n">antall</t>
             <xg>
-               <x>Davviriikkaid stáhtarievttálaš dilli rievddai ollu 1800-logu álgogeahčen, Napoleon-sođiid
+               <x>Davviriikkaid stáhtarievttálaš dilli rievddai ollu 1800-logu álggogeahčen, Napoleon-sođiid
                oktavuođas.</x>
                <xt>I forbindelse med Napoleonskrigene på begynnelsen av 1800-tallet, skjedde det store endringer i de
                statsrettslige forholdene i Norden.</xt>
@@ -36835,7 +36826,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">máttarvánhen</l>
+         <l pos="n">máttarváhnen</l>
+         <lsub>máttarvánhen</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -47782,6 +47774,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l pos="n">váhnen</l>
+         <lsub>vánhen</lsub>
          <lc>váhnemat</lc>
       </lg>
       <mg>
@@ -48027,16 +48020,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="n">dvergspissmus</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">vánhen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="2" gen="m" pos="n">forelder</t>
          </tg>
       </mg>
    </e>
@@ -125700,19 +125683,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="n" vmax="2">risvánhen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="yyy" gen="m" pos="n">fadder</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l illpl="ok" pos="n" vmax="2">risváhnen</l>
+         <lsub>risvánhen</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
