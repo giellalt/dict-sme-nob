@@ -281,3 +281,7 @@ Jeg gjorde slik:
 
 Resulatatene er i non-rec_usme.txt og non-rec_usmeNorm.txt. 
 
+Som BM ba meg har jeg skilt mellom ord i l-element og ord i lsub-element.
+Resultatene er i filene non-rec_usme(Norm)_l(sub).txt
+
+
