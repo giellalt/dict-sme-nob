@@ -536,11 +536,11 @@ For the full license text, see the link above.</lic>
    </e>  
    <e usage="vd">
       <lg>
-         <l pos="n">čuovgaláhtt</l>
+         <l pos="n">čuovgaláhttu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="n">ysløype</t>
+            <t pos="n">lysløype</t>
          </tg>
       </mg>
    </e>  
@@ -2621,16 +2621,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="n">malekost</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">mobiltelefuvdna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="n">mobiltelefon</t>
          </tg>
       </mg>
    </e>
@@ -5796,7 +5786,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">justisministtar</l>
+         <l pos="n">justiisaministtar</l>
+         <lsub>justisministtar</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -54482,7 +54473,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">mihkalmasbeaivi</l>
+         <l pos="n">Mihkalmasbeaivi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -108223,6 +108214,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="ok" pos="n">mobiltelefovdna</l>
+         <lsub>mobiltelefuvdna</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
