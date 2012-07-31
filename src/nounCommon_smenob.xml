@@ -5261,7 +5261,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="no" pos="n">sihkarvuohta</l>
+         <l illpl="no" pos="n" vmax="2">sihkarvuohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6660,16 +6660,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="no" pos="n">sihkkarvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="f" pos="n">sikkerhet</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="n">ruhtačoaggin</l>
       </lg>
       <mg>
@@ -7694,7 +7684,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="no" pos="n">johtolatsihkarvuohta</l>
+         <l illpl="no" pos="n" vmax="2">johtolatsihkarvuohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -82040,7 +82030,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">geavahansihkkarvuohta</l>
+         <l pos="n" vmax="2">geavahansihkarvuohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -117266,7 +117256,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">olmmošsihkkarvuohta</l>
+         <l pos="n" vmax="2">olmmošsihkarvuohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -124971,7 +124961,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">riektesihkarvuohta</l>
+         <l pos="n" vmax="2">riektesihkarvuohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -124981,7 +124971,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">riektesihkkarvuođadáhkádus</l>
+         <l illpl="ok" pos="n" vmax="2">riektesihkarvuođadáhkádus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -128048,7 +128038,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">ráhkadussihkarvuohta</l>
+         <l pos="n" vmax="2">ráhkadussihkarvuohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -131270,7 +131260,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">sihkkarvuođabealli</l>
+         <l illpl="ok" pos="n" vmax="2">sihkarvuođabealli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -131280,7 +131270,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l illpl="ok" pos="n">sihkkarvuođamunni</l>
+         <l illpl="ok" pos="n" vmax="2">sihkarvuođamunni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
