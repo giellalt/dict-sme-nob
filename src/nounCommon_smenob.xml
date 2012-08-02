@@ -1429,7 +1429,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">feargablyánta</l>
+         <l pos="n" vmax="2">feargabliánta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -3334,23 +3334,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">servodatviessu</l>
-         <lsub
-         cips-comment="__why is the following entry not as lsub to this entry, as I put it now?__">servvodatviessu</lsub>
+         <l pos="n" vmax="2">servodatviessu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="n" pos="n">samfunnshus</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">servvodatviessu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="n">samfunnshus</t>
          </tg>
       </mg>
    </e>
@@ -10735,8 +10723,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">oađđinlatnja</l>
-         <lsub>oađđenlatnja</lsub>
+         <l pos="n" vmax="2">oađđenlatnja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -15685,8 +15672,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">bliánta</l>
-         <lsub>blyánta</lsub>
+         <l pos="n" vmax="2">bliánta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -16636,8 +16622,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">buohccedivššár</l>
-         <lsub>buohccidivššár</lsub>
+         <l pos="n" vmax="2">buohccedivššár</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -16647,8 +16632,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">buohcceviessu</l>
-         <lsub>buohcciviessu</lsub>
+         <l pos="n" vmax="2">buohcceviessu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -39384,8 +39368,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="no" pos="n">ođđajagemánnu</l>
-         <lsub>ođđajagimánnu</lsub>
+         <l illpl="no" pos="n" vmax="2">ođđajagemánnu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -42164,7 +42147,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">servodat</l>
+         <l pos="n" vmax="2">servodat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -42179,18 +42162,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="n" pos="n">samfunnsfag</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
-         <l pos="n">servvodat</l>
-         <lc>-dagat</lc>
-         <lc>-dahkii</lc>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="n" pos="n">samfunn</t>
          </tg>
       </mg>
    </e>
@@ -86854,13 +86825,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">guovllubuohcceviessu</l>
+         <l illpl="ok" pos="n" vmax="2">guovllubuohcceviessu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="yyy" gen="xxx" pos="n">regionsykehus</t>
+            <t decl="1" gen="n" pos="n">regionsykehus</t>
          </tg>
       </mg>
    </e>
@@ -118102,13 +118073,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">ossodatbuohccedivššár</l>
+         <l illpl="ok" pos="n" vmax="2">ossodatbuohccedivššár</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="yyy" gen="m" pos="n">avdelingssykepleier</t>
+            <t decl="2" gen="m" pos="n">avdelingssykepleier</t>
          </tg>
       </mg>
    </e>
@@ -130593,9 +130564,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">servodatfarmasiija</l>
+         <l illpl="ok" pos="n" vmax="2">servodatfarmasiija</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -130630,16 +130601,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="yyy" gen="m" pos="n">samfunnsstruktur</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l illpl="ok" pos="n">servvodatfarmasiija</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="yyy" gen="m" pos="n">samfunnsfarmasi</t>
          </tg>
       </mg>
    </e>
@@ -158556,7 +158517,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">ruvnnaprinsa</l>
+         <l pos="n" vmax="2">ruvnnaprinsa</l>
          <lsub>ruvdnaprinsa</lsub>
       </lg>
       <mg>
