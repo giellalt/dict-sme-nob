@@ -624,16 +624,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="aviisa" pos="a">riikaviidosaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="3" pos="a">riksdekkende</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l context="olmmoš" pos="a">juhkki</l>
       </lg>
       <mg>
@@ -2934,19 +2924,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
-      <lg>
-         <l context="olmmoš" pos="a">geaffi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="2" pos="a">fattig</t>
-         </tg>
-      </mg>
-   </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="olmmoš" pos="a">geafi</l>
+         <l context="olmmoš" pos="a" vmax="2">geafi</l>
          <lc>geafit, geafes (olmmoš)</lc>
       </lg>
       <mg>
@@ -9099,26 +9079,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="diibmu" pos="a">maŋemus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="3" pos="a">siste</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l context="diibmu" pos="a">maŋimuš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="3" pos="a">siste</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l context="girji" pos="a">sámegiel</l>
       </lg>
       <mg>
@@ -9263,6 +9223,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="3" pos="a">bakre</t>
+            <xg>
+               <x>maŋemus áiggiid</x>
+               <xt>den siste tiden</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9926,6 +9890,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l context="aviisa" pos="a">riikkaviidosaš</l>
+         <lsub>riikaviidosaš</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -10757,7 +10722,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="opmodat" pos="a">priváhtta</l>
+         <l context="opmodat" pos="a" vmax="2">priváhta</l>
+         <lsub>priváhtta</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
