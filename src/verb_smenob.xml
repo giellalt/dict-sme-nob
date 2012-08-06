@@ -833,7 +833,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">ilosmit</l>
+         <l context="mun" pos="v" vmax="3">ilosmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1118,17 +1118,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">ráhkásnuvvat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_v">forelske seg</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l context="mun" pos="v">ráhkásmuvvat</l>
+         <l context="mun" pos="v" vmax="3">ráhkásmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1179,7 +1169,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">njuorasmuvvat</l>
+         <l context="mun" pos="v" vmax="3">njuorasmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -4547,17 +4537,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="mun" pos="v">boarásmit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_v">bli gammel</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
-         <l context="mun" pos="v">boarásmuvvat</l>
+         <l context="mun" pos="v" vmax="3">boarásmuvvat</l>
          <lc>(son) -muvai</lc>
       </lg>
       <mg>
@@ -5384,7 +5364,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="mun" pos="v">buhtásmuvvat</l>
+         <l context="mun" pos="v" vmax="3">buhtásmuvvat</l>
          <lc>-muvai</lc>
       </lg>
       <mg>
@@ -10188,7 +10168,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="v">dásásmit</l>
+         <l context="mun" pos="v" vmax="3">dásásmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -11574,7 +11554,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="mun" pos="v">fievrridit</l>
+         <l context="mun" pos="v" vmax="2">fievrridit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -14410,18 +14390,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="mun" pos="v">govssahallat</l>
-         <lc>(mun) govssahalan</lc>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_v">bli forfordelt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l context="mun" pos="v">govssáhallat</l>
+         <lc>(mun) govssáhalan</lc>
+         <lsub>govssahallat</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -18133,18 +18104,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">ytre</t>
             <t pos="v">ymte</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
-         <l context="mun" pos="v">jierásmuvvat</l>
-         <lc>-muvai</lc>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_v">fryde seg</t>
-            <t pos="phrase_v">bli ivrig</t>
          </tg>
       </mg>
    </e>
@@ -25689,18 +25648,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">oahpásmuvvat</l>
+         <l context="mun" pos="v" vmax="3">oahpásmuvvat</l>
          <lsub>oahpasmuvvat</lsub>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_v">bli kjent</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
-         <l context="mun" pos="v">oahpásmit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -33007,7 +32956,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="v">stuorásmit</l>
+         <l context="mun" pos="v" vmax="3">stuorásmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -33028,7 +32977,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="v">stáđásmit</l>
+         <l context="mun" pos="v" vmax="3">stáđásmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -39741,16 +39690,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">fievrredit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="v">transportere</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l context="mun" pos="v">gozihit</l>
       </lg>
       <mg>
@@ -39796,17 +39735,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">innskrenke</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l context="mun" pos="v">oahpásnuvvat</l>
-         <lsub>oahpasnuvvat</lsub>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_v">bli kjent med</t>
          </tg>
       </mg>
    </e>
@@ -41548,16 +41476,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">boarásnuvvat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_v">bli gammel</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l context="mun" pos="v">bogostallat</l>
       </lg>
       <mg>
@@ -41968,7 +41886,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">heađásnuvvat</l>
+         <l context="mun" pos="v" vmax="3">heađásmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -42067,7 +41985,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="mun" pos="v">jierásnuvvat</l>
+         <l context="mun" pos="v" vmax="3">jierásmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
