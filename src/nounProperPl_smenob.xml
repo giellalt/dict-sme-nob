@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
       <e usage="vd">
       <lg>
-         <l pos="npl">Gállábártnit</l>
+         <l pos="npl" type="obj">Gállábártnit</l>
          <lsub>Gállabártnit</lsub>
       </lg>
       <mg>
@@ -1751,16 +1751,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <tf pos="prop" type="plc" reg="Hammerfest">Tindvannene</tf>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="npl" type="obj">Gállabártnit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <tf pos="phrase" type="obj" reg="">Orions belte</tf>
          </tg>
       </mg>
    </e>
