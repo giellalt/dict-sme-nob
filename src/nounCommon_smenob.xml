@@ -8457,12 +8457,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">olgoriikkadepartemeanta</l>
-         <lsub>olgoriikadepartemeanta</lsub>
+         <l pos="n" vmax="2">olgoriikkadepartemeanta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t decl="2" gen="n" pos="n">utenriksdepartement</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n" vmax="2">olgoriikkaministtar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="n" pos="n">utenriksminister</t>
          </tg>
       </mg>
    </e>
@@ -24457,6 +24466,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="n">tredjedel</t>
             <t decl="1" gen="m" pos="n">tredel</t>
+            <xg>
+               <x>Skuvlaborramuš addá goalmmádasa ohppiid beaivválaš biebmodárbbus.</x>
+               <xt>Skolematen dekker en tredjedel av elevenes daglige næringsbehov.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -116707,9 +116720,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">olgoriikapolitihkka</l>
+         <l illpl="ok" pos="n" vmax="2">olgoriikkapolitihkka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -116727,9 +116740,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l illpl="ok" pos="n">olgoriikkagávppašeapmi</l>
+         <l illpl="ok" pos="n" vmax="2">olgoriikkagávppašeapmi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
