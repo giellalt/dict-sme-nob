@@ -285,3 +285,13 @@ Som BM ba meg har jeg skilt mellom ord i l-element og ord i lsub-element.
 Resultatene er i filene non-rec_usme(Norm)_l(sub).txt
 
 ==> Jeg har sjekket om alle lemma får analyse i usmeNorm, og om alle lsub virkelig er lsub.
+
+
+To debug vmax-generering:
+XML_out>ls *_v1* | wc -l
+     107
+XML_out>ls ../Para_tmp/| wc -l
+     109
+
+
+
