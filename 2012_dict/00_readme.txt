@@ -346,8 +346,14 @@ for lexicon VIELG gjelder dette njárbat, men ikke  'ruoksat'
 
 VERB
 7. Use/NVD er ikke implementert når det gjelder nøkkelformer for verb
-kontrakteverb:
-ulikestavlesesverb:
+kontrakteverb og ulikestavlesesverb:
+sugadit: indik. pret. 1p. sg.			(ikte mun) sugadin sugadedjen
+Riktig paradigmer er: indik. pret. 1p. sg.			(ikte mun) sugadin
+
+fertet: indik. pret. 1p. sg.			(ikte mun) fertejin fertejedjen
+riktig paradigme er : indik. pret. 1p. sg.			(ikte mun) fertejin
+
+Den formen som er merket Use/NVD skal ikke vises i nøkkelformene til verbet, men skal likevel presenteres som en mulig analyse i VD. Dette gjelder indik. pret. 1p sg for kontrakteverb og ulikestavelsesverb.
 
 L_REF
 7. plassering av l_ref: 
