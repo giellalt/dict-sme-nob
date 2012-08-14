@@ -295,3 +295,87 @@ XML_out>ls ../Para_tmp/| wc -l
 
 
 
+Some observations after first version of VD 1.4- 14. august 2012:
+
+Generated VD:
+SUBSTANTIVER:
+1. Nøkkelformer substantiver - bare vanlig genetiv presenteres:
+Bare vanlig gentiv (soaji	soadji+N+Sg+Gen) presenteres i nøkkelformene til substantiver.
+
+Allegro-former (f.eks. soaje	soadji+N+Sg+Gen+Allegro) skal utelates fra nøkkelformer til substantiver
+
+Allegro-formen skal være med som oppslagsform i ordboka.
+
+2.Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale (Sg Gen/Sg/Akk) til boaššobealle (Sg Nom) er inaktiv.
+
+3. Linking til lemmaet fungerer ikke for bla følgende former:
+Linking Fra lemmaet 'olmmoš' til nøkkelformen 'olbmo' SgGen fungerer fint.
+Linking tilbake fra formen 'olbmo' SgGen til lemmaet 'olmmoš' fungerer ikke. Output blir: Ingen oppføringer funnet.
+
+Dette gjelder også andre kontraktesubstantiv som: fális, olmmái, bálddis
+Felles for disse er at de går til lexikon FALIS
+Disse kontrakte formene fungerer: boazu
+
+For lemmaet 'heasta' og 'soadji' fungerer linkingen begge veier
+
+ADJEKTIVER
+4. Use/NVD er ikke implementert når det gjelder nøkkelformer for adjektiver: 
+se feks lihkolaš i VD i dag:
+komp. attr. lihkolit lihkolut lihkolet lihkolat lihkolaččat
+komp. sg. nom. lihkolit lihkolut lihkolet lihkoleabbo lihkolat lihkolabbo lihkolaččat 
+
+Ved implementert Use/NVD for presentasjon av nøkkelformer skal resultatet være:
+komp. attr. lihkolet lihkolat lihkolaččat
+komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
+
+5. lacking context infos for adj attr in nøkkelformer:
+Feks: ruoksat
+attr.			rukses
+
+Slik skal det være med implementert context - context i parentes:
+attr.			rukses (bivttas)
+
+6. Linking tilbake til lemma fungerer ikke:
+feks. linken fra lemma 'lihkolaš' til nøkkelform 'lihkolaččat' fungerer
+linken fra 'lihkolaččat' tilbake til lemma 'lihkolaš' fungerer ikke: Ingen oppføringer funnet.
+
+Det samme gjelder feks diđolaš, duođalaš og andre adjectiv som går til lexicon DABALAS
+
+for lexicon LAIKI gjelder det somá, men ikke fuotni.
+for lexicon VIELG gjelder dette njárbat, men ikke  'ruoksat' 
+
+VERB
+7. Use/NVD er ikke implementert når det gjelder nøkkelformer for verb
+kontrakteverb:
+ulikestavlesesverb:
+
+L_REF
+7. plassering av l_ref: 
+Informasjon om l_ref mangler fullstendig, og er presentert som en tom linje.
+Se feks 'giehtagiella' 
+andre lemma med l_ref:
+asehaš	adjective_smenob.xml:         <l_ref>seaggi_a</l_ref>
+assái	adjective_smenob.xml:         <l_ref>gassat_a</l_ref>
+gassat	adjective_smenob.xml:         <l_ref>assái_a</l_ref>
+seaggi	adjective_smenob.xml:         <l_ref>asehaš_a</l_ref>
+mannjesássa	nounCommon_smenob.xml:         <l_ref>mannji_n</l_ref>
+giehtagiella	nounCommon_smenob.xml:         <l_ref>seavagiella_n</l_ref>
+Romssavággi	nounRevProper_smenob.xml:         <l_ref>Sálašvággi_prop</l_ref>
+Sálašvággi	nounRevProper_smenob.xml:         <l_ref>Romssavággi_prop</l_ref>
+dahje	other_stat_smenob.xml:         <l_ref>vai_cc</l_ref>
+vai	other_stat_smenob.xml:         <l_ref>dahje_cc</l_ref>
+ruohttat	verb_smenob.xml:         <l_ref>viehkat_v</l_ref>
+viehkat	verb_smenob.xml:         <l_ref>ruohttat_v</l_ref>
+čuohcat	verb_smenob.xml:         <l_ref>čuohcit_v</l_ref>
+
+
+SRC:
+8. få 'src' synlig til de eksemplene som har det. F.eks. bákteolmmoš
+
+              <x src="S. B. Johansen 2010: Sárá beaivegirji s. 20-21.">Áhčči dadjá ahte ii sáhte goassege diehtit
+              makkárat bákteolbmot leat, dat dáidet eallit váikko agálaččat.</x>
+              <xt src="S. B. Johansen 2010: Saras dagbok s. 18.">Pappa sier at man kan aldri vite med sånne berg-folk,
+              de lever kanskje evig.</xt>
+              
+
+ 
