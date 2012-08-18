@@ -287,11 +287,26 @@ Resultatene er i filene non-rec_usme(Norm)_l(sub).txt
 ==> Jeg har sjekket om alle lemma får analyse i usmeNorm, og om alle lsub virkelig er lsub.
 
 
+
 To debug vmax-generering:
-XML_out>ls *_v1* | wc -l
-     107
-XML_out>ls ../Para_tmp/| wc -l
-     109
+ ==> done: guovttis get paradigm as non-vmax but not as it is marked as vmax="2"
+nounCommon_smenob.xml:         <l illpl="no" pos="n" vmax="2">guovttis</l>
+
+Opening input file '../bin/dict-isme-norm.fst'
+August 18, 2012 21:49:02 GMT
+Closing input file '../bin/dict-isme-norm.fst'
+Opening input file 'n-para.ptest'
+
+guovttis+N+Sg+Nom
+guovttes
+guovttis
+guovttes
+
+guovttis+v1+N+Sg+Nom
+???
+
+guovttis+v2+N+Sg+Nom
+???
 
 
 
