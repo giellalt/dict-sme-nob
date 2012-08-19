@@ -308,6 +308,17 @@ guovttis+v1+N+Sg+Nom
 guovttis+v2+N+Sg+Nom
 ???
 
+Lemmata unknown to the fst after the last generation (20120819):
+bassaladdanmášiidna
+bassanmášiidna
+beaskidanmášiidna
+buozalmasvuohta
+bussa
+goarrunmášiidna
+lihttebassanmášiidna
+mášiidna
+rehketmášiidna
+
 
 
 Some observations after first version of VD 1.4- 14. august 2012:
