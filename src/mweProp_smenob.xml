@@ -30,51 +30,33 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l illpl="no" pos="phrase_n">vieljaš guovttos</l>
-         <lsub>vieljašguovttos</lsub>
+         <l pos="phrase_prop">Sámisoga lávlla</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">de to brødrene</tf>
+            <t pos="phrase_prop">Samefolkets sang</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="phrase_n">váhnen guovttos</l>
-         <lsub>váhnenguovttos</lsub>
+         <l pos="phrase_prop">Stuorra Británnia</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="n">begge foreldrene</t>
+            <t pos="prop" type="plc">Storbritannia</t>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+    <e usage="vd">
       <lg>
-         <l pos="phrase_n">luntta guovttos</l>
-         <lsub>lunttaguovttos</lsub>
+         <l pos="phrase_prop">Ipmil Áhčči</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="n">de to guttene</t>
+            <t pos="phrase_prop">Gud Fader</t>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
-      <lg>
-         <l pos="phrase_n">eatni guovttos</l>
-         <lsub>eatniguovttos</lsub>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_n">mor og en person til</t>
-            <xg>
-               <x>Eatni guovttos boahtiba ihttin.</x>
-               <xt>Mor og den andre personen kommer i morgen.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+      <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
