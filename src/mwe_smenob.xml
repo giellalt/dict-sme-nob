@@ -30,8 +30,18 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l pos="phrase_adv" vmax="2" comment="vmax on an adverb is useless, even more on an mwe">dienas láhkai</l>
+         <l pos="phrase_adv">dienas láhkai</l>
          <lsub>dienasláhkai</lsub>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">ervervmessig</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="phrase_adv">dienas láhkái</l>
          <lsub>dienasláhkái</lsub>
       </lg>
       <mg>
