@@ -202,8 +202,16 @@ For the full license text, see the link above.</lic>
             <t pos="pron">det</t>
             <t pos="pron">den</t>
             <xg>
-               <x>Muhto dan son ii diehtán.</x>
-               <xt>Men det visste hun ikke.</xt>
+               <x>Beana ii láhppo, dat gal boahtá ruoktot.</x>
+               <xt>Hunden går seg ikke vill, den kommer hjem.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pron">han</t>
+            <t pos="pron">hun</t>
+            <xg>
+               <x>Elle ii čále, dat baicca lohká.</x>
+               <xt>Elle skriver ikke, hun leser heller.</xt>
             </xg>
          </tg>
       </mg>
@@ -309,6 +317,21 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>sudnos lea</x>
                <xt>de to har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l nr="du" pos="pron" type="pers">dat</l>
+         <analysis>Pron_Pers_Du3_Nom</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="pron">de to</t>
+            <xg>
+               <x>Dat boahtiba ruoktot.</x>
+               <xt>De to kommer hjem.</xt>
             </xg>
          </tg>
       </mg>
