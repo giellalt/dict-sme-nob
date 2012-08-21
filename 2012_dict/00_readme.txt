@@ -211,7 +211,24 @@ Allegro-former (f.eks. soaje	soadji+N+Sg+Gen+Allegro) skal utelates fra nøkkelf
 
 Allegro-formen skal være med som oppslagsform i ordboka.
 
+ ==> tested: error ligger i lexC-filene
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+   <paradigm>
+      <analysis ms="n_Sg_Nom">
+         <wordform value="soadji"/>
+      </analysis>
+      <analysis ms="n_Sg_Gen">
+         <wordform value="soaje"/>
+         <wordform value="soaji"/>
+      </analysis>
+      <analysis ms="n_Sg_Gen_Allegro">
+         <wordform value="soaje"/>
+      </analysis>
+
 2.Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale (Sg Gen/Sg/Akk) til boaššobealle (Sg Nom) er inaktiv.
+ ==> DONE
 
 3. Linking til lemmaet fungerer ikke for bla følgende former:
 Linking Fra lemmaet 'olmmoš' til nøkkelformen 'olbmo' SgGen fungerer fint.
@@ -232,6 +249,32 @@ komp. sg. nom. lihkolit lihkolut lihkolet lihkoleabbo lihkolat lihkolabbo lihkol
 Ved implementert Use/NVD for presentasjon av nøkkelformer skal resultatet være:
 komp. attr. lihkolet lihkolat lihkolaččat
 komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
+
+ ==> tested: the same error as for Allegro:
+
+<result>
+   <paradigm>
+      <analysis ms="a_Attr">
+         <wordform value="lihkolaš"/>
+      </analysis>
+      <analysis ms="a_Sg_Nom">
+         <wordform value="lihkolaš"/>
+      </analysis>
+      <analysis ms="a_Comp_Attr">
+         <wordform value="lihkolit"/>
+         <wordform value="lihkolut"/>
+         <wordform value="lihkolet"/>
+         <wordform value="lihkolat"/>
+         <wordform value="lihkolaččat"/>
+      </analysis>
+
+      <analysis ms="a_Comp_Attr_Use/NVD">
+         <wordform value="lihkolit"/>
+         <wordform value="lihkolut"/>
+         <wordform value="lihkolaččat"/>
+      </analysis>
+
+
 
 5. lacking context infos for adj attr in nøkkelformer:
 Feks: ruoksat
