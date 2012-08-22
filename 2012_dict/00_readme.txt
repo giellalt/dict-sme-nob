@@ -212,9 +212,11 @@ Allegro-former (f.eks. soaje	soadji+N+Sg+Gen+Allegro) skal utelates fra nøkkelf
 Allegro-formen skal være med som oppslagsform i ordboka.
 
  ==> DONE and (tested with soadji)
+ Marja har testet, alt ok.
 
 2.Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale (Sg Gen/Sg/Akk) til boaššobealle (Sg Nom) er inaktiv.
  ==> DONE
+ Berit har testet, alt ok.
 
 3. Linking til lemmaet fungerer ikke for bla følgende former:
 Linking Fra lemmaet 'olmmoš' til nøkkelformen 'olbmo' SgGen fungerer fint.
@@ -227,6 +229,7 @@ Disse kontrakte formene fungerer: boazu
 For lemmaet 'heasta' og 'soadji' fungerer linkingen begge veier
 
  ==> DONE
+ Berit har testet, alt ok.
 
 ADJEKTIVER
 4. Use/NVD er ikke implementert når det gjelder nøkkelformer for adjektiver: 
@@ -235,10 +238,11 @@ komp. attr. lihkolit lihkolut lihkolet lihkolat lihkolaččat
 komp. sg. nom. lihkolit lihkolut lihkolet lihkoleabbo lihkolat lihkolabbo lihkolaččat 
 
 Ved implementert Use/NVD for presentasjon av nøkkelformer skal resultatet være:
-komp. attr. lihkolet lihkolat lihkolaččat
+komp. attr. lihkolet lihkolat
 komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
- ==> DONE (and tested with lihkolaš)
+ ==> DONE (and tested with lihkolaš)ruoksat
+ Marja har sjekket, alt okr
 
 5. lacking context infos for adj attr in nøkkelformer:
 Feks: ruoksat
@@ -248,6 +252,15 @@ Slik skal det være med implementert context - context i parentes:
 attr.			rukses (bivttas)
 
  ==> DONE (and tested with ruoksat and okta)
+ Alt ok når det gjelder kontekst for adjektiver. 
+ Når det gjelder numeraler så er kontekst ok for tallene 1-10, f.eks: 
+ pl. nom.			ovccit (gápmagat)
+pl. gen.			ovcciid (gápmagiid)
+
+Når det gjelder tall fra 10 og oppover så mangler konteksten for pl.nom, f.eks: pl. nom.			duháhat ()
+pl. gen.			duháhiid (gápmagiid)
+
+Skal det være sånn?
 
 6. Linking tilbake til lemma fungerer ikke:
 feks. linken fra lemma 'lihkolaš' til nøkkelform 'lihkolaččat' fungerer
@@ -255,11 +268,13 @@ linken fra 'lihkolaččat' tilbake til lemma 'lihkolaš' fungerer ikke: Ingen op
 
 Det samme gjelder feks diđolaš, duođalaš og andre adjectiv som går til lexicon DABALAS
 
+
 for lexicon LAIKI gjelder det somá, men ikke fuotni.
 for lexicon VIELG gjelder dette njárbat, men ikke  'ruoksat' 
 
  ==> This should be done now by dropping the use of internal
  references.
+ Dette fungerer.
 
 VERB
 7. Use/NVD er ikke implementert når det gjelder nøkkelformer for verb
@@ -281,7 +296,7 @@ Den formen som er merket Use/NVD skal ikke vises i nøkkelformene til
  Use/NVD-tag that has to be added.
 
 L_REF
-7. plassering av l_ref: 
+8. plassering av l_ref: 
 Informasjon om l_ref mangler fullstendig, og er presentert som en tom linje.
 Se feks 'giehtagiella' 
 andre lemma med l_ref:
@@ -299,14 +314,16 @@ ruohttat	verb_smenob.xml:         <l_ref>viehkat_v</l_ref>
 viehkat	verb_smenob.xml:         <l_ref>ruohttat_v</l_ref>
 čuohcat	verb_smenob.xml:         <l_ref>čuohcit_v</l_ref>
 
+==> Alt ok.
+
 
 SRC:
-8. få 'src' synlig til de eksemplene som har det. F.eks. bákteolmmoš
+9. få 'src' synlig til de eksemplene som har det. F.eks. bákteolmmoš
 
               <x src="S. B. Johansen 2010: Sárá beaivegirji s. 20-21.">Áhčči dadjá ahte ii sáhte goassege diehtit
               makkárat bákteolbmot leat, dat dáidet eallit váikko agálaččat.</x>
               <xt src="S. B. Johansen 2010: Saras dagbok s. 18.">Pappa sier at man kan aldri vite med sånne berg-folk,
               de lever kanskje evig.</xt>
               
-
+==> Er ikke implementert.
  
