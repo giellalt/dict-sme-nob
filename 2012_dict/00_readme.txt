@@ -277,7 +277,8 @@ Den formen som er merket Use/NVD skal ikke vises i nøkkelformene til
  Dette gjelder indik. pret. 1p sg for kontrakteverb og ulikestavelsesverb.
 
  ==> TO CHECK: they are not in the paradigme at all (because of
- commenting them out from tag-not-save.regex)
+ commenting them out from tag-not-save.regex): no, because of some
+ Use/NVD-tag that has to be added.
 
 L_REF
 7. plassering av l_ref: 
