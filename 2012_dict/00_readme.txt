@@ -206,26 +206,10 @@ Generated VD:
 SUBSTANTIVER:
 1. Nøkkelformer substantiver - bare vanlig genetiv presenteres:
 Bare vanlig gentiv (soaji	soadji+N+Sg+Gen) presenteres i nøkkelformene til substantiver.
-
 Allegro-former (f.eks. soaje	soadji+N+Sg+Gen+Allegro) skal utelates fra nøkkelformer til substantiver
-
 Allegro-formen skal være med som oppslagsform i ordboka.
 
- ==> tested: error ligger i lexC-filene
-
-<?xml version="1.0" encoding="UTF-8"?>
-<result>
-   <paradigm>
-      <analysis ms="n_Sg_Nom">
-         <wordform value="soadji"/>
-      </analysis>
-      <analysis ms="n_Sg_Gen">
-         <wordform value="soaje"/>
-         <wordform value="soaji"/>
-      </analysis>
-      <analysis ms="n_Sg_Gen_Allegro">
-         <wordform value="soaje"/>
-      </analysis>
+ ==> DONE and (tested with soadji)
 
 2.Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale (Sg Gen/Sg/Akk) til boaššobealle (Sg Nom) er inaktiv.
  ==> DONE
@@ -240,6 +224,8 @@ Disse kontrakte formene fungerer: boazu
 
 For lemmaet 'heasta' og 'soadji' fungerer linkingen begge veier
 
+ ==> DONE
+
 ADJEKTIVER
 4. Use/NVD er ikke implementert når det gjelder nøkkelformer for adjektiver: 
 se feks lihkolaš i VD i dag:
@@ -250,31 +236,7 @@ Ved implementert Use/NVD for presentasjon av nøkkelformer skal resultatet være
 komp. attr. lihkolet lihkolat lihkolaččat
 komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
 
- ==> tested: the same error as for Allegro:
-
-<result>
-   <paradigm>
-      <analysis ms="a_Attr">
-         <wordform value="lihkolaš"/>
-      </analysis>
-      <analysis ms="a_Sg_Nom">
-         <wordform value="lihkolaš"/>
-      </analysis>
-      <analysis ms="a_Comp_Attr">
-         <wordform value="lihkolit"/>
-         <wordform value="lihkolut"/>
-         <wordform value="lihkolet"/>
-         <wordform value="lihkolat"/>
-         <wordform value="lihkolaččat"/>
-      </analysis>
-
-      <analysis ms="a_Comp_Attr_Use/NVD">
-         <wordform value="lihkolit"/>
-         <wordform value="lihkolut"/>
-         <wordform value="lihkolaččat"/>
-      </analysis>
-
-
+ ==> DONE (and tested with lihkolaš)
 
 5. lacking context infos for adj attr in nøkkelformer:
 Feks: ruoksat
@@ -282,6 +244,8 @@ attr.			rukses
 
 Slik skal det være med implementert context - context i parentes:
 attr.			rukses (bivttas)
+
+ ==> DONE (and tested with ruoksat and okta)
 
 6. Linking tilbake til lemma fungerer ikke:
 feks. linken fra lemma 'lihkolaš' til nøkkelform 'lihkolaččat' fungerer
@@ -301,7 +265,14 @@ Riktig paradigmer er: indik. pret. 1p. sg.			(ikte mun) sugadin
 fertet: indik. pret. 1p. sg.			(ikte mun) fertejin fertejedjen
 riktig paradigme er : indik. pret. 1p. sg.			(ikte mun) fertejin
 
-Den formen som er merket Use/NVD skal ikke vises i nøkkelformene til verbet, men skal likevel presenteres som en mulig analyse i VD. Dette gjelder indik. pret. 1p sg for kontrakteverb og ulikestavelsesverb.
+ ==> DONE
+
+Den formen som er merket Use/NVD skal ikke vises i nøkkelformene til
+ verbet, men skal likevel presenteres som en mulig analyse i VD.
+ Dette gjelder indik. pret. 1p sg for kontrakteverb og ulikestavelsesverb.
+
+ ==> TO CHECK: they are not in the paradigme at all (because of
+ commenting them out from tag-not-save.regex)
 
 L_REF
 7. plassering av l_ref: 
