@@ -31,7 +31,9 @@ Comments after the first test:
 1. Miniparadigmer til substantiver uten allegro.
 soaje	soadji+N+Sg+Gen+Allegro
 soaji	soadji+N+Sg+Gen
-+N+Sg+Gen+Allegro utelates fra miniparadigmer til substantiver. Bare vanlig gentiv presenteres i miniparadigmet til substantiver. Allegro skal være med som oppslagsform i ordboka.  
++N+Sg+Gen+Allegro utelates fra miniparadigmer til substantiver. Bare
+vanlig gentiv presenteres i miniparadigmet til substantiver.
+Allegro skal være med som oppslagsform i ordboka.  
 
 3. Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale til boaššobealle er inaktiv.
  ==> dette fungerer når man inaktiverer andre ordbøker i dict-programmet og starter programmet på nytt. 
@@ -255,6 +257,9 @@ Det samme gjelder feks diđolaš, duođalaš og andre adjectiv som går til lexi
 
 for lexicon LAIKI gjelder det somá, men ikke fuotni.
 for lexicon VIELG gjelder dette njárbat, men ikke  'ruoksat' 
+
+ ==> This should be done now by dropping the use of internal
+ references.
 
 VERB
 7. Use/NVD er ikke implementert når det gjelder nøkkelformer for verb
