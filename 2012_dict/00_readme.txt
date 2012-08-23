@@ -316,7 +316,6 @@ viehkat	verb_smenob.xml:         <l_ref>ruohttat_v</l_ref>
 
 ==> Alt ok.
 
-Det er ingen fordel for å sage av sintakstregrenen under den egen bakdel.
 
 SRC:
 9. få 'src' synlig til de eksemplene som har det. F.eks. bákteolmmoš
