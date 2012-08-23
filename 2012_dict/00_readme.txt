@@ -319,5 +319,5 @@ VMAX-dict test results (next time, please use this document):
 
 2. vmax-greie: lemma mihkkege: mihkke er ikke kommet med
 
-STATIC-dict: test results for this dictonary???
+STATIC-dict: test results for this dictionary???
  
