@@ -261,6 +261,8 @@ Når det gjelder tall fra 10 og oppover så mangler konteksten for pl.nom, f.eks
 pl. gen.			duháhiid (gápmagiid)
 
 Skal det være sånn?
+ ==> TODO
+
 
 6. Linking tilbake til lemma fungerer ikke:
 feks. linken fra lemma 'lihkolaš' til nøkkelform 'lihkolaččat' fungerer
@@ -298,24 +300,7 @@ Den formen som er merket Use/NVD skal ikke vises i nøkkelformene til
 L_REF
 8. plassering av l_ref: 
 Informasjon om l_ref mangler fullstendig, og er presentert som en tom linje.
-Se feks 'giehtagiella' 
-andre lemma med l_ref:
-asehaš	adjective_smenob.xml:         <l_ref>seaggi_a</l_ref>
-assái	adjective_smenob.xml:         <l_ref>gassat_a</l_ref>
-gassat	adjective_smenob.xml:         <l_ref>assái_a</l_ref>
-seaggi	adjective_smenob.xml:         <l_ref>asehaš_a</l_ref>
-mannjesássa	nounCommon_smenob.xml:         <l_ref>mannji_n</l_ref>
-giehtagiella	nounCommon_smenob.xml:         <l_ref>seavagiella_n</l_ref>
-Romssavággi	nounRevProper_smenob.xml:         <l_ref>Sálašvággi_prop</l_ref>
-Sálašvággi	nounRevProper_smenob.xml:         <l_ref>Romssavággi_prop</l_ref>
-dahje	other_stat_smenob.xml:         <l_ref>vai_cc</l_ref>
-vai	other_stat_smenob.xml:         <l_ref>dahje_cc</l_ref>
-ruohttat	verb_smenob.xml:         <l_ref>viehkat_v</l_ref>
-viehkat	verb_smenob.xml:         <l_ref>ruohttat_v</l_ref>
-čuohcat	verb_smenob.xml:         <l_ref>čuohcit_v</l_ref>
-
-==> Alt ok.
-
+==> DONE
 
 SRC:
 9. få 'src' synlig til de eksemplene som har det. F.eks. bákteolmmoš
@@ -326,4 +311,13 @@ SRC:
               de lever kanskje evig.</xt>
               
 ==> Er ikke implementert.
+
+VMAX-dict test results (next time, please use this document):
+
+1. det eneste er at lsub millijuvdna fungerer ikke
+ (men lsub miljun fungerer)
+
+2. vmax-greie: lemma mihkkege: mihkke er ikke kommet med
+
+STATIC-dict: test results for this dictonary???
  
