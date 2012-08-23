@@ -248,8 +248,12 @@ VMAX-dict test results (next time, please use this document):
 
 1. det eneste er at lsub millijuvdna fungerer ikke
  (men lsub miljun fungerer)
+ ==> DONE
 
 2. vmax-greie: lemma mihkkege: mihkke er ikke kommet med
+ ==> Cip tested both with the previous and the current version of the dict-isme-norm.fst:
+     there is no mihkke-form in the paradime file.
+
 
 STATIC-dict: test results for this dictionary???
  
