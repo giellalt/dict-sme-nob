@@ -293,7 +293,7 @@ Den formen som er merket Use/NVD skal ikke vises i nøkkelformene til
 
  ==> TO CHECK: they are not in the paradigme at all (because of
  commenting them out from tag-not-save.regex): no, because of some
- Use/NVD-tag that has to be added.
+ Use/NVD-tag that has to be added. ==> la til Use/NVD i verb-codes og nå fungerer dette.
 
 L_REF
 8. plassering av l_ref: 
