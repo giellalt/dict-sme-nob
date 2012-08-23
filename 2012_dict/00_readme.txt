@@ -207,95 +207,27 @@ Some observations after first version of VD 1.4- 14. august 2012:
 Generated VD:
 SUBSTANTIVER:
 1. Nøkkelformer substantiver - bare vanlig genetiv presenteres:
-Bare vanlig gentiv (soaji	soadji+N+Sg+Gen) presenteres i nøkkelformene til substantiver.
-Allegro-former (f.eks. soaje	soadji+N+Sg+Gen+Allegro) skal utelates fra nøkkelformer til substantiver
-Allegro-formen skal være med som oppslagsform i ordboka.
-
- ==> DONE and (tested with soadji)
- Marja har testet, alt ok.
+ ==> DONE
 
 2.Linking fungerer ikke i lemmaer med <te>, feks linken fra boaššobeale (Sg Gen/Sg/Akk) til boaššobealle (Sg Nom) er inaktiv.
  ==> DONE
- Berit har testet, alt ok.
 
 3. Linking til lemmaet fungerer ikke for bla følgende former:
-Linking Fra lemmaet 'olmmoš' til nøkkelformen 'olbmo' SgGen fungerer fint.
-Linking tilbake fra formen 'olbmo' SgGen til lemmaet 'olmmoš' fungerer ikke. Output blir: Ingen oppføringer funnet.
-
-Dette gjelder også andre kontraktesubstantiv som: fális, olmmái, bálddis
-Felles for disse er at de går til lexikon FALIS
-Disse kontrakte formene fungerer: boazu
-
-For lemmaet 'heasta' og 'soadji' fungerer linkingen begge veier
-
  ==> DONE
- Berit har testet, alt ok.
 
 ADJEKTIVER
 4. Use/NVD er ikke implementert når det gjelder nøkkelformer for adjektiver: 
-se feks lihkolaš i VD i dag:
-komp. attr. lihkolit lihkolut lihkolet lihkolat lihkolaččat
-komp. sg. nom. lihkolit lihkolut lihkolet lihkoleabbo lihkolat lihkolabbo lihkolaččat 
+ ==> DONE
 
-Ved implementert Use/NVD for presentasjon av nøkkelformer skal resultatet være:
-komp. attr. lihkolet lihkolat
-komp. sg. nom. lihkoleabbo  lihkolabbo lihkolaččat
-
- ==> DONE (and tested with lihkolaš)ruoksat
- Marja har sjekket, alt okr
-
-5. lacking context infos for adj attr in nøkkelformer:
-Feks: ruoksat
-attr.			rukses
-
-Slik skal det være med implementert context - context i parentes:
-attr.			rukses (bivttas)
-
- ==> DONE (and tested with ruoksat and okta)
- Alt ok når det gjelder kontekst for adjektiver. 
- Når det gjelder numeraler så er kontekst ok for tallene 1-10, f.eks: 
- pl. nom.			ovccit (gápmagat)
-pl. gen.			ovcciid (gápmagiid)
-
-Når det gjelder tall fra 10 og oppover så mangler konteksten for pl.nom, f.eks: pl. nom.			duháhat ()
-pl. gen.			duháhiid (gápmagiid)
-
-Skal det være sånn?
- ==> TODO
-
+5. lacking context infos for adj attr  and num in nøkkelformer:
+ ==> DONE
 
 6. Linking tilbake til lemma fungerer ikke:
-feks. linken fra lemma 'lihkolaš' til nøkkelform 'lihkolaččat' fungerer
-linken fra 'lihkolaččat' tilbake til lemma 'lihkolaš' fungerer ikke: Ingen oppføringer funnet.
-
-Det samme gjelder feks diđolaš, duođalaš og andre adjectiv som går til lexicon DABALAS
-
-
-for lexicon LAIKI gjelder det somá, men ikke fuotni.
-for lexicon VIELG gjelder dette njárbat, men ikke  'ruoksat' 
-
- ==> This should be done now by dropping the use of internal
- references.
- Dette fungerer.
+ ==> DONE
 
 VERB
 7. Use/NVD er ikke implementert når det gjelder nøkkelformer for verb
-kontrakteverb og ulikestavlesesverb:
-sugadit: indik. pret. 1p. sg.			(ikte mun) sugadin sugadedjen
-Riktig paradigmer er: indik. pret. 1p. sg.			(ikte mun) sugadin
-
-fertet: indik. pret. 1p. sg.			(ikte mun) fertejin fertejedjen
-riktig paradigme er : indik. pret. 1p. sg.			(ikte mun) fertejin
-
  ==> DONE
-
-Den formen som er merket Use/NVD skal ikke vises i nøkkelformene til
- verbet, men skal likevel presenteres som en mulig analyse i VD.
- Dette gjelder indik. pret. 1p sg for kontrakteverb og ulikestavelsesverb.
-
- ==> TO CHECK: they are not in the paradigme at all (because of
- commenting them out from tag-not-save.regex): no, because of some
- Use/NVD-tag that has to be added. ==> la til Use/NVD i verb-codes og nå fungerer dette.
 
 L_REF
 8. plassering av l_ref: 
