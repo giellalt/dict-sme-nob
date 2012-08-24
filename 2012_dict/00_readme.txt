@@ -267,6 +267,17 @@ KOMMENTARER til MWE_VD 24.8.2012:
 
 4. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): skal ha alle singularis formene i ordboka. Kommitativ Sg og essiv må legges til som oppslagsord.
 
+Disse paradimger ble generert med bruk av proper noun codes xom bestemt her:
+main/gt/sme/testing/codes/dict/prop-codes.txt
++N+Prop+Sg+Nom
++N+Prop+Sg+Gen
++N+Prop+Sg+Gen+Allegro
++N+Prop+Sg+Acc
++N+Prop+Sg+Ill
++N+Prop+Sg+Loc
+
+Da må dokker bli enig om hva skal gjelde for egetnavner.
+
 5. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): er merket som uttrykk. Kan de merkes som egennavn?
 
 
