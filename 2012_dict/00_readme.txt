@@ -256,4 +256,36 @@ VMAX-dict test results (next time, please use this document):
 
 
 STATIC-dict: test results for this dictionary???
+
+KOMMENTARER til MWE_VD 24.8.2012:
+
+1. Nøkkelformene er OK
+
+2. lemmaene fra mweNoun_smenob (dvs 4 lemmaer: eatni guovttos, luntta guovttos, váhnen guovttos, vieljaš guovttos): kun singularis former i ordboka. Pluralis-formene må tas bort. 
+
+3. lemmaene fra mweNoun_smenob (dvs 4 lemmaer: eatni guovttos, luntta guovttos, váhnen guovttos, vieljaš guovttos): er merket som uttrykk. Kan de merkes som substantiv?
+
+4. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): skal ha alle singularis formene i ordboka. Kommitativ Sg og essiv må legges til som oppslagsord.
+
+5. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): er merket som uttrykk. Kan de merkes som egennavn?
+
+
+VMAX
+1. guovttis substantiv (merket illpl="no") får dobbelt opp i nøkkelformene:
+Nøkkelformer:	
+sg. gen.			guoktá
+sg. gen.			guoktá
+sg. ill.			guoktái
+sg. ill.			guoktái
+
+
+Andre vmax merket med illpl="no" får ikke dette:
+Nøkkelformer:	
+sg. gen.			ođđajagemánu
+sg. ill.			ođđajagemánnui
+
+2. miljovdna (numeral) mangler context
+pl. gen.			miljovnnaid
+
+
  
