@@ -262,11 +262,14 @@ KOMMENTARER til MWE_VD 24.8.2012:
 1. Nøkkelformene er OK
 
 2. lemmaene fra mweNoun_smenob (dvs 4 lemmaer: eatni guovttos, luntta guovttos, váhnen guovttos, vieljaš guovttos): kun singularis former i ordboka. Pluralis-formene må tas bort. 
+__cip__: Jeg antar at du mener i nøkkelformer, ikke i ordboka som oppslagsord.
+ ==> done (manually for now) 
 
 3. lemmaene fra mweNoun_smenob (dvs 4 lemmaer: eatni guovttos, luntta guovttos, váhnen guovttos, vieljaš guovttos): er merket som uttrykk. Kan de merkes som substantiv?
+ ==> done (how nice is to follow cip's advice for marking mwe with 'phrase_POS') 
 
 4. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): skal ha alle singularis formene i ordboka. Kommitativ Sg og essiv må legges til som oppslagsord.
-
+ ==> not done (change the code files after consultation with Trond and Lene)
 Disse paradimger ble generert med bruk av proper noun codes xom bestemt her:
 main/gt/sme/testing/codes/dict/prop-codes.txt
 +N+Prop+Sg+Nom
@@ -279,7 +282,7 @@ main/gt/sme/testing/codes/dict/prop-codes.txt
 Da må dokker bli enig om hva skal gjelde for egetnavner.
 
 5. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): er merket som uttrykk. Kan de merkes som egennavn?
-
+ ==> done (how nice is to follow cip's advice for marking mwe with 'phrase_POS') 
 
 VMAX
 1. guovttis substantiv (merket illpl="no") får dobbelt opp i nøkkelformene:
@@ -297,6 +300,4 @@ sg. ill.			ođđajagemánnui
 
 2. miljovdna (numeral) mangler context
 pl. gen.			miljovnnaid
-
-
  
