@@ -292,12 +292,13 @@ sg. gen.			guoktá
 sg. ill.			guoktái
 sg. ill.			guoktái
 
-
 Andre vmax merket med illpl="no" får ikke dette:
 Nøkkelformer:	
 sg. gen.			ođđajagemánu
 sg. ill.			ođđajagemánnui
+ ==> todo
 
 2. miljovdna (numeral) mangler context
 pl. gen.			miljovnnaid
+ ==> todo
  
