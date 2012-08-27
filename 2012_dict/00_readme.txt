@@ -264,6 +264,8 @@ KOMMENTARER til MWE_VD 24.8.2012:
 2. lemmaene fra mweNoun_smenob (dvs 4 lemmaer: eatni guovttos, luntta guovttos, váhnen guovttos, vieljaš guovttos): kun singularis former i ordboka. Pluralis-formene må tas bort. 
 __cip__: Jeg antar at du mener i nøkkelformer, ikke i ordboka som oppslagsord.
  ==> done (manually for now) 
+Not only in miniparadigm, all forms plural of the 'guovttos'-lemmata should be removed!
+
 
 3. lemmaene fra mweNoun_smenob (dvs 4 lemmaer: eatni guovttos, luntta guovttos, váhnen guovttos, vieljaš guovttos): er merket som uttrykk. Kan de merkes som substantiv?
  ==> done (how nice is to follow cip's advice for marking mwe with 'phrase_POS') 
