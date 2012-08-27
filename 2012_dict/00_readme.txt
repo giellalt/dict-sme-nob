@@ -284,6 +284,10 @@ Da må dokker bli enig om hva skal gjelde for egetnavner.
 5. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): er merket som uttrykk. Kan de merkes som egennavn?
  ==> done (how nice is to follow cip's advice for marking mwe with 'phrase_POS') 
 
+Static files:
+ change pos label from uttrykk til adv/etc.
+ ==> todo
+
 VMAX
 1. guovttis substantiv (merket illpl="no") får dobbelt opp i nøkkelformene:
 Nøkkelformer:	
