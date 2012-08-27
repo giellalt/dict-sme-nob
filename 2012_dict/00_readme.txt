@@ -300,5 +300,5 @@ sg. ill.			ođđajagemánnui
 
 2. miljovdna (numeral) mangler context
 pl. gen.			miljovnnaid
- ==> todo
+ ==> done
  
