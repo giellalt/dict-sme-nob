@@ -287,6 +287,7 @@ sg. gen.			guoktá
 sg. gen.			guoktá
 sg. ill.			guoktái
 sg. ill.			guoktái
+ ==> todo
 
 Andre vmax merket med illpl="no" får ikke dette:
 Nøkkelformer:	
@@ -296,5 +297,11 @@ sg. ill.			ođđajagemánnui
 
 2. miljovdna (numeral) mangler context
 pl. gen.			miljovnnaid
- ==> done
+ ==> todo
+
+Generated:
+1. noe (ikke alle) numerals mangler context for pl. nom.
+okta is ok, ovcci is ok, miljárda is ok, but moaddelogi or máŋgalogi not. 
+ ==> debugging
+
  
