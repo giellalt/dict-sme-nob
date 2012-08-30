@@ -271,17 +271,7 @@ Not only in miniparadigm, all forms plural of the 'guovttos'-lemmata should be r
  ==> done (how nice is to follow cip's advice for marking mwe with 'phrase_POS') 
 
 4. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): skal ha alle singularis formene i ordboka. Kommitativ Sg og essiv må legges til som oppslagsord.
- ==> not done (change the code files after consultation with Trond and Lene)
-Disse paradimger ble generert med bruk av proper noun codes xom bestemt her:
-main/gt/sme/testing/codes/dict/prop-codes.txt
-+N+Prop+Sg+Nom
-+N+Prop+Sg+Gen
-+N+Prop+Sg+Gen+Allegro
-+N+Prop+Sg+Acc
-+N+Prop+Sg+Ill
-+N+Prop+Sg+Loc
-
-Da må dokker bli enig om hva skal gjelde for egetnavner.
+ ==> done and tested 
 
 5. lemmaene fra mweProper (3 lemmaer: Ipmil Áhčči, Stuorra Británnia og Sámisoga lávlla): er merket som uttrykk. Kan de merkes som egennavn?
  ==> done (how nice is to follow cip's advice for marking mwe with 'phrase_POS') 
