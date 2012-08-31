@@ -255,7 +255,6 @@ VMAX-dict test results (next time, please use this document):
      there is no mihkke-form in the paradime file.
 
 
-STATIC-dict: test results for this dictionary???
 
 KOMMENTARER til MWE_VD 24.8.2012:
 
@@ -287,7 +286,6 @@ sg. gen.			guoktá
 sg. gen.			guoktá
 sg. ill.			guoktái
 sg. ill.			guoktái
- ==> todo
 
 Andre vmax merket med illpl="no" får ikke dette:
 Nøkkelformer:	
@@ -298,4 +296,26 @@ sg. ill.			ođđajagemánnui
 2. miljovdna (numeral) mangler context
 pl. gen.			miljovnnaid
  ==> done
+
+Generated:
+
+Generated:
+1.
+I nounCommon-fila har vi
+<e usage="vd">
+     <lg>
+        <l illpl="no" pos="n">buresboahtin</l>
+     </lg>
+     <mg>
+        <tg xml:lang="nob">
+           <t decl="1" gen="n" pos="n">velkommen</t>
+        </tg>
+     </mg>
+  </e>
+
+Kanskje vi burde linke mellom, slik som  vi har gjort mellom vai og dahje ?
+
+<l_ref>vai_cc</l_ref>
+
+ ==> todo
 
