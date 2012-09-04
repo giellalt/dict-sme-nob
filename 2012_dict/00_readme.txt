@@ -291,13 +291,12 @@ Andre vmax merket med illpl="no" får ikke dette:
 Nøkkelformer:	
 sg. gen.			ođđajagemánu
 sg. ill.			ođđajagemánnui
- ==> todo
+ ==> done (the cause is the Coll flag in the generation which
+     generates exactly the same forms as the normal ones)
 
 2. miljovdna (numeral) mangler context
 pl. gen.			miljovnnaid
  ==> done
-
-Generated:
 
 Generated:
 1.
