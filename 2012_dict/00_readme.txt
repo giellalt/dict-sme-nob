@@ -316,5 +316,15 @@ Kanskje vi burde linke mellom, slik som  vi har gjort mellom vai og dahje ?
 
 <l_ref>vai_cc</l_ref>
 
- ==> todo
+ ==> done
+ jeg har linket mellom buresboahtin_n og bures boahtin_phrase_n.
+         <l pos="phrase_n">bures boahtin</l>
+         <l_ref>buresboahtin_n</l_ref>
 
+         <l illpl="no" pos="n">buresboahtin</l>
+         <l_ref>bures boahtin_phrase_n</l_ref>
+
+  De to lemmaene er i forskjellige filer: buresboahtin_n i nounCommon_smenob og bures boahtin_phrase_n er i div_statisk_smenob-fila
+
+
+2. l pos="phrase_x" er nå erstattet med riktig pos, i dette tilfellet var alle 3 forekomstene phrase_n.
