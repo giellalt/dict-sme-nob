@@ -30,7 +30,21 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l context="dat" pos="v">čoalkkuhit</l>
+         <l context="mun" pos="v">suohpalastit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="v">koste</t>
+              <xg>
+               <x>Váldde suohpala ja suohpalastte láhtti!</x>
+               <xt>Ta sopelimen og kost golvet!</xt>
+            </xg>
+       </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="mun" pos="v">čoalkkuhit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -657,6 +671,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">bli belagt med rim</t>
+            <xg>
+               <x>Muorat leat ritnon.</x>
+               <xt>Trærne er dekt med rim.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3843,6 +3861,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">bli rimbelagt</t>
+            <xg>
+               <x>Eana lea bihcon.</x>
+               <xt>Bakken er dekket av rim.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

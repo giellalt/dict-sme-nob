@@ -30,6 +30,97 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">suohpal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="n">sopelime</t>
+              <xg>
+               <x>Váldde suohpala ja suohpalastte láhtti!</x>
+               <xt>Ta sopelimen og kost golvet!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">likta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">lykt</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">skeittá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om sportsutstyr</re>
+            <t pos="n">skøyte</t>
+            <xg>
+               <x>Váldde skeittáid mielde, de sáhtte skeittástallat jieŋa alde.</x>
+               <xt>Ta med skøytene, så kan vi skøyte på isen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">sukká</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">disse</t>
+            <t pos="n">gynge</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">suhkká</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">disse</t>
+            <t pos="n">gynge</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">bivvu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">varmt klesplagg</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">oaggunstávrá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">fiskestang</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">čálbmeáhkku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">jordmor</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">earti</l>
       </lg>
       <mg>
@@ -14697,6 +14788,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="n">rimfrost</t>
             <t decl="1" gen="n" pos="n">rim</t>
+            <xg>
+               <x>Čakčat, go galbmigoahtá, lea bihci buorre mearka dasa ahte áigi állanišgoahtá dálvvi guvlui ja de sáhttá oaidnit ahte eana ja stohporobit leat bihcon.</x>
+               <xt>Om høsten, når det begynner å bli kaldt, lea rim et sikkert tegn på at det begynner å gå mot vinter og da kan man se at bakken og hustakene er dekket med rim.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -40197,7 +40292,7 @@ For the full license text, see the link above.</lic>
             <t decl="1" gen="n" pos="n">rim</t>
             <xg>
                <x>Ritni lea muorain ja biergasiin.</x>
-               <xt>Ritni er på trærne og på ting.</xt>
+               <xt>Ritni er rim på trærne og på ting.</xt>
             </xg>
          </tg>
       </mg>
@@ -61403,17 +61498,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <tf decl="n" pos="phrase">gammelt slitt klesplagg</tf>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">bivvu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>plurale tantum</re>
-            <t decl="yyy" gen="n" nr="pl" pos="n">klær</t>
          </tg>
       </mg>
    </e>
@@ -113695,7 +113779,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">náppoš</l>
       </lg>
