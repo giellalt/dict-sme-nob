@@ -30,6 +30,71 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">garraduodji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="phrase_n">hårdsløyd</t>
+            <t pos="phrase_n">sløyd med harde materialer</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">gávpotsápmelaš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="n">bysame</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">bálkábargu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="f" pos="n">lønnsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">siskkoš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">det indre</t>
+            <xg>
+               <x>Sii geavahedje buot siskkožiid málesteapmái</x>
+               <xt>De brukte all innmaten til matlaging.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">sealgeeadni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">jordmor</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">oaggunstággu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">fiskestang</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">suohpal</l>
       </lg>
       <mg>
@@ -49347,6 +49412,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="n">nytte</t>
+            <xg>
+               <x>Lea go dát oahppu ávkin boazodolliide?</x>
+               <xt>Er denne utdanninga nyttig for reindriftssamer?</xt>
+            </xg>
+            <xg>
+               <x>Sii duoljis ja čoarvvis atnet ávkki.</x>
+               <xt>De utnytter skinnet og hornet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -65345,7 +65418,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">buvtta</l>
       </lg>
@@ -66830,7 +66903,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">bálseduodji</l>
       </lg>
@@ -70331,12 +70404,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">dipmaduodji</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="phrase_n">myksløyd</t>
             <t pos="phrase_n">håndarbeid med myke materialer</t>
          </tg>
       </mg>
@@ -113809,7 +113883,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">nástefinddár</l>
       </lg>
@@ -128390,7 +128464,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">rátkka</l>
       </lg>
@@ -144743,7 +144817,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">vuoigŋaduodji</l>
       </lg>
