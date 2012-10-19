@@ -30,6 +30,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">johtolatriekkis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="n">rundkjøring</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">garraduodji</l>
       </lg>
       <mg>
@@ -17604,7 +17614,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="1" gen="m" pos="n">fase</t>
+            <t decl="1" gen="m" pos="n">trinn</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="n">grad</t>
          </tg>
       </mg>
    </e>
