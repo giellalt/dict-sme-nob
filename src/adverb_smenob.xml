@@ -2116,7 +2116,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">herfra</t>
-            <tf>herfra omkring</tf>
+            <tf pos="phrase_adv">herfra omkring</tf>
             <xg>
                <x>Ánte vulggii dáppe ikte.</x>
                <xt>Ánte dro herfra i går.</xt>
@@ -2145,7 +2145,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">herfra</t>
-            <tf>akkurat herfra</tf>
+            <tf pos="phrase_adv">akkurat herfra</tf>
             <xg>
                <x>Mii vuoddjáimet dás golmma áigge.</x>
                <xt>Vi kjørte herfra i tretiden.</xt>
@@ -3492,7 +3492,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf>sørfra</tf>
+            <t pos="adv">sørfra</t>
             <xg>
                <x>Mun bohten ikte lullin.</x>
                <xt>Jeg kom sørfra i går.</xt>
@@ -4879,7 +4879,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" reverse="no" usage="vd">
       <lg>
          <l pos="adv">fal</l>
       </lg>
