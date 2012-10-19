@@ -1756,13 +1756,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e reverse="no" usage="vd">
       <lg>
          <l pos="n">boaššobealle</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <te>den side som vender mot boaššu, det vil si den innerste delen av telt, gamme eller hus</te>
+            <te pos="phrase_n">den side som vender mot boaššu, det vil si den innerste delen av telt, gamme eller hus</te>
          </tg>
       </mg>
    </e>
@@ -2013,7 +2013,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="n">fjellvann</t>
-            <tf>vann på vidda</tf>
          </tg>
       </mg>
    </e>
@@ -25066,7 +25065,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf>skalle sydd av leggskinn</tf>
+            <tf pos="phrase_n">skalle sydd av leggskinn</tf>
             <xg>
                <x>Mus leat ođđa goikkehat.</x>
                <xt>Jeg har nye skaller.</xt>
@@ -27835,7 +27834,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf>skalle sydd av skalleskinn</tf>
+            <tf pos="phrase_n">skalle sydd av skalleskinn</tf>
          </tg>
       </mg>
    </e>
@@ -38147,7 +38146,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf>skalle sydd av leggskinn</tf>
+            <tf pos="phrase_n">skalle sydd av leggskinn</tf>
          </tg>
       </mg>
    </e>
@@ -40613,7 +40612,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf>kroket ting</tf>
+            <tf pos="phrase_n">kroket ting</tf>
          </tg>
       </mg>
    </e>
@@ -134897,7 +134896,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e reverse="no">
       <lg>
          <l pos="n">sroba</l>
       </lg>
@@ -134906,7 +134905,7 @@ For the full license text, see the link above.</lic>
             <t decl="yyy" gen="m" pos="n">dråpe</t>
          </tg>
          <tg xml:lang="nob">
-            <te>Hoffmansdråpe, blanding av sprit og eter, som tidligere ble brukt sammen med kaffe</te>
+            <te pos="phrase_n">Hoffmansdråpe, blanding av sprit og eter, som tidligere ble brukt sammen med kaffe</te>
          </tg>
       </mg>
    </e>
@@ -155639,7 +155638,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="n">dyp</t>
-            <tf>dypt sted</tf>
+            <tf pos="phrase_n">dypt sted</tf>
             <xg>
                <x>Lea go hávvi mannan čiekŋalassii?</x>
                <xt>Har såret gått dypt?</xt>
