@@ -326,5 +326,25 @@ Kanskje vi burde linke mellom, slik som  vi har gjort mellom vai og dahje ?
 
   De to lemmaene er i forskjellige filer: buresboahtin_n i nounCommon_smenob og bures boahtin_phrase_n er i div_statisk_smenob-fila
 
-
 2. l pos="phrase_x" er nå erstattet med riktig pos, i dette tilfellet var alle 3 forekomstene phrase_n.
+
+=====================================
+TODO issues for the next compilation:
+
+1. overgenerating imperative forms
+
+Overgenering... 
+
+Vi bør se på dette før neste generering av ordboka, om vi skal begrense Imperativ-generering for ordboka. Imperativ Sg1 er sjelden i tekster, og jeg tror ikke at det er naturlig å bruke denne formen for alle verb. Uansett så burde den ikke komme opp først.
+
+Dette ble litt morsomt no, fordi jeg sendte en mail til en student:
+
+"Giitu! Mun lean dál divvon liŋkka."
+
+og den kan da forstås slik ved hjelp av VD (hvis man ikke velger Mer i VD): "Takk! Jeg er blitt full .... "
+
+Jeg sender denne til Thomas også, for det å vurdere begrensning kan være bra for Divvun også, sjøl om det i dette tilfellet ikke vil ha noe å si, da formen 'divvon' eksisterer uansett.
+
+
+
+

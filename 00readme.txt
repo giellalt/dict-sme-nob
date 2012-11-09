@@ -233,9 +233,6 @@ src>grep '<te' *.xml | cut -d ':' -f1  | sort | uniq -c | sort -nr
    
 ==> done in smenob   
 
-
-
-
 Et lite mysterium.... 
 
 Jeg ble overraska over at dicten kan skanne ordet VEAHKAVÁLDIN skrevet med store bokstaver som to ord. Det er jo ikke ofte at ord er skrevet med store bokstaver, så det gir begrensa effekt for brukeren. Men jeg skjønner ikke hvorfor MacDict ikke da kan skanne SKUVLAVUODJIN som to ord?  Ingen stor sak, men et lite mysterium...
