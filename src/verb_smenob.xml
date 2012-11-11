@@ -7983,26 +7983,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="dat" pos="v">dievvat</l>
-         <lc>(dat) dievai, divvet</lc>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="phrase_v">bli full</t>
-            <xg>
-               <x>Lihtti dievvá.</x>
-               <xt>Karet blir fullt.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="v">flø</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
          <l context="mun" pos="v">dieđihit</l>
       </lg>
       <mg>
@@ -8520,6 +8500,26 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">reparere</t>
             <t pos="phrase_v">rette på</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l context="dat" pos="v">dievvat</l>
+         <lc>(dat) dievai, divvet</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="phrase_v">bli full</t>
+            <xg>
+               <x>Lihtti dievvá.</x>
+               <xt>Karet blir fullt.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="v">flø</t>
          </tg>
       </mg>
    </e>
