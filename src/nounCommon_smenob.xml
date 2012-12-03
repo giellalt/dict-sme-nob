@@ -30,6 +30,136 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">ruitorudda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">gryterett</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">guollegratiidna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">fiskegrateng</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">rušpemeasttanas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">gulrotstuing</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">eartameasttanas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">ertestuing</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">lastamáissat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">cornflakes</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">eanamuorjemeastu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">jordbærsyltetøy</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">lávetmeastu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">bringebærsyltetøy</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">jurddasáhcu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">tankestrek</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">goallossáhcu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">bindestrek</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">beallečuokkis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">semikolon</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">duppalčuokkis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">kolon</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">gažaldatmearka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">spørsmålstegn</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">gollegorri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">det gyldne snitt</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">johtolatriekkis</l>
       </lg>
       <mg>
@@ -56759,7 +56889,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">apostrofa</l>
       </lg>
@@ -60137,7 +60267,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="yyy" gen="m" pos="n">kjøttlapskaus</t>
+            <t decl="yyy" gen="m" pos="n">lapskaus</t>
+            <t decl="yyy" gen="m" pos="n">gryterett med kjøtt</t>
          </tg>
       </mg>
    </e>
@@ -86401,13 +86532,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">guollerudda</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="yyy" gen="xxx" pos="n">fiskelapskaus</t>
+            <t decl="yyy" gen="xxx" pos="n">fiskegryte</t>
          </tg>
       </mg>
    </e>
@@ -104293,7 +104424,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">lákcasokta</l>
       </lg>
@@ -119613,7 +119744,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">paragráfa</l>
       </lg>
@@ -126803,12 +126934,53 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">juolgenohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">fotnote</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">finjusáhcu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">skråstrek</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">roahkkeruođut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">klammeparantes</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">dávgeruohtu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">parantes</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l pos="n">ruohtu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="n">parantes</t>
             <t decl="1" gen="f" pos="n">klamme</t>
          </tg>
       </mg>
@@ -133130,7 +133302,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">smierrosaláhtta</l>
       </lg>
@@ -148358,7 +148530,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">váranmeastu</l>
       </lg>
@@ -153329,7 +153501,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+ <e usage="vd">
       <lg>
          <l pos="n">čuorvvasmearka</l>
       </lg>
