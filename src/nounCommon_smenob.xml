@@ -788,31 +788,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">bellodatjođiheaddji</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="n">partileder</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="n">stáhtaboargár</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="n">statsborger</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">ovdagihtiijienasteapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="n">forhåndsstemming</t>
          </tg>
       </mg>
    </e>
@@ -1223,7 +1203,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">čálbmeáhkku</l>
+         <l pos="n">čalbmeáhkku</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1960,7 +1940,8 @@ For the full license text, see the link above.</lic>
    </e>  
    <e usage="vd">
       <lg>
-         <l pos="n">kopioriginála</l>
+         <l pos="n">kopiijaoriginála</l>
+         <lsub>kopioriginála</lsub>
          <lsub>kopiorginála</lsub>
       </lg>
       <mg>
@@ -2165,6 +2146,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">dihtorlatnja</l>
+         <lsub>datalatnja</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -3247,6 +3229,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">frimearka</l>
+         <lsub>friddjamearka</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -3530,16 +3513,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="n">tekopp</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">datalatnja</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="n">datarom</t>
          </tg>
       </mg>
    </e>
@@ -6099,16 +6072,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l illpl="no" pos="n">sámivuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="f" pos="n">samiskhet</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="n">spábbačiekčanjoavku</l>
       </lg>
       <mg>
@@ -6745,6 +6708,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l illpl="no" pos="n">sámevuohta</l>
+         <lsub>sámivuohta</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -8871,7 +8835,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">ovddabealle</l>
+         <l pos="n">ovdabealle</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -11096,7 +11060,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">máŋggabealátvuohta</l>
+         <l pos="n">máŋggabealatvuohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -12158,6 +12122,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">badjebealli</l>
+         <lsub>bajábealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -13379,16 +13344,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="n" pos="n">overflatevann</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
-         <l pos="n">bajábealli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="m" pos="n">oversiden</t>
          </tg>
       </mg>
    </e>
@@ -40759,7 +40714,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="n">radio</l>
+         <l pos="n">rádio</l>
+         <lsub>radio</lsub>
          <lc>radiot</lc>
          <lc>radiui</lc>
       </lg>
@@ -57768,9 +57724,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l pos="n">anánas</l>
+         <l pos="n">ananas</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -57878,9 +57834,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l pos="n">areálplána</l>
+         <l pos="n">areálaplána</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -59234,7 +59190,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">balansa</l>
+         <l pos="n">balánsa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -59773,9 +59729,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l pos="n">baseaŋga</l>
+         <l pos="n">basseaŋŋa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -59821,16 +59777,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="n" pos="n">vaskerom</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">basseaŋga</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="n" pos="n">basseng</t>
          </tg>
       </mg>
    </e>
