@@ -30,6 +30,127 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
+         <l pos="n">jahkejuvla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">årshjul</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">nuoraiddássi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">ungdomstrinn</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">ođasvuorká</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">nyhetsarkiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">digaštallanprográmma</l>
+         <lsub>digáštallanprográmma</lsub>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">debattprogram</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">guoimmuhanprográmma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">underholdningsprogram</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">ovttaskasolmmoš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">enkeltmenneske</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">ođasčuovvuleapmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">nyhetsoppfølging</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">mediaviessu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">mediehus</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">prográmmafálaldat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">programtilbud</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">prográmmadoaibma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">programvirksomhet</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">sáddehat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">studio</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="n">ruhtahoidu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">økonomi</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="n">álbmotstivra</l>
       </lg>
       <mg>
@@ -10448,7 +10569,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">radiosátta</l>
+         <l pos="n">rádiosátta</l>
+         <lsub>radiosátta</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -119789,7 +119911,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">ovttadat</l>
       </lg>
@@ -152110,7 +152232,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="n">ássanovttadat</l>
       </lg>
