@@ -237,3 +237,7 @@ Et lite mysterium....
 
 Jeg ble overraska over at dicten kan skanne ordet VEAHKAVÁLDIN skrevet med store bokstaver som to ord. Det er jo ikke ofte at ord er skrevet med store bokstaver, så det gir begrensa effekt for brukeren. Men jeg skjønner ikke hvorfor MacDict ikke da kan skanne SKUVLAVUODJIN som to ord?  Ingen stor sak, men et lite mysterium...
 
+FØR NESTE KOMPILERING:
+
+1. Sjekke at filene er oppdaterte slik at endringene som er gjort i kildefilene kommer med i ordboksfila, f.eks innføring av NomAct etc.
+
