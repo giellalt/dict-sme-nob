@@ -888,16 +888,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">riektesihkkarvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="n">rettssikkerhet</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="n">mánáidsuodjalanbálvalus</l>
       </lg>
       <mg>
@@ -1995,7 +1985,8 @@ For the full license text, see the link above.</lic>
    </e>  
    <e usage="vd">
       <lg>
-         <l pos="n">sektovra</l>
+         <l pos="n">sektor</l>
+         <lsub>sektovra</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2524,21 +2515,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="n">nattferdsel</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">earenoamášvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="m" pos="n">eiendommelighet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="n" pos="n">særpreg</t>
          </tg>
       </mg>
    </e>
@@ -8806,6 +8782,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="n">miellahttuvuohta</l>
+         <lsub>miellahttovuohta</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -21951,7 +21928,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">erenoamášvuohta</l>
+         <l pos="n" vmax="4">erenoamášvuohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -28446,7 +28423,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">gáhta</l>
+         <l pos="n" vmax="2">gáhta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -28473,16 +28450,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="2" gen="m" pos="n">anger</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">gáhtta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="f" pos="n">gate</t>
          </tg>
       </mg>
    </e>
@@ -42876,7 +42843,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">saláhta</l>
+         <l pos="n" vmax="2">saláhta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -53917,16 +53884,6 @@ For the full license text, see the link above.</lic>
                <x>Fargga son lei gorgŋen nagirvárrái.</x>
                <xt>Like etter så sovnet hun.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="n">saláhtta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="m" pos="n">salat</t>
          </tg>
       </mg>
    </e>
@@ -108333,16 +108290,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">miellahttovuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="yyy" gen="n" pos="n">medlemsskap</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="n">miellahttočoahkkin</l>
       </lg>
       <mg>
@@ -109103,8 +109050,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="n">mobiltelefovdna</l>
+         <l pos="n">mobiilatelefovdna</l>
          <lsub>mobiltelefuvdna</lsub>
+         <lsub>mobiltelefovdna</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
