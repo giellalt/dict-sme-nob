@@ -1050,6 +1050,10 @@ For the full license text, see the link above.</lic>
             <re>i hast eller en gang</re>
             <t pos="v">legge</t>
             <t pos="v">sette</t>
+            <xg>
+               <x>Son bidjalii reivve girjji sisa.</x>
+               <xt>Hun stakk brevet inn i boka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1350,6 +1354,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">holde</t>
+            <t pos="v">fortsette</t>
+            <xg>
+               <x>Sii doalahit dálá organiserema mas lea okta rektor goabbatge skuvllas.</x>
+               <xt>De fortsetter dagens organisering med en rektor på hver av de to skolene.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -3637,6 +3646,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">sette</t>
             <xg>
+               <x>Bija dan beavddi vuollái.</x>
+               <xt>Legg den under bordet.</xt>
+            </xg>
+            <xg>
                <x>Váhnemat háliidit bidjat mánáset mánáidgárdái.</x>
                <xt>Foreldrene vil sette barnet sitt i barnehagen.</xt>
             </xg>
@@ -4006,6 +4019,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">ødelegge</t>
+            <xg>
+               <x>2. máilbmesoađi maŋŋil biliduvvui stuorra oassi Finnmárkku viesuin.</x>
+               <xt>Etter 2. verdenskrig ble storparten av husa i Finnmark ødelagt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6508,6 +6525,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>en gang</re>
             <t pos="phrase_v">reise opp</t>
+            <xg>
+               <x>Son ceggii sabehiid seainni vuostá.</x>
+               <xt>Han stilte skiene mot veggen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7275,6 +7296,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">fylle</t>
+            <xg>
+               <x>Mun devden gári ravddaid dássá.</x>
+               <xt>Jeg fylte karet helt opp til kanten.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8721,6 +8746,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">fungere</t>
+            <xg>
+               <x>Ammahal dál doaibmá go measta buohkat stivrras leat eret seamma báikkis.</x>
+               <xt>Nå skal det antakelig fungere siden nesten alle i styret er fra samme sted.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8753,11 +8782,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">håpe</t>
+            <xg>
+               <x>Doivon duođai ahte dát ášši állana min beallái.</x>
+               <xt>Jeg håpet virkelig at denne saken går i vår favør.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">tro</t>
+            <xg>
+               <x>Muhto eat doaivvo guhká gal vejolažžan na dahkat, leaš go šat vejolaš obanassiige.</x>
+               <xt>Men vi trur ikke at det er mulig å gjøre det slik lenge, om det er mulig i det hele tatt
+               lenger.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9114,6 +9152,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">konfiskere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="v">dra</t>
+            <xg>
+               <x>Guđa mánu geahčen oažžu dollet Olmmáivággái.</x>
+               <xt>Om seks måneder får hun reise til Manndalen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10174,6 +10221,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">danse</t>
+            <xg>
+               <x>Dat dušše bođii jearrat áiggun go dánset.</x>
+               <xt>Hun bare kom og spurte om jeg ville danse.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10217,6 +10268,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">behøve</t>
             <t pos="v">trenge</t>
+            <xg>
+               <x>Mii dárbbašit dieđuid geavaheddjiid giela ja kultuvrra birra.</x>
+               <xt>Vi trenger informasjon om brukernes språk og kultur.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13136,6 +13191,10 @@ For the full license text, see the link above.</lic>
                <x>Mun in gille viesu čorget, mun gal buoret manan TV geahččat.</x>
                <xt>Jeg orker ikke å rydde huset, jeg skal heller se på TV.</xt>
             </xg>
+            <xg>
+               <x>Mun galggan geahččat dán viesu bearrái.</x>
+               <xt>Jeg skal se etter dette huset.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13320,6 +13379,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">bruke</t>
+            <xg>
+               <x>Galggašii geavahit daid riggodagaid mat mis leat, dan sajis go viežžat importaguliid
+               Lulli-Amerihkás.</x>
+               <xt>Vi bør høste av de ressurser som vi har, istedenfor å importere fisk fra Sør-Amerika.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15438,6 +15502,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">gjelde</t>
+            <xg>
+               <x>Boazologu mearrádusat mat leat dahkkon 1978-lága olis, gustojit dassážii go ođđa boazologu mearrádusat dahkkojit.</x>
+               <xt>Vedtak om reintall som er gjort i tråd med 1978-loven, vil gjelde inntil det foreligger nye vedtak om reintall.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15737,6 +15805,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Diet ii leat dan veara ášši ahte dies gánnáha šat hállagoahtit.</x>
                <xt>Den saken er ikke verdt å snakke mer om.</xt>
+            </xg>
+            <xg>
+               <x>Davábeallái viesu ii gánnát hukset veránda.</x>
+               <xt>På nordsiden av huset lønner det seg ikke å bygge en veranda.</xt>
             </xg>
          </tg>
       </mg>
@@ -16471,6 +16543,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">henge opp</t>
+            <xg>
+               <x>Ánne heŋgii čuovgga seaidnái seaŋgga bajábeallái.</x>
+               <xt>Ánne hengte opp en lampe på veggen over senga.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16793,6 +16869,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">bygge</t>
+            <xg>
+               <x>Davábeallái viesu ii gánnát hukset veránda.</x>
+               <xt>På nordsiden av huset lønner det seg ikke å bygge en veranda.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17064,6 +17144,10 @@ For the full license text, see the link above.</lic>
            <x>Hálan dutnje barggu birra.</x>
            <xt>Jeg snakker til deg om arbeidet.</xt>
          </xg>
+            <xg>
+               <x>Ii ge gillen suinna ba hállat ge šat.</x>
+               <xt>Og da giddet han ikke engang å snakke mer med henne.</xt>
+            </xg>
             <xg>
                <x>Don hálat duššiid!</x>
                <xt>Du snakker tull!</xt>
@@ -18368,6 +18452,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">spørre</t>
+            <xg>
+               <x>Dat dušše bođii jearrat áiggun go dánset.</x>
+               <xt>Hun bare kom og spurte om jeg ville danse.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21511,6 +21599,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">avrunde</t>
             <t pos="v">sluttføre</t>
+            <xg>
+               <x>Doaivumis lea Nordlys gasku tabealla go čiekčamat loahpahuvvojit čakčat.</x>
+               <xt>Forhåpentligvis er Nordlys midt på tabellen når serien avsluttes på høsten.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22282,6 +22374,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">re</t>
+            <xg>
+               <x>Mun lea láhčán seaŋgga oađđin láhkai.</x>
+               <xt>Jeg har redd opp sengen ferdig til å sove i.</xt>
+            </xg>
+            <xg>
+               <x>Go eiseválddit álgoálggos leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go dál lea dilli šaddan váttisin.</x>
+               <xt>Når myndighetene fra begynnelsen har lagt opp situasjonen sånn her, så må de takke seg selv for at situasjonen nå er blitt vanskelig.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23068,6 +23168,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">bestemme</t>
+            <xg>
+               <x>Dán materiála vuođul lea váttis mearridit.</x>
+               <xt>Det er vanskelig å gjøre vedtak på grunnlag av dette materialet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23859,6 +23963,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">huske</t>
             <t pos="v">minnes</t>
+            <xg>
+               <x>Almma muittát dan?</x>
+               <xt>Du husker det, ikke sant?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24132,6 +24240,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">brette</t>
+            <xg>
+               <x>Go biktasiid lea bassan ja goikadan, ferte ges máhccut daid.</x>
+               <xt>Når man har vaska og tørka klær, så må man også brette dem.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -24237,6 +24349,10 @@ For the full license text, see the link above.</lic>
                <x>Mun mávssán dan.</x>
                <xt>Jeg betaler den.</xt>
             </xg>
+            <xg>
+               <x>Mii máksit lahka 10 ruvnno bensinlittaris.</x>
+               <xt>Vi betaler i nærheten av 10 kroner for literen for bensin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -24275,6 +24391,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">male</t>
+            <xg>
+               <x>Áddjá málii dan fiskes sázu mii manná gasku luotta.</x>
+               <xt>Den gamle mannen malte den gule stripa som går midt på vegen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24323,6 +24443,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">reise</t>
             <t pos="v">ferdes</t>
+            <xg>
+               <x>Idol násttit mátkkoštit miehtá Norgga dán geasi.</x>
+               <xt>Idolstjernene reiser langs hele Norge den sommeren.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24416,6 +24540,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">klare</t>
+            <xg>
+               <x>In nagodan gozihit smávva beaivválaš áššiid ge.</x>
+               <xt>Jeg klarte ikke å ta meg av de små daglige tingene engang.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24426,6 +24554,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">putte</t>
+            <xg>
+               <x>Ale fal nahket gieđa stáidnára njálmmi ovddabeallái!</x>
+               <xt>Ikke putt hånda rett foran en steinbitsnute!</xt>
+            </xg>
             <t pos="v">stikke</t>
          </tg>
       </mg>
@@ -25458,6 +25590,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">stryke med handa</t>
+            <xg>
+               <x>Bussá liiko go Ánne njávká su beljiid duogi.</x>
+               <xt>Katten liker når Ánne stryker den bak ørene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26152,7 +26288,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="v">mene</t>
             <t pos="phrase_v">ta stilling til</t>
+            <xg>
+               <x>Máhtte logai ahte ii hal son goit dan oaivvildan.</x>
+               <xt>Máhtte sa at det var da ikke det han mente.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26252,6 +26393,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">sove</t>
+            <xg>
+               <x>Mánná oađđá eatni bálddas.</x>
+               <xt>Barnet sover ved siden av mora.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26805,6 +26950,12 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Sámediggi galgá ovddastit sámi álbmoga dáhtu ja sámiid beroštumiid.</x>
                <xt>Sametinget skal representere det samiske folkets vilje og samenes interesser.</xt>
+            </xg>
+            <xg>
+               <x>Finnmárkkus leat ássan dušše sápmelaččat, geat giela ja kultuvrra bokte ovddastit čearddalaš unnitlogu
+               Norggas.</x>
+               <xt>I Finnmark har det bodd bare samer, som med språk og kultur danner et nasjonalt mindretall i
+               Norge.</xt>
             </xg>
          </tg>
       </mg>
@@ -30374,6 +30525,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">angripe</t>
+            <xg>
+               <x>Ammahal dál rohkkáha mu?</x>
+               <xt>Antakeligvis farer han på meg nå?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -30413,6 +30568,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">rykke</t>
+            <xg>
+               <x>Rohttejin ránu oaivvi badjel vai oaččun nahkáriid.</x>
+               <xt>Jeg dro pleddet over hodet for å få sove.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -33339,6 +33498,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">styre</t>
+            <xg>
+               <x>Dávjá lea buoret vuodjit ealli njeaiga go stivret luottas eret.</x>
+               <xt>Ofte er det bedre å kjøre rett på et dyr enn å styre i grøfta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -33358,6 +33521,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Mánát stohket badjin.</x>
                <xt>Barna leker oppe.</xt>
+            </xg>
+            <xg>
+               <x>Lunttat ledje stoahkame skohteriin eanu alde.</x>
+               <xt>Guttene holdt på å leke med skuter på elva.</xt>
             </xg>
          </tg>
       </mg>
@@ -35660,6 +35827,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">hjelpe</t>
             <t pos="v">assistere</t>
+            <xg>
+               <x>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</x>
+               <xt>Jeg kan godt hjelpe deg, men i dag har jeg ikke tid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -35842,6 +36013,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">legge seg litt</t>
+            <xg>
+               <x>Vellet mu báldii!</x>
+               <xt>Legg deg ned ved siden av meg!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -35943,6 +36118,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">løpe avgårde</t>
+            <xg>
+               <x>Áhkku viehkalii mánáid maŋŋái.</x>
+               <xt>Bestemor sprang av gårde etter barna.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -36005,6 +36184,11 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Eadni vieččai skálu maid seaŋgagurrii bijai.</x>
                <xt>Mor henta ei bøtte som hun satte ved senga.</xt>
+            </xg>
+            <xg>
+               <x>Galggašii geavahit daid riggodagaid mat mis leat, dan sajis go viežžat importaguliid
+               Lulli-Amerihkás.</x>
+               <xt>Vi bør høste av de ressurser som vi har, istedenfor å importere fisk fra Sør-Amerika.</xt>
             </xg>
          </tg>
       </mg>
@@ -37786,6 +37970,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">fortjene</t>
+            <xg>
+               <x>Dien mearrádusa dihtii ánssáša ovdagoddi rámi.</x>
+               <xt>På grunn av det vedtaket fortjener formannskapet ros.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -38494,6 +38682,10 @@ For the full license text, see the link above.</lic>
             <re>en gang</re>
             <t pos="v">sparke</t>
             <t pos="v">spenne</t>
+            <xg>
+               <x>Son čievččasta čižžedoalana nuppi geahčái viesu.</x>
+               <xt>Hun sparker BHen til andre enden av huset.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -38833,6 +39025,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">samle</t>
+            <xg>
+               <x>Lea dehálaš čohkket boazodoallotearpmaid, dan bále go ain gávdnojit boazosámit geat máhttet dáid.</x>
+               <xt>Det er viktig å samle reindriftstermer mens det fremdeles fins reindriftssamer som kan dem.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -38863,6 +39059,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">holde på å sitte</t>
+            <xg>
+               <x>Lulábealde viesu lea buorre čohkohallat.</x>
+               <xt>På sørsiden av huset er det godt å sitte.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -39676,6 +39876,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="phrase_v">la seg registrere</t>
+            <xg>
+               <x>Buohkat geat leat čálihan iežaset jienastuslohkui leat dien čilgehusa mielde sámit.</x>
+               <xt>Alle som har meldt seg inn i manntallet er samer i følge den definisjonen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -40409,6 +40613,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">gjennomføres</t>
+            <xg>
+               <x>Ruhtadili geažil dat ii leat vel ollašuvvan.</x>
+               <xt>På grunn av økonomien er dette ikke blitt gjennomført enda.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
