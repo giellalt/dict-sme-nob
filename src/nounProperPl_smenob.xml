@@ -30,93 +30,93 @@ For the full license text, see the link above.</lic>
    </lics>
       <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl" type="obj">Gállábártnit</l>
+         <l pos="N" type="Prop" nr="Pl" subtype="Obj">Gállábártnit</l>
          <lsub>Gállabártnit</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <re>stjernebilde</re>
-            <t pos="prop" type="obj">Orions belte</t>
+            <t pos="Prop" subtype="Obj">Orions belte</t>
          </tg>
       </mg>
    </e>
       <e usage="vd" src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ivvárstádik</l>
+         <l pos="N" type="Prop" nr="Pl">Ivvárstádik</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc" reg="Ibestad">Ibestad</t>
+            <t pos="Prop" subtype="Plc" reg="Ibestad">Ibestad</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Bievák</l>
+         <l pos="N" type="Prop" nr="Pl">Bievák</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop">Bø</t>
+            <t pos="Prop">Bø</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Divrrák</l>
+         <l pos="N" type="Prop" nr="Pl">Divrrák</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc" reg="Troms">Dyrøy</t>
+            <t pos="Prop" subtype="Plc" reg="Troms">Dyrøy</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Riimmat</l>
+         <l pos="N" type="Prop" nr="Pl">Riimmat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc">Nordmannset</t>
+            <t pos="Prop" subtype="Plc">Nordmannset</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Skánik</l>
+         <l pos="N" type="Prop" nr="Pl">Skánik</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc" reg="Troms">Skånland</t>
+            <t pos="Prop" subtype="Plc" reg="Troms">Skånland</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Skánit</l>
+         <l pos="N" type="Prop" nr="Pl">Skánit</l>
       </lg>
       <mg>
 	<tg xml:lang="nob">
-	  <t pos="prop" type="plc" reg="Troms">Skånland</t>
+	  <t pos="Prop" subtype="Plc" reg="Troms">Skånland</t>
 	</tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Dálmmát</l>
+         <l pos="N" type="Prop" nr="Pl">Dálmmát</l>
       </lg>
       <mg>
 	<tg xml:lang="nob">
-	  <t pos="prop" type="plc" reg="Finnmark">Kjelmøya</t>
+	  <t pos="Prop" subtype="Plc" reg="Finnmark">Kjelmøya</t>
 	</tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl" type="obj">Dávggát</l>
+         <l pos="N" type="Prop" nr="Pl" subtype="Obj">Dávggát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop">Karlsvogna</t>
+            <t pos="Prop" subtype="Obj">Karlsvogna</t>
             <xg>
                <x>Dávggát leat nástegovva.</x>
                <xt>Karlsvogna er et stjernebilde.</xt>
@@ -126,1661 +126,1661 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Hilssát</l>
+         <l pos="N" type="Prop" nr="Pl">Hilssát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc">Hillesøy</t>
+            <t pos="Prop" subtype="Plc">Hillesøy</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Iččát</l>
+         <l pos="N" type="Prop" nr="Pl">Iččát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc">Ingøy</t>
+            <t pos="Prop" subtype="Plc">Ingøy</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Ihkkot</l>
+         <l pos="N" type="Prop" nr="Pl">Ihkkot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase" type="plc">Store Ekkerøy</tf>
+            <tf pos="phrase" subtype="Plc">Store Ekkerøy</tf>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Lodegat</l>
+         <l pos="N" type="Prop" nr="Pl">Lodegat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc">Lødingen</t>
+            <t pos="Prop" subtype="Plc">Lødingen</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Muosát</l>
+         <l pos="N" type="Prop" nr="Pl">Muosát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc">Måsøy</t>
+            <t pos="Prop" subtype="Plc">Måsøy</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Várggát</l>
+         <l pos="N" type="Prop" nr="Pl">Várggát</l>
       </lg>
       <mg>
 	<tg xml:lang="nob">
-	  <t pos="prop" type="plc" reg="Finnmark">Vardø</t>
+	  <t pos="Prop" subtype="Plc" reg="Finnmark">Vardø</t>
 	</tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop+Pl">Voagat</l>
+         <l pos="N" type="Prop" nr="Pl">Voagat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc">Vågan</t>
+            <t pos="Prop" subtype="Plc">Vågan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Basášjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Basášjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Hopseidvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Hopseidvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Bealgeoaivvit</l>
+         <l pos="N" type="Prop" nr="Pl">Bealgeoaivvit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Tommelfingertoppen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Tommelfingertoppen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Bealjáidjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Bealjáidjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Øretoppvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Øretoppvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Beaskaborjjit</l>
+         <l pos="N" type="Prop" nr="Pl">Beaskaborjjit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Balsfjord">Slettfjellet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Balsfjord">Slettfjellet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Beatnatbávttit</l>
+         <l pos="N" type="Prop" nr="Pl">Beatnatbávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Narvik">Hundbergan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Narvik">Hundbergan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Beatnatčohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Beatnatčohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Berlevåg">Hundtoppen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Berlevåg">Hundtoppen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Biertnat</l>
+         <l pos="N" type="Prop" nr="Pl">Biertnat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Måsøy">Bjørnøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Måsøy">Bjørnøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Bihpparat</l>
+         <l pos="N" type="Prop" nr="Pl">Bihpparat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Pepperholman</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Pepperholman</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Biltojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Biltojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nordreisa">Biltoelvvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nordreisa">Biltoelvvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Borsejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Borsejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Porsvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Porsvannan</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Sagvatna første</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Sagvatna første</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Cubbošjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Cubbošjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Skjåholmvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Skjåholmvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ditnuidluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl">Ditnuidluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Tørrelvvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Tørrelvvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Doaresdievát</l>
+         <l pos="N" type="Prop" nr="Pl">Doaresdievát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nordreisa">Doareshaugen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nordreisa">Doareshaugen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Doaresjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Doaresjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Tverrvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Tverrvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Doggeráhppát</l>
+         <l pos="N" type="Prop" nr="Pl">Doggeráhppát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Dåggeflogan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Dåggeflogan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Dápmotjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Dápmotjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Matvatnet nedre</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Matvatnet nedre</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Ørretvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Ørretvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Eatnannjoaskkejávrrážat</l>
+         <l pos="N" type="Prop" nr="Pl">Eatnannjoaskkejávrrážat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Bardu">Rundvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Bardu">Rundvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Fárppaljávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Fárppaljávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Vadsø">Tønnevannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Vadsø">Tønnevannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gahperusjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gahperusjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nordreisa">Gahperustjørna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nordreisa">Gahperustjørna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gearddosjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gearddosjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Tvillingvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Tvillingvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Geassesullot</l>
+         <l pos="N" type="Prop" nr="Pl">Geassesullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Sommerøy</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Sommerøy</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gieddejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gieddejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Leirpollvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Leirpollvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gierdduidjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gierdduidjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Storelvvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Storelvvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gierdohárjjit</l>
+         <l pos="N" type="Prop" nr="Pl">Gierdohárjjit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Banddalsryggen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Banddalsryggen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Girkojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Girkojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nordreisa">Kjerkevatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nordreisa">Kjerkevatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Goahtejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Goahtejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Gammevatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Gammevatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Goaskinbávttit</l>
+         <l pos="N" type="Prop" nr="Pl">Goaskinbávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Ørnefjellet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Ørnefjellet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Goasojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Goasojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Ørretvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Ørretvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Govdavákkejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Govdavákkejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Korsvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Korsvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Guhkesjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Guhkesjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Langvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Langvatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gumppejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gumppejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Slettfjellvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Slettfjellvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gussabávttit</l>
+         <l pos="N" type="Prop" nr="Pl">Gussabávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Narvik">Kuberget</tf>
+            <tf pos="Prop" subtype="Plc" reg="Narvik">Kuberget</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gussajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gussajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Narvik">Karenvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Narvik">Karenvatnan</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Kuvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Kuvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gáicajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gáicajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Narvik">Geitvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Narvik">Geitvatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gáissát</l>
+         <l pos="N" type="Prop" nr="Pl">Gáissát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Gaissane</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Gaissane</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gálbbejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gálbbejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Kalvevannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Kalvevannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gámmejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gámmejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Hammerfest">Kuskarvannene</tf>
+            <tf pos="Prop" subtype="Plc" reg="Hammerfest">Kuskarvannene</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gáranasjeakkit</l>
+         <l pos="N" type="Prop" nr="Pl">Gáranasjeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Korpmyran</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Korpmyran</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gáranasčohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Gáranasčohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Kråkeberget</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Kråkeberget</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gárdejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gárdejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Gardivatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Gardivatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gárjiljeakkit</l>
+         <l pos="N" type="Prop" nr="Pl">Gárjiljeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Vadsø">Kargilmyra</tf>
+            <tf pos="Prop" subtype="Plc" reg="Vadsø">Kargilmyra</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Heargevárit</l>
+         <l pos="N" type="Prop" nr="Pl">Heargevárit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Storfjord">Oksefjellet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Storfjord">Oksefjellet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Juovssajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Juovssajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Nivatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Nivatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Jáhkobačohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Jáhkobačohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Titindan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Titindan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Kruvnnut</l>
+         <l pos="N" type="Prop" nr="Pl">Kruvnnut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nordkapp">Reinbenkan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nordkapp">Reinbenkan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Leavššejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Leavššejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Sennalandvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Sennalandvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Loddebávttit</l>
+         <l pos="N" type="Prop" nr="Pl">Loddebávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Gamvik">Stauran</tf>
+            <tf pos="Prop" subtype="Plc" reg="Gamvik">Stauran</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Lomiidgáissit</l>
+         <l pos="N" type="Prop" nr="Pl">Lomiidgáissit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Målselv">Gussaloamit</tf>
+            <tf pos="Prop" subtype="Plc" reg="Målselv">Gussaloamit</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Láttegeađggit</l>
+         <l pos="N" type="Prop" nr="Pl">Láttegeađggit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Svenskesteinan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Svenskesteinan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Mielkejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Mielkejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Melkevatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Melkevatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Muotkejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Muotkejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Eidevannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Eidevannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Niestejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Niestejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Gamvik">Stjernevatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Gamvik">Stjernevatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Nihkeluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl">Nihkeluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvænangen">Nikkevatnet, vestre</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvænangen">Nikkevatnet, vestre</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Njirranjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Njirranjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Skredvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Skredvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Njukčajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Njukčajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Vadsø">Svanevannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Vadsø">Svanevannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Nuorttažat</l>
+         <l pos="N" type="Prop" nr="Pl">Nuorttažat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lyngen">Ytre Nortasholmen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lyngen">Ytre Nortasholmen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Nuvttejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Nuvttejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Djupvatnet, lille</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Djupvatnet, lille</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Oalggibávttit</l>
+         <l pos="N" type="Prop" nr="Pl">Oalggibávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Storfjord">Akselbergan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Storfjord">Akselbergan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Reahpenlássát</l>
+         <l pos="N" type="Prop" nr="Pl">Reahpenlássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nesseby">Reppenskjæret</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nesseby">Reppenskjæret</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Reavččájávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Reavččájávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kåfjord">Revdalsvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kåfjord">Revdalsvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Rihpat</l>
+         <l pos="N" type="Prop" nr="Pl">Rihpat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Måsøy">Lille Rypøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Måsøy">Lille Rypøya</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Måsøy">Store Rypøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Måsøy">Store Rypøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Rissebađačohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Rissebađačohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Ristindane</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Ristindane</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Roggejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Roggejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Salangen">Blåfjellvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Salangen">Blåfjellvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ruksesjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Ruksesjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Raudvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Raudvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ruoppat</l>
+         <l pos="N" type="Prop" nr="Pl">Ruoppat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Narvik">Rombaken</tf>
+            <tf pos="Prop" subtype="Plc" reg="Narvik">Rombaken</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ruossavákkejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Ruossavákkejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvænangen">Brottvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvænangen">Brottvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ruoššajeakkit</l>
+         <l pos="N" type="Prop" nr="Pl">Ruoššajeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nesseby">Russermyra</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nesseby">Russermyra</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ráipásjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Ráipásjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Trollvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Trollvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Rássejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Rássejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Gressvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Gressvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Silesjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Silesjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Berlevåg">Magerdalsvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Berlevåg">Magerdalsvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Silffarjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Silffarjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Silfarvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Silfarvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Skadjajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Skadjajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Skjåvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Skjåvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Skadjasullot</l>
+         <l pos="N" type="Prop" nr="Pl">Skadjasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Tana">Skjåholman</tf>
+            <tf pos="Prop" subtype="Plc" reg="Tana">Skjåholman</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Skjåholmen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Skjåholmen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Skirvvejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Skirvvejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Skillefjordvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Skillefjordvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Skárfalássát</l>
+         <l pos="N" type="Prop" nr="Pl">Skárfalássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Skarvskjæret</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Skarvskjæret</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Suoidneluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl">Suoidneluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Sennagrasvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Sennagrasvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Suolojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Suolojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Holmvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Holmvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Suololuobbalat</l>
+         <l pos="N" type="Prop" nr="Pl">Suololuobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Grimstadvannet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Grimstadvannet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Suorrejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Suorrejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Kvislvannene</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Kvislvannene</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Suttesvuomejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Suttesvuomejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Blautmyrvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Blautmyrvatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Sámegiettit</l>
+         <l pos="N" type="Prop" nr="Pl">Sámegiettit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Storfjord">Finnvollen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Storfjord">Finnvollen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vearajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Vearajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Hammerfest">Vestfjelldammen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Hammerfest">Vestfjelldammen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vilgesgeađggit</l>
+         <l pos="N" type="Prop" nr="Pl">Vilgesgeađggit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Kvitsteinan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Kvitsteinan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Virošjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Virošjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Brattelvvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Brattelvvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Visttaloamejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Visttaloamejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lenvik">Kvitfjellvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lenvik">Kvitfjellvatnan</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lenvik">Snøvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lenvik">Snøvatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vuorrebávttit</l>
+         <l pos="N" type="Prop" nr="Pl">Vuorrebávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Hungern</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Hungern</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vuoskkojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Vuoskkojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Abbortjørnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Abbortjørnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vuovde-Gearbbetvárit</l>
+         <l pos="N" type="Prop" nr="Pl">Vuovde-Gearbbetvárit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvænangen">Dalfjell</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvænangen">Dalfjell</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vuođđovuonašjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Vuođđovuonašjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Kufjordvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Kufjordvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vákkáščohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Vákkáščohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lyngen">Vaggastindan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lyngen">Vaggastindan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Áhkárjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Áhkárjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Kjerringvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Kjerringvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ájajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Ájajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lenvik">Kjeldevatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lenvik">Kjeldevatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Áttánguolbanat</l>
+         <l pos="N" type="Prop" nr="Pl">Áttánguolbanat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Adamssletta</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Adamssletta</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Čalbmasat</l>
+         <l pos="N" type="Prop" nr="Pl">Čalbmasat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lenvik">Nåttefjellet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lenvik">Nåttefjellet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Čazajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Čazajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Tromsø">Storskarvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Tromsø">Storskarvatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Čiežajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Čiežajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Syvvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Syvvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Šleađut</l>
+         <l pos="N" type="Prop" nr="Pl">Šleađut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nordkapp">Svabergan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nordkapp">Svabergan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Čoarveluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl">Čoarveluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Hornvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Hornvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Čáhppeslássát</l>
+         <l pos="N" type="Prop" nr="Pl">Čáhppeslássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Loppa">Svartskjæret</tf>
+            <tf pos="Prop" subtype="Plc" reg="Loppa">Svartskjæret</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Dálmmat</l>
+         <l pos="N" type="Prop" nr="Pl">Dálmmat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Kjelmøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Kjelmøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gearddošjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gearddošjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Gettosvannene</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Gettosvannene</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Fávle-Iččát</l>
+         <l pos="N" type="Prop" nr="Pl">Fávle-Iččát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Måsøy">Ingøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Måsøy">Ingøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Goahtesullot</l>
+         <l pos="N" type="Prop" nr="Pl">Goahtesullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Hammerfest">Klokkarøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Hammerfest">Klokkarøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gádde-Iččát</l>
+         <l pos="N" type="Prop" nr="Pl">Gádde-Iččát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Måsøy">Rolvsøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Måsøy">Rolvsøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Muolkkut</l>
+         <l pos="N" type="Prop" nr="Pl">Muolkkut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Hammerfest">Melkøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Hammerfest">Melkøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Návuongáissát</l>
+         <l pos="N" type="Prop" nr="Pl">Návuongáissát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvænangen">Kvænangstindan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvænangen">Kvænangstindan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Skulvagáissát</l>
+         <l pos="N" type="Prop" nr="Pl">Skulvagáissát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Tromsø">Skulvatindane</tf>
+            <tf pos="Prop" subtype="Plc" reg="Tromsø">Skulvatindane</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Sávalássát</l>
+         <l pos="N" type="Prop" nr="Pl">Sávalássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Sagskjæret</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Sagskjæret</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Čoahkenlássát</l>
+         <l pos="N" type="Prop" nr="Pl">Čoahkenlássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Oterfjordskjæret</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Oterfjordskjæret</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Beassekjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Beassekjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Narvik">Næverfjellvatnet nedre</tf>
+            <tf pos="Prop" subtype="Plc" reg="Narvik">Næverfjellvatnet nedre</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Beatnatbordievát</l>
+         <l pos="N" type="Prop" nr="Pl">Beatnatbordievát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Berg">Hunborhaugen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Berg">Hunborhaugen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Bossovuonjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Bossovuonjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Kvalfjorddalvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Kvalfjorddalvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Ceiccanválat</l>
+         <l pos="N" type="Prop" nr="Pl">Ceiccanválat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvænangen">Ytre Vassnes</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvænangen">Ytre Vassnes</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Coagalmjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Coagalmjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Valenvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Valenvatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Govlojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Govlojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Salangen">Masterbakkvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Salangen">Masterbakkvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Guommačohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Guommačohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Kråkefjella</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Kråkefjella</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Guorgápmirjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Guorgápmirjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Karlstadvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Karlstadvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gurbeščohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Gurbeščohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Perfjell</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Perfjell</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gáranasálat</l>
+         <l pos="N" type="Prop" nr="Pl">Gáranasálat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Kråkholman</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Kråkholman</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Gárenašjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Gárenašjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Karenvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Karenvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Hakŋalanjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Hakŋalanjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Berlevåg">Hanglevatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Berlevåg">Hanglevatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Irgavuonluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl">Irgavuonluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Fossevannet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Fossevannet</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Tredjevannet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Tredjevannet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Išmmisjeakkit</l>
+         <l pos="N" type="Prop" nr="Pl">Išmmisjeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Išmismyran</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Išmismyran</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Juvrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Juvrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nesseby">Lausklubben</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nesseby">Lausklubben</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Máhkirjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Máhkirjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Båtsfjord">Litlevatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Båtsfjord">Litlevatnet</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Båtsfjord">Molvikvatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Båtsfjord">Molvikvatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Mánešjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Mánešjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Møllevannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Møllevannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Márgohčohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Márgohčohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Veikjoven</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Veikjoven</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Oaggočohkat</l>
+         <l pos="N" type="Prop" nr="Pl">Oaggočohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Fiskartind</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Fiskartind</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Reainnát</l>
+         <l pos="N" type="Prop" nr="Pl">Reainnát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Måsøy">Reinøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Måsøy">Reinøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Reaipojávrrážat</l>
+         <l pos="N" type="Prop" nr="Pl">Reaipojávrrážat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Repvannet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Repvannet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Reavččajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Reavččajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Storfjord">Revdalsvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Storfjord">Revdalsvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Rissebávttsullot</l>
+         <l pos="N" type="Prop" nr="Pl">Rissebávttsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nesseby">Grasbakkholman</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nesseby">Grasbakkholman</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Roahkonášjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Roahkonášjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Kvalsund">Gorvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Kvalsund">Gorvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Roavvejárluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl">Roavvejárluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Brannvasstjørna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Brannvasstjørna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Rudnesjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Rudnesjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Bardu">Steinelvvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Bardu">Steinelvvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Rášat</l>
+         <l pos="N" type="Prop" nr="Pl">Rášat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Tromsø">Kråktinden</tf>
+            <tf pos="Prop" subtype="Plc" reg="Tromsø">Kråktinden</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Sarvvesjohjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Sarvvesjohjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Sarvesvannene</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Sarvesvannene</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Seavanjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Seavanjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Djupvatn</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Djupvatn</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Silffarjeakkit</l>
+         <l pos="N" type="Prop" nr="Pl">Silffarjeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Porsanger">Silfarmyra</tf>
+            <tf pos="Prop" subtype="Plc" reg="Porsanger">Silfarmyra</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Skoađđoluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl">Skoađđoluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Alta">Skoddetjerna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Alta">Skoddetjerna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Stávaidjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Stávaidjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lebesby">Ørntindvannan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lebesby">Ørntindvannan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Suovvejohbávttit</l>
+         <l pos="N" type="Prop" nr="Pl">Suovvejohbávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nesseby">Bergebyfjellet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nesseby">Bergebyfjellet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Suoŋkaluovttat</l>
+         <l pos="N" type="Prop" nr="Pl">Suoŋkaluovttat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Måsøy">Sinkelvika yt</tf>
+            <tf pos="Prop" subtype="Plc" reg="Måsøy">Sinkelvika yt</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Sáttát</l>
+         <l pos="N" type="Prop" nr="Pl">Sáttát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Hammerfest">Sandøya</tf>
+            <tf pos="Prop" subtype="Plc" reg="Hammerfest">Sandøya</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Sávvenat</l>
+         <l pos="N" type="Prop" nr="Pl">Sávvenat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Måsøy">Sauhamn yt</tf>
+            <tf pos="Prop" subtype="Plc" reg="Måsøy">Sauhamn yt</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Uŋggajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Uŋggajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Lyngen">Onkavatnan</tf>
+            <tf pos="Prop" subtype="Plc" reg="Lyngen">Onkavatnan</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vuoiddasvuonjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Vuoiddasvuonjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Gamvik">Johannesvatna</tf>
+            <tf pos="Prop" subtype="Plc" reg="Gamvik">Johannesvatna</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Vuottasoaivvit</l>
+         <l pos="N" type="Prop" nr="Pl">Vuottasoaivvit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Sandhaugane</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Sandhaugane</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Váccastanjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Váccastanjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Langvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Langvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Válččit</l>
+         <l pos="N" type="Prop" nr="Pl">Válččit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Tana">Skardholmen</tf>
+            <tf pos="Prop" subtype="Plc" reg="Tana">Skardholmen</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Áitegurjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Áitegurjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Sør-Varanger">Stabbursvatnet</tf>
+            <tf pos="Prop" subtype="Plc" reg="Sør-Varanger">Stabbursvatnet</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Čáhcegohjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl">Čáhcegohjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Hammerfest">Tindvannene</tf>
+            <tf pos="Prop" subtype="Plc" reg="Hammerfest">Tindvannene</tf>
          </tg>
       </mg>
    </e>
    <e usage="vd" src="ps,sa">
       <lg>
-         <l pos="N" type="Prop+Pl">Davviriikkat</l>
+         <l pos="N" type="Prop" nr="Pl">Davviriikkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="">Norden</tf>
+            <tf pos="Prop" subtype="Plc" reg="">Norden</tf>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop+Pl">Čuđegoađát</l>
+         <l pos="N" type="Prop" nr="Pl">Čuđegoađát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="prop" type="plc" reg="Nesseby">Spisshoveneset</tf>
+            <tf pos="Prop" subtype="Plc" reg="Nesseby">Spisshoveneset</tf>
          </tg>
       </mg>
    </e>
    <e src="nou94">
       <lg>
-         <l pos="N" type="Prop+Pl">Ižžot</l>
+         <l pos="N" type="Prop" nr="Pl">Ižžot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase" type="plc" reg="Vadsø">Lille Ekkerøy</tf>
+            <tf pos="phrase" subtype="Plc" reg="Vadsø">Lille Ekkerøy</tf>
          </tg>
       </mg>
    </e>
