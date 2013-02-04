@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">ieš</l>
+         <l pos="Pron" type="Refl">ieš</l>
          <analysis>Pron_Refl_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Refl_Du_Nom">
@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">ieža</l>
+         <l pos="Pron" type="Refl">ieža</l>
          <lemma_ref lemmaID="ieš_pron_refl">ieš</lemma_ref>
          <analysis>Pron_Refl_Du_Nom</analysis>
          <analysis>Pron_Refl_Pl_Nom</analysis>
@@ -75,7 +75,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežan</l>
+         <l pos="Pron" type="Refl">iežan</l>
          <analysis>Pron_Refl_Sg1_Acc</analysis>
          <analysis>Pron_Refl_Sg1_Gen</analysis>
          <mini_paradigm>
@@ -106,7 +106,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">min</t>
+            <t pos="Pron">min</t>
             <t pos="phrase">min egen</t>
             <xg>
                <x>Mun stoagan iežan ustibiin.</x>
@@ -117,7 +117,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčan</l>
+         <l pos="Pron" type="Refl">iehčan</l>
          <analysis>Pron_Refl_Sg1_Acc</analysis>
          <analysis>Pron_Refl_Sg1_Gen</analysis>
          <mini_paradigm>
@@ -148,7 +148,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">min</t>
+            <t pos="Pron">min</t>
             <t pos="phrase">min egen</t>
             <xg>
                <x>Mun stoagan iežan ustibiin.</x>
@@ -159,7 +159,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežat</l>
+         <l pos="Pron" type="Refl">iežat</l>
          <analysis>Pron_Refl_Sg2_Acc</analysis>
          <analysis>Pron_Refl_Sg2_Gen</analysis>
          <mini_paradigm>
@@ -189,7 +189,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">din</t>
+            <t pos="Pron">din</t>
             <t pos="phrase">din egen</t>
             <xg>
                <x>Don stoagat iežat ustibiin.</x>
@@ -200,7 +200,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežas</l>
+         <l pos="Pron" type="Refl">iežas</l>
          <analysis>Pron_Refl_Sg3_Acc</analysis>
          <analysis>Pron_Refl_Sg3_Gen</analysis>
          <mini_paradigm>
@@ -230,7 +230,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">sin</t>
+            <t pos="Pron">sin</t>
             <t pos="phrase">sin egen</t>
             <xg>
                <x>Lásse stoahká iežas ustibiin.</x>
@@ -241,7 +241,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežame</l>
+         <l pos="Pron" type="Refl">iežame</l>
          <analysis>Pron_Refl_Du1_Acc</analysis>
          <analysis>Pron_Refl_Du1_Gen</analysis>
          <mini_paradigm>
@@ -274,7 +274,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="pron">vår</t>
+            <t pos="Pron">vår</t>
             <t pos="phrase">vår egen</t>
             <xg>
                <x>Moai stohke iežame ustibiin.</x>
@@ -285,7 +285,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčame</l>
+         <l pos="Pron" type="Refl">iehčame</l>
          <analysis>Pron_Refl_Du1_Acc</analysis>
          <analysis>Pron_Refl_Du1_Gen</analysis>
          <mini_paradigm>
@@ -318,7 +318,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="pron">vår</t>
+            <t pos="Pron">vår</t>
             <t pos="phrase">vår egen</t>
             <xg>
                <x>Moai stohke iehčame ustibiin.</x>
@@ -329,7 +329,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaideame</l>
+         <l pos="Pron" type="Refl">iežaideame</l>
          <analysis>Pron_Refl_Du1_Acc</analysis>
          <analysis>Pron_Refl_Du1_Gen</analysis>
          <mini_paradigm>
@@ -362,7 +362,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="pron">vår</t>
+            <t pos="Pron">vår</t>
             <t pos="phrase">vår egen</t>
             <xg>
                <x>Moai stohke iežaideame ustibiin.</x>
@@ -373,7 +373,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežade</l>
+         <l pos="Pron" type="Refl">iežade</l>
          <analysis>Pron_Refl_Du2_Acc</analysis>
          <analysis>Pron_Refl_Du2_Gen</analysis>
          <mini_paradigm>
@@ -405,7 +405,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="pron">deres</t>
+            <t pos="Pron">deres</t>
             <t pos="phrase">deres egen</t>
             <xg>
                <x>Doai stoahkabeahtti iežade ustibiin.</x>
@@ -416,7 +416,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaideatte</l>
+         <l pos="Pron" type="Refl">iežaideatte</l>
          <analysis>Pron_Refl_Du2_Acc</analysis>
          <analysis>Pron_Refl_Du2_Gen</analysis>
          <mini_paradigm>
@@ -448,7 +448,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="pron">deres</t>
+            <t pos="Pron">deres</t>
             <t pos="phrase">deres egen</t>
             <xg>
                <x>Doai stoahkabeahtti iežaideatte ustibiin.</x>
@@ -459,7 +459,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaska</l>
+         <l pos="Pron" type="Refl">iežaska</l>
          <analysis>Pron_Refl_Du3_Acc</analysis>
          <analysis>Pron_Refl_Du3_Gen</analysis>
          <mini_paradigm>
@@ -491,7 +491,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="pron">deres</t>
+            <t pos="Pron">deres</t>
             <tf pos="phrase">deres egen</tf>
             <xg>
                <x>Soai stoahkaba iežaska ustibiin.</x>
@@ -502,7 +502,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaideaskka</l>
+         <l pos="Pron" type="Refl">iežaideaskka</l>
          <analysis>Pron_Refl_Du3_Acc</analysis>
          <analysis>Pron_Refl_Du3_Gen</analysis>
          <mini_paradigm>
@@ -534,7 +534,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="pron">deres</t>
+            <t pos="Pron">deres</t>
             <t pos="phrase">deres egen</t>
             <xg>
                <x>Soai stoahkaba iežaideaskka ustibiin.</x>
@@ -545,7 +545,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežamet</l>
+         <l pos="Pron" type="Refl">iežamet</l>
          <analysis>Pron_Refl_Pl1_Acc</analysis>
          <analysis>Pron_Refl_Pl1_Gen</analysis>
          <mini_paradigm>
@@ -575,7 +575,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">vår</t>
+            <t pos="Pron">vår</t>
             <t pos="phrase">vår egen</t>
             <xg>
                <x>Mii stoahkat iežamet ustibiin.</x>
@@ -586,7 +586,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčamet</l>
+         <l pos="Pron" type="Refl">iehčamet</l>
          <analysis>Pron_Refl_Pl1_Acc</analysis>
          <analysis>Pron_Refl_Pl1_Gen</analysis>
          <mini_paradigm>
@@ -617,7 +617,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">vår</t>
+            <t pos="Pron">vår</t>
             <t pos="phrase">vår egen</t>
             <xg>
                <x>Mii stoahkat iehčamet ustibiin.</x>
@@ -628,7 +628,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaideamet</l>
+         <l pos="Pron" type="Refl">iežaideamet</l>
          <analysis>Pron_Refl_Pl1_Acc</analysis>
          <analysis>Pron_Refl_Pl1_Gen</analysis>
          <mini_paradigm>
@@ -659,7 +659,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">vår</t>
+            <t pos="Pron">vår</t>
             <t pos="phrase">vår egen</t>
             <xg>
                <x>Mii stoahkat iežaideamet ustibiin.</x>
@@ -670,7 +670,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežadet</l>
+         <l pos="Pron" type="Refl">iežadet</l>
          <analysis>Pron_Refl_Pl2_Acc</analysis>
          <analysis>Pron_Refl_Pl2_Gen</analysis>
          <mini_paradigm>
@@ -700,7 +700,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">deres</t>
+            <t pos="Pron">deres</t>
             <t pos="phrase">deres egen</t>
             <xg>
                <x>Dii stoahkabehtet iežadet ustibiin.</x>
@@ -711,7 +711,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaideattet</l>
+         <l pos="Pron" type="Refl">iežaideattet</l>
          <analysis>Pron_Refl_Pl2_Acc</analysis>
          <analysis>Pron_Refl_Pl2_Gen</analysis>
          <mini_paradigm>
@@ -741,7 +741,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">deres</t>
+            <t pos="Pron">deres</t>
             <t pos="phrase">deres egen</t>
             <xg>
                <x>Dii stoahkabehtet iežaideattet ustibiin.</x>
@@ -752,7 +752,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaset</l>
+         <l pos="Pron" type="Refl">iežaset</l>
          <analysis>Pron_Refl_Pl3_Acc</analysis>
          <analysis>Pron_Refl_Pl3_Gen</analysis>
          <mini_paradigm>
@@ -783,7 +783,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">deres</t>
+            <t pos="Pron">deres</t>
             <t pos="phrase">deres egen</t>
             <xg>
                <x>Sii stohket iežaset ustibiin.</x>
@@ -794,7 +794,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaideaset</l>
+         <l pos="Pron" type="Refl">iežaideaset</l>
          <analysis>Pron_Refl_Pl3_Acc</analysis>
          <analysis>Pron_Refl_Pl3_Gen</analysis>
          <mini_paradigm>
@@ -825,7 +825,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pron">deres</t>
+            <t pos="Pron">deres</t>
             <t pos="phrase">deres egen</t>
             <xg>
                <x>Sii stohket iežaideaset ustibiin.</x>
@@ -836,7 +836,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccesan</l>
+         <l pos="Pron" type="Refl">alccesan</l>
          <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
@@ -852,7 +852,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccan</l>
+         <l pos="Pron" type="Refl">alccan</l>
          <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
@@ -868,7 +868,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccen</l>
+         <l pos="Pron" type="Refl">alccen</l>
          <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
@@ -884,7 +884,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddán</l>
+         <l pos="Pron" type="Refl">alddán</l>
          <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Loc</analysis>
       </lg>
@@ -900,7 +900,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežainan</l>
+         <l pos="Pron" type="Refl">iežainan</l>
          <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Com</analysis>
       </lg>
@@ -916,7 +916,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčanan</l>
+         <l pos="Pron" type="Refl">iehčanan</l>
          <lemma_ref lemmaID="iežan_pron_refl">iežan</lemma_ref>
          <analysis>Pron_Refl_Sg1_Ess</analysis>
       </lg>
@@ -932,7 +932,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccesat</l>
+         <l pos="Pron" type="Refl">alccesat</l>
          <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
@@ -948,7 +948,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccat</l>
+         <l pos="Pron" type="Refl">alccat</l>
          <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
@@ -964,7 +964,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccet</l>
+         <l pos="Pron" type="Refl">alccet</l>
          <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
@@ -980,7 +980,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddát</l>
+         <l pos="Pron" type="Refl">alddát</l>
          <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Loc</analysis>
       </lg>
@@ -996,7 +996,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežainat</l>
+         <l pos="Pron" type="Refl">iežainat</l>
          <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Com</analysis>
       </lg>
@@ -1012,7 +1012,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčanat</l>
+         <l pos="Pron" type="Refl">iehčanat</l>
          <lemma_ref lemmaID="iežat_pron_refl">iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ess</analysis>
       </lg>
@@ -1028,7 +1028,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccesis</l>
+         <l pos="Pron" type="Refl">alccesis</l>
          <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
@@ -1044,7 +1044,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccis</l>
+         <l pos="Pron" type="Refl">alccis</l>
          <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
@@ -1060,7 +1060,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcces</l>
+         <l pos="Pron" type="Refl">alcces</l>
          <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
@@ -1076,7 +1076,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddis</l>
+         <l pos="Pron" type="Refl">alddis</l>
          <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Loc</analysis>
       </lg>
@@ -1093,7 +1093,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddes</l>
+         <l pos="Pron" type="Refl">alddes</l>
          <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Loc</analysis>
       </lg>
@@ -1110,7 +1110,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežainis</l>
+         <l pos="Pron" type="Refl">iežainis</l>
          <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Com</analysis>
       </lg>
@@ -1126,7 +1126,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčanis</l>
+         <l pos="Pron" type="Refl">iehčanis</l>
          <lemma_ref lemmaID="iežas_pron_refl">iežas</lemma_ref>
          <analysis>Pron_Refl_Sg3_Ess</analysis>
       </lg>
@@ -1142,7 +1142,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceseame</l>
+         <l pos="Pron" type="Refl">alcceseame</l>
          <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
@@ -1159,7 +1159,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceme</l>
+         <l pos="Pron" type="Refl">alcceme</l>
          <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
@@ -1176,7 +1176,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccame</l>
+         <l pos="Pron" type="Refl">alccame</l>
          <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
@@ -1193,7 +1193,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddáme</l>
+         <l pos="Pron" type="Refl">alddáme</l>
          <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
          <analysis>Pron_Refl_Du1_Loc</analysis>
       </lg>
@@ -1209,7 +1209,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddiineame</l>
+         <l pos="Pron" type="Refl">alddiineame</l>
          <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
          <analysis>Pron_Refl_Du1_Loc</analysis>
       </lg>
@@ -1225,7 +1225,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaineame</l>
+         <l pos="Pron" type="Refl">iežaineame</l>
          <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
          <analysis>Pron_Refl_Du1_Com</analysis>
       </lg>
@@ -1242,7 +1242,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčaneame</l>
+         <l pos="Pron" type="Refl">iehčaneame</l>
          <lemma_ref lemmaID="iežame_pron_refl">iežame</lemma_ref>
          <analysis>Pron_Refl_Du1_Ess</analysis>
       </lg>
@@ -1259,7 +1259,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceseatte</l>
+         <l pos="Pron" type="Refl">alcceseatte</l>
          <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
@@ -1276,7 +1276,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccade</l>
+         <l pos="Pron" type="Refl">alccade</l>
          <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
@@ -1293,7 +1293,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccede</l>
+         <l pos="Pron" type="Refl">alccede</l>
          <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
@@ -1310,7 +1310,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddáde</l>
+         <l pos="Pron" type="Refl">alddáde</l>
          <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Loc</analysis>
       </lg>
@@ -1326,7 +1326,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddiineatte</l>
+         <l pos="Pron" type="Refl">alddiineatte</l>
          <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Loc</analysis>
       </lg>
@@ -1342,7 +1342,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaineatte</l>
+         <l pos="Pron" type="Refl">iežaineatte</l>
          <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Com</analysis>
       </lg>
@@ -1359,7 +1359,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčaneatte</l>
+         <l pos="Pron" type="Refl">iehčaneatte</l>
          <lemma_ref lemmaID="iežade_pron_refl">iežade</lemma_ref>
          <analysis>Pron_Refl_Du2_Ess</analysis>
       </lg>
@@ -1376,7 +1376,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceseaskka</l>
+         <l pos="Pron" type="Refl">alcceseaskka</l>
          <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
@@ -1393,7 +1393,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcciska</l>
+         <l pos="Pron" type="Refl">alcciska</l>
          <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
@@ -1410,7 +1410,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceska</l>
+         <l pos="Pron" type="Refl">alcceska</l>
          <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
@@ -1427,7 +1427,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddiska</l>
+         <l pos="Pron" type="Refl">alddiska</l>
          <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
@@ -1443,7 +1443,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddeska</l>
+         <l pos="Pron" type="Refl">alddeska</l>
          <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
@@ -1459,7 +1459,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddiineaskka</l>
+         <l pos="Pron" type="Refl">alddiineaskka</l>
          <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
@@ -1475,7 +1475,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaineaskka</l>
+         <l pos="Pron" type="Refl">iežaineaskka</l>
          <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Com</analysis>
       </lg>
@@ -1492,7 +1492,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčaneaskka</l>
+         <l pos="Pron" type="Refl">iehčaneaskka</l>
          <lemma_ref lemmaID="iežaska_pron_refl">iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ess</analysis>
       </lg>
@@ -1509,7 +1509,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceseamet</l>
+         <l pos="Pron" type="Refl">alcceseamet</l>
          <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
@@ -1525,7 +1525,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccamet</l>
+         <l pos="Pron" type="Refl">alccamet</l>
          <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
@@ -1541,7 +1541,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccemet</l>
+         <l pos="Pron" type="Refl">alccemet</l>
          <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
@@ -1557,7 +1557,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddámet</l>
+         <l pos="Pron" type="Refl">alddámet</l>
          <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Loc</analysis>
       </lg>
@@ -1573,7 +1573,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddiineamet</l>
+         <l pos="Pron" type="Refl">alddiineamet</l>
          <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Loc</analysis>
       </lg>
@@ -1589,7 +1589,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaineamet</l>
+         <l pos="Pron" type="Refl">iežaineamet</l>
          <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Com</analysis>
       </lg>
@@ -1605,7 +1605,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčaneamet</l>
+         <l pos="Pron" type="Refl">iehčaneamet</l>
          <lemma_ref lemmaID="iežamet_pron_refl">iežamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ess</analysis>
       </lg>
@@ -1621,7 +1621,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceseattet</l>
+         <l pos="Pron" type="Refl">alcceseattet</l>
          <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
@@ -1637,7 +1637,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccadet</l>
+         <l pos="Pron" type="Refl">alccadet</l>
          <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
@@ -1653,7 +1653,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alccedet</l>
+         <l pos="Pron" type="Refl">alccedet</l>
          <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
@@ -1669,7 +1669,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddádet</l>
+         <l pos="Pron" type="Refl">alddádet</l>
          <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Loc</analysis>
       </lg>
@@ -1685,7 +1685,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddiineattet</l>
+         <l pos="Pron" type="Refl">alddiineattet</l>
          <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Loc</analysis>
       </lg>
@@ -1701,7 +1701,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaineattet</l>
+         <l pos="Pron" type="Refl">iežaineattet</l>
          <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Com</analysis>
       </lg>
@@ -1717,7 +1717,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčaneattet</l>
+         <l pos="Pron" type="Refl">iehčaneattet</l>
          <lemma_ref lemmaID="iežadet_pron_refl">iežadet</lemma_ref>
          <analysis>Pron_Refl_Pl2_Ess</analysis>
       </lg>
@@ -1733,7 +1733,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceseaset</l>
+         <l pos="Pron" type="Refl">alcceseaset</l>
          <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
@@ -1750,7 +1750,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcceset</l>
+         <l pos="Pron" type="Refl">alcceset</l>
          <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
@@ -1767,7 +1767,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alcciset</l>
+         <l pos="Pron" type="Refl">alcciset</l>
          <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
@@ -1784,7 +1784,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddiset</l>
+         <l pos="Pron" type="Refl">alddiset</l>
          <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
@@ -1800,7 +1800,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddeset</l>
+         <l pos="Pron" type="Refl">alddeset</l>
          <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
@@ -1816,7 +1816,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">alddiineaset</l>
+         <l pos="Pron" type="Refl">alddiineaset</l>
          <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
@@ -1832,7 +1832,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iežaineaset</l>
+         <l pos="Pron" type="Refl">iežaineaset</l>
          <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Com</analysis>
       </lg>
@@ -1849,7 +1849,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="refl">iehčaneaset</l>
+         <l pos="Pron" type="Refl">iehčaneaset</l>
          <lemma_ref lemmaID="iežaset_pron_refl">iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ess</analysis>
       </lg>

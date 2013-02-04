@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="rel">mii</l>
+         <l pos="Pron" type="Rel">mii</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
@@ -56,7 +56,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hva</t>
+            <t pos="Pron">hva</t>
             <xg>
                <x>Mii bat doppe lea?</x>
                <xt>Hva er så der?</xt>
@@ -70,7 +70,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="rel">gii</l>
+         <l pos="Pron" type="Rel">gii</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc/Gen">
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hvem</t>
+            <t pos="Pron">hvem</t>
             <xg>
                <x>Gii bat don leat?</x>
                <xt>Hvem er så du?</xt>
@@ -106,7 +106,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="rel">mat</l>
+         <l pos="Pron" type="Rel">mat</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc/Gen">
@@ -143,7 +143,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="rel">geat</l>
+         <l pos="Pron" type="Rel">geat</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc/Gen">
@@ -180,7 +180,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="rel">goabbá</l>
+         <l pos="Pron" type="Rel">goabbá</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc/Gen">
@@ -208,7 +208,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="rel">goappát</l>
+         <l pos="Pron" type="Rel">goappát</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc/Gen">
@@ -237,7 +237,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="rel">guhte</l>
+         <l pos="Pron" type="Rel">guhte</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc/Gen">
@@ -260,8 +260,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>innenfor en avgrenset gruppe</re>
-            <t pos="pron">hvem</t>
-            <t pos="pron">hvilken</t>
+            <t pos="Pron">hvem</t>
+            <t pos="Pron">hvilken</t>
             <xg>
                <x>Guhte lea dán bargan?</x>
                <xt>Hvem har gjort dette?</xt>
@@ -288,7 +288,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="rel">guđet</l>
+         <l pos="Pron" type="Rel">guđet</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc/Gen">
@@ -311,8 +311,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere innenfor en avgrenset gruppe</re>
-            <t pos="pron">hvem</t>
-            <t pos="pron">hvilke</t>
+            <t pos="Pron">hvem</t>
+            <t pos="Pron">hvilke</t>
             <xg>
                <x>Guđet leat dán bargan?</x>
                <xt>Hvem har gjort dette?</xt>
@@ -335,7 +335,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l nr="sg" pos="pron" type="interr">makkár</l>
+         <l nr="sg" pos="Pron" type="interr">makkár</l>
          <analysis>Pron_Interr_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Sg_Acc/Gen">
@@ -363,7 +363,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l nr="pl" pos="pron" type="interr">makkárat</l>
+         <l nr="pl" pos="Pron" type="interr">makkárat</l>
          <analysis>Pron_Interr_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Pl_Acc/Gen">
@@ -392,13 +392,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="sg" pos="pron" type="rel">maid</l>
+         <l nr="sg" pos="Pron" type="Rel">maid</l>
          <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hva</t>
+            <t pos="Pron">hva</t>
             <xg>
                <x>Maid dagat dáppe?</x>
                <xt>Hva gjør du her?</xt>
@@ -412,14 +412,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">man</l>
+         <l pos="Pron" type="Rel">man</l>
          <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hva</t>
+            <t pos="Pron">hva</t>
             <xg>
                <x>Man birra čállibehtet?</x>
                <xt>Hva skriver dere om?</xt>
@@ -437,7 +437,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">masa</l>
+         <l pos="Pron" type="Rel">masa</l>
          <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
@@ -457,13 +457,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">mas</l>
+         <l pos="Pron" type="Rel">mas</l>
          <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hvor</t>
+            <t pos="Pron">hvor</t>
             <xg>
                <x>Mas leat eanemus vitamiinnat?</x>
                <xt>Hva har mest vitaminer?</xt>
@@ -477,7 +477,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">mainna</l>
+         <l pos="Pron" type="Rel">mainna</l>
          <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -497,7 +497,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">manin</l>
+         <l pos="Pron" type="Rel">manin</l>
          <lemma_ref lemmaID="mii_pron_rel">mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
@@ -509,14 +509,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">gean</l>
+         <l pos="Pron" type="Rel">gean</l>
          <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hvem</t>
+            <t pos="Pron">hvem</t>
             <tf pos="phrase">hvem sin</tf>
             <xg>
                <x>Gean ovddasvástádus dat lea?</x>
@@ -539,7 +539,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">geasa</l>
+         <l pos="Pron" type="Rel">geasa</l>
          <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
@@ -559,7 +559,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">geas</l>
+         <l pos="Pron" type="Rel">geas</l>
          <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
@@ -579,7 +579,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">geainna</l>
+         <l pos="Pron" type="Rel">geainna</l>
          <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -599,7 +599,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">geanin</l>
+         <l pos="Pron" type="Rel">geanin</l>
          <lemma_ref lemmaID="gii_pron_rel">gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
@@ -611,7 +611,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="pl" pos="pron" type="rel">maid</l>
+         <l nr="pl" pos="Pron" type="Rel">maid</l>
          <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
@@ -633,7 +633,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">maidda</l>
+         <l pos="Pron" type="Rel">maidda</l>
          <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
@@ -654,7 +654,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">main</l>
+         <l pos="Pron" type="Rel">main</l>
          <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -675,7 +675,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">maiguin</l>
+         <l pos="Pron" type="Rel">maiguin</l>
          <lemma_ref lemmaID="mat_pron_rel">mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
@@ -696,7 +696,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">geaid</l>
+         <l pos="Pron" type="Rel">geaid</l>
          <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
@@ -727,7 +727,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">geaidda</l>
+         <l pos="Pron" type="Rel">geaidda</l>
          <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
@@ -748,7 +748,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">geain</l>
+         <l pos="Pron" type="Rel">geain</l>
          <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -769,7 +769,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">geaiguin</l>
+         <l pos="Pron" type="Rel">geaiguin</l>
          <lemma_ref lemmaID="geat_pron_rel">geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
@@ -790,7 +790,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">goappá</l>
+         <l pos="Pron" type="Rel">goappá</l>
          <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
@@ -804,7 +804,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">goabbái</l>
+         <l pos="Pron" type="Rel">goabbái</l>
          <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
@@ -816,7 +816,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">goappás</l>
+         <l pos="Pron" type="Rel">goappás</l>
          <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
@@ -828,7 +828,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="sg" pos="pron" type="rel">goappáin</l>
+         <l nr="sg" pos="Pron" type="Rel">goappáin</l>
          <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -840,7 +840,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">goabbán</l>
+         <l pos="Pron" type="Rel">goabbán</l>
          <lemma_ref lemmaID="goabbá_pron_rel">goabbá</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
@@ -852,7 +852,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">goappáid</l>
+         <l pos="Pron" type="Rel">goappáid</l>
          <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
@@ -867,7 +867,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">goappáide</l>
+         <l pos="Pron" type="Rel">goappáide</l>
          <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
@@ -880,7 +880,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="pl" pos="pron" type="rel">goappáin</l>
+         <l nr="pl" pos="Pron" type="Rel">goappáin</l>
          <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -893,7 +893,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">goappáiguin</l>
+         <l pos="Pron" type="Rel">goappáiguin</l>
          <lemma_ref lemmaID="goappát_pron_rel">goappát</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
@@ -906,16 +906,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">guđe</l>
+         <l pos="Pron" type="Rel">guđe</l>
          <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hvem</t>
+            <t pos="Pron">hvem</t>
             <tf pos="phrase">hvem sin</tf>
-            <t pos="pron">hvilken</t>
+            <t pos="Pron">hvilken</t>
             <xg>
                <x>Guđe riikkas don leat eret?</x>
                <xt>Hvilket land kommer du fra?</xt>
@@ -929,7 +929,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">guhtii</l>
+         <l pos="Pron" type="Rel">guhtii</l>
          <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
@@ -945,7 +945,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">guđes</l>
+         <l pos="Pron" type="Rel">guđes</l>
          <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Loc</analysis>
       </lg>
@@ -961,7 +961,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="sg" pos="pron" type="rel">guđiin</l>
+         <l nr="sg" pos="Pron" type="Rel">guđiin</l>
          <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -977,7 +977,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">guhten</l>
+         <l pos="Pron" type="Rel">guhten</l>
          <lemma_ref lemmaID="guhte_pron_rel">guhte</lemma_ref>
          <analysis>Pron_Rel_Sg_Ess</analysis>
       </lg>
@@ -1002,7 +1002,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">guđiid</l>
+         <l pos="Pron" type="Rel">guđiid</l>
          <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Gen</analysis>
          <analysis>Pron_Rel_Pl_Acc</analysis>
@@ -1030,7 +1030,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">guđiide</l>
+         <l pos="Pron" type="Rel">guđiide</l>
          <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
@@ -1056,7 +1056,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="pl" pos="pron" type="rel">guđiin</l>
+         <l nr="pl" pos="Pron" type="Rel">guđiin</l>
          <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Loc</analysis>
       </lg>
@@ -1082,7 +1082,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="rel">guđiiguin</l>
+         <l pos="Pron" type="Rel">guđiiguin</l>
          <lemma_ref lemmaID="guđet_pron_rel">guđet</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
@@ -1108,7 +1108,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr">makkára</l>
+         <l pos="Pron" type="interr">makkára</l>
          <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Gen</analysis>
          <analysis>Pron_Interr_Sg_Acc</analysis>
@@ -1121,7 +1121,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr">makkárii</l>
+         <l pos="Pron" type="interr">makkárii</l>
          <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Ill</analysis>
       </lg>
@@ -1133,7 +1133,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr">makkáris</l>
+         <l pos="Pron" type="interr">makkáris</l>
          <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Loc</analysis>
       </lg>
@@ -1146,7 +1146,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="sg" pos="pron" type="interr">makkáriin</l>
+         <l nr="sg" pos="Pron" type="interr">makkáriin</l>
          <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
          <analysis>Pron_Interr_Sg_Com</analysis>
       </lg>
@@ -1158,7 +1158,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr">makkárin</l>
+         <l pos="Pron" type="interr">makkárin</l>
          <lemma_ref lemmaID="makkár_sg_pron_interr">makkár</lemma_ref>
          <analysis>Pron_Interr_Ess</analysis>
       </lg>
@@ -1170,7 +1170,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr">makkáriid</l>
+         <l pos="Pron" type="interr">makkáriid</l>
          <lemma_ref lemmaID="makkárat_pl_pron_interr">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Gen</analysis>
          <analysis>Pron_Interr_Pl_Acc</analysis>
@@ -1184,7 +1184,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr">makkáriidda</l>
+         <l pos="Pron" type="interr">makkáriidda</l>
          <lemma_ref lemmaID="makkárat_pl_pron_interr">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Ill</analysis>
       </lg>
@@ -1197,7 +1197,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="pl" pos="pron" type="interr">makkáriin</l>
+         <l nr="pl" pos="Pron" type="interr">makkáriin</l>
          <lemma_ref lemmaID="makkárat_pl_pron_interr">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Loc</analysis>
       </lg>
@@ -1211,7 +1211,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="interr">makkáriiguin</l>
+         <l pos="Pron" type="interr">makkáriiguin</l>
          <lemma_ref lemmaID="makkárat_pl_pron_interr">makkárat</lemma_ref>
          <analysis>Pron_Interr_Pl_Com</analysis>
       </lg>
