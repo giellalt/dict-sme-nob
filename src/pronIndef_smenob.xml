@@ -30,12 +30,12 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">goappašat</l>
+         <l pos="Pron" type="Indef" nr="Pl">goappašat</l>
          <lsub>goappešat</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">begge</t>
+            <t pos="Pron">begge</t>
             <xg>
                <x>Goappašat dievddut dárbbašeigga doavtterdivššu.</x>
                <xt>Begge mennene trengte legebehandling.</xt>
@@ -49,7 +49,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef" vmax="4">ollugat</l>
+         <l pos="Pron" type="Indef" nr="Pl" vmax="4">ollugat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -63,11 +63,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">eambbosat</l>
+         <l pos="Pron" type="Indef" nr="Pl">eambbosat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">flere</t>
+            <t pos="Pron">flere</t>
             <xg>
                <x>Mii sávvat ahte bohtet vel eambbosat boahtte jagi, lohká festiválajođiheaddji.</x>
                <xt>Vi håper at det kommer enda flere neste år, sier festivallederen.</xt>
@@ -77,7 +77,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pg="no" pos="pron" type="indef">veahá</l>
+         <l pg="no" pos="Pron" type="Indef">veahá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -91,7 +91,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">veaháš</l>
+         <l pos="Pron" type="Indef">veaháš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -105,13 +105,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pg="no" pos="pron" type="indef">iešguhtet</l>
+         <l pg="no" pos="Pron" type="Indef">iešguhtet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
             <tf pos="phrase">hver sin</tf>
-            <t pos="pron">hver</t>
+            <t pos="Pron">hver</t>
             <xg>
                <x>Iešguhtet válddii doppe biillas.</x>
                <xt>Der tok hver og en sin bil.</xt>
@@ -121,7 +121,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">buohkat</l>
+         <l pos="Pron" type="Indef" nr="Pl">buohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -135,13 +135,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">eará</l>
+         <l pos="Pron" type="Indef">eará</l>
          <lc>earát</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">annen</t>
-            <t pos="pron">andre</t>
+            <t pos="Pron">annen</t>
+            <t pos="Pron">andre</t>
             <xg>
                <x>Dákkár viiddis máhttu ii leat nu gallásis earáin.</x>
                <xt>En slik bred kunnskap er det ikke mange andre som har.</xt>
@@ -151,12 +151,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">goappašagat</l>
+         <l pos="Pron" type="Indef" nr="Pl">goappašagat</l>
          <lsub>goappešagat</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">begge</t>
+            <t pos="Pron">begge</t>
             <tf pos="phrase">hver av to</tf>
             <xg>
                <x>Soai leaba goappašagat vázzán dáiddaallaskuvlla.</x>
@@ -171,11 +171,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">guktot</l>
+         <l pos="Pron" type="Indef" nr="Pl">guktot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">begge</t>
+            <t pos="Pron">begge</t>
             <xg>
                <x>Moai letne guktot fitnan Helssegis.</x>
                <xt>Vi har begge vært en tur i Helsinki.</xt>
@@ -185,7 +185,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">iežá</l>
+         <l pos="Pron" type="Indef">iežá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -200,11 +200,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">juoga</l>
+         <l pos="Pron" type="Indef">juoga</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">noe</t>
+            <t pos="Pron">noe</t>
             <xg>
                <x>Ođđa nominašuvnna sáhttá gáibidit jus lea juoga dahkkon formálalaččat boastut.</x>
                <xt>Ny nominasjon kan man kreve hvis det er gjort noe formelt feil.</xt>
@@ -214,13 +214,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">juohkehaš</l>
+         <l pos="Pron" type="Indef">juohkehaš</l>
          <lc>-haččat, -hažžii</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hver</t>
-            <t pos="pron">enhver</t>
+            <t pos="Pron">hver</t>
+            <t pos="Pron">enhver</t>
             <xg>
                <x>Dain ledje fas juohkehaččas sierra nuohttunbáikkit ja fierbmunbáikkit.</x>
                <xt>Av dem så hadde hver enkelt egne notsteder og garnsteder.</xt>
@@ -230,12 +230,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">moanat</l>
+         <l pos="Pron" type="Indef" nr="Pl">moanat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <re>ca 4-10 stk</re>
-            <t pos="pron">flere</t>
+            <t pos="Pron">flere</t>
             <xg>
                <x>Mun lean moanaid juo bovden.</x>
                <xt>Jeg har allerede invitert nokså mange.</xt>
@@ -249,13 +249,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">muhtin</l>
+         <l pos="Pron" type="Indef">muhtin</l>
          <lc>muhtimat</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="det">en</t>
-            <t pos="pron">noen</t>
+            <t pos="Pron">noen</t>
             <xg>
                <x>De oahpaheaddji fuomáša muhtima gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
                <xt>Så oppdager læreren noen som springer rundt i klasserommet, men hun ser ikke hvem det er.</xt>
@@ -269,13 +269,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">muhtun</l>
+         <l pos="Pron" type="Indef">muhtun</l>
          <lc>muhtumat</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="det">en</t>
-            <t pos="pron">noen</t>
+            <t pos="Pron">noen</t>
             <xg>
                <x>De oahpaheaddji fuomáša muhtuma gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
                <xt>Så oppdager læreren noen som springer rundt i klasserommet, men hun ser ikke hvem det er.</xt>
@@ -289,12 +289,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">nubbi</l>
+         <l pos="Pron" type="Indef">nubbi</l>
          <lc>nuppit</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">annen</t>
+            <t pos="Pron">annen</t>
             <xg>
                <x>Ja de ii leat lohpi nuppiid borrat.</x>
                <xt>Og så er det ikke lov å spise de andre.</xt>
@@ -317,11 +317,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">goabbáge</l>
+         <l pos="Pron" type="Indef">goabbáge</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">begge</t>
+            <t pos="Pron">begge</t>
             <tf pos="phrase">hver av de to</tf>
             <xg>
                <x>Mun in eahpit ahte ledje 2000 olbmo goappáge konsearttas.</x>
@@ -340,7 +340,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">olus</l>
+         <l pos="Pron" type="Indef">olus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -354,12 +354,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="pron" type="indef">soamis</l>
+         <l pos="Pron" type="Indef">soamis</l>
          <lc>soapmásat, soames (olmmoš)</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">noen</t>
+            <t pos="Pron">noen</t>
             <tf pos="phrase">en eller annen</tf>
             <xg>
                <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
@@ -374,11 +374,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">soames</l>
+         <l pos="Pron" type="Indef">soames</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">noen</t>
+            <t pos="Pron">noen</t>
             <tf pos="phrase">en eller annen</tf>
             <xg>
                <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
@@ -393,11 +393,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef" vmax="2">mihkkege</l>
+         <l pos="Pron" type="Indef" vmax="2">mihkkege</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">noe</t>
+            <t pos="Pron">noe</t>
             <xg>
                <x>Imaštallen gal veaháš manne eadni ii jienát maidege.</x>
                <xt>Jeg forundret meg litt om hvorfor mor ikke sa noe.</xt>
@@ -411,11 +411,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">mihkke</l>
+         <l pos="Pron" type="Indef">mihkke</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">noe</t>
+            <t pos="Pron">noe</t>
             <xg>
                <x>Mis ii leat šat mihkke dadjamušaid dasa.</x>
                <xt>Vi har ikke lenger noe vi skulle ha sagt til det.</xt>
@@ -425,11 +425,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">guhtege</l>
+         <l pos="Pron" type="Indef">guhtege</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">hver</t>
+            <t pos="Pron">hver</t>
             <xg>
                <x>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</x>
                <xt>De måler hvor mye hvert vann er over havnivå.</xt>
@@ -447,7 +447,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">iešguhtege</l>
+         <l pos="Pron" type="Indef">iešguhtege</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -461,11 +461,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">giige</l>
+         <l pos="Pron" type="Indef">giige</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">ingen</t>
+            <t pos="Pron">ingen</t>
             <xg>
                <x>Ii min eallindilli buorrán jus giige ii viša maidege bargat.</x>
                <xt>Vår livssituasjon blir ikke bedre hvis ingen gidder å arbeide noe.</xt>
@@ -475,11 +475,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">juogamii</l>
+         <l pos="Pron" type="Indef">juogamii</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">noe</t>
+            <t pos="Pron">noe</t>
             <tf pos="phrase">ett eller annet</tf>
             <xg>
                <x>Muhto juogaman dihte nu ii leat.</x>
@@ -494,7 +494,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">goabbánai</l>
+         <l pos="Pron" type="Indef">goabbánai</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -508,7 +508,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">juobbá</l>
+         <l pos="Pron" type="Indef">juobbá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -522,7 +522,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">dábbá</l>
+         <l pos="Pron" type="Indef">dábbá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -540,7 +540,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pg="no" pos="pron" type="indef">miinai</l>
+         <l pg="no" pos="Pron" type="Indef">miinai</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -554,7 +554,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">juobbágoabbá</l>
+         <l pos="Pron" type="Indef">juobbágoabbá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -568,7 +568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">guhtenai</l>
+         <l pos="Pron" type="Indef">guhtenai</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -582,7 +582,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">duobbá</l>
+         <l pos="Pron" type="Indef">duobbá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
