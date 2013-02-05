@@ -1574,7 +1574,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" vmax="2">áhččebealle</l>
+         <l pos="N">áhččebealle</l>
+         <lsub>áhččebealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1584,7 +1585,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" vmax="2">oabbábealle</l>
+         <l pos="N">oabbábealle</l>
+         <lsub>oabbábealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1594,7 +1596,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" vmax="2">vielljabealle</l>
+         <l pos="N">vielljabealle</l>
+         <lsub>vielljabealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -21010,7 +21013,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" vmax="2">eadnebealle</l>
+         <l pos="N">eadnebealle</l>
+         <lsub>eadnebealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -25000,7 +25004,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">giligeaidnu</l>
+         <l pos="N">gilligeaidnu</l>
+         <lsub>giligeaidnu</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -25010,7 +25015,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">gililuodda</l>
+         <l pos="N">gilliluodda</l>
+         <lsub>gililuodda</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -67943,13 +67949,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l pos="N">bárdnebealli</l>
+         <l pos="N">bárdnebealle</l>
+         <lsub>bárdnebealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="yyy" gen="n" pos="N">stebarn</t>
+            <t decl="yyy" gen="m" pos="N">stesønn</t>
          </tg>
       </mg>
    </e>
@@ -112557,13 +112564,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l pos="N">nieidabealli</l>
+         <l pos="N">nieidabealle</l>
+         <lsub>nieidabealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="yyy" gen="m" pos="N">stedatter</t>
+            <t decl="1" gen="f" pos="N">stedatter</t>
          </tg>
       </mg>
    </e>
@@ -150232,9 +150240,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l pos="N">áhččebealli</l>
+         <l pos="N">áhččebealle</l>
+         <lsub>áhččebealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
