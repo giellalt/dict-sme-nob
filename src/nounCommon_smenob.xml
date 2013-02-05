@@ -5835,6 +5835,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="N">riikkačoahkkin</l>
+         <lsub>riikačoahkkin</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5977,8 +5978,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">stivralahttu</l>
-         <lsub>stivrralahttu</lsub>
+         <l pos="N">stivrralahttu</l>
+         <lsub>stivralahttu</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -8266,6 +8267,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="N">diibmobealli</l>
+         <lsub>diibmobealle</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -8771,7 +8773,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">ovdabealle</l>
+         <l pos="N">ovdabealli</l>
+         <lsub>ovdabealle</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -9412,16 +9415,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="N">e-post</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="N">diibmobealle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="m" pos="N">halvtime</t>
          </tg>
       </mg>
    </e>
@@ -27183,6 +27176,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="N">guoleoaivi</l>
+         <lsub>guolleoaivi</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -27337,16 +27331,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="N">fiskespade</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="N">guolleoaivi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="2" gen="n" pos="N">fiskehode</t>
          </tg>
       </mg>
    </e>
@@ -31378,6 +31362,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="N">jahkebealli</l>
+         <lsub>jahkebealle</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -38997,7 +38982,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l pos="N">nuorvu</l>
-         <lsub pos="N">nuorvvu</lsub>
+         <lsub>nuorvvu</lsub>
          <lc>nuorvvu</lc>
       </lg>
       <mg>
@@ -42062,8 +42047,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="N">ruvki</l>
-         <lc>ruvkkit</lc>
+         <l pos="N">ruvke</l>
+         <lsub>ruvki</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -126284,16 +126269,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">riikačoahkkin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="yyy" gen="xxx" pos="N">landsmøte</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="N">riikkageaidnu</l>
          <lsub>riikageaidnu</lsub>
       </lg>
@@ -127680,11 +127655,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" nr="Pl">roahkkeruođut</l>
+         <l pos="N">roahkkeruohtu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">klammeparantes</t>
+            <t pos="N">klammeparentes</t>
          </tg>
       </mg>
    </e>
@@ -127694,7 +127669,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">parantes</t>
+            <t pos="N">parentes</t>
          </tg>
       </mg>
    </e>
@@ -127704,8 +127679,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">parantes</t>
-            <t decl="1" gen="f" pos="N">klamme</t>
+            <t pos="N">parentes</t>
          </tg>
       </mg>
    </e>
@@ -156683,7 +156657,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">ijabealli</l>
+         <l pos="N">ijabealle</l>
+         <lsub>ijabealli</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -157055,7 +157030,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">olggobealle</l>
+         <l pos="N">olggobealli</l>
+         <lsub>olggobealle</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -158356,16 +158332,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">jahkebealle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">halvår</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="N">musihkar</l>
       </lg>
       <mg>
@@ -158426,7 +158392,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">sámeradio</l>
+         <l pos="N">sámerádio</l>
+         <lsub>sámeradio</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -158567,7 +158534,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">suomabealle</l>
+         <l pos="N">suomabealli</l>
+         <lsub>suomabealle</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -158647,7 +158615,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">lagasradio</l>
+         <l pos="N">lagasrádio</l>
+         <lsub>lagasradio</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -159008,17 +158977,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">ruvke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">gruve</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="N">ruoššabealle</l>
+         <l pos="N">ruoššabealli</l>
+         <lsub>ruoššabealle</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -159149,7 +159109,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">ruoŧabealle</l>
+         <l pos="N">ruoŧabealli</l>
+         <lsub>ruoŧabealle</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -159159,7 +159120,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">norggabealle</l>
+         <l pos="N">norggabealli</l>
+         <lsub>norggabealle</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -159849,8 +159811,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">rockejoavku</l>
-         <lsub>rockjoavku</lsub>
+         <l pos="N">rockjoavku</l>
+         <lsub>rockejoavku</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
