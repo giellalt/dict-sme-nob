@@ -92,16 +92,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
-      <lg>
-         <l pg="no" context="viessu" pos="A">gaskaleamos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">midterste</t>
-         </tg>
-      </mg>
-   </e>
    <e usage="vd">
       <lg>
          <l context="dutki" pos="A">dánska</l>
@@ -8140,6 +8130,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l context="olmmoš" pos="A">vánhurskkis</l>
+         <lsub>vanhurskkis</lsub>
          <lc>-hurskásat</lc>
       </lg>
       <mg>
@@ -10809,21 +10800,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="2" pos="A">ukentlig</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l context="olmmoš" pos="A">vanhurskkis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="2" pos="A">gudfryktig</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="2" pos="A">rettferdig</t>
          </tg>
       </mg>
    </e>

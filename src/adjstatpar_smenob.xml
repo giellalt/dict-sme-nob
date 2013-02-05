@@ -316,5 +316,37 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">gaskaleabbo</l>
+         <analysis>A_Comp_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="A_Superl_Sg_Nom">
+               <wordform>gaskaleamos</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="phrase">nærmere midten</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="a">gaskaleamos</l>
+         <lemma_ref lemmaID="gaskaleabbo_a">gaskaleabbo</lemma_ref>
+         <analysis>A_Superl_Sg_Nom</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="a">midterste</t>
+            <xg>
+               <x>Gaskaleamos spiidni lea maid jođán</x>
+               <xt>Den midterste grisen er også rask.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
