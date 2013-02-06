@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e usage="vd">
+      <lg>
+         <l illpl="no" pos="phrase_n">vieljaš guovttos</l>
+         <lsub>vieljašguovttos</lsub>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase_n">de to brødrene</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="phrase_n">váhnen guovttos</l>
+         <lsub>váhnenguovttos</lsub>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n" freq="0">begge foreldrene</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="phrase_n">luntta guovttos</l>
+         <lsub>lunttaguovttos</lsub>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n" freq="0">de to guttene</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="phrase_n">eatni guovttos</l>
+         <lsub>eatniguovttos</lsub>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="phrase_n" freq="0">mor og en person til</t>
+            <xg>
+               <x>Eatni guovttos boahtiba ihttin.</x>
+               <xt>Mor og den andre personen kommer i morgen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

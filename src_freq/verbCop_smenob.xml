@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e usage="vd">
+      <lg>
+         <l pos="V">lea</l>
+         <analysis>V_Ind_Prs_Sg3</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Inf">
+               <wordform>leat</wordform>
+               <wordform>leahkit</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Sg1">
+               <wordform>lean</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Sg2">
+               <wordform>leat</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Sg3">
+               <wordform>lea</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Du1">
+               <wordform>letne</wordform> 
+            </analysis>
+            <analysis ms="V_Ind_Prs_Du2">
+               <wordform>leahppi</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Du3">
+               <wordform>leaba</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Pl1">
+               <wordform>leat</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Pl2">
+               <wordform>lehpet</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_Pl3">
+               <wordform>leat</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prs_ConNeg">
+               <wordform>leat</wordform>
+            </analysis>
+            <analysis ms="V_Actio_Nom">
+               <wordform>leahkin</wordform>
+            </analysis>
+            <analysis ms="V_Actio_Ess">
+               <wordform>leame</wordform>
+               <wordform>leamen</wordform>
+               <wordform>leahkime</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Mu oabbá lea sámediggeáirras.</x>
+               <xt>Søstera mi er sametingsrepresentant.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leat</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Sg2</analysis>
+         <analysis>V_Ind_Prs_Pl1</analysis>
+         <analysis>V_Ind_Prs_Pl3</analysis>
+         <analysis>V_Ind_Prs_ConNeg</analysis>
+         <analysis>V_Inf</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Ja dan dihte don leat 34 jagi giksašuvvan.</x>
+               <xt>Og på grunn av det har du vært plaget i 34 år.</xt>
+            </xg>
+            <xg>
+               <x>Mii leat dán birra hupman.</x>
+               <xt>Vi har snakket om dette.</xt>
+            </xg>
+            <xg>
+               <x>Skuvllas leat 13 sámegiel oahppi guovtti klássas.</x>
+               <xt>På skolen er det 13 samiskelever i to klasser.</xt>
+            </xg>
+            <xg>
+               <x>Ii ge leat duohta.</x>
+               <xt>Det er ikke sant heller.</xt>
+            </xg>
+            <xg>
+               <x>Fitnodagas galgá leat báikkálaš ossodat Guovdageainnus.</x>
+               <xt>Bedriften skal ha en lokal avdeling i Kautokeino.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leahkit</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Inf</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="16594832">være</t>
+            <xg>
+               <x>Fitnodat galgá leahkit dušše báikkálaš ossodat.</x>
+               <xt>Bedriften skal bare være en lokal avdeling.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">lean</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Sg1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Mun dat lean aviissa gáldu dán áššis.</x>
+               <xt>Det er jeg som er avisens kilde i denne saken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">letne</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Du1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Moai letne gal gullan nuoraid hupmame dan birra.</x>
+               <xt>Vi to har da hørt ungdommer snakke om det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">ledne</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Du1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Moai ledne gal gullan nuoraid hupmame dan birra.</x>
+               <xt>Vi to har da hørt ungdommer snakke om det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leahppi</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Du2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Gosa doai leahppi mannamin?</x>
+               <xt>Hvor hen er dere to på tur?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pers="3" nr="du" pos="V">leaba</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Du3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Soai leaba duhtavaččat iežaska lunttaiguin.</x>
+               <xt>De to er fornøyde med guttene sine.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">lehpet</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Ind_Prs_Pl2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Dii bat lehpet ge, ja mun doivon olles roahttočorraga deike šávvan.</x>
+               <xt>Åja, det er dere, og jeg som trodde en hel rotteflokk hadde buldret inn hit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="actio" pos="V">leahkin</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Actio_Nom</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Dál leat eamiálbmogiin ođđa hástalusat ja sin leahkin lea áitojuvvon.</x>
+               <xt>Nå har urfolk nye utfordringer og deres eksistens er truet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="actio" pos="V">leame</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Actio_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Eadni orui leame ovtta oaivilis muinna.</x>
+               <xt>Mor syntes å være enig med meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="actio" pos="V">leamen</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Actio_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Eadni orui leamen ovtta oaivilis muinna.</x>
+               <xt>Mor syntes å være enig med meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="actio" pos="V">leahkime</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+         <analysis>V_Actio_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Eadni orui leahkime ovtta oaivilis muinna.</x>
+               <xt>Mor syntes å være enig med meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">lei</l>
+         <analysis>V_Ind_Prt_Sg3</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Ind_Prt_Sg1">
+               <wordform>ledjen</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Sg2">
+               <wordform>ledjet</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Sg3">
+               <wordform>lei</wordform> 
+               <wordform>leai</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Du1">
+               <wordform>leimme</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Du2">
+               <wordform>leidde</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Du3">
+               <wordform>leigga</wordform> 
+               <wordform>leaigga</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Pl1">
+               <wordform>leimmet</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Pl2">
+               <wordform>leiddet</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_Pl3">
+               <wordform>ledje</wordform>
+            </analysis>
+            <analysis ms="V_Ind_Prt_ConNeg">
+               <wordform>lean</wordform>
+            </analysis>
+            <analysis ms="V_PrfPrc">
+               <wordform>leamaš</wordform>
+               <wordform>leamašan</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Uhcastáloš lei buot šieđđaluvvan ja bivastuvvan go viimmat jovde dohko.</x>
+               <xt>Den lille stalloen var fullstendig andpusten og svett da de endelig kom fram.</xt>
+            </xg>
+            <xg>
+               <x>Son lei Nuorttanaste doaimmaheaddji 32 jagi.</x>
+               <xt>Han var redaktør for Nuorttanaste i 32 år.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">ledjet</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Sg2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Don ledjet hui čeahppi elliid jienaid áđđestallat.</x>
+               <xt>Du var veldig flink til å etterlikne dyrelyder.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leai</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Uhcastáloš leai buot šieđđaluvvan ja bivastuvvan go viimmat jovde dohko.</x>
+               <xt>Den lille stalloen var fullstendig andpusten og svett da de endelig kom fram.</xt>
+            </xg>
+            <xg>
+               <x>Son leai Nuorttanaste doaimmaheaddji 32 jagi.</x>
+               <xt>Han var redaktør for Nuorttanaste i 32 år.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">ledjen</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Sg1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Mii bođiimet fas Norgii go mun ledjen 5 jahkásaš.</x>
+               <xt>Vi kom til Norge igjen da jeg var 5 år gammel.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leimme</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Du1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Moai leimme dušše 10 jahkásaččat.</x>
+               <xt>Vi var bare 10 år gamle.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leidde</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Du2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Doai leidde eahkesnávehis jur geargan go eadni riŋgii.</x>
+               <xt>Dere to var akkurat ferdig i kveldsfjøset da mor ringte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leigga</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Du3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Nuppe beaivvi deaivvadeaba stállu ja bárdni dan seamma báikkis gos leigga beaivvi ovdal
+               deaivvadan.</x>
+               <xt>Dagen etter treffes stallo og gutten samme sted som de hadde treftes dagen før.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leaigga</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Du3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Soai leaigga ovtta gievrrat.</x>
+               <xt>De to var like sterke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leimmet</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Mii leimmet boahtán geahččat albma garra gilvvu.</x>
+               <xt>Vi var kommet for å se en skikkelig hard konkurranse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leiddet</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Pl2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Ollu áigi manai áibbas duššás, ii dušše mus muhto buohkain dis geat leiddet munnje veahkkin.</x>
+               <xt>Mye tid gikk til spille, ikke bare for meg, men for alle dere som hjalp meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">ledje</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_Pl3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">var</t>
+            <xg>
+               <x>Go ledje boradan gallás, de manadišgohte guossit.</x>
+               <xt>Da de hadde spist seg mette, begynte gjestene å dra.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l mod="ind" type="prfprc" pos="V">lean</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_Ind_Prt_ConNeg</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Sis ii lean gal jur njulgestaga heahti.</x>
+               <xt>De var ikke direkte i nød.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="prfprc" pos="V">leamaš</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_PrfPrc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">vært</t>
+            <xg>
+               <x>Mun lean leamaš guokte mánu buohccin dieđihuvvon.</x>
+               <xt>Jeg har vært sykemeldt i to måneder.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="prfprc" pos="V">leamašan</l>
+         <lemma_ref lemmaID="lei_v">lei</lemma_ref>
+         <analysis>V_PrfPrc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">vært</t>
+            <xg>
+               <x>Mun lean leamašan guokte mánu buohccin dieđihuvvon.</x>
+               <xt>Jeg har vært sykemeldt i to måneder.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V" mod="imprt">lehkon</l>
+         <analysis>V_Imprt_Sg1</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Imprt_Sg1">
+               <wordform>lehkon</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Sg2">
+               <wordform>leage</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Sg3">
+               <wordform>lehkos</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Du1">
+               <wordform>leahkku</wordform> 
+               <wordform>leadnu</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Du2">
+               <wordform>leahkki</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Du3">
+               <wordform>lehkoska</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Pl1">
+               <wordform>lehkot</wordform> 
+               <wordform>leatnot</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Pl2">
+               <wordform>lehket</wordform>
+            </analysis>
+            <analysis ms="V_Imprt_Pl3">
+               <wordform>lehkoset</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leage</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Sg2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Leage buorre!</x>
+               <xt>Vær så god!</xt>
+            </xg>
+            <xg>
+               <x>Nieidan, leage dorvvolaš!</x>
+               <xt>Min datter, vær tillitsfull!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">lehkos</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Muhto go boahtibehtet muhtun vissui, de dadjet vuosttaš sátnin: Ráfi lehkos dán ruktui!</x>
+               <xt>Men når dere kommer inn i et hus, skal dere si først: Fred være med dette hjemmet!</xt>
+            </xg>
+            <xg>
+               <x>In vuolgge du vielja mielde, lehkos dál vaikko man buorre vuoddji.</x>
+               <xt>Jeg blir ikke med broren din, om han er en aldri så god sjåfør.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leahkku</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Du1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Leahkku dan dihtii giitevaččat.</x>
+               <xt>La oss to være takknemlige for det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leadnu</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Du1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Leadnu dan dihtii giitevaččat.</x>
+               <xt>La oss to være takknemlige for det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leahkki</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Du2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg re="til to personer">
+               <x>Leahkki dan dihtii giitevaččat!</x>
+               <xt>Vær takknemlige for det!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">lehkoska</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Du3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Lehkoska dal jearran rektoris!</x>
+               <xt>La de to nå ha spurt rektor!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l mod="imp" pers="1" nr="pl" pos="V">lehkot</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Lehkot dan dihtii giitevaččat.</x>
+               <xt>La oss være takknemlige for det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leatnot</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Leatnot dan dihtii giitevaččat.</x>
+               <xt>La oss være takknemlige for det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">lehket</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Pl2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Lehket gávvilat dego gearbmašat ja vigiheamit dego duvvát!</x>
+               <xt>Vær kloke som slanger og troskyldige som duer!</xt>
+            </xg>
+            <xg>
+               <x>Muhto lehket dorvvolaččat!</x>
+               <xt>Men vær tillitsfulle!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">lehkoset</l>
+         <lemma_ref lemmaID="lehkon_v_imprt">lehkon</lemma_ref>
+         <analysis>V_Imprt_Pl3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Lehkoset din sánit álelassii ustitlaččat!</x>
+               <xt>La alle deres ord være vennlige!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V" mod="cond">livččen</l>
+         <analysis>V_Cond_Sg1</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Cond_Sg1">
+               <wordform>livččen</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Sg2">
+               <wordform>livččet</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Sg3">
+               <wordform>livččii</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Du1">
+               <wordform>livččiime</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Du2">
+               <wordform>livččiide</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Du3">
+               <wordform>livččiiga</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Pl1">
+               <wordform>livččiimet</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Pl2">
+               <wordform>livččiidet</wordform>
+            </analysis>
+            <analysis ms="V_Cond_Pl3">
+               <wordform>livčče</wordform>
+            </analysis>
+            <analysis ms="V_Cond_ConNeg">
+               <wordform>livčče</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Dan gal livččen mun ge!</x>
+               <xt>Det ville jeg også ha gjort!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">livččet</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_Sg2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Jus leat molson čujuhusa, fertet dan dieđihit biilabearráigehččui, vaikko livččet ge Álbmotregistarii
+               juo dieđihan.</x>
+               <xt>Hvis du har byttet adresse, må du gi beskjed til biltilsynet, selv om du evt. allerede har meldt til
+               Folkeregisteret.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">livččii</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Jus Máret vuos miehtá biddjojuvvot listui, de livččii lunddolaš su bidjat vuosttažin.</x>
+               <xt>Hvis Máret først går med på å settes på lista, så ville det vært naturlig å sette henne på
+               førsteplass.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">livččiime</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_Du1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Bárdni humai dego moai livččiime boares ustibat, muitala Sunniva.</x>
+               <xt>Gutten snakket som om vi to hadde vært gode venner, forteller Sunniva.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">livččiide</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_Du2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Dalle livččiide cuvken buot maniid.</x>
+               <xt>Da ville dere to ha knust alle eggene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">livččiiga</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_Du3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Jus Heidis livččii leamaš Elle Márjá veahkkin, de livččiiga birgemeahttumat.</x>
+               <xt>Hvis Heidi hadde hatt Elle Márjá til hjelp, ville de to ha vært uovervinnelige.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">livččiimet</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Mii livččiimet sáhttán vuoitit čiekčama, muhto vuoittáhalaimet.</x>
+               <xt>Vi kunne ha vunnet kampen, men vi tapte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">livččiidet</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_Pl2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Dalle livččiidet cuvken buot maniid.</x>
+               <xt>Da ville dere ha knust alle eggene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pers="3" nr="pl" pos="V">livčče</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_Pl3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Mus livčče mis muhtin govat maid galggašit váldit mielde hotellii.</x>
+               <xt>Jeg har noen bilder av oss som du burde ta med til hotellet.</xt>
+            </xg>
+            <xg>
+               <x>Sii livčče galgan baicca vuordit mihcamáraide.</x>
+               <xt>De skulle heller ha ventet til St. Hans.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l mod="cond" type="conneg" pos="V">livčče</l>
+         <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
+         <analysis>V_Cond_ConNeg</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Muhtimat sis soitet dovdat ahte sidjiide ii livčče ášši oba gullan ge.</x>
+               <xt>Noen av dem kan kanskje føle at saken egentlig ikke angår dem i det hele tatt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V" mod="pot">leaččan</l>
+         <analysis>V_Pot_Sg1</analysis>
+         <mini_paradigm>
+            <analysis ms="V_Pot_Sg1">
+               <wordform>leaččan</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Sg2">
+               <wordform>leaččat</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Sg3">
+               <wordform>leažžá</wordform> 
+               <wordform>leaš</wordform>
+               <wordform>leš</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Du1">
+               <wordform>ležže</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Du2">
+               <wordform>leažžabeahtti</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Du3">
+               <wordform>leažžaba</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Pl1">
+               <wordform>leažžat</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Pl2">
+               <wordform>leažžabehtet</wordform>
+            </analysis>
+            <analysis ms="V_Pot_Pl3">
+               <wordform>ležžet</wordform>
+            </analysis>
+            <analysis ms="V_Pot_ConNeg">
+               <wordform>leačča</wordform> 
+               <wordform>leaš</wordform>
+               <wordform>leš</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>In dieđe leaččan go dušše mun gii duššiid váidalan...</x>
+               <xt>Jeg vet ikke om det bare er meg som klager for ingenting...</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leaččat</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Sg2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Jos don áiggut jávohaga orrut buot dán birra maid leaččat oaidnán ja gullan, de eat mii áiggo dutnje
+               dahkat maidege baháid.</x>
+               <xt>Hvis du vil holde stilt om alt som du evt. har sett og hørt, så vil vi ikke gjøre deg noe ondt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leažžá</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Mii dasa leažžá sivvan, ii leat buorre diehtit.</x>
+               <xt>Hva som årsaken til det, er ikke godt å vite.</xt>
+            </xg>
+            <xg>
+               <x>Áhčči lea juohke háve leamaš mielde, beroškeahttá makkár dálki leažžá.</x>
+               <xt>Far har vært med hver gang, uansett hvordan været har vært.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pers="3" nr="sg" pos="V">leaš</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Dán sáhtán mun oba vuđolaččat duođaštit jus dasa leaš dárbu.</x>
+               <xt>Dette kan jeg dokumentere temmelig grundig, hvis det skulle være behov for det.</xt>
+            </xg>
+            <xg>
+               <x>Ii mihkkege mii dáhpáhuvvá luonddus, leaš dál bahá vai buorre, leat nu ahte das ii leat ávki juoga
+               masa.</x>
+               <xt>Ingenting som skjer i naturen, om det så er ondt eller godt, er slik at det ikke er til nytte for
+               noe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pers="3" nr="sg" pos="V">leš</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Sg3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Muhto jus leš nu, manne dalle lea dárbbašlaš botnjat lávdegotti evttohusaid?</x>
+               <xt>Men hvis det er slik, hvorfor er det da nødvendig å vri på utvalgets forslag?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pers="1" nr="du" pos="V">ležže</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Du1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Ii leat šat dilli fitnat gostege, go ležže vuolgime odne.</x>
+               <xt>Vi har ikke lenger tid til å dra innom noe sted, hvis det er så at vi to skal dra i dag.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leažžabeahtti</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Du2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Jus leažžabeahtti Guovdageainnus finadeame, de guovlaleahkki mu geahčen.</x>
+               <xt>Hvis dere tilfeldigvis er innom Kautokeino, kom på besøk til meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leažžaba</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Du3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Sudnos ii leat šat dilli fitnat gostege, go leažžaba vuolgime odne.</x>
+               <xt>De to har ikke lenger tid til å dra innom noe sted, hvis det er så at de skal dra i dag.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pers="1" nr="pl" pos="V">leažžat</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Pl1</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Ii leat šat dilli orrut, go juo leažžat fárremin odne.</x>
+               <xt>Vi har ikke lenger tid til å være i ro om det er så at vi skal flytte allerede i dag.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">leažžabehtet</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Pl2</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>In dieđe leažžabehtet go ollismielagat obanassiige.</x>
+               <xt>Jeg vet ikke om dere er riktig vel bevart overhodet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pers="3" nr="pl" pos="V">ležžet</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_Pl3</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Jus ležžet dieđut govvii, sáhttibehtet riŋget dahje fitnat min luhtte.</x>
+               <xt>Hvis dere har opplysninger om bildet, kan dere ringe eller komme innom oss.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="conneg" pos="V">leačča</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_ConNeg</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>Dieđán ahte jus vel ovdal in leačča ge oaidnán albma deahkkás olbmuid, de dál goit beasan dan nai
+               vásihit.</x>
+               <xt>Jeg vet at hvis jeg tidligere ikke skulle ha sett en ordentlig muskuløs person, så får jeg ihvertfall
+               oppleve det nå.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="conneg" pos="V">leaš</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_ConNeg</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>In dieđe, leaš go nu.</x>
+               <xt>Jeg vet ikke, om det er slik.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l type="conneg" pos="V">leš</l>
+         <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
+         <analysis>V_Pot_ConNeg</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V" freq="0">er</t>
+            <xg>
+               <x>- Iibat leš nieiddaguoktái árbin jurddašan, árvalii Márgget.</x>
+               <xt>- Har han ikke tenkt på det som arv til de to døtrene, foreslo Márgget.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

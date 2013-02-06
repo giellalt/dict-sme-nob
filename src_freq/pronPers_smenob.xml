@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">mon</l>
+         <analysis>Pron_Pers_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg1_Nom">
+               <wordform>mun</wordform>
+               <wordform>mon</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Acc/Gen">
+               <wordform>mu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ill">
+               <wordform>munnje</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Loc">
+               <wordform>mus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Com">
+               <wordform>muinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ess">
+               <wordform>munin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="5816806">jeg</t>
+            <xg>
+               <x>mus lea</x>
+               <xt>jeg har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">mun</l>
+         <lc>mu, munnje, mus, muinna</lc>
+         <analysis>Pron_Pers_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg1_Nom">
+               <wordform>mun</wordform>
+               <wordform>mon</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Acc/Gen">
+               <wordform>mu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ill">
+               <wordform>munnje</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Loc">
+               <wordform>mus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Com">
+               <wordform>muinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ess">
+               <wordform>munin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="5816806">jeg</t>
+            <xg>
+               <x>mus lea</x>
+               <xt>jeg har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">don</l>
+         <analysis>Pron_Pers_Sg2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg2_Nom">
+               <wordform>don</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Acc/Gen">
+               <wordform>du</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ill">
+               <wordform>dutnje</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Loc">
+               <wordform>dus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Com">
+               <wordform>duinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ess">
+               <wordform>dunin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="3459025">du</t>
+            <xg>
+               <x>Dus lea gusto stuora beana.</x>
+               <xt>Du har sannelig en stor hund.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">son</l>
+         <analysis>Pron_Pers_Sg3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg3_Nom">
+               <wordform>son</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Acc/Gen">
+               <wordform>su</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ill">
+               <wordform>sutnje</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Loc">
+               <wordform>sus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Com">
+               <wordform>suinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ess">
+               <wordform>sunin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="2209567">han</t>
+            <t pos="Pron" freq="1000079">hun</t>
+            <xg>
+               <x>sus lea</x>
+               <xt>hun har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l nr="sg" pos="Pron" type="pers">dat</l>
+         <analysis>Pron_Pers_Sg3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg3_Nom">
+               <wordform>dat</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Acc/Gen">
+               <wordform>dan</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ill">
+               <wordform>dasa</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Loc">
+               <wordform>das</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Com">
+               <wordform>dainna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Ess">
+               <wordform>danin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="9728669">det</t>
+            <t pos="Pron" freq="2646340">den</t>
+            <xg>
+               <x>Beana ii láhppo, dat gal boahtá ruoktot.</x>
+               <xt>Hunden går seg ikke vill, den kommer hjem.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="2209567">han</t>
+            <t pos="Pron" freq="1000079">hun</t>
+            <xg>
+               <x>Elle ii čále, dat baicca lohká.</x>
+               <xt>Elle skriver ikke, hun leser heller.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">moai</l>
+         <analysis>Pron_Pers_Du1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du1_Nom">
+               <wordform>moai</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Acc/Gen">
+               <wordform>munno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ill">
+               <wordform>munnuide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Loc">
+               <wordform>munnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Com">
+               <wordform>munnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ess">
+               <wordform>munnon</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">vi to</tf>
+            <xg>
+               <x>munnos lea</x>
+               <xt>vi to har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">doai</l>
+         <analysis>Pron_Pers_Du2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du2_Nom">
+               <wordform>doai</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Acc/Gen">
+               <wordform>dudno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ill">
+               <wordform>dudnuide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Loc">
+               <wordform>dudnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Com">
+               <wordform>dudnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ess">
+               <wordform>dudnon</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">dere to</tf>
+            <xg>
+               <x>dudnos lea</x>
+               <xt>dere to har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">soai</l>
+         <analysis>Pron_Pers_Du3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du3_Nom">
+               <wordform>soai</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Acc/Gen">
+               <wordform>sudno</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ill">
+               <wordform>sudnuide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Loc">
+               <wordform>sudnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Com">
+               <wordform>sudnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ess">
+               <wordform>sudnon</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">de to</tf>
+            <xg>
+               <x>sudnos lea</x>
+               <xt>de to har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l nr="du" pos="Pron" type="pers">dat</l>
+         <analysis>Pron_Pers_Du3_Nom</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="0">de to</t>
+            <xg>
+               <x>Dat boahtiba ruoktot.</x>
+               <xt>De to kommer hjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">mii</l>
+         <analysis>Pron_Pers_Pl1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl1_Nom">
+               <wordform>mii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Acc/Gen">
+               <wordform>min</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ill">
+               <wordform>midjiide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Loc">
+               <wordform>mis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Com">
+               <wordform>minguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ess">
+               <wordform>minin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="3387354">vi</t>
+            <xg>
+               <x>mis lea</x>
+               <xt>vi har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dii</l>
+         <analysis>Pron_Pers_Pl2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl2_Nom">
+               <wordform>dii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Acc/Gen">
+               <wordform>din</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ill">
+               <wordform>didjiide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Loc">
+               <wordform>dis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Com">
+               <wordform>dinguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ess">
+               <wordform>dinin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="406133">dere</t>
+            <xg>
+               <x>dis lea</x>
+               <xt>dere har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sii</l>
+         <analysis>Pron_Pers_Pl3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl3_Nom">
+               <wordform>sii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Acc/Gen">
+               <wordform>sin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ill">
+               <wordform>sidjiide</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Loc">
+               <wordform>sis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Com">
+               <wordform>singuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ess">
+               <wordform>sinin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="2911836">de</t>
+            <xg>
+               <x>sis lea</x>
+               <xt>de har</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l nr="pl" pos="Pron" type="pers">dat</l>
+         <analysis>Pron_Pers_Pl3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl3_Nom">
+               <wordform>dat</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Acc/Gen">
+               <wordform>daid</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ill">
+               <wordform>daidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Loc">
+               <wordform>dain</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Com">
+               <wordform>daiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Ess">
+               <wordform>danin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="2911836">de</t>
+            <xg>
+               <x>Mii gávppašeimmet ovdal Kárášjoga borramušbuvddain, muhto dat heite gálvvu buktimis midjiide.</x>
+               <xt>Vi handlet før i matvarebutikkene i Karasjok, men de sluttet å bringe varer til oss.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">mu</l>
+         <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Gen</analysis>
+         <analysis>Pron_Pers_Sg1_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="46">meg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="844881">min</t>
+            <t pos="Pron" freq="4468">mine</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">munnje</l>
+         <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til meg</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">mus</l>
+         <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">jeg (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">muinna</l>
+         <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med meg</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">munin</l>
+         <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som meg</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">du</l>
+         <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         <analysis>Pron_Pers_Sg2_Gen</analysis>
+         <analysis>Pron_Pers_Sg2_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="0">deg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="551821">din</t>
+            <t pos="Pron" freq="0">dine</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dutnje</l>
+         <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         <analysis>Pron_Pers_Sg2_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til deg</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dus</l>
+         <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         <analysis>Pron_Pers_Sg2_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">du (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">duinna</l>
+         <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         <analysis>Pron_Pers_Sg2_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med deg</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dunin</l>
+         <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
+         <analysis>Pron_Pers_Sg2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som deg</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">su</l>
+         <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Gen</analysis>
+         <analysis>Pron_Pers_Sg3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="1431">ham</t>
+            <t pos="Pron" freq="8">henne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="261099">hans</t>
+            <t pos="Pron" freq="120797">hennes</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sutnje</l>
+         <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til han</tf>
+            <tf pos="phrase">til henne</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sus</l>
+         <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">han (har)</tf>
+            <tf pos="phrase">hun (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">suinna</l>
+         <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med henne</tf>
+            <tf pos="phrase">med han</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sunin</l>
+         <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som han</tf>
+            <tf pos="phrase">som henne</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dan</l>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Gen</analysis>
+         <analysis>Pron_Pers_Sg3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="9728669">det</t>
+            <t pos="Pron" freq="2646340">den</t>
+            <xg>
+               <x>Mun dagan dan áinnas, lohká eadni.</x>
+               <xt>Jeg gjør det gjerne, sier mor.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="0">dens</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dasa</l>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til det</tf>
+            <tf pos="phrase">til den</tf>
+            <xg>
+               <x>Dasa mii dárbbašit veahki.</x>
+               <xt>Til det trenger vi hjelp.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">das</l>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">i det</tf>
+            <tf pos="phrase">i den</tf>
+            <xg>
+               <x>Makkár váikkuhusat das leat skuvlii?</x>
+               <xt>Hva slags konsekvenser har det for skolen?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dainna</l>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med den</tf>
+            <tf pos="phrase">med det</tf>
+            <xg>
+               <x>Dainna eat birge geassái.</x>
+               <xt>Med den berges vi ikke til sommeren.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">danin</l>
+         <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som det</tf>
+            <tf pos="phrase">som den</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">munno</l>
+         <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         <analysis>Pron_Pers_Du1_Gen</analysis>
+         <analysis>Pron_Pers_Du1_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">oss to</tf>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om to</re>
+            <t pos="Pron" freq="499326">vår</t>
+            <t pos="Pron" freq="1">våre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">munnuide</l>
+         <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         <analysis>Pron_Pers_Du1_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til oss to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">munnos</l>
+         <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         <analysis>Pron_Pers_Du1_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">vi to (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">munnuin</l>
+         <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         <analysis>Pron_Pers_Du1_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med oss to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">munnon</l>
+         <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
+         <analysis>Pron_Pers_Du1_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som oss to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dudno</l>
+         <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         <analysis>Pron_Pers_Du2_Gen</analysis>
+         <analysis>Pron_Pers_Du2_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">dere to</tf>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om to</re>
+            <t pos="Pron" freq="201041">deres</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dudnuide</l>
+         <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         <analysis>Pron_Pers_Du2_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til dere to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dudnos</l>
+         <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         <analysis>Pron_Pers_Du2_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">dere to (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dudnuin</l>
+         <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         <analysis>Pron_Pers_Du2_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med dere to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dudnon</l>
+         <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
+         <analysis>Pron_Pers_Du2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som dere to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sudno</l>
+         <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         <analysis>Pron_Pers_Du3_Gen</analysis>
+         <analysis>Pron_Pers_Du3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">de to</tf>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om to</re>
+            <t pos="Pron" freq="201041">deres</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sudnuide</l>
+         <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         <analysis>Pron_Pers_Du3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til de to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sudnos</l>
+         <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         <analysis>Pron_Pers_Du3_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">de to (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sudnuin</l>
+         <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         <analysis>Pron_Pers_Du3_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med de to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sudnon</l>
+         <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
+         <analysis>Pron_Pers_Du3_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som de to</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">min</l>
+         <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Gen</analysis>
+         <analysis>Pron_Pers_Pl1_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="4">oss</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="499326">vår</t>
+            <t pos="Pron" freq="1">våre</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">midjiide</l>
+         <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til oss</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">mis</l>
+         <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">vi (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">minguin</l>
+         <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med oss</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">minin</l>
+         <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som oss</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">din</l>
+         <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Gen</analysis>
+         <analysis>Pron_Pers_Pl2_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="406133">dere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="201041">deres</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">didjiide</l>
+         <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til dere</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dis</l>
+         <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">dere (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dinguin</l>
+         <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med dere</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dinin</l>
+         <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som dere</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sin</l>
+         <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Gen</analysis>
+         <analysis>Pron_Pers_Pl3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="0">dem</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="201041">deres</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sidjiide</l>
+         <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til dem</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sis</l>
+         <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">de (har)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">singuin</l>
+         <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med dem</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">sinin</l>
+         <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">som dem</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">daid</l>
+         <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Gen</analysis>
+         <analysis>Pron_Pers_Pl3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="0">dem</t>
+            <xg>
+               <x>Galggašedje suovvat badjeolbmuid daid njuovvat.</x>
+               <xt>De burde la reindriftsamene slakte dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" freq="201041">deres</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">daidda</l>
+         <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">til dem</tf>
+            <xg>
+               <x>Gonagas muitala dan daidda geat leat su olgeš bealde.</x>
+               <xt>Kongen forteller det til dem som er på hans høyre side.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">dain</l>
+         <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">i dem</tf>
+            <tf pos="phrase">av dem</tf>
+            <xg>
+               <x>Eanemus oassi dain leat boahtán.</x>
+               <xt>De fleste av dem er kommet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="pers">daiguin</l>
+         <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase">med dem</tf>
+         </tg>
+      </mg>
+   </e>
+</r>
