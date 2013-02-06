@@ -30,32 +30,32 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l pos="phrase_prop">Sámisoga lávlla</l>
+         <l pos="N" type="Prop">Sámisoga lávlla</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="phrase_prop">Samefolkets sang</t>
+            <t pos="N" type="Prop">Samefolkets sang</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="phrase_prop">Stuorra Británnia</l>
+         <l pos="N" type="Prop">Stuorra Británnia</l>
          <lsub>Stuora Británnia</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="prop" type="plc">Storbritannia</t>
+            <t pos="N" type="Prop" sem_type="plc">Storbritannia</t>
          </tg>
       </mg>
    </e>
     <e usage="vd">
       <lg>
-         <l pos="phrase_prop">Ipmil Áhčči</l>
+         <l pos="N" type="Prop">Ipmil Áhčči</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="phrase_prop">Gud Fader</t>
+            <t pos="N" type="Prop">Gud Fader</t>
          </tg>
       </mg>
    </e>
