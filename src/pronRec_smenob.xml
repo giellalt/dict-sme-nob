@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoibmáme</l>
+         <l pos="Pron" type="Recipr">guoibmáme</l>
          <analysis>Pron_Recipr_Du1_Acc</analysis>
          <analysis>Pron_Recipr_Du1_Gen</analysis>
          <mini_paradigm>
@@ -51,7 +51,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om oss to</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Moai dovde goabbat guoibmáme.</x>
                <xt>Vi to kjenner hverandre.</xt>
@@ -61,7 +61,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmáde</l>
+         <l pos="Pron" type="Recipr">guoimmáde</l>
          <analysis>Pron_Recipr_Du2_Acc</analysis>
          <analysis>Pron_Recipr_Du2_Gen</analysis>
          <mini_paradigm>
@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om dere to</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Doai dovdabeahtti goabbat guoimmáde.</x>
                <xt>Dere to kjenner hverandre.</xt>
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmiska</l>
+         <l pos="Pron" type="Recipr">guoimmiska</l>
          <analysis>Pron_Recipr_Du3_Acc</analysis>
          <analysis>Pron_Recipr_Du3_Gen</analysis>
          <mini_paradigm>
@@ -113,7 +113,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om dem to</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Soai dovdaba goabbat guoimmiska.</x>
                <xt>De to kjenner hverandre.</xt>
@@ -123,7 +123,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoibmámet</l>
+         <l pos="Pron" type="Recipr">guoibmámet</l>
          <analysis>Pron_Recipr_Pl1_Acc</analysis>
          <analysis>Pron_Recipr_Pl1_Gen</analysis>
          <mini_paradigm>
@@ -144,7 +144,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Mii dovdat guhtet guoibmámet.</x>
                <xt>Vi kjenner hverandre.</xt>
@@ -154,7 +154,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiideamet</l>
+         <l pos="Pron" type="Recipr">guimmiideamet</l>
          <analysis>Pron_Recipr_Pl1_Acc</analysis>
          <analysis>Pron_Recipr_Pl1_Gen</analysis>
          <mini_paradigm>
@@ -175,7 +175,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Mii dovdat guhtet guimmiideamet.</x>
                <xt>Vi kjenner hverandre.</xt>
@@ -185,7 +185,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmádet</l>
+         <l pos="Pron" type="Recipr">guoimmádet</l>
          <analysis>Pron_Recipr_Pl2_Acc</analysis>
          <analysis>Pron_Recipr_Pl2_Gen</analysis>
          <mini_paradigm>
@@ -206,7 +206,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om dere</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Dii dovdabehtet guhtet guoimmádet.</x>
                <xt>Dere kjenner hverandre.</xt>
@@ -216,7 +216,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiideattet</l>
+         <l pos="Pron" type="Recipr">guimmiideattet</l>
          <analysis>Pron_Recipr_Pl2_Acc</analysis>
          <analysis>Pron_Recipr_Pl2_Gen</analysis>
          <mini_paradigm>
@@ -237,7 +237,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om dere</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Dii dovdabehtet guhtet guimmiideattet.</x>
                <xt>Dere kjenner hverandre.</xt>
@@ -247,7 +247,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmiset</l>
+         <l pos="Pron" type="Recipr">guoimmiset</l>
          <analysis>Pron_Recipr_Pl3_Acc</analysis>
          <analysis>Pron_Recipr_Pl3_Gen</analysis>
          <mini_paradigm>
@@ -268,7 +268,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Sii dovdet guhtet guoimmiset.</x>
                <xt>De kjenner hverandre.</xt>
@@ -278,7 +278,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiideaset</l>
+         <l pos="Pron" type="Recipr">guimmiideaset</l>
          <analysis>Pron_Recipr_Pl3_Acc</analysis>
          <analysis>Pron_Recipr_Pl3_Gen</analysis>
          <mini_paradigm>
@@ -299,7 +299,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Sii dovdet guhtet guimmiideaset.</x>
                <xt>De kjenner hverandre.</xt>
@@ -309,7 +309,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">nuppi</l>
+         <l pos="Pron" type="Recipr">nuppi</l>
          <analysis>Pron_Recipr_Du_Acc</analysis>
          <analysis>Pron_Recipr_Du_Gen</analysis>
          <mini_paradigm>
@@ -333,7 +333,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om oss to</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Moai dovde nubbi nuppi.</x>
                <xt>Vi to kjenner hverandre.</xt>
@@ -343,7 +343,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">nuppiid</l>
+         <l pos="Pron" type="Recipr">nuppiid</l>
          <analysis>Pron_Recipr_Pl_Acc</analysis>
          <analysis>Pron_Recipr_Pl_Gen</analysis>
          <mini_paradigm>
@@ -367,7 +367,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om dem</re>
-            <tf pos="phrase">hverandre</tf>
+            <t pos="Pron" type="Recipr">hverandre</t>
             <xg>
                <x>Sii dovdet nuppit nuppiid.</x>
                <xt>De kjenner hverandre.</xt>
@@ -377,14 +377,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoibmáseame</l>
+         <l pos="Pron" type="Recipr">guoibmáseame</l>
          <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
          <analysis>Pron_Recipr_Du1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss to</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Moai muitaletne ságaid goabbat guoibmáseame.</x>
                <xt>Vi to forteller nytt til hverandre.</xt>
@@ -394,15 +394,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmisteame</l>
+         <l pos="Pron" type="Recipr">guoimmisteame</l>
          <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
          <analysis>Pron_Recipr_Du1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss to</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Moai ožžo rávvagiid goabbat guoimmisteame.</x>
                <xt>Vi to får råd fra hverandre.</xt>
@@ -412,14 +412,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiineame</l>
+         <l pos="Pron" type="Recipr">guimmiineame</l>
          <lemma_ref lemmaID="guoibmáme_pron_recipr">guoibmáme</lemma_ref>
          <analysis>Pron_Recipr_Du1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss to</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Moai leaikkastalle goabbat guimmiineame.</x>
                <xt>Vi to spøker med hverandre.</xt>
@@ -429,14 +429,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoibmáseatte</l>
+         <l pos="Pron" type="Recipr">guoibmáseatte</l>
          <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
          <analysis>Pron_Recipr_Du2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dere to</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Doai muitaleahppi ságaid goabbat guoibmáseatte.</x>
                <xt>Dere to forteller nytt til hverandre.</xt>
@@ -446,14 +446,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmisteatte</l>
+         <l pos="Pron" type="Recipr">guoimmisteatte</l>
          <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
          <analysis>Pron_Recipr_Du2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dere to</re>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Doai oažžubeahtti rávvagiid goabbat guoimmisteatte.</x>
                <xt>Dere to får råd fra hverandre.</xt>
@@ -463,14 +463,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiineatte</l>
+         <l pos="Pron" type="Recipr">guimmiineatte</l>
          <lemma_ref lemmaID="guoimmáde_pron_recipr">guoimmáde</lemma_ref>
          <analysis>Pron_Recipr_Du2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dere to</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Doai leaikkastallabeahtti goabbat guimmiineatte.</x>
                <xt>Dere to spøker med hverandre.</xt>
@@ -480,14 +480,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoibmáseaskka</l>
+         <l pos="Pron" type="Recipr">guoibmáseaskka</l>
          <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem to</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Soai muitaleaba ságaid goabbat guoibmáseaskka.</x>
                <xt>De to forteller nytt til hverandre.</xt>
@@ -497,15 +497,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmisteaskka</l>
+         <l pos="Pron" type="Recipr">guoimmisteaskka</l>
          <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem to</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Soai oažžuba rávvagiid goabbat guoimmisteaskka.</x>
                <xt>De to får råd fra hverandre.</xt>
@@ -515,14 +515,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiineaskka</l>
+         <l pos="Pron" type="Recipr">guimmiineaskka</l>
          <lemma_ref lemmaID="guoimmiska_pron_recipr">guoimmiska</lemma_ref>
          <analysis>Pron_Recipr_Du3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem to</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Soai leaikkastallaba goabbat guimmiineaskka.</x>
                <xt>De to spøker med hverandre.</xt>
@@ -532,14 +532,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoibmáseamet</l>
+         <l pos="Pron" type="Recipr">guoibmáseamet</l>
          <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Mii muitalit ságaid guhtet guoibmáseamet.</x>
                <xt>Vi forteller nytt til hverandre.</xt>
@@ -549,15 +549,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmisteamet</l>
+         <l pos="Pron" type="Recipr">guoimmisteamet</l>
          <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Mii oažžut rávvagiid guhtet guoimmisteamet.</x>
                <xt>Vi får råd fra hverandre.</xt>
@@ -567,14 +567,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="sg">guimmiineamet</l>
+         <l pos="Pron" type="Recipr" nr="Sg">guimmiineamet</l>
          <lemma_ref lemmaID="guoibmámet_pron_recipr">guoibmámet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Mii leaikkastallat guhtet guimmiineamet.</x>
                <xt>Vi skøyer med hverandre.</xt>
@@ -584,14 +584,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiidasamet</l>
+         <l pos="Pron" type="Recipr">guimmiidasamet</l>
          <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Mii muitalit ságaid guhtet guimmiidasamet.</x>
                <xt>Vi forteller nytt til hverandre.</xt>
@@ -601,15 +601,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="pl">guimmiineamet</l>
+         <l pos="Pron" type="Recipr" nr="Pl">guimmiineamet</l>
          <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Mii oažžut rávvagiid guhtet guimmiineamet.</x>
                <xt>Vi får råd fra hverandre.</xt>
@@ -619,14 +619,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiideametguin</l>
+         <l pos="Pron" type="Recipr">guimmiideametguin</l>
          <lemma_ref lemmaID="guimmiideamet_pron_recipr">guimmiideamet</lemma_ref>
          <analysis>Pron_Recipr_Pl1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Mii leaikkastallat guhtet guimmiideametguin.</x>
                <xt>Vi skøyer med hverandre.</xt>
@@ -636,14 +636,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoibmáseattet</l>
+         <l pos="Pron" type="Recipr">guoibmáseattet</l>
          <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dere</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Dii muitalehpet ságaid guhtet guoibmáseattet.</x>
                <xt>Dere forteller nytt til hverandre.</xt>
@@ -653,15 +653,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmisteattet</l>
+         <l pos="Pron" type="Recipr">guoimmisteattet</l>
          <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
                   <re>om dere</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Dii oažžubehtet rávvagiid guhtet guoimmisteattet.</x>
                <xt>Dere får råd fra hverandre.</xt>
@@ -671,14 +671,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="sg">guimmiineattet</l>
+         <l pos="Pron" type="Recipr" nr="Sg">guimmiineattet</l>
          <lemma_ref lemmaID="guoimmádet_pron_recipr">guoimmádet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
                   <re>om dere</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Dii leaikkastallabehtet guhtet guimmiineattet.</x>
                <xt>Dere skøyer med hverandre.</xt>
@@ -688,14 +688,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiidasadet</l>
+         <l pos="Pron" type="Recipr">guimmiidasadet</l>
          <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dere</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Dii muitalehpet ságaid guhtet guimmiidasadet.</x>
                <xt>Dere forteller nytt til hverandre.</xt>
@@ -705,15 +705,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="pl">guimmiineattet</l>
+         <l pos="Pron" type="Recipr" nr="Pl">guimmiineattet</l>
          <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dere</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Dii oažžubehtet rávvagiid guhtet guimmiineattet.</x>
                <xt>Dere får råd fra hverandre.</xt>
@@ -723,14 +723,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiideattetguin</l>
+         <l pos="Pron" type="Recipr">guimmiideattetguin</l>
          <lemma_ref lemmaID="guimmiideattet_pron_recipr">guimmiideattet</lemma_ref>
          <analysis>Pron_Recipr_Pl2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dere</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Dii leaikkastallabehtet guhtet guimmiideattetguin.</x>
                <xt>Dere skøyer med hverandre.</xt>
@@ -740,14 +740,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoibmáseaset</l>
+         <l pos="Pron" type="Recipr">guoibmáseaset</l>
          <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Sii muitalit ságaid guhtet guoibmáseaset.</x>
                <xt>De forteller nytt til hverandre.</xt>
@@ -757,15 +757,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guoimmisteaset</l>
+         <l pos="Pron" type="Recipr">guoimmisteaset</l>
          <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Sii ožžot rávvagiid guhtet guoimmisteaset.</x>
                <xt>De får råd fra hverandre.</xt>
@@ -775,14 +775,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="sg">guimmiineaset</l>
+         <l pos="Pron" type="Recipr" nr="Sg">guimmiineaset</l>
          <lemma_ref lemmaID="guoimmiset_pron_recipr">guoimmiset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Sii leaikkastallet guhtet guimmiineaset.</x>
                <xt>De skøyer med hverandre.</xt>
@@ -792,14 +792,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiidasaset</l>
+         <l pos="Pron" type="Recipr">guimmiidasaset</l>
          <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Sii muitalit ságaid guhtet guimmiidasaset.</x>
                <xt>De forteller nytt til hverandre.</xt>
@@ -809,15 +809,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="pl">guimmiineaset</l>
+         <l pos="Pron" type="Recipr" nr="Pl">guimmiineaset</l>
          <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Sii ožžot rávvagiid guhtet guimmiineaset.</x>
                <xt>De får råd fra hverandre.</xt>
@@ -827,14 +827,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">guimmiideasetguin</l>
+         <l pos="Pron" type="Recipr">guimmiideasetguin</l>
          <lemma_ref lemmaID="guimmiideaset_pron_recipr">guimmiideaset</lemma_ref>
          <analysis>Pron_Recipr_Pl3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Sii leaikkastallet guhtet guimmiideasetguin.</x>
                <xt>De skøyer med hverandre.</xt>
@@ -844,14 +844,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">nubbái</l>
+         <l pos="Pron" type="Recipr">nubbái</l>
          <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem to</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Soai muitaleaba ságaid nubbi nubbái.</x>
                <xt>De to forteller nytt til hverandre.</xt>
@@ -861,15 +861,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">nuppis</l>
+         <l pos="Pron" type="Recipr">nuppis</l>
          <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem to</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Soai oažžuba rávvagiid nubbi nuppis.</x>
                <xt>De to får råd fra hverandre.</xt>
@@ -879,14 +879,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="sg">nuppiin</l>
+         <l pos="Pron" type="Recipr" nr="Sg">nuppiin</l>
          <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem to</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Soai leaikkastallaba nubbi nuppiin.</x>
                <xt>De to spøker med hverandre.</xt>
@@ -896,14 +896,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="du">nubbin</l>
+         <l pos="Pron" type="Recipr" nr="Du">nubbin</l>
          <lemma_ref lemmaID="nuppi_pron_recipr">nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem to</re>
-            <tf pos="phrase">som hverandre</tf>
+            <t pos="Pron" type="Recipr">som hverandre</t>
             <xg>
                <x>Soai loggiiga sisa nubbi nubbin.</x>
                <xt>De to logget inn som hverandre.</xt>
@@ -913,14 +913,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">nuppiide</l>
+         <l pos="Pron" type="Recipr">nuppiide</l>
          <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">til hverandre</tf>
+            <t pos="Pron" type="Recipr">til hverandre</t>
             <xg>
                <x>Sii muitalit ságaid nuppit nuppiide.</x>
                <xt>De forteller nytt til hverandre.</xt>
@@ -930,15 +930,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="pl">nuppiin</l>
+         <l pos="Pron" type="Recipr" nr="Pl">nuppiin</l>
          <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om oss</re>
-            <tf pos="phrase">hos hverandre</tf>
-            <tf pos="phrase">fra hverandre</tf>
+            <t pos="Pron" type="Recipr">hos hverandre</t>
+            <t pos="Pron" type="Recipr">fra hverandre</t>
             <xg>
                <x>Mii oažžut rávvagiid nuppit nuppiin.</x>
                <xt>Vi får råd fra hverandre.</xt>
@@ -948,14 +948,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr">nuppiiguin</l>
+         <l pos="Pron" type="Recipr">nuppiiguin</l>
          <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dere</re>
-            <tf pos="phrase">med hverandre</tf>
+            <t pos="Pron" type="Recipr">med hverandre</t>
             <xg>
                <x>Dii leaikkastallabehtet nuppit nuppiiguin.</x>
                <xt>Dere spøker med hverandre.</xt>
@@ -965,14 +965,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="recipr" nr="pl">nubbin</l>
+         <l pos="Pron" type="Recipr" nr="Pl">nubbin</l>
          <lemma_ref lemmaID="nuppiid_pron_recipr">nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>om dem</re>
-            <tf pos="phrase">som hverandre</tf>
+            <t pos="Pron" type="Recipr">som hverandre</t>
             <xg>
                <x>Sii loggejedje sisa nubbi nubbin.</x>
                <xt>De logget inn som hverandre.</xt>
