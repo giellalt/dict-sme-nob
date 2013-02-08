@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">mii nu</l>
+         <l pos="Pron" type="Indef">mii nu</l>
          <analysis>Pron_Indef_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Indef_Sg_Acc">
@@ -55,7 +55,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron" type="indef">noe</t>
+            <t pos="Pron" type="Indef">noe</t>
             <xg>
                <x>Ii oktage leat heakkaheađis, muhto mii nu dáidá leat dáhpáhuvvan.</x>
                <xt>Ingen er i livsfare, men noe har trolig skjedd.</xt>
@@ -69,13 +69,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">maid nu</l>
+         <l pos="Pron" type="Indef">maid nu</l>
          <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron" type="indef">noe</t>
+            <t pos="Pron" type="Indef">noe</t>
             <xg>
                <x>Leat vuohttán maid nu Jorbaváris, jáhkkit ahte lea guovža.</x>
                <xt>Vi har sett spor etter noe i Jorbavárri, vi tror det er en bjørn.</xt>
@@ -85,13 +85,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">man nu</l>
+         <l pos="Pron" type="Indef">man nu</l>
          <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Gen</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron" type="indef">noe</t>
+            <t pos="Pron" type="Indef">noe</t>
             <xg>
                <x>Muhtin logaldalli boahtá muitalit man nu miellagiddevaš fáttá birra.</x>
                <xt>En foreleser kommer for å fortelle om et eller annet interessant tema.</xt>
@@ -101,13 +101,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">masa nu</l>
+         <l pos="Pron" type="Indef">masa nu</l>
          <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="pron" type="indef">til noe</tf>
+            <t pos="Pron" type="Indef">til noe</t>
             <xg>
                <x>Ruhtaskeaŋkka gal háliidan geavahit masa nu earái, nu go mátkkošteapmái.</x>
                <xt>Pengegaven ønsker jeg å bruke på noe annet, slik som reising.</xt>
@@ -121,13 +121,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">mas nu</l>
+         <l pos="Pron" type="Indef">mas nu</l>
          <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron" type="indef">av noe</t>
+            <t pos="Pron" type="Indef">av noe</t>
             <xg>
                <x>Dát veahkkeneavvu lea mas nu ráhkaduvvon, muhto mun in dieđe mii dat lea.</x>
                <xt>Dette hjelpemiddelet er laget av noe. men jeg vet ikke hva det er.</xt>
@@ -137,13 +137,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">mainna nu</l>
+         <l pos="Pron" type="Indef">mainna nu</l>
          <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron" type="indef">med noe</t>
+            <t pos="Pron" type="Indef">med noe</t>
             <xg>
                <x>Mainna nu Elle dáidá gal leat boahtán.</x>
                <xt>Med noe har Elle vel kommet med.</xt>
@@ -153,13 +153,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">manin nu</l>
+         <l pos="Pron" type="Indef">manin nu</l>
          <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
          <analysis>Pron_Indef_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="pron" type="indef">som noe</tf>
+            <t pos="Pron" type="Indef">som noe</t>
             <xg>
                <x>Manin nu dat áigu šaddat, go geargá skuvllas.</x>
                <xt>Noe skal han bli, når han blir ferdig med skolen.</xt>
@@ -169,7 +169,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">oktage</l>
+         <l pos="Num">oktage</l>
          <analysis>okta_Num_Sg_Nom_Foc/ge</analysis>
          <mini_paradigm>
             <analysis ms="okta_Num_Sg_Acc/Gen_Foc/ge">
@@ -188,7 +188,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">en eneste</tf>
+            <t pos="Num">en eneste</t>
             <xg>
                <x>Dáin maŋimuš jagiin ii gávdnon oktage govva.</x>
                <xt>Fra de siste årene fantes ikke et eneste bilde.</xt>
@@ -202,14 +202,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">ovttage</l>
+         <l pos="Num">ovttage</l>
          <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
          <analysis>okta_Num_Sg_Acc_Foc/ge</analysis>
          <analysis>okta_Num_Sg_Gen_Foc/ge</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">en eneste</tf>
+            <t pos="Num">en eneste</t>
             <xg>
                <x>Elle ii dovdda ovttage ođđa skuvllas.</x>
                <xt>Elle kjenner ingen på den nye skolen.</xt>
@@ -219,13 +219,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">oktiige</l>
+         <l pos="Num">oktiige</l>
          <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
          <analysis>okta_Num_Sg_Ill_Foc/ge</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til en eneste</tf>
+            <t pos="Num">til en eneste</t>
             <xg>
                <x>Mii eat atte du persovdnadieđuid oktiige.</x>
                <xt>Vi gir ikke dine personopplysninger til noen.</xt>
@@ -235,14 +235,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">ovttasge</l>
+         <l pos="Num">ovttasge</l>
          <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
          <analysis>okta_Num_Sg_Loc_Foc/ge</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">i en eneste</tf>
-            <tf pos="phrase">hos en eneste</tf>
+            <t pos="Num">i en eneste</t>
+            <t pos="Num">hos en eneste</t>
             <xg>
                <x>Leat go ovttasge gámasuoinnit vuovdit?</x>
                <xt>Har noen sennagress til salgs?</xt>
@@ -255,7 +255,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">fra en eneste</tf>
+            <t pos="Num">fra en eneste</t>
             <xg>
                <x>Ođđa hálddašeapmi ii galgga gal ovttasge rivvet vuoigatvuođaid.</x>
                <xt>Den nye forvaltningen skal ikke ta rettigheter fra noen.</xt>
@@ -265,13 +265,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">ovttainge</l>
+         <l pos="Num">ovttainge</l>
          <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
          <analysis>okta_Num_Sg_Com_Foc/ge</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med en eneste</tf>
+            <t pos="Num">med en eneste</t>
             <xg>
                <x>Mis ii leat leamaš šiehtadus ovttainge njuovahagain.</x>
                <xt>Vi har ikke hatt avtaler med noen slakteri.</xt>
@@ -285,7 +285,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">vaikko mii</l>
+         <l pos="Pron" type="Indef">vaikko mii</l>
          <analysis>Pron_Indef_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Indef_Sg_Acc">
@@ -310,7 +310,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">om så hva</tf>
+            <t pos="Pron" type="Indef">om så hva</t>
             <xg>
                <x>Mus lea vaikko mii dás.</x>
                <xt>Jeg har hva som helst her.</xt>
@@ -326,13 +326,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">vaikko maid</l>
+         <l pos="Pron" type="Indef">vaikko maid</l>
          <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">om så hva</tf>
+            <t pos="Pron" type="Indef">om så hva</t>
             <xg>
                <x>Rieban doalvu vaikko maid bidjui, dadjá Eriksen.</x>
                <xt>Reven fører hva som helst til hiet, sier Eriksen.</xt>
@@ -346,13 +346,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">vaikko man</l>
+         <l pos="Pron" type="Indef">vaikko man</l>
          <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Gen</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">om så hvor</tf>
+            <t pos="Pron" type="Indef">om så hvor</t>
             <xg>
                <x>Áddjá han lea vaikko man boaris juo, muhto dat ii gal hehtte su buori barggu bargamis.</x>
                <xt>Bestefar er jo om så hvor gammel allerede, men det hindrer ham ikke fra å gjøre en god jobb.</xt>
@@ -366,13 +366,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">vaikko masa</l>
+         <l pos="Pron" type="Indef">vaikko masa</l>
          <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til hva som helst</tf>
+            <t pos="Pron" type="Indef">til hva som helst</t>
             <xg>
                <x>Dál fertet leat gearggus vaikko masa.</x>
                <xt>Nå må du være klar for hva som helst.</xt>
@@ -386,13 +386,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">vaikko mas</l>
+         <l pos="Pron" type="Indef">vaikko mas</l>
          <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">om så hvor</tf>
+            <t pos="Pron" type="Indef">om så hvor</t>
             <xg>
                <x>Vaikko mas leaččat leamaš mielde, de fertet almmatge dán geahččaleami čađahit.</x>
                <xt>Om så hva du har vært med på, må du likevel gjennomføre denne prøven.</xt>
@@ -402,13 +402,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">vaikko mainna</l>
+         <l pos="Pron" type="Indef">vaikko mainna</l>
          <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Sg_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">om så med hvilken</tf>
+            <t pos="Pron" type="Indef">om så med hvilken</t>
             <xg>
                <x>Don fertet mátkkoštit lulás vaikko mainna.</x>
                <xt>Du må reise sørover om så med hva.</xt>
@@ -418,13 +418,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">vaikko manin</l>
+         <l pos="Pron" type="Indef">vaikko manin</l>
          <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
          <analysis>Pron_Indef_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">om så hvordan</tf>
+            <t pos="Pron" type="Indef">om så hvordan</t>
             <xg>
                <x>Gal mu nai gohčodedje vaikko manin skuvllas.</x>
                <xt>Også meg kalte de nok for hva som helst på skolen.</xt>
@@ -440,7 +440,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">gii nu</l>
+         <l pos="Pron" type="Indef">gii nu</l>
          <analysis>Pron_Indef_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Indef_Sg_Acc/Gen">
@@ -462,7 +462,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron" type="indef">noen</t>
+            <t pos="Pron" type="Indef">noen</t>
             <xg>
                <x>Jus guoli áiggošedje bivddestit, de sii fertejit oastit jándorkoartta seamma go gii nu eará golgolaš
                guovllus.</x>
@@ -481,14 +481,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">gean nu</l>
+         <l pos="Pron" type="Indef">gean nu</l>
          <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Acc</analysis>
          <analysis>Pron_Indef_Sg_Gen</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron" type="indef">noen</t>
+            <t pos="Pron" type="Indef">noen</t>
             <xg>
                <x>Gili olbmot dárbbašit gean nu gii sáhtášii jođánit čoavdit dán ášši.</x>
                <xt>Bygdefolket trenger noen som fort kan løse denne saken.</xt>
@@ -498,13 +498,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">geasa nu</l>
+         <l pos="Pron" type="Indef">geasa nu</l>
          <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="pron" type="indef">til noen</tf>
+            <t pos="Pron" type="Indef">til noen</t>
             <xg>
                <x>Viimmat son ge lei geasa nu ávkin.</x>
                <xt>Endelig var Elle til nytte for noen.</xt>
@@ -514,13 +514,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">geas nu</l>
+         <l pos="Pron" type="Indef">geas nu</l>
          <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="pron" type="indef">av noen</tf>
+            <t pos="Pron" type="Indef">av noen</t>
             <xg>
                <x>Livččii jallodat gáddit ahte mus dahje geas nu earás livčče miella dan bargat.</x>
                <xt>Det hadde vært dumt å tro at jeg eller noen andre har lyst til å gjøre det.</xt>
@@ -530,13 +530,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">geainna nu</l>
+         <l pos="Pron" type="Indef">geainna nu</l>
          <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Sg_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="pron" type="indef">med noen</tf>
+            <t pos="Pron" type="Indef">med noen</t>
             <xg>
                <x>Jus ovttasge lea dárbu geainna nu háleštit dáhpáhusa birra, de lea mis doppe olmmoš geainna sáhttá
                váldit oktavuođa</x>
@@ -548,13 +548,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="pron" type="indef">geanin nu</l>
+         <l pos="Pron" type="Indef">geanin nu</l>
          <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
          <analysis>Pron_Indef_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="pron" type="indef">som noen</tf>
+            <t pos="Pron" type="Indef">som noen</t>
             <xg>
                <x>Geanin nu dat logai dan olbmo, muhto in muitte šat geanin.</x>
                <xt>Hun sa hvem han var, men jeg husker ikke lenger hvem.</xt>
@@ -568,7 +568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="phrase_n">bures boahtin</l>
+         <l pos="N">bures boahtin</l>
          <l_ref>buresboahtin_n</l_ref>
          <analysis>Sg_Nom</analysis>
          <analysis>Sg_Acc</analysis>
@@ -580,7 +580,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">velkommen</t>
+            <t pos="A">velkommen</t>
             <xg>
                <x>Bures boahtin buohkaide!</x>
                <xt>Velkommen til alle!</xt>
@@ -594,13 +594,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="phrase_n">bures boahtima</l>
+         <l pos="N">bures boahtima</l>
          <lemma_ref lemmaID="bures boahtin_phrase_n">bures boahtin</lemma_ref>
          <analysis>Sg_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">velkommen</t>
+            <t pos="A">velkommen</t>
             <xg>
                <x>Son sávai buohkaide bures boahtima.</x>
                <xt>Hun ønsket alle velkommen.</xt>
