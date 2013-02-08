@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">mon</l>
+         <l pos="Pron" type="Pers">mon</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg1_Nom">
@@ -56,7 +56,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">jeg</t>
+            <t pos="Pron" type="Pers">jeg</t>
             <xg>
                <x>mus lea</x>
                <xt>jeg har</xt>
@@ -66,7 +66,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">mun</l>
+         <l pos="Pron" type="Pers">mun</l>
          <lc>mu, munnje, mus, muinna</lc>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
@@ -93,7 +93,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">jeg</t>
+            <t pos="Pron" type="Pers">jeg</t>
             <xg>
                <x>mus lea</x>
                <xt>jeg har</xt>
@@ -103,7 +103,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">don</l>
+         <l pos="Pron" type="Pers">don</l>
          <analysis>Pron_Pers_Sg2_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg2_Nom">
@@ -128,7 +128,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">du</t>
+            <t pos="Pron" type="Pers">du</t>
             <xg>
                <x>Dus lea gusto stuora beana.</x>
                <xt>Du har sannelig en stor hund.</xt>
@@ -138,7 +138,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">son</l>
+         <l pos="Pron" type="Pers">son</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg3_Nom">
@@ -163,8 +163,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">han</t>
-            <t pos="Pron">hun</t>
+            <t pos="Pron" type="Pers">han</t>
+            <t pos="Pron" type="Pers">hun</t>
             <xg>
                <x>sus lea</x>
                <xt>hun har</xt>
@@ -174,7 +174,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l nr="sg" pos="Pron" type="pers">dat</l>
+         <l nr="Sg" pos="Pron" type="Pers">dat</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg3_Nom">
@@ -199,16 +199,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">det</t>
-            <t pos="Pron">den</t>
+            <t pos="Pron" type="Pers">det</t>
+            <t pos="Pron" type="Pers">den</t>
             <xg>
                <x>Beana ii láhppo, dat gal boahtá ruoktot.</x>
                <xt>Hunden går seg ikke vill, den kommer hjem.</xt>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">han</t>
-            <t pos="Pron">hun</t>
+            <t pos="Pron" type="Pers">han</t>
+            <t pos="Pron" type="Pers">hun</t>
             <xg>
                <x>Elle ii čále, dat baicca lohká.</x>
                <xt>Elle skriver ikke, hun leser heller.</xt>
@@ -218,7 +218,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">moai</l>
+         <l pos="Pron" type="Pers">moai</l>
          <analysis>Pron_Pers_Du1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Du1_Nom">
@@ -243,7 +243,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">vi to</tf>
+            <t pos="Pron" type="Pers">vi to</t>
             <xg>
                <x>munnos lea</x>
                <xt>vi to har</xt>
@@ -253,7 +253,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">doai</l>
+         <l pos="Pron" type="Pers">doai</l>
          <analysis>Pron_Pers_Du2_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Du2_Nom">
@@ -278,7 +278,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">dere to</tf>
+            <t pos="Pron" type="Pers">dere to</t>
             <xg>
                <x>dudnos lea</x>
                <xt>dere to har</xt>
@@ -288,7 +288,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">soai</l>
+         <l pos="Pron" type="Pers">soai</l>
          <analysis>Pron_Pers_Du3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Du3_Nom">
@@ -313,7 +313,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">de to</tf>
+            <t pos="Pron" type="Pers">de to</t>
             <xg>
                <x>sudnos lea</x>
                <xt>de to har</xt>
@@ -323,12 +323,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l nr="du" pos="Pron" type="pers">dat</l>
+         <l nr="Du" pos="Pron" type="Pers">dat</l>
          <analysis>Pron_Pers_Du3_Nom</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">de to</t>
+            <t pos="Pron" type="Pers">de to</t>
             <xg>
                <x>Dat boahtiba ruoktot.</x>
                <xt>De to kommer hjem.</xt>
@@ -338,7 +338,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">mii</l>
+         <l pos="Pron" type="Pers">mii</l>
          <analysis>Pron_Pers_Pl1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl1_Nom">
@@ -363,7 +363,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">vi</t>
+            <t pos="Pron" type="Pers">vi</t>
             <xg>
                <x>mis lea</x>
                <xt>vi har</xt>
@@ -373,7 +373,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dii</l>
+         <l pos="Pron" type="Pers">dii</l>
          <analysis>Pron_Pers_Pl2_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl2_Nom">
@@ -398,7 +398,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">dere</t>
+            <t pos="Pron" type="Pers">dere</t>
             <xg>
                <x>dis lea</x>
                <xt>dere har</xt>
@@ -408,7 +408,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sii</l>
+         <l pos="Pron" type="Pers">sii</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl3_Nom">
@@ -433,7 +433,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">de</t>
+            <t pos="Pron" type="Pers">de</t>
             <xg>
                <x>sis lea</x>
                <xt>de har</xt>
@@ -443,7 +443,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l nr="pl" pos="Pron" type="pers">dat</l>
+         <l nr="Pl" pos="Pron" type="Pers">dat</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl3_Nom">
@@ -468,7 +468,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">de</t>
+            <t pos="Pron" type="Pers">de</t>
             <xg>
                <x>Mii gávppašeimmet ovdal Kárášjoga borramušbuvddain, muhto dat heite gálvvu buktimis midjiide.</x>
                <xt>Vi handlet før i matvarebutikkene i Karasjok, men de sluttet å bringe varer til oss.</xt>
@@ -478,241 +478,241 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">mu</l>
+         <l pos="Pron" type="Pers">mu</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Gen</analysis>
          <analysis>Pron_Pers_Sg1_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">meg</t>
+            <t pos="Pron" type="Pers">meg</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">min</t>
-            <t pos="Pron">mine</t>
+            <t pos="Pron" type="Poss">min</t>
+            <t pos="Pron" type="Poss">mine</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">munnje</l>
+         <l pos="Pron" type="Pers">munnje</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til meg</tf>
+            <t pos="Pron" type="Pers">til meg</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">mus</l>
+         <l pos="Pron" type="Pers">mus</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">jeg (har)</tf>
+            <t pos="Pron" type="Pers">jeg (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">muinna</l>
+         <l pos="Pron" type="Pers">muinna</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med meg</tf>
+            <t pos="Pron" type="Pers">med meg</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">munin</l>
+         <l pos="Pron" type="Pers">munin</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som meg</tf>
+            <t pos="Pron" type="Pers">som meg</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">du</l>
+         <l pos="Pron" type="Pers">du</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Gen</analysis>
          <analysis>Pron_Pers_Sg2_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">deg</t>
+            <t pos="Pron" type="Pers">deg</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">din</t>
-            <t pos="Pron">dine</t>
+            <t pos="Pron" type="Poss">din</t>
+            <t pos="Pron" type="Poss">dine</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dutnje</l>
+         <l pos="Pron" type="Pers">dutnje</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til deg</tf>
+            <t pos="Pron" type="Pers">til deg</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dus</l>
+         <l pos="Pron" type="Pers">dus</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">du (har)</tf>
+            <t pos="Pron" type="Pers">du (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">duinna</l>
+         <l pos="Pron" type="Pers">duinna</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med deg</tf>
+            <t pos="Pron" type="Pers">med deg</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dunin</l>
+         <l pos="Pron" type="Pers">dunin</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som deg</tf>
+            <t pos="Pron" type="Pers">som deg</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">su</l>
+         <l pos="Pron" type="Pers">su</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Gen</analysis>
          <analysis>Pron_Pers_Sg3_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">ham</t>
-            <t pos="Pron">henne</t>
+            <t pos="Pron" type="Pers">ham</t>
+            <t pos="Pron" type="Pers">henne</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">hans</t>
-            <t pos="Pron">hennes</t>
+            <t pos="Pron" type="Poss">hans</t>
+            <t pos="Pron" type="Poss">hennes</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sutnje</l>
+         <l pos="Pron" type="Pers">sutnje</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til han</tf>
-            <tf pos="phrase">til henne</tf>
+            <t pos="Pron" type="Pers">til han</t>
+            <t pos="Pron" type="Pers">til henne</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sus</l>
+         <l pos="Pron" type="Pers">sus</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">han (har)</tf>
-            <tf pos="phrase">hun (har)</tf>
+            <t pos="Pron" type="Pers">han (har)</t>
+            <t pos="Pron" type="Pers">hun (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">suinna</l>
+         <l pos="Pron" type="Pers">suinna</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med henne</tf>
-            <tf pos="phrase">med han</tf>
+            <t pos="Pron" type="Pers">med henne</t>
+            <t pos="Pron" type="Pers">med han</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sunin</l>
+         <l pos="Pron" type="Pers">sunin</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som han</tf>
-            <tf pos="phrase">som henne</tf>
+            <t pos="Pron" type="Pers">som han</t>
+            <t pos="Pron" type="Pers">som henne</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dan</l>
+         <l pos="Pron" type="Pers">dan</l>
          <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Gen</analysis>
          <analysis>Pron_Pers_Sg3_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">det</t>
-            <t pos="Pron">den</t>
+            <t pos="Pron" type="Pers">det</t>
+            <t pos="Pron" type="Pers">den</t>
             <xg>
                <x>Mun dagan dan áinnas, lohká eadni.</x>
                <xt>Jeg gjør det gjerne, sier mor.</xt>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">dens</t>
+            <t pos="Pron" type="Poss">dens</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dasa</l>
+         <l pos="Pron" type="Pers">dasa</l>
          <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til det</tf>
-            <tf pos="phrase">til den</tf>
+            <t pos="Pron" type="Pers">til det</t>
+            <t pos="Pron" type="Pers">til den</t>
             <xg>
                <x>Dasa mii dárbbašit veahki.</x>
                <xt>Til det trenger vi hjelp.</xt>
@@ -722,14 +722,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">das</l>
+         <l pos="Pron" type="Pers">das</l>
          <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">i det</tf>
-            <tf pos="phrase">i den</tf>
+            <t pos="Pron" type="Pers">i det</t>
+            <t pos="Pron" type="Pers">i den</t>
             <xg>
                <x>Makkár váikkuhusat das leat skuvlii?</x>
                <xt>Hva slags konsekvenser har det for skolen?</xt>
@@ -739,14 +739,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dainna</l>
+         <l pos="Pron" type="Pers">dainna</l>
          <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med den</tf>
-            <tf pos="phrase">med det</tf>
+            <t pos="Pron" type="Pers">med den</t>
+            <t pos="Pron" type="Pers">med det</t>
             <xg>
                <x>Dainna eat birge geassái.</x>
                <xt>Med den berges vi ikke til sommeren.</xt>
@@ -756,428 +756,428 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">danin</l>
+         <l pos="Pron" type="Pers">danin</l>
          <lemma_ref lemmaID="dat_sg_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som det</tf>
-            <tf pos="phrase">som den</tf>
+            <t pos="Pron" type="Pers">som det</t>
+            <t pos="Pron" type="Pers">som den</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">munno</l>
+         <l pos="Pron" type="Pers">munno</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Gen</analysis>
          <analysis>Pron_Pers_Du1_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">oss to</tf>
+            <t pos="Pron" type="Pers">oss to</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">vår</t>
-            <t pos="Pron">våre</t>
+            <t pos="Pron" type="Poss">vår</t>
+            <t pos="Pron" type="Poss">våre</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">munnuide</l>
+         <l pos="Pron" type="Pers">munnuide</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til oss to</tf>
+            <t pos="Pron" type="Pers">til oss to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">munnos</l>
+         <l pos="Pron" type="Pers">munnos</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">vi to (har)</tf>
+            <t pos="Pron" type="Pers">vi to (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">munnuin</l>
+         <l pos="Pron" type="Pers">munnuin</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med oss to</tf>
+            <t pos="Pron" type="Pers">med oss to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">munnon</l>
+         <l pos="Pron" type="Pers">munnon</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som oss to</tf>
+            <t pos="Pron" type="Pers">som oss to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dudno</l>
+         <l pos="Pron" type="Pers">dudno</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Gen</analysis>
          <analysis>Pron_Pers_Du2_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">dere to</tf>
+            <t pos="Pron" type="Pers">dere to</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">deres</t>
+            <t pos="Pron" type="Poss">deres</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dudnuide</l>
+         <l pos="Pron" type="Pers">dudnuide</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til dere to</tf>
+            <t pos="Pron" type="Pers">til dere to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dudnos</l>
+         <l pos="Pron" type="Pers">dudnos</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">dere to (har)</tf>
+            <t pos="Pron" type="Pers">dere to (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dudnuin</l>
+         <l pos="Pron" type="Pers">dudnuin</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med dere to</tf>
+            <t pos="Pron" type="Pers">med dere to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dudnon</l>
+         <l pos="Pron" type="Pers">dudnon</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som dere to</tf>
+            <t pos="Pron" type="Pers">som dere to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sudno</l>
+         <l pos="Pron" type="Pers">sudno</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Gen</analysis>
          <analysis>Pron_Pers_Du3_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">de to</tf>
+            <t pos="Pron" type="Pers">de to</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">deres</t>
+            <t pos="Pron" type="Poss">deres</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sudnuide</l>
+         <l pos="Pron" type="Pers">sudnuide</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til de to</tf>
+            <t pos="Pron" type="Pers">til de to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sudnos</l>
+         <l pos="Pron" type="Pers">sudnos</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">de to (har)</tf>
+            <t pos="Pron" type="Pers">de to (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sudnuin</l>
+         <l pos="Pron" type="Pers">sudnuin</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med de to</tf>
+            <t pos="Pron" type="Pers">med de to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sudnon</l>
+         <l pos="Pron" type="Pers">sudnon</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som de to</tf>
+            <t pos="Pron" type="Pers">som de to</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">min</l>
+         <l pos="Pron" type="Pers">min</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Gen</analysis>
          <analysis>Pron_Pers_Pl1_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">oss</t>
+            <t pos="Pron" type="Pers">oss</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">vår</t>
-            <t pos="Pron">våre</t>
+            <t pos="Pron" type="Poss">vår</t>
+            <t pos="Pron" type="Poss">våre</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">midjiide</l>
+         <l pos="Pron" type="Pers">midjiide</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til oss</tf>
+            <t pos="Pron" type="Pers">til oss</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">mis</l>
+         <l pos="Pron" type="Pers">mis</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">vi (har)</tf>
+            <t pos="Pron" type="Pers">vi (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">minguin</l>
+         <l pos="Pron" type="Pers">minguin</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med oss</tf>
+            <t pos="Pron" type="Pers">med oss</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">minin</l>
+         <l pos="Pron" type="Pers">minin</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som oss</tf>
+            <t pos="Pron" type="Pers">som oss</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">din</l>
+         <l pos="Pron" type="Pers">din</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Gen</analysis>
          <analysis>Pron_Pers_Pl2_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">dere</t>
+            <t pos="Pron" type="Pers">dere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">deres</t>
+            <t pos="Pron" type="Poss">deres</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">didjiide</l>
+         <l pos="Pron" type="Pers">didjiide</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til dere</tf>
+            <t pos="Pron" type="Pers">til dere</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dis</l>
+         <l pos="Pron" type="Pers">dis</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">dere (har)</tf>
+            <t pos="Pron" type="Pers">dere (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dinguin</l>
+         <l pos="Pron" type="Pers">dinguin</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med dere</tf>
+            <t pos="Pron" type="Pers">med dere</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dinin</l>
+         <l pos="Pron" type="Pers">dinin</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som dere</tf>
+            <t pos="Pron" type="Pers">som dere</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sin</l>
+         <l pos="Pron" type="Pers">sin</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Gen</analysis>
          <analysis>Pron_Pers_Pl3_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">dem</t>
+            <t pos="Pron" type="Pers">dem</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">deres</t>
+            <t pos="Pron" type="Poss">deres</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sidjiide</l>
+         <l pos="Pron" type="Pers">sidjiide</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til dem</tf>
+            <t pos="Pron" type="Pers">til dem</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sis</l>
+         <l pos="Pron" type="Pers">sis</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">de (har)</tf>
+            <t pos="Pron" type="Pers">de (har)</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">singuin</l>
+         <l pos="Pron" type="Pers">singuin</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med dem</tf>
+            <t pos="Pron" type="Pers">med dem</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">sinin</l>
+         <l pos="Pron" type="Pers">sinin</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">som dem</tf>
+            <t pos="Pron" type="Pers">som dem</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">daid</l>
+         <l pos="Pron" type="Pers">daid</l>
          <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Pl3_Gen</analysis>
          <analysis>Pron_Pers_Pl3_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">dem</t>
+            <t pos="Pron" type="Pers">dem</t>
             <xg>
                <x>Galggašedje suovvat badjeolbmuid daid njuovvat.</x>
                <xt>De burde la reindriftsamene slakte dem.</xt>
@@ -1186,19 +1186,19 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">deres</t>
+            <t pos="Pron" type="Poss">deres</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">daidda</l>
+         <l pos="Pron" type="Pers">daidda</l>
          <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">til dem</tf>
+            <t pos="Pron" type="Pers">til dem</t>
             <xg>
                <x>Gonagas muitala dan daidda geat leat su olgeš bealde.</x>
                <xt>Kongen forteller det til dem som er på hans høyre side.</xt>
@@ -1208,14 +1208,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">dain</l>
+         <l pos="Pron" type="Pers">dain</l>
          <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Pl3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">i dem</tf>
-            <tf pos="phrase">av dem</tf>
+            <t pos="Pron" type="Pers">i dem</t>
+            <t pos="Pron" type="Pers">av dem</t>
             <xg>
                <x>Eanemus oassi dain leat boahtán.</x>
                <xt>De fleste av dem er kommet.</xt>
@@ -1225,13 +1225,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Pron" type="pers">daiguin</l>
+         <l pos="Pron" type="Pers">daiguin</l>
          <lemma_ref lemmaID="dat_pl_pron_pers">dat</lemma_ref>
          <analysis>Pron_Pers_Pl3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">med dem</tf>
+            <t pos="Pron" type="Pers">med dem</t>
          </tg>
       </mg>
    </e>
