@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="refl">sjøl</t>
+            <t pos="Pron" type="Refl">sjøl</t>
             <xg>
                <x>Mun lean dan ieš dáhkan.</x>
                <xt>Jeg har gjort det sjøl.</xt>
@@ -61,7 +61,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t pos="refl">sjøl</t>
+            <t pos="Pron" type="Refl">sjøl</t>
             <xg>
                <x>Soai leaba dan ieža dáhkan.</x>
                <xt>De to har gjort det sjøl.</xt>
@@ -99,15 +99,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase">meg selv</tf>
+            <t pos="Pron" type="Refl">meg selv</t>
             <xg>
                <x>Mun oainnán iežan speadjalis.</x>
                <xt>Jeg ser meg selv i speilet.</xt>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">min</t>
-            <t pos="phrase">min egen</t>
+            <t pos="Pron" type="Poss">min</t>
+            <t pos="Pron" type="Poss">min egen</t>
             <xg>
                <x>Mun stoagan iežan ustibiin.</x>
                <xt>Jeg leker med vennen min.</xt>
@@ -148,8 +148,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">min</t>
-            <t pos="phrase">min egen</t>
+            <t pos="Pron" type="Poss">min</t>
+            <t pos="Pron" type="Poss">min egen</t>
             <xg>
                <x>Mun stoagan iežan ustibiin.</x>
                <xt>Jeg leker med vennen min.</xt>
@@ -189,8 +189,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">din</t>
-            <t pos="phrase">din egen</t>
+            <t pos="Pron" type="Poss">din</t>
+            <t pos="Pron" type="Poss">din egen</t>
             <xg>
                <x>Don stoagat iežat ustibiin.</x>
                <xt>Du leker med vennen din.</xt>
@@ -230,8 +230,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">sin</t>
-            <t pos="phrase">sin egen</t>
+            <t pos="Pron" type="Poss">sin</t>
+            <t pos="Pron" type="Poss">sin egen</t>
             <xg>
                <x>Lásse stoahká iežas ustibiin.</x>
                <xt>Lasse leker med vennen sin.</xt>
@@ -274,8 +274,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">vår</t>
-            <t pos="phrase">vår egen</t>
+            <t pos="Pron" type="Poss">vår</t>
+            <t pos="Pron" type="Poss">vår egen</t>
             <xg>
                <x>Moai stohke iežame ustibiin.</x>
                <xt>Vi to leker med vennen vår.</xt>
@@ -318,8 +318,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">vår</t>
-            <t pos="phrase">vår egen</t>
+            <t pos="Pron" type="Poss">vår</t>
+            <t pos="Pron" type="Poss">vår egen</t>
             <xg>
                <x>Moai stohke iehčame ustibiin.</x>
                <xt>Vi to leker med vennen vår.</xt>
@@ -362,8 +362,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">vår</t>
-            <t pos="phrase">vår egen</t>
+            <t pos="Pron" type="Poss">vår</t>
+            <t pos="Pron" type="Poss">vår egen</t>
             <xg>
                <x>Moai stohke iežaideame ustibiin.</x>
                <xt>Vi to leker med vennen vår.</xt>
@@ -405,8 +405,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">deres</t>
-            <t pos="phrase">deres egen</t>
+            <t pos="Pron" type="Poss">deres</t>
+            <t pos="Pron" type="Poss">deres egen</t>
             <xg>
                <x>Doai stoahkabeahtti iežade ustibiin.</x>
                <xt>Dere to leker med vennen deres.</xt>
@@ -448,8 +448,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">deres</t>
-            <t pos="phrase">deres egen</t>
+            <t pos="Pron" type="Poss">deres</t>
+            <t pos="Pron" type="Poss">deres egen</t>
             <xg>
                <x>Doai stoahkabeahtti iežaideatte ustibiin.</x>
                <xt>Dere to leker med vennen deres.</xt>
@@ -491,8 +491,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">deres</t>
-            <tf pos="phrase">deres egen</tf>
+            <t pos="Pron" type="Poss">deres</t>
+            <tf  pos="Pron" type="Poss">deres egen</tf>
             <xg>
                <x>Soai stoahkaba iežaska ustibiin.</x>
                <xt>De to leker med vennen deres.</xt>
@@ -534,8 +534,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <re>om to</re>
-            <t pos="Pron">deres</t>
-            <t pos="phrase">deres egen</t>
+            <t pos="Pron" type="Poss">deres</t>
+            <t pos="Pron" type="Poss">deres egen</t>
             <xg>
                <x>Soai stoahkaba iežaideaskka ustibiin.</x>
                <xt>De to leker med vennen deres.</xt>
@@ -575,8 +575,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">vår</t>
-            <t pos="phrase">vår egen</t>
+            <t pos="Pron" type="Poss">vår</t>
+            <t pos="Pron" type="Poss">vår egen</t>
             <xg>
                <x>Mii stoahkat iežamet ustibiin.</x>
                <xt>Vi leker med vennen vår.</xt>
@@ -617,8 +617,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">vår</t>
-            <t pos="phrase">vår egen</t>
+            <t pos="Pron" type="Poss">vår</t>
+            <t pos="Pron" type="Poss">vår egen</t>
             <xg>
                <x>Mii stoahkat iehčamet ustibiin.</x>
                <xt>Vi leker med vennen vår.</xt>
@@ -659,8 +659,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">vår</t>
-            <t pos="phrase">vår egen</t>
+            <t pos="Pron" type="Poss">vår</t>
+            <t pos="Pron" type="Poss">vår egen</t>
             <xg>
                <x>Mii stoahkat iežaideamet ustibiin.</x>
                <xt>Vi leker med vennen vår.</xt>
@@ -700,8 +700,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">deres</t>
-            <t pos="phrase">deres egen</t>
+            <t pos="Pron" type="Poss">deres</t>
+            <t pos="Pron" type="Poss">deres egen</t>
             <xg>
                <x>Dii stoahkabehtet iežadet ustibiin.</x>
                <xt>Dere leker med vennen deres.</xt>
@@ -741,8 +741,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">deres</t>
-            <t pos="phrase">deres egen</t>
+            <t pos="Pron" type="Poss">deres</t>
+            <t pos="Pron" type="Poss">deres egen</t>
             <xg>
                <x>Dii stoahkabehtet iežaideattet ustibiin.</x>
                <xt>Dere leker med vennen deres.</xt>
@@ -783,8 +783,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">deres</t>
-            <t pos="phrase">deres egen</t>
+            <t pos="Pron" type="Poss">deres</t>
+            <t pos="Pron" type="Poss">deres egen</t>
             <xg>
                <x>Sii stohket iežaset ustibiin.</x>
                <xt>De leker med vennen deres.</xt>
@@ -825,8 +825,8 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="nob">
-            <t pos="Pron">deres</t>
-            <t pos="phrase">deres egen</t>
+            <t pos="Pron" type="Poss">deres</t>
+            <t pos="Pron" type="Poss">deres egen</t>
             <xg>
                <x>Sii stohket iežaideaset ustibiin.</x>
                <xt>De leker med vennen deres.</xt>
