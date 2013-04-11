@@ -30,12 +30,12 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="vd">
       <lg>
-         <l pg="no" pos="num">beal</l>
+         <l pg="no" pos="Num">beal</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <re>om klokka</re>
-            <t pos="num">halv</t>
+            <t pos="Num">halv</t>
             <xg>
                <x>Diibmu lea beal okta.</x>
                <xt>Klokken er halv ett.</xt>
@@ -45,89 +45,89 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="gápmagat" pos="num" vmax="3">miljovdna</l>
+         <l context="gápmagat" pos="Num" vmax="3">miljovdna</l>
          <lsub>miljun</lsub>
          <lsub>millijuvdna</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">million</t>
+            <t pos="Num">million</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">beannot</l>
+         <l pos="Num">beannot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">halvannen</t>
+            <t pos="Num">halvannen</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">moaddelogi</l>
+         <l pos="Num">moaddelogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">20-30</t>
+            <t pos="Num">20-30</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">máŋgalogi</l>
+         <l pos="Num">máŋgalogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">40-90</t>
+            <t pos="Num">40-90</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">moaddenuppelohkái</l>
+         <l pos="Num">moaddenuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">12-13</t>
+            <t pos="Num">12-13</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">moaddečuođi</l>
+         <l pos="Num">moaddečuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">200-300</t>
+            <t pos="Num">200-300</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">máŋgačuođi</l>
+         <l pos="Num">máŋgačuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">400-900</t>
+            <t pos="Num">400-900</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">čuođiduhát</l>
+         <l pos="Num">čuođiduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">hundretusen</t>
+            <t pos="Num">hundretusen</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">máŋgaduhát</l>
+         <l pos="Num">máŋgaduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -137,17 +137,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guokteduhát</l>
+         <l pos="Num">guokteduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">2000</t>
+            <t pos="Num">2000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">máŋgačuođiduhát</l>
+         <l pos="Num">máŋgačuođiduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -157,68 +157,68 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">oktanuppelotčuohti</l>
+         <l pos="Num">oktanuppelotčuohti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">1100</t>
+            <t pos="Num">1100</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">máŋganuppelohkáiduhát</l>
+         <l pos="Num">máŋganuppelohkáiduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">14-19000</t>
+            <t pos="Num">14-19000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">máŋganuppelohkái</l>
+         <l pos="Num">máŋganuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">14-19</t>
+            <t pos="Num">14-19</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">moaddeduhát</l>
+         <l pos="Num">moaddeduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">2-3000</t>
+            <t pos="Num">2-3000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">miljárda</l>
+         <l context="gápmagat" pos="Num">miljárda</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">milliard</t>
+            <t pos="Num">milliard</t>
          </tg>
       </mg>
    </e>
    <e src="nj">
       <lg>
-         <l context="gápmagat" pos="num">gákci</l>
+         <l context="gápmagat" pos="Num">gákci</l>
          <lc>gávcci</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">8</t>
+            <t pos="Num">8</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">galle</l>
+         <l context="gápmagat" pos="Num">galle</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -250,18 +250,18 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">logi</l>
+         <l context="gápmagat" pos="Num">logi</l>
          <lc>logit</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">10</t>
+            <t pos="Num">10</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">máŋga</l>
+         <l context="gápmagat" pos="Num">máŋga</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -275,7 +275,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">moadde</l>
+         <l context="gápmagat" pos="Num">moadde</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -290,27 +290,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">njeallje</l>
+         <l context="gápmagat" pos="Num">njeallje</l>
          <lc>njealji, njeljiin</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">4</t>
+            <t pos="Num">4</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">nuppelohkái</l>
+         <l context="gápmagat" pos="Num">nuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">elleve</t>
+            <t pos="Num">elleve</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">tolv-tretten</t>
+            <t pos="Num">tolv-tretten</t>
             <xg>
                <x>Álttás ledje nuppelohkái sisagaikuma mannan vahkkoloahpa.</x>
                <xt>I Alta var det tolv-tretten innbrudd sist helg.</xt>
@@ -320,102 +320,102 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">okta</l>
+         <l context="gápmagat" pos="Num">okta</l>
          <lc>ovtta</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">1</t>
+            <t pos="Num">1</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">ovcci</l>
+         <l context="gápmagat" pos="Num">ovcci</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">9</t>
+            <t pos="Num">9</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">vihtta</l>
+         <l context="gápmagat" pos="Num">vihtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">5</t>
+            <t pos="Num">5</t>
          </tg>
       </mg>
    </e>
    <e src="nj">
       <lg>
-         <l context="gápmagat" pos="num">okci</l>
+         <l context="gápmagat" pos="Num">okci</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">ni</t>
+            <t pos="Num">ni</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l context="gápmagat" pos="num">okciloge</l>
+         <l context="gápmagat" pos="Num">okciloge</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">nitti</t>
+            <t pos="Num">nitti</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">ovccilogi</l>
+         <l context="gápmagat" pos="Num">ovccilogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">90</t>
+            <t pos="Num">90</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">čieža</l>
+         <l context="gápmagat" pos="Num">čieža</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">7</t>
+            <t pos="Num">7</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l context="gápmagat" pos="num">čiehčalogi</l>
+         <l context="gápmagat" pos="Num">čiehčalogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">sytti</t>
+            <t pos="Num">sytti</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">guokte</l>
+         <l context="gápmagat" pos="Num">guokte</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">2</t>
+            <t pos="Num">2</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">golbma</l>
+         <l context="gápmagat" pos="Num">golbma</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">3</t>
+            <t pos="Num">3</t>
             <xg>
                <x>Muhto dál leat juo vássán golbma beaivvi dan rájes go dát dáhpáhuvai.</x>
                <xt>Men det har allerede gått tre dager siden det skjedde.</xt>
@@ -425,531 +425,531 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">guhtta</l>
+         <l context="gápmagat" pos="Num">guhtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">6</t>
+            <t pos="Num">6</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l context="gápmagat" pos="num">gávcci</l>
+         <l context="gápmagat" pos="Num">gávcci</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">8</t>
+            <t pos="Num">8</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">oktanuppelohkái</l>
+         <l pos="Num">oktanuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">11</t>
+            <t pos="Num">11</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktenuppelohkái</l>
+         <l pos="Num">guoktenuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">12</t>
+            <t pos="Num">12</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmanuppelohkái</l>
+         <l pos="Num">golbmanuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">13</t>
+            <t pos="Num">13</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">njealljenuppelohkái</l>
+         <l pos="Num">njealljenuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">14</t>
+            <t pos="Num">14</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">vihttanuppelohkái</l>
+         <l pos="Num">vihttanuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">15</t>
+            <t pos="Num">15</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guhttanuppelohkái</l>
+         <l pos="Num">guhttanuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">16</t>
+            <t pos="Num">16</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">čiežanuppelohkái</l>
+         <l pos="Num">čiežanuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">17</t>
+            <t pos="Num">17</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">gávccinuppelohkái</l>
+         <l pos="Num">gávccinuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">18</t>
+            <t pos="Num">18</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">ovccinuppelohkái</l>
+         <l pos="Num">ovccinuppelohkái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">19</t>
+            <t pos="Num">19</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogi</l>
+         <l pos="Num">guoktelogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">20</t>
+            <t pos="Num">20</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogiokta</l>
+         <l pos="Num">guoktelogiokta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">21</t>
+            <t pos="Num">21</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogiguokte</l>
+         <l pos="Num">guoktelogiguokte</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">22</t>
+            <t pos="Num">22</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogigolbma</l>
+         <l pos="Num">guoktelogigolbma</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">23</t>
+            <t pos="Num">23</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guokteloginjeallje</l>
+         <l pos="Num">guokteloginjeallje</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">24</t>
+            <t pos="Num">24</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogivihtta</l>
+         <l pos="Num">guoktelogivihtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">25</t>
+            <t pos="Num">25</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogiguhtta</l>
+         <l pos="Num">guoktelogiguhtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">26</t>
+            <t pos="Num">26</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogičieža</l>
+         <l pos="Num">guoktelogičieža</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">27</t>
+            <t pos="Num">27</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogigávcci</l>
+         <l pos="Num">guoktelogigávcci</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">28</t>
+            <t pos="Num">28</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktelogiovcci</l>
+         <l pos="Num">guoktelogiovcci</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">29</t>
+            <t pos="Num">29</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogi</l>
+         <l pos="Num">golbmalogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">30</t>
+            <t pos="Num">30</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogiokta</l>
+         <l pos="Num">golbmalogiokta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">31</t>
+            <t pos="Num">31</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogiguokte</l>
+         <l pos="Num">golbmalogiguokte</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">32</t>
+            <t pos="Num">32</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogigolbma</l>
+         <l pos="Num">golbmalogigolbma</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">33</t>
+            <t pos="Num">33</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmaloginjeallje</l>
+         <l pos="Num">golbmaloginjeallje</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">34</t>
+            <t pos="Num">34</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogivihtta</l>
+         <l pos="Num">golbmalogivihtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">35</t>
+            <t pos="Num">35</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogiguhtta</l>
+         <l pos="Num">golbmalogiguhtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">36</t>
+            <t pos="Num">36</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogičieža</l>
+         <l pos="Num">golbmalogičieža</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">37</t>
+            <t pos="Num">37</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogigávcci</l>
+         <l pos="Num">golbmalogigávcci</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">38</t>
+            <t pos="Num">38</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmalogiovcci</l>
+         <l pos="Num">golbmalogiovcci</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">39</t>
+            <t pos="Num">39</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">njealljelogi</l>
+         <l pos="Num">njealljelogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">40</t>
+            <t pos="Num">40</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">vihttalogi</l>
+         <l pos="Num">vihttalogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">50</t>
+            <t pos="Num">50</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guhttalogi</l>
+         <l pos="Num">guhttalogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">60</t>
+            <t pos="Num">60</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">čiežalogi</l>
+         <l pos="Num">čiežalogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">70</t>
+            <t pos="Num">70</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">gávccilogi</l>
+         <l pos="Num">gávccilogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">80</t>
+            <t pos="Num">80</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">čuođi</l>
+         <l pos="Num">čuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">100</t>
+            <t pos="Num">100</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guoktečuođi</l>
+         <l pos="Num">guoktečuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">200</t>
+            <t pos="Num">200</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmačuođi</l>
+         <l pos="Num">golbmačuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">300</t>
+            <t pos="Num">300</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">njeallječuođi</l>
+         <l pos="Num">njeallječuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">400</t>
+            <t pos="Num">400</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">vihttačuođi</l>
+         <l pos="Num">vihttačuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">500</t>
+            <t pos="Num">500</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guhttačuođi</l>
+         <l pos="Num">guhttačuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">600</t>
+            <t pos="Num">600</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">čiežačuođi</l>
+         <l pos="Num">čiežačuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">700</t>
+            <t pos="Num">700</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">gávccičuođi</l>
+         <l pos="Num">gávccičuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">800</t>
+            <t pos="Num">800</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">ovccičuođi</l>
+         <l pos="Num">ovccičuođi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">900</t>
+            <t pos="Num">900</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">duhát</l>
+         <l pos="Num">duhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">1000</t>
+            <t pos="Num">1000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">golbmaduhát</l>
+         <l pos="Num">golbmaduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">3000</t>
+            <t pos="Num">3000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">njealljeduhát</l>
+         <l pos="Num">njealljeduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">4000</t>
+            <t pos="Num">4000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">vihttaduhát</l>
+         <l pos="Num">vihttaduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">5000</t>
+            <t pos="Num">5000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">guhttaduhát</l>
+         <l pos="Num">guhttaduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">6000</t>
+            <t pos="Num">6000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">čiežaduhát</l>
+         <l pos="Num">čiežaduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">7000</t>
+            <t pos="Num">7000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">gávcciduhát</l>
+         <l pos="Num">gávcciduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">8000</t>
+            <t pos="Num">8000</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="num">ovcciduhát</l>
+         <l pos="Num">ovcciduhát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="num">9000</t>
+            <t pos="Num">9000</t>
          </tg>
       </mg>
    </e>
