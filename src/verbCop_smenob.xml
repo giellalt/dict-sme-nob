@@ -539,7 +539,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l type="Prfprc" pos="V">leamaš</l>
+         <l type="PrfPrc" pos="V">leamaš</l>
          <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_PrfPrc</analysis>
       </lg>
@@ -555,7 +555,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l type="Prfprc" pos="V">leamašan</l>
+         <l type="PrfPrc" pos="V">leamašan</l>
          <lemma_ref lemmaID="lei_v">lei</lemma_ref>
          <analysis>V_PrfPrc</analysis>
       </lg>
@@ -967,7 +967,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l mod="Cond" type="Conneg" pos="V">livčče</l>
+         <l mod="Cond" type="ConNeg" pos="V">livčče</l>
          <lemma_ref lemmaID="livččen_v_cond">livččen</lemma_ref>
          <analysis>V_Cond_ConNeg</analysis>
       </lg>
@@ -1205,7 +1205,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l type="Conneg" pos="V">leačča</l>
+         <l type="ConNeg" pos="V">leačča</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_ConNeg</analysis>
       </lg>
@@ -1223,7 +1223,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l type="Conneg" pos="V">leaš</l>
+         <l type="ConNeg" pos="V">leaš</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_ConNeg</analysis>
       </lg>
@@ -1239,7 +1239,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l type="Conneg" pos="V">leš</l>
+         <l type="ConNeg" pos="V">leš</l>
          <lemma_ref lemmaID="leaččan_v_pot">leaččan</lemma_ref>
          <analysis>V_Pot_ConNeg</analysis>
       </lg>
