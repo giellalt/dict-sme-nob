@@ -9213,35 +9213,8 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pg="no" pos="A">boasttu-</l>
          <lsub>boasttu</lsub>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>som førsteledd i sammensetninger</re>
-            <t decl="2" pos="A">feil</t>
-            <t decl="2" pos="A">uriktig</t>
-            <xg>
-               <x>boasttuipmárdus</x>
-               <xt>feil oppfatning</xt>
-            </xg>
-            <xg>
-               <x>boasttudieđut</x>
-               <xt>uriktige opplysninger</xt>
-            </xg>
-            <xg>
-               <x>boasttugálvu</x>
-               <xt>feil vare</xt>
-            </xg>
-            <xg>
-               <x>boasttugeavaheapmi</x>
-               <xt>uriktig bruk</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pg="no" pos="A">boastto-</l>
          <lsub>boastto</lsub>
+         <lsub>boastto-</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -9617,11 +9590,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l context="dovdu" pos="A">našunála</l>
+         <l context="dovdu" pos="A">nationála</l>
+         <lsub>našunála</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" pos="A">nasjonal</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l context="dovdu" pos="A">internationála</l>
+         <lsub>internašunála</lsub>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" pos="A">internasjonal</t>
          </tg>
       </mg>
    </e>
