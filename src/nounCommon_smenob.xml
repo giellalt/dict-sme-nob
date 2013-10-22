@@ -20145,14 +20145,18 @@ For the full license text, see the link above.</lic>
          <l pos="N">doarjja</l>
          <lc>doarjagat</lc>
       </lg>
-      <mg>
+<!-- Hva er dette? Kommer fra risten.no      <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="n" pos="N">sikring</t>
+         </tg>
+      </mg> -->
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">stønad</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="1" gen="m" pos="N">stønad</t>
             <t decl="1" gen="f" pos="N">støtte</t>
          </tg>
       </mg>
@@ -35736,11 +35740,11 @@ For the full license text, see the link above.</lic>
             <t decl="2" gen="n" pos="N">stillas</t>
          </tg>
       </mg>
-      <mg>
+<!--  hva er dette? Kommer fra risten.no    <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="f" pos="N">stilling</t>
          </tg>
-      </mg>
+      </mg> -->
    </e>
    <e src="nj" usage="vd">
       <lg>
