@@ -34,7 +34,7 @@
   <xsl:variable name="cm" select="','"/>
 
   <!-- input file, extention of the output file -->
-  <xsl:param name="inFile" select="'default'"/>
+  <xsl:param name="inFile" select="'inc_artegis_eallin.csv'"/>
   <xsl:param name="of" select="'xml'"/>
   <xsl:param name="outDir" select="'out'"/>
   

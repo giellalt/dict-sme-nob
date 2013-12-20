@@ -7,47 +7,61 @@
 LEXC = lexc #-utf8
 XFST = xfst #-utf8
 XSLT = ~/lib/saxon8.jar
-XQL  = java net.sf.saxon.Query
+XQL = java net.sf.saxon.Query
 JARF = -jar
-SSH  = /usr/bin/ssh
+SSH = /usr/bin/ssh
 
 # =========== Paths & files: ============= #
-GTHOME      = ../../../gt
-SMETESTING  = $(GTHOME)/sme/testing
-SMENOBMAC   = deliv/macdict/objects
-SMENOBNAME  = Nordsamisk-norsk ordbok.dictionary
-SMENOBZIP   = smenob-mac.dictionary.tgz
-UPLOADDIR   = sd@giellatekno.uit.no:xtdoc/sd/src/documentation/content/xdocs
+GTHOME   = ../../../gt
+SMETESTING = $(GTHOME)/sme/testing
+SMENOBMAC  = deliv/macdict/objects
+SMENOBNAME = Nordsamisk-norsk ordbok.dictionary
+SMENOBZIP  = smenob-mac.dictionary.tgz
+UPLOADDIR  = sd@giellatekno.uit.no:xtdoc/sd/src/documentation/content/xdocs
 DOWNLOADDIR = http://www.divvun.no/static_files
-ADJ         = adjective_smenob.xml
-ADV         = adverb_smenob.xml
-NOUNC       = nounCommon_smenob.xml
-NOUNP       = nounRevProper_smenob.xml
+ADJ     = adjective_smenob.xml
+ADJSTAT   = adjstatpar_smenob.xml
+DIV			= div_statisk_smenob.xml
+MWE			= mwe_smenob.xml
+NUM			= num_smenob.xml
+OTHERSTAT	= other_stat_smenob.stat
+DEM			= pronDem_smenob.xml
+INDEF		= pronIndef_smenob.xml
+PERS		= pronPers_smenob.xml
+REC			= pronRec_smenob.xml
+REFL 		= pronRefl_smenob.xml
+REL 		= pronRel_smenob.xml
+COP			= verbCop_smenob.xml
+NEG 		= verbNeg_smenob.xml
+SUP			= verbSupNeg_smenob.xml
+ADV     = adverb_smenob.xml
+NOUNC    = nounCommon_smenob.xml
+NOUNP    = nounRevProper_smenob.xml
 NOUNA		= nounActor_smenob.xml
 NOUNG		= nounG3_smenob.xml
-OTHER       = nounProperPl_smenob.xml
-VERB        = verb_smenob.xml
-SN_XML      = smenob.xml
-SN_XSL      = smenob.xsl
-SN_LEXC     = smenob.lexc
-SN_HTML     = smenob.html
-SN_FST      = smenob.fst
-S_DIC       = sme.dic
-S_FST       = smedic.fst
-SRC         = src
-BIN         = bin
-SCRIPTS     = scripts
-BEGIN       = @echo "*** Generating the $@-file ***"
-END         = @echo "Done."
+OTHER    = nounProperPl_smenob.xml
+VERB    = verb_smenob.xml
+SN_XML   = smenob.xml
+SN_XSL   = smenob.xsl
+SN_LEXC   = smenob.lexc
+SN_HTML   = smenob.html
+SN_FST   = smenob.fst
+S_DIC    = sme.dic
+S_FST    = smedic.fst
+SRC     = src
+BIN     = bin
+SCRIPTS   = scripts
+BEGIN    = @echo "*** Generating the $@-file ***"
+END     = @echo "Done."
 
 # =========== Other: ============= #
 DATE = $(shell date +%Y%m%d)
 
 # fst for the sme-nob dictionary
 
-#Pseudocode:											    
-#Make a lexc file:										    
-#Print the first line: LEXICON Root						    
+#Pseudocode:											  
+#Make a lexc file:										  
+#Print the first line: LEXICON Root						  
 #Then, for each entry, make lines of the format smelemma:firstnobtranslation # ;
 #Then print the result to file.
 #Then make xfst read it with the command read lexc.
@@ -133,7 +147,7 @@ $(SN_XML):
 	$(BEGIN)
 	@$(XQL) $(SCRIPTS)/collect-smenob-parts.xql \
 	 adj=../$(SRC)/$(ADJ) adv=../$(SRC)/$(ADV) nounc=../$(SRC)/$(NOUNC) nouna=../$(SRC)/$(NOUNA) \
-	 noung=../$(SRC)/$(NOUNG) nounp=../$(SRC)/$(NOUNP) other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
+	 noung=../$(SRC)/$(NOUNG) nounp=../$(SRC)/$(NOUNP) other=../$(SRC)/$(OTHER) adjstat=../$(SRC)/$(ADJSTAT) div=../$(SRC)/$(DIV) mwe=../$(SRC)/$(MWE) num=../$(SRC)/$(NUM) otherstat=../$(SRC)/$(OTHERSTAT) dem=../$(SRC)/$(DEM) indef=../$(SRC)/$(INDEF) pers=../$(SRC)/$(PERS) rec=../$(SRC)/$(REC) refl=../$(SRC)/$(REFL) rel=../$(SRC)/$(REL) cop=../$(SRC)/$(COP) neg=../$(SRC)/$(NEG) sup=../$(SRC)/$(SUP) verb=../$(SRC)/$(VERB) > $(BIN)/$@
 	@echo
 	$(END)
 	@echo
@@ -162,9 +176,9 @@ macdict/smenob.xml: src/smenob.xml \
 	@echo "*** Extracting words from dictionary file. ***"
 	@echo
 	grep '<l pos' $< | \
-	   perl -pe 's/^.*pos="([^"]+)">(.+)<.*$$/\2	\1/' | \
-	   grep '	[nav]$$' | grep -v '^-' | sort -u \
-	   > $(SMETESTING)/dictwords.txt
+	  perl -pe 's/^.*pos="([^"]+)">(.+)<.*$$/\2	\1/' | \
+	  grep '	[nav]$$' | grep -v '^-' | sort -u \
+	  > $(SMETESTING)/dictwords.txt
 	@echo
 	@echo "*** Generating paradigms. ***"
 	@echo
@@ -174,7 +188,7 @@ macdict/smenob.xml: src/smenob.xml \
 	@echo
 	java -Xmx1024m \
 		org.apache.xalan.xslt.Process \
-		-in  $< \
+		-in $< \
 		-out $@.tmp \
 		-xsl scripts/add-paradigm.xsl \
 		-param gtpath $(SMETESTING)
