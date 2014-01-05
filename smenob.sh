@@ -3,20 +3,19 @@
 # ei fst-fil som tar sme og gjev ei nob-omsetjing.
 
 # Førebels er det berre eit shellscript.
-
 # Kommando for å lage smenob.fst
 
-# skriv
 # sh smenob.sh 
-# dvs kall dette skriptet
-# detetter gjer skriptet dette:
 
-
-echo "Etter at dette scriptet er ferdig står du i xfst med promt [1]"
+echo 
+echo "Etter at dette scriptet er ferdig står du i xfst med promten"
+echo "xfst[1]"
+echo 
 echo "Gjör då dette:"
 echo "invert"
 echo "save bin/smenob.fst"
-
+echo "quit"
+echo ""
 echo "LEXICON Root" > bin/smenob.lexc
 
 cat  src/*_smenob.xml | \
