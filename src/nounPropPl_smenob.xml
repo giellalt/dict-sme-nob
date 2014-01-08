@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e usage="vd" src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ivvárstádik</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ivvárstádik</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Bievák</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bievák</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Divrrák</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Divrrák</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -72,7 +72,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Riimmat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Riimmat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Skánik</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skánik</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Skánit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skánit</l>
       </lg>
       <mg>
 	<tg xml:lang="nob">
@@ -102,7 +102,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Dálmmát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Dálmmát</l>
       </lg>
       <mg>
 	<tg xml:lang="nob">
@@ -126,7 +126,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Hilssát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Hilssát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -136,7 +136,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Iččát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Iččát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -146,7 +146,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ihkkot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ihkkot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -156,7 +156,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Lodegat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Lodegat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -166,7 +166,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Muosát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Muosát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -176,7 +176,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Várggát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Várggát</l>
       </lg>
       <mg>
 	<tg xml:lang="nob">
@@ -186,7 +186,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Voagat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Voagat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -196,7 +196,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Basášjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Basášjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -206,7 +206,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Bealgeoaivvit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bealgeoaivvit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -216,7 +216,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Bealjáidjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bealjáidjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -226,7 +226,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Beaskaborjjit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Beaskaborjjit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -236,7 +236,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Beatnatbávttit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Beatnatbávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -246,7 +246,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Beatnatčohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Beatnatčohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -256,7 +256,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Biertnat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Biertnat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -266,7 +266,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Bihpparat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bihpparat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -276,7 +276,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Biltojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Biltojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -286,7 +286,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Borsejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Borsejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -301,7 +301,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Cubbošjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Cubbošjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -311,7 +311,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ditnuidluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ditnuidluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -321,7 +321,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Doaresdievát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Doaresdievát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -331,7 +331,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Doaresjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Doaresjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -341,7 +341,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Doggeráhppát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Doggeráhppát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -351,7 +351,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Dápmotjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Dápmotjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -366,7 +366,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Eatnannjoaskkejávrrážat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Eatnannjoaskkejávrrážat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -376,7 +376,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Fárppaljávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Fárppaljávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -386,7 +386,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gahperusjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gahperusjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -396,7 +396,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gearddosjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gearddosjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -406,7 +406,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Geassesullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Geassesullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -416,7 +416,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gieddejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gieddejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -426,7 +426,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gierdduidjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gierdduidjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -436,7 +436,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gierdohárjjit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gierdohárjjit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -446,7 +446,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Girkojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Girkojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -456,7 +456,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Goahtejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Goahtejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -466,7 +466,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Goaskinbávttit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Goaskinbávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -476,7 +476,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Goasojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Goasojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -486,7 +486,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Govdavákkejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Govdavákkejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -496,7 +496,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Guhkesjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Guhkesjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -506,7 +506,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gumppejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gumppejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -516,7 +516,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gussabávttit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gussabávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -526,7 +526,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gussajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gussajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -541,7 +541,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gáicajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gáicajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -551,7 +551,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gáissát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gáissát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -561,7 +561,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gálbbejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gálbbejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -571,7 +571,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gámmejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gámmejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -581,7 +581,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gáranasjeakkit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gáranasjeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -591,7 +591,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gáranasčohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gáranasčohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -601,7 +601,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gárdejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gárdejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -611,7 +611,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gárjiljeakkit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gárjiljeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -621,7 +621,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Heargevárit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Heargevárit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -631,7 +631,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Juovssajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Juovssajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -641,7 +641,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Jáhkobačohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Jáhkobačohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -651,7 +651,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Kruvnnut</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Kruvnnut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -661,7 +661,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Leavššejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Leavššejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -671,7 +671,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Loddebávttit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Loddebávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -681,7 +681,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Lomiidgáissit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Lomiidgáissit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -691,7 +691,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Láttegeađggit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Láttegeađggit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -701,7 +701,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Mielkejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Mielkejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -711,7 +711,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Muotkejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Muotkejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -721,7 +721,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Niestejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Niestejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -731,7 +731,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Nihkeluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Nihkeluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -741,7 +741,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Njirranjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Njirranjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -751,7 +751,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Njukčajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Njukčajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -761,7 +761,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Nuorttažat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Nuorttažat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -771,7 +771,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Nuvttejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Nuvttejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -781,7 +781,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Oalggibávttit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Oalggibávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -791,7 +791,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Reahpenlássát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Reahpenlássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -801,7 +801,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Reavččájávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Reavččájávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -811,7 +811,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Rihpat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Rihpat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -826,7 +826,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Rissebađačohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Rissebađačohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -836,7 +836,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Roggejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Roggejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -846,7 +846,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ruksesjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ruksesjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -856,7 +856,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ruoppat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ruoppat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -866,7 +866,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ruossavákkejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ruossavákkejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -876,7 +876,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ruoššajeakkit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ruoššajeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -886,7 +886,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ráipásjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ráipásjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -896,7 +896,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Rássejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Rássejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -906,7 +906,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Silesjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Silesjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -916,7 +916,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Silffarjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Silffarjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -926,7 +926,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Skadjajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skadjajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -936,7 +936,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Skadjasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skadjasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -951,7 +951,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Skirvvejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skirvvejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -961,7 +961,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Skárfalássát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skárfalássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -971,7 +971,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Suoidneluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Suoidneluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -981,7 +981,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Suolojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Suolojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -991,7 +991,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Suololuobbalat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Suololuobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1001,7 +1001,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Suorrejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Suorrejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1011,7 +1011,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Suttesvuomejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Suttesvuomejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1021,7 +1021,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Sámegiettit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Sámegiettit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1031,7 +1031,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vearajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vearajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1041,7 +1041,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vilgesgeađggit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vilgesgeađggit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1051,7 +1051,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Virošjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Virošjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1061,7 +1061,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Visttaloamejávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Visttaloamejávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1076,7 +1076,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vuorrebávttit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vuorrebávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1086,7 +1086,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vuoskkojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vuoskkojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1096,7 +1096,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vuovde-Gearbbetvárit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vuovde-Gearbbetvárit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1106,7 +1106,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vuođđovuonašjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vuođđovuonašjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1116,7 +1116,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vákkáščohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vákkáščohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1126,7 +1126,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Áhkárjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Áhkárjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1136,7 +1136,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ájajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ájajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1146,7 +1146,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Áttánguolbanat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Áttánguolbanat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1156,7 +1156,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Čalbmasat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čalbmasat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1166,7 +1166,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Čazajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čazajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1176,7 +1176,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Čiežajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čiežajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1186,7 +1186,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Šleađut</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Šleađut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1196,7 +1196,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Čoarveluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čoarveluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1206,7 +1206,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Čáhppeslássát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čáhppeslássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1216,7 +1216,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Dálmmat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Dálmmat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1226,7 +1226,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gearddošjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gearddošjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1236,7 +1236,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Fávle-Iččát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Fávle-Iččát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1246,7 +1246,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Goahtesullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Goahtesullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1256,7 +1256,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gádde-Iččát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gádde-Iččát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1266,7 +1266,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Muolkkut</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Muolkkut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1276,7 +1276,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Návuongáissát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Návuongáissát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1286,7 +1286,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Skulvagáissát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skulvagáissát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1296,7 +1296,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Sávalássát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Sávalássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1306,7 +1306,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Čoahkenlássát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čoahkenlássát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1316,7 +1316,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Beassekjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Beassekjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1326,7 +1326,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Beatnatbordievát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Beatnatbordievát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1336,7 +1336,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Bossovuonjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bossovuonjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1346,7 +1346,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ceiccanválat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ceiccanválat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1356,7 +1356,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Coagalmjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Coagalmjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1366,7 +1366,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Govlojávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Govlojávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1376,7 +1376,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Guommačohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Guommačohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1386,7 +1386,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Guorgápmirjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Guorgápmirjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1396,7 +1396,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gurbeščohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gurbeščohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1406,7 +1406,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gáranasálat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gáranasálat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1416,7 +1416,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Gárenašjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Gárenašjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1426,7 +1426,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Hakŋalanjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Hakŋalanjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1436,7 +1436,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Irgavuonluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Irgavuonluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1451,7 +1451,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Išmmisjeakkit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Išmmisjeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1461,7 +1461,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Juvrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Juvrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1471,7 +1471,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Máhkirjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Máhkirjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1486,7 +1486,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Mánešjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Mánešjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1496,7 +1496,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Márgohčohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Márgohčohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1506,7 +1506,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Oaggočohkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Oaggočohkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1516,7 +1516,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Reainnát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Reainnát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1526,7 +1526,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Reaipojávrrážat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Reaipojávrrážat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1536,7 +1536,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Reavččajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Reavččajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1546,7 +1546,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Rissebávttsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Rissebávttsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1556,7 +1556,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Roahkonášjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Roahkonášjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1566,7 +1566,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Roavvejárluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Roavvejárluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1576,7 +1576,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Rudnesjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Rudnesjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1586,7 +1586,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Rášat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Rášat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1596,7 +1596,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Sarvvesjohjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Sarvvesjohjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1606,7 +1606,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Seavanjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Seavanjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1616,7 +1616,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Silffarjeakkit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Silffarjeakkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1626,7 +1626,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Skoađđoluobbalat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skoađđoluobbalat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1636,7 +1636,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Stávaidjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Stávaidjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1646,7 +1646,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Suovvejohbávttit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Suovvejohbávttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1656,7 +1656,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Suoŋkaluovttat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Suoŋkaluovttat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1666,7 +1666,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Sáttát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Sáttát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1676,7 +1676,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Sávvenat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Sávvenat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1686,7 +1686,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Uŋggajávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Uŋggajávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1696,7 +1696,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vuoiddasvuonjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vuoiddasvuonjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1706,7 +1706,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Vuottasoaivvit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Vuottasoaivvit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1716,7 +1716,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Váccastanjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Váccastanjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1726,7 +1726,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Válččit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Válččit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1736,7 +1736,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Áitegurjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Áitegurjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1746,7 +1746,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Čáhcegohjávrrit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čáhcegohjávrrit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1756,7 +1756,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd" src="ps,sa">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Davviriikkat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Davviriikkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1766,7 +1766,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Čuđegoađát</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čuđegoađát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1776,7 +1776,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="nou94">
       <lg>
-         <l pos="N" type="Prop" nr="Pl">Ižžot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ižžot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
