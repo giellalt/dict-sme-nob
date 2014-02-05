@@ -8,6 +8,8 @@
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="nob">Nordsamisk-norsk ordbok</name>
   <name xml:lang="swe">Nordsamisk-norsk ordbok</name>
+  <name xml:lang="smj">Nuorttasáme-dárro báhkogirjje</name>
+
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
@@ -23,6 +25,10 @@
     tillatelse). Den er senere blitt utvidet gjennom flere prosjekter.</p>
   </description>
 
+  <description xml:lang="smj">
+    <p>Báhkogirjje åvddånahtedum Giellateknos ja Divvunis Vuona arktalasj universitehtan, vuodon dán bargguj la Nils Jernslettena báhkogirjje (tjálle dåhkkidimijn). Dán maŋŋela la báhkogirjje vijdeduvvam ietjá prosjevtaj baktu.</p>
+  </description>
+  
   <!-- List of languages supported by the dictionary. -->
   <!-- Each language is identified with ISO 639-2 three-letter codes. -->
   <!-- Only one source language allowed, but multiple target languages are ok. -->
