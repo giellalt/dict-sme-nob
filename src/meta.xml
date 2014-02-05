@@ -6,8 +6,10 @@
   <id>smenob</id>
 
   <!-- The natural language name(s) for the dictionary -->
-  <name xml:lang="nob">Nordsamisk-norsk ordbok</name>
-  <name xml:lang="swe">Nordsamisk-norsk ordbok</name>
+  <name xml:lang="no">Nordsamisk-norsk ordbok</name>
+  <name xml:lang="se">Nordsamisk-norsk ordbok</name>
+  <name xml:lang="sv">Nordsamisk-norsk ordbok</name>
+  <name xml:lang="sma">Nordsamisk-norsk ordbok</name>
   <name xml:lang="smj">Nuorttasáme-dárro báhkogirjje</name>
 
 
@@ -19,7 +21,19 @@
   <copyright>Uspesifisert</copyright>
 
   <!-- Short, free description -->
-  <description xml:lang="nob">
+  <description xml:lang="no">
+    <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT Norges arktiske
+    universitet, med utgangspunkt i Nils Jernslettens ordbok (med forfatterens
+    tillatelse). Den er senere blitt utvidet gjennom flere prosjekter.</p>
+  </description>
+
+  <description xml:lang="se">
+    <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT Norges arktiske
+    universitet, med utgangspunkt i Nils Jernslettens ordbok (med forfatterens
+    tillatelse). Den er senere blitt utvidet gjennom flere prosjekter.</p>
+  </description>
+
+  <description xml:lang="sma">
     <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT Norges arktiske
     universitet, med utgangspunkt i Nils Jernslettens ordbok (med forfatterens
     tillatelse). Den er senere blitt utvidet gjennom flere prosjekter.</p>
