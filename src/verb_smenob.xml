@@ -512,6 +512,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="vd">
       <lg>
+         <l context="dat" pos="V">muohtahuvvat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="phrase_v">få snø på seg</t>
+            <xg>
+               <x>Ille hal oinnii maide lásiid čađa go muohtahuvvan oalát ledje.</x>
+               <xt>Man kunne nesten ikke se no gjennom vinduene fordi det var så mye snø på dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l context="dat" pos="V">varahuvvat</l>
       </lg>
       <mg>
@@ -30662,6 +30676,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Rohttejin ránu oaivvi badjel vai oaččun nahkáriid.</x>
                <xt>Jeg dro pleddet over hodet for å få sove.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om søvn</re>
+            <t pos="V">komme på</t>
+            <xg>
+               <x>Nahkárat mus rohttejedje.</x>
+               <xt>Jeg sovnet av.</xt>
             </xg>
          </tg>
       </mg>
