@@ -91683,21 +91683,6 @@
    </e>
    <e src="fad">
       <lg>
-         <l pos="N" type="NomAct">ásaheapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">opprettelse</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">etablering</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
          <l pos="N">buhtisteapmi</l>
       </lg>
       <mg>
@@ -133621,16 +133606,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg>
-         <l pos="N" type="NomAct">ovttastahttin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sammenslåing</t>
-         </tg>
-      </mg>
-   </e>
    <e src="gt;fad" usage="vd">
       <lg>
          <l pos="N">válgalistu</l>
@@ -135463,16 +135438,6 @@
    <e src="nj;fad" usage="vd">
       <lg>
          <l pos="N">deatta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">press</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="N" type="NomAct">deaddin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -143462,17 +143427,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg>
-         <l pos="N" type="NomAct">duddjon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>det å produsere</re>
-            <t pos="N">produksjon</t>
-         </tg>
-      </mg>
-   </e>
    <e src="gt;fad" usage="vd">
       <lg>
          <l pos="N">buvttadus</l>
@@ -144526,17 +144480,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg>
-         <l pos="N" type="NomAct">orrun</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>det å oppholde seg</re>
-            <t pos="N">opphold</t>
-         </tg>
-      </mg>
-   </e>
    <e src="gt;fad">
       <lg>
          <l pos="N" type="NomAg">rehketdoallodárkkisteaddji</l>
@@ -144919,16 +144862,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">register</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="N" type="NomAct">ceggen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">etablering</t>
          </tg>
       </mg>
    </e>
@@ -163598,16 +163531,6 @@
    </e>
    <e src="gt;fad">
       <lg>
-         <l pos="N" type="NomAct">borran</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">måltid</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gt;fad">
-      <lg>
          <l pos="N">vašálaš</l>
       </lg>
       <mg>
@@ -167379,17 +167302,6 @@
    </e>
    <e src="fad">
       <lg>
-         <l pos="N" type="NomAct">ruvgaleapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om rein</re>
-            <t pos="N">trekk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
          <l pos="N">bajildus</l>
       </lg>
       <mg>
@@ -167661,40 +167573,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">justisminister</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="N" type="NomAct">oaggun</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fiske</t>
-            <xg>
-               <x>Han er på fiske.</x>
-               <xt>Son lea guollebivddus.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="N" type="NomAct">bivdin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fiske</t>
-            <xg>
-               <x>Han er på fiske.</x>
-               <xt>Son lea guollebivddus.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>jakt på dyr</re>
-            <t pos="N">fangst</t>
          </tg>
       </mg>
    </e>
@@ -171701,16 +171579,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kommentar</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="N" type="NomAct">fuomášuhttin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">merknad</t>
          </tg>
       </mg>
    </e>
