@@ -20,7 +20,7 @@ echo "LEXICON Root" > bin/smenob.lexc
 
 cat  src/*_smenob.xml | \
 egrep -v '<(lc|lsub|analysis)>' | \
-egrep -v '<lemma_ref' | \
+egrep -v '_re(fg)' | \
 tr '\n' '™' | sed 's/<e/£/g;'| tr '£' '\n'| \
 sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f6,16| \
 tr ' ' '_'| sed 's/:/%/g;'|tr '>' ':'| \
