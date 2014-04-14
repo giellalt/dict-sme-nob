@@ -3,8 +3,8 @@
     | Generates a text file for in lex format "SOURCE_LEMMA:TARGET_LEMMA # ;"
     | NB: An XSLT-2.0-processor is needed!
     | The input: SOURCE_LANG-TARGET_LANG.xml file(s)
-    | Usage: xsltproc  CAT_smenob.xml smenob-pairs.xsl
-    | 
+    | Usage:
+    | java -Xmx16800m -Dfile.encoding=UTF8 net.sf.saxon.Transform src/adv_smenob.xml scripts/smenob-pairs.xsl > outfile
     +-->
 
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
