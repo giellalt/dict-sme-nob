@@ -1,8 +1,6 @@
 <?xml version="1.0"?>
 <!--+
-    | Usage: java -Xmx2048m net.sf.saxon.Transform -it main THIS_FILE inDir=DIR
-    |
-    | java -Xmx16800m -Dfile.encoding=UTF8 net.sf.saxon.Transform -it:main
+    | Usage: java -Xmx2048m net.sf.saxon.Transform -it:main THIS_FILE inDir=DIR
     |
     | - specify inDir and inFile in this script
     | - output is in dir out_put
@@ -34,7 +32,7 @@
               encoding="UTF-8"/>
 
   <xsl:param name="inDir" select="'src'"/>
-  <xsl:param name="inFile" select="'verb_smenob.xml'"/>
+  <xsl:param name="inFile" select="'V_fad_smenob.xml'"/>
   <xsl:param name="outDir" select="'out_put'"/>
   <xsl:variable name="debug" select="false()"/>
   <xsl:variable name="nl" select="'&#xa;'"/>
