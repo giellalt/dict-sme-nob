@@ -36,7 +36,7 @@
   <xsl:param name="inFile" select="'verb*_smenob.xml'"/>
   <xsl:param name="outDir" select="'bin'"/>
   <xsl:param name="outFile" select="'out_file'"/>
-  <xsl:param name="TNUM" select="'first'"/>
+  <xsl:param name="TNUM" select="'all'"/>
   <xsl:variable name="debug" select="false()"/>
   <xsl:variable name="nl" select="'&#xa;'"/>
   <xsl:variable name="tb" select="'&#9;'"/>
@@ -64,14 +64,16 @@
 	
 	<xsl:for-each select=".//e">
 	  <xsl:variable name="cl" select="normalize-space(./lg/l)"/>
-	  <xsl:if test="first">
-	    <xsl:for-each select=".//t">
-	      <xsl:value-of select="concat($cl,$tb,normalize-space(.),$nl)"/>
-	    </xsl:for-each>
+	  <xsl:if test="$TNUM='first'">
+	    <xsl:value-of
+		select="concat($cl,$tb,translate(normalize-space(./mg[1]/tg[1]/t[1]),
+			' ','_'),$nl)"/>
 	  </xsl:if>
-	  <xsl:if test="all">
+	  <xsl:if test="$TNUM='all'">
 	    <xsl:for-each select=".//t">
-	      <xsl:value-of select="concat($cl,$tb,normalize-space(.),$nl)"/>
+	      <xsl:value-of
+		  select="concat($cl,$tb,translate(normalize-space(.),
+			  ' ', '_'),$nl)"/>
 	    </xsl:for-each>
 	  </xsl:if>
 	</xsl:for-each>
