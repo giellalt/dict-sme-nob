@@ -31,7 +31,7 @@
   <xsl:output method="text" name="txt"
               encoding="UTF-8"/>
 
-  <xsl:param name="inDir" select="'src'"/>
+  <xsl:param name="inDir" select="'src_fad2merge/inc'"/>
   <xsl:param name="inFile" select="'V_fad_smenob.xml'"/>
   <xsl:param name="outDir" select="'out_put'"/>
   <xsl:variable name="debug" select="false()"/>
