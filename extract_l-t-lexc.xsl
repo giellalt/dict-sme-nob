@@ -45,6 +45,8 @@
   <xsl:template match="/" name="main">
 
     <xsl:result-document href="{$outDir}/{$outFile}.lexc" format="lexc">
+      <xsl:value-of select="concat('LEXICON Root ',$nl)"/>
+
       <xsl:for-each select="for $f in collection(concat($inDir,'?recurse=yes;select=',$inFile,';on-error=warning')) return $f">
 	
 	<xsl:variable name="current_file" select="(tokenize(document-uri(.), '/'))[last()]"/>
@@ -67,13 +69,13 @@
 	  <xsl:if test="$TNUM='first'">
 	    <xsl:value-of
 		select="concat($cl,$tb,translate(normalize-space(./mg[1]/tg[1]/t[1]),
-			' ','_'),$nl)"/>
+			' ','_') , ' # ;',$nl)"/>
 	  </xsl:if>
 	  <xsl:if test="$TNUM='all'">
 	    <xsl:for-each select=".//t">
 	      <xsl:value-of
-		  select="concat($cl,$tb,translate(normalize-space(.),
-			  ' ', '_'),$nl)"/>
+		  select="concat($cl,':',translate(normalize-space(.),
+			  ' ', '_') , ' # ;',$nl)"/>
 	    </xsl:for-each>
 	  </xsl:if>
 	</xsl:for-each>
