@@ -31,11 +31,13 @@
   <xsl:output method="text" name="txt"
               encoding="UTF-8"/>
 
-  <xsl:param name="inDir" select="'src'"/>
+  <xsl:param name="inDir" select="concat($SLANG,$TLANG,'/src')"/>
 
   <xsl:param name="inFile" select="'verb*_smenob.xml'"/>
-  <xsl:param name="outDir" select="'bin'"/>
+  <xsl:param name="outDir" select="concat($SLANG,$TLANG,'/bin')"/>
   <xsl:param name="outFile" select="'out_file'"/>
+  <xsl:param name="SLANG" select="'sme'"/>
+  <xsl:param name="TLANG" select="'nob'"/>
   <xsl:param name="TNUM" select="'all'"/>
   <xsl:variable name="debug" select="false()"/>
   <xsl:variable name="nl" select="'&#xa;'"/>
