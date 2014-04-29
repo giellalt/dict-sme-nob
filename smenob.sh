@@ -7,28 +7,43 @@
 
 # sh smenob.sh 
 
-echo 
-echo "Etter at dette scriptet er ferdig står du i xfst med promten"
-echo "xfst[1]"
-echo 
-echo "Gjör då dette:"
-echo "invert"
-echo "save bin/smenob.fst"
-echo "quit"
+
 echo ""
+echo ""
+echo "---------------------------------------------------"
+echo "Shellscript to make a transducer of the dictionary."
+echo ""
+echo "It writes a lexc file to bin, containing the line	 "
+echo "LEXICON Root										 "
+echo "Thereafter, it picks lemma and first translation	 "
+echo "of the dictionary, adds them to this lexc file,	 "
+echo "and compiles a transducer bin/smenob.fst		 "
+echo ""
+echo "Usage:"
+echo "lookup bin/smenob.fst"
+echo "---------------------------------------------------"
+echo ""
+echo ""
+
 echo "LEXICON Root" > bin/smenob.lexc
+cat src/*_smenob.xml | \
+grep '^ *<[lt][ >]'  | \
+sed 's/^ *//g;'      | \
+sed 's/<l /™/g;'     | \
+tr '\n' '£'          | \
+sed 's/£™/€/g;'      | \
+tr '€' '\n'          | \
+tr '<' '>'           | \
+cut -d'>' -f2,6      | \
+tr '>' ':'           | \
+tr ' ' '_'           | \
+sed 's/$/ # ;/g;'    >> bin/smenob.lexc        
 
-cat  src/*_smenob.xml | \
-egrep -v '<(lc|lsub|analysis)>' | \
-egrep -v '_re(fg)' | \
-tr '\n' '™' | sed 's/<e/£/g;'| tr '£' '\n'| \
-sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f6,16| \
-tr ' ' '_'| sed 's/:/%/g;'|tr '>' ':'| \
-grep -v '__'| \
-grep -v 'xml-stylesheet_alternate' | \
-sed 's/$/ # ;/g' >> bin/smenob.lexc
+#xfst -e "read lexc < bin/smenob.lexc"
 
-xfst -e "read lexc < bin/smenob.lexc"
-
-
-
+printf "read lexc < bin/smenob.lexc \n\
+invert net \n\
+save stack bin/smenob.fst \n\
+quit \n" > tmpfile
+xfst -utf8 < tmpfile
+rm -f tmpfile
