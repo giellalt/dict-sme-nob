@@ -2268,6 +2268,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv">deikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hit</t>
+            <xg>
+               <x>Elle boahtá deikke.</x>
+               <xt>Elle kommer hit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l pos="Adv">dieđus</l>
@@ -5152,8 +5166,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">temmelig</t>
-            <t pos="Adv">så</t>
+            <t pos="Adv">mye</t>
             <xg>
                <x>Lea mihá buoret leat siste lieggasis go olgun goallut.</x>
                <xt>Det er mye bedre å være inne i varmen enn å fryse utenfor.</xt>
@@ -5162,6 +5175,12 @@ For the full license text, see the link above.</lic>
                <x>Sii livčče dinen mihá eambbo jus livčče goikadan guliid.</x>
                <xt>De hadde tjent mye bedre hvis de hadde tørket fisken.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">temmelig</t>
+            <t pos="Adv">så</t>
          </tg>
       </mg>
    </e>
