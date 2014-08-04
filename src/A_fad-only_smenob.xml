@@ -1282,48 +1282,37 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">olu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">mye</t>
-            <xg>
-               <x>Jeg har mye arbeid.</x>
-               <xt>Mus lea ollu bargu.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>tallrike, atskillige, ikke så få</re>
-            <t pos="A">mange</t>
-            <xg>
-               <x>mange takk</x>
-               <xt>ollu giitu</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
          <l pos="A">ollu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">mye</t>
             <xg>
-               <x>Jeg har mye arbeid.</x>
-               <xt>Mus lea ollu bargu.</xt>
+               <x>Mus lea ollu bargu.</x>
+               <xt>Jeg har mye arbeid.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>tallrike, atskillige, ikke så få</re>
             <t pos="A">mange</t>
             <xg>
-               <x>mange takk</x>
-               <xt>ollu giitu</xt>
+               <x>ollu giitu</x>
+               <xt>mange takk</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="vd">
+      <lg>
+         <l pos="A">olu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mye</t>
+            <xg>
+               <x>Mus lea olu bargu.</x>
+               <xt>Jeg har mye arbeid.</xt>
             </xg>
          </tg>
       </mg>
@@ -1336,14 +1325,13 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">mer</t>
             <xg>
-               <x>Vi har behov for mer informasjon om klimaendringene.</x>
-               <xt>Mii dárbbašit eanet dieđuid dálkkádatrievdamiid birra.</xt>
+               <x>Mii dárbbašit eanet dieđuid dálkkádatrievdamiid birra.</x>
+               <xt>Vi har behov for mer informasjon om klimaendringene.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>flere</re>
             <t pos="A">mange</t>
          </tg>
       </mg>
@@ -1356,8 +1344,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">mer</t>
             <xg>
-               <x>Vi har behov for mer informasjon om klimaendringene.</x>
-               <xt>Mii dárbbašit eanet dieđuid dálkkádatrievdamiid birra.</xt>
+               <x>Mii dárbbašit eambbo dieđuid dálkkádatrievdamiid birra.</x>
+               <xt>Vi har behov for mer informasjon om klimaendringene.</xt>
             </xg>
          </tg>
       </mg>
@@ -3115,11 +3103,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>sjelden</re>
             <t pos="A">få</t>
+            <t pos="A">sjelden</t>
             <xg>
-               <x>Det betyr stadig mer rikdom og større utbytte for de få aktørene som allerede tjener seg rike på fellesskapets fiskeressurser.</x>
-               <xt>Dát mearkkaša eanet ja eanet riggodaga ja stuorát vuoittu daidda hárvenaš oassálastiide, geat dál jo riggot searvevuođa guolleresurssaiguin.</xt>
+               <x>Dát mearkkaša eanet ja eanet riggodaga ja stuorát vuoittu daidda hárvenaš oassálastiide, geat dál jo riggot searvevuođa guolleresurssaiguin.</x>
+               <xt>Det betyr stadig mer rikdom og større utbytte for de få aktørene som allerede tjener seg rike på fellesskapets fiskeressurser.</xt>
             </xg>
          </tg>
       </mg>
@@ -4212,10 +4200,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>rekkefølge</re>
             <t pos="A">første</t>
-            <xg>
-               <x>Jeg sitter på første rad.</x>
-               <xt>Mun čohkkán ovddimus beaŋkkas.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -4267,8 +4251,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">viss</t>
             <xg>
-               <x>Jeg snakker om en viss sak.</x>
-               <xt>Mun human dihto ášši birra.</xt>
+               <x>Mun human dihto ášši birra.</x>
+               <xt>Jeg snakker om en viss sak.OBS</xt>
             </xg>
          </tg>
       </mg>
@@ -4337,10 +4321,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">fleksibel</t>
-            <xg>
-               <x>Ansatte i Sametinget har fleksibel arbeidstid.</x>
-               <xt>Sámedikki bargiin lea máškidis bargoáigi.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -4495,8 +4475,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">høflig</t>
             <xg>
-               <x>Jenta var høflig, men veldig kresen.</x>
-               <xt>Nieida lei olmmošlaš, muhto hui rántui.</xt>
+               <xt>Jenta var høflig, men veldig kresen.</xt>
+               <x>Nieida lei olmmošlaš, muhto hui rántui.</x>
             </xg>
          </tg>
       </mg>
@@ -5214,8 +5194,8 @@ For the full license text, see the link above.</lic>
             <re>som første ledd i sammensetning</re>
             <t pos="A">skjev</t>
             <xg>
-               <x>Dette gir et skjevt bilde av situasjonen.</x>
-               <xt>Dát addá bonjugova dilálašvuođas.</xt>
+               <xt>Dette gir et skjevt bilde av situasjonen.</xt>
+               <x>Dát addá bonjugova dilálašvuođas.</x>
             </xg>
          </tg>
       </mg>
@@ -6237,12 +6217,12 @@ For the full license text, see the link above.</lic>
             <re>om mål</re>
             <t pos="A">lang</t>
             <xg>
-               <x>Skrivet er 4 sider langt.</x>
-               <xt>Čálus lea 4 siiddu guhku.</xt>
+               <xt>Skrivet er 4 sider langt.</xt>
+               <x>Čálus lea 4 siiddu guhku.</x>
             </xg>
             <xg>
-               <x>Vi har bygd et 90 km langt reinsperregjerde.</x>
-               <xt>Mii leat huksen 90 km guhkkosaš boazoáiddi.</xt>
+               <xt>Vi har bygd et 90 km langt reinsperregjerde.</xt>
+               <x>Mii leat huksen 90 km guhkkosaš boazoáiddi.</x>
             </xg>
          </tg>
       </mg>
@@ -6318,12 +6298,12 @@ For the full license text, see the link above.</lic>
             <re>usammensatt, naturlig, liketil</re>
             <t pos="A">enkel</t>
             <xg>
-               <x>enkel måte</x>
-               <xt>eaŋkalis vuohki</xt>
+               <xt>enkel måte</xt>
+               <x>eaŋkalis vuohki</x>
             </xg>
             <xg>
-               <x>enkel informasjon</x>
-               <xt>ovttageardánis dieđut</xt>
+               <xt>enkel informasjon</xt>
+               <x>ovttageardánis dieđut</x>
             </xg>
          </tg>
       </mg>
