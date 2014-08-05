@@ -131,10 +131,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rovdyrsituasjon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">rovviltsituasjon</t>
          </tg>
       </mg>
@@ -156,10 +152,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">beviskrav</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">dokumentasjonskrav</t>
          </tg>
       </mg>
@@ -221,7 +213,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">folkeskoleår</t>
+            <t pos="N">grunnskoleår</t>
          </tg>
       </mg>
    </e>
@@ -251,11 +243,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">opplæringsstilling</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">undervisningsstilling</t>
          </tg>
       </mg>
@@ -274,11 +261,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">riikkageaidnofierpmádat</l>
       </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">riksvegvegnett</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">riksvegnett</t>
@@ -331,7 +313,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">fylkesstyre</t>
+           <re>om Finland og Sverige</re>
+            <t pos="N">lensstyre</t>
          </tg>
       </mg>
    </e>
@@ -402,7 +385,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">vinterforsyning</t>
+            <t pos="N">vintermat</t>
          </tg>
       </mg>
    </e>
@@ -432,7 +415,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">flyktningpolitikk</t>
+            <t pos="N">asylpolitikk</t>
          </tg>
       </mg>
    </e>
@@ -517,7 +500,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">Nordvestlandet</t>
+            <t pos="N">vestkysten</t>
          </tg>
       </mg>
    </e>
@@ -608,7 +591,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">restbeløp</t>
+            <t pos="N">sluttsum</t>
          </tg>
       </mg>
    </e>
@@ -809,7 +792,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">mørketallsundersøkelse</t>
+            <t pos="N">mørketall</t>
          </tg>
       </mg>
    </e>
@@ -26779,9 +26762,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om handling_XXX</re>
+            <re>om handling</re>
             <t pos="N">flertallsstyre</t>
-            <t pos="N">flertallsstyring_tt</t>
          </tg>
       </mg>
    </e>
@@ -40487,12 +40469,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="fad">
       <lg>
-         <l pos="N">skuvlabierggas</l>
+         <l pos="N">skuvlabiergas</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om gjenstand</re>
-            <t pos="N">skolesak_XXX_skolesaker</t>
+           <re>på samisk også i entall_XX</re>
+            <t pos="N">skolesaker</t>
          </tg>
       </mg>
    </e>
@@ -40909,9 +40891,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>rettighet</re>
             <t pos="N">samerett</t>
-            <t pos="N">rettighet for samer_XXX</t>
          </tg>
       </mg>
    </e>
@@ -40922,6 +40902,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re>om jus</re>
             <t pos="N">samerett</t>
          </tg>
       </mg>
@@ -74330,7 +74311,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">skimesterskap</t>
+            <t pos="N">skikonkurranse</t>
          </tg>
       </mg>
    </e>
@@ -83897,7 +83878,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">masseuttaking</t>
+           <re>om handlinga</re>
+            <t pos="N">masseuttak</t>
          </tg>
       </mg>
    </e>
@@ -115887,6 +115869,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">enestående dyktighet</t>
             <t pos="N">mesterskap</t>
          </tg>
       </mg>
