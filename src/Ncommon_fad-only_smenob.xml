@@ -30,6 +30,17 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="fad">
       <lg>
+         <l pos="N" type="NomAg">bádden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lydinnspilling</t>
+            <t pos="N">lydopptak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="fad">
+      <lg>
          <l pos="N">dánskkagiella</l>
       </lg>
       <mg>
@@ -2185,12 +2196,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">gassressurs</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om gassressurs</re>
-            <t pos="N">petroleumsressurs</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -2399,17 +2404,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">åpningsinnlegg</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">innleder</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>framstilling, uttalelse i debatt</re>
-            <t pos="N">innlegg</t>
          </tg>
       </mg>
    </e>
@@ -3066,12 +3060,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">komagtupp</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>komagtupp</re>
-            <t pos="N">komag</t>
          </tg>
       </mg>
    </e>
@@ -4118,12 +4106,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">salgsartikkel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>salgsvare</re>
-            <t pos="N">vare</t>
+            <t pos="N">salgsvare</t>
          </tg>
       </mg>
    </e>
@@ -5094,12 +5077,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">oljeressurs</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om oljeressurs</re>
-            <t pos="N">petroleumsressurs</t>
          </tg>
       </mg>
    </e>
@@ -20714,18 +20691,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">stedsnavntjeneste</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">navnekonsulenttjeneste</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>for stedsnavn</re>
-            <t pos="N">navnekonsulenttjeneste</t>
+            <t pos="N">stedsnavnkonsulenttjeneste</t>
          </tg>
       </mg>
    </e>
@@ -21585,7 +21551,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>arkflate</re>
             <t pos="N">avisside</t>
          </tg>
       </mg>
@@ -21596,18 +21561,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>arkflate</re>
-            <t pos="N">avisside</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="N">áviisabealli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>del av et område</re>
             <t pos="N">avisside</t>
          </tg>
       </mg>
@@ -21984,8 +21937,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>generell</re>
-            <t pos="N">behandlingsform</t>
+            <t pos="N">behandlingsmåte</t>
          </tg>
       </mg>
    </e>
@@ -21995,12 +21947,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>pleie, kurere</re>
-            <t pos="N">behandlingsform</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
+            <re>medisinsk</re>
             <t pos="N">behandlingsmetode</t>
          </tg>
       </mg>
@@ -22011,7 +21958,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>pleie, kurere</re>
+            <re>medisinsk</re>
             <t pos="N">behandlingsform</t>
          </tg>
       </mg>
@@ -22546,12 +22493,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">flyttsamekunnskap</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om flyttsamer</re>
-            <t pos="N">nomadkunnskap</t>
          </tg>
       </mg>
    </e>
@@ -23392,12 +23333,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">báikenammaášši</l>
       </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om stedsnavn</re>
-            <t pos="N">navnesak</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stedsnavnsak</t>
@@ -24280,7 +24215,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om pleie og terapi</re>
+            <re>medisinsk</re>
             <t pos="N">behandlingstilbud</t>
          </tg>
       </mg>
@@ -24291,7 +24226,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om pleie og terapi</re>
+            <re>medisinsk</re>
             <t pos="N">behandlingstilbud</t>
          </tg>
       </mg>
@@ -24302,7 +24237,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om pleie og terapi</re>
+            <re>medisinsk</re>
             <t pos="N">behandlingstilbud</t>
          </tg>
       </mg>
@@ -24649,8 +24584,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>vindmølleprosjekt</re>
-            <t pos="N">vindkraftprosjekt</t>
+            <t pos="N">vindmølleprosjekt</t>
          </tg>
       </mg>
    </e>
@@ -25597,17 +25531,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tilsynsaktivitet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kontrolloppgave</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>tilsynsoppgave</re>
-            <t pos="N">tilsyn</t>
          </tg>
       </mg>
    </e>
@@ -26856,7 +26779,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>måte å styre på</re>
+            <re>om handling</re>
             <t pos="N">flertallsstyre</t>
          </tg>
       </mg>
@@ -26867,7 +26790,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>komite, nemd som styrer noe</re>
+            <re>organisasjon</re>
             <t pos="N">flertallsstyre</t>
          </tg>
       </mg>
@@ -27273,13 +27196,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">utløpsdistrikt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om elveutløp</re>
-            <t pos="N">utløpsområde</t>
+            <t pos="N">område ved elveutløp</t>
          </tg>
       </mg>
    </e>
@@ -28367,18 +28284,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">sikkerhetstiltak</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">sikringstiltak</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>sikringstiltak</re>
-            <t pos="N">sikring</t>
          </tg>
       </mg>
    </e>
@@ -30269,8 +30175,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om elveutløp</re>
-            <t pos="N">utløpsområde</t>
+            <t pos="N">område ved elveutløp</t>
          </tg>
       </mg>
    </e>
@@ -35129,8 +35034,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om økonomiske midler</re>
-            <t pos="N">utviklingsmiddel</t>
+            <t pos="N">utviklingspenger</t>
          </tg>
       </mg>
    </e>
@@ -35140,8 +35044,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om økonomiske midler</re>
-            <t pos="N">utviklingsmiddel</t>
+            <t pos="N">utviklingspenger</t>
          </tg>
       </mg>
    </e>
@@ -35151,12 +35054,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>plass der folk møtes</re>
-            <t pos="N">møtested</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
+            <re>for folk</re>
             <t pos="N">møteplass</t>
          </tg>
       </mg>
@@ -35167,14 +35065,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>møtelokale</re>
+            <re>om sted</re>
             <t pos="N">møtested</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>arena hvor man holder møte</re>
-            <t pos="N">møtearena</t>
          </tg>
       </mg>
    </e>
@@ -36332,12 +36224,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">minoritetsbefolkning</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>minoritetsbefolkning</re>
-            <t pos="N">minoritet</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -36796,7 +36682,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>arena hvor man møtes</re>
             <t pos="N">møtearena</t>
          </tg>
       </mg>
@@ -37113,13 +36998,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>generelt</re>
-            <t pos="N">tilleggsmandat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">ekstramandat</t>
+            <t pos="N">tilleggsmandat</t>
          </tg>
       </mg>
    </e>
@@ -38920,8 +38800,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om kjøretillatelse</re>
-            <t pos="N">dispensasjonssøknad</t>
+            <t pos="N">søknad om dispensasjon for kjøring</t>
          </tg>
       </mg>
    </e>
@@ -40612,7 +40491,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om gjenstander</re>
+            <re>om gjenstand</re>
             <t pos="N">skolesak</t>
          </tg>
       </mg>
@@ -41042,7 +40921,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>lover og regler</re>
             <t pos="N">samerett</t>
          </tg>
       </mg>
@@ -41352,12 +41230,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">urfolksrett</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>urfolksrett</re>
-            <t pos="N">urfolksrettighet</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -41522,12 +41394,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">opplagstall</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>antall eksemplarer i utgivelse</re>
-            <t pos="N">opplag</t>
          </tg>
       </mg>
    </e>
@@ -42589,12 +42455,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">prøveproduksjon</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>prøveproduksjon</re>
-            <t pos="N">prøvedrift</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -42842,13 +42702,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om reinkalv</re>
-            <t pos="N">kalveproduksjon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kalvetilgang</t>
+            <t pos="N">reinkalvproduksjon</t>
          </tg>
       </mg>
    </e>
@@ -42858,8 +42712,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om reinkalv</re>
-            <t pos="N">kalveproduksjon</t>
+            <t pos="N">reinkalvproduksjon</t>
          </tg>
       </mg>
    </e>
@@ -43666,7 +43519,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>pleie</re>
             <t pos="N">behandlingssted</t>
          </tg>
       </mg>
@@ -43677,7 +43529,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>pleie</re>
             <t pos="N">behandlingssted</t>
          </tg>
       </mg>
@@ -44975,12 +44826,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">utredningsarbeid</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>utredningsarbeid</re>
-            <t pos="N">utredning</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -44999,12 +44844,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">utredningsarbeid</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>utredningsarbeid</re>
-            <t pos="N">utredning</t>
          </tg>
       </mg>
    </e>
@@ -46464,7 +46303,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>det å administrere</re>
             <t pos="N">kommuneforvaltning</t>
          </tg>
       </mg>
@@ -47565,8 +47403,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>tolkeautoriasjon</re>
-            <t pos="N">autorisasjonsbevilling</t>
+            <t pos="N">tolkeautoriasjon</t>
          </tg>
       </mg>
    </e>
@@ -47648,8 +47485,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om reinsdyr</re>
-            <t pos="N">kalveslakt</t>
+            <t pos="N">reinkalvslakt</t>
          </tg>
       </mg>
    </e>
@@ -48384,12 +48220,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">plenumsleder</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>plenumsleder</re>
-            <t pos="N">plenumsledelse</t>
          </tg>
       </mg>
    </e>
@@ -49244,7 +49074,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om land</re>
-            <t pos="N">verdenstopp</t>
+            <t pos="N">foregangsland</t>
          </tg>
       </mg>
    </e>
@@ -51069,12 +50899,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">undervisningsmetode</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>undervisningsmetode</re>
-            <t pos="N">metode</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -51658,8 +51482,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>sperregrense for utjevningsmadat</re>
-            <t pos="N">sperregrense</t>
+            <t pos="N">sperregrense for utjevningsmadat</t>
          </tg>
       </mg>
    </e>
@@ -53648,8 +53471,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om radioprogramtilbud</re>
-            <t pos="N">programtilbud</t>
+            <t pos="N">radioprogramtilbud</t>
          </tg>
       </mg>
    </e>
@@ -53840,8 +53662,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om miljøvernkrav</re>
-            <t pos="N">miljøkrav</t>
+            <t pos="N">miljøvernkrav</t>
          </tg>
       </mg>
    </e>
@@ -54163,8 +53984,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>godkjenningsordning for tolker</re>
-            <t pos="N">godkjenningsordning</t>
+            <t pos="N">tolkegodkjenningsordning</t>
          </tg>
       </mg>
    </e>
@@ -55066,7 +54886,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>virkomhet som administrasjonen driver</re>
             <t pos="N">reindriftsforvaltning</t>
          </tg>
       </mg>
@@ -55087,7 +54906,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om enkeltindivider</re>
+            <re>om enkeltindivid</re>
             <t pos="N">lokalbefolkning</t>
          </tg>
       </mg>
@@ -55098,7 +54917,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om enkeltindivider</re>
+            <re>om enkeltindivid</re>
             <t pos="N">lokalbefolkning</t>
          </tg>
       </mg>
@@ -55109,7 +54928,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om gruppen</re>
+            <re>om gruppe</re>
             <t pos="N">lokalbefolkning</t>
          </tg>
       </mg>
@@ -56001,12 +55820,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">saksforhold</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>saksomstendighet</re>
-            <t pos="N">omstendighet</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -56165,8 +55978,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>fastsatt pris, takst, tariff</re>
-            <t pos="N">sats</t>
+            <t pos="N">betalingssats</t>
          </tg>
       </mg>
    </e>
@@ -56176,8 +55988,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>fastsatt pris, takst, tariff</re>
-            <t pos="N">sats</t>
+            <t pos="N"betalingssats</t>
          </tg>
       </mg>
    </e>
@@ -58209,7 +58020,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>det å lede</re>
+            <re>om handling</re>
             <t pos="N">prosjektledelse</t>
          </tg>
       </mg>
@@ -58220,8 +58031,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>lederperson</re>
-            <t pos="N">prosjektledelse</t>
+            <t pos="N">prosjektleder</t>
          </tg>
       </mg>
    </e>
@@ -59040,8 +58850,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>reinsdyr slaktet for salg</re>
-            <t pos="N">slakt</t>
+            <t pos="N">reinslakt for salg</t>
          </tg>
       </mg>
    </e>
@@ -59166,13 +58975,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>karsykdom</re>
-            <t pos="N">hjerte-_og_karsykdom</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">karsykdom</t>
+            <t pos="N">blodkarsykdom</t>
          </tg>
       </mg>
    </e>
@@ -61453,7 +61256,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>det å bringe tilbake</re>
             <t pos="N">tilbakeføring</t>
          </tg>
       </mg>
@@ -61464,8 +61266,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>det å hente tilbake</re>
-            <t pos="N">tilbakeføring</t>
+            <t pos="N">tilbakehenting</t>
          </tg>
       </mg>
    </e>
@@ -62058,13 +61859,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">øreklips</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>øreklips</re>
-            <t pos="N">reinmerke</t>
+            <t pos="N">øreklips for merking</t>
          </tg>
       </mg>
    </e>
@@ -62367,11 +62162,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">sjøfolk</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <re>kjønnsnøytral</re>
             <t pos="N">sjømann</t>
          </tg>
@@ -62589,8 +62379,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om kumelkeproduksjon</re>
-            <t pos="N">melkeproduksjon</t>
+            <t pos="N">kumelkeproduksjon</t>
          </tg>
       </mg>
    </e>
@@ -62710,8 +62499,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om utdanningen</re>
-            <t pos="N">husmorskole</t>
+            <t pos="N">husstellutdanning</t>
          </tg>
       </mg>
    </e>
@@ -63504,8 +63292,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>menneskehet</re>
-            <t pos="N">menneske</t>
+            <t pos="N">menneskehet</t>
          </tg>
       </mg>
    </e>
@@ -64525,8 +64312,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>krenking av bestemmelse</re>
-            <t pos="N">brudd</t>
+            <t pos="N">regelbrudd</t>
          </tg>
       </mg>
       <mg>
@@ -64588,11 +64374,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vedlikehold</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>sette i stand igjen</re>
             <t pos="N">restaurering</t>
          </tg>
       </mg>
@@ -64819,8 +64600,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>økning</re>
-            <t pos="N">vekst</t>
+            <t pos="N">økning</t>
          </tg>
       </mg>
    </e>
@@ -65109,14 +64889,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>kjemping mot hindringer</re>
-            <t pos="N">kamp</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>prestasjon, arbeid, medvirkning</re>
-            <t pos="N">innsats</t>
+            <t pos="N">kamp mot hindringer</t>
          </tg>
       </mg>
    </e>
@@ -65242,14 +65015,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>resultatet av jakt</re>
             <t pos="N">rypefangst</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>fanget rype</re>
-            <t pos="N">snarefangst</t>
          </tg>
       </mg>
    </e>
@@ -65619,14 +65385,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>arbeidsrutine</re>
-            <t pos="N">rutine</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>arbeidsmetode</re>
-            <t pos="N">metode</t>
+            <t pos="N">arbeidsrutine</t>
          </tg>
       </mg>
    </e>
@@ -65646,7 +65405,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>forsyning</re>
+            <re>rekkevidde</re>
             <t pos="N">tilgang</t>
          </tg>
       </mg>
@@ -65657,8 +65416,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>forsyning</re>
-            <t pos="N">tilgang</t>
+            <t pos="N">forsyningsmulighet</t>
          </tg>
       </mg>
    </e>
@@ -65701,8 +65459,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>adgang</re>
-            <t pos="N">tilgang</t>
+            <t pos="N">adgang</t>
          </tg>
       </mg>
    </e>
@@ -65712,8 +65469,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>adgang</re>
-            <t pos="N">tilgang</t>
+            <t pos="N">adgang</t>
          </tg>
       </mg>
    </e>
@@ -65723,8 +65479,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>adgang</re>
-            <t pos="N">tilgang</t>
+            <t pos="N">adgang</t>
          </tg>
       </mg>
    </e>
@@ -65744,8 +65499,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>kjele med bidos</re>
-            <t pos="N">kjele</t>
+            <t pos="N">bidosgryte</t>
          </tg>
       </mg>
    </e>
@@ -65822,12 +65576,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">engasjement</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>prestasjon, arbeid, medvirkning</re>
-            <t pos="N">innsats</t>
          </tg>
       </mg>
    </e>
@@ -65912,8 +65660,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>boring</re>
-            <t pos="N">utvinning</t>
+            <t pos="N">boring</t>
          </tg>
       </mg>
    </e>
@@ -65923,8 +65670,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>utvinning av olje</re>
-            <t pos="N">utvinning</t>
+            <t pos="N">oljeutvinning</t>
          </tg>
       </mg>
    </e>
@@ -69086,8 +68832,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>trafikksikkerhetsplan</re>
-            <t pos="N">trafikksikkerhetsarbeid</t>
+            <t pos="N">trafikksikkerhetsplan</t>
          </tg>
       </mg>
    </e>
@@ -69266,12 +69011,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">avtalepart</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om person eller gruppe</re>
-            <t pos="N">part</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -69295,12 +69034,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">avtalepart</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om person eller gruppe</re>
-            <t pos="N">part</t>
          </tg>
       </mg>
    </e>
@@ -71538,12 +71271,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">utmarksbruk</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>bruk av utmark</re>
-            <t pos="N">utmark</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -72705,8 +72432,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>arbeidstempo</re>
-            <t pos="N">tempo</t>
+            <t pos="N">arbeidstempo</t>
          </tg>
       </mg>
    </e>
@@ -79507,8 +79233,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om person eller gruppe</re>
-            <t pos="N">part</t>
+            <t pos="N">part i saka</t>
          </tg>
       </mg>
    </e>
@@ -79518,8 +79243,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om person eller gruppe</re>
-            <t pos="N">part</t>
+            <t pos="N">part i saka</t>
          </tg>
       </mg>
    </e>
@@ -79645,8 +79369,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>papirbrosjyre</re>
-            <t pos="N">papirutgave</t>
+            <t pos="N">papirutgave av brosjyre</t>
          </tg>
       </mg>
    </e>
@@ -79794,8 +79517,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>sammendrag</re>
-            <t pos="N">oversikt</t>
+            <t pos="N">oversiktsliste</t>
          </tg>
       </mg>
    </e>
@@ -79860,7 +79582,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>overbilkk</re>
+            <re>overblikk</re>
             <t pos="N">oversikt</t>
          </tg>
       </mg>
@@ -79871,7 +79593,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>overbilkk</re>
+            <re>overblikk</re>
             <t pos="N">oversikt</t>
          </tg>
       </mg>
@@ -80499,8 +80221,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>læringsmetode</re>
-            <t pos="N">metode</t>
+            <t pos="N">læringsmåte</t>
          </tg>
       </mg>
    </e>
@@ -80957,11 +80678,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">omtanke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>omtanke</re>
             <t pos="N">hensyn</t>
          </tg>
       </mg>
@@ -82655,8 +82371,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om mur på hus</re>
-            <t pos="N">mur</t>
+            <t pos="N">husmur</t>
          </tg>
       </mg>
    </e>
@@ -83781,7 +83496,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>medbestemmelse</re>
             <t pos="N">innflytelse</t>
          </tg>
       </mg>
@@ -84210,7 +83924,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>det å ta ut</re>
+            <re>om handling</re>
             <t pos="N">masseuttak</t>
          </tg>
       </mg>
@@ -84222,13 +83936,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>sted der noe tas ut</re>
+            <re>om sted</re>
             <t pos="N">masseuttak</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">massetak</t>
          </tg>
       </mg>
    </e>
@@ -84570,8 +84279,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>fullpris</re>
-            <t pos="N">maksimalpris</t>
+            <t pos="N">fullpris</t>
          </tg>
       </mg>
    </e>
@@ -85346,8 +85054,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>lånekasse for utdanning</re>
-            <t pos="N">lånekasse</t>
+            <t pos="N">lånekasse for utdanning</t>
          </tg>
       </mg>
    </e>
@@ -85407,8 +85114,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om ambulansefly</re>
-            <t pos="N">luftambulanse</t>
+            <t pos="N">ambulansefly</t>
          </tg>
       </mg>
    </e>
@@ -85671,11 +85377,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">likviditetssituasjon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>likviditetssituasjon</re>
             <t pos="N">likviditet</t>
          </tg>
       </mg>
@@ -86153,13 +85854,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">leseliste</t>
+            <t pos="N">pensumliste</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>pensumliste</re>
-            <t pos="N">pensum</t>
+            <t pos="N">leseliste</t>
          </tg>
       </mg>
    </e>
@@ -86385,8 +86085,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>legemiddelbruk</re>
-            <t pos="N">legemiddel</t>
+            <t pos="N">legemiddelbruk</t>
          </tg>
       </mg>
       <mg>
@@ -87350,7 +87049,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>spesielt om jakt og fiske</re>
+            <re>om jakt og fiske</re>
             <t pos="N">kvotefordeling</t>
          </tg>
       </mg>
@@ -87361,7 +87060,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>spesielt om jakt og fiske</re>
+            <re>om jakt og fiske</re>
             <t pos="N">kvotefordeling</t>
          </tg>
       </mg>
@@ -87392,7 +87091,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>spesielt om jakt og fiske</re>
+            <re>om jakt og fiske</re>
             <t pos="N">kvote</t>
          </tg>
       </mg>
@@ -87716,8 +87415,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>kunsterfond</re>
-            <t pos="N">kunstfond</t>
+            <t pos="N">kunstnerfond</t>
          </tg>
       </mg>
    </e>
@@ -90552,7 +90250,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om lover og regler</re>
             <t pos="N">konkurranserett</t>
          </tg>
       </mg>
@@ -90563,8 +90260,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om rettigheter</re>
-            <t pos="N">konkurranserett</t>
+            <t pos="N">konkurranserettighet</t>
          </tg>
       </mg>
    </e>
@@ -91209,8 +90905,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>kommunikasjonskanal</re>
-            <t pos="N">kanal</t>
+            <t pos="N">kommunikasjonskanal</t>
          </tg>
       </mg>
    </e>
@@ -91435,17 +91130,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kombinasjonsvirksomhet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">kombinasjonsdrift</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>kombinasjonsvirksomhet</re>
-            <t pos="N">kombinasjon</t>
          </tg>
       </mg>
    </e>
@@ -92629,8 +92314,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om reindrift</re>
-            <t pos="N">kalvetap</t>
+            <t pos="N">tap av reinkalver</t>
          </tg>
       </mg>
    </e>
@@ -92640,8 +92324,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om reindrift</re>
-            <t pos="N">kalvetap</t>
+            <t pos="N">tap av reinkalver</t>
          </tg>
       </mg>
    </e>
@@ -92651,8 +92334,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om reindrift</re>
-            <t pos="N">kalvetap</t>
+            <t pos="N">tap av reinkalver</t>
          </tg>
       </mg>
    </e>
@@ -93468,12 +93150,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">inntektsmulighet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>inntjeningsmulighet</re>
             <t pos="N">inntjeningsevne</t>
          </tg>
       </mg>
@@ -93595,12 +93271,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">inntektsmulighet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>inntjeningsmulighet</re>
-            <t pos="N">inntjeningsevne</t>
          </tg>
       </mg>
    </e>
@@ -93860,7 +93530,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>innsigelse</re>
+            <t pos="N">innsigelse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">innsigelsessak</t>
          </tg>
       </mg>
@@ -94113,8 +93787,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>innløsningsordning</re>
-            <t pos="N">innløsning</t>
+            <t pos="N">innløsningsordning</t>
          </tg>
       </mg>
    </e>
@@ -95041,8 +94714,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>høsting av naturen</re>
-            <t pos="N">høsting</t>
+            <t pos="N">høsting av naturen</t>
          </tg>
       </mg>
    </e>
@@ -95052,8 +94724,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>høsting av naturen</re>
-            <t pos="N">høsting</t>
+            <t pos="N">høsting av naturen</t>
          </tg>
       </mg>
    </e>
@@ -95093,8 +94764,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>utspørring i politiske saker</re>
-            <t pos="N">høring</t>
+            <t pos="N">utspørring i politiske saker</t>
          </tg>
       </mg>
       <mg>
@@ -95372,18 +95042,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>spesielt om storfe og småfe</re>
             <t pos="N">husdyrhold</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">husdyrhald</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">gårdsbruk</t>
          </tg>
       </mg>
    </e>
@@ -95403,7 +95062,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">husbygning</t>
+            <t pos="N">husbygging</t>
          </tg>
       </mg>
    </e>
@@ -96218,12 +95877,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">hovedfagsavhandling</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>hovedfagsoppgave</re>
-            <t pos="N">hovedoppgave</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -96307,12 +95960,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hovedarbeidsområde</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>viktigste oppgave</re>
-            <t pos="N">hovedoppgave</t>
          </tg>
       </mg>
    </e>
@@ -97496,8 +97143,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om grunnlagsdokumenter</re>
-            <t pos="N">grunnlagsmateriale</t>
+            <t pos="N">grunnlagsdokument</t>
          </tg>
       </mg>
    </e>
@@ -98265,7 +97911,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>styrende bestemmelse</re>
             <t pos="N">føring</t>
          </tg>
       </mg>
@@ -100683,11 +100328,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">flyttesystem</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <re>om reindrift</re>
             <t pos="N" alt_str="flyttmønster">flyttemønster</t>
          </tg>
@@ -100985,8 +100625,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>kystfiskerinæring</re>
-            <t pos="N">fiskerinæring</t>
+            <t pos="N">kystfiskerinæring</t>
          </tg>
       </mg>
    </e>
@@ -101845,7 +101484,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>medisin</re>
             <t pos="N">feilbehandling</t>
          </tg>
       </mg>
@@ -101857,7 +101495,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>medisin</re>
+            <re>medisinsk</re>
             <t pos="N">feilbehandling</t>
          </tg>
       </mg>
@@ -101998,8 +101636,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>fangstgrop for villrein</re>
-            <t pos="N">fangstgrop</t>
+            <t pos="N">fangstgrop for villrein</t>
          </tg>
       </mg>
    </e>
@@ -102057,12 +101694,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">faktainformasjon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>flertall</re>
-            <t pos="N">faktum</t>
+            <t pos="N">fakta</t>
          </tg>
       </mg>
    </e>
@@ -102887,8 +102519,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>profesjonsutdanning</re>
-            <t pos="N">utdanning</t>
+            <t pos="N">profesjonsutdanning</t>
          </tg>
       </mg>
    </e>
@@ -104246,7 +103877,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>spesielt om kvoteordninger for jakt</re>
+            <re>om fangst</re>
             <t pos="N">distriktskvoteordning</t>
          </tg>
       </mg>
@@ -104257,7 +103888,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>spesielt om kvoteordninger for jakt</re>
+            <re>om fangst</re>
             <t pos="N">distriktskvoteordning</t>
          </tg>
       </mg>
@@ -104278,7 +103909,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om fangstkvoter</re>
+            <re>om fangst</re>
             <t pos="N">distriktskvote</t>
          </tg>
       </mg>
@@ -105320,6 +104951,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>grunnlag, bærende kraft</re>
             <t pos="N">bærebjelke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjørnestolpe</t>
          </tg>
       </mg>
    </e>
@@ -106830,13 +106466,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om handling</re>
-            <t pos="N">barnetilsyn</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>tilsyn av barn</re>
-            <t pos="N">tilsyn</t>
+            <t pos="N">tilsyn av barn</t>
          </tg>
       </mg>
    </e>
@@ -109179,7 +108809,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>slaktesituasjon</re>
             <t pos="N">slakterisituasjon</t>
          </tg>
       </mg>
@@ -109311,7 +108940,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>institusjon der en får veiledning</re>
+            <re>om handling</re>
             <t pos="N">skatteopplysning</t>
          </tg>
       </mg>
@@ -110232,7 +109861,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>lover og regler</re>
             <t pos="N">reindriftsrett</t>
          </tg>
       </mg>
@@ -111658,12 +111286,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">miljøvernpolitikk</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>miljøvernpolitikk</re>
-            <t pos="N">miljøpolitikk</t>
          </tg>
       </mg>
    </e>
@@ -114921,8 +114543,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>arbeid med arealvern</re>
-            <t pos="N">arealvern</t>
+            <t pos="N">arealvernsarbeid</t>
          </tg>
       </mg>
    </e>
@@ -115815,7 +115436,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>grunnleggende: som første ledd i sammensetninger</re>
+            <re>som første ledd i sammensetninger</re>
             <t pos="A">primær</t>
          </tg>
       </mg>
@@ -115896,7 +115517,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>i en gruppe</re>
             <t pos="N">ordfører</t>
          </tg>
       </mg>
@@ -115980,6 +115600,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>tid som er passert</re>
             <t pos="N">fortid</t>
+            <t pos="N">gamle dager</t>
          </tg>
       </mg>
    </e>
@@ -116009,8 +115630,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>brunalge i sjøen</re>
-            <t pos="N">tang</t>
+            <t pos="N">brunalge i sjøen</t>
          </tg>
       </mg>
    </e>
@@ -116146,8 +115766,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>barndomstid</re>
-            <t pos="N">barndom</t>
+            <t pos="N">barndomstid</t>
          </tg>
       </mg>
    </e>
@@ -116680,8 +116299,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>lønnet arbeid</re>
-            <t pos="N">arbeid</t>
+            <t pos="N">lønnsarbeid</t>
          </tg>
       </mg>
    </e>
@@ -116710,7 +116328,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>følge</re>
             <t pos="N">konsekvens</t>
          </tg>
       </mg>
@@ -116883,8 +116500,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>helsetilstand</re>
-            <t pos="N">helse</t>
+            <t pos="N">helsetilstand</t>
          </tg>
       </mg>
    </e>
@@ -116935,8 +116551,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>torskebestand</re>
-            <t pos="N">torsk</t>
+            <t pos="N">torskebestand</t>
          </tg>
       </mg>
    </e>
@@ -116946,8 +116561,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>domsavsigelse</re>
-            <t pos="N">dom</t>
+            <t pos="N">domsavsigelse</t>
          </tg>
       </mg>
    </e>
@@ -117072,8 +116686,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>yrkesgruppe</re>
-            <t pos="N">yrke</t>
+            <t pos="N">yrkesgruppe</t>
          </tg>
       </mg>
    </e>
@@ -117086,12 +116699,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">fagterm</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>fagterm</re>
-            <t pos="N">fagterminologi</t>
-         </tg>
-      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -117099,14 +116706,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>konsekvens, resultat, virkning</re>
-            <t pos="N">følge</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>følge</re>
             <t pos="N">konsekvens</t>
+            <t pos="N">virkning</t>
          </tg>
       </mg>
    </e>
@@ -117116,8 +116717,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>mellomrom mellom ord</re>
-            <t pos="N">mellomrom</t>
+            <t pos="N">ordmellomrom</t>
          </tg>
       </mg>
    </e>
@@ -117215,8 +116815,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>glimt</re>
-            <t pos="N">gløtt</t>
+            <t pos="N">glimt</t>
          </tg>
       </mg>
    </e>
@@ -117236,8 +116835,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>drivgarnsfiske i havet</re>
-            <t pos="N">drivgarnfiske</t>
+            <t pos="N">drivgarnfiske i sjøen</t>
          </tg>
       </mg>
    </e>
@@ -117299,7 +116897,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>makt, ledelse</re>
+            <re>om handling</re>
             <t pos="N">områdestyre</t>
          </tg>
       </mg>
@@ -117492,8 +117090,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>ro i sinnet</re>
-            <t pos="N">ro</t>
+            <t pos="N">sinnsro</t>
          </tg>
       </mg>
    </e>
@@ -117513,8 +117110,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>blodåre</re>
-            <t pos="N">kar</t>
+            <t pos="N">blodåre</t>
          </tg>
       </mg>
    </e>
@@ -117524,8 +117120,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>penger som er lånt</re>
-            <t pos="N">lån</t>
+            <t pos="N">pengelån</t>
          </tg>
       </mg>
    </e>
@@ -117535,8 +117130,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>hjertebank</re>
-            <t pos="N">slag</t>
+            <t pos="N">hjertebank</t>
          </tg>
       </mg>
    </e>
@@ -117556,8 +117150,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>kjennetegn</re>
-            <t pos="N">merke</t>
+            <t pos="N">kjennetegn</t>
          </tg>
       </mg>
    </e>
@@ -117617,8 +117210,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>hensikt, formål</re>
-            <t pos="N">mål</t>
+            <t pos="N">formål</t>
          </tg>
       </mg>
    </e>
@@ -117629,8 +117221,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>ca. en mil</re>
-            <t pos="N">mil</t>
+            <t pos="N">ca. en mil</t>
          </tg>
       </mg>
    </e>
@@ -117674,8 +117265,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>ekstra byrde</re>
-            <t pos="N">byrde</t>
+            <t pos="N">ekstra byrde</t>
          </tg>
       </mg>
    </e>
@@ -117715,8 +117305,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>regelbundet tilstand, system</re>
             <t pos="N">orden</t>
+            <t pos="N">system</t>
          </tg>
       </mg>
    </e>
@@ -117726,7 +117316,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om menn</re>
             <t pos="N">formann</t>
          </tg>
       </mg>
@@ -117747,8 +117336,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>skolerektor</re>
-            <t pos="N">rektor</t>
+            <t pos="N">skolerektor</t>
          </tg>
       </mg>
    </e>
@@ -117758,8 +117346,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>stat</re>
-            <t pos="N">rike</t>
+            <t pos="N">stat</t>
          </tg>
       </mg>
    </e>
@@ -117814,8 +117401,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>utstillings- og informasjonsplass</re>
-            <t pos="N">stand</t>
+            <t pos="N">salgsbord</t>
          </tg>
       </mg>
    </e>
@@ -117876,7 +117462,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>det å tale</re>
             <t pos="N">samtale</t>
          </tg>
       </mg>
@@ -117899,11 +117484,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">mindretall</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>mindretall</re>
             <t pos="N">minoritet</t>
          </tg>
       </mg>
@@ -117994,8 +117574,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>opprinnelig intensjon</re>
-            <t pos="N">intensjon</t>
+            <t pos="N">opprinnelig intensjon</t>
          </tg>
       </mg>
    </e>
@@ -118015,8 +117594,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>statusnivå</re>
-            <t pos="N">status</t>
+            <t pos="N">statusnivå</t>
          </tg>
       </mg>
    </e>
@@ -118061,8 +117639,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>postadresse</re>
-            <t pos="N">adresse</t>
+            <t pos="N">postadresse</t>
          </tg>
       </mg>
    </e>
@@ -118082,8 +117659,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>lite punkt</re>
-            <t pos="N">punkt</t>
+            <t pos="N">lite punkt</t>
          </tg>
       </mg>
    </e>
@@ -118153,7 +117729,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om menn</re>
             <t pos="N">embetsmann</t>
          </tg>
       </mg>
@@ -118366,8 +117941,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>kontakt med foreldre</re>
-            <t pos="N">foreldrekontakt</t>
+            <t pos="N">kontakt med foreldre</t>
          </tg>
       </mg>
    </e>
@@ -118459,7 +118033,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>slaktestruktur</re>
             <t pos="N">slakteristruktur</t>
          </tg>
       </mg>
@@ -118706,7 +118279,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>det å vokse</re>
             <t pos="N">vekst</t>
          </tg>
       </mg>
@@ -118961,8 +118533,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>vedtak i sak</re>
-            <t pos="N">vedtak</t>
+            <t pos="N">vedtak i sak</t>
          </tg>
       </mg>
    </e>
@@ -119078,11 +118649,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fall</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om priser, aksjer o.l.: det å synke</re>
             <t pos="N">nedgang</t>
          </tg>
       </mg>
@@ -119197,12 +118763,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">presentasjon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>framføring, presentasjon</re>
-            <t pos="N">framstilling</t>
+            <t pos="N">framføring</t>
          </tg>
       </mg>
    </e>
@@ -119223,8 +118784,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>militær</re>
-            <t pos="N">operasjon</t>
+            <t pos="N">militæroperasjon</t>
          </tg>
       </mg>
    </e>
@@ -119234,7 +118794,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>sans for det komiske</re>
             <t pos="N">humor</t>
          </tg>
       </mg>
@@ -119285,8 +118844,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>lønn</re>
-            <t pos="N">pensjon</t>
+            <t pos="N">alderspensjon</t>
          </tg>
       </mg>
    </e>
@@ -119362,8 +118920,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>endringsarbeid</re>
-            <t pos="N">revisjon</t>
+            <t pos="N">endringsarbeid</t>
          </tg>
       </mg>
    </e>
@@ -119394,12 +118951,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bevilgning</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>økonomisk støtte</re>
-            <t pos="N">støtte</t>
          </tg>
       </mg>
    </e>
@@ -119559,8 +119110,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>innspilling av film</re>
-            <t pos="N">innspilling</t>
+            <t pos="N">filminnspilling</t>
          </tg>
       </mg>
    </e>
@@ -119570,8 +119120,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>innspilling av film</re>
-            <t pos="N">innspilling</t>
+            <t pos="N">filminnspilling</t>
          </tg>
       </mg>
    </e>
@@ -119721,7 +119270,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om menn</re>
             <t pos="N">sjømann</t>
          </tg>
       </mg>
@@ -119944,7 +119492,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>på ski:det å kjøre nedoverbakke</re>
+            <re>om ski eller aking</re>
             <t pos="N">utforkjøring</t>
          </tg>
       </mg>
@@ -120812,7 +120360,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>regulering av kvoter knyttet til fangst</re>
+            <re>om fangst</re>
             <t pos="N">kvoteregulering</t>
          </tg>
       </mg>
@@ -121147,8 +120695,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>eksamensvitnemål</re>
-            <t pos="N">vitnemål</t>
+            <t pos="N">utdanningsvitnemål</t>
          </tg>
       </mg>
    </e>
@@ -121499,7 +121046,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>medarbeider</re>
             <t pos="N">samarbeidspartner</t>
          </tg>
       </mg>
@@ -121510,7 +121056,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>kjønnsnøytral</re>
             <t pos="N">klassekamerat</t>
          </tg>
       </mg>
@@ -121541,8 +121086,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>faget norsk</re>
-            <t pos="N">norsk</t>
+            <t pos="N">norskfaget</t>
          </tg>
       </mg>
    </e>
@@ -121552,8 +121096,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>betaling</re>
-            <t pos="N">trekk</t>
+            <t pos="N">betaling</t>
          </tg>
       </mg>
    </e>
@@ -121563,7 +121106,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>det utvendige</re>
             <t pos="N">overflate</t>
          </tg>
       </mg>
@@ -121574,8 +121116,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>kunnskapssenter</re>
-            <t pos="N">kompetansesenter</t>
+            <t pos="N">kunnskapssenter</t>
          </tg>
       </mg>
    </e>
@@ -121675,8 +121216,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om jordstykker</re>
-            <t pos="N">eiendomsrett</t>
+            <t pos="N">eiendomsrett til jord</t>
          </tg>
       </mg>
    </e>
@@ -121707,7 +121247,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>mindretall</re>
             <t pos="N">minoritet</t>
          </tg>
       </mg>
@@ -121718,8 +121257,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>minoritetsbefolkning</re>
-            <t pos="N">minoritet</t>
+            <t pos="N">minoritetsbefolkning</t>
          </tg>
       </mg>
    </e>
@@ -121799,8 +121337,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>utdanning fra videregående skole</re>
-            <t pos="N">utdanning</t>
+            <t pos="N">utdanning fra videregående skole</t>
          </tg>
       </mg>
    </e>
@@ -121810,8 +121347,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>høyere utdanning</re>
-            <t pos="N">utdanning</t>
+            <t pos="N">høyere utdanning</t>
          </tg>
       </mg>
    </e>
@@ -121821,8 +121357,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>høyere utdanning</re>
-            <t pos="N">utdanning</t>
+            <t pos="N">høyere utdanning</t>
          </tg>
       </mg>
    </e>
@@ -121902,7 +121437,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>det å tape el. miste noe</re>
+            <re>om handlingen</re>
             <t pos="N">tap</t>
          </tg>
       </mg>
@@ -121913,8 +121448,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>arbeidsrutine</re>
-            <t pos="N">rutine</t>
+            <t pos="N">arbeidsrutine</t>
          </tg>
       </mg>
    </e>
@@ -122378,8 +121912,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>arbeidsredskap</re>
-            <t pos="N">redskap</t>
+            <t pos="N">arbeidsredskap</t>
          </tg>
       </mg>
       <mg>
