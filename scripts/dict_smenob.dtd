@@ -1,0 +1,68 @@
+<!ELEMENT analysis ( #PCDATA | wordform )* >
+<!ATTLIST analysis ms CDATA #IMPLIED >
+
+<!ELEMENT e ( lg, mg+ ) >
+<!ATTLIST e illpl NMTOKEN #IMPLIED >
+<!ATTLIST e reverse NMTOKEN #IMPLIED >
+<!ATTLIST e src CDATA #IMPLIED >
+<!ATTLIST e usage ( mt | vd ) #IMPLIED >
+
+<!ELEMENT l ( #PCDATA ) >
+<!ATTLIST l attr ( no ) #IMPLIED >
+<!ATTLIST l context NMTOKEN #IMPLIED >
+<!ATTLIST l illpl ( no ) #IMPLIED >
+<!ATTLIST l mod NMTOKEN #IMPLIED >
+<!ATTLIST l nr ( Du | Pl | Sg ) #IMPLIED >
+<!ATTLIST l pers NMTOKEN #IMPLIED >
+<!ATTLIST l pg ( no ) #IMPLIED >
+<!ATTLIST l pos ( A | Adv | CC | CS | Interj | N | Num | Pcle | Po | Pr | Pron | V ) #REQUIRED >
+<!ATTLIST l sem_type ( Obj | Org | Plc ) #IMPLIED >
+<!ATTLIST l type ( Actio | ConNeg | Dem | G3 | Indef | Interr | NomAg | Pers | PrfPrc | Prop | PrsPrc | Recipr | Refl | Rel ) #IMPLIED >
+<!ATTLIST l vmax ( 2 | 3 | 4 ) #IMPLIED >
+
+<!ELEMENT l_ref ( #PCDATA ) >
+
+<!ELEMENT lc ( #PCDATA ) >
+
+<!ELEMENT lemma_ref ( #PCDATA ) >
+<!ATTLIST lemma_ref lemmaID CDATA #REQUIRED >
+
+<!ELEMENT lg ( analysis | l | l_ref | lc | lemma_ref | lsub | mini_paradigm )* >
+
+<!ELEMENT lsub ( #PCDATA ) >
+
+<!ELEMENT mg ( tg+, xg? ) >
+
+<!ELEMENT mini_paradigm ( analysis+ ) >
+
+<!ELEMENT r ( e+ ) >
+
+<!ELEMENT re ( #PCDATA ) >
+
+<!ELEMENT t ( #PCDATA ) >
+<!ATTLIST t alt_str CDATA #IMPLIED >
+<!ATTLIST t country ( Finland | Russland | Sverige ) #IMPLIED >
+<!ATTLIST t decl ( 1 | 2 | 3 | 4 | 5 | i | indecl | irr | yyy ) #IMPLIED >
+<!ATTLIST t dict NMTOKEN #IMPLIED >
+<!ATTLIST t gen ( f | m | n | xxx ) #IMPLIED >
+<!ATTLIST t nr NMTOKEN #IMPLIED >
+<!ATTLIST t pos NMTOKEN #IMPLIED >
+<!ATTLIST t reg CDATA #IMPLIED >
+<!ATTLIST t sem_type ( Obj | Plc | plc ) #IMPLIED >
+<!ATTLIST t t_type NMTOKEN #IMPLIED >
+<!ATTLIST t type ( Dem | Indef | Pers | Poss | Prop | Recipr | Refl ) #IMPLIED >
+
+<!ELEMENT tg ( re | t | xg )* >
+<!ATTLIST tg xml:lang NMTOKEN #FIXED "nob" >
+
+<!ELEMENT wordform ( #PCDATA ) >
+
+<!ELEMENT x ( #PCDATA ) >
+<!ATTLIST x src CDATA #IMPLIED >
+
+<!ELEMENT xg ( x, xt ) >
+<!ATTLIST xg re CDATA #IMPLIED >
+
+<!ELEMENT xt ( #PCDATA ) >
+<!ATTLIST xt src CDATA #IMPLIED >
+
