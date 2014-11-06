@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r id="smenob" xml:lang="sme">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic>
-      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -26,8 +23,7 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
+     </sourcenote></lics>
    <e src="nj" usage="vd">
       <lg>
          <l pos="Adv">maŋábeallai</l>
@@ -42,48 +38,48 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">ovttaoaivilis</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-           <t pos="Adv">enig</t>
+            <t pos="Adv">enig</t>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">ovddežis</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-           <t pos="Adv">fra før</t>
+            <t pos="Adv">fra før</t>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">buohkanassii</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-           <t pos="Adv">tilsammen</t>
+            <t pos="Adv">tilsammen</t>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">beallemuttus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-           <t pos="Adv">halvveis</t>
-           <t pos="Adv">fra halvveis</t>
+            <t pos="Adv">halvveis</t>
+            <t pos="Adv">fra halvveis</t>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">beallemuddui</l>
       </lg>
@@ -93,7 +89,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">vuollelis</l>
       </lg>
@@ -103,7 +99,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">eanemustá</l>
       </lg>
@@ -113,7 +109,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">olggobeallai</l>
       </lg>
@@ -123,7 +119,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">oarjjabealde</l>
       </lg>
@@ -133,7 +129,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="Adv">buorremielas</l>
          <lsub>buoremielas</lsub>
@@ -1768,10 +1764,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
             <t pos="Adv">nederst</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2314,9 +2306,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">hit</t>
-              <xg>
-                <x>Govt lei vuodjit Olmmáivákkis diehke?</x>
-                <xt>Hvordan var det å kjøre fra Manndalen og hit?</xt>
+            <xg>
+               <x>Govt lei vuodjit Olmmáivákkis diehke?</x>
+               <xt>Hvordan var det å kjøre fra Manndalen og hit?</xt>
             </xg>
          </tg>
       </mg>
@@ -2983,7 +2975,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">hvor</t>
-             <xg>
+            <xg>
                <x>Gos don leat čuohpaduvvon?</x>
                <xt>Hvor (på hvilket sykehus) er du blitt operert?</xt>
             </xg>
@@ -5202,7 +5194,7 @@ For the full license text, see the link above.</lic>
    <e src="nj" usage="vd">
       <lg>
          <l pos="Adv">ruossalassii</l>
-         <lc></lc>
+         <lc/>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6186,10 +6178,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">med ryggen mot</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -7239,7 +7227,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-			<re>ved nekting</re>
+            <re>ved nekting</re>
             <t pos="Adv">noe sted</t>
          </tg>
       </mg>
@@ -7271,10 +7259,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">fullstendig</t>
-		<xg>
-		<x>ihána ávdin báiki</x>
-		<xt>et fullstendig øde sted</xt>
-		</xg>
+            <xg>
+               <x>ihána ávdin báiki</x>
+               <xt>et fullstendig øde sted</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7338,5 +7326,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                 src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
 </r>

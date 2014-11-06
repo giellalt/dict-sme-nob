@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r id="smenob" xml:lang="sme">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic>
-      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -26,8 +23,7 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
+     </sourcenote></lics>
    <e usage="vd">
       <lg>
          <l context="mun" pos="V">deddot</l>
@@ -35,16 +31,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tynges ned</t>
-       </tg>
+         </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ha mareritt</t>
-              <xg>
+            <xg>
                <x>Mun deddon ijaid.</x>
                <xt>Jeg har mareritt om natta.</xt>
             </xg>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -54,7 +50,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ha mareritt</t>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -64,7 +60,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">diskutere</t>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -74,11 +70,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">koste</t>
-              <xg>
+            <xg>
                <x>Váldde suohpala ja suohpalastte láhtti!</x>
                <xt>Ta sopelimen og kost golvet!</xt>
             </xg>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -88,11 +84,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">banke på</t>
-              <xg>
+            <xg>
                <x>Áddjá čoalkkuhii uksii.</x>
                <xt>Bestefar banket på døra.</xt>
             </xg>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -102,11 +98,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hyle opp</t>
-              <xg>
+            <xg>
                <x>Gumpe riežáda fasttes jienain.</x>
                <xt>Ulven hylte opp med en fæl stemme.</xt>
             </xg>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -116,11 +112,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">se grå ut</t>
-              <xg>
+            <xg>
                <x>Njárggas rádnái unna lavdnjegáhtot stohpu.</x>
                <xt>På nesset var det et lite grått hus med torvtak.</xt>
             </xg>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -130,11 +126,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">se rød ut</t>
-              <xg>
+            <xg>
                <x>Árranis hillabihtát ruoksájedje.</x>
                <xt>På ildstedet var det røde glør.</xt>
             </xg>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -144,11 +140,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">se hvit ut</t>
-              <xg>
+            <xg>
                <x>Ja doppe badjin duoddarat vielgájit.</x>
                <xt>Og der oppe er det hvite vidder.</xt>
             </xg>
-       </tg>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -701,9 +697,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">barbere</t>
             <xg>
-              <x>Ja mun lean ráhken iežan ja bidjan njálgga hája.</x>
-              <xt>Og jeg har barbert meg og tatt på godlukt.</xt>
-	    </xg>
+               <x>Ja mun lean ráhken iežan ja bidjan njálgga hája.</x>
+               <xt>Og jeg har barbert meg og tatt på godlukt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -876,9 +872,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">holde kaffepause</t>
             <xg>
-              <x>Meassu maŋŋá čoahkkanit káfestallat, lávlut sálmmaid ja návddašit vel Wimme musihkas.</x>
-              <xt>Etter messa samles vi for å holde kaffepause, synge salmer, og nyte Wimmes musikk.</xt>
-	    </xg>
+               <x>Meassu maŋŋá čoahkkanit káfestallat, lávlut sálmmaid ja návddašit vel Wimme musihkas.</x>
+               <xt>Etter messa samles vi for å holde kaffepause, synge salmer, og nyte Wimmes musikk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1046,9 +1042,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">sprute</t>
             <xg>
-              <x>Girdingiettis bargi cirgguha glykola, vai eastá girdi osiid jiekŋumis.</x>
-              <xt>På flyplassen spruter arbeideren på glykol, for å hindre flydelene fra å fryse.</xt>
-	    </xg>
+               <x>Girdingiettis bargi cirgguha glykola, vai eastá girdi osiid jiekŋumis.</x>
+               <xt>På flyplassen spruter arbeideren på glykol, for å hindre flydelene fra å fryse.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1174,9 +1170,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">oppfordre</t>
             <t pos="V">utfordre</t>
             <xg>
-              <x>Danin hásttuhan ohppiid váhnemiid váikkuhit áššái.</x>
-              <xt>Derfor oppfordrer jeg elevenes foreldre til å påvirke saka.</xt>
-	    </xg>
+               <x>Danin hásttuhan ohppiid váhnemiid váikkuhit áššái.</x>
+               <xt>Derfor oppfordrer jeg elevenes foreldre til å påvirke saka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1353,10 +1349,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">unngå</t>
-              <xg>
-                 <x>Ja garvván dan nu guhká go sáhtán.</x>
-                 <xt>Og jeg unngår det så lenge som jeg kan.</xt>
-	      </xg>
+            <xg>
+               <x>Ja garvván dan nu guhká go sáhtán.</x>
+               <xt>Og jeg unngår det så lenge som jeg kan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1428,9 +1424,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">samarbeide</t>
             <xg>
-              <x>Geaiguin áigu Sámeálbmot bellodat ovttasbargat?</x>
-              <xt>Hvem vil Samefolkets parti samarbeide med?</xt>
-	    </xg>
+               <x>Geaiguin áigu Sámeálbmot bellodat ovttasbargat?</x>
+               <xt>Hvem vil Samefolkets parti samarbeide med?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1442,9 +1438,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">medføre</t>
             <xg>
-              <x>Árvalus mielddisbuktá 200 miljovnna lasáhusa 2010 salderejuvvon bušeahta ektui.</x>
-              <xt>Forslaget medfører 200 millioners tillegg sammenlignet med det salderte budsjettet fra 2010.</xt>
-	    </xg>
+               <x>Árvalus mielddisbuktá 200 miljovnna lasáhusa 2010 salderejuvvon bušeahta ektui.</x>
+               <xt>Forslaget medfører 200 millioners tillegg sammenlignet med det salderte budsjettet fra 2010.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5695,7 +5691,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="upers" pos="V">buolaštit</l>
       </lg>
@@ -17249,10 +17245,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">snakke</t>
-         <xg>
-           <x>Hálan dutnje barggu birra.</x>
-           <xt>Jeg snakker til deg om arbeidet.</xt>
-         </xg>
+            <xg>
+               <x>Hálan dutnje barggu birra.</x>
+               <xt>Jeg snakker til deg om arbeidet.</xt>
+            </xg>
             <xg>
                <x>Ii ge gillen suinna ba hállat ge šat.</x>
                <xt>Og da giddet han ikke engang å snakke mer med henne.</xt>
@@ -18847,7 +18843,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">oversette</t>
-              <xg>
+            <xg>
                <x>Girjji jorgalit</x>
                <xt>Oversette boka</xt>
             </xg>
@@ -18856,7 +18852,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">snu noe</t>
-              <xg>
+            <xg>
                <x>Jorgalin oaivvi su guvlui.</x>
                <xt>Jeg snudde hodet mot han.</xt>
             </xg>
@@ -18865,7 +18861,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">snu</t>
-              <xg>
+            <xg>
                <x>Son fertii jorgalit.</x>
                <xt>Hun måtte snu.</xt>
             </xg>
@@ -22205,8 +22201,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">stole på</t>
             <xg>
-              <x>Mun luohtán finnmárkulaččaid iežaset návccaide.</x>
-              <xt>Jeg stoler på finnmarkingenes egne krefter.</xt>
+               <x>Mun luohtán finnmárkulaččaid iežaset návccaide.</x>
+               <xt>Jeg stoler på finnmarkingenes egne krefter.</xt>
             </xg>
          </tg>
       </mg>
@@ -22231,7 +22227,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>når man får tilbake samme gjenstanden</re>
             <t pos="V">låne bort</t>
-	    <xg>
+            <xg>
                <x>Luoikkat go girjji munnje?</x>
                <xt>Låner du boka til meg?</xt>
             </xg>
@@ -22318,7 +22314,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">koste med sopelime</t>
-              <xg>
+            <xg>
                <x>Váldde luvddá ja luvde láhtti!</x>
                <xt>Ta sopelimen og kost golvet!</xt>
             </xg>
@@ -24624,20 +24620,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">klare å la være</t>
-             <xg>
+            <xg>
                <x>In máššan.</x>
                <xt>Jeg klarte ikke å la være.</xt>
             </xg>
-             <xg>
+            <xg>
                <x>Bárdni ii máša borramis.</x>
                <xt>Gutten kan ikke la være å spise.</xt>
             </xg>
-        </tg>
+         </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ta det med ro</t>
-             <xg>
+            <xg>
                <x>Bárdni máššá vuordit.</x>
                <xt>Gutten klarer å ta det med ro og vente.</xt>
             </xg>
@@ -36857,7 +36853,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="upers" pos="V">vuoisat</l>
       </lg>
@@ -39448,7 +39444,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l context="dat" pos="V">čuohcat</l>
          <l_ref>čuohcit_v</l_ref>
@@ -43864,7 +43860,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-			<re>flere ganger</re>
+            <re>flere ganger</re>
             <t pos="V">bli etter</t>
          </tg>
       </mg>
@@ -43976,7 +43972,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-			<re>flere ganger</re>
+            <re>flere ganger</re>
             <t pos="V">kremte</t>
          </tg>
       </mg>
@@ -44122,7 +44118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-			<re>om reindrift</re>
+            <re>om reindrift</re>
             <t pos="V">skille</t>
          </tg>
       </mg>
@@ -44197,5 +44193,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                 src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
 </r>

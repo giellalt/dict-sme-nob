@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_staticdictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r id="smenob" xml:lang="sme">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic>
-      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -26,8 +23,7 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
+     </sourcenote></lics>
    <e src="nj" usage="vd">
       <lg>
          <l pos="Pron" type="Rel">mii</l>
@@ -621,10 +617,6 @@ For the full license text, see the link above.</lic>
             <re>flertall</re>
             <t pos="Pron">hva</t>
             <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
-            <xg>
                <x>Dás beasat lohkat muhtin áššiid maid birra Áššu lea čállán mannan jagi.</x>
                <xt>Her får du lese om noen saker som Áššu har skrevet om det siste året.</xt>
             </xg>
@@ -641,10 +633,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>flertall</re>
             <t pos="Pron">til hva</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
             <xg>
                <x>Buot dát ledje atnudávvirat, maidda beaivválaččat lei dárbu.</x>
                <xt>Alt dette var bruksgjenstander som det var bruk for til hverdags.</xt>
@@ -663,10 +651,6 @@ For the full license text, see the link above.</lic>
             <re>flertall</re>
             <t pos="Pron">av hva</t>
             <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
-            <xg>
                <x>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</x>
                <xt>Alle har selv kjøpt materialer som de syr bukser av.</xt>
             </xg>
@@ -684,10 +668,6 @@ For the full license text, see the link above.</lic>
             <re>flertall</re>
             <t pos="Pron">med hva</t>
             <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
-            <xg>
                <x>Dathan leat áššit maiguin Sámediggi bargá.</x>
                <xt>Det er saker som Sametinget arbeider med.</xt>
             </xg>
@@ -703,7 +683,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>flertall</re>
+            <re>flertall</re>
             <t pos="Pron">hvem sin</t>
             <t pos="Pron">hvem</t>
             <xg>
@@ -1222,5 +1202,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                 src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
 </r>

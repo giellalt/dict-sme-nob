@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r id="smenob" xml:lang="sme">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic>
-      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -26,8 +23,7 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please alsuto note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
+     </sourcenote></lics>
    <e usage="vd">
       <lg>
          <l pos="N">ribborábbu</l>
@@ -196,10 +192,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">det å være våken</t>
-           <xg>
-            <x>Leatgo gozuid alde velge?</x>
-            <xt>Er du framdeles våken?</xt>
-	   </xg>
+            <xg>
+               <x>Leatgo gozuid alde velge?</x>
+               <xt>Er du framdeles våken?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -623,8 +619,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-           <re>i avis</re>
-           <t pos="N">leder</t>
+            <re>i avis</re>
+            <t pos="N">leder</t>
          </tg>
       </mg>
    </e>
@@ -701,7 +697,7 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="N">fitnan</l>
-    </lg>
+      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">visitt</t>
@@ -711,8 +707,8 @@ For the full license text, see the link above.</lic>
    <e usage="vd">
       <lg>
          <l pos="N">fidnooahppu</l>
-           <lsub>fitnooahppu</lsub>
-    </lg>
+         <lsub>fitnooahppu</lsub>
+      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">yrkesopplæring</t>
@@ -875,7 +871,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="N">ruksesruonáráđđehus</l>
       </lg>
@@ -1289,7 +1285,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="N" nr="Pl">adnongálvomárkanat</l>
       </lg>
@@ -1510,7 +1506,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="N">sopelime</t>
-              <xg>
+            <xg>
                <x>Váldde suohpala ja suohpalastte láhtti!</x>
                <xt>Ta sopelimen og kost golvet!</xt>
             </xg>
@@ -2001,7 +1997,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">trehus</t>
          </tg>
       </mg>
-   </e>     
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">sále</l>
@@ -2011,7 +2007,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">sal</t>
          </tg>
       </mg>
-   </e>     
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">gávpeguovddáš</l>
@@ -2021,7 +2017,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">kjøpesenter</t>
          </tg>
       </mg>
-   </e>     
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">gávpotguovddáš</l>
@@ -2041,7 +2037,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">forsamlingslokale</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">badjesápmi</l>
@@ -2051,7 +2047,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">reindriftssame</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">gilvočuoigan</l>
@@ -2061,7 +2057,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">skirenn</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">bivttasčájehallan</l>
@@ -2071,7 +2067,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">klesvisning</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">čuovgaláhttu</l>
@@ -2081,7 +2077,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">lysløype</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">heargevuodjingilvu</l>
@@ -2091,7 +2087,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">reinkappkjøring</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">sámegákti</l>
@@ -2101,7 +2097,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">samekofte</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">hearvabáddi</l>
@@ -2111,7 +2107,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">pynteband</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">headjaviessu</l>
@@ -2121,7 +2117,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">bryllupslokale</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l pos="N" nr="Pl">skárrit</l>
@@ -2151,7 +2147,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">utviklingsland</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">váhnenságastallan</l>
@@ -2162,7 +2158,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">foreldresamtale</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">luoikkaheapmi</l>
@@ -2172,7 +2168,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">utlån</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">bassinsággi</l>
@@ -2182,7 +2178,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">grillpinne</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">bárrastávvalvearba</l>
@@ -2192,7 +2188,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">likestavelsesverb</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">doavttergoansta</l>
@@ -2202,7 +2198,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">legekunst</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">girjeolggoš</l>
@@ -2212,7 +2208,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">bokomslag</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">loaktiniskkadeapmi</l>
@@ -2222,7 +2218,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">trivselsundersøkelse</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">loaktiniskkadanskovvi</l>
@@ -2232,7 +2228,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">trivselsundersøkelsesskjema</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">luonddunamahus</l>
@@ -2242,7 +2238,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">naturbenevnelse</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">mielkepáhkka</l>
@@ -2252,7 +2248,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">melkekartong</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">muorračoska</l>
@@ -2262,7 +2258,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">vedkubbe</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">neahttabihttá</l>
@@ -2272,7 +2268,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">nettoppgave</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">negatiivalohku</l>
@@ -2282,7 +2278,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">negativt tall</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">sámegieldiibmu</l>
@@ -2292,7 +2288,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">samisktime</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">persovdnapronomen</l>
@@ -2302,7 +2298,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">personlige pronomen</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">dánsun</l>
@@ -2312,7 +2308,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">dansing</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">kopiijaoriginála</l>
@@ -2324,7 +2320,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">kopioriginal</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">synonyma</l>
@@ -2345,7 +2341,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">navnemerke</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">persovdna</l>
@@ -2355,19 +2351,19 @@ For the full license text, see the link above.</lic>
             <t pos="N">person</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">preterihtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         	<re>om verb</re>
+            <re>om verb</re>
             <t pos="N">preteritum</t>
             <t pos="N">fortid</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">sektor</l>
@@ -2378,7 +2374,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">sektor</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">oahppomihttu</l>
@@ -2388,7 +2384,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">læringsmål</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">vahkkoulbmil</l>
@@ -2398,7 +2394,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">ukesmål</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">giellaoahpahus</l>
@@ -2408,7 +2404,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">språkundervisning</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">duohtavuohki</l>
@@ -2418,7 +2414,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">indikativ</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">olgoáigi</l>
@@ -2428,7 +2424,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">utetid</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">riddokultuvra</l>
@@ -2438,7 +2434,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">kystkultur</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">sektordiagrámma</l>
@@ -2448,7 +2444,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">sektordiagram</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">skuvlaálgin</l>
@@ -2458,7 +2454,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">skolestart</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">vahkkoplána</l>
@@ -2468,7 +2464,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">ukeplan</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">čakčadeaivvadeapmi</l>
@@ -2478,7 +2474,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">høsttreff</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">skábmadeaivvadeapmi</l>
@@ -2488,7 +2484,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">mørketidstreff</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">muitalusboddu</l>
@@ -2498,8 +2494,8 @@ For the full license text, see the link above.</lic>
             <t pos="N">eventyrstund</t>
          </tg>
       </mg>
-   </e>  
-      <e usage="vd">
+   </e>
+   <e usage="vd">
       <lg>
          <l pos="N">lohkanboddu</l>
       </lg>
@@ -2508,7 +2504,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">lesestund</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">geassegirji</l>
@@ -2518,7 +2514,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">sommerbok</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">dihtorlatnja</l>
@@ -2529,7 +2525,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">datarom</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">čearpmatjoavku</l>
@@ -2593,7 +2589,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">arbeidsfred</t>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e usage="vd">
       <lg>
          <l pos="N">neahti</l>
@@ -4157,7 +4153,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="N">matte</l>
       </lg>
@@ -20363,8 +20359,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>om fugl</re>
-         <t decl="1" gen="f" pos="N">fjær</t>
+            <re>om fugl</re>
+            <t decl="1" gen="f" pos="N">fjær</t>
          </tg>
       </mg>
    </e>
@@ -35796,11 +35792,6 @@ For the full license text, see the link above.</lic>
             <t decl="2" gen="n" pos="N">stillas</t>
          </tg>
       </mg>
-<!--  hva er dette? Kommer fra risten.no    <mg>
-         <tg xml:lang="nob">
-            <t decl="1" gen="f" pos="N">stilling</t>
-         </tg>
-      </mg> -->
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -35822,7 +35813,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="N">sopelime</t>
-              <xg>
+            <xg>
                <x>Váldde luvddá ja luvde láhtti!</x>
                <xt>Ta sopelimen og kost golvet!</xt>
             </xg>
@@ -37760,7 +37751,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-         <re>om en manns søsters ektemann og om hustruens bror</re>    
+            <re>om en manns søsters ektemann og om hustruens bror</re>
             <t pos="N">svoger</t>
          </tg>
       </mg>
@@ -45203,14 +45194,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>om ektefellens søsters ektemann</re>
-         <t pos="N">svoger</t>
+            <re>om ektefellens søsters ektemann</re>
+            <t pos="N">svoger</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-         <re>om hustruens brors hustru</re>
-         <t pos="N">svigerinne</t>
+            <re>om hustruens brors hustru</re>
+            <t pos="N">svigerinne</t>
          </tg>
       </mg>
    </e>
@@ -110214,8 +110205,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="yyy" gen="xxx" pos="N">humus</t>
-             <t decl="yyy" gen="xxx" pos="N">mold</t>
-        </tg>
+            <t decl="yyy" gen="xxx" pos="N">mold</t>
+         </tg>
       </mg>
    </e>
    <e>
@@ -143510,7 +143501,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="N">viehkanskuovva</l>
       </lg>
@@ -153493,7 +153484,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
- <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="N">čuorvvasmearka</l>
       </lg>
@@ -159381,7 +159372,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="N">giehtagiella</l>
          <l_ref>seavagiella_n</l_ref>
@@ -159432,7 +159423,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="N">leavgageassin</l>
       </lg>
@@ -159611,7 +159602,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-			<re>om rein</re>
+            <re>om rein</re>
             <t pos="N">grynting</t>
          </tg>
       </mg>
@@ -159656,7 +159647,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e usage="vd">
+   <e usage="vd">
       <lg>
          <l pos="N">vilba</l>
       </lg>
@@ -159667,8 +159658,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-           <re>om menn</re>
-           <t pos="N">tremenning</t>
+            <re>om menn</re>
+            <t pos="N">tremenning</t>
          </tg>
       </mg>
    </e>
@@ -159773,5 +159764,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                 src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
 </r>

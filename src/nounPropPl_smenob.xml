@@ -4,20 +4,17 @@
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r id="smenob" xml:lang="sme">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic>
-      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -26,9 +23,8 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
-      <e usage="vd">
+     </sourcenote></lics>
+   <e usage="vd">
       <lg>
          <l pos="N" type="Prop" nr="Pl" sem_type="Obj">Gállábártnit</l>
          <lsub>Gállabártnit</lsub>
@@ -40,7 +36,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e usage="vd" src="sk">
+   <e usage="vd" src="sk">
       <lg>
          <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ivvárstádik</l>
       </lg>
@@ -95,9 +91,9 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skánit</l>
       </lg>
       <mg>
-	<tg xml:lang="nob">
-	  <t pos="N" type="Prop" sem_type="Plc" reg="Troms">Skånland</t>
-	</tg>
+         <tg xml:lang="nob">
+            <t pos="N" type="Prop" sem_type="Plc" reg="Troms">Skånland</t>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -105,9 +101,9 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Dálmmát</l>
       </lg>
       <mg>
-	<tg xml:lang="nob">
-	  <t pos="N" type="Prop" sem_type="Plc" reg="Finnmark">Kjelmøya</t>
-	</tg>
+         <tg xml:lang="nob">
+            <t pos="N" type="Prop" sem_type="Plc" reg="Finnmark">Kjelmøya</t>
+         </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
@@ -179,9 +175,9 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Várggát</l>
       </lg>
       <mg>
-	<tg xml:lang="nob">
-	  <t pos="N" type="Prop" sem_type="Plc" reg="Finnmark">Vardø</t>
-	</tg>
+         <tg xml:lang="nob">
+            <t pos="N" type="Prop" sem_type="Plc" reg="Finnmark">Vardø</t>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -1784,5 +1780,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                 src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
 </r>
