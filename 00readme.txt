@@ -241,3 +241,11 @@ FØR NESTE KOMPILERING:
 
 1. Sjekke at filene er oppdaterte slik at endringene som er gjort i kildefilene kommer med i ordboksfila, f.eks innføring av NomAct etc.
 
+========
+20141106
+========
+Action points to get the data on place:
+ - put a usage="nds" attribute on all src="fad" entries
+ - unify the files in src by pos (fad_only vs. rest)
+ - name files similarly to other dirs, where the file names are generated automatically
+
