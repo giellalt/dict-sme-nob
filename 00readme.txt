@@ -250,3 +250,20 @@ Action points to get the data on place:
  - name files similarly to other dirs, where the file names are generated automatically
  - extract all non-vd and non-fad entries into a separate directory
 
+====================================
+file name conventions for dict files
+====================================
+POS = N, V, A, Adv, Pron, etc.
+TYPE= Prop, Rel, Pers, Refl, ec.
+SPECIFIC-FEATURE = NomAg, G3, Pl, etc.
+SPECIFIC-DESCRIPTION = non-accepted, etc.
+SRC = source lang such as 'sme'
+TRG = target language such as 'nob'
+POS[_TYPE_SPECIFIC-FEATURE_SPECIFIC-DESCRIPTION]_SRCTRG.xml
+
+ex.:
+N_smenob.xml ==> POS_SRCTRG (common noun as default)
+N_Prop_smenob.xml ==> POS_TYPE_SRCTRG
+N_Prop_Pl_smenob.xml ==> POS_TYPE_SPECIFIC-FEATURE_SRCTRG
+N_Prop_Pl_non-accepted_smenob.xml => POS_TYPE_SPECIFIC-FEATURE_SPECIFIC-DESCRIPTION_SRCTRG
+
