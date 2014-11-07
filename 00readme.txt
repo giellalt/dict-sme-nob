@@ -267,3 +267,6 @@ N_Prop_smenob.xml ==> POS_TYPE_SRCTRG
 N_Prop_Pl_smenob.xml ==> POS_TYPE_SPECIFIC-FEATURE_SRCTRG
 N_Prop_Pl_non-accepted_smenob.xml => POS_TYPE_SPECIFIC-FEATURE_SPECIFIC-DESCRIPTION_SRCTRG
 
+TODO: docu has to be kept in sync (name and attribute changes)
+ techdoc/dicts/dictionarywork.jspwiki
+ techdoc/dicts/checklist.jspwiki
