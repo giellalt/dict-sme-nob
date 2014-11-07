@@ -604,6 +604,428 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">mii nu</l>
+         <analysis>Pron_Indef_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Indef_Sg_Acc">
+               <wordform>maid nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Gen">
+               <wordform>man nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Ill">
+               <wordform>masa nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Loc">
+               <wordform>mas nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Com">
+               <wordform>mainna nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Ess">
+               <wordform>manin nu</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">noe</t>
+            <xg>
+               <x>Ii oktage leat heakkaheađis, muhto mii nu dáidá leat dáhpáhuvvan.</x>
+               <xt>Ingen er i livsfare, men noe har trolig skjedd.</xt>
+            </xg>
+            <xg>
+               <x>Láđus gullui mii nu skoahpamin.</x>
+               <xt>Fra låven hørtes noe som raslet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">maid nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">noe</t>
+            <xg>
+               <x>Leat vuohttán maid nu Jorbaváris, jáhkkit ahte lea guovža.</x>
+               <xt>Vi har sett spor etter noe i Jorbavárri, vi tror det er en bjørn.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">man nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">noe</t>
+            <xg>
+               <x>Muhtin logaldalli boahtá muitalit man nu miellagiddevaš fáttá birra.</x>
+               <xt>En foreleser kommer for å fortelle om et eller annet interessant tema.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">masa nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">til noe</t>
+            <xg>
+               <x>Ruhtaskeaŋkka gal háliidan geavahit masa nu earái, nu go mátkkošteapmái.</x>
+               <xt>Pengegaven ønsker jeg å bruke på noe annet, slik som reising.</xt>
+            </xg>
+            <xg>
+               <x>Lea buorre ahte juoba masa nu orun dohkkemin.</x>
+               <xt>Det er bra at jeg i det minste ser ut til å kunne brukes til noe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">mas nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">av noe</t>
+            <xg>
+               <x>Dát veahkkeneavvu lea mas nu ráhkaduvvon, muhto mun in dieđe mii dat lea.</x>
+               <xt>Dette hjelpemiddelet er laget av noe. men jeg vet ikke hva det er.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">mainna nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">med noe</t>
+            <xg>
+               <x>Mainna nu Elle dáidá gal leat boahtán.</x>
+               <xt>Med noe har Elle vel kommet med.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">manin nu</l>
+         <lemma_ref lemmaID="mii nu_pron_indef">mii nu</lemma_ref>
+         <analysis>Pron_Indef_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">som noe</t>
+            <xg>
+               <x>Manin nu dat áigu šaddat, go geargá skuvllas.</x>
+               <xt>Noe skal han bli, når han blir ferdig med skolen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">vaikko mii</l>
+         <analysis>Pron_Indef_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Indef_Sg_Acc">
+               <wordform>vaikko maid</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Gen">
+               <wordform>vaikko man</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Ill">
+               <wordform>vaikko masa</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Loc">
+               <wordform>vaikko mas</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Com">
+               <wordform>vaikko mainna</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Ess">
+               <wordform>vaikko manin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">om så hva</t>
+            <xg>
+               <x>Mus lea vaikko mii dás.</x>
+               <xt>Jeg har hva som helst her.</xt>
+            </xg>
+            <xg>
+               <x>Somámus mánnávuođamuitu lea reahkaburgin go doppe lei vaikko mii gávdnamis, sihke njálgát ja
+               biktasat.</x>
+               <xt>Det morsomste barndomsminnet var å rote i sleden fordi der var om så hva å finne, både godteri og
+               klær.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">vaikko maid</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">om så hva</t>
+            <xg>
+               <x>Rieban doalvu vaikko maid bidjui, dadjá Eriksen.</x>
+               <xt>Reven fører hva som helst til hiet, sier Eriksen.</xt>
+            </xg>
+            <xg>
+               <x>Luosas han sáhttá vaikko maid ráhkadit.</x>
+               <xt>Av laksen kan man jo lage hva som helst.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">vaikko man</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">om så hvor</t>
+            <xg>
+               <x>Áddjá han lea vaikko man boaris juo, muhto dat ii gal hehtte su buori barggu bargamis.</x>
+               <xt>Bestefar er jo om så hvor gammel allerede, men det hindrer ham ikke fra å gjøre en god jobb.</xt>
+            </xg>
+            <xg>
+               <x>Mun oidnen vaikko man ollu olbmuid gávpogis.</x>
+               <xt>Jeg så om så hvor mye folk i byen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">vaikko masa</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">til hva som helst</t>
+            <xg>
+               <x>Dál fertet leat gearggus vaikko masa.</x>
+               <xt>Nå må du være klar for hva som helst.</xt>
+            </xg>
+            <xg>
+               <x>Dán leavgga sáhttá vaikko masa geavahit.</x>
+               <xt>Dette flagget kan brukes til hva som helst.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">vaikko mas</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">om så hvor</t>
+            <xg>
+               <x>Vaikko mas leaččat leamaš mielde, de fertet almmatge dán geahččaleami čađahit.</x>
+               <xt>Om så hva du har vært med på, må du likevel gjennomføre denne prøven.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">vaikko mainna</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">om så med hvilken</t>
+            <xg>
+               <x>Don fertet mátkkoštit lulás vaikko mainna.</x>
+               <xt>Du må reise sørover om så med hva.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">vaikko manin</l>
+         <lemma_ref lemmaID="vaikko mii_pron_indef">vaikko mii</lemma_ref>
+         <analysis>Pron_Indef_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">om så hvordan</t>
+            <xg>
+               <x>Gal mu nai gohčodedje vaikko manin skuvllas.</x>
+               <xt>Også meg kalte de nok for hva som helst på skolen.</xt>
+            </xg>
+            <xg>
+               <x>Golggotmánu 31. beaivvi sáhttet sihke mánát ja ollesolbmot gárvodit vaikko manin ja vázzit dáluin ja
+               jearrat njálgáid dahje gáhkuid.</x>
+               <xt>31. oktober kan både barn og voksne kle seg om så hvordan og gå fra hus til hus og spørre etter
+               goderi eller kaker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">gii nu</l>
+         <analysis>Pron_Indef_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Indef_Sg_Acc/Gen">
+               <wordform>gean nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Ill">
+               <wordform>geasa nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Loc">
+               <wordform>geas nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Sg_Com">
+               <wordform>geainna nu</wordform>
+            </analysis>
+            <analysis ms="Pron_Indef_Ess">
+               <wordform>geanin nu</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">noen</t>
+            <xg>
+               <x>Jus guoli áiggošedje bivddestit, de sii fertejit oastit jándorkoartta seamma go gii nu eará golgolaš
+               guovllus.</x>
+               <xt>Hvis de ønsker å fiske fisk, må de kjøpe døgnkort slik som alle andre omstreifere i området.</xt>
+            </xg>
+            <xg>
+               <x>Láđus gullui gii nu skoahpamin. Lei go son dat Elle?</x>
+               <xt>Fra låven hørtes noen som raslet. Tro om det var Elle?</xt>
+            </xg>
+            <xg>
+               <x>Gii nu lea váidán lobihis biilavuodjima politiijaide.</x>
+               <xt>Noen har anmeldt den ulovlige bilkjøringen til politiet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">gean nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Acc</analysis>
+         <analysis>Pron_Indef_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">noen</t>
+            <xg>
+               <x>Gili olbmot dárbbašit gean nu gii sáhtášii jođánit čoavdit dán ášši.</x>
+               <xt>Bygdefolket trenger noen som fort kan løse denne saken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">geasa nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">til noen</t>
+            <xg>
+               <x>Viimmat son ge lei geasa nu ávkin.</x>
+               <xt>Endelig var Elle til nytte for noen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">geas nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Loc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">av noen</t>
+            <xg>
+               <x>Livččii jallodat gáddit ahte mus dahje geas nu earás livčče miella dan bargat.</x>
+               <xt>Det hadde vært dumt å tro at jeg eller noen andre har lyst til å gjøre det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">geainna nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">med noen</t>
+            <xg>
+               <x>Jus ovttasge lea dárbu geainna nu háleštit dáhpáhusa birra, de lea mis doppe olmmoš geainna sáhttá
+               váldit oktavuođa</x>
+               <xt>Hvis noen har behov for å prate med noen om hendelsen, så har vi folk der som man kan ta kontakt
+               med.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Indef" pg="no">geanin nu</l>
+         <lemma_ref lemmaID="gii nu_pron_indef">gii nu</lemma_ref>
+         <analysis>Pron_Indef_Ess</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Indef">som noen</t>
+            <xg>
+               <x>Geanin nu dat logai dan olbmo, muhto in muitte šat geanin.</x>
+               <xt>Hun sa hvem han var, men jeg husker ikke lenger hvem.</xt>
+            </xg>
+            <xg>
+               <x>Háliidan leat geanin nu.</x>
+               <xt>Jeg vil være en eller annen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
                  src="../../scripts/gt_dictionary.js"
                  type="text/javascript"/>
