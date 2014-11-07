@@ -24,104 +24,129 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-   <e usage="vd">
+   <e src="nj" usage="vd">
       <lg>
-         <l pos="Interj">vuoi ihán</l>
+         <l pos="CC">sihke</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Interj">oi</t>
-            <t pos="Interj">å dæven</t>
+            <t pos="CC">både</t>
             <xg>
-               <x>Vuoi ihán, don leat čeahppi.</x>
-               <xt>Oi, så flink du er.</xt>
-            </xg>
-            <xg>
-               <x>Vuoi ihán, dáppe lea moivvas.</x>
-               <xt>Å dæven, det er rotete her.</xt>
+               <x>Dat lea sihke buorre ja heittot.</x>
+               <xt>Det er både bra og dårlig.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Interj">aa</l>
+         <l pos="CC">dahege</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>uttrykk for at en nekter, avviser eller protesterer mot noe</re>
-            <t pos="i">nei</t>
-            <xg>
-               <x>Aa, dan in háliit.</x>
-               <xt>Nei, det vil jeg ikke.</xt>
-            </xg>
+            <t pos="CC">eller</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Interj">bures</l>
+         <l pos="CC">dahe</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>når man handhilser</re>
-            <t pos="adv">god dag</t>
-            <xg>
-               <x>Bures!</x>
-               <xt>God dag!</xt>
-            </xg>
+            <t pos="CC">eller</t>
          </tg>
       </mg>
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Interj">já</l>
+         <l pos="CC">dahjege</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Interj">jasså</t>
+            <t pos="CC">eller</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Interj">dearvva</l>
+         <l pos="CC">dahje</l>
+         <l_ref>vai_cc</l_ref>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Interj">hei</t>
+            <t pos="CC">eller</t>
+            <xg>
+               <x>Buohkat ledje gávdnan biktasiid dahje eará dávviriid maid háliidedje oastit.</x>
+               <xt>Alle hadde funnet klær eller andre ting som de ville kjøpe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="CC">dehege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CC">eller</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="CC">dehe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CC">eller</t>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Interj">gea</l>
+         <l pos="CC">ja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">se</t>
+            <t pos="CC">og</t>
             <xg>
-               <x>Gea, beana skierbmu!</x>
-               <xt>Se, hunden halter!</xt>
+               <x>Dat lea sihke buorre ja heittot.</x>
+               <xt>Det er både bra og dårlig.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Interj">vuoi</l>
+         <l pos="CC">muhto</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="i">akk</t>
-            <t pos="i">å</t>
+            <t pos="CC">men</t>
             <xg>
-               <x>Vuoi, go lea váivi.</x>
-               <xt>Å akk, hvor trist det er.</xt>
+               <x>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</x>
+               <xt>Jeg kan godt hjelpe deg, men i dag har jeg ikke tid.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="CC">vai</l>
+         <l_ref>dahje_cc</l_ref>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>i spørsmål om to alternativer</re>
+            <t pos="CC">eller</t>
+            <xg>
+               <x>Leat go don dat guhte galgá boahtit, vai galgat go mii vuordit muhtun eará?</x>
+               <xt>Er du den som skal komme, eller skal vi vente på en annen?</xt>
             </xg>
             <xg>
-               <x>Vuoi, man somá go soamis mus maid ballá.</x>
-               <xt>Å, så artig at noen er redd for meg også.</xt>
+               <x>Siđat go gáfe vai deaja?</x>
+               <xt>Vil du ha kaffe eller te?</xt>
             </xg>
          </tg>
       </mg>
