@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r id="smenob" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+          Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">vuosttasjienasteaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">førstegangsvelger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">bohccebargi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">rørlegger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">bálkábargi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">lønnsmottaker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">fidnobargi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">yrkesutøver</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">fievrredanbargi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">transportarbeider</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">albmadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">angiver</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">asttoáiggejođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">fritidsleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">bearašmánáidgárdejođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">familiebarnehagestyrer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">birasgáhttenjođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">miljøvernleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">buvttadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">produksjonsleder</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">produsent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">bággolonisteaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">ekspropriant</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">cavgileaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">sufflør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">dagaheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">bestiller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">dieđiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">rapportør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">digaštallanjođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">debattleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">diŋgonbuvttadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">ordreprodusent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">doaibmajođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">driftsbestyrer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">doaibmaoaivadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">tiltakskonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">doallosárdnideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">festtaler</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">dohkkeheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">akseptant</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">dustejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">mottaker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">dáhkideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">kausjonist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">dásseárvoáittardeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="n" pos="N">likestillingsombud</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">eaiggátgáibideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">eierpretendent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ealáhusjođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">næringskonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">eanamihtideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">landmåler</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ekonomioaivadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">økonomikonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">eretfárrejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">utflyttet person</t>
+            <t decl="2" gen="m" pos="N">utflytter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">evttoheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">forslagstiller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">fidnobagadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">yrkesveileder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">fitnošeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">foretaker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">gaskkusteaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">kommisjonær</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">geavahusáittardeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="n" pos="N">forbrukerombud</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">giellaoaivadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">språkkonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">gohččunovddasvástideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">innkallingsansvarlig person</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">govvideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">fotograf</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">gozihanoahpaheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">tilsynslærer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">goziheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">inspisient</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">guohtunoaivadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">beitekonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">gáibideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">pretendent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">gávpehálddašeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">handelsforvalter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">hálddašeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">administrator</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">oppsitter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">jienaalideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">høyttaler</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">johtolatvárdádeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">trafikkovervåker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">johttivuovdaleaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">dørselger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">jáddadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="irr" gen="m" pos="N">brannmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">kantiidnajođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">kantineleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">kulturoaivadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">kulturkonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">kuvllasuhppejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">kulestøter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">kánttordoaimmaheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">kontorfullmektig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">kánttorjođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">kontorleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">lihkadanhábmejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">koreograf</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">lávdehábmejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">scenograf</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">mun-muitaleaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">jeg-forteller</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">mánáidsuodjalusjođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">barnevernsleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">oahpahusgoziheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">undervisningsinspektør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">opmodatsoabaheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">eiendomsmekler</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ovdaságasteaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">foredragsholder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ovttagálvobuvttadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">envareprodusent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ovttaoaivvildeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">meningsfelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">panelajođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">panelleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">panelaoasseváldi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">paneldeltaker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">preassadieđiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="irr" gen="m" pos="N">pressetalsmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">proseassafámuheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">prosessfullmektig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">rehketdoallodárkkisteaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">revisor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">riikasoabaheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="irr" gen="m" pos="N">riksmeklingsmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ruhtaluvvejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">kapitalsterk investor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">skeŋkejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">donator</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">skierrobálkesteaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">diskoskaster</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">skuvlajođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">rektor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">sosiálaoaivadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">sosialkonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">stevnneheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="indecl" gen="m" pos="N">innstevnede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">stivrejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">styrer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">suodjalusáittardeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="n" pos="N">verneombud</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">sveisejeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">sveiser</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">sáttagoddejođiheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">delegasjonsleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">tabuláhtorbisseheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">tabulatorstopper</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">velggoheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">fordringshaver</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">velgoheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">kreditor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">viessooaivadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">boligveileder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">vuoigatvuođagáibideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">rettighetspretendent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">vuostegáibideaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">motpretendent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">vuosttašoaivadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">førstekonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">áittardeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="irr" gen="m" pos="N">årmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ámtadoaimmaheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">amtsfullmektig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">čoakkáldatgoziheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">samlingsstyrer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">čálačájeheaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">skriftprosjektor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">badjeliigeahčči</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="irr" gen="m" pos="N">tilsynsmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">bajimusbearráigeahčči</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="irr" gen="m" pos="N">overoppsynsmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">bieggajorri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="f" pos="N">vindmølle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">bođuidvuovdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">detaljist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">buhcciiddikšu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">sykepleier</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">bábirdoalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">konseptholder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">dieđihangeatnegahtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="n">meldepliktig person</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">diggeoasseváldi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">tingdeltaker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">diskonterenbuvttadahkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">diskonteringsfaktor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">doaibmalobidoalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">konsesjonsinnehaver</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">dálloruhtadoalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">husøkonom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">fiilagieđahalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">filbehandler</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">fálesbivdohistorjádutki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">hvalfangsthistoriker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">geađgejorgu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">steinvender</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">golloguoddi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">kostnadsbærer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">guorbmedoalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">lastbærer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">heahteorustahtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">nødstopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">hivssetalidahtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">toalettforhøyer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">luoddadoalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">vegholder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">lávdedávvirháhkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">rekvisitør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">meaddelvuoddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="indecl" gen="m" pos="N">forbikjørende</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">mierkávuoidi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">tåkesmører</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">njealjejuvllatdoaibmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="f" pos="N">firehjulsdrift</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">opmodatsoabadalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">eiendomsmekler</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ossodatbuhcciiddikšu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">avdelingssykepleier</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">ovdajuvladoaibmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="f" pos="N">forhjulsdrift</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">prográmmagieđahalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">programmanager</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">rekvisišuvdnačálli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">rekvirent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">riektehistorjádutki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">rettshistoriker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">riekteovdamanni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">rettsforgjenger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">sihkkarasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="f" pos="N">sikring</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">skuovvaalidahtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="f" pos="N">fotsåleforhøyning</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">vearroguitečálli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="irr" gen="m" pos="N">oppebørselmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">vuoigatvuođaguoddi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">rettighetsbærer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">vuostedigaštalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">debattmotstander</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">váldobuohccedikšu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">sjefsykepleier</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">áigodatguollebivdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">sesongfisker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">álbmotriekteáššedovdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">folkerettssakkyndig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">čáskadeaddji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="irr" gen="m" pos="N">brannmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="NomAg">áŋgirušši</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="2" gen="m" pos="N">forkjemper</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                 src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
+</r>
