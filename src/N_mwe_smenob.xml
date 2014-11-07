@@ -179,6 +179,48 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">bures boahtin</l>
+         <l_ref>buresboahtin_n</l_ref>
+         <analysis>Sg_Nom</analysis>
+         <analysis>Sg_Acc</analysis>
+         <mini_paradigm>
+            <analysis ms="Sg_Acc">
+               <wordform>bures boahtima</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">velkommen</t>
+            <xg>
+               <x>Bures boahtin buohkaide!</x>
+               <xt>Velkommen til alle!</xt>
+            </xg>
+            <xg>
+               <x>Mun ledjen bures boahtin ruoktot.</x>
+               <xt>Jeg var velkommen hjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">bures boahtima</l>
+         <lemma_ref lemmaID="bures boahtin_phrase_n">bures boahtin</lemma_ref>
+         <analysis>Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">velkommen</t>
+            <xg>
+               <x>Son sávai buohkaide bures boahtima.</x>
+               <xt>Hun ønsket alle velkommen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
                  src="../../scripts/gt_dictionary.js"
                  type="text/javascript"/>
