@@ -908,6 +908,122 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Num" pg="no">oktage</l>
+         <analysis>okta_Num_Sg_Nom_Foc/ge</analysis>
+         <mini_paradigm>
+            <analysis ms="okta_Num_Sg_Acc/Gen_Foc/ge">
+               <wordform>ovttage</wordform>
+            </analysis>
+            <analysis ms="okta_Num_Sg_Ill_Foc/ge">
+               <wordform>oktiige</wordform>
+            </analysis>
+            <analysis ms="okta_Num_Sg_Loc_Foc/ge">
+               <wordform>ovttasge</wordform>
+            </analysis>
+            <analysis ms="okta_Num_Sg_Com_Foc">
+               <wordform>ovttainge</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Num">en eneste</t>
+            <xg>
+               <x>Dáin maŋimuš jagiin ii gávdnon oktage govva.</x>
+               <xt>Fra de siste årene fantes ikke et eneste bilde.</xt>
+            </xg>
+            <xg>
+               <x>Jáhkán iežan áddet buorebut go oktage eará sudno jurdagiid.</x>
+               <xt>Jeg tror at jeg selv forstår deres tanker bedre enn noen annen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Num" pg="no">ovttage</l>
+         <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
+         <analysis>okta_Num_Sg_Acc_Foc/ge</analysis>
+         <analysis>okta_Num_Sg_Gen_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Num">en eneste</t>
+            <xg>
+               <x>Elle ii dovdda ovttage ođđa skuvllas.</x>
+               <xt>Elle kjenner ingen på den nye skolen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Num" pg="no">oktiige</l>
+         <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
+         <analysis>okta_Num_Sg_Ill_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Num">til en eneste</t>
+            <xg>
+               <x>Mii eat atte du persovdnadieđuid oktiige.</x>
+               <xt>Vi gir ikke dine personopplysninger til noen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Num" pg="no">ovttasge</l>
+         <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
+         <analysis>okta_Num_Sg_Loc_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Num">i en eneste</t>
+            <t pos="Num">hos en eneste</t>
+            <xg>
+               <x>Leat go ovttasge gámasuoinnit vuovdit?</x>
+               <xt>Har noen sennagress til salgs?</xt>
+            </xg>
+            <xg>
+               <x>Lei nu fiinnis go eai ovttasge lean seammalágan gárvvut.</x>
+               <xt>Det var så fint at ingen hadde likedanne klær.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Num">fra en eneste</t>
+            <xg>
+               <x>Ođđa hálddašeapmi ii galgga gal ovttasge rivvet vuoigatvuođaid.</x>
+               <xt>Den nye forvaltningen skal ikke ta rettigheter fra noen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Num" pg="no">ovttainge</l>
+         <lemma_ref lemmaID="oktage_num">oktage</lemma_ref>
+         <analysis>okta_Num_Sg_Com_Foc/ge</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Num">med en eneste</t>
+            <xg>
+               <x>Mis ii leat leamaš šiehtadus ovttainge njuovahagain.</x>
+               <xt>Vi har ikke hatt avtaler med noen slakteri.</xt>
+            </xg>
+            <xg>
+               <x>Sii eai leat hupman ovttainge heahteveahki birra.</x>
+               <xt>De har ikke snakket med noen om krisehjelp.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
                  src="../../scripts/gt_dictionary.js"
                  type="text/javascript"/>
