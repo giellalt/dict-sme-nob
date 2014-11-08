@@ -246,9 +246,16 @@ FØR NESTE KOMPILERING:
 ========
 Action points to get the data on place:
  - put a usage="nds" attribute on all src="fad" entries
+   ==> done
+
  - unify the files in src by pos (fad_only vs. rest)
+   ==> done
+ 
  - name files similarly to other dirs, where the file names are generated automatically
+   ==> done
+
  - extract all non-vd and non-fad entries into a separate directory
+   ==> done
 
 ====================================
 file name conventions for dict files
