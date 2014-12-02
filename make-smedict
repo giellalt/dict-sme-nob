@@ -19,7 +19,7 @@
 # save result as *dict.fst
 # the resulting fst to be used to test dict content
 
-XFST = hfst-xfst
+XFST = xfst
 
 JV   = java
 MF   = -Xmx2048m
@@ -66,8 +66,7 @@ bin/smelemmalist.txt: $(SRC) \
                     $(SCRIPTS)/$(DICT)
 	@echo 
 	$(BEGIN)
-	echo "$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/$(DICT) dir=../smenob/$< > ../smenob/$@"
-	xsltproc $(XSL) $(EF) $(SCRIPTS)/$(DICT) dir=../smenob/$< > ../smenob/$@
+	$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/$(DICT) dir=../smenob/$< > ../smenob/$@
 	@echo
 	$(END)
 	@echo
@@ -88,8 +87,7 @@ bin/vdlemmalist.txt: $(SRC) \
                     $(SCRIPTS)/$(VDDICT)
 	@echo 
 	$(BEGIN)
-	echo "$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/$(VDDICT) dir=../smenob/$< > ../smenob/$@"
-	xsltproc $(XSL) $(EF) $(SCRIPTS)/$(VDDICT) dir=../smenob/$< > ../smenob/$@
+	$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/$(VDDICT) dir=../smenob/$< > ../smenob/$@
 	@echo
 	$(END)
 	@echo
@@ -110,8 +108,7 @@ bin/nonvdlemmalist.txt: $(SRC) \
                     $(SCRIPTS)/$(NONVDDICT)
 	@echo 
 	$(BEGIN)
-	echo "$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/$(NONVDDICT) dir=../smenob/$< > ../smenob/$@"
-	xsltproc $(XSL) $(EF) $(SCRIPTS)/$(NONVDDICT) dir=../smenob/$< > ../smenob/$@
+	$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/$(NONVDDICT) dir=../smenob/$< > ../smenob/$@
 	@echo
 	$(END)
 	@echo
