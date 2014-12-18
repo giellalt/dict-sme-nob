@@ -307,6 +307,56 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e usage="vd">
       <lg>
+         <l pos="N">sátneortnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordrekkefølge</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">syntáksa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">syntaks</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">superlatiiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">superlativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">sojahangeažus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bøyningsendelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">sojahanhápmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bøyningsform</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="N">geažus</l>
       </lg>
       <mg>
@@ -429,6 +479,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="N">kongruens</t>
          </tg>
+         <tg xml:lang="nob">
+            <re>om grammatikk</re>
+            <t pos="N">overensstemmelse</t>
+         </tg>
       </mg>
    </e>
    <e usage="vd">
@@ -438,6 +492,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kontrakt stamme</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">sadjehápmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kasus</t>
          </tg>
       </mg>
    </e>
@@ -489,6 +553,27 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nominativform</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">preseansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">presens</t>
+            <t pos="N">nåtid</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">substantiiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">substantiv</t>
          </tg>
       </mg>
    </e>
@@ -2471,6 +2556,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e usage="vd">
       <lg>
+         <l pos="N">relatiivapronomen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">relativt pronomen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="N">persovdnapronomen</l>
       </lg>
       <mg>
@@ -2529,6 +2624,29 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N">person</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">vearbagenetiiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om verb</re>
+            <t pos="N">verbgenitiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">vássánáigi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om verb</re>
+            <t pos="N">preteritum</t>
+            <t pos="N">fortid</t>
          </tg>
       </mg>
    </e>
@@ -40105,6 +40223,26 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">váldocealkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">hovedsetning</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">oaivecealkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="N">hovedsetning</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l pos="N">oalgi</l>
@@ -58063,6 +58201,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e usage="vd">
       <lg>
+         <l pos="N">genitiiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="yyy" gen="m" pos="N">genitiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="N">genetiiva</l>
       </lg>
       <mg>
@@ -68067,7 +68215,18 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <e src="fad" usage="nds">
+   <e usage="vd">
+      <lg>
+         <l pos="N">spiehkastat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">unntak</t>
+            <t pos="N">avvik</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="fad" usage="nds">
       <lg>
          <l pos="N">doaimmahatovddasvástádus</l>
       </lg>
@@ -121703,6 +121862,26 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">subjunkšuvdna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">subjunksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">subjeakta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">subjekt</t>
+         </tg>
+      </mg>
+   </e>
    <e src="fad" usage="nds">
       <lg>
          <l pos="N">riektesubjeakta</l>
@@ -174939,6 +175118,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">relatiivacealkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">relativsetning</t>
+         </tg>
+      </mg>
+   </e>
    <e src="fad" usage="nds">
       <lg>
          <l pos="N">liigecealkka</l>
@@ -188621,6 +188810,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <re>økonomiske ressurser knyttet til næring</re>
             <t pos="N">næringsmiddel</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">deaddostávval</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trykksterk stavelse</t>
          </tg>
       </mg>
    </e>
