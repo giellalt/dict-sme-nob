@@ -26,6 +26,26 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e usage="vd">
       <lg>
+         <l pos="N">vokála</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vokal</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">ipmilbilkádus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blasfemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="N">stáffu</l>
       </lg>
       <mg>
@@ -26844,7 +26864,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">golmmas</l>
+         <l illpl="no" pos="N" type="Coll">golmmas</l>
          <lc>golbmasa</lc>
       </lg>
       <mg>
@@ -28535,7 +28555,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N" vmax="4">guovttis</l>
+         <l illpl="no" pos="N" type="Coll" vmax="4">guovttis</l>
          <lc>guoktása</lc>
       </lg>
       <mg>
@@ -28546,7 +28566,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">guovttos</l>
+         <l illpl="no" pos="N" type="Coll">guovttos</l>
          <lc>guoktá</lc>
       </lg>
       <mg>
@@ -28763,7 +28783,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">guđas</l>
+         <l illpl="no" pos="N" type="Coll">guđas</l>
          <lc>guhttasa</lc>
       </lg>
       <mg>
@@ -29771,7 +29791,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">gávccis</l>
+         <l illpl="no" pos="N" type="Coll">gávccis</l>
          <lc>gákcása</lc>
       </lg>
       <mg>
@@ -35504,9 +35524,19 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l illpl="no" pos="N" type="Coll">čiežas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t gen="m" pos="N">sju personer</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">logis</l>
+         <l illpl="no" pos="N" type="Coll">logis</l>
          <lc>lohkása</lc>
       </lg>
       <mg>
@@ -37468,7 +37498,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">moattis</l>
+         <l illpl="no" pos="N" type="Coll">moattis</l>
          <lc>moaddása</lc>
       </lg>
       <mg>
@@ -38493,7 +38523,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="N">máŋggas</l>
+         <l pos="N" type="Coll">máŋggas</l>
          <lc>máŋgasa</lc>
       </lg>
       <mg>
@@ -38985,7 +39015,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">njealjis</l>
+         <l illpl="no" pos="N" type="Coll">njealjis</l>
          <lsub>njealjes</lsub>
          <lc>njealljása</lc>
       </lg>
@@ -40837,7 +40867,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">ovccis</l>
+         <l illpl="no" pos="N" type="Coll">ovccis</l>
          <lc>okcása</lc>
       </lg>
       <mg>
@@ -48413,7 +48443,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l illpl="no" pos="N">viđas</l>
+         <l illpl="no" pos="N" type="Coll">viđas</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
