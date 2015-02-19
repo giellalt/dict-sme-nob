@@ -30,6 +30,24 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Sg_Nom">
+               <wordform>dat</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
+               <wordform>dan</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>dasa</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>das</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>dainna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>danin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Nom">
                <wordform>dat viessu</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Acc/Gen">
@@ -212,6 +230,24 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l nr="Pl" pos="Pron" type="Dem">dat</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl_Nom">
+               <wordform>dat</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
+               <wordform>daid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>daidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>dain</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>daiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>danin</wordform>
+            </analysis>
             <analysis ms="Pron_Dem_Pl_Nom">
                <wordform>dat viesut</wordform>
             </analysis>
