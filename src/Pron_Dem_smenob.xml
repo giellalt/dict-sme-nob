@@ -66,7 +66,27 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Dem">den</t>
+            <t pos="Pron" type="Pers">den</t>
+            <t pos="Pron" type="Pers">det</t>
+            <xg>
+               <x>Beana ii láhppo, dat gal boahtá ruoktot.</x>
+               <xt>Hunden går seg ikke vill, den kommer hjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron" type="Pers">han</t>
+            <t pos="Pron" type="Pers">hun</t>
+            <xg>
+               <x>Elle ii čále, dat baicca lohká.</x>
+               <xt>Elle skriver ikke, hun leser heller.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det" type="Dem">den</t>
             <xg>
                <x>Oahpaheaddjis gal ii leat dat áigumuš.</x>
                <xt>Læreren har ikke den hensikten.</xt>
@@ -99,7 +119,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <re>nærmere meg enn deg</re>
-            <t pos="Pron" type="Dem">dette</t>
+            <t pos="Det" type="Dem">dette</t>
             <xg>
                <x>Leago dát duođasge Sámi Radio oaivil?</x>
                <xt>Er dette virkelig Sameradioens mening?</xt>
@@ -131,19 +151,19 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="Dem">den</t>
+            <re>nærmere deg enn meg eller som nettopp er nevnt</re>
+            <t pos="Pron" type="Pers">den</t>
             <xg>
                <x>Mii diet lea?</x>
-               <xt>Hva har du der?</xt>
+               <xt>Hva er det der?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">den</t>
-            <xg re="møtet som det nettopp har vært snakk om">
+            <re>nærmere deg enn meg eller som nettopp er nevnt</re>
+            <t pos="Det" type="Dem">den</t>
+            <xg>
                <x>Lea lunddolaš ahte diet čoahkkin dollo Álttás.</x>
                <xt>Det er naturlig at det møtet holdes i Alta.</xt>
             </xg>
@@ -174,7 +194,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Dem">det der borte</t>
+            <t pos="Pron" type="Pers">det der borte</t>
             <xg>
                <x>Mii duot lea?</x>
                <xt>Hva er det der?</xt>
@@ -183,10 +203,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Dem">det der</t>
+            <t pos="Det" type="Dem">det der</t>
             <xg>
                <x>Movt bat duot geafes čivga sáhtii du beastit?</x>
-               <xt>Og hvordan kunne den der fattige ungen redde deg?</xt>
+               <xt>Og hvordan kunne den fattige ungen der redde deg?</xt>
             </xg>
          </tg>
       </mg>
@@ -215,7 +235,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Dem">det lengst borte</t>
+            <t pos="Pron" type="Pers">det lengst borte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det" type="Dem">det lengst borte</t>
             <xg>
                <x>Ja dan dáfus eai dárbbaš ballat maid duot dahje dot riikabellodat dadjá jus sii oaivvildit nuo dahje
                ná.</x>
@@ -270,7 +295,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Dem">de</t>
+            <t pos="Det" type="Dem">de</t>
             <xg>
                <x>Sii leat dušše čujuhan sullii gos dat jávrrit leat.</x>
                <xt>De har bare vist til omtrentlig hvor de vannene er.</xt>
@@ -303,7 +328,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <re>nærmere meg enn deg</re>
-            <t pos="Pron" type="Dem">disse</t>
+            <t pos="Det" type="Dem">disse</t>
             <xg>
                <x>Gosa dolvot dát dáhpáhusat?</x>
                <xt>Hvor fører disse hendingene?</xt>
@@ -335,14 +360,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>nærmere meg enn deg</re>
-            <t pos="Pron" type="Dem">de</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">de</t>
+            <re>nærmere meg enn deg eller som nettopp er nevnt</re>
+            <t pos="Det" type="Dem">de</t>
             <xg>
                <x>Gal mun dál oainnán man duođat diet sánit leat maid vuoras olbmot lávejit lohkat.</x>
                <xt>Nå ser jeg hvor sanne de ordene er som gamle folk pleier å si.</xt>
@@ -374,7 +393,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Dem">de der borte</t>
+            <t pos="Pron" type="Pers">de der borte</t>
             <xg>
                <x>Geat bat duot leaba? jearai eadni.</x>
                <xt>Hvem er så de to der? spurte mor.</xt>
@@ -383,7 +402,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Dem">de der</t>
+            <t pos="Det" type="Dem">de der</t>
          </tg>
       </mg>
    </e>
@@ -411,7 +430,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Dem">de lengst borte</t>
+            <t pos="Pron" type="Pers">de lengst borte</t>
          </tg>
       </mg>
    </e>
@@ -744,17 +763,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">det</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">det</t>
-            <xg re="det som vi nettopp snakket om">
+            <re>som er nærmere deg eller som nettopp er nevnt</re>
+            <xg>
                <x>Sii eai gal leat dien birra jurddašan nu olu.</x>
-               <xt>De har nok ikke tenkt så mye på det.</xt>
+               <xt>De har nok ikke tenkt så mye på det (som vi nettopp snakket om).</xt>
             </xg>
          </tg>
       </mg>
@@ -767,17 +779,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">til det</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">til det</t>
-            <xg re="det som vi nettopp nevnte">
+            <re>som er nærmere deg eller som nettopp er nevnt</re>
+            <t pos="Pron" type="Pers">til det</t>
+            <xg>
                <x>Eai sii nu beare olu ruđa gal jurddaš diesa geavahit.</x>
-               <xt>De tenker ikke på å bruke så mye penger på det.</xt>
+               <xt>De tenker ikke på å bruke så mye penger på det (vi nettopp nevnte).</xt>
             </xg>
          </tg>
       </mg>
@@ -790,14 +796,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">av det</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">av det</t>
+            <re>som er nærmere deg eller som nettopp er nevnt</re>
+            <t pos="Pron" type="Pers">av det</t>
             <xg>
                <x>Ja dies mun fuobmájin ge ođđa ealáhusa.</x>
                <xt>Og av det oppdaget jeg da også en ny næring.</xt>
