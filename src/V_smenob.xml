@@ -3113,7 +3113,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             </xg>
             <xg>
                <x>Gos nu čiekŋalasas bohciidedje ártegis jurdagat.</x>
-               <xt>Fra et sted i dypet dukket det opp rare tanker.</xt>
+               <xt>Fra et sted i dypet oppsto det opp rare tanker.</xt>
             </xg>
          </tg>
       </mg>
@@ -15457,12 +15457,18 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">fremme</t>
             <xg>
-               <x>Diibmu ovddida.</x>
-               <xt>Klokka går for fort.</xt>
-            </xg>
-            <xg>
                <x>SI ulbmil lea dutkama bokte nannet ja ovddidit sámi giela, kultuvrra ja servodateallima.</x>
                <xt>SIs mål er via forsking å styrke og fremme samisk språk, kultur og samfunnsliv.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om klokka</re>
+            <t pos="V">gå for fort</t>
+            <xg>
+               <x>Diibmu ovddida.</x>
+               <xt>Klokka går for fort.</xt>
             </xg>
          </tg>
       </mg>
