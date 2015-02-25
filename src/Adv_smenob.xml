@@ -26,6 +26,96 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e usage="vd">
       <lg>
+         <l pos="Adv" pg="no">muhtun muddui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">til en viss grad</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv" pg="no">man láhkai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på hvilken måte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv" pg="no">iešguđet ládje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på forkjellige måter</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv" pg="no">minuvttat nala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på minuttet</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv" pg="no">minuvttat ala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på minuttet</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv" pg="no">diimmut nala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på timen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv" pg="no">diimmut ala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på timen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv" pg="no">beaivvát nala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på dagen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="Adv" pg="no">beaivvát ala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på dagen</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="Adv" pg="no">gaskaneame</l>
          <analysis>Adv_PxDu1</analysis>
       </lg>
@@ -7577,6 +7667,21 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e usage="vd">
       <lg>
+         <l pos="Adv">eará láhkai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="x">på en annen måte</t>
+            <t pos="x">annerledes</t>
+            <xg>
+               <x>Vaikko mun jurddašan eará láhkai go dii, de ehpet oaččo mu hárdit.</x>
+               <xt>Selv om jeg tenker på en annen måte enn dere, så får dere ikke lov til å erte meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="Adv">eará ládje</l>
          <lsub>earaládje</lsub>
          <lsub>earáládje</lsub>
@@ -7584,6 +7689,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="x">på en annen måte</t>
+            <t pos="x">annerledes</t>
             <xg>
                <x>Vaikko mun jurddašan eará ládje go dii, de ehpet oaččo mu hárdit.</x>
                <xt>Selv om jeg tenker på en annen måte enn dere, så får dere ikke lov til å erte meg.</xt>
@@ -7761,21 +7867,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e usage="vd">
       <lg>
-         <l pos="Adv">seamma láhkái</l>
-         <lsub>seammaláhkái</lsub>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">på samme måte</t>
-            <xg>
-               <x>Eará bivdojoavkkut fertejit maid dahkat juste seamma láhkái.</x>
-               <xt>Andre jaktlag må også gjøre det på samme måte.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="Adv">seamma láhkai</l>
          <lsub>seammaláhkai</lsub>
       </lg>
@@ -7785,21 +7876,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <xg>
                <x>Eará bivdojoavkkut fertejit maid dahkat juste seamma láhkai.</x>
                <xt>Andre jaktlag må også gjøre det på samme måte.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="Adv">seammá ládje</l>
-         <lsub>seammáládje</lsub>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">på samme måte</t>
-            <xg>
-               <x>Dasa lassin lea son sáŋgár, seammá ládje go Batman ja Superman.</x>
-               <xt>I tillegg er han en helt, på samme måte som Batman og Superman.</xt>
             </xg>
          </tg>
       </mg>
