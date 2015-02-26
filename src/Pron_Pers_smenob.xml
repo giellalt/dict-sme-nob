@@ -54,6 +54,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">jeg</t>
             <xg>
+               <x>mon lean</x>
+               <xt>jeg er</xt>
+            </xg>
+            <xg>
                <x>mus lea</x>
                <xt>jeg har</xt>
             </xg>
@@ -90,6 +94,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">jeg</t>
+            <xg>
+               <x>mun lean</x>
+               <xt>jeg er</xt>
+            </xg>
             <xg>
                <x>mus lea</x>
                <xt>jeg har</xt>
@@ -201,6 +209,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">vi to</t>
             <xg>
+               <x>moai letne</x>
+               <xt>vi to er</xt>
+            </xg>
+            <xg>
                <x>munnos lea</x>
                <xt>vi to har</xt>
             </xg>
@@ -235,6 +247,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">dere to</t>
+            <xg>
+               <x>doai leahppi</x>
+               <xt>dere to er</xt>
+            </xg>
             <xg>
                <x>dudnos lea</x>
                <xt>dere to har</xt>
@@ -271,6 +287,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">de to</t>
             <xg>
+               <x>soai leaba</x>
+               <xt>de to er</xt>
+            </xg>
+            <xg>
                <x>sudnos lea</x>
                <xt>de to har</xt>
             </xg>
@@ -305,6 +325,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">vi</t>
+            <xg>
+               <x>mii leat</x>
+               <xt>vi er</xt>
+            </xg>
             <xg>
                <x>mis lea</x>
                <xt>vi har</xt>
@@ -341,6 +365,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">dere</t>
             <xg>
+               <x>dii lehpet</x>
+               <xt>dere er</xt>
+            </xg>
+            <xg>
                <x>dis lea</x>
                <xt>dere har</xt>
             </xg>
@@ -376,6 +404,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">de</t>
             <xg>
+               <x>sii leat</x>
+               <xt>de er</xt>
+            </xg>
+            <xg>
                <x>sis lea</x>
                <xt>de har</xt>
             </xg>
@@ -398,6 +430,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Poss">min</t>
             <t pos="Pron" type="Poss">mine</t>
+            <xg>
+               <x>Dát lea mu girji.</x>
+               <xt>Dette er min bok.</xt>
+            </xg>
+            <xg>
+               <x>Dát leat mu girjjit.</x>
+               <xt>Dette er mine bøker.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -410,6 +450,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til meg</t>
+            <xg>
+               <x>Muital munnje!</x>
+               <xt>Fortell til meg!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -422,6 +466,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">jeg (har)</t>
+            <xg>
+               <x>mus lea</x>
+               <xt>jeg har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -446,6 +494,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">som meg</t>
+            <xg>
+               <x>Don sáhtát logget dihtorii munin.</x>
+               <xt>Du kan logge deg inn på datamasinen som meg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -465,6 +517,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Poss">din</t>
             <t pos="Pron" type="Poss">dine</t>
+            <xg>
+               <x>Dát lea du girji.</x>
+               <xt>Dette er din bok.</xt>
+            </xg>
+            <xg>
+               <x>Dát leat du girjjit.</x>
+               <xt>Dette er dine bøker.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -477,6 +537,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til deg</t>
+            <xg>
+               <x>Muitalan dutje.</x>
+               <xt>Jeg forteller til deg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -489,6 +553,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">du (har)</t>
+            <xg>
+               <x>dus lea</x>
+               <xt>du har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -513,6 +581,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">som deg</t>
+            <xg>
+               <x>Sáhtángo logget dihtorii dunin.</x>
+               <xt>Kan jeg logge meg inn på datamasinen som deg?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -533,6 +605,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Poss">hans</t>
             <t pos="Pron" type="Poss">hennes</t>
+            <xg>
+               <x>Dát lea su girji.</x>
+               <xt>Dette er hennes bok.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -546,6 +622,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til han</t>
             <t pos="Pron" type="Pers">til henne</t>
+            <xg>
+               <x>Muital sutnje!</x>
+               <xt>Fortell til henne!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -559,6 +639,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">han (har)</t>
             <t pos="Pron" type="Pers">hun (har)</t>
+            <xg>
+               <x>sus lea</x>
+               <xt>hun har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -605,6 +689,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re>om to</re>
             <t pos="Pron" type="Poss">vår</t>
             <t pos="Pron" type="Poss">våre</t>
+            <xg>
+               <x>Dát lea munno girji.</x>
+               <xt>Dette er vår bok.</xt>
+            </xg>
+            <xg>
+               <x>Dát leat munno girjjit.</x>
+               <xt>Dette er våre bøker.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -617,6 +709,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til oss to</t>
+            <xg>
+               <x>Muital munnuide!</x>
+               <xt>Fortell til oss to!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -629,6 +725,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">vi to (har)</t>
+            <xg>
+               <x>munnos lea</x>
+               <xt>vi to har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -672,6 +772,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <re>om to</re>
             <t pos="Pron" type="Poss">deres</t>
+            <xg>
+               <x>Dát lea dudno girji.</x>
+               <xt>Dette er deres bok.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -684,6 +788,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til dere to</t>
+            <xg>
+               <x>Muitalan dudnuide.</x>
+               <xt>Jeg forteller til dere to.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -696,6 +804,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">dere to (har)</t>
+            <xg>
+               <x>dudnos lea</x>
+               <xt>dere to har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -739,6 +851,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <re>om to</re>
             <t pos="Pron" type="Poss">deres</t>
+            <xg>
+               <x>Dát lea sudno girji.</x>
+               <xt>Dette er deres bok.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -751,6 +867,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til de to</t>
+            <xg>
+               <x>Muital sudnuide!</x>
+               <xt>Fortell til de to!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -763,6 +883,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">de to (har)</t>
+            <xg>
+               <x>sudnos lea</x>
+               <xt>de to har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -806,6 +930,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="Pron" type="Poss">vår</t>
             <t pos="Pron" type="Poss">våre</t>
+            <xg>
+               <x>Dát lea min girji.</x>
+               <xt>Dette er vår bok.</xt>
+            </xg>
+            <xg>
+               <x>Dát leat min girjjit.</x>
+               <xt>Dette er våre bøker.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -818,6 +950,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til oss</t>
+            <xg>
+               <x>Muital midjiide!</x>
+               <xt>Fortell til oss!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -830,6 +966,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">vi (har)</t>
+            <xg>
+               <x>mis lea</x>
+               <xt>vi har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -872,6 +1012,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Poss">deres</t>
+            <xg>
+               <x>Dát lea din girji.</x>
+               <xt>Dette er deres bok.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -884,6 +1028,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til dere</t>
+            <xg>
+               <x>Muitalan didjiide.</x>
+               <xt>Jeg forteller til dere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -896,6 +1044,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">dere (har)</t>
+            <xg>
+               <x>dis lea</x>
+               <xt>dere har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -938,6 +1090,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Poss">deres</t>
+            <xg>
+               <x>Dát lea sin girji.</x>
+               <xt>Dette er deres bok.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -950,6 +1106,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">til dem</t>
+            <xg>
+               <x>Muital sidjiide!</x>
+               <xt>Fortell til dem!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -962,6 +1122,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron" type="Pers">de (har)</t>
+            <xg>
+               <x>sis lea</x>
+               <xt>de har</xt>
+            </xg>
          </tg>
       </mg>
    </e>
