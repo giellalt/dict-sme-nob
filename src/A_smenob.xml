@@ -1346,6 +1346,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l context="olmmoš" pos="A">spálžžas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="4" pos="A">skallet</t>
+            <t decl="4" pos="A">snauklipt</t>
+         </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l context="duottar" pos="A">báljis</l>
@@ -1354,7 +1365,19 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t decl="1" pos="A">bar</t>
+            <xg>
+               <x>Rádjá manná báljes duoddara badjel, čilge Balto.</x>
+               <xt>Grensa går over den bare vidda, forklarer Balto.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t decl="4" pos="A">skallet</t>
+            <xg>
+               <x>Dievddus lei báljes oaivi, ja hálai Romssa suopmana.</x>
+               <xt>Mannen var skallet og snakket Tromsø-dialekt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4901,12 +4924,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>tidligere tider</xt>
             </xg>
             <xg>
-               <x>mu ovddeš isit</x>
-               <xt>min tidligere ektemann</xt>
-            </xg>
-            <xg>
-               <x>mine tidligere ektemenn</x>
-               <xt>mu ovddeš isidat</xt>
+               <x>mu ovddeš isidat</x>
+               <xt>mine tidligere ektemenn</xt>
             </xg>
             <xg>
                <x>Dál leaba ovddeš Deatnugátte Nuoraid lávlu guovttos almmuhan skearru ovttas.</x>
