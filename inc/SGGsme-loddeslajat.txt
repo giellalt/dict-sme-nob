@@ -3,7 +3,8 @@ struhcca _ _ struts _ _ _ _ n _ _ Struthio camelus _ loddi
 gáhkkor _ _ smålom _ _ _ _ n _ _ Gavia stellata _ loddi 
 dovtta _ _ storlom _ _ _ _ n _ _ Gavia arctica _ loddi 
 áhpedovtta _ _ islom _ _ _ _ n _ _ Gavia immer _ loddi 
-fiskesnjunáhpedovtta, vilgesnjunáhpedovtta _ _ gulnebblom _ _ _ _ n _ _ Gavia adamsii _ loddi 
+fiskesnjunáhpedovtta _ _ gulnebblom _ _ _ vilgesnjunáhpedovtta _ n _ _ Gavia adamsii _ loddi 
+vilgesnjunáhpedovtta _ _ gulnebblom _ _ _ fiskesnjunáhpedovtta _ n _ _ Gavia adamsii _ loddi 
 deaggabuokčá _ _ dvergdykker _ _ _ _ n _ _ Tachybaptus ruficollis _ loddi 
 gassanjunbuokčá _ _ ringnebbdykker _ _ _ _ n _ _ Podilymbus podiceps _ loddi 
 sáitenjunbuokčá _ _ spydnebbdykker _ _ _ _ n _ _ Podiceps major _ loddi 
@@ -18,22 +19,23 @@ gonagasalbatrossa _ _ kongealbatross _ _ _ _ n _ _ Diomedea epomophora _ loddi
 čáhppesdielkoalbatrossa _ _ svartflekkalbatross _ _ _ _ n _ _ Diomedea cauta _ loddi 
 fiskesnjunalbatrossa _ _ tristanalbatross _ _ _ _ n _ _ Diomedea chlororhynchos _ loddi 
 ránesoaialbatrossa _ _ gråhodealbatross _ _ _ _ n _ _ Diomedea chrysostoma _ loddi 
- jiehtanasstoarbmaloddi _ _ sørkjempepetrell _ _ _ _ n _ _ Macronectes giganteus _ loddi 
+jiehtanasstoarbmaloddi _ _ sørkjempepetrell _ _ _ _ n _ _ Macronectes giganteus _ loddi 
 davvijiehtanasstoarbmaloddi _ _ nordkjempepetrell _ _ _ _ n _ _ Diomedea cauta _ loddi 
- bupmálas, bummálas _ _ havhest _ _ _ _ n _ _ Fulmarus glacialis _ loddi 
+bupmálas _ _ havhest _ _ _ bummálas _ n _ _ Fulmarus glacialis _ loddi 
+bummálas _ _ havhest _ _ _ bupmálas _ n _ _ Fulmarus glacialis _ loddi 
 káhpastoarbmaloddi _ _ flekkpetrell _ _ _ _ n _ _ Daption capense _ loddi 
 karibiastoarbmaloddi _ _ vestindiapetrell _ _ _ _ n _ _ Pterodroma hasitata _ loddi 
 stuorastoarbmaloddi _ _ hvitbukpetrell _ _ _ _ n _ _ Pterodroma incerta _ loddi 
 kermadecistoarbmaloddi _ _ kermadecpetrell _ _ _ _ n _ _ Pterodroma neglecta _ loddi 
 atlánttastoarbmaloddi _ _ silkepetrell _ _ _ _ n _ _ Pterodroma mollis _ loddi 
- kapverdestoarbmaloddi _ _ kappverdepetrell _ _ _ _ n _ _ Pterodroma feae _ loddi 
+kapverdestoarbmaloddi _ _ kappverdepetrell _ _ _ _ n _ _ Pterodroma feae _ loddi 
 madeirastoarbmaloddi _ _ madeirapetrell _ _ _ _ n _ _ Pterodroma madeira _ loddi 
 gožučeabestoarbmaloddi _ _ sotkragepetrell _ _ _ _ n _ _ Pterodroma leucoptera _ loddi 
 bulwerstoarbmaloddi _ _ spisshalepetrell _ _ _ _ n _ _ Bulweria bulwerii _ loddi 
 arábiastoarbmaloddi _ _ araberpetrell _ _ _ _ n _ _ Bulweria fallax _ loddi 
 vilgesgállosaddi _ _ hvitpannelire _ _ _ _ n _ _ Calonectris leucomelas _ loddi 
 fiskesnjunsaddi _ _ gulnebblire _ _ _ _ n _ _ Calonectris diomedea _ loddi 
- biddojuolgsaddi _ _ lysbeinlire _ _ _ _ n _ _ Puffinus carneipes _ loddi 
+biddojuolgsaddi _ _ lysbeinlire _ _ _ _ n _ _ Puffinus carneipes _ loddi 
 čuvgesjuolgsaddi _ _ lysbeinlire _ _ _ _ n _ _ Puffinus carneipes _ loddi 
 stuorrasaddi _ _ storlire _ _ _ _ n _ _ Puffinus gravis _ loddi 
 lohtebađošsaddi _ _ kilehalelire _ _ _ _ n _ _ Puffinus pacificus _ loddi 
@@ -47,12 +49,13 @@ kapverdesaddi _ _ kappverdelire _ _ _ _ n _ _ Calonectris edwardsii _ loddi
 mearračeasan _ _ wilsonstormsvale _ _ _ _ n _ _ Oceanites oceanicus _ loddi 
 fregáhttastoarbmaspálfu _ _ fregattstormsvale _ _ _ _ n _ _ Pelagodroma marina _ loddi 
 vilgesčoavjestoarbmaspálfu _ _ hvitbukstormsvale _ _ _ _ n _ _ Fregetta grallaria _ loddi 
- áhpespálfu _ _ havsvale _ _ _ _ n _ _ Hydrobates pelagicus _ loddi 
+áhpespálfu _ _ havsvale _ _ _ _ n _ _ Hydrobates pelagicus _ loddi 
 madeirastoarbmaspálfu _ _ passatstormsvale _ _ _ _ n _ _ Oceanodroma castro _ loddi 
 stoarbmaspálfu _ _ stormsvale _ _ _ _ n _ _ Oceanodroma leucorhoa _ loddi 
 japánastoarbmaspálfu _ _ japanstormsvale _ _ _ _ n _ _ Oceanodroma monorhis _ loddi 
 čuomastropihkaloddi, ruksesnjuntropihkaloddi _ _ rødnebbtropikkfugl _ _ _ _ n _ _ Phaethon aethereus _ loddi 
-pelikána, vilgespelikána _ _ hvitpelikan _ _ _ _ n _ _ Pelecanus onocrotalus _ loddi 
+pelikána _ _ hvitpelikan _ _ _ vilgespelikána _ n _ _ Pelecanus onocrotalus _ loddi 
+vilgespelikána _ _ hvitpelikan _ _ _ pelikána _ n _ _ Pelecanus onocrotalus _ loddi 
 afrihkápelikána _ _ rosenpelikan _ _ _ _ n _ _ Pelecanus rufescens _ loddi 
 smarvepelikána _ _ krøllpelikan _ _ _ _ n _ _ Pelecanus crispus _ loddi 
 suvlá _ _ havsule _ _ _ _ n _ _ Morus bassanus _ loddi 
@@ -61,7 +64,8 @@ hápmasuvlá _ _ maskesule _ _ _ _ n _ _ Sula dactylatra _ loddi
 ruksesjuolsuvlá _ _ rødfotsule _ _ _ _ n _ _ Sula sula _ loddi 
 ruškessuvlá _ _ brunsule _ _ _ _ n _ _ Sula leucogaster _ loddi 
 amerihkáskárfa _ _ totoppskarv _ _ _ _ n _ _ Phalacrocorax auritus _ loddi 
-skárfa, stuorraskárfa _ _ storskarv _ _ _ _ n _ _ Phalacrocorax carbo _ loddi 
+skárfa _ _ storskarv _ _ _ stuorraskárfa _ n _ _ Phalacrocorax carbo _ loddi 
+stuorraskárfa _ _ storskarv _ _ _ skárfa _ n _ _ Phalacrocorax carbo _ loddi 
 arábiaskárfa _ _ araberskarv _ _ _ _ n _ _ Phalacrocorax nigrogularis _ loddi 
 vuoktaskárfa _ _ toppskarv _ _ _ _ n _ _ Phalacrocorax aristotelis _ loddi 
 goalšoskárfa _ _ langhaleskarv _ _ _ _ n _ _ Phalacrocorax africanus _ loddi 
@@ -101,7 +105,7 @@ marabuháigir _ _ marabustork _ _ _ _ n _ _ Leptoptilos crumeniferus _ loddi
 basseibis _ _ helligibis _ _ _ _ n _ _ Threskiornis aethiopicus _ loddi 
 eaidanasibis _ _ skallet ibis _ _ _ _ n _ _ Geronticus eremita _ loddi 
 čáhppesibis _ _ bronseibis _ _ _ _ n _ _ Plegadis falcinellus _ loddi 
-spoaððoháigir _ _ skjestork _ _ _ _ n _ _ Platalea leucorodia _ loddi 
+spoađđoháigir _ _ skjestork _ _ _ _ n _ _ Platalea leucorodia _ loddi 
 afrihkáspoađđoháigir _ _ afrikaskjestork _ _ _ _ n _ _ Platalea alba _ loddi 
 flamingo _ _ flamingo _ _ _ _ n _ _ Phoenicopterus ruber _ loddi 
 chileflamingo _ _ chileflamingo _ _ _ _ n _ _ Phoenicopterus chilensis _ loddi 
@@ -115,19 +119,33 @@ njukča _ _ sangsvane _ _ _ _ n _ _ Cygnus cygnus _ loddi
 uhcanjukča _ _ dvergsvane _ _ _ _ n _ _ Cygnus columbianus bewickii _ loddi 
 čuonjá _ _ sædgås _ _ _ _ n _ _ Anser fabalis fabalis _ loddi 
 oanehisnjunčuonjá _ _ kortnebbgås _ _ _ _ n _ _ Anser brachyrhynchus _ loddi 
-stuoragiljobaš, stuorragilljá, stuoraciellá, stuorát gálbbenjunčuonjá _ _ tundragås _ _ _ _ n _ _ Anser albifrons _ loddi 
-giljobaš, ruoða, lávllačuonjá, uhcagilljá, uhcaciellá, uhcit gálbbenjunčuonjá, gilljočuonjá, gillja _ _ dverggås _ _ _ _ n _ _ Anser erythropus _ loddi 
+stuoragiljobaš _ _ tundragås _ _ _ stuorragilljá, stuoraciellá, stuorát gálbbenjunčuonjá _ n _ _ Anser albifrons _ loddi 
+stuorragilljá _ _ tundragås _ _ _ stuoragiljobaš, stuoraciellá, stuorát gálbbenjunčuonjá  _ n _ _ Anser albifrons _ loddi 
+stuoraciellá _ _ tundragås _ _ _ stuoragiljobaš, stuorragilljá, stuorát gálbbenjunčuonjá  _ n _ _ Anser albifrons _ loddi 
+stuorát gálbbenjunčuonjá _ _ tundragås _ _ _ stuoragiljobaš, stuorragilljá, stuoraciellá _ n _ _ Anser albifrons _ loddi 
+giljobaš _ _ dverggås _ _ _ ruođa, lávllačuonjá, uhcagilljá, uhcaciellá, uhcit gálbbenjunčuonjá, gilljočuonjá, gillja _ n _ _ Anser erythropus _ loddi 
+ruođa _ _ dverggås _ _ _ giljobaš lávllačuonjá, uhcagilljá, uhcaciellá, uhcit gálbbenjunčuonjá, gilljočuonjá, gillja _ n _ _ Anser erythropus _ loddi 
+lávllačuonjá _ _ dverggås _ _ _ giljobaš, ruođa, uhcagilljá, uhcaciellá, uhcit gálbbenjunčuonjá, gilljočuonjá, gillja  _ n _ _ Anser erythropus _ loddi 
+uhcagilljá _ _ dverggås _ _ _ giljobaš, ruođa, lávllačuonjá, uhcaciellá, uhcit gálbbenjunčuonjá, gilljočuonjá, gillja  _ n _ _ Anser erythropus _ loddi 
+uhcaciellá _ _ dverggås _ _ _ giljobaš, ruođa, lávllačuonjá, uhcagilljá, uhcit gálbbenjunčuonjá, gilljočuonjá, gillja  _ n _ _ Anser erythropus _ loddi 
+uhcit gálbbenjunčuonjá _ _ dverggås _ _ _ giljobaš, ruođa, lávllačuonjá, uhcagilljá, uhcaciellá, gilljočuonjá, gillja  _ n _ _ Anser erythropus _ loddi 
+gilljočuonjá _ _ dverggås _ _ _ giljobaš, ruođa, lávllačuonjá, uhcagilljá, uhcaciellá, uhcit gálbbenjunčuonjá, gillja  _ n _ _ Anser erythropus _ loddi 
+gillja _ _ dverggås _ _ _ giljobaš, ruođa, lávllačuonjá, uhcagilljá, uhcaciellá, uhcit gálbbenjunčuonjá, gilljočuonjá _ n _ _ Anser erythropus _ loddi 
 ránesčuonjá _ _ grågås _ _ _ _ n _ _ Anser anser _ loddi 
 indiačuonjá _ _ stripegås _ _ _ _ n _ _ Anser indicus _ loddi 
 muohtačuonjá _ _ snøgås _ _ _ _ n _ _ Anser caerulescens _ loddi 
 rossičuonjá _ _ eskimogås _ _ _ _ n _ _ Anser rossii _ loddi 
 kanádačuonjá _ _ kanadagås _ _ _ _ n _ _ Branta canadensis _ loddi 
-vilgesnierčuonjá, gávlačuonjá _ _ hvitkinngås _ _ _ _ n _ _ Branta leucopsis _ loddi 
-gierdočuonjá, čáhppesčuonjá _ _ ringgås _ _ _ _ n _ _ Branta bernicla bernicla _ loddi 
+vilgesnierčuonjá _ _ hvitkinngås _ _ _ gávlačuonjá _ n _ _ Branta leucopsis _ loddi 
+gávlačuonjá _ _ hvitkinngås _ _ _ vilgesnierčuonjá _ n _ _ Branta leucopsis _ loddi 
+gierdočuonjá _ _ ringgås _ _ _ čáhppesčuonjá _ n _ _ Branta bernicla bernicla _ loddi 
+čáhppesčuonjá _ _ ringgås _ _ _ gierdočuonjá _ n _ _ Branta bernicla bernicla _ loddi 
 ruksesčeabečuonjá _ _ rødhalsgås _ _ _ _ n _ _ Branta ruficollis _ loddi 
 niillačuonjá _ _ niland _ _ _ _ n _ _ Alopochen aegyptiacus _ loddi 
-ruostaduoršu, ruostasuorsá _ _ rustand _ _ _ _ n _ _ Tadorna ferruginea _ loddi 
-ruossaduoršu, ruossasuorsá _ _ gravand _ _ _ _ n _ _ Tadorna tadorna _ loddi 
+ruostaduoršu _ _ rustand _ _ _ ruostasuorsá _ n _ _ Tadorna ferruginea _ loddi 
+ruostasuorsá _ _ rustand _ _ _ ruostaduoršu _ n _ _ Tadorna ferruginea _ loddi 
+ruossaduoršu _ _ gravand _ _ _ ruossasuorsá _ n _ _ Tadorna tadorna _ loddi 
+ruossasuorsá _ _ gravand _ _ _ ruossaduoršu _ n _ _ Tadorna tadorna _ loddi 
 govussoadjačuonjá _ _ sporegås _ _ _ _ n _ _ Plectropterus gambensis _ loddi 
 ásiadeaggasuorsá _ _ beltedvergand _ _ _ _ n _ _ Nettapus coromandelianus _ loddi 
 moarsesuorsá _ _ brudeand _ _ _ _ n _ _ Aix sponsa _ loddi 
@@ -135,43 +153,71 @@ mandarinčiksa _ _ mandarinand _ _ _ _ n _ _ Aix galericulata _ loddi
 snárttal _ _ brunnakke _ _ _ _ n _ _ Anas penelope _ loddi 
 amerihkásnárttal _ _ amerikablesand _ _ _ _ n _ _ Anas americana _ loddi 
 lodnječiksa _ _ sibirand _ _ _ _ n _ _ Anas falcata _ loddi 
-ránessnárttal, ránessuorsá _ _ snadderand _ _ _ _ n _ _ Anas strepera _ loddi 
-girječiksa, hearvačiksa _ _ gulkinnand _ _ _ _ n _ _ Anas formosa _ loddi 
+ránessnárttal _ _ snadderand _ _ _ ránessuorsá _ n _ _ Anas strepera _ loddi 
+ránessuorsá _ _ snadderand _ _ _ ránessnárttal _ n _ _ Anas strepera _ loddi 
+girječiksa _ _ gulkinnand _ _ _ hearvačiksa _ n _ _ Anas formosa _ loddi 
+hearvačiksa _ _ gulkinnand _ _ _ girječiksa _ n _ _ Anas formosa _ loddi 
 čiksa _ _ krikkand _ _ _ _ n _ _ Anas crecca _ loddi 
 káhpačiksa _ _ kappand _ _ _ _ n _ _ Anas capensis _ loddi 
-duoršu, stuorravuojaš, suoidnesuorsá, bunásuorsa, alitvuojaš _ _ stokkand _ _ _ _ n _ _ Anas platyrhynchos _ loddi 
-čohkkesduoršu, čáhppesduoršu _ _ rødfotand _ _ _ _ n _ _ Anas rubripes _ loddi 
-vuojaš, biekčavuojaš _ _ stjertand _ _ _ _ n _ _ Anas acuta _ loddi 
+
+duoršu _ _ stokkand _ _ _ stuorravuojaš, suoidnesuorsá, bunásuorsa, alitvuojaš _ n _ _ Anas platyrhynchos _ loddi 
+stuorravuojaš _ _ stokkand _ _ _ duoršu, suoidnesuorsá, bunásuorsa, alitvuojaš  _ n _ _ Anas platyrhynchos _ loddi 
+suoidnesuorsá _ _ stokkand _ _ _ duoršu, stuorravuojaš, bunásuorsa, alitvuojaš  _ n _ _ Anas platyrhynchos _ loddi 
+bunásuorsa _ _ stokkand _ _ _ duoršu, stuorravuojaš, suoidnesuorsá, alitvuojaš  _ n _ _ Anas platyrhynchos _ loddi 
+alitvuojaš _ _ stokkand _ _ _ duoršu, stuorravuojaš, suoidnesuorsá, bunásuorsa _ n _ _ Anas platyrhynchos _ loddi 
+čohkkesduoršu _ _ rødfotand _ _ _ čáhppesduoršu _ n _ _ Anas rubripes _ loddi 
+čáhppesduoršu _ _ rødfotand _ _ _ čohkkesduoršu _ n _ _ Anas rubripes _ loddi 
+vuojaš _ _ stjertand _ _ _ biekčavuojaš _ n _ _ Anas acuta _ loddi 
+biekčavuojaš _ _ stjertand _ _ _ vuojaš _ n _ _ Anas acuta _ loddi 
 ruksesnjunčiksa _ _ rødnebband _ _ _ _ n _ _ Anas erythrorhyncha _ loddi 
 suoidnečiksa _ _ knekkand _ _ _ _ n _ _ Anas querquedula _ loddi 
 alitsoadjačiksa _ _ blåvingeand _ _ _ _ n _ _ Anas discors _ loddi 
 káhpaspoađđoduoršu _ _ kappskjeand _ _ _ _ n _ _ Anas smithii _ loddi 
-spoaððoduoršu, láhpesuorsá _ _ skjeand _ _ _ _ n _ _ Anas clypeata _ loddi 
+spoađđoduoršu _ _ skjeand _ _ _ láhpesuorsá _ n _ _ Anas clypeata _ loddi 
+láhpesuorsá _ _ skjeand _ _ _ spoađđoduoršu _ n _ _ Anas clypeata _ loddi 
 mármorčiksa _ _ marmorand _ _ _ _ n _ _ Marmaronetta angustirostris _ loddi 
 ruksessoaifiehta _ _ rødhodeand _ _ _ _ n _ _ Netta rufina _ loddi 
 stuoraruksesfiehta _ _ kanvasand _ _ _ _ n _ _ Aythya valisineria _ loddi 
 ruksesfiehta _ _ taffeland _ _ _ _ n _ _ Aythya ferina _ loddi 
 dielkofiehta _ _ ringand _ _ _ _ n _ _ Aythya collaris _ loddi 
-vilgesčalbmefiehta korrigerejuvvon _ _ hvitøyeand _ _ _ _ n _ _ Aythya nyroca _ loddi 
-vuoktafiehta, uhcafiehta, diehppefiehta, unnafiehtaš _ _ toppand _ _ _ _ n _ _ Aythya fuligula _ loddi 
-stuorrafiehta, fiehta _ _ bergand _ _ _ _ n _ _ Aythya marila _ loddi 
+vilgesčalbmefiehta _ _ hvitøyeand _ _ _ _ n _ _ Aythya nyroca _ loddi 
+vuoktafiehta _ _ toppand _ _ _ uhcafiehta, diehppefiehta, unnafiehtaš _ n _ _ Aythya fuligula _ loddi 
+uhcafiehta _ _ toppand _ _ _ vuoktafiehta, diehppefiehta, unnafiehtaš  _ n _ _ Aythya fuligula _ loddi 
+diehppefiehta _ _ toppand _ _ _ vuoktafiehta, uhcafiehta, unnafiehtaš  _ n _ _ Aythya fuligula _ loddi 
+unnafiehtaš _ _ toppand _ _ _ vuoktafiehta, uhcafiehta, diehppefiehta _ n _ _ Aythya fuligula _ loddi 
+stuorrafiehta _ _ bergand _ _ _ fiehta _ n _ _ Aythya marila _ loddi 
+fiehta _ _ bergand _ _ _ stuorrafiehta _ n _ _ Aythya marila _ loddi 
 purpuroaifiehta _ _ purpurhodeand _ _ _ _ n _ _ Aythya affinis _ loddi 
 hávda, ákta _ _ ærfugl _ _ _ _ n _ _ Somateria mollissima _ loddi 
-áhpehávda, bursanjunni, áhpelihkká, gorgeslihkká, gorgeshávda _ _ praktærfugl _ _ _ _ n _ _ Somateria spectabilis _ loddi 
+áhpehávda _ _ praktærfugl _ _ _ bursanjunni, áhpelihkká, gorgeslihkká, gorgeshávda _ n _ _ Somateria spectabilis _ loddi 
+bursanjunni _ _ praktærfugl _ _ _ áhpehávda, áhpelihkká, gorgeslihkká, gorgeshávda  _ n _ _ Somateria spectabilis _ loddi 
+áhpelihkká _ _ praktærfugl _ _ _ áhpehávda, bursanjunni, gorgeslihkká, gorgeshávda _ n _ _ Somateria spectabilis _ loddi 
+gorgeslihkká _ _ praktærfugl _ _ _ áhpehávda, bursanjunni, áhpelihkká, gorgeshávda _ n _ _ Somateria spectabilis _ loddi 
+gorgeshávda _ _ praktærfugl _ _ _ áhpehávda, bursanjunni, áhpelihkká, gorgeslihkká _ n _ _ Somateria spectabilis _ loddi 
 čalbmehávda _ _ brilleærfugl _ _ _ _ n _ _ Somateria fischeri _ loddi 
-sávjahávda, goargohaŋŋá _ _ stellerand _ _ _ _ n _ _ Polysticta stelleri _ loddi 
+sávjahávda _ _ stellerand _ _ _ goargohaŋŋá _ n _ _ Polysticta stelleri _ loddi 
+goargohaŋŋá _ _ stellerand _ _ _ sávjahávda _ n _ _ Polysticta stelleri _ loddi 
 girjehaŋŋá _ _ harlekinand _ _ _ _ n _ _ Histrionicus histrionicus _ loddi 
-haŋŋá, aŋŋálakkis _ _ havelle _ _ _ _ n _ _ Clangula hyemalis _ loddi 
+haŋŋá _ _ havelle _ _ _ aŋŋálakkis _ n _ _ Clangula hyemalis _ loddi 
+aŋŋálakkis _ _ havelle _ _ _ haŋŋá _ n _ _ Clangula hyemalis _ loddi 
 njurggu _ _ svartand _ _ _ _ n _ _ Melanitta nigra _ loddi 
 dielkoskoarra _ _ brilleand _ _ _ _ n _ _ Melanitta perspicillata _ loddi 
 skoarra _ _ sjøorre _ _ _ _ n _ _ Melanitta fusca _ loddi 
-uhcačoaðgi _ _ bøffeland _ _ _ _ n _ _ Bucephala albeola _ loddi 
-islánddačoaðgi _ _ islandsand _ _ _ _ n _ _ Bucephala islandica _ loddi 
-čoaðgi _ _ kvinand _ _ _ _ n _ _ Bucephala clangula _ loddi 
+uhcačoađgi _ _ bøffeland _ _ _ _ n _ _ Bucephala albeola _ loddi 
+islánddačoađgi _ _ islandsand _ _ _ _ n _ _ Bucephala islandica _ loddi 
+čoađgi _ _ kvinand _ _ _ _ n _ _ Bucephala clangula _ loddi 
 hárjegoalsi _ _ hjelmfiskand _ _ _ _ n _ _ Lophodytes cucullatus _ loddi 
-gárggogoalsi, njunjálat _ _ lappfiskand _ _ _ _ n _ _ Mergellus albellus _ loddi 
-vuoktagoalsi, goalsi, unnagoalssáš _ _ siland _ _ _ _ n _ _ Mergus serrator _ loddi 
-gussagoalsi, stuorragoalsi, suvragoalsi _ _ laksand _ _ _ _ n _ _ Mergus merganser _ loddi 
+gárggogoalsi _ _ lappfiskand _ _ _ njunjálat _ n _ _ Mergellus albellus _ loddi 
+njunjálat _ _ lappfiskand _ _ _ gárggogoalsi_ n _ _ Mergellus albellus _ loddi 
+
+vuoktagoalsi _ _ siland _ _ _, goalsi, unnagoalssáš _ n _ _ Mergus serrator _ loddi 
+goalsi _ _ siland _ _ _ vuoktagoalsi, unnagoalssáš _ n _ _ Mergus serrator _ loddi 
+unnagoalssáš _ _ siland _ _ _ vuoktagoalsi, goalsi _ n _ _ Mergus serrator _ loddi 
+
+gussagoalsi _ _ laksand _ _ _, stuorragoalsi, suvragoalsi _ n _ _ Mergus merganser _ loddi 
+stuorragoalsi _ _ laksand _ _ _ gussagoalsi, suvragoalsi _ n _ _ Mergus merganser _ loddi 
+suvragoalsi _ _ laksand _ _ _ gussagoalsi, stuorragoalsi _ n _ _ Mergus merganser _ loddi 
+
 veaikegahperfiehtat _ _ stivhaleand _ _ _ _ n _ _ Oxyura jamaicensis _ loddi 
 gahperfiehtat _ _ hvithodeand _ _ _ _ n _ _ Oxyura leucocephala _ loddi 
 branta bernicla hrota _ _ branta (bernicla) hrota _ _ _ _ n _ _ Branta bernicla hrota _ loddi 
@@ -179,37 +225,53 @@ anser fabalis rossicus _ _ anser fabalis rossicus _ _ _ _ n _ _ Anser fabalis ro
 branta bernicla nigricans _ _ branta bernicla nigricans _ _ _ _ n _ _ Branta bernicla nigricans _ loddi 
 amerihkáčiksa _ _ amerikakrikkand _ _ _ _ n _ _ Anas carolinensis _ loddi 
 čáhppesráhtogoaskin _ _ munkegribb _ _ _ _ n _ _ Aegypius monachus _ loddi 
-čiekčá, guollegoaskin, guollefálli _ _ fiskeørn _ _ _ _ n _ _ Pandion haliaetus _ loddi 
-uvlohávut, vievssesfálli _ _ vepsevåk _ _ _ _ n _ _ Pernis apivorus _ loddi 
+čiekčá _ _ fiskeørn _ _ _, guollegoaskin, guollefálli _ n _ _ Pandion haliaetus _ loddi 
+guollegoaskin _ _ fiskeørn _ _ _ čiekčá, guollefálli _ n _ _ Pandion haliaetus _ loddi 
+guollefálli _ _ fiskeørn _ _ _ čiekčá, guollegoaskin _ n _ _ Pandion haliaetus _ loddi 
+uvlohávut _ _ vepsevåk _ _ _, vievssesfálli _ n _ _ Pernis apivorus _ loddi 
+vievssesfálli _ _ vepsevåk _ _ _ uvlohávut _ n _ _ Pernis apivorus _ loddi 
 ásiauvlohávut _ _ orientvepsevåk _ _ _ _ n _ _ Pernis ptilorhyncus _ loddi 
 čáhppessoadjahávut _ _ svartvingeglente _ _ _ _ n _ _ Elanus caeruleus _ loddi 
-ruškessuorrehávut, ruškessuorrefálli _ _ svartglente _ _ _ _ n _ _ Milvus migrans _ loddi 
-suorrefálli, stuorrasuorrehávut _ _ glente _ _ _ _ n _ _ Milvus milvus _ loddi 
+ruškessuorrehávut _ _ svartglente _ _ _, ruškessuorrefálli _ n _ _ Milvus migrans _ loddi 
+ruškessuorrefálli _ _ svartglente _ _ _ ruškessuorrehávut _ n _ _ Milvus migrans _ loddi 
+suorrefálli _ _ glente _ _ _, stuorrasuorrehávut _ n _ _ Milvus milvus _ loddi 
+stuorrasuorrehávut _ _ glente _ _ _ suorrefálli _ n _ _ Milvus milvus _ loddi 
 afrihkágilljomearragoaskin _ _ flodørn _ _ _ _ n _ _ Haliaeetus vocifer _ loddi 
 ráidámearragoaskin _ _ båndhavørn _ _ _ _ n _ _ Haliaeetus leucoryphus _ loddi 
 mearragoaskin _ _ havørn _ _ _ _ n _ _ Haliaeetus albicilla _ loddi 
 bealljeráhtogoaskin _ _ øregribb _ _ _ _ n _ _ Torgos tracheliotus _ loddi 
 luhkkaráhtogoaskin _ _ hettegribb _ _ _ _ n _ _ Necrosyrtes monachus _ loddi 
-čuonjáráhtogoaskin, čuonjátrábbegoaskin _ _ gåsegribb _ _ _ _ n _ _ Gyps fulvus _ loddi 
+čuonjáráhtogoaskin _ _ gåsegribb _ _ _, čuonjátrábbegoaskin _ n _ _ Gyps fulvus _ loddi 
+čuonjátrábbegoaskin _ _ gåsegribb _ _ _ čuonjáráhtogoaskin _ n _ _ Gyps fulvus _ loddi 
 čuomasráhtogoaskin _ _ skjellgribb _ _ _ _ n _ _ Gyps rueppellii _ loddi 
 bengálráhtogoaskin _ _ bengalgribb _ _ _ _ n _ _ Gyps bengalensis _ loddi 
-uhcaráhtogoaskin, uhcarábbegoaskin _ _ åtselgribb _ _ _ _ n _ _ Neophron percnopterus _ loddi 
-sávzaráhtogoaskin, skávžárábbegoaskin _ _ lammegribb _ _ _ _ n _ _ Gypaetus barbatus _ loddi 
+uhcaráhtogoaskin _ _ åtselgribb _ _ _, uhcarábbegoaskin _ n _ _ Neophron percnopterus _ loddi 
+uhcarábbegoaskin _ _ åtselgribb _ _ _, uhcaráhtogoaskin _ n _ _ Neophron percnopterus _ loddi 
+sávzaráhtogoaskin _ _ lammegribb _ _ _, skávžárábbegoaskin _ n _ _ Gypaetus barbatus _ loddi 
+skávžárábbegoaskin _ _ lammegribb _ _ _ sávzaráhtogoaskin _ n _ _ Gypaetus barbatus _ loddi 
 gearpmašgoaskin _ _ slangeørn _ _ _ _ n _ _ Circaetus gallicus _ loddi 
 afrihkáčáhppesgoaskin _ _ gjøglerørn _ _ _ _ n _ _ Terathopius ecaudatus _ loddi 
 lávlofálli _ _ mørksanghauk _ _ _ _ n _ _ Melierax metabates _ loddi 
 uhcalávlofálli _ _ gabarhauk _ _ _ _ n _ _ Micronisus gabar _ loddi 
-jeaggefálli, jeaggehávut _ _ myrhauk _ _ _ _ n _ _ Circus cyaneus _ loddi 
-ádjohávut, vilgesjeaggefálli _ _ steppehauk _ _ _ _ n _ _ Circus macrourus _ loddi 
-niitohávut, niitojeaggefálli _ _ enghauk _ _ _ _ n _ _ Circus pygargus _ loddi 
-ruškesjeaggehávut, ruškesjeaggefálli _ _ sivhauk _ _ _ _ n _ _ Circus aeruginosus _ loddi 
+jeaggefálli _ _ myrhauk _ _ _, jeaggehávut _ n _ _ Circus cyaneus _ loddi 
+jeaggehávut _ _ myrhauk _ _ _ jeaggefálli _ n _ _ Circus cyaneus _ loddi 
+ádjohávut _ _ steppehauk _ _ _, vilgesjeaggefálli _ n _ _ Circus macrourus _ loddi 
+vilgesjeaggefálli _ _ steppehauk _ _ _ ádjohávut _ n _ _ Circus macrourus _ loddi 
+niitohávut _ _ enghauk _ _ _, niitojeaggefálli _ n _ _ Circus pygargus _ loddi 
+niitojeaggefálli _ _ enghauk _ _ _, niitohávut _ n _ _ Circus pygargus _ loddi 
+ruškesjeaggehávut  _ _ sivhauk _ _ _ ruškesjeaggefálli _ n _ _ Circus aeruginosus _ loddi 
+ruškesjeaggefálli  _ _ sivhauk _ _ _ ruškesjeaggehávut _ n _ _ Circus aeruginosus _ loddi 
 balkándihtti _ _ balkanhauk _ _ _ _ n _ _ Accipiter brevipes _ loddi 
 káspiadihtti _ _ shikrahauk _ _ _ _ n _ _ Accipiter badius _ loddi 
-dihtti, cihcefálli _ _ spurvehauk _ _ _ _ n _ _ Accipiter nisus _ loddi 
-goahppilfálli, vuopmerievssatfálli, vuoncáfálli _ _ hønsehauk _ _ _ _ n _ _ Accipiter gentilis _ loddi 
+dihtti _ _ spurvehauk _ _ _, cihcefálli _ n _ _ Accipiter nisus _ loddi 
+cihcefálli _ _ spurvehauk _ _ _ dihtti _ n _ _ Accipiter nisus _ loddi 
+goahppilfálli _ _ hønsehauk _ _ _, vuopmerievssatfálli, vuoncáfálli _ n _ _ Accipiter gentilis _ loddi 
+vuopmerievssatfálli _ _ hønsehauk _ _ _ goahppilfálli, vuoncáfálli _ n _ _ Accipiter gentilis _ loddi 
+vuoncáfálli _ _ hønsehauk _ _ _, vuopmerievssatfálli, goahppilfálli _ n _ _ Accipiter gentilis _ loddi 
 ruostaboaimmáš _ _ rødvingevåk _ _ _ _ n _ _ Buteo lineatus _ loddi 
 ádjoboaimmáš _ _ prærievåk _ _ _ _ n _ _ Buteo swainsoni _ loddi 
-sáhpánfálli, sáhpánboaimmáš _ _ musvåk _ _ _ _ n _ _ Buteo buteo _ loddi 
+sáhpánfálli _ _ musvåk _ _ _ , sáhpánboaimmáš_ n _ _ Buteo buteo _ loddi 
+sáhpánboaimmáš _ _ musvåk _ _ _ sáhpánfálli _ n _ _ Buteo buteo _ loddi 
 boaimmáš _ _ fjellvåk _ _ _ _ n _ _ Buteo lagopus _ loddi 
 goaskinboaimmáš _ _ ørnvåk _ _ _ _ n _ _ Buteo rufinus _ loddi 
 mongoliaboaimmáš _ _ mongolvåk _ _ _ _ n _ _ Buteo hemilasius _ loddi 
@@ -228,7 +290,8 @@ amerihkábieggafálli _ _ spurvefalk _ _ _ _ n _ _ Falco sparverius _ loddi
 bieggafálli _ _ tårnfalk _ _ _ _ n _ _ Falco tinnunculus _ loddi 
 veaigefálli _ _ aftenfalk _ _ _ _ n _ _ Falco vespertinus _ loddi 
 cizášfálli _ _ dvergfalk _ _ _ _ n _ _ Falco columbarius _ loddi 
-leivvošfálli, leahttofálli _ _ lerkefalk _ _ _ _ n _ _ Falco subbuteo _ loddi 
+leivvošfálli _ _ lerkefalk _ _ _, leahttofálli _ n _ _ Falco subbuteo _ loddi 
+leahttofálli _ _ lerkefalk _ _ _ leivvošfálli _ n _ _ Falco subbuteo _ loddi 
 eleonorafálli _ _ eleonorafalk _ _ _ _ n _ _ Falco eleonorae _ loddi 
 gožufálli _ _ sotfalk _ _ _ _ n _ _ Falco concolor _ loddi 
 fiskesoaifálli _ _ slagfalk _ _ _ _ n _ _ Falco biarmicus _ loddi 
@@ -237,18 +300,10 @@ rievssatfálli, duottarfálli, goahppilfálli _ _ jaktfalk _ _ _ _ n _ _ Falco r
 bárbmofálli _ _ vandrefalk _ _ _ _ n _ _ Falco peregrinus _ loddi 
 berberfálli _ _ berberfalk _ _ _ _ n _ _ Falco pelegrinoides _ loddi 
 kálkon _ _ kalkun _ _ _ _ n _ _ Meleagris gallopavo _ loddi 
- rievssat _ _ lirype _ _ _ _ n _ _ Lagopus lagopus lagopus _ loddi 
+rievssat _ _ lirype _ _ _ _ n _ _ Lagopus lagopus lagopus _ loddi 
 giron _ _ fjellrype _ _ _ _ n _ _ Lagopus mutus _ loddi 
 kaukásiahurri _ _ kaukasusorrfugl _ _ _ _ n _ _ Tetrao mlokosiewiczi _ loddi 
 hurri _ _ orrfugl _ _ _ _ n _ _ Tetrao tetrix _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
 beahceloddi, njiŋŋelas, varris _ _ beahceloddi, njiŋŋelas, varris _ _ _ _ n _ _ Beahceloddi,  njiŋŋelas, varris _ loddi 
 čukčá, geavahuvvo dušše varris lotti birra _ _ čukčá, geavahuvvo dušše varris lotti birra  _ _ _ _ n _ _ Čukčá, geavahuvvo dušše varris lotti birra  _ loddi 
 goahppil, geavahuvvo dušše njiŋŋelas lotti birra _ _ goahppil, geavahuvvo dušše njiŋŋelas lotti birra  _ _ _ _ n _ _ Goahppil, geavahuvvo dušše njiŋŋelas lotti birra  _ loddi 
@@ -338,7 +393,7 @@ mongoliabuvvedat _ _ mongollo _ _ _ _ n _ _ Charadrius mongolus _ loddi
 sáttobuvvedat _ _ ørkenlo _ _ _ _ n _ _ Charadrius leschenaultii _ loddi 
 káspiabuvvedat _ _ rødbrystlo _ _ _ _ n _ _ Charadrius asiaticus _ loddi 
 láfol _ _ boltit _ _ _ _ n _ _ Charadrius morinellus _ loddi 
-čáhppesbaðošguškil _ _ svarthalespove _ _ _ _ n _ _ Limosa limosa _ loddi 
+čáhppesbađošguškil _ _ svarthalespove _ _ _ _ n _ _ Limosa limosa _ loddi 
 kanádaguškil _ _ svartvingespove _ _ _ _ n _ _ Limosa haemastica _ loddi 
 ruksesguškil _ _ lappspove _ _ _ _ n _ _ Limosa lapponica _ loddi 
 deaggaguškkástat _ _ dvergspove _ _ _ _ n _ _ Numenius minutus _ loddi 
@@ -361,12 +416,12 @@ gáddeskirvi _ _ tereksnipe _ _ _ _ n _ _ Xenus cinereus _ loddi
 gáddeviroš, dirrelihkáš _ _ strandsnipe _ _ _ _ n _ _ Actitis hypoleucos _ loddi 
 amerihkagáddeviroš _ _ flekksnipe _ _ _ _ n _ _ Actitis macularia _ loddi 
 sibirjjáčoavžžu _ _ sibirvandresnipe _ _ _ _ n _ _ Heteroscelus brevipes _ loddi 
-geaðgejorgu, goahtegollaš, goljaš, gollju, gollaš _ _ steinvender _ _ _ _ n _ _ Arenaria interpres _ loddi 
+geađgejorgu, goahtegollaš, goljaš, gollju, gollaš _ _ steinvender _ _ _ _ n _ _ Arenaria interpres _ loddi 
 amerihkábávgoš _ _ hvithalesvømmesnipe _ _ _ _ n _ _ Steganopus tricolor _ loddi 
 bávgoš, čarkkus, spáhppal, čáhcespálfu _ _ svømmesnipe _ _ _ _ n _ _ Phalaropus lobatus _ loddi 
 stuorrabávgoš _ _ polarsvømmesnipe _ _ _ _ n _ _ Phalaropus fulicarius _ loddi 
 vuovdemeahkástat, rohtomeahkástat, bohtomeahkástat _ _ rugde _ _ _ _ n _ _ Scolopax rusticola _ loddi 
-čohkabaðošmeahkástat _ _ sibirbekkasin _ _ _ _ n _ _ Gallinago stenura _ loddi 
+čohkabađošmeahkástat _ _ sibirbekkasin _ _ _ _ n _ _ Gallinago stenura _ loddi 
 sibirjjámeahkástat _ _ bajkalbekkasin _ _ _ _ n _ _ Gallinago megala _ loddi 
 sáhcomeahkástat _ _ dobbeltbekkasin _ _ _ _ n _ _ Gallinago media _ loddi 
 meahkástat _ _ enkeltbekkasin _ _ _ _ n _ _ Gallinago gallinago _ loddi 
@@ -386,7 +441,7 @@ amerihkáviroš _ _ pygmésnipe _ _ _ _ n _ _ Calidris minutilla _ loddi
 vilgesbahtaviroš _ _ bonapartesnipe _ _ _ _ n _ _ Calidris fuscicollis _ loddi 
 fiskesviroš _ _ gulbrystsnipe _ _ _ _ n _ _ Calidris bairdii _ loddi 
 aláskkáviroš _ _ alaskasnipe _ _ _ _ n _ _ Calidris melanotos _ loddi 
-čohkabaðošviroš _ _ spisshalesnipe _ _ _ _ n _ _ Calidris acuminata _ loddi 
+čohkabađošviroš _ _ spisshalesnipe _ _ _ _ n _ _ Calidris acuminata _ loddi 
 fierváviroš, fierváčoavžžu _ _ fjæreplytt _ _ _ _ n _ _ Calidris maritima _ loddi 
 čáhppesčoavjegáddeviroš, čáhppesčoavji, _ _ myrsnipe _ _ _ _ n _ _ Calidris alpina _ loddi 
 guškilviroš _ _ tundrasnipe _ _ _ _ n _ _ Calidris ferruginea _ loddi 
@@ -496,7 +551,7 @@ fiskesnjungiehka _ _ gulnebbgjøk _ _ _ _ n _ _ Coccyzus americanus _ loddi
 senegalgiehka _ _ senegalsporegjøk _ _ _ _ n _ _ Centropus senegalensis _ loddi 
 toardnaskuolfi _ _ tårnugle _ _ _ _ n _ _ Tyto alba _ loddi 
 persiabealljeloađgu _ _ ravineugle _ _ _ _ n _ _ Otus brucei _ loddi 
-deaggabealljeloaðgu _ _ dverghornugle _ _ _ _ n _ _ Otus scops _ loddi 
+deaggabealljeloađgu _ _ dverghornugle _ _ _ _ n _ _ Otus scops _ loddi 
 lidnu, stuorraskuolfi, bumbbástat, bealljeskuolfi, hahpat _ _ hubro _ _ _ _ n _ _ Bubo bubo _ loddi 
 sáttoáhpelidnu _ _ ørkenhubro _ _ _ _ n _ _ Bubo ascalaphus _ loddi 
 ruškesguollelidnu _ _ brunfiskeugle _ _ _ _ n _ _ Ketupa zeylonensis _ loddi 
@@ -509,8 +564,8 @@ sáhpánskuolfi, bigán, skutnjaloddi _ _ haukugle _ _ _ _ n _ _ Surnia ulula _ 
 cihceskuolfi, čuonanskuolfi _ _ spurveugle _ _ _ _ n _ _ Glaucidium passerinum _ loddi 
 minervaskuolfi _ _ kirkeugle _ _ _ _ n _ _ Athene noctua _ loddi 
 bearalskuolfi, pearalskuolfi, idjaskuolfi _ _ perleugle _ _ _ _ n _ _ Aegolius funereus _ loddi 
-bealljeloaðgu, bealljeloatku _ _ hornugle _ _ _ _ n _ _ Asio otus _ loddi 
-bumpaloddi, bumbbaloddi, loaðgu, jeaggeloatku, jeaggehahpat _ _ jordugle _ _ _ _ n _ _ Asio flammeus _ loddi 
+bealljeloađgu, bealljeloatku _ _ hornugle _ _ _ _ n _ _ Asio otus _ loddi 
+bumpaloddi, bumbbaloddi, loađgu, jeaggeloatku, jeaggehahpat _ _ jordugle _ _ _ _ n _ _ Asio flammeus _ loddi 
 káhpaloađgu _ _ gressugle _ _ _ _ n _ _ Asio capensis _ loddi 
 amerihkáčahran _ _ nordnatthauk _ _ _ _ n _ _ Chordeiles minor _ loddi 
 ruostaniehkkečahran _ _ rødhalsnattravn _ _ _ _ n _ _ Caprimulgus ruficollis _ loddi 
@@ -520,7 +575,7 @@ nubiačahran _ _ nubianattravn _ _ _ _ n _ _ Caprimulgus nubicus _ loddi
 sáttoáhpečahran, egypttagáiccabahčči _ _ ørkennattravn _ _ _ _ n _ _ Caprimulgus aegyptius _ loddi 
 sáttoábečahran, egypttagáicabahčči _ _ ørkennattravn _ _ _ _ n _ _ Caprimulgus aegyptius _ loddi 
 gollečahran _ _ gullnattravn _ _ _ _ n _ _ Caprimulgus eximius _ loddi 
-biikabaðošcihran _ _ pigghaleseiler _ _ _ _ n _ _ Hirundapus caudacutus _ loddi 
+biikabađošcihran _ _ pigghaleseiler _ _ _ _ n _ _ Hirundapus caudacutus _ loddi 
 muvracihran _ _ skorsteinsseiler _ _ _ _ n _ _ Chaetura pelagica _ loddi 
 afrihkácihran _ _ afrikapalmeseiler _ _ _ _ n _ _ Cypsiurus parvus _ loddi 
 álpaleahttospálfu, álpacihran _ _ alpeseiler _ _ _ _ n _ _ Tachymarptis melba _ loddi 
@@ -545,7 +600,7 @@ sahelalitguovssat _ _ sahelråke _ _ _ _ n _ _ Coracias abyssinicus _ loddi
 bengalalitguovssat _ _ bengalråke _ _ _ _ n _ _ Coracias benghalensis _ loddi 
 afrihkáalitguovssat _ _ brednebbråke _ _ _ _ n _ _ Eurystomus glaucurus _ loddi 
 roavgogonagas _ _ hærfugl _ _ _ _ n _ _ Upupa epops _ loddi 
-giegacizáš, giegabahtasihkku, giegabiigá, giegabaðuš _ _ vendehals _ _ _ _ n _ _ Jynx torquilla _ loddi 
+giegacizáš, giegabahtasihkku, giegabiigá, giegabađuš _ _ vendehals _ _ _ _ n _ _ Jynx torquilla _ loddi 
 kanádamáihlečáihni _ _ kanadasevjespett _ _ _ _ n _ _ Sphyrapicus varius _ loddi 
 deaggačáihni, uhcačáihni, cizáščáihni, uhcagirječáihni _ _ dvergspett _ _ _ _ n _ _ Dendrocopos minor _ loddi 
 áikačáihni, áikagirječáihni _ _ mellomspett _ _ _ _ n _ _ Dendrocopos medius _ loddi 
@@ -607,11 +662,11 @@ guhkesnjuncivkkán _ _ langnebbpiplerke _ _ _ _ n _ _ Anthus similis _ loddi
 niitocivkaleivvoš, niitocivkkán, duottarcivkaleivvoš, moldecizáš, duolvacizáš, cihcecizáš _ _ heipiplerke _ _ _ _ n _ _ Anthus pratensis _ loddi 
 vuovdecivkaleivvoš, muorracivkkán, meahccecivkaleivvoš _ _ trepiplerke _ _ _ _ n _ _ Anthus trivialis _ loddi 
 sibirjjácivkkán _ _ sibirpiplerke _ _ _ _ n _ _ Anthus hodgsoni _ loddi 
-ruksescivkaleivvoš, sieðgacivkkán, ruksescivkkán, sieðgabeštor _ _ lappiplerke _ _ _ _ n _ _ Anthus cervinus _ loddi 
+ruksescivkaleivvoš, sieđgacivkkán, ruksescivkkán, sieđgabeštor _ _ lappiplerke _ _ _ _ n _ _ Anthus cervinus _ loddi 
 duottarcivkkán _ _ tundrapiplerke _ _ _ _ n _ _ Anthus gustavi _ loddi 
 jeaggecivkkán _ _ myrpiplerke _ _ _ _ n _ _ Anthus rubescens _ loddi 
 várrecivkkán _ _ vannpiplerke _ _ _ _ n _ _ Anthus spinoletta _ loddi 
-boaððocivkaleivvoš, boaððocivkkán, riddocivkaleivvoš _ _ skjærpiplerke _ _ _ _ n _ _ Anthus petrosus _ loddi 
+boađđocivkaleivvoš, boađđocivkkán, riddocivkaleivvoš _ _ skjærpiplerke _ _ _ _ n _ _ Anthus petrosus _ loddi 
 kanáriacivkkán _ _ kanaripiplerke _ _ _ _ n _ _ Anthus berthelotii _ loddi 
 beštor, beasterages, liidnelláš, liinelláš _ _ linerle _ _ _ _ n _ _ Motacilla alba _ loddi 
 himalajabulbul _ _ himalayabylbyl _ _ _ _ n _ _ Pycnonotus leucogenys _ loddi 
@@ -627,7 +682,7 @@ skirri _ _ varsler _ _ _ _ n _ _ Lanius excubitor _ loddi
 akásiaskirri _ _ akasievarsler _ _ _ _ n _ _ Lanius excubitorius _ loddi 
 ruksesoaiskirri _ _ rødhodevarsler _ _ _ _ n _ _ Lanius senator _ loddi 
 vilgesgálloskirri, hápmaskirri _ _ hvitpannevarsler _ _ _ _ n _ _ Lanius nubicus _ loddi 
-ruksesbaðošskirri, isabellaskirri _ _ rødhalevarsler _ _ _ _ n _ _ Lanius isabellinus _ loddi 
+ruksesbađošskirri, isabellaskirri _ _ rødhalevarsler _ _ _ _ n _ _ Lanius isabellinus _ loddi 
 lulliskirri _ _ krattvarsler _ _ _ _ n _ _ Lanius meridionalis _ loddi 
 bealljerásttis, skáhpeloddi _ _ sidensvans _ _ _ _ n _ _ Bombycilla garrulus _ loddi 
 amerihkábealljerásttis _ _ einersidensvans _ _ _ _ n _ _ Bombycilla cedrorum _ loddi 
@@ -645,8 +700,8 @@ ruovdecizáš, ruovdecihci _ _ jernspurv _ _ _ _ n _ _ Prunella modularis _ lodd
 guovssoloddi, ruksesraddi _ _ rødstrupe _ _ _ _ n _ _ Erithacus rubecula _ loddi 
 rubiidnačuohtegielaš _ _ rubinstrupe _ _ _ _ n _ _ Luscinia calliope _ loddi 
 alitčuohtegielaš _ _ asurnattergal _ _ _ _ n _ _ Luscinia cyane _ loddi 
-ruostabaðuš _ _ hekkskvett _ _ _ _ n _ _ Cercotrichas galactotes _ loddi 
-alitbaðuš _ _ blåstjert _ _ _ _ n _ _ Tarsiger cyanurus _ loddi 
+ruostabađuš _ _ hekkskvett _ _ _ _ n _ _ Cercotrichas galactotes _ loddi 
+alitbađuš _ _ blåstjert _ _ _ _ n _ _ Tarsiger cyanurus _ loddi 
 čuohtegielaš _ _ nattergal _ _ _ _ n _ _ Luscinia luscinia _ loddi 
 lulličuohtegielaš _ _ sørnattergal _ _ _ _ n _ _ Luscinia megarhynchos _ loddi 
 giellavealgu, biellocizáš _ _ blåstrupe _ _ _ _ n _ _ Luscinia svecica _ loddi 
@@ -661,23 +716,23 @@ miesttaskilki _ _ buskskvett _ _ _ _ n _ _ Saxicola rubetra _ loddi
 kanáriaskilki _ _ kanariskvett _ _ _ _ n _ _ Saxicola dacotiae _ loddi 
 čáhppesoaiskilki _ _ svartstrupe _ _ _ _ n _ _ Saxicola torquata rubicola _ loddi 
 gožuskilki _ _ svartskvett _ _ _ _ n _ _ Saxicola caprata _ loddi 
-girjegeaðgerásttis _ _ hvitkronesteinskvett _ _ _ _ n _ _ Oenanthe leucopyga _ loddi 
+girjegeađgerásttis _ _ hvitkronesteinskvett _ _ _ _ n _ _ Oenanthe leucopyga _ loddi 
 luhkkageađgerásttis _ _ munkesteinskvett _ _ _ _ n _ _ Oenanthe monacha _ loddi 
-čáhppesgeaðgerásttis _ _ svartsteinskvett _ _ _ _ n _ _ Oenanthe leucura _ loddi 
-geaðgerásttis _ _ steinskvett _ _ _ _ n _ _ Oenanthe oenanthe _ loddi 
-afrihkágeaðgerásttis _ _ sørgesteinskvett _ _ _ _ n _ _ Oenanthe lugens _ loddi 
-vilgessealgeaðgerásttis _ _ hvitryggsteinskvett _ _ _ _ n _ _ Oenanthe finschii _ loddi 
-persiageaðgerásttis _ _ persersteinskvett _ _ _ _ n _ _ Oenanthe picata _ loddi 
-berbergeaðgerásttis _ _ berbersteinskvett _ _ _ _ n _ _ Oenanthe moesta _ loddi 
-nunnágeaðgerásttis _ _ svartstrupesteinskvett _ _ _ _ n _ _ Oenanthe pleschanka _ loddi 
-kyprosgeaðgerásttis _ _ kyprossteinskvett _ _ _ _ n _ _ Oenanthe cypriaca _ loddi 
+čáhppesgeađgerásttis _ _ svartsteinskvett _ _ _ _ n _ _ Oenanthe leucura _ loddi 
+geađgerásttis _ _ steinskvett _ _ _ _ n _ _ Oenanthe oenanthe _ loddi 
+afrihkágeađgerásttis _ _ sørgesteinskvett _ _ _ _ n _ _ Oenanthe lugens _ loddi 
+vilgessealgeađgerásttis _ _ hvitryggsteinskvett _ _ _ _ n _ _ Oenanthe finschii _ loddi 
+persiageađgerásttis _ _ persersteinskvett _ _ _ _ n _ _ Oenanthe picata _ loddi 
+berbergeađgerásttis _ _ berbersteinskvett _ _ _ _ n _ _ Oenanthe moesta _ loddi 
+nunnágeađgerásttis _ _ svartstrupesteinskvett _ _ _ _ n _ _ Oenanthe pleschanka _ loddi 
+kyprosgeađgerásttis _ _ kyprossteinskvett _ _ _ _ n _ _ Oenanthe cypriaca _ loddi 
 muŋkageađgerásttis _ _ nonnesteinskvett _ _ _ _ n _ _ Oenanthe alboniger _ loddi 
-gaskamearageaðgerásttis _ _ middelhavssteinskvett _ _ _ _ n _ _ Oenanthe hispanica _ loddi 
-ruksesculpegeaðgerásttis _ _ rustgumpsteinskvett _ _ _ _ n _ _ Oenanthe xanthoprymna _ loddi 
-sáttoábegeaðgerásttis, čáhppesčottageađgerásttis _ _ ørkensteinskvett _ _ _ _ n _ _ Oenanthe deserti _ loddi 
-isabellageaðgerásttis _ _ isabellasteinskvett _ _ _ _ n _ _ Oenanthe isabellina _ loddi 
-čáhppesbaðošrásttis _ _ svartstjert _ _ _ _ n _ _ Cercomela melanura _ loddi 
-gotkageaðgerásttis _ _ termittskvett _ _ _ _ n _ _ Myrmecocichla aethiops _ loddi 
+gaskamearageađgerásttis _ _ middelhavssteinskvett _ _ _ _ n _ _ Oenanthe hispanica _ loddi 
+ruksesculpegeađgerásttis _ _ rustgumpsteinskvett _ _ _ _ n _ _ Oenanthe xanthoprymna _ loddi 
+sáttoábegeađgerásttis, čáhppesčottageađgerásttis _ _ ørkensteinskvett _ _ _ _ n _ _ Oenanthe deserti _ loddi 
+isabellageađgerásttis _ _ isabellasteinskvett _ _ _ _ n _ _ Oenanthe isabellina _ loddi 
+čáhppesbađošrásttis _ _ svartstjert _ _ _ _ n _ _ Cercomela melanura _ loddi 
+gotkageađgerásttis _ _ termittskvett _ _ _ _ n _ _ Myrmecocichla aethiops _ loddi 
 juovvarásttis _ _ steintrost _ _ _ _ n _ _ Monticola saxatilis _ loddi 
 alitrásttis _ _ blåtrost _ _ _ _ n _ _ Monticola solitarius _ loddi 
 sibirjjárásttis _ _ sibirtrost _ _ _ _ n _ _ Zoothera sibirica _ loddi 
@@ -790,7 +845,7 @@ gierdolivkkár _ _ halsbåndfluesnapper _ _ _ _ n _ _ Ficedula albicollis _ lodd
 uhcalivkkár, deaggalivkkár _ _ dvergfluesnapper _ _ _ _ n _ _ Ficedula parva parva _ loddi 
 balkánlivkkár _ _ balkanfluesnapper _ _ _ _ n _ _ Ficedula semitorquata _ loddi 
 taigalivkkár _ _ taigafluesnapper _ _ _ _ n _ _ Ficedula parva albicilla _ loddi 
-baðošgaccet _ _ stjertmeis _ _ _ _ n _ _ Aegithalos caudatus _ loddi 
+bađošgaccet _ _ stjertmeis _ _ _ _ n _ _ Aegithalos caudatus _ loddi 
 bursagaccet, gietkkagaccet _ _ pungmeis _ _ _ _ n _ _ Remiz pendulinus _ loddi 
 rohtogaccet, lastagaccet, soahkegaccet _ _ løvmeis _ _ _ _ n _ _ Parus palustris _ loddi 
 bálkangaccet _ _ balkanmeis _ _ _ _ n _ _ Parus lugubris _ loddi 
@@ -829,16 +884,22 @@ miesttacihci _ _ hekkspurv _ _ _ _ n _ _ Emberiza cirlus _ loddi
 afrihkákastanjácihci _ _ sebraspurv _ _ _ _ n _ _ Emberiza tahapisi _ loddi 
 uhcacihci, deaggacihci _ _ dvergspurv _ _ _ _ n _ _ Emberiza pusilla _ loddi 
 fiskesgulbmecihci _ _ gulbrynspurv _ _ _ _ n _ _ Emberiza chrysophrys _ loddi 
-sieðgacihci, nuortacihci _ _ vierspurv _ _ _ _ n _ _ Emberiza rustica _ loddi 
+sieđgacihci, nuortacihci _ _ vierspurv _ _ _ _ n _ _ Emberiza rustica _ loddi 
 gollecihci _ _ sibirspurv _ _ _ _ n _ _ Emberiza aureola _ loddi 
 ruostacihci _ _ kastanjespurv _ _ _ _ n _ _ Emberiza rutila _ loddi 
 čáhppesoaicihci _ _ svarthodespurv _ _ _ _ n _ _ Emberiza melanocephala _ loddi 
 ruškesoaicihci _ _ brunhodespurv _ _ _ _ n _ _ Emberiza bruniceps _ loddi 
- ránesoaicihci _ _ gråhodespurv _ _ _ _ n _ _ Emberiza spodocephala _ loddi 
+ránesoaicihci _ _ gråhodespurv _ _ _ _ n _ _ Emberiza spodocephala _ loddi 
 uhcasuovkacihci, sibirjjásuovkacihci _ _ krattspurv _ _ _ _ n _ _ Emberiza pallasi _ loddi 
-suovkacihci, hoaššacihci, jeaggecizáš, ravracihci, sieðgacihci _ _ sivspurv _ _ _ _ n _ _ Emberiza schoeniclus _ loddi 
+suovkacihci, hoaššacihci, jeaggecizáš, ravracihci, sieđgacihci _ _ sivspurv _ _ _ _ n _ _ Emberiza schoeniclus _ loddi 
 cizopaš, cizáš, cizohaš, cizot, cizut, cizupaš _ _ lappspurv _ _ _ _ n _ _ Calcarius lapponicus _ loddi 
-állat, duottarállat _ _ snøspurv _ _ _ _ n _ _ Plectrophenax nivalis _ loddi 
+cizopaš, cizáš, cizohaš, cizot, cizut, cizupaš _ _ lappspurv _ _ _ _ n _ _ Calcarius lapponicus _ loddi 
+cizopaš, cizáš, cizohaš, cizot, cizut, cizupaš _ _ lappspurv _ _ _ _ n _ _ Calcarius lapponicus _ loddi 
+cizopaš, cizáš, cizohaš, cizot, cizut, cizupaš _ _ lappspurv _ _ _ _ n _ _ Calcarius lapponicus _ loddi 
+cizopaš, cizáš, cizohaš, cizot, cizut, cizupaš _ _ lappspurv _ _ _ _ n _ _ Calcarius lapponicus _ loddi 
+cizopaš, cizáš, cizohaš, cizot, cizut, cizupaš _ _ lappspurv _ _ _ _ n _ _ Calcarius lapponicus _ loddi 
+állat _ _ snøspurv _ _ _, duottarállat _ n _ _ Plectrophenax nivalis _ loddi 
+duottarállat _ _ snøspurv _ _ _állat,  _ n _ _ Plectrophenax nivalis _ loddi 
 riebancihci _ _ revespurv _ _ _ _ n _ _ Passerella iliaca _ loddi 
 lávlucihci _ _ sangspurv _ _ _ _ n _ _ Melospiza melodia _ loddi 
 jeaggecihci _ _ sumpspurv _ _ _ _ n _ _ Zonotrichia georgiana _ loddi 
@@ -892,7 +953,8 @@ ruškesoaitrupiála _ _ brunhodetrupial _ _ _ _ n _ _ Molothrus ater _ loddi
 risenstárra _ _ bobolink _ _ _ _ n _ _ Dolichonyx oryzivorus _ loddi 
 beibboš _ _ bokfink _ _ _ _ n _ _ Fringilla coelebs _ loddi 
 alitbeibboš _ _ blåfink _ _ _ _ n _ _ Fringilla teydea _ loddi 
-vintán, vinttan _ _ bjørkefink _ _ _ _ n _ _ Fringilla montifringilla _ loddi 
+vintán _ _ bjørkefink _ _ _, vinttan _ n _ _ Fringilla montifringilla _ loddi 
+vinttan _ _ bjørkefink _ _ _vintán,  _ n _ _ Fringilla montifringilla _ loddi 
 ruksesdielkoruoivil _ _ rødpanneirisk _ _ _ _ n _ _ Serinus pusillus _ loddi 
 fiskesruoivil _ _ gulirisk _ _ _ _ n _ _ Serinus serinus _ loddi 
 syriaruoivil _ _ syriairisk _ _ _ _ n _ _ Serinus syriacus _ loddi 
@@ -909,22 +971,32 @@ ruvsosoadjabeibboš _ _ rosenvingefink _ _ _ _ n _ _ Rhodopechys sanguinea _ lod
 sáttobeibboš _ _ trompeterfink _ _ _ _ n _ _ Bucanetes githagineus _ loddi 
  geađgebeibboš _ _ steinfink _ _ _ _ n _ _ Bucanetes mongolicus _ loddi 
 čáhppesnjunbeibboš _ _ svartnebbfink _ _ _ _ n _ _ Rhodospiza obsoleta _ loddi 
-guhkesbaðošbeibboš _ _ langhalefink _ _ _ _ n _ _ Uragus sibiricus _ loddi 
+guhkesbađošbeibboš _ _ langhalefink _ _ _ _ n _ _ Uragus sibiricus _ loddi 
 ruksesbeibboš _ _ rosenfink _ _ _ _ n _ _ Carpodacus erythrinus _ loddi 
 sáttoruksesbeibboš _ _ ørkenrosenfink _ _ _ _ n _ _ Carpodacus synoicus _ loddi 
 ruvsobeibboš _ _ karminfink _ _ _ _ n _ _ Carpodacus roseus _ loddi 
 duottarruksesbeibboš _ _ fjellrosenfink _ _ _ _ n _ _ Carpodacus rubicilla _ loddi 
 bihcebásgáski, stálobeibboš, báhcagasloddi, goahcceloddi _ _ konglebit _ _ _ _ n _ _ Pinicola enucleator _ loddi 
-beahceruossanjunni, beahcebáhcatloddi _ _ furukorsnebb _ _ _ _ n _ _ Loxia pytyopsittacus _ loddi 
+goahcceloddi _ _ konglebit _ _ _, stálobeibboš, báhcagasloddi, bihcebásgáski _ n _ _ Pinicola enucleator _ loddi 
+stálobeibboš _ _ konglebit _ _ _bihcebásgáski, báhcagasloddi, goahcceloddi  _ n _ _ Pinicola enucleator _ loddi 
+báhcagasloddi _ _ konglebit _ _ _bihcebásgáski, stálobeibboš, goahcceloddi  _ n _ _ Pinicola enucleator _ loddi 
+beahceruossanjunni _ _ furukorsnebb _ _ _, beahcebáhcatloddi _ n _ _ Loxia pytyopsittacus _ loddi 
+beahcebáhcatloddi _ _ furukorsnebb _ _ _beahceruossanjunni,  _ n _ _ Loxia pytyopsittacus _ loddi 
 skotlánddabáhcatloddi _ _ skottekorsnebb _ _ _ _ n _ _ Loxia scotica _ loddi 
-guossaruossanjunni, guossabáhcatloddi _ _ grankorsnebb _ _ _ _ n _ _ Loxia curvirostra _ loddi 
-girjebáhcatloddi, girjeruossanjunni _ _ båndkorsnebb _ _ _ _ n _ _ Loxia leucoptera _ loddi 
+guossaruossanjunni _ _ grankorsnebb _ _ _, guossabáhcatloddi _ n _ _ Loxia curvirostra _ loddi 
+guossabáhcatloddi _ _ grankorsnebb _ _ _guossaruossanjunni,  _ n _ _ Loxia curvirostra _ loddi 
+girjebáhcatloddi _ _ båndkorsnebb _ _ _, girjeruossanjunni _ n _ _ Loxia leucoptera _ loddi 
+ggirjeruossanjunni _ _ båndkorsnebb _ _ _irjebáhcatloddi,  _ n _ _ Loxia leucoptera _ loddi 
 ruksesruoivil _ _ dompap _ _ _ _ n _ _ Pyrrhula pyrrhula _ loddi 
-gassanjunbeibboš, geađgečuolan, gassanjunni _ _ kjernebiter _ _ _ _ n _ _ Coccothraustes coccothraustes _ loddi 
+gassanjunbeibboš _ _ kjernebiter _ _ _, geađgečuolan, gassanjunni _ n _ _ Coccothraustes coccothraustes _ loddi 
+geađgečuolan _ _ kjernebiter _ _ _gassanjunbeibboš, gassanjunni  _ n _ _ Coccothraustes coccothraustes _ loddi 
+gassanjunni _ _ kjernebiter _ _ _gassanjunbeibboš, geađgečuolan,  _ n _ _ Coccothraustes coccothraustes _ loddi 
 kiinnágassanjunni _ _ orientkjernebiter _ _ _ _ n _ _ Eophona migratoria _ loddi 
 japángassanjunni _ _ gråkjernebiter _ _ _ _ n _ _ Eophona personata _ loddi 
 eahketbeibboš _ _ gulbrynkjernebiter _ _ _ _ n _ _ Hesperiphona vespertina _ loddi 
-upmolcizáš, ummolcizáš, ládjocizáš _ _ gråsisik _ _ _ _ n _ _ Carduelis flammea _ loddi 
+upmolcizáš _ _ gråsisik _ _ _, ummolcizáš, ládjocizáš _ n _ _ Carduelis flammea _ loddi 
+ummolcizáš _ _ gråsisik _ _ _upmolcizáš, ládjocizáš  _ n _ _ Carduelis flammea _ loddi 
+ládjocizáš _ _ gråsisik _ _ _upmolcizáš, ummolcizáš,  _ n _ _ Carduelis flammea _ loddi 
 vilgesummolcizáš _ _ polarsisik _ _ _ _ n _ _ Carduelis hornemanni _ loddi 
 korsikaruoivil _ _ korsikairisk _ _ _ _ n _ _ Serinus citrinella corsicana _ loddi 
 azoriaruksesruoivil _ _ pyrrhula murina _ _ _ _ n _ _ Pyrrhula murina _ loddi 
@@ -935,11 +1007,14 @@ gássenjunni _ _ vatreastrild _ _ _ _ n _ _ Estrilda astrild _ loddi
 ruksestigerbeibboš _ _ tigerastrild _ _ _ _ n _ _ Amandava amandava _ loddi 
 afrihkásilbanjunni _ _ savannesølvnebb _ _ _ _ n _ _ Euodice cantans _ loddi 
 indiasilbanjunni _ _ indiasølvnebb _ _ _ _ n _ _ Euodice malabarica _ loddi 
-ránescihci, šilljocihci _ _ gråspurv _ _ _ _ n _ _ Passer domesticus _ loddi 
+ránescihci _ _ gråspurv _ _ _, šilljocihci _ n _ _ Passer domesticus _ loddi 
+šilljocihci _ _ gråspurv _ _ _ránescihci,  _ n _ _ Passer domesticus _ loddi 
 gaskamearacihci _ _ middelhavsspurv _ _ _ _ n _ _ Passer hispaniolensis _ loddi 
 tamariskacihci _ _ tamariskspurv _ _ _ _ n _ _ Passer moabiticus _ loddi 
 sáttoábecihci _ _ ørkenspurv _ _ _ _ n _ _ Passer simplex _ loddi 
-beibbošcihci, muorracihci, uhcašilljocihci _ _ pilfink _ _ _ _ n _ _ Passer montanus _ loddi 
+beibbošcihci _ _ pilfink _ _ _, muorracihci, uhcašilljocihci _ n _ _ Passer montanus _ loddi 
+muorracihci _ _ pilfink _ _ _beibbošcihci, uhcašilljocihci  _ n _ _ Passer montanus _ loddi 
+uhcašilljocihci _ _ pilfink _ _ _beibbošcihci, muorracihci,  _ n _ _ Passer montanus _ loddi 
 sahelgollecihci _ _ sahelspurv _ _ _ _ n _ _ Passer luteus _ loddi 
 ádjocihci _ _ bleksteinspurv _ _ _ _ n _ _ Carpospiza brachydactyla _ loddi 
 fiskesčottabáktecihci _ _ gulstrupesteinspurv _ _ _ _ n _ _ Petronia xanthocollis _ loddi 
@@ -951,32 +1026,60 @@ miljongođđinloddi _ _ blodnebbvever _ _ _ _ n _ _ Quelea quelea _ loddi
 kapverdecihci _ _ kappverdespurv _ _ _ _ n _ _ Passer iagoensis _ loddi 
 báktestárra _ _ klippestær _ _ _ _ n _ _ Onychognathus tristramii _ loddi 
 mantsuriastárra _ _ mandsjuriastær _ _ _ _ n _ _ Sturnus sturninus _ loddi 
-ruvsostárra, ruksesstárra _ _ rosenstær _ _ _ _ n _ _ Sturnus roseus _ loddi 
-stárra, sávzaloddi _ _ stær _ _ _ _ n _ _ Sturnus vulgaris _ loddi 
+ruvsostárra _ _ rosenstær _ _ _, ruksesstárra _ n _ _ Sturnus roseus _ loddi 
+ruksesstárra _ _ rosenstær _ _ _ruvsostárra,  _ n _ _ Sturnus roseus _ loddi 
+stárra _ _ stær _ _ _, sávzaloddi _ n _ _ Sturnus vulgaris _ loddi 
+sávzaloddi _ _ stær _ _ _ stárra,_ n _ _ Sturnus vulgaris _ loddi 
 čáhppesstárra _ _ middelhavsstær _ _ _ _ n _ _ Sturnus unicolor _ loddi 
 kiinnástárra _ _ hvitskulderstær _ _ _ _ n _ _ Sturnus sinensis _ loddi 
 šilljomaina _ _ hyrdestær _ _ _ _ n _ _ Acridotheres tristis _ loddi 
 geassegollet _ _ pirol _ _ _ _ n _ _ Oriolus oriolus _ loddi 
-látteguovssat, ruoššaguovssat, vuovdeskeaiki, vuovdevuorččis _ _ nøtteskrike _ _ _ _ n _ _ Garrulus glandarius _ loddi 
+látteguovssat _ _ nøtteskrike _ _ _, ruoššaguovssat, vuovdeskeaiki, vuovdevuorččis _ n _ _ Garrulus glandarius _ loddi 
+ruoššaguovssat _ _ nøtteskrike _ _ _látteguovssat, vuovdeskeaiki, vuovdevuorččis  _ n _ _ Garrulus glandarius _ loddi 
+vuovdeskeaiki _ _ nøtteskrike _ _ _látteguovssat, ruoššaguovssat, vuovdevuorččis  _ n _ _ Garrulus glandarius _ loddi 
+vuovdevuorččis _ _ nøtteskrike _ _ _látteguovssat, ruoššaguovssat, vuovdeskeaiki,  _ n _ _ Garrulus glandarius _ loddi 
 guovssat _ _ lavskrike _ _ _ _ n _ _ Perisoreus infaustus _ loddi 
 alitskire _ _ blåskjære _ _ _ _ n _ _ Cyanopica cyanus _ loddi 
-skire, ruoššaskire, ruoššagáranas _ _ skjære _ _ _ _ n _ _ Pica pica _ loddi 
+skire _ _ skjære _ _ _, ruoššaskire, ruoššagáranas _ n _ _ Pica pica _ loddi 
+ruoššaskire _ _ skjære _ _ _ skire, ruoššagáranas _ n _ _ Pica pica _ loddi 
+ruoššagáranas _ _ skjære _ _ _ skire, ruoššaskire _ n _ _ Pica pica _ loddi 
 niehttegarjá _ _ nøttekråke _ _ _ _ n _ _ Nucifraga caryocatactes _ loddi 
 álpavuoraš _ _ alpekråke _ _ _ _ n _ _ Pyrrhocorax pyrrhocorax _ loddi 
-álpagájon, álpagarjá _ _ alpekaie _ _ _ _ n _ _ Pyrrhocorax graculus _ loddi 
-toardnagájon, toardnagarjá, bealdogáranas _ _ kaie _ _ _ _ n _ _ Corvus monedula _ loddi 
+álpagájon _ _ alpekaie _ _ _, álpagarjá _ n _ _ Pyrrhocorax graculus _ loddi 
+álpagarjá _ _ alpekaie _ _ _ álpagájon, _ n _ _ Pyrrhocorax graculus _ loddi 
+toardnagájon _ _ kaie _ _ _, toardnagarjá, bealdogáranas _ n _ _ Corvus monedula _ loddi 
+toardnagarjá _ _ kaie _ _ _ toardnagájon, bealdogáranas  _ n _ _ Corvus monedula _ loddi 
+bealdogáranas _ _ kaie _ _ _ toardnagájon, toardnagarjá _ n _ _ Corvus monedula _ loddi 
 sibirjjágájon _ _ mongolkaie _ _ _ _ n _ _ Corvus dauuricus _ loddi 
 indiagarjá _ _ huskråke _ _ _ _ n _ _ Corvus splendens _ loddi 
-bealdovuoraš, bealdogarjá, čáhppesgarjá, čáhppesvuoražas _ _ kornkråke _ _ _ _ n _ _ Corvus frugilegus _ loddi 
+bealdovuoraš _ _ kornkråke _ _ _, bealdogarjá, čáhppesgarjá, čáhppesvuoražas _ n _ _ Corvus frugilegus _ loddi 
+bealdogarjá _ _ kornkråke _ _ _bealdovuoraš, čáhppesgarjá, čáhppesvuoražas  _ n _ _ Corvus frugilegus _ loddi 
+čáhppesgarjá _ _ kornkråke _ _ _ bealdovuoraš, bealdogarjá, čáhppesvuoražas  _ n _ _ Corvus frugilegus _ loddi 
+čáhppesvuoražas _ _ kornkråke _ _ _ bealdovuoraš, bealdogarjá, čáhppesgarjá,  _ n _ _ Corvus frugilegus _ loddi 
 gožuvuoražas _ _ svartkråke _ _ _ _ n _ _ Corvus corone _ loddi 
 afrihkágarjá _ _ hvitbrystkråke _ _ _ _ n _ _ Corvus albus _ loddi 
 sáttoáhpigáranas _ _ brunnakkeravn _ _ _ _ n _ _ Corvus ruficollis _ loddi 
-bulddogas, gáranas, gárnagas, buldogas, bulddán, garjá, goarpa, ruŋka, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas _ _ ravn _ _ _ _ n _ _ Corvus corax _ loddi 
-oanehisbaðošgáranas _ _ korthaleravn _ _ _ _ n _ _ Corvus rhipidurus _ loddi 
-vuoražas, gáranas, vuorččis, vuoraš, ruoššagáranas, garjá _ _ kråke _ _ _ _ n _ _ Corvus cornix _ loddi 
-gávpotduvvá, duvvá _ _ bydue _ _ _ _ n _ _ Columba livia domestica _ loddi 
+bulddogas _ _ ravn _ _ _, gáranas, gárnagas, buldogas, bulddán, garjá, goarpa, ruŋka, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+gáranas _ _ ravn _ _ _bulddogas, gárnagas, buldogas, bulddán, garjá, goarpa, ruŋka, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+gárnagas _ _ ravn _ _ _bulddogas, gáranas, buldogas, bulddán, garjá, goarpa, ruŋka, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+buldogas _ _ ravn _ _ _bulddogas, gáranas, gárnagas, bulddán, garjá, goarpa, ruŋka, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas  _ n _ _ Corvus corax _ loddi 
+bulddán _ _ ravn _ _ _ bulddogas, gáranas, gárnagas, buldogas, garjá, goarpa, ruŋka, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+garjá _ _ ravn _ _ _ bulddogas, gáranas, gárnagas, buldogas, bulddán, goarpa, ruŋka, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+goarpa _ _ ravn _ _ _ bulddogas, gáranas, gárnagas, buldogas, bulddán, garjá ruŋka, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+ruŋka _ _ ravn _ _ _ bulddogas, gáranas, gárnagas, buldogas, bulddán, garjá, goarpa, ruŋku, duottargarjá, gumpegarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+ruŋku _ _ ravn _ _ _ bulddogas, gáranas, gárnagas, buldogas, bulddán, garjá, goarpa, ruŋka, duottargarjá, gumpegarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+gumpegarjá _ _ ravn _ _ _ bulddogas, gáranas, gárnagas, buldogas, bulddán, garjá, goarpa, ruŋka, ruŋku, duottargarjá, čáhppesgáranas _ n _ _ Corvus corax _ loddi 
+čáhppesgáranas _ _ ravn _ _ _ bulddogas, gáranas, gárnagas, buldogas, bulddán, garjá, goarpa, ruŋka, ruŋku, duottargarjá, gumpegarjá,  _ n _ _ Corvus corax _ loddi 
+oanehisbađošgáranas _ _ korthaleravn _ _ _ _ n _ _ Corvus rhipidurus _ loddi 
+vuoražas _ _ kråke _ _ _, gáranas, vuorččis, vuoraš, ruoššagáranas, garjá _ n _ _ Corvus cornix _ loddi 
+gáranas _ _ kråke _ _ _vuoražas, vuorččis, vuoraš, ruoššagáranas, garjá _ n _ _ Corvus cornix _ loddi 
+vuorččis _ _ kråke _ _ _vuoražas, gáranas, vuoraš, ruoššagáranas, garjá _ n _ _ Corvus cornix _ loddi 
+vuoraš _ _ kråke _ _ _vuoražas, gáranas, vuorččis, ruoššagáranas, garjá _ n _ _ Corvus cornix _ loddi 
+ruoššagáranas _ _ kråke _ _ _vuoražas, gáranas, vuorččis, vuoraš _ n _ _ Corvus cornix _ loddi 
+garjá _ _ kråke _ _ _vuoražas, gáranas, vuorččis, vuoraš, ruoššagáranas _ n _ _ Corvus cornix _ loddi 
+gávpotduvvá _ _ bydue _ _ _, duvvá _ n _ _ Columba livia domestica _ loddi 
+duvvá _ _ bydue _ _ _ gávpotduvvá _ n _ _ Columba livia domestica _ loddi 
 atlaslivkkár _ _ atlasfluesnapper _ _ _ _ n _ _ Ficedula speculigera _ loddi 
 gahpergaccet _ _ kalottmeis _ _ _ _ n _ _ Cyanistes teneriffae _ loddi 
 ásiačáhppesskilki _ _ asiasvartstrupe _ _ _ _ n _ _ Saxicola maurus _ loddi 
 gorsacihci _ _ ravinespurv _ _ _ _ n _ _ Emberiza striolata _ loddi 
- _ _  _ _ _ _ n _ _  _ loddi 
