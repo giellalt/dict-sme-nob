@@ -19017,7 +19017,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t gen="f" pos="N">flettet snor til komagbånd</t>
+            <t gen="f" pos="N">flette</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t gen="f" pos="N">flettet snor til kommagbånd</t>
          </tg>
       </mg>
    </e>
@@ -49289,6 +49294,52 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">beaivvášsevnnjodeapmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="n" pos="N">solformørkelse</t>
+        </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">čuolddavuotta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>vevd med opplukk</re>
+            <t pos="N">kommagbånd</t>
+            <t pos="N">skallebånd</t>
+        </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">vuoiggovuotta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>vevd uten opplukk</re>
+            <t pos="N">kommagbånd</t>
+            <t pos="N">skallebånd</t>
+        </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">njuolggovuotta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>vevd uten opplukk</re>
+            <t pos="N">kommagbånd</t>
+            <t pos="N">skallebånd</t>
+        </tg>
+      </mg>
+   </e>
    <e src="nj" usage="vd">
       <lg>
          <l pos="N">vuotta</l>
@@ -49296,7 +49347,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="1" gen="n" pos="N">komagbånd</t>
+            <t decl="1" gen="n" pos="N">kommagbånd</t>
+            <t decl="1" gen="n" pos="N">skallebånd</t>
          </tg>
       </mg>
    </e>
@@ -53811,8 +53863,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="1" gen="m" pos="N">komag</t>
-            <t decl="1" gen="m" pos="N">sommerkomag</t>
+            <t decl="1" gen="m" pos="N">kommag</t>
+            <t decl="1" gen="m" pos="N">sommerkommag</t>
          </tg>
       </mg>
    </e>
@@ -70251,7 +70303,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">komagtupp</t>
+            <t pos="N">kommagtupp</t>
          </tg>
       </mg>
    </e>

@@ -2778,21 +2778,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nj" usage="vd">
       <lg>
-         <l pos="Adv">easkka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">nettopp</t>
-            <t pos="Adv">nylig</t>
-            <xg>
-               <x>De easkka vulggii.</x>
-               <xt>Da først dro hun.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
-      <lg>
          <l pos="Adv">easka</l>
       </lg>
       <mg>
@@ -2800,14 +2785,51 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <t pos="Adv">nettopp</t>
             <t pos="Adv">nylig</t>
             <xg>
-               <x>De easka vulggii.</x>
-               <xt>Da først dro hun.</xt>
-            </xg>
-            <xg>
                <x>Moai letne easka boahtán.</x>
                <xt>Vi to har nettopp kommet.</xt>
             </xg>
          </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">først</t>
+            <xg>
+               <x>De easka vulggii.</x>
+               <xt>Da først dro hun.</xt>
+            </xg>
+             <xg>
+               <x>Ja easka dál don muitalat dien!</x>
+               <xt>Og først nå forteller du det!</xt>
+            </xg>
+        </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Adv">easkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nettopp</t>
+            <t pos="Adv">nylig</t>
+            <xg>
+               <x>Moai letne easkka boahtán.</x>
+               <xt>Vi to har nettopp kommet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">først</t>
+            <xg>
+               <x>De easkka vulggii.</x>
+               <xt>Da først dro hun.</xt>
+            </xg>
+             <xg>
+               <x>Ja easkka dál don muitalat dien!</x>
+               <xt>Og først nå forteller du det!</xt>
+            </xg>
+        </tg>
       </mg>
    </e>
    <e src="nj" usage="vd">
@@ -3042,6 +3064,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">nylig</t>
+            <xg>
+               <x>Det var nylig kommet ny prest dit.</x>
+               <xt>Dohko lei gieskat boahtán ođđa báhppa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
