@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="smenob" xml:lang="sme">
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Adv">dievva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">full</t>
+            <xg>
+               <x>Lihtti lea dievva.</x>
+               <xt>Skåla er full.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>med maksimalt innhold, fylt</re>
+            <t pos="A">full</t>
+            <xg>
+               <x>Skåla er full.</x>
+               <xt>Lihtti lea dievva.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Adv">gárremiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">full</t>
+            <xg>
+               <x>Son lea gárremiin.</x>
+               <xt>Han er full.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>beruset</re>
+            <t pos="A">full</t>
+            <xg>
+               <x>Han er full.</x>
+               <xt>Son lea gárremiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="Adv">lahka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nær</t>
+            <xg>
+               <x>Álttás lea válljen bargat, go de lea nu lahka Guovdageainnu go vejolaš.</x>
+               <xt>Hun har valgt å arbeide i Alta, fordi det er så nært Kautokeino som mulig.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om sted</re>
+            <t pos="A">nær</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg/>
+   </e>
+</r>
