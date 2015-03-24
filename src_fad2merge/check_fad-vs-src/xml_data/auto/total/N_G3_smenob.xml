@@ -9,11 +9,6 @@
             <t decl="1" gen="m" pos="N">klasse</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">klasse</t>
-         </tg>
-      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -22,13 +17,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re x="fad">om storfe</re>
             <t decl="1" gen="m" pos="N">okse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>om storfe</re>
-            <t pos="N">okse</t>
          </tg>
       </mg>
    </e>
@@ -41,11 +31,6 @@
             <t decl="1" gen="f" pos="N">adresse</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">adresse</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -56,22 +41,12 @@
             <t decl="yyy" gen="m" pos="N">forhandlingsmodell</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">forhandlingsmodell</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
          <l pos="N" type="G3">modealla</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">modell</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">modell</t>
          </tg>
@@ -86,22 +61,12 @@
             <t decl="yyy" gen="xxx" pos="N">bjørkeris</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">bjørkeris</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
          <l pos="N" type="G3">biffa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">biff</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">biff</t>
          </tg>
@@ -117,22 +82,12 @@
             <t decl="1" gen="m" pos="N">katt</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">katt</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
          <l pos="N" type="G3">tálla</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">tall</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">tall</t>
             <xg>
@@ -151,22 +106,12 @@
             <t decl="2" gen="f" pos="N">rolle</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">rolle</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
          <l pos="N" type="G3">spilla</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">spill</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">spill</t>
          </tg>
@@ -181,22 +126,12 @@
             <t decl="1" gen="n" pos="N">kråkesølv</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kråkesølv</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
          <l pos="N" type="G3">gudneguossi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">æresgjest</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">æresgjest</t>
          </tg>
@@ -211,11 +146,6 @@
             <t pos="N">pass</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">pass</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -223,11 +153,6 @@
          <lsub>skuvlabussa</lsub>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skolebuss</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">skolebuss</t>
          </tg>
@@ -255,24 +180,6 @@
             </xg>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kasse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">gass</t>
-            <xg>
-               <x>Min biilavuoddji lei nu suorganan ahte ille šat nagoda duolmmastit gása.</x>
-               <xt>Bilføreren vår var så forskrekket at hun knapt greide å trø på gassen.</xt>
-            </xg>
-            <xg>
-               <x>Sii áigot fievrridit Snøhvit-guovllu gása olgoriikii.</x>
-               <xt>De skal føre gassen fra Snøhvit til utlandet.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -282,11 +189,6 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="N">kasse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kasse</t>
          </tg>
       </mg>
    </e>
@@ -300,11 +202,6 @@
             <t decl="1" gen="m" pos="N">bokbuss</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">bokbuss</t>
-         </tg>
-      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -314,11 +211,6 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="n" pos="N">gull</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">gull</t>
          </tg>
       </mg>
    </e>
@@ -331,11 +223,6 @@
             <t decl="1" gen="m" pos="N">fiskehjell</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">fiskehjell</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -344,11 +231,6 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="n" pos="N">hotell</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">hotell</t>
          </tg>
       </mg>
    </e>
@@ -362,11 +244,6 @@
             <t decl="1" gen="m" pos="N">sil</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">sil</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -377,11 +254,6 @@
             <t decl="1" gen="m" pos="N">tabell</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">tabell</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -390,11 +262,6 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="f" pos="N">drosje</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">drosje</t>
          </tg>
       </mg>
    </e>
