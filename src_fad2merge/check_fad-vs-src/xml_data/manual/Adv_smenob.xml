@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r id="smenob" xml:lang="sme">
+<r xml:lang="sme">
    <e src="nj" usage="vd">
       <lg>
          <l pos="Adv">dievva</l>
@@ -13,13 +13,13 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg x="fad">
          <tg xml:lang="nob">
             <re>med maksimalt innhold, fylt</re>
             <t pos="A">full</t>
             <xg>
-               <x>Skåla er full.</x>
-               <xt>Lihtti lea dievva.</xt>
+               <x>Lihtti lea dievva.</x>
+               <xt>Skåla er full.</xt>
             </xg>
          </tg>
       </mg>
@@ -37,13 +37,13 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg x="fad">
          <tg xml:lang="nob">
             <re>beruset</re>
             <t pos="A">full</t>
             <xg>
-               <x>Han er full.</x>
-               <xt>Son lea gárremiin.</xt>
+               <x>Son lea gárremiin.</x>
+               <xt>Han er full.</xt>
             </xg>
          </tg>
       </mg>
@@ -61,7 +61,7 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg x="fad">
          <tg xml:lang="nob">
             <re>om sted</re>
             <t pos="A">nær</t>
