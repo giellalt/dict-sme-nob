@@ -6,7 +6,7 @@ id CDATA #REQUIRED
 
 <!ELEMENT lics  ( lic , ref* , sourcenote* )>
 <!ATTLIST lics xml:space (default|preserve) 'preserve'
-          xmlns:xhtml CDATA #FIXED
+          xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
           xhtml:script CDATA #FIXED "http://www.w3.org/1999/xhtml" 
           >
 
