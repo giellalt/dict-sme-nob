@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!ELEMENT r (lics?, e+, xhtml:script?) >
+<!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"      
+	  xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED
+id CDATA #REQUIRED
+>
+
+<!ELEMENT lics  ( lic , ref* , sourcenote* )>
+<!ATTLIST lics xml:space (default|preserve) 'preserve'
+          xmlns:xhtml CDATA #FIXED
+          xhtml:script CDATA #FIXED "http://www.w3.org/1999/xhtml" 
+          >
+
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a|i)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
+
+<!ELEMENT e  ( lg , mg+ )>
+<!ATTLIST e
+usage CDATA #IMPLIED
+src CDATA #IMPLIED
+reverse CDATA #IMPLIED
+illpl CDATA #IMPLIED
+>
+
+<!ELEMENT lg  ( l , lemma_ref? , analysis* , mini_paradigm? , l_ref? , lsub* , lc* )>
+
+<!ELEMENT l  ( #PCDATA )>
+<!ATTLIST l
+pos CDATA #REQUIRED
+context CDATA #IMPLIED
+pg CDATA #IMPLIED
+vmax CDATA #IMPLIED
+attr CDATA #IMPLIED
+type CDATA #IMPLIED
+nr CDATA #IMPLIED
+sem_type CDATA #IMPLIED
+illpl CDATA #IMPLIED
+pers CDATA #IMPLIED
+mod CDATA #IMPLIED
+>
+
+<!ELEMENT lemma_ref  ( #PCDATA )>
+<!ATTLIST lemma_ref
+lemmaID CDATA #REQUIRED
+>
+
+<!ELEMENT analysis  ( #PCDATA | wordform )* >
+<!ATTLIST analysis
+ms CDATA #IMPLIED
+>
+
+<!ELEMENT wordform  ( #PCDATA )>
+
+
+<!ELEMENT mini_paradigm  ( analysis+ )>
+
+<!ELEMENT l_ref  ( #PCDATA )>
+
+<!ELEMENT lsub  ( #PCDATA )>
+
+<!ELEMENT lc  ( #PCDATA )>
+
+
+
+<!ELEMENT mg  ( tg+ )>
+
+<!ELEMENT tg  ( re? , t+ , xg* )>
+<!ATTLIST tg
+xml:lang CDATA #REQUIRED
+>
+
+<!ELEMENT re  ( #PCDATA )>
+
+<!ELEMENT t  ( #PCDATA )>
+<!ATTLIST t
+pos CDATA #IMPLIED
+decl CDATA #IMPLIED
+gen CDATA #IMPLIED
+t_type CDATA #IMPLIED
+dict CDATA #IMPLIED
+type CDATA #IMPLIED
+sem_type CDATA #IMPLIED
+reg CDATA #IMPLIED
+country CDATA #IMPLIED
+alt_str CDATA #IMPLIED
+src CDATA #IMPLIED
+nr CDATA #IMPLIED
+href CDATA #IMPLIED
+>
+
+
+<!ELEMENT xg  ( x , xt )>
+<!ATTLIST xg
+re CDATA #IMPLIED
+>
+
+<!ELEMENT x  ( #PCDATA )>
+<!ATTLIST x
+src CDATA #IMPLIED
+>
+
+<!ELEMENT xt  ( #PCDATA )>
+<!ATTLIST xt
+src CDATA #IMPLIED
+>
+
+
+<!ELEMENT script  EMPTY>
+<!ATTLIST script
+src CDATA #REQUIRED
+type CDATA #REQUIRED
+>
+
+<!ELEMENT xhtml:script EMPTY >
+<!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >
+<!ATTLIST xhtml:script src  CDATA #IMPLIED >
+<!ATTLIST xhtml:script xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml" >
+
+
+
