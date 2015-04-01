@@ -7,13 +7,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">som eier mye</re>
             <t decl="1" pos="A">rik</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="A">velstående</t>
+            <t  src="fad" pos="A">velstående</t>
          </tg>
       </mg>
    </e>
@@ -24,11 +19,7 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="3" pos="A">skremmende</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="A">urovekkende</t>
+            <t src="fad" pos="A">urovekkende</t>
          </tg>
       </mg>
    </e>
@@ -60,11 +51,7 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="2" pos="A">merkelig</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="A">pussig</t>
+            <t src="fad" pos="A">pussig</t>
          </tg>
       </mg>
    </e>
@@ -74,10 +61,10 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">usammensatt, naturlig, liketil</re>
+            <re x="fad">usammensatt</re>
             <t decl="5" pos="A">enkel</t>
             <xg>
-               <x>eaŋkalis vuohki</x>
+               <x>ovttageardánis vuohki</x>
                <xt>enkel måte</xt>
             </xg>
             <xg>
@@ -154,7 +141,6 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">bein, rank</re>
             <t decl="2" pos="A">rett</t>
             <t decl="1" pos="A">bein</t>
          </tg>
@@ -197,12 +183,6 @@
             <t pos="A">streng</t>
          </tg>
       </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>hard, streng, hensynsløs</re>
-            <t pos="A">vanskelig</t>
-         </tg>
-      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -218,11 +198,6 @@
       <mg src="fad">
          <tg xml:lang="nob">
             <t pos="A">variert</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>rikt variert</re>
             <t pos="A">mangfoldig</t>
          </tg>
       </mg>
@@ -329,16 +304,8 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="2" pos="A">pålitelig</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="A">trofast</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="A">lojal</t>
+            <t src="fad" pos="A">trofast</t>
+            <t src="fad" pos="A">lojal</t>
          </tg>
       </mg>
    </e>
@@ -348,7 +315,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="2" pos="A">pengemessig</t>
+            <t src="fad" decl="2" pos="A">økonomisk</t>
+            <t src="fad" pos="A">finansiell</t>
             <xg>
                <x>Mis eai leat ruđalaš eaige olmmošlaš návccat dien bargui.</x>
                <xt>Vi har verken økonomiske eller menneskelige ressurser til det arbeidet.</xt>
@@ -363,20 +331,6 @@
                <x>Ánne lea issoras ruđalaš nisu.</x>
                <xt>Ánne er en veldig rik kvinne.</xt>
             </xg>
-            <xg>
-               <x>Ánne lea issoras ruđalaš nisu.</x>
-               <xt>Anne er en veldig rik kvinne.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="A">finansiell</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="A">økonomisk</t>
          </tg>
       </mg>
    </e>
@@ -491,19 +445,10 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="1" pos="A">viss</t>
+            <t src="fad" pos="A">bestemt</t>
             <xg>
                <x>Mun human dihto ášši birra.</x>
                <xt>Jeg snakker om en viss sak.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>viss</re>
-            <t pos="A">bestemt</t>
-            <xg>
-               <x>Mun human vissis ášši birra.</x>
-               <xt>Jeg snakker om en bestemt sak.</xt>
             </xg>
          </tg>
       </mg>
@@ -520,7 +465,6 @@
       </mg>
       <mg src="fad">
          <tg xml:lang="nob">
-            <re>svakere enn galmmas</re>
             <t pos="A">kald</t>
          </tg>
       </mg>
@@ -599,19 +543,14 @@
          <tg xml:lang="nob">
             <t decl="2" pos="A">umulig</t>
             <xg>
-               <x>Boastajuogadeddjiide lea muhtumin veadjemeahttun diehtit geasa reivvet gullet.</x>
-               <xt>For postbetjenter er det av og til umulig å vite hvem brevene tilhører.</xt>
+               <x>Ja dalle álget visot bohccot viggat davás, nu ahte lea goase máŧoheapmi doallat.</x>
+               <xt>Og da begynner all reinen å trekke nordover, slik at det er nesten umulig å holde dem.</xt>
             </xg>
          </tg>
       </mg>
       <mg src="fad">
          <tg xml:lang="nob">
-            <re>umåtelig</re>
             <t pos="A">enorm</t>
-            <xg>
-               <x>issoras valáštallanillu</x>
-               <xt>enorm idrettsglede</xt>
-            </xg>
             <xg>
                <x>Sirpmá skuvlabiire lei máŧohis viiddis.</x>
                <xt>Sirma skolekrets var enorm i utstrekning.</xt>
@@ -669,6 +608,10 @@
          <tg xml:lang="nob">
             <re>ublandet</re>
             <t pos="A">ren</t>
+            <xg>
+               <x>Galget leat sieiva nisson- ja almmáiolbmojoavkkut.</x>
+               <xt>Det skal være rene kvinne- og herrelag.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -728,16 +671,16 @@
          <l context="olmmoš" pos="A">áššálaš</l>
          <lc>-laččat, -lažžii</lc>
       </lg>
+      <mg src="fad">
+         <tg xml:lang="nob">
+            <t pos="A">saklig</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <re x="fad">i juridisk forstand</re>
             <t decl="2" pos="A">skyldig</t>
             <t decl="2" pos="A">tiltalt</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="A">saklig</t>
          </tg>
       </mg>
    </e>
@@ -766,12 +709,7 @@
       <mg>
          <tg xml:lang="nob">
             <t decl="2" pos="A">uunngåelig</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>uunngåelig</re>
-            <t pos="A">nødvendig</t>
+            <t src="fad" pos="A">nødvendig</t>
          </tg>
       </mg>
    </e>

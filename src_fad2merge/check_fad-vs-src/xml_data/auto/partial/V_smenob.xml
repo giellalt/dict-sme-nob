@@ -12,15 +12,16 @@
                <x>Mun lea láhčán seaŋgga oađđin láhkai.</x>
                <xt>Jeg har redd opp sengen ferdig til å sove i.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t src="fad" pos="V">tilrettelegge</t>
+            <t pos="V">legge opp til</t>
             <xg>
                <x>Go eiseválddit álgoálggus leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go dál lea dilli šaddan váttisin.</x>
                <xt>Når myndighetene fra begynnelsen har lagt opp situasjonen sånn her, så må de takke seg selv for at situasjonen nå er blitt vanskelig.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">tilrettelegge</t>
          </tg>
       </mg>
    </e>
@@ -46,11 +47,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">pynte</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">utsmykke</t>
+            <t src="fad" pos="V">utsmykke</t>
          </tg>
       </mg>
    </e>
@@ -66,17 +63,7 @@
       <mg src="fad">
          <tg xml:lang="nob">
             <t pos="V">bortvise</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">utvise</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>kommandere</re>
-            <t pos="V">pålegge</t>
+            <t src="fad" pos="V">utvise</t>
          </tg>
       </mg>
    </e>
@@ -103,13 +90,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">uttrykke sin misnøye</re>
-            <t pos="V">beklage</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">murre</t>
+            <t pos="V">uttrykke sin misnøye</t>
+            <t src="fad" pos="V">murre</t>
          </tg>
       </mg>
    </e>
@@ -135,16 +117,8 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forene</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">konsolidere</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">kombinere</t>
+            <t src="fad" pos="V">konsolidere</t>
+            <t src="fad" pos="V">kombinere</t>
          </tg>
       </mg>
    </e>
@@ -155,22 +129,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">innskrenke</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">avgrense</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">snevre</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>innsnevre</re>
-            <t pos="V">begrense</t>
+            <t src="fad" pos="V">begrense</t>
          </tg>
       </mg>
    </e>
@@ -182,7 +141,6 @@
       <mg>
          <tg xml:lang="nob">
             <re>en gang</re>
-            <re x="fad">påpeke en enkelt ting</re>
             <t pos="V">påpeke</t>
          </tg>
       </mg>
@@ -231,16 +189,11 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">vokte</t>
+            <t pos="V">overvåke</t>
             <xg>
                <x>Geahččalan aŋkke gozihit visot servodahkii gullevaš áššiid.</x>
                <xt>Jeg prøver likevel å følge med i alle samfunnssaker.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">overvåke</t>
          </tg>
       </mg>
    </e>
@@ -257,11 +210,6 @@
       <mg src="fad">
          <tg xml:lang="nob">
             <t pos="V">tilrå</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>råde</re>
             <t pos="V">anbefale</t>
          </tg>
       </mg>
@@ -357,11 +305,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">instruere</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">veilede</t>
+            <t src="fad" pos="V">veilede</t>
          </tg>
       </mg>
    </e>
@@ -373,10 +317,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">oppbevare</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">lagre</t>
          </tg>
       </mg>
@@ -398,10 +338,6 @@
       <mg src="fad">
          <tg xml:lang="nob">
             <t pos="V">utrede</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
             <t pos="V">avklare</t>
          </tg>
       </mg>
@@ -413,11 +349,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">livberge</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">livnære</t>
+            <t src="fad" pos="V">livnære</t>
          </tg>
       </mg>
    </e>
@@ -445,13 +377,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">huie</re>
             <t pos="V">rope</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">hoie</t>
+            <t src="fad" pos="V">hoie</t>
          </tg>
       </mg>
    </e>
@@ -462,11 +389,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ta forbehold</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">forutsette</t>
+            <t src="fad" pos="V">forutsette</t>
          </tg>
       </mg>
    </e>
@@ -477,11 +400,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">avtale</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">forhandle</t>
          </tg>
       </mg>
    </e>
@@ -508,18 +426,8 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">innskrenke</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>innsnevre</re>
-            <t pos="V">begrense</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>innskrenke</re>
-            <t pos="V">redusere</t>
+            <t src="fad" pos="V">begrense</t>
+            <t src="fad" pos="V">redusere</t>
          </tg>
       </mg>
    </e>
@@ -531,6 +439,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kunne</t>
+            <t src="fad" pos="V">beherske</t>
             <xg>
                <x>Ohcat olbmo gii máhttá sámegiela sihke čálalaččat ja njálmmálaččat.</x>
                <xt>Vi søker en person som kan samisk både skriftlig og muntlig.</xt>
@@ -539,11 +448,6 @@
                <x>Dan mun máhtán bajil.</x>
                <xt>Jeg kan det utenat.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">beherske</t>
          </tg>
       </mg>
    </e>
@@ -591,7 +495,6 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">ytre, uttale</re>
             <t pos="V">si</t>
             <xg>
                <x>Oahpaheaddji logai ohppiide ahte fertejit muitit bargat bihtáid.</x>
@@ -694,12 +597,6 @@
             <t pos="V">såre</t>
          </tg>
       </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>skade</re>
-            <t pos="V">såre</t>
-         </tg>
-      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -750,11 +647,18 @@
       </mg>
       <mg src="fad">
          <tg xml:lang="nob">
-            <re>løfte</re>
             <t pos="V">heve</t>
             <xg>
                <x>Eadni ii dárbbaš gal jiena bajidit.</x>
                <xt>Mor trenger da ikke heve stemmen.</xt>
+            </xg>
+            <xg>
+               <x>Ovdagoddi deattuhii man dehálaš lea loktet sámegiela árvvu.</x>
+               <xt>Formannskapet understreket hvor viktig det er å heve verdien av samisk språk.</xt>
+            </xg>
+            <xg>
+               <x>Gávppis lea vejolaš loktet ruđa.</x>
+               <xt>I butikken er det mulig å heve penger.</xt>
             </xg>
          </tg>
       </mg>
@@ -808,12 +712,6 @@
             </xg>
          </tg>
       </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>lage</re>
-            <t pos="V">skape</t>
-         </tg>
-      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -822,7 +720,6 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">tap</re>
             <t pos="V">miste</t>
             <xg>
                <x>Boanddat báikkážis masset olle sávzzaid boraspiriide.</x>
@@ -834,6 +731,10 @@
          <tg xml:lang="nob">
             <re>lide tap, miste</re>
             <t pos="V">tape</t>
+            <xg>
+               <x>Boazodoallu ja eará sámi ealáhusat sáhttet massit ain eanet eatnamiid suodjalussii dahje earáide.</x>
+               <xt>Reindriften og andre samiske næringer kan tape ytterligere arealer til forsvaret eller andre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -843,12 +744,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">reise seg</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">oppstå</t>
+            <t pos="V">reise seg opp</t>
          </tg>
       </mg>
    </e>
@@ -859,15 +755,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bry seg om</t>
+            <t src="fad" pos="V">interessere</t>
             <xg>
                <x>Mun beroštan das.</x>
                <xt>Jeg bryr meg om det.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <t pos="V">interessere</t>
          </tg>
       </mg>
    </e>
@@ -930,12 +822,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rotere</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>dreie rundt</re>
-            <t pos="V">vri</t>
+            <t pos="V">dreie rundt</t>
          </tg>
       </mg>
    </e>
@@ -945,7 +832,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bevege</t>
+            <t pos="V">bevege seg</t>
          </tg>
       </mg>
       <mg src="fad">
@@ -962,12 +849,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">vandre</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>vandre</re>
-            <t pos="V">ferdes</t>
+            <t src="fad" pos="V">ferdes</t>
          </tg>
       </mg>
    </e>
@@ -978,12 +860,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">spores</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>spores, merkes</re>
-            <t pos="V">synes</t>
+            <t src="fad" pos="V">synes</t>
          </tg>
       </mg>
    </e>
@@ -993,13 +870,16 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">entallssubjekt</re>
-            <t pos="V">inneholde</t>
+            <t pos="V">inneholde</t> 
+            <xg>
+               <x>Plána sáhttá sisttisdoallat iešguđetlágan doaibmabijuid.</x>
+               <xt>Planen kan inneholde forskjellige tiltak.</xt>
+            </xg>
          </tg>
       </mg>
       <mg src="fad">
          <tg xml:lang="nob">
-            <re>spenne om el. over</re>
+            <re>spenne om eller over</re>
             <t pos="V">omfatte</t>
          </tg>
       </mg>
@@ -1028,12 +908,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rette på</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>rette på</re>
-            <t pos="V">justere</t>
+            <t src="fad" pos="V">justere</t>
          </tg>
       </mg>
    </e>
@@ -1051,12 +926,6 @@
             </xg>
          </tg>
       </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>begynne å kjenne</re>
-            <t pos="V">identifisere</t>
-         </tg>
-      </mg>
    </e>
    <e src="nj" usage="vd">
       <lg>
@@ -1066,12 +935,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lappe</t>
-         </tg>
-      </mg>
-      <mg src="fad">
-         <tg xml:lang="nob">
-            <re>sy igjen, lappe</re>
-            <t pos="V">bøte</t>
+            <t src="fad" pos="V">bøte</t>
          </tg>
       </mg>
    </e>
