@@ -279,3 +279,19 @@ N_Prop_Pl_non-accepted_smenob.xml => POS_TYPE_SPECIFIC-FEATURE_SPECIFIC-DESCRIPT
 TODO: docu has to be kept in sync (name and attribute changes)
  techdoc/dicts/dictionarywork.jspwiki
  techdoc/dicts/checklist.jspwiki
+
+===================================================================
+List of possible src value (please, add here new values, if needed)
+===================================================================
+fad = FAD project
+nj = Nils Jernsletten's dictionary ==> no longer in use
+gt = Giellatekno (vs. nj) ==> no longer in use
+sk = Statens Kartverk
+SvSt = Saami Parliament in Sweden
+ps = Pekka Sammallahti's "Sámi-suoma sátnegirji"
+sa = H.R. Mathisen's "Sámi Atlas"
+kal = Kåven et Al 1995 "Samisk-norsk ordbok"
+sgg = Sámi Giellagáldu
+nou94 = ???
+
+
