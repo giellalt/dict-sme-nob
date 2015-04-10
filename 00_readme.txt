@@ -294,4 +294,4 @@ kal = Kåven et Al 1995 "Samisk-norsk ordbok"
 sgg = Sámi Giellagáldu
 nou94 = ???
 
-
+ ==> todo: correct values: SK vs. sk, PS vs. ps
