@@ -286,12 +286,12 @@ List of possible src value (please, add here new values, if needed)
 fad = FAD project
 nj = Nils Jernsletten's dictionary ==> no longer in use
 gt = Giellatekno (vs. nj) ==> no longer in use
-sk = Statens Kartverk
+SK = Statens Kartverk
 SvSt = Saami Parliament in Sweden
-ps = Pekka Sammallahti's "Sámi-suoma sátnegirji"
-sa = H.R. Mathisen's "Sámi Atlas"
-kal = Kåven et Al 1995 "Samisk-norsk ordbok"
-sgg = Sámi Giellagáldu
+PS = Pekka Sammallahti's "Sámi-suoma sátnegirji"
+SA = H.R. Mathisen's "Sámi Atlas"
+KAL = Kåven et Al 1995 "Samisk-norsk ordbok"
+SGG = Sámi Giellagáldu
 nou94 = ???
 
  ==> todo: correct values: SK vs. sk, PS vs. ps
