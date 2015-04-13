@@ -57820,13 +57820,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e usage="nds">
       <lg>
          <l pos="N">duktásadji</l>
+         <lsub>duktasadji</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="f" pos="N">hustuft</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>område til bygg</re>
+            <t pos="N"  src="fad">tomt</t>
          </tg>
       </mg>
    </e>
@@ -192696,18 +192703,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad" usage="nds">
       <lg>
          <l pos="N">huksensadji</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>område til bygg</re>
-            <t pos="N">tomt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad" usage="nds">
-      <lg>
-         <l pos="N">duktásadji</l>
-         <lsub>duktasadji</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
