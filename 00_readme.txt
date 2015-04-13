@@ -295,3 +295,14 @@ SGG = Sámi Giellagáldu
 nou94 = ???
 
  ==> todo: correct values: SK vs. sk, PS vs. ps
+
+
+To check:
+ 1. OBS
+<t pos="N" type="Prop" sem_type="Plc" src="PS OBS" reg="x">Sirkkis</t>
+
+ 2. reg="x"
+
+ 3. src="x"
+
+ 4. src="GT"
