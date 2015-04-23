@@ -6,24 +6,13 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re>om rekkefølge og system</re>
             <t pos="N">orden</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <re>rekkefølge, plassering</re>
-            <t pos="N">orden</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>regelbundet tilstand, system</re>
-            <t pos="N">orden</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">ordning</t>
+            <t src="fad" pos="N">ordning</t>
          </tg>
       </mg>
    </e>
@@ -33,17 +22,12 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">telefontilknytning</t>
+            <t src="fad" pos="N">telefonforbindelse</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">telefonforbindelse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">telefonkontakt</t>
+            <t src="fad" pos="N">telefonkontakt</t>
          </tg>
       </mg>
    </e>
@@ -54,21 +38,12 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">likviditet</t>
+            <t src="fad" pos="N">betalingsevne</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">betalingsevne</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">likviditetsforvaltning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">likviditet</t>
+            <t src="fad" pos="N">likviditetsforvaltning</t>
          </tg>
       </mg>
    </e>
@@ -81,16 +56,6 @@
             <t pos="N">festivalstønad</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">festivaltilskudd</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">festivalstøtte</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -101,9 +66,9 @@
             <t pos="N">oljeressurser</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">oljeformue</t>
+            <t  src="fad" pos="N">oljeformue</t>
          </tg>
       </mg>
    </e>
@@ -112,11 +77,6 @@
          <l pos="N">fuolkevuođanamahus</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">slektsskapsbenevnelse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">slektskapsbenevnelse</t>
          </tg>
@@ -128,12 +88,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">rammestøtte</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">rammetilskudd</t>
+            <t src="fad" pos="N">rammetilskudd</t>
          </tg>
       </mg>
    </e>
@@ -145,6 +100,8 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">landsforening</t>
+            <t src="fad" pos="N">landsforbund</t>
+            <t src="fad" pos="N">riksforbund</t>
             <xg>
                <x>Riikkasearvvis leat miellahtut olles riikkas.</x>
                <xt>Landsforeninga har medlemmer i hele landet.</xt>
@@ -159,16 +116,6 @@
             </xg>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">landsforbund</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">riksforbund</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -176,17 +123,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">investeringsstønad</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">investeringstilskudd</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">investeringsstøtte</t>
+            <t src="fad" pos="N">investeringstilskudd</t>
          </tg>
       </mg>
    </e>
@@ -197,17 +134,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">treffsted</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>plass der folk møtes</re>
-            <t pos="N">møtested</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">møteplass</t>
+            <t src="fad" pos="N">møtested</t>
          </tg>
       </mg>
    </e>
@@ -218,12 +145,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">attåtnæring</t>
-            <t pos="N">bierverv</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">tilleggsnæring</t>
+            <t src="fad" pos="N">tilleggsnæring</t>
          </tg>
       </mg>
    </e>
@@ -233,12 +155,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">leserbrev</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">leserinnlegg</t>
+            <t src="fad" pos="N">leserinnlegg</t>
          </tg>
       </mg>
    </e>
@@ -253,14 +170,9 @@
             <t pos="N">åker</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">jordbearbeiding</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">innmark</t>
+            <t src="fad" pos="N">innmark</t>
          </tg>
       </mg>
    </e>
@@ -270,12 +182,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kulturstønad</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kulturstøtte</t>
+            <t src="fad" pos="N">kulturstøtte</t>
          </tg>
       </mg>
    </e>
@@ -284,16 +191,6 @@
          <l pos="N">boazodoallošiehtadallan</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">reindriftsforhandling</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">reindriftsavtaleforhandling</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">reindriftsforhandling</t>
          </tg>
@@ -309,9 +206,9 @@
             <t pos="N">natureng</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">utmarksslått</t>
+            <t src="fad" pos="N">utmarksslått</t>
          </tg>
       </mg>
    </e>
@@ -324,21 +221,9 @@
             <t pos="N">håndarbeid</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">håndverksprodukt</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>strikking, hekling e.l.</re>
-            <t pos="N">håndarbeid</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>resultat, produkt</re>
-            <t pos="N">håndverk</t>
+            <t src="fad" pos="N">håndverksprodukt</t>
          </tg>
       </mg>
    </e>
@@ -348,17 +233,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">læresituasjon</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">undervisningssituasjon</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">opplæringssituasjon</t>
+            <t src="fad" pos="N">opplæringssituasjon</t>
          </tg>
       </mg>
    </e>
@@ -368,12 +243,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">miljøvernenhet</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">miljøvernavdeling</t>
+            <t src="fad" pos="N">miljøvernavdeling</t>
          </tg>
       </mg>
    </e>
@@ -385,6 +255,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re>undergruppe av menneskeslekt</re>
             <t pos="N">art</t>
             <xg>
                <x>olmmoščearda</x>
@@ -392,15 +263,9 @@
             </xg>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">stammefolk</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>undergruppe av menneskeslekt</re>
-            <t pos="N">art</t>
+            <t src="fad" pos="N">stammefolk</t>
          </tg>
       </mg>
    </e>
@@ -413,24 +278,10 @@
             <t pos="N">undervisningstilbud</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">opplæringstilbud</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">studietilbud</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">utdanningstilbud</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">undervisningstilbud</t>
+            <t src="fad" pos="N">studietilbud</t>
+            <t src="fad" pos="N">utdanningstilbud</t>
          </tg>
       </mg>
    </e>
@@ -440,12 +291,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">arbeidsbetingelse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">arbeidsvilkår</t>
+            <t src="fad" pos="N">arbeidsvilkår</t>
          </tg>
       </mg>
    </e>
@@ -455,12 +301,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kjøleanlegg</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">fryseanlegg</t>
+            <t src="fad" pos="N">fryseanlegg</t>
          </tg>
       </mg>
    </e>
@@ -471,11 +312,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gåstav</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">spaserstokk</t>
+            <t src="fad" pos="N">spaserstokk</t>
          </tg>
       </mg>
    </e>
@@ -488,20 +325,10 @@
             <t pos="N">påvirkning</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">medvirkning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">påvirkning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
             <re>påvirkning</re>
-            <t pos="N">innflytelse</t>
+            <t src="fad" pos="N">innflytelse</t>
          </tg>
       </mg>
    </e>
@@ -510,16 +337,6 @@
          <l pos="N">opmodatvearru</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">formueskatt</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">formuesskatt</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">formueskatt</t>
          </tg>
@@ -534,19 +351,9 @@
             <t pos="N">møbel</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">innbo</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">inventar</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">møbel</t>
+            <t src="fad" pos="N">inventar</t>
          </tg>
       </mg>
    </e>
@@ -557,21 +364,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">levevilkår</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">livsvilkår</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">levevilkår</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">levekår</t>
+            <t src="fad" pos="N">livsvilkår</t>
          </tg>
       </mg>
    </e>
@@ -584,24 +377,14 @@
             <t pos="N">rest</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">avfall</t>
+            <t src="fad" pos="N">avfall</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">rest</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">levning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">slam</t>
+            <t src="fad" pos="N">slam</t>
          </tg>
       </mg>
    </e>
@@ -611,12 +394,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">utstrekning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">lengde</t>
+            <t src="fad" pos="N">lengde</t>
          </tg>
       </mg>
    </e>
@@ -627,12 +405,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">finnmarksværing</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">finnmarking</t>
+            <t src="fad" pos="N">finnmarking</t>
          </tg>
       </mg>
    </e>
@@ -647,14 +420,9 @@
             <t pos="N">tomt</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">tuft</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">hustuft</t>
+            <t src="fad" pos="N">hustuft</t>
          </tg>
       </mg>
    </e>
@@ -668,9 +436,9 @@
             <t pos="N">ryggtak</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">ankerfeste</t>
+            <t src="fad" pos="N">ankerfeste</t>
          </tg>
       </mg>
    </e>
@@ -680,18 +448,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">fiske</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">sjøfiske</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>kun om fiske på sjøen</re>
-            <t pos="N">fiske</t>
+            <t src="fad" pos="N">sjøfiske</t>
          </tg>
       </mg>
    </e>
@@ -706,35 +463,20 @@
             <t pos="N">framkomstmiddel</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">transportmiddel</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">framkomstmiddel</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kjøretøy</t>
+            <t src="fad" pos="N">kjøretøy</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
          <l illpl="no" pos="N">davvisámegiella</l>
-         <lsub x="fad">davvi-sámegiella</lsub>
+         <lsub>davvi-sámegiella</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">nordsamisk</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">nordsamisk</t>
+            <t pos="N">nordsamisk språk</t>
          </tg>
       </mg>
    </e>
@@ -744,12 +486,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">sløyd</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">tresløyd</t>
+            <t src="fad" pos="N">tresløyd</t>
          </tg>
       </mg>
    </e>
@@ -759,24 +496,14 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">det å regne sammen</t>
+            <re>det å regne</re>
+            <t src="fad" pos="N">regning</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">oppgjør</t>
-         </tg>
-      </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
             <re>kalkyle</re>
-            <t pos="N">beregning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>det å regne</re>
-            <t pos="N">regning</t>
+            <t src="fad" pos="N">beregning</t>
          </tg>
       </mg>
    </e>
@@ -787,22 +514,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">oljeboring</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">oljeproduksjon</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>oljeboring</re>
-            <t pos="N">oljevirksomhet</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">oljeutvinning</t>
+            <t src="fad" pos="N">oljeutvinning</t>
          </tg>
       </mg>
    </e>
@@ -814,28 +526,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">middel</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">virkemiddel</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
             <re>noe man bruker for et visst formål</re>
             <t pos="N">middel</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">redskap</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">verktøy</t>
          </tg>
       </mg>
    </e>
@@ -853,11 +545,6 @@
             </xg>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">tvangstrøye</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -865,12 +552,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">skyteområde</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">skytefelt</t>
+            <t src="fad" pos="N">skytefelt</t>
          </tg>
       </mg>
    </e>
@@ -883,14 +565,9 @@
             <t pos="N">skattetrekk</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">skattefradrag</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">skattetrekk</t>
+            <t src="fad" pos="N">skattefradrag</t>
          </tg>
       </mg>
    </e>
@@ -901,16 +578,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">saksområde</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">saksområde</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">saksfelt</t>
+            <t src="fad" pos="N">saksfelt</t>
          </tg>
       </mg>
    </e>
@@ -921,17 +589,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rettsstilling</t>
-            <t pos="N">rettslig stilling</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">rettsforhold</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">rettsstilling</t>
+            <t src="fad" pos="N">rettsforhold</t>
          </tg>
       </mg>
    </e>
@@ -944,17 +606,12 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lettelse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t src="fad" pos="N">reduksjon</t>
             <t pos="N">minskning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">reduksjon</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">lettelse</t>
          </tg>
       </mg>
    </e>
@@ -966,7 +623,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">medvirkende</t>
-            <t pos="N">partisipant</t>
+            <t src="fad" pos="N">aktør</t>
             <t pos="N">deltaker</t>
          </tg>
       </mg>
@@ -975,20 +632,10 @@
             <t pos="N">deleier</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
             <re>om person eller gruppe</re>
-            <t pos="N">part</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">aktør</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">deltaker</t>
+            <t src="fad" pos="N">part</t>
          </tg>
       </mg>
    </e>
@@ -1000,26 +647,12 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gymnastikk</t>
+            <t src="fad" pos="N">kroppsøving</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">opptrening</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kroppsøving</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kroppsøvning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">gymnastikk</t>
+            <t src="fad" pos="N">opptrening</t>
          </tg>
       </mg>
    </e>
@@ -1032,9 +665,9 @@
             <t pos="N">media</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">medium</t>
+            <t src="fad" pos="N">medium</t>
          </tg>
       </mg>
    </e>
@@ -1047,9 +680,9 @@
             <t pos="N">læreplanverk</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">læreplan</t>
+            <t src="fad" pos="N">læreplan</t>
          </tg>
       </mg>
    </e>
@@ -1059,22 +692,12 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">studieplan</t>
+            <t src="fad" pos="N">læreplan</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">læreplan</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">studieplan</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">læreplanverk</t>
+            <t src="fad" pos="N">læreplanverk</t>
          </tg>
       </mg>
    </e>
@@ -1087,35 +710,25 @@
             <t pos="N">likestilling</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">likeverdighet</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">likeverd</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">likestilling</t>
+            <t src="fad" pos="N">likeverd</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
          <l pos="N">láigosoahpamuš</l>
-         <lsub x="fad">láigo-soahpamuš</lsub>
+         <lsub>láigo-soahpamuš</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">leiekontrakt</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">leieavtale</t>
+            <t src="fad" pos="N">leieavtale</t>
          </tg>
       </mg>
    </e>
@@ -1128,9 +741,9 @@
             <t pos="N">strømledning</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">kraftledning</t>
+            <t src="fad" pos="N">kraftledning</t>
          </tg>
       </mg>
    </e>
@@ -1146,18 +759,8 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">komag</t>
-            <t pos="N">skalle</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
             <t pos="N">kommag</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">sko</t>
+            <t pos="N">skalle</t>
          </tg>
       </mg>
    </e>
@@ -1168,11 +771,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">overlegenhet</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">intoleranse</t>
+            <t src="fad" pos="N">intoleranse</t>
          </tg>
       </mg>
    </e>
@@ -1182,28 +781,17 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">innkallelse</t>
+            <t pos="N">reskript</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">reskript</t>
+            <t src="fad" pos="N">innkalling</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">innkalling</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kommando</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>befaling</re>
-            <t pos="N">pålegg</t>
+            <t src="fad" pos="N">kommando</t>
          </tg>
       </mg>
    </e>
@@ -1217,9 +805,9 @@
             <t pos="N">fortom</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">håndsnøre</t>
+            <t src="fad" pos="N">håndsnøre</t>
          </tg>
       </mg>
    </e>
@@ -1232,9 +820,9 @@
             <t pos="N">storfehold</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">husdyrhold</t>
+            <t src="fad" pos="N">husdyrhold</t>
          </tg>
       </mg>
    </e>
@@ -1249,30 +837,15 @@
             <t pos="N">hofte</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">hoft</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">lår</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
          <l pos="N">astoáiggeortnet</l>
-         <lsub x="fad">astoáigeortnet</lsub>
+         <lsub>astoáigeortnet</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">skolefritidsordning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">fritidsordning</t>
+            <t src="fad" pos="N">fritidsordning</t>
          </tg>
       </mg>
    </e>
@@ -1290,15 +863,10 @@
             </xg>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">fare</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>fare, vågnad</re>
-            <t pos="N">risiko</t>
+            <t src="fad" pos="N">fare</t>
+            <t src="fad" pos="N">risiko</t>
          </tg>
       </mg>
    </e>
@@ -1309,11 +877,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dyregrav</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">fangstgrop</t>
+            <t src="fad" pos="N">fangstgrop</t>
          </tg>
       </mg>
    </e>
@@ -1326,9 +890,9 @@
             <t pos="N">avdrag</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">delutbetaling</t>
+            <t src="fad" pos="N">delutbetaling</t>
          </tg>
       </mg>
    </e>
@@ -1347,22 +911,6 @@
             <t pos="N">argument</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">begrunnelse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">argument</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>årsak, motiv</re>
-            <t pos="N">grunn</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -1373,20 +921,9 @@
             <t pos="N">praksis</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">yrkeserfaring</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">arbeidserfaring</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>erfaring</re>
-            <t pos="N">praksis</t>
+            <t src="fad" pos="N">arbeidserfaring</t>
          </tg>
       </mg>
    </e>
@@ -1399,16 +936,6 @@
             <t pos="N">arbeidserfaring</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">yrkeserfaring</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">arbeidserfaring</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -1417,16 +944,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">førstehjelp</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">nødhjelp</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">førstehjelp</t>
+            <t src="fad" pos="N">nødhjelp</t>
          </tg>
       </mg>
    </e>
@@ -1436,12 +954,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">miljødepartement</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">miljøverndepartement</t>
+            <t src="fad" pos="N">miljøverndepartement</t>
          </tg>
       </mg>
    </e>
@@ -1453,21 +966,8 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">betaling</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">honorar</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">betaling</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">lønn</t>
+            <t src="fad" pos="N">honorar</t>
+            <t src="fad" pos="N">lønn</t>
          </tg>
       </mg>
    </e>
@@ -1478,11 +978,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lufttrafikk</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">flytrafikk</t>
+            <t src="fad" pos="N">flytrafikk</t>
          </tg>
       </mg>
    </e>
@@ -1498,32 +994,9 @@
             <t pos="N">verdi</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">gjenstand</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">eiendel</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>noe verdifullt</re>
-            <t pos="N">skatt</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>om gjenstander</re>
-            <t pos="N">verdi</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>tilbehør</re>
-            <t pos="N">utstyr</t>
+            <t src="fad" pos="N">gjenstand</t>
          </tg>
       </mg>
    </e>
@@ -1532,11 +1005,6 @@
          <l pos="N">latiinnagiella</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N">latinsk</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">latin</t>
          </tg>
@@ -1549,16 +1017,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">innbyggertall</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">innbyggertall</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">folketall</t>
+            <t src="fad" pos="N">folketall</t>
          </tg>
       </mg>
    </e>
@@ -1570,26 +1029,12 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">handel</t>
+            <t pos="N">forretning</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">forretning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">butikk</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">salg</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">handel</t>
+            <t src="fad" pos="N">butikk</t>
          </tg>
       </mg>
    </e>
@@ -1599,12 +1044,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">miljøvernforening</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">naturvernforbund</t>
+            <t src="fad" pos="N">naturvernforbund</t>
          </tg>
       </mg>
    </e>
@@ -1614,17 +1054,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">bruksrettighet</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">bruksrettighet</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">bruksrett</t>
+            <t src="fad" pos="N">bruksrett</t>
          </tg>
       </mg>
    </e>
@@ -1638,11 +1068,6 @@
             <t pos="N">bryllupsbilde</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">bryllupsbilde</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -1652,18 +1077,12 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">tommelfinger</t>
             <t pos="N">tommel</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stortå</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">tommelfinger</t>
          </tg>
       </mg>
    </e>
@@ -1673,14 +1092,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">pesk</t>
-            <t pos="N">tykk pesk</t>
             <t pos="N">pesk av tykt høstskinn</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">pesk</t>
          </tg>
       </mg>
    </e>
@@ -1699,11 +1111,6 @@
             <t pos="N">løgner</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">løgn</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -1713,22 +1120,12 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kjørerein</t>
+            <t src="fad" pos="N">hest som trekker vogn eller slede</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">hest</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>hest som trekker vogn eller slede</re>
-            <t pos="N">hest</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kjøretøy</t>
+            <t src="fad" pos="N">kjøretøy</t>
          </tg>
       </mg>
    </e>
@@ -1740,21 +1137,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tanke</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">tanke</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">ide</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">idé</t>
+            <t src="fad" pos="N">idé</t>
          </tg>
       </mg>
    </e>
@@ -1768,15 +1151,9 @@
             <t pos="N">døden</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">dødsfall</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>det å dø</re>
-            <t pos="N">død</t>
+            <t src="fad" pos="N">dødsfall</t>
          </tg>
       </mg>
    </e>
@@ -1789,22 +1166,12 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">virkning</t>
+            <t src="fad" pos="N">konsekvens</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">påvirkning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">påvirkning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>følge</re>
-            <t pos="N">konsekvens</t>
          </tg>
       </mg>
    </e>
@@ -1819,16 +1186,10 @@
             <t pos="N">fiskegarn</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
             <re>system av sammenkoblede komponenter</re>
-            <t pos="N">nettverk</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>fiskeredskap</re>
-            <t pos="N">garn</t>
+            <t src="fad" pos="N">nettverk</t>
          </tg>
       </mg>
    </e>
@@ -1840,18 +1201,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tau</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>snøre, snor, tau, reip</re>
-            <t pos="N">bånd</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>remse brukt for å ta opp lyd, bilde</re>
-            <t pos="N">bånd</t>
+            <t src="fad" pos="N">bånd</t>
          </tg>
       </mg>
    </e>
@@ -1864,9 +1214,9 @@
             <t pos="N">riss</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">figur</t>
+            <t src="fad" pos="N">figur</t>
          </tg>
       </mg>
    </e>
@@ -1879,20 +1229,9 @@
             <t pos="N">næringsmiddel</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">matprodukt</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">matvare</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>som tjener til føde</re>
-            <t pos="N">næringsmiddel</t>
+            <t src="fad" pos="N">matvare</t>
          </tg>
       </mg>
    </e>
@@ -1907,15 +1246,9 @@
             <t pos="N">knipe</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">engstelse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>engstelighet</re>
-            <t pos="N">uro</t>
+            <t src="fad" pos="N">engstelse</t>
          </tg>
       </mg>
    </e>
@@ -1936,9 +1269,9 @@
             <t pos="N">bakstykke</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">dimensjon</t>
+            <t src="fad" pos="N">dimensjon</t>
          </tg>
       </mg>
    </e>
@@ -1949,16 +1282,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">det indre</t>
+            <t src="fad" pos="N">innmat</t>
             <xg>
                <x>Sii geavahedje buot siskkožiid málesteapmái.</x>
                <xt>De brukte all innmaten til matlaging.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>noe som er inn i noe</re>
-            <t pos="N">innmat</t>
          </tg>
       </mg>
    </e>
@@ -1972,37 +1300,12 @@
          <tg xml:lang="nob">
             <t pos="N">flokk</t>
             <t pos="N">gruppe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">lag</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">husstand</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">familie</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">husstand</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>om mennesker</re>
-            <t pos="N">flokk</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">gruppe</t>
+            <t src="fad" pos="N">familie</t>
          </tg>
       </mg>
    </e>
@@ -2016,14 +1319,9 @@
             <t pos="N">horn</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">gevir</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">horn</t>
+            <t src="fad" pos="N">gevir</t>
          </tg>
       </mg>
    </e>
@@ -2048,30 +1346,9 @@
             </xg>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">informasjon</t>
-            <xg>
-               <x>Mun ozan dieđuid Sámedikki birra.</x>
-               <xt>Jeg leter etter informasjon om Sametinget.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">beskjed</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>kunnskap, viten</re>
-            <t pos="N">kunnskap</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>informasjon</re>
-            <t pos="N">opplysning</t>
+            <t src="fad" pos="N">beskjed</t>
          </tg>
       </mg>
    </e>
@@ -2086,15 +1363,9 @@
             <t pos="N">spøk</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <re>ytring, framstilling som er preget av humoristisk sans</re>
-            <t pos="N">humor</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">spøk</t>
+            <t src="fad" pos="N">humor</t>
          </tg>
       </mg>
    </e>
@@ -2106,27 +1377,13 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kunnskap</t>
+            <t pos="N">forstand</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">forstand</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">sans</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">kunnskap</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
             <re>egenskap</re>
-            <t pos="N">evne</t>
+            <t src="fad" pos="N">evne</t>
          </tg>
       </mg>
    </e>
@@ -2136,12 +1393,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">ressurssvak</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">ressursknapphet</t>
+            <t src="fad" pos="N">ressursknapphet</t>
          </tg>
       </mg>
    </e>
@@ -2159,29 +1411,12 @@
             <t pos="N">tog</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">tog</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
          <l pos="N">badjenisu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <re>om kvinner</re>
-            <t pos="N">reindriftssame</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>om kvinner</re>
-            <t pos="N">reindriftssame</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="N">reindriftskvinne</t>
          </tg>
@@ -2196,9 +1431,9 @@
             <t pos="N">språklig utvikling</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">språkutvikling</t>
+            <t src="fad" pos="N">språkutvikling</t>
          </tg>
       </mg>
    </e>
@@ -2211,21 +1446,9 @@
             <t pos="N">ide</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">ide</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>konsentrasjon</re>
-            <t pos="N">oppmerksomhet</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>oppmerksomhet</re>
-            <t pos="N">fokus</t>
+            <t src="fad" pos="N">oppmerksomhet</t>
          </tg>
       </mg>
    </e>
@@ -2236,17 +1459,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">oppsyn</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="N">tilsyn</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>tilsyn, oppsyn, overvåking</re>
-            <t pos="N">kontroll</t>
+            <t  src="fad" pos="N">kontroll</t>
          </tg>
       </mg>
    </e>
@@ -2260,9 +1473,9 @@
             <t pos="N">galle</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">saft</t>
+            <t src="fad" pos="N">saft</t>
          </tg>
       </mg>
    </e>
@@ -2277,15 +1490,9 @@
             <t pos="N">krangel</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
-            <t pos="N">konflikt</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>konflikt, uenighet</re>
-            <t pos="N">strid</t>
+            <t src="fad" pos="N">konflikt</t>
          </tg>
       </mg>
    </e>
