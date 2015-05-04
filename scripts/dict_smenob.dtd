@@ -5,12 +5,14 @@
 <!ATTLIST e illpl NMTOKEN #IMPLIED >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
 <!ATTLIST e src CDATA #IMPLIED >
+<!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST e usage ( mt | vd ) #IMPLIED >
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l attr ( no ) #IMPLIED >
 <!ATTLIST l context NMTOKEN #IMPLIED >
 <!ATTLIST l illpl ( no ) #IMPLIED >
+<!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l mod NMTOKEN #IMPLIED >
 <!ATTLIST l nr ( Du | Pl | Sg ) #IMPLIED >
 <!ATTLIST l pers NMTOKEN #IMPLIED >
@@ -47,6 +49,7 @@
 <!ATTLIST t gen ( f | m | n | xxx ) #IMPLIED >
 <!ATTLIST t nr NMTOKEN #IMPLIED >
 <!ATTLIST t pos NMTOKEN #IMPLIED >
+<!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST t reg CDATA #IMPLIED >
 <!ATTLIST t sem_type ( Obj | Plc | plc ) #IMPLIED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
@@ -58,6 +61,7 @@
 <!ELEMENT wordform ( #PCDATA ) >
 
 <!ELEMENT x ( #PCDATA ) >
+<!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST x src CDATA #IMPLIED >
 
 <!ELEMENT xg ( x, xt ) >
