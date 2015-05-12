@@ -291,7 +291,7 @@ SvSt = Saami Parliament in Sweden
 PS = Pekka Sammallahti's "Sámi-suoma sátnegirji"
 SA = H.R. Mathisen's "Sámi Atlas"
 KAL = Kåven et Al 1995 "Samisk-norsk ordbok"
-SGG = Sámi Giellagáldu
+SGG = Sámi Giellagáldu (which means also status of approved name)
 nou94 = ???
 
  ==> todo: correct values: SK vs. sk, PS vs. ps
@@ -306,3 +306,12 @@ To check:
  3. src="x"
 
  4. src="GT"
+
+TODO issues as discussed with Lene just now:
+ - add a src attribute with the value SGG to all l-elements with sme-lang
+   based on the Excel data in smenob/inc dir
+ - move all proper noun files into a heap dir (with svn mv to keep the log history) just to be sure that we don't lose information
+ - generate new proper noun files from the geo_smi.xml DB for all smenob
+ - if there is no nob-translation take whatever is there (apart from other Saami languages)
+ - generate the corresponding nobsme proper noun files from the geo_smi.xml DB
+
