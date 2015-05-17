@@ -1,0 +1,21 @@
+1. xlxs2csv 
+ - open excel file with officeLibre and export it to csv
+     ==> tab between cells
+     ==> no  quotation marks around text
+
+ test the number of fields:
+ awk -F '\t' '{print NF}' 1_in_file/OB_Pippi_Ru_Sa_2.csv |t
+
+2. csv2xml
+sh csv2xml_awk.sh > 2_xml-format/OB_Pippi_Ru_Sa_2.xml
+
+3. from flat xml to structured xml
+_six smpl-xml2xml_rus2sjd.xsl 
+
+4. xml2html
+_six xml2html_rus2sjd.xsl
+
+test:
+open 4_html-format/OB_Pippi_Ru_Sa_2.html
+
+
