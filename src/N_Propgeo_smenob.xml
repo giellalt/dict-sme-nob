@@ -231,7 +231,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Aleuhtat</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Aleuhtat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -384,7 +384,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Altaivárit</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Altaivárit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -528,7 +528,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Andamansullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Andamansullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1111,7 +1111,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Bahamasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bahama nr="Pl"/l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1209,7 +1209,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Baikalágojávrrik</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Baikalágojávrrik</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1499,7 +1499,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Ballenysullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ballenysullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2674,7 +2674,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Bermudasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bermudasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -3026,7 +3026,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Bievák</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bievák</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5787,7 +5787,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Bálák</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Bálák</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7384,7 +7384,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Davvi-Friissasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Davvi-Friissasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -8025,7 +8025,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Divrrák</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Divrrák</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -8726,7 +8726,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Dronnet Elisabethsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Dronnet Elisabethsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -9853,12 +9853,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Dávggát</l>
+         <l pos="N" type="Prop" sem_type="Obj">Dávggát</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">Karlsvogna</t>
-         </tg>
+             <xg>
+               <x>Dávggát leat nástegovva.</x>
+               <xt>Karlsvogna er et stjernebilde.</xt>
+            </xg>
+        </tg>
       </mg>
    </e>
    
@@ -10752,7 +10756,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Falklandsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Falklandsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -10921,7 +10925,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Fearasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Fearasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -11146,7 +11150,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Fižisullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Fižisullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -12118,7 +12122,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Galapagossullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Galapagossullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -13269,7 +13273,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Geassesullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Geassesullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -13324,7 +13328,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Geatkelágojávrrik</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Geatkelágojávrrik</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -15117,7 +15121,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Goahtesullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Goahtesullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -20986,7 +20990,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Hawaiisullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Hawaiisullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -23401,7 +23405,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Ivvárstádik</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ivvárstádik</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -25790,7 +25794,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Kanáriasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Kanáriasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -27018,7 +27022,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Kurilsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Kurilsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -29157,7 +29161,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Lulli-Orkneysullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Lulli-Orkneysullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -29168,7 +29172,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Lulli-Sandwichsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Lulli-Sandwichsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -29179,7 +29183,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Lulli-Shetlánddasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Lulli-Shetlánddasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -30814,7 +30818,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Malvinassullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Malvinassullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -30957,7 +30961,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Marshallsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Marshallsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -31067,7 +31071,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Mc Donaldsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Mc Donaldsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -34459,7 +34463,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Nikobarsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Nikobarsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -35919,7 +35923,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Nuorta-Friissasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Nuorta-Friissasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -37004,7 +37008,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Oarje-Friissasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Oarje-Friissasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -37026,7 +37030,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Oarje-Indiasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Oarje-Indiasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -38013,7 +38017,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Orkneysullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Orkneysullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -38380,7 +38384,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Ođđa Sibirjjásullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Ođđa Sibirjjásullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -40461,7 +40465,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Rissebávttsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Rissebávttsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -40695,7 +40699,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Rivtták</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Rivtták</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -43889,7 +43893,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Salomonsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Salomonsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -44839,7 +44843,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Seychellsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Seychellsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -45141,7 +45145,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Signysullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Signysullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -45995,7 +45999,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Skadjasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skadjasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -46932,7 +46936,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Skánik</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Skánik</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -47716,7 +47720,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Solovecksullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Solovecksullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -50512,7 +50516,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Sundasullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Sundasullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -58757,7 +58761,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Áinnáidsullot</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Áinnáidsullot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -61740,7 +61744,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    
 <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Čoarvvek</l>
+         <l pos="N" type="Prop" nr="Pl" sem_type="Plc">Čoarvvek</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
