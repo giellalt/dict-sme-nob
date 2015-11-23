@@ -7,16 +7,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">uten utdanning</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">utdanningsskadelidt</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">utdanningsskadelidende</t>
+            <t src="fad" pos="A">utdanningsskadelidende</t>
          </tg>
       </mg>
    </e>
@@ -34,10 +25,6 @@
       <mg x="fad">
          <tg xml:lang="nob">
             <t pos="A">uskikkelig</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
             <t pos="A">rampet</t>
          </tg>
       </mg>
@@ -85,11 +72,6 @@
             <t pos="A">voldsom</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">hard</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -100,23 +82,14 @@
          <tg xml:lang="nob">
             <t pos="A">øm</t>
             <t pos="A">følsom</t>
+            <t pos="A">lang</t>
          </tg>
       </mg>
-      <mg x="fad">
+      <mg>
          <tg xml:lang="nob">
             <re>som lett rammes</re>
-            <t pos="A">utsatt</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">sårbar</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>skjør</re>
-            <t pos="A">svak</t>
+            <t src="fad" pos="A">utsatt</t>
+            <t src="fad" pos="A">sårbar</t>
          </tg>
       </mg>
    </e>
@@ -125,11 +98,6 @@
          <l context="ášši" pos="A">duođalaš</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="A">alvorlig</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <re>streng, oppriktig</re>
             <t pos="A">alvorlig</t>
@@ -155,22 +123,14 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">betydningsfull</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">betydelig</t>
+            <t src="fad" pos="A">betydelig</t>
+            <t src="fad" pos="A">vesentlig</t>
          </tg>
       </mg>
       <mg x="fad">
          <tg xml:lang="nob">
             <re>iøynefallende</re>
             <t pos="A">påfallende</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">vesentlig</t>
          </tg>
       </mg>
    </e>
@@ -181,25 +141,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">kommende</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">kommende</t>
+            <t src="fad" pos="A">framtidig</t>
             <xg>
                <x>Mearriduvvon lea ahte suodjalus galgá boahtte 15 jagis oastit ođđa nu gohčoduvvon pánserbiillaid oktiibuot 100 miljárdda ruvnno ovddas.</x>
                <xt>Det er bestemt at forsvaret skal de kommende 15 årene kjøpe såkalte panserbiler for i alt 100 milliarder kroner.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">fremtidig</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="A">framtidig</t>
          </tg>
       </mg>
    </e>
@@ -214,12 +160,6 @@
             <t pos="A">djup</t>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>om vann</re>
-            <t pos="A">dyp</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -228,20 +168,9 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re>om vanskelighetsgrad</re>
             <t pos="A">lett</t>
             <t pos="A">lettvint</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>enkel oppgave</re>
-            <t pos="A">lett</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>lett, lettfattelig</re>
-            <t pos="A">enkel</t>
             <xg>
                <x>álkes bargu</x>
                <xt>enkel jobb</xt>
@@ -254,11 +183,6 @@
          <l context="oaidnu" pos="A">oppalaš</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="A">generell</t>
-         </tg>
-      </mg>
-      <mg x="fad">
          <tg xml:lang="nob">
             <t pos="A">generell</t>
          </tg>
@@ -278,35 +202,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">svak</t>
-            <xg>
-               <x>Biegga lea láivi.</x>
-               <xt>Vinden er svak.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>som ikke er skarp el. sterk</re>
             <t pos="A">mild</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>om vind, medisin</re>
-            <t pos="A">svak</t>
             <xg>
                <x>Biegga lea láivi.</x>
                <xt>Vinden er svak.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>om kaffe</re>
-            <t pos="A">svak</t>
-            <xg>
-               <x>Gáffe lea goiddas.</x>
-               <xt>Kaffen er svak.</xt>
             </xg>
          </tg>
       </mg>
@@ -319,12 +218,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">rein</t>
-            <t pos="A">ren</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>fri for smuss</re>
             <t pos="A">ren</t>
          </tg>
       </mg>
