@@ -459,7 +459,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">ruivvas</l>
+         <l attr="no" pos="A">ruivvas</l>
          <lc>ruive</lc>
       </lg>
       <mg>
@@ -791,11 +791,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">áidnu</l>
+         <l context="aviisa" pos="A">áidnu</l> 
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">eneste</t>
+            <xg>
+               <x>Dát lea áidnu diehtojuohkinkanála sámi nuoraide.</x>
+               <xt>Dette er den eneste informasjonskanalen for samisk ungdom.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1020,7 +1024,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">buozas</l>
+         <l attr="no" pos="A">buozas</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1519,7 +1523,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">dávggas</l>
+         <l context="olmmoš" pos="A">dávggas</l>
          <lc>dávgasat</lc>
       </lg>
       <mg>
@@ -2096,7 +2100,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">gummá</l>
+         <l attr="no" pos="A">gummá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2456,7 +2460,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">hárpmas</l>
+         <l context="sáhkavuorru" pos="A">hárpmas</l>
          <lc>hárbmasat</lc>
       </lg>
       <mg>
@@ -2778,7 +2782,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">juovzzas</l>
+         <l attr="no" pos="A">juovzzas</l>
          <lc>juovzasat</lc>
       </lg>
       <mg>
@@ -3792,7 +3796,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">rumššas</l>
+         <l attr="no" pos="A">rumššas</l>
          <lc>rumšasat</lc>
       </lg>
       <mg>
@@ -5132,7 +5136,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">ásttas</l>
+         <l attr="no" pos="A">ásttas</l>
          <lc>ástasat</lc>
       </lg>
       <mg>
@@ -5650,6 +5654,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="A">med navnet</t>
+            <xg>
+               <x>Snåsningen nammasaš aviissas leat sámegielalaš siiddut.</x>
+               <xt>Avisa med navnet Snåsningen har samiskspråklige sider.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6593,11 +6601,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">guovdageaidnulaš</l>
+         <l pos="A">guovdageaidnulaš</l> 
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">fra Kautokeino</t>
+            <xg>
+               <x>Joavkku hárjehalli lei guovdageaidnulaš Isak Ole Hætta.</x>
+               <xt>Lagets trener er Isak Ole Hætta fra Kautokeino.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6887,7 +6899,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">miellaváillat</l>
+         <l context="olmmoš" pos="A">miellaváillat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6897,7 +6909,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">fitnofágalaš</l>
+         <l context="oahppu" pos="A">fitnofágalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6907,7 +6919,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">fidnofágalaš</l>
+         <l context="oahppu" pos="A">fidnofágalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6917,7 +6929,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">virtuála</l>
+         <l context="boallobeavdi" pos="A">virtuála</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6927,7 +6939,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">gáhttenárvosaš</l>
+         <l context="viessu" pos="A">gáhttenárvosaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6937,7 +6949,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">vepsalaš</l>
+         <l context="lávlunjoavku" pos="A">vepsalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6947,7 +6959,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">ortnetlaš</l>
+         <l context="dilálašvuođat" pos="A">ortnetlaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6957,7 +6969,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">molsašuddi</l>
+         <l context="dálkkit" pos="A">molsašuddi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6967,7 +6979,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">rievdavaš</l>
+         <l context="njuolggadusat" pos="A">rievdavaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6977,7 +6989,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahperehálaš</l>
+         <l context="politihkka" pos="A">eahperehálaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6993,7 +7005,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">vearditmeahttun</l>
+         <l context="vuoigatvuohta" pos="A">vearditmeahttun</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7008,7 +7020,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">lohkameahttun</l>
+         <l context="ovdamearkkat" pos="A">lohkameahttun</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7018,7 +7030,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahpedábálaš</l>
+         <l context="vuohki" pos="A">eahpedábálaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7033,7 +7045,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">ii-árbevirolaš</l>
+         <l context="vuohki" pos="A">ii-árbevirolaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7043,7 +7055,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahpedárkil</l>
+         <l context="árvvoštallan" pos="A">eahpedárkil</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7058,7 +7070,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">dárkilmeahttun</l>
+         <l context="árvvoštallan" pos="A">dárkilmeahttun</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7068,7 +7080,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">gierdevaš</l>
+         <l context="olmmoš" pos="A">gierdevaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7078,7 +7090,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahpečorgat</l>
+         <l context="proseassa" pos="A">eahpečorgat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7088,7 +7100,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">govttoheapme</l>
+         <l context="haddi" pos="A">govttoheapme</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7098,7 +7110,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">vuoigatmeahttun</l>
+         <l context="mearrádus" pos="A">vuoigatmeahttun</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7113,7 +7125,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahperievttalaš</l>
+         <l context="ortnet" pos="A">eahperievttalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7123,7 +7135,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">jeavddaheapme</l>
+         <l context="minsttar" pos="A">jeavddaheapme</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7133,7 +7145,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahpeulbmillaš</l>
+         <l context="ortnet" pos="A">eahpeulbmillaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7143,7 +7155,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahpepersovnnalaš</l>
+         <l context="geavaheaddji" pos="A">eahpepersovnnalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7153,7 +7165,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">vuolleahkásaš</l>
+         <l context="nuorra" pos="A">vuolleahkásaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7163,7 +7175,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">boaresáigásaš</l>
+         <l context="bivttas" pos="A">boaresáigásaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7173,7 +7185,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahperisttalaš</l>
+         <l context="oaidnu" pos="A">eahperisttalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7183,7 +7195,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">dovdameahttun</l>
+         <l context="boazu" pos="A">dovdameahttun</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7193,7 +7205,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">ulmmeheapme</l>
+         <l context="ortnet" pos="A">ulmmeheapme</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7208,7 +7220,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">vuođoheapme</l>
+         <l context="moaitta" pos="A">vuođoheapme</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7218,7 +7230,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahpedievaslaš</l>
+         <l context="govva" pos="A">eahpedievaslaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7228,7 +7240,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">dievasmeahttun</l>
+         <l context="govva" pos="A">dievasmeahttun</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7238,7 +7250,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">soahpameahttun</l>
+         <l context="riidu" pos="A">soahpameahttun</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7253,7 +7265,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahpeformálalaš</l>
+         <l context="bargojoavku" pos="A">eahpeformálalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7263,7 +7275,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">eahpeformála</l>
+         <l context="bargojoavku" pos="A">eahpeformála</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7293,7 +7305,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">máŋggadieđalaš</l>
+         <l context="dutkamuš" pos="A">máŋggadieđalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7313,7 +7325,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">guoibmái</l>
+         <l context="olmmoš" pos="A">guoibmái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7333,7 +7345,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">golmmagielat</l>
+         <l context="namma" pos="A">golmmagielat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7353,7 +7365,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">deaivil</l>
+         <l context="namma" pos="A">deaivil</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7430,15 +7442,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">njieddji</l>
+         <l context="lohku" pos="A">njieddji</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">synkende</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="A">nedadgående</t>
          </tg>
       </mg>
@@ -7451,11 +7459,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">ruoŧagielat</l>
+         <l context="oahppi" pos="A">ruoŧagielat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">svensk</t>
+            <t pos="A">svenskspråklig</t>
          </tg>
       </mg>
    </e>
@@ -7602,7 +7610,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">vearuheapme</l>
+         <l context="vuoitu" pos="A">vearuheapme</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7662,7 +7670,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">ruksesruoná</l>
+         <l context="liidni" pos="A">ruksesruoná</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7692,7 +7700,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">guvgesruoksat</l>
+         <l context="liidni" pos="A">guvgesruoksat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7722,7 +7730,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">boazodoallofágalaš</l>
+         <l context="oahppu" pos="A">boazodoallofágalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -9182,7 +9190,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">vaššái</l>
+         <l context="čalmmit" pos="A">vaššái</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -9232,7 +9240,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">rájárasttideaddji</l>
+         <l context="ovttasbargu" pos="A">rájárasttideaddji</l>
          <lsub>rájárastá</lsub>
       </lg>
       <mg>
@@ -9243,7 +9251,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">rádjerasttildeaddji</l>
+         <l context="ovttasbargu" pos="A">rádjerasttildeaddji</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -9253,7 +9261,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">rájáheapme</l>
+         <l context="ovttasbargu" pos="A">rájáheapme</l>
          <lsub>rájákeahtes</lsub>
       </lg>
       <mg>
@@ -9284,7 +9292,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">ávkkeheapme</l>
+         <l context="bargu" pos="A">ávkkeheapme</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -11835,7 +11843,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg>
-         <l pos="A">šláddjás</l>
+         <l context="kultuvra" pos="A">šláddjás</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -11872,7 +11880,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">šattolaš</l>
+         <l context="eana" pos="A">šattolaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -11890,11 +11898,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <re>fruktbar</re>
             <t pos="A">rik</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>grøderik, fruktbar</re>
             <t pos="A">frodig</t>
          </tg>
       </mg>
@@ -16490,16 +16493,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re>fullstendig</re>
             <t pos="A">hel</t>
             <xg>
-               <x>geažos beaivvi</x>
-               <xt>hele dagen</xt>
-            </xg>
-            <xg>
-               <x>geažos beaivi</x>
-               <xt>hele dagen</xt>
-            </xg>
-            <xg>
-               <x>Mun barggan olles virggis.</x>
-               <xt>Jeg jobber i hel stilling.</xt>
+               <x>Mun bargen dainna geažos beaivvi.</x>
+               <xt>Jeg arbeidet med dette hele dagen.</xt>
             </xg>
          </tg>
       </mg>
@@ -16546,10 +16541,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <t pos="A">selvstendig</t>
             <xg>
                <x>iešheanalaš ealáhusdoalli</x>
-               <xt>selvstendig næringsdrivende</xt>
-            </xg>
-            <xg>
-               <x>iehčanas ealáhusdoalli</x>
                <xt>selvstendig næringsdrivende</xt>
             </xg>
          </tg>
