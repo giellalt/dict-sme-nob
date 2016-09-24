@@ -399,7 +399,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">USA</t>
-            <t>De forente stater</t>
+            <t pos="N" type="Prop" sem_type="Plc">De forente stater</t>
          </tg>
       </mg>
    </e>
@@ -814,7 +814,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N" type="Prop" sem_type="Plc" src="PS,SA" reg="x">Atlanteren</t>
-            <t>Atlanterhavet</t>
+            <t pos="N" type="Prop" sem_type="Plc">Atlanterhavet</t>
          </tg>
       </mg>
    </e>
@@ -2234,7 +2234,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                sem_type="Plc"
                src="KAL,SK"
                reg="Porsanger">Baukop</t>
-            <t>Bevkop</t>
+            <t pos="N"
+               type="Prop"
+               sem_type="Plc"
+               reg="Porsanger">Bevkop</t>
          </tg>
       </mg>
    </e>
@@ -6988,7 +6991,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">Krepsens vendekrets</t>
-            <t>nordlige vendesirkel</t>
+            <t pos="N" type="Prop" sem_type="Plc">Nordlige vendesirkel</t>
          </tg>
       </mg>
    </e>
@@ -24627,7 +24630,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">Kalahariørkenen</t>
-            <t>Kalahari</t>
+            <t pos="N" type="Prop" sem_type="Plc">Kalahari</t>
          </tg>
       </mg>
    </e>
@@ -27810,7 +27813,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">Sørlige vendesirkel</t>
-            <t>Steinbukkens vendekrets</t>
+            <t pos="N" type="Prop" sem_type="Plc">Steinbukkens vendekrets</t>
          </tg>
       </mg>
    </e>
@@ -36716,10 +36719,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">New Caledonia</t>
+            <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">Ny-Caledonia</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="N" type="Prop" sem_type="Plc">New Caledonia</t>
          </tg>
          <tg xml:lang="fra">
-            <t>Nouvelle-Calédonie</t>
+            <t pos="N" type="Prop" sem_type="Plc">Nouvelle-Calédonie</t>
          </tg>
       </mg>
    </e>
@@ -37945,7 +37951,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">Krepsens vendekrets</t>
-            <t>nordlige vendesirkel</t>
+            <t pos="N" type="Prop" sem_type="Plc">nordlige vendesirkel</t>
          </tg>
       </mg>
    </e>
@@ -40059,8 +40065,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N" type="Prop" sem_type="Plc" src="SA" reg="x">Bukkens vendekrets</t>
-            <t>Steinbukkens vendekrets</t>
-            <t>Sørlige vendesirkel</t>
+            <t pos="N" type="Prop" sem_type="Plc">Steinbukkens vendekrets</t>
+            <t pos="N" type="Prop" sem_type="Plc">Sørlige vendesirkel</t>
          </tg>
       </mg>
    </e>
