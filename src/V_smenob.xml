@@ -641,8 +641,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">bølge seg</t>
             <xg>
-               <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 49.">Das eai oidnon eará go moadde rukses sárgá mat
-               bárvvastedje dego bárut.</x>
+               <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 49.">Das eai oidnon eará go moadde rukses sárgá mat bárvvastedje dego bárut.</x>
                <xt>På den så man bare noen få røde streker som bølget seg som bølger.</xt>
             </xg>
          </tg>
@@ -1881,7 +1880,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">løfte</t>
             <t pos="V">heve</t>
             <xg>
                <x>Eadni ii dárbbaš gal jiena bajidit.</x>
@@ -4203,10 +4201,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">glimte</t>
-            <t pos="V">glinse</t>
+            <t pos="V">skinne</t>
             <xg>
-               <x>go oidno šealgáme guhkkin</x>
-               <xt>når det glitrer i det fjerne</xt>
+               <x>Čáhci deadju šearradin.</x>
+               <xt>Vannet skinner klart.</xt>
             </xg>
          </tg>
       </mg>
@@ -7407,7 +7405,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">høre</t>
             <xg>
-               <x>In hálit gullat duokkáraš sivahis čuoččuhusaid.</x>
+               <x>In háliit gullat duokkáraš sivahis čuoččuhusaid.</x>
                <xt>Jeg vil ikke høre grunnløse påstander som det der.</xt>
             </xg>
          </tg>
@@ -8545,21 +8543,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rå over</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">administrere</t>
+            <t pos="V">forvalte</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">beherske</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">betjene</t>
+            <xg>
+               <x>Dán áiggi lea dábálaš ahte dáid gielaid hállit hálddašit guokte giela, go earret eatnigielaset sii hállet maiddái stáhta eanetlogugiela.</x>
+               <xt>Nå for tiden er det vanlig at talerne av disse språkene behersker to språk, fordi de i tillegg til morsmålet sitt også snakker  statens majoritetsspråk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8583,7 +8577,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">ville</t>
             <xg>
-               <x>In hálit gullat duokkáraš sivahis čuoččuhusaid.</x>
+               <x>In háliit gullat duokkáraš sivahis čuoččuhusaid.</x>
                <xt>Jeg vil ikke høre grunnløse påstander som det der.</xt>
             </xg>
          </tg>
@@ -9219,6 +9213,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">snu</t>
             <t pos="V">vende seg</t>
+            <xg>
+               <x>Rievvárat eai astan doarridit	fatnasa, muhto jorggihedje gáddái.</x>
+               <xt>Røverne hadde ikke tid til å forfølge båten, men snudde mot land.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14347,13 +14345,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">passe</t>
             <t pos="V">høve</t>
+            <xg>
+               <x>Duopmu ii soaba dan sámepolitihkalaš ovdáneapmáige mii lea dáhpáhuvvan 80- ja 90-loguin .</x>
+               <xt>Dommen passer ikke til den samepolitiske framgangen som har skjedd på 80- og 90-tallet.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bli enig</t>
             <xg>
-               <x>Moai soabaime dasa.</x>
+               <x>Moai soabaime das.</x>
                <xt>Vi to ble enige om det.</xt>
             </xg>
          </tg>
@@ -19912,7 +19914,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <t pos="V">bli oppskaket</t>
             <t pos="V">bli nervøs</t>
             <xg>
-               <x>Sátnejođiheaddji mielas lea dehálaš ahte iskagohtet ášši vai olbmot eai jierásnuva.</x>
+               <x>Sátnejođiheaddji mielas lea dehálaš ahte iskagohtet ášši vai olbmot eai jierásmuva.</x>
                <xt>Ordføreren mener at det er viktig at de begynner å granske saken slik at folk ikke blir
                engstelige.</xt>
             </xg>
@@ -21286,22 +21288,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">utfylle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">supplere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>sluttføre</re>
             <t pos="V">fullføre</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>fullføre</re>
             <t pos="V">oppdatere</t>
          </tg>
       </mg>
@@ -21313,21 +21305,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">utfylle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">supplere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">komplettere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>sluttføre</re>
             <t pos="V">fullføre</t>
          </tg>
       </mg>
@@ -22679,6 +22657,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="410">
          <l pos="V">prioriteret</l>
+         <l_ref>vuoruhit</l_ref>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -23365,18 +23344,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">anslå</t>
+            <t pos="V">beregne</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>regne med</re>
             <t pos="V">forvente</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>regne ut</re>
-            <t pos="V">beregne</t>
          </tg>
       </mg>
    </e>
@@ -24285,10 +24259,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">bosette</t>
             <xg>
-               <x>Eanet nuorat válljejit ásaiduvvat gávpogiidda ja čoahkkebáikkiide.</x>
-               <xt>Flere unge velger å bosette seg i byer og tettsteder.</xt>
-            </xg>
-            <xg>
                <x>Eiseválddit fertejit oažžut áigái beliid mat dagašedje vejolažžan nissoniidda ássat boaittobealguovlluin.</x>
                <xt>Myndighetene må utvikle faktorer som gjør det mulig for kvinner å bosette seg i utkantsstrøk.</xt>
             </xg>
@@ -24666,10 +24636,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg src="fad">
          <tg xml:lang="nob">
             <t pos="V">heve</t>
-            <xg>
-               <x>Eadni ii dárbbaš gal jiena bajidit.</x>
-               <xt>Mor trenger da ikke heve stemmen.</xt>
-            </xg>
             <xg>
                <x>Ovdagoddi deattuhii man dehálaš lea loktet sámegiela árvvu.</x>
                <xt>Formannskapet understreket hvor viktig det er å heve verdien av samisk språk.</xt>
@@ -25469,11 +25435,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">forutse</t>
             <xg>
-               <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 180.">Mu čalmmit ovdošedje oaidnit du lávddi alde!
-               savkalii Urbán su bealljemáddagii.</x>
-               <xt>Mine øyne forutså å se deg på scenen! hvisket Urbán like ved øret hennes.</xt>
-            </xg>
-            <xg>
                <x src="E. M. Vars 2002: Čábbámus iđitguovssu s. 180.">Mu čalmmit ovdošedje oaidnit du lávddi alde! savkalii Urbán su bealljemáddagii.</x>
                <xt>Mine øyne forutså å se deg på scenen! hvisket Urbán like ved øret hennes.</xt>
             </xg>
@@ -25862,8 +25823,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re x="fad">en gang</re>
             <t pos="V">spørre</t>
             <xg>
-               <x>Mun jerren dus.</x>
-               <xt>Jeg spurte deg.</xt>
+               <x>Son gažai	gallát skuvlajagi mun dál váccán.</x>
+               <xt>Hun spurte om hvilket skoleår jeg går nå.</xt>
+            </xg>
+            <xg>
+               <x>gažaldagaid gahčat</x>
+               <xt>stille spørsmål</xt>
             </xg>
          </tg>
       </mg>
@@ -26218,8 +26183,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">forfølge</t>
             <xg>
-               <x>Gumpe ja beana lávejit oaguhit.</x>
-               <xt>Ulv og hund pleier å forfølge.</xt>
+               <x>Rievvárat eai astan doarridit	fatnasa, muhto jorggihedje gáddái.</x>
+               <xt>Røverne hadde ikke tid til å forfølge båten, men snudde mot land.</xt>
             </xg>
          </tg>
       </mg>
@@ -26484,10 +26449,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <xg>
                <x>In gille šat diggot.</x>
                <xt>Jeg gidder ikke å krangle mer.</xt>
-            </xg>
-            <xg>
-               <x>Mun barggan dan nu guhká go veaján.</x>
-               <xt>Jeg gjør det så lenge jeg orker.</xt>
             </xg>
          </tg>
       </mg>
@@ -27465,11 +27426,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re x="fad">knalle, ikke så sterkt som bávkit</re>
+            <re x="fad">ikke så sterkt som bávkit</re>
             <t pos="V">smelle</t>
             <xg>
-               <x>Muorat bešket, go bivaldit áigu.</x>
-               <xt>Det smeller i trærne, når det skal bli mildere i været.</xt>
+               <x>Allajoccat skuovat spohkket asfálttas.</x>
+               <xt>Høyhælte sko smeller i asfalten.</xt>
+            </xg>
+            <xg>
+               <x>Mašinbissu gullui spoahkkime.</x>
+               <xt>Man hørte at maksingeværet smalt.</xt>
             </xg>
          </tg>
       </mg>
@@ -27765,10 +27730,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <x>Mun čuovun du ruoktot! dajai Ánte roagga jienain.</x>
                <xt>Jeg følger deg hjem! sa Ánte med en grov stemme.</xt>
             </xg>
-            <xg>
-               <x>Oahpaheaddji logai ohppiide ahte fertejit muitit bargat bihtáid.</x>
-               <xt>Læreren sa til elevene at de må huske å gjøre lekser.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -27797,8 +27758,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re x="fad">banke el. riste snø, støv av noe</re>
             <t pos="V">riste</t>
             <xg>
-               <x>Eadni savdnjá biktasiid.</x>
-               <xt>Mor rister klærne.</xt>
+               <x>Nieida savdnjilii gávtti, geahčestii bajás, ja de vázzái.</x>
+               <xt>Jenta rista av kofta, så opp og så begynte hun å gå.</xt>
             </xg>
          </tg>
       </mg>
@@ -27847,8 +27808,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re x="fad">være festet</re>
             <t pos="V">henge</t>
             <xg>
-               <x>Dat heaŋgá holggas.</x>
-               <xt>Den henger over stokken.</xt>
+               <x>Maŋŋá bázii gákti skáhppii sorját guhká.</x>
+               <xt>Etterpå ble kofta hengende lenge i skapet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">avhenge</t>
+            <xg>
+               <x>Dálkasa váikkuhus sorjá mearis.</x>
+               <xt>Virkningen av medisinen avhenger av mengden.</xt>
             </xg>
          </tg>
       </mg>
@@ -27913,8 +27883,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re x="fad">prate</re>
             <t pos="V">snakke</t>
             <xg>
-               <x>Human dutnje barggu birra.</x>
-               <xt>Jeg snakker til deg om arbeidet.</xt>
+               <x>Ii aktage sihtan hoallat dan birra.</x>
+               <xt>Ingen ville snakke om det.</xt>
             </xg>
          </tg>
       </mg>
@@ -28723,17 +28693,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">frakte</t>
-            <t pos="V">ha med seg</t>
             <xg>
-               <x>Biebmogávpi vuojiha gálvvuid juohke disdaga.</x>
-               <xt>Matbutikken frakter ut varer hver tirsdag.</xt>
+               <x>Dat mearkkaša ahte ealu ferte fievrridit guorbmebiillain.</x>
+               <xt>Det betyr at man må frakte reinflokken med lastebil.</xt>
             </xg>
          </tg>
       </mg>
       <mg x="fad">
          <tg xml:lang="nob">
-            <t pos="V">overføre</t>
+            <t pos="V">føre</t>
             <t src="fad" pos="V">videreføre</t>
+            <xg>
+               <x>Platon mearridii viidáset fievrridit Sokratesa oahpu ja jurdagiid.</x>
+               <xt>Platon bestemte å føre videre Sokrates sin lære og tanker.</xt>
+            </xg>
          </tg>
       </mg>
       <mg x="fad">
@@ -29037,25 +29010,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">orke</t>
             <t pos="V">gidde</t>
+            <xg>
+               <x>Njoammil ii viššan hukset alcces beasi.</x>
+               <xt>Haren giddet ikke å bygge reir til seg selv.</xt>
+            </xg>
          </tg>
       </mg>
       <mg x="fad">
          <tg xml:lang="nob">
             <t pos="V">tørre</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">tore</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">orke</t>
-            <xg>
-               <x>Mun barggan dan nu guhká go veaján.</x>
-               <xt>Jeg gjør det så lenge jeg orker.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -29067,26 +29030,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">våge</t>
-            <t pos="V">tore</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
             <t pos="V">tørre</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">våge</t>
             <xg>
-               <x>Nu soitet vel eanet nuorat arvat searvat Sámi Grand Prix juoigamii.</x>
-               <xt>Slik kan kanskje enda flere ungdommer våge å bli med på Sámi Grand Prix joikedel.</xt>
+               <x>Mun in duostta geahčastit sutnje.</x>
+               <xt>Jeg tør ikke se på henne.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">tore</t>
          </tg>
       </mg>
    </e>
@@ -29168,27 +29116,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">anklage for</t>
             <t pos="V">påtale</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">skylde</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">påtale</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
             <t pos="V">beskylde</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>beskylde</re>
-            <t pos="V">anklage</t>
          </tg>
       </mg>
    </e>
@@ -29295,6 +29223,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re>nå frem, vinne frem</re>
             <t pos="V">rekke</t>
             <t pos="V">nå</t>
          </tg>
@@ -29303,12 +29232,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <re>få til følge</re>
             <t pos="V">føre</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>nå frem, vinne frem</re>
-            <t pos="V">nå</t>
          </tg>
       </mg>
       <mg x="fad">
@@ -29325,17 +29248,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gjøre ferdig</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
             <t pos="V">ferdigstille</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>sluttføre</re>
-            <t pos="V">fullføre</t>
          </tg>
       </mg>
    </e>
@@ -29347,31 +29260,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">savne</t>
             <t pos="V">lengte etter</t>
+            <xg>
+               <x>Mun váillahan du.</x>
+               <xt>Jeg savner deg.</xt>
+            </xg>
          </tg>
       </mg>
       <mg x="fad">
          <tg xml:lang="nob">
             <t pos="V">etterspørre</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">etterlyse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
             <re>søke etter, savne</re>
             <t pos="V">søke</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">savne</t>
-            <xg>
-               <x>Mun váillahan du.</x>
-               <xt>Jeg savner deg.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -29391,15 +29290,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg x="fad">
          <tg xml:lang="nob">
             <t pos="V">etterlyse</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">savne</t>
-            <xg>
-               <x>Mun váillahan du.</x>
-               <xt>Jeg savner deg.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -29441,32 +29331,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forhindre</t>
-            <t pos="V">avverge</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">forhindre</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">avverge</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>sinke, hindre fra å</re>
             <t pos="V">undergrave</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>avverge, forhindre</re>
-            <t pos="V">hindre</t>
+            <t pos="V">sjenere</t>
             <xg>
-               <x>Eadni eastadii mu vuolgimis.</x>
-               <xt>Mor hindret meg i å dra.</xt>
+               <x>Ánde sahái ja dearppai ja heađuštii gaskkohagaid nissonguoktá hálešteami.</x>
+               <xt>Ánde sagde og hamret og innimellom sjenerte han de to kvinnenes samtale.</xt>
             </xg>
          </tg>
       </mg>
@@ -29528,22 +29397,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">lette</t>
             <t pos="V">minske</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">minske</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>gjøre lettere</re>
-            <t pos="V">lette</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>minske, lette</re>
             <t pos="V">redusere</t>
          </tg>
       </mg>
@@ -29556,22 +29409,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">lette</t>
             <t pos="V">minske</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <t pos="V">minske</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>gjøre lettere</re>
-            <t pos="V">lette</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>minske, lette</re>
             <t pos="V">redusere</t>
          </tg>
       </mg>
@@ -29614,7 +29451,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <t pos="V">forbruke</t>
             <xg>
                <x>Maŋŋel borrama ozai Biret spealu mainna golahalaiga áiggi.</x>
-               <xt>Etter måltidet lette Biret etter et spill man kunne ddrive tiden med.</xt>
+               <xt>Etter måltidet lette Biret etter et spill man kunne drive tiden med.</xt>
             </xg>
          </tg>
       </mg>
@@ -29710,12 +29547,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">leie</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>holden i hånden</re>
+            <re>holde i hånden</re>
             <t pos="V">leie</t>
          </tg>
       </mg>
@@ -29738,18 +29570,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg x="fad">
          <tg xml:lang="nob">
-            <t pos="V">beholde</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>opprettholde</re>
             <t pos="V">bevare</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>holde fast på</re>
             <t pos="V">opprettholde</t>
          </tg>
       </mg>
@@ -29762,12 +29583,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rekke</t>
-            <t pos="V">nå</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>få tak i</re>
             <t pos="V">nå</t>
             <xg>
                <x>Olahatgo vuosttá?</x>
@@ -29783,16 +29598,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <x>Modeallas leat ávdnasat maiguin galggaše olahit mihtuid.</x>
                <xt>Modellen inneholder de midlene som skal til for å nå målet.</xt>
             </xg>
-            <xg>
-               <x>Dat guokte guovddáš gaskaoami mainna galggašii juksat boazodoallopolitihkalaš mihtuid leat boazodoalloláhka ja boazodoallošiehtadus.</x>
-               <xt>De to sentrale virkemidlene for å nå de reindriftspolitiske målene er reindriftsloven og reindriftsavtalen.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>nå opp el. fram til</re>
-            <t pos="V">oppnå</t>
          </tg>
       </mg>
    </e>
@@ -29803,6 +29608,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">innhente</t>
+            <t pos="V">nå</t>
+            <xg>
+               <x>Sire jovssai daid earáid.</x>
+               <xt>Sire innhentet de andre.</xt> 
+            </xg>
+            <xg>
+               <x>Juohke sátni jovssai guldaleddjiid.</x>
+               <xt>Hvert ord nådde lytterne.</xt>
+            </xg>
          </tg>
       </mg>
       <mg x="fad">
@@ -29810,35 +29624,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re>oppnå</re>
             <t pos="V">nå</t>
             <xg>
-               <x>Modeallas leat ávdnasat maiguin galggaše olahit mihtuid.</x>
-               <xt>Modellen inneholder de midlene som skal til for å nå målet.</xt>
-            </xg>
-            <xg>
-               <x>Dat guokte guovddáš gaskaoami mainna galggašii juksat boazodoallopolitihkalaš mihtuid leat boazodoalloláhka ja boazodoallošiehtadus.</x>
+               <x>Dat guokte guovddáš gaskaoami mainna galggašii joksat boazodoallopolitihkalaš mihtuid leat boazodoalloláhka ja boazodoallošiehtadus.</x>
                <xt>De to sentrale virkemidlene for å nå de reindriftspolitiske målene er reindriftsloven og reindriftsavtalen.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>nå igjen, rekke</re>
-            <t pos="V">nå</t>
-            <xg>
-               <x>Joksat busse.</x>
-               <xt>Nå bussen.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>ta igjen</re>
-            <t pos="V">innhente</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>nå opp el. fram til</re>
-            <t pos="V">oppnå</t>
          </tg>
       </mg>
    </e>
@@ -29849,7 +29637,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">nå igjen</t>
+            <t pos="V">innhente</t>
+            <t pos="V">nå</t>
+            <xg>
+               <x>Sire juvssai daid earáid.</x>
+               <xt>Sire innhentet de andre.</xt> 
+            </xg>
+            <xg>
+               <x>Juohke sátni juvssai guldaleddjiid.</x> 
+               <xt>Hvert ord nådde lytterne.</xt>
+            </xg>
          </tg>
       </mg>
       <mg x="fad">
@@ -29857,29 +29654,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re>oppnå</re>
             <t pos="V">nå</t>
             <xg>
-               <x>Modeallas leat ávdnasat maiguin galggaše olahit mihtuid.</x>
-               <xt>Modellen inneholder de midlene som skal til for å nå målet.</xt>
-            </xg>
-            <xg>
                <x>Dat guokte guovddáš gaskaoami mainna galggašii juksat boazodoallopolitihkalaš mihtuid leat boazodoalloláhka ja boazodoallošiehtadus.</x>
                <xt>De to sentrale virkemidlene for å nå de reindriftspolitiske målene er reindriftsloven og reindriftsavtalen.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>nå igjen, rekke</re>
-            <t pos="V">nå</t>
-            <xg>
-               <x>Joksat busse.</x>
-               <xt>Nå bussen.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob">
-            <re>nå opp el. fram til</re>
-            <t pos="V">oppnå</t>
          </tg>
       </mg>
    </e>
@@ -29911,7 +29688,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <t pos="V">dra</t>
             <xg>
                <x>Guđa mánu geahčen oažžu dollet Olmmáivággái.</x>
-               <xt>Om seks måneder får hun reise til Manndalen.</xt>
+               <xt>Om seks måneder får hun dra til Manndalen.</xt>
             </xg>
          </tg>
       </mg>
@@ -29974,7 +29751,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <re>forme, uttale en språklyd</re>
             <t pos="V">si</t>
             <xg>
-               <x>Ii nieida	jietnadan maidege.</x>
+               <x>Ii nieida jietnadan maidege.</x>
                <xt>Jenta sa ingenting.</xt>
             </xg>
             <xg>
