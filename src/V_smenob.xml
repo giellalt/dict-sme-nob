@@ -3823,8 +3823,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">pisse</t>
             <t pos="V">tisse</t>
+            <xg>
+               <x>Mánná balai nu ahte cissai buvssaide.</x>
+               <xt>Barnet var så redd at det tisset i buksene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7687,14 +7690,42 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <e>
+    <e>
+      <lg>
+         <l context="mun" pos="V">gožžat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">pisse</t>
+            <t pos="V">tisse</t>
+            <xg>
+               <x>Vielppis gožžá láhttái.</x>
+               <xt>Valpen pisser på golvet.</xt>
+            </xg>
+            <xg>
+               <x>Nuorra dievdu ii nagodan doalahallat ja goččai dáksevuordinbáikkis.</x>
+               <xt>En ung mann klarte ikke å holde seg og pissa på taksiholdeplassen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg freq="30">
          <l context="mun" pos="V">gužžat</l>
          <lc>(son) guččai</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">pisse</t>
             <t pos="V">tisse</t>
+            <xg>
+               <x>Vielppis gužžá láhttái.</x>
+               <xt>Valpen pisser på golvet.</xt>
+            </xg>
+            <xg>
+               <x>Nuorra dievdu ii nagodan doalahallat ja guččai dáksevuordinbáikkis.</x>
+               <xt>En ung mann klarte ikke å holde seg og pissa på taksiholdeplassen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
