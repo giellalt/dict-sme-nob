@@ -487,6 +487,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">sette stikker</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">bringe med seg lus</t>
          </tg>
       </mg>
@@ -5440,10 +5445,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">kunne ta på noe varmt eller kaldt</t>
+         <re>om noe varmt eller kaldt</re>
+            <t pos="V">holde ut</t>
             <xg>
                <x>Go lea báhkas de ii dárjja doallat.</x>
-               <xt>Når det er glovarmt så klarer man ikke å holde det.</xt>
+               <xt>Når det er glovarmt så holde man ikke ut å holde det.</xt>
             </xg>
          </tg>
       </mg>
@@ -22591,12 +22597,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>hindres fra</re>
-            <t pos="V">avverge</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <re>avverges</re>
             <t pos="V">unngå</t>
          </tg>
@@ -24014,16 +24014,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <re>jus</re>
             <t pos="V">oppheve</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="V" type="PrsPrc" pg="no">badjelgeahčči</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">fornedrende</t>
          </tg>
       </mg>
    </e>
@@ -34712,7 +34702,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">skitne</t>
+            <t pos="V">skitne til</t>
          </tg>
       </mg>
    </e>
@@ -35003,11 +34993,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">cirget</l>
+         <l context="dat" pos="V">cirget</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">sprøyte</t>
+            <t pos="V">sprute</t>
          </tg>
       </mg>
    </e>
