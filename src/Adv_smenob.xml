@@ -24,6 +24,118 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      or could be wrongly sorted.
      </sourcenote></lics>
    <e>
+      <lg>
+         <l pos="Adv">dárkket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nøyaktig</t>
+            <xg>
+               <x>Mun dat guldalan dárkket ádjá muitalusa.</x>
+               <xt>Jeg lytter nøyaktig til bestefar sin fortelling.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">millosepmosit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">helst</t>
+            <xg>
+               <x>Ferten vuolgit boradit, vaikko millosepmosit náđošin latnjii.</x>
+               <xt>Jeg må gå og spise, selv om jeg helst ville krype sammen inne på rommet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oaidnit leš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">vi får se</t>
+            <xg>
+               <x>Oaidnit leš makkár dilli doppe duođai lea.</x>
+               <xt>Vi får nå se hvordan forholdene der faktisk er.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">badjeloivviid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fullstendig</t>
+            <xg>
+               <x>Sii leat badjeloivviid duolvasat ja ráiskobiktasat illá gokcet bađa.</x>
+               <xt>De er fullstendig skitne og de fillete klærne dekte nesten ikke baken. </xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mo árpmuid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hvordan i all verden</t>
+            <xg>
+               <x>Mo árpmuid áiggun bivvat tealttás dál?</x>
+               <xt>Hvordan i all verden skal jeg holde varmen i telt nå?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">čeavlájit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">overlegent</t>
+            <xg>
+               <x>Vulgen Sámis hui čeavlájit ja rábmostallen vuolgit dohko gos ii dárbbaš goallut.</x>
+               <xt>Jeg dro fra Sápmi veldig kry og jeg skrøt at jeg skulle reise dit hvor man ikke trenger å fryse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">áimmuin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i behold</t>
+            <xg>
+               <x>Muitogoarta doaibmá, ja lihkus buot govat leat ain áimmuin.</x>
+               <xt>Minnekortet fungerer, og heldigvis er alle bildene i behold.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">loktosii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">oppe</t>
+            <xg>
+               <x>Loahpas njukun váidu ja bázán heaŋgát loktosii vulosoivviid.</x>
+               <xt>Til slutt avtar hoppingen og jeg blir hengende der oppe med hodet ned.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg freq="0">
          <l pos="Adv" pg="no">muhtun muddui</l>
       </lg>
@@ -3587,6 +3699,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">nær hverandre</t>
+            <xg>
+               <x>Čohkohalle lahkalagaid.</x>
+               <xt>Vi to sitter nært hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4371,7 +4487,26 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
+         <re>med nekting</re>
             <t pos="Adv">nesten ikke</t>
+            <xg>
+               <x>Son ii lean málen	olus geasi áigge.</x>
+               <xt>Hun har nesten ikke malt i løpet av sommeren.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">olus mihkkige</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nesten noe som helst</t>
+            <xg>
+               <x>Dáppe ii dáhpáhuva olus mihkkige.</x>
+               <xt>Her skjer det nesten ikke noe som helst.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5435,6 +5570,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <xg>
                <x>ii álgage</x>
                <xt>ikke i det hele tatt</xt>
+            </xg>
+            <xg>
+               <x>In beroš álgage politihkas.</x>
+               <xt>Jeg bryr med ikke i det hele tatt om politikk.</xt>
             </xg>
          </tg>
       </mg>
@@ -6899,9 +7038,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">virkelig</t>
+            <t pos="Adv">faktisk</t>
             <xg>
                <x>Sudnos lei duođai buorre gaskavuohta.</x>
                <xt>De to hadde virkelig et godt forhold.</xt>
+            </xg>
+            <xg>
+               <x>Oaidnit leš makkár dilli doppe duođai lea.</x>
+               <xt>Vi får nå se hvordan forholdene der faktisk er.</xt>
             </xg>
          </tg>
       </mg>
