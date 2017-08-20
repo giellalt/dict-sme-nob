@@ -29,7 +29,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re></re>
             <t pos="V">avtale</t>
             <xg>
                <x>Ledjen skihppon johtit Liissáin, muhto son geassádii.</x>
@@ -356,29 +355,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <xg>
                <x>Jus privatiserešii sámi skuvlla, de seammás beasahivččii stáhta ovddasvástádusastis.</x>
                <xt>Hvis man privatiserer samisk skole, så slipper samtidig staten unna ansvaret sitt.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">šávgut</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>om vann</re>
-            <t pos="V">slå ned</t>
-            <xg>
-               <x>Almmis šávggui čázi ja fargga eatnamis ledje juo láddot.</x>
-               <xt>Fra himmelen slo vannet ned og snart var det allerede vanndammer på marka.</xt>
-            </xg>
-            <xg>
-               <x>Arvi šávgugoahtá.</x>
-               <xt>Regnet begynner å slå ned.</xt>
-            </xg>
-            <xg>
-               <x>De bođii garra jorribiegga, ja bárut šávgo fatnasii nu ahte dat goasii devdui.</x>
-               <xt>Så kom en kraftig tornado, og bølgene slo ned i båten slik at den nesten ble fylt.</xt>
             </xg>
          </tg>
       </mg>
@@ -2672,16 +2648,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="V">inspisere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="393">
-         <l context="mun" pos="V">beasahit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">miste</t>
          </tg>
       </mg>
    </e>
@@ -13955,6 +13921,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob">
             <t pos="V">slite</t>
             <t pos="V">slepe</t>
+            <xg>
+               <x>Čuovžanuohtti lea maid lossat rundit ja danin dárbbašuvvojit unnimusat njeallje olbmo dán bivdui.</x>
+               <xt>En siknot er også tung å slepe og derfor trenges minst fire personer til dette fisket.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -18686,7 +18656,23 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">slå</t>
+            <t pos="V">slå ned</t>
+            <xg>
+               <x>Almmis šávggui čázi ja fargga eatnamis ledje juo láddot.</x>
+               <xt>Fra himmelen slo vannet ned og snart var det allerede vanndammer på marka.</xt>
+            </xg>
+            <xg>
+               <x>Arvi šávgugoahtá.</x>
+               <xt>Regnet begynner å slå ned.</xt>
+            </xg>
+            <xg>
+               <x>De bođii garra jorribiegga, ja bárut šávgo fatnasii nu ahte dat goasii devdui.</x>
+               <xt>Så kom en kraftig tornado, og bølgene slo ned i båten slik at den nesten ble fylt.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">helle</t>
          </tg>
       </mg>
@@ -37178,20 +37164,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">rundit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">slepe</t>
-            <xg>
-               <x>Čuovžanuohtti lea maid lossat rundit ja danin dárbbašuvvojit unnimusat njeallje olbmo dán bivdui.</x>
-               <xt>En siknot er også tung å slepe og derfor trenges minst fire personer til dette fisket.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">nákkáskit</l>
       </lg>
       <mg>
@@ -37441,8 +37413,195 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <e>
+      <lg>
+         <l context="dat" pos="V">bahčásit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om væske eller krem</re>
+            <t pos="V">bli klemt ut</t>
+            <t pos="V">trenge seg fram</t>
+            <xg>
+               <x>Gatnjalat bahčásit čalmmiide.</x>
+               <xt>Tårer trenger seg fram i øynene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">holbat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sy holbi på kofta</t>
+            <xg>
+               <x>Sáhtátgo veahkehit holbat gávtti?</x>
+               <xt>Kan du hjelpe å sy på holbi på kofta?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">beahttašuvvat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli skuffet</t>
+            <xg>
+               <x>Gánda beahttašuvai ja lea dál suhttan munnje.</x>
+               <xt>Gutten ble skuffet og er nå sint på meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">berostit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ense, bry seg om</t>
+            <xg>
+               <x>Mun berostan das.</x>
+               <xt>Jeg bryr meg om det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">berostuvvat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være interessert i</t>
+            <xg>
+               <x>Dieđán ahte songe lea berostuvvan mus.</x>
+               <xt>Jeg vet at han også er interessert i meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">biipet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tute</t>
+            <xg>
+               <x>Biilavuoddjit gal miiget dorvii, go biipemis ii leat gaskage.</x>
+               <xt>Bilførerne lener seg på hornet, for det er ikke opphold i tutinga.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">boatkut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>flere ganger</re>
+            <t pos="V">bryte av</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">cummistit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kysse</t>
+            <xg>
+               <x>Son cummistii mu.</x>
+               <xt>Han kysset meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">fatnasit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tøyes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">storrát</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hæres</t>
+            <xg>
+               <x>Livččen váldán vielpá sisa jus livččen storrán, duolvvas ja dievva lahppát.</x>
+               <xt>Jeg ville tatt valpen inn hvis jeg hadde hærtes, skitten og full av lopper. </xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">sáhkohallat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli bøtelagt</t>
+            <xg>
+               <x>Jus ruskka bálkesta eatnamii, de sáhttá sáhkohallat.</x>
+               <xt>Hvis man kaster rusk på bakken, så kan man bli bøtelagt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">čagalduvvat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kiles</t>
+            <xg>
+               <x>Ferten mieđihit ahte čoavji čagalduvvá.</x>
+               <xt>Jeg må innrømme at det kiler i magen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">čearsát</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">glise</t>
+            <xg>
+               <x>Moai čearsájetne dego duháhat earáge ráhkásmuvvan bárat.</x>
+               <xt>Vi to gliser som tusenvis av andre forelskete par.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">čáppášit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">synes at noe er vakkert</t>
+            <xg>
+               <x>Mun čáppášin su gávtti ja jerren gii dan lea gorron.</x>
+               <xt>Jeg syntes at kofta hennes var vakker og spurte hvem som har sydd den.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
