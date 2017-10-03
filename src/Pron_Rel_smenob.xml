@@ -329,6 +329,85 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e>
+      <lg>
+         <l pos="Pron" type="Rel">guhtemuš</l>
+         <analysis>Pron_Interr_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Interr_Sg_Nom">
+               <wordform>guđemuš</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Acc/Gen">
+               <wordform>guđemučča</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Ill">
+               <wordform>guđemužžii</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Loc">
+               <wordform>guđemuččas</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Com">
+               <wordform>guđemuččain</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Ess">
+               <wordform>guđemužžan</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>innenfor en avgrenset gruppe</re>
+            <t pos="Pron">hvem</t>
+            <t pos="Pron">hvilken</t>
+            <xg>
+               <x>Guhtemuš lea dán bargan?</x>
+               <xt>Hvem har gjort dette?</xt>
+            </xg>
+            <xg>
+               <x>Guhtemužžii áiggut riŋget?</x>
+               <xt>Til hvem vil du ringe?</xt>
+            </xg>
+            <xg>
+               <x>Guđemuš viesuin orrot olbmot?</x>
+               <xt>I hvilket av husene bor det folk?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg freq="0">
+         <l pos="Pron" type="Rel">guđemuččat</l>
+         <analysis>Pron_Interr_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Interr_Pl_Acc/Gen">
+               <wordform>guđemuččaid</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Pl_Ill">
+               <wordform>guđemuččaide</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Pl_Loc">
+               <wordform>guđemuččain</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Pl_Com">
+               <wordform>guđemuččaiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Ess">
+               <wordform>guđemužžan</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om flere innenfor en avgrenset gruppe</re>
+            <t pos="Pron">hvem</t>
+            <t pos="Pron">hvilke</t>
+            <xg>
+               <x>adsf</x>
+               <xt>adsf</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg freq="19677">
          <l nr="Sg" pos="Pron" type="Interr">makkár</l>
          <analysis>Pron_Interr_Sg_Nom</analysis>
