@@ -334,7 +334,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Interr_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Interr_Sg_Nom">
-               <wordform>guđemuš</wordform>
+               <wordform>guhtemuš</wordform>
             </analysis>
             <analysis ms="Pron_Interr_Sg_Acc/Gen">
                <wordform>guđemučča</wordform>
@@ -360,6 +360,51 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <t pos="Pron">hvilken</t>
             <xg>
                <x>Guhtemuš lea dán bargan?</x>
+               <xt>Hvem har gjort dette?</xt>
+            </xg>
+            <xg>
+               <x>Guhtemužžii áiggut riŋget?</x>
+               <xt>Til hvem vil du ringe?</xt>
+            </xg>
+            <xg>
+               <x>Guđemuš viesuin orrot olbmot?</x>
+               <xt>I hvilket av husene bor det folk?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Rel">guđemuš</l>
+         <analysis>Pron_Interr_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Interr_Sg_Nom">
+               <wordform>guhtemuš</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Acc/Gen">
+               <wordform>guđemučča</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Ill">
+               <wordform>guđemužžii</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Loc">
+               <wordform>guđemuččas</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Sg_Com">
+               <wordform>guđemuččain</wordform>
+            </analysis>
+            <analysis ms="Pron_Interr_Ess">
+               <wordform>guđemužžan</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>innenfor en avgrenset gruppe</re>
+            <t pos="Pron">hvem</t>
+            <t pos="Pron">hvilken</t>
+            <xg>
+               <x>Guđemuš lea dán bargan?</x>
                <xt>Hvem har gjort dette?</xt>
             </xg>
             <xg>
