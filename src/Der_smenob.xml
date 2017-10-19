@@ -28,8 +28,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">begynne å</t> <!--  borragoahtit muitališgoahtit -->
-            <test>–goahtit</test>
+            <t t_type="expl">begynne å X</t> <!--  borragoahtit muitališgoahtit -->
+            <test>–goahtit (inkoativ)</test>
          </tg>
       </mg>
    </e>
@@ -49,7 +49,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">diminutiv, som er liten</t>  <!-- skuvllaš -->
+            <t t_type="expl">liten X (diminutiv)</t>  <!-- skuvllaš -->
             <test>–š</test>
          </tg>
       </mg>
@@ -60,7 +60,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">passivform</t>  <!-- muitaluvvot borrojuvvot -->
+            <t t_type="expl">passivform av verbet</t>  <!-- muitaluvvot borrojuvvot -->
          </tg>
       </mg>
    </e>
@@ -70,8 +70,536 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">passivform</t>   <!-- borrot -->
+            <t t_type="expl">passivform av verbet</t>   <!-- borrot -->
          </tg>
       </mg>
    </e>
+
+   <e>
+      <lg>
+         <l pos="V">Der/A</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">nærmere eller nærmerst X</t>
+            <test>adjektiv avledet av substantiv</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/AAdv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">adverb</t>
+            <test>adverb av adjektiv</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/Car</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">uten X</t>
+            <test>-heapmi, -his (karitiv)</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/Caus</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">få noen til å X</t>
+            <test>-hit (kausativ)</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/NomAct</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">handlingen X</t>
+            <test>handlingsnomen</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/NomAg</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">den som X</t>
+            <test>handlernomen</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/adda</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/ahtti</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/alla</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/amoš</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/asti</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/aš</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/d</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/eamoš</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/eapmi</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/easti</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/geahtes</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">uten å X</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/h</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/halla</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/has</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/hat</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/heapmi</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/hudda</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/huhtti</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/huvva</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/j</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/keahtta</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/l</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/laagasj</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/las</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/lasj</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="V">Der/meahttun</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/muš</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/sasj</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/st</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/stuvva</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/supmi</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/t</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/upmi</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/veara</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/viđi</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/viđá</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/vuota</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">-het</t>
+            <test>substantiv av adjektiv</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/ár</l>
+
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">XXXX</t>
+            <test>xxxx</test>
+         </tg>
+      </mg>
+   </e>
+
 </r>
