@@ -40,7 +40,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t t_type="expl">noe liknende</t>
-            <test>–lágan (adjektiv)</test>
+            <test>–lágan (fra substantiv)</test>
          </tg>
       </mg>
    </e>
@@ -80,29 +80,29 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
 
    <e>
       <lg>
-         <l pos="V">Der/A</l>
+         <l pos="A">Der/A</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="expl">nærmere eller nærmerst X</t>
-            <test>adjektiv avledet av substantiv</test>
+            <test>adjektiv av substantiv</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/AAdv</l>
+         <l pos="Adv">Der/AAdv</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="expl">adverb</t>
-            <test>adverb av adjektiv</test>
+            <test> -t (fra adjektiv)</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/Car</l>
+         <l pos="A">Der/Car</l>
 
       </lg>
       <mg>
@@ -126,25 +126,25 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">Der/NomAct</l>
+         <l pos="N">Der/NomAct</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="expl">handlingen X</t>
-            <test>handlingsnomen</test>
+            <test>-n eller -eapmi (handlingsnomen)</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/NomAg</l>
+         <l pos="N">Der/NomAg</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="expl">den som X</t>
-            <test>handlernomen</test>
+            <test>-i, -u eller -eaddji (handlernomen)</test>
          </tg>
       </mg>
    </e>
@@ -155,20 +155,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/ahtti</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">X skjer flere ganger</t>
+            <test>-addat</test>
          </tg>
       </mg>
    </e>
@@ -179,44 +167,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/amoš</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/asti</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/aš</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">X skjer flere ganger</t>
+            <test>-allat</test>
          </tg>
       </mg>
    </e>
@@ -227,32 +179,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">over en periode, eller refleksiv</t>
+            <test>-dit</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/eamoš</l>
+         <l pos="N">Der/eamoš</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/eapmi</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">det å gjøre X</t>
+            <test>-eamoš (fra verb)</test>
          </tg>
       </mg>
    </e>
@@ -263,20 +203,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">å X litt eller plutselig</t>
+            <test>-eastit (diminutiv/subitiv)</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/geahtes</l>
+         <l pos="A">Der/geahtes</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">uten å X</t>
-            <test>xxxx</test>
+            <t t_type="expl">uten X</t>
+            <test>-keahtes eller -geahtes</test>
          </tg>
       </mg>
    </e>
@@ -287,8 +227,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">få til å X</t>
+            <test>-hit</test>
          </tg>
       </mg>
    </e>
@@ -299,56 +239,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">være så uheldig å bli</t>
+            <test>-hallat (passiv)</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/has</l>
+         <l pos="N">Der/hat</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/hat</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/heapmi</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/hudda</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">stedet hvor X skjer</t>
+            <test>-hat</test>
          </tg>
       </mg>
    </e>
@@ -359,8 +263,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">å bli preget av X</t>
+            <test>-huhttit (fra substantiv)</test>
          </tg>
       </mg>
    </e>
@@ -371,32 +275,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">å bli X</t>
+            <test>-uvvat</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/j</l>
+         <l pos="Adv">Der/keahtta</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/keahtta</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">uten X</t>
+            <test>-keahttá</test>
          </tg>
       </mg>
    </e>
@@ -407,80 +299,80 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">X skjer fort</t>
+            <test>-lit</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/laagasj</l>
+         <l pos="A">Der/laagasj</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">liknende av</t>
+            <test>–lágaš (adjektiv)</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/las</l>
+         <l pos="A">Der/las</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">som gjør mye X</t>
+            <test>-las</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/lasj</l>
+         <l pos="A">Der/lasj</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">liknende av eller som tilhører X</t>
+            <test>-laš (adjektiv)</test>
          </tg>
       </mg>
    </e>
     <e>
       <lg>
-         <l pos="V">Der/meahttun</l>
+         <l pos="A">Der/meahttun</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">uten å X</t>
+            <test>-meahttun</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/muš</l>
+         <l pos="N">Der/muš</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">det å gjøre X</t>
+            <test>-muš (til substantiv)</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/sasj</l>
+         <l pos="A">Der/sasj</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">en viss mengde</t>
+            <test>-saš</test>
          </tg>
       </mg>
    </e>
@@ -491,8 +383,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">å X litt</t>
+            <test>-stit (diminutiv/subitiv)</test>
          </tg>
       </mg>
    </e>
@@ -503,14 +395,25 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">å komme i en situasjon av, eller å ville X</t>
+            <test>-stuvvat</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/supmi</l>
+         <l pos="N">Der/supmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">hendelsen X</t>
+            <test>-šupmi (handlingsnomen)</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">Der/t</l>
 
       </lg>
       <mg>
@@ -522,31 +425,19 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">Der/t</l>
+         <l pos="N">Der/upmi</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">hendelsen X</t>
+            <test>-upmi (handlingsnomen)</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/upmi</l>
-
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Der/veara</l>
+         <l pos="Adv">Der/veara</l>
 
       </lg>
       <mg>
@@ -582,25 +473,25 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">Der/vuota</l>
+         <l pos="N">Der/vuota</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="expl">-het</t>
-            <test>substantiv av adjektiv</test>
+            <test>-vuohta (substantiv)</test>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">Der/ár</l>
+         <l pos="N">Der/ár</l>
 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">XXXX</t>
-            <test>xxxx</test>
+            <t t_type="expl">om en person</t>
+            <test>-ár</test>
          </tg>
       </mg>
    </e>
