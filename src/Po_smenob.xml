@@ -1270,15 +1270,24 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>om noe som er i bevegelse</re>
             <t pos="Pr">bak</t>
-            <t pos="Pr">etter</t>
             <xg>
-               <x>Áhkku viegai mánáid maŋis.</x>
-               <xt>Bestemor sprang etter barna.</xt>
+               <x>Olbmot manne nubbi nuppi maŋis.</x>
+               <xt>Folk gikk den ene bak den andre.</xt>
             </xg>
             <xg>
                <x>Ánte bođii viega ja Biera bođii maŋis.</x>
                <xt>Ánte kom springende med Biera etter seg.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">etter</t>
+            <xg>
+               <x>In gille čorget earáid maŋis.</x>
+               <xt>Jeg orker ikke å rydde etter andre.</xt>
             </xg>
          </tg>
       </mg>
@@ -1289,7 +1298,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">bak</t>
+	        <re>om noe som kommer i bevegelse</re>
             <t pos="Pr">etter</t>
             <xg>
                <x>Áhkku viehkalii mánáid maŋŋái.</x>
