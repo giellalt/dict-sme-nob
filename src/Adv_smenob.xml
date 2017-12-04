@@ -39,6 +39,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
+         <l pos="Adv">dárkilit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nøyaktig</t>
+            <xg>
+               <x>Mun dat guldalan dárkilit ádjá muitalusa.</x>
+               <xt>Jeg lytter nøyaktig til bestefar sin fortelling.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">millosepmosit</l>
       </lg>
       <mg>
@@ -1128,16 +1142,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">utstrakt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="Adv">hiljet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">sakte</t>
          </tg>
       </mg>
    </e>
@@ -8295,6 +8299,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
+         <l pos="Adv">árraiđit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">tidlig på morgenen</t>
+            <xg>
+               <x>Lei árraiđit, ovdalgo beaivi loktanii.</x>
+               <xt>Det var tidlig på morgenen, før sola sto opp.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">iđitviđá</l>
       </lg>
       <mg>
@@ -8411,113 +8429,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="Adv">nest</l>
+         <l pos="Adv">nubbi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">nubbi</t>
+            <t pos="Adv">nest</t>
             <xg>
-               <x>Seiland er Finnmarks nest største øy.</x>
-               <xt>Sievju lea Finnmárkku nubbi stuorámus suolu.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">tidlig på morgenen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">árraiđit</t>
-            <xg>
-               <x>Det var tidlig på morgenen, før sola sto opp.</x>
-               <xt>Lei árraiđit, ovdalgo beaivi loktanii.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">nøyaktig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">dárkilit</t>
-            <t pos="Adv">dárkket</t>
-            <xg>
-               <x>Jeg lytter nøyaktig til bestefar sin fortelling.</x>
-               <xt>Mun dat guldalan dárkket ádjá muitalusa.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">overlegent</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">čeavlájit</t>
-            <xg>
-               <x>Jeg dro fra Sápmi veldig kry og jeg skrøt at jeg skulle reise dit hvor man ikke trenger å fryse.</x>
-               <xt>Vulgen Sámis hui čeavlájit ja rábmostallen vuolgit dohko gos ii dárbbaš goallut.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i behold</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">áimmuin</t>
-            <xg>
-               <x>Minnekortet fungerer, og heldigvis er alle bildene i behold.</x>
-               <xt>Muitogoarta doaibmá, ja lihkus buot govat leat ain áimmuin.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">faktisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">duođai</t>
-            <xg>
-               <x>Vi får nå se hvordan forholdene der faktisk er.</x>
-               <xt>Oaidnit leš makkár dilli doppe duođai lea.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">rakrygget</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">njuolggočilggiid</t>
-            <xg>
-               <x>Mannen går rakrygget og spenstig som en leopard.</x>
-               <xt>Almmái vázzá njuolggočilggiid ja dávgasit dego leopárda.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">spenstig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">dávgasit</t>
-            <xg>
-               <x>Mannen går rakrygget og spenstig som en leopard.</x>
-               <xt>Almmái vázzá njuolggočilggiid ja dávgasit dego leopárda.</xt>
+               <x>Sievju lea Finnmárkku nubbi stuorámus suolu.</x>
+               <xt>Seiland er Finnmarks nest største øy.</xt>
             </xg>
          </tg>
       </mg>
