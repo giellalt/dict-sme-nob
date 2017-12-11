@@ -496,5 +496,60 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">VAbess</l> <!-- dieđekeahttá -->
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">uten å X</t>
+            <test>verbabessiv</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">VGen</l> <!-- viega -->
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">måten å gjøre noe på</t>
+            <test>verbagenitiv</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Ger</l> <!-- viegadettiin -->
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">mens man X</t>
+            <test>gerundium</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Comp</l> <!-- čeahpit -->
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">mer X</t>
+            <test>komaparativ</test>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Superl</l> <!-- čeahpimus -->
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="expl">mest X</t>
+            <test>superlativ</test>
+         </tg>
+      </mg>
+   </e>
 
 </r>
