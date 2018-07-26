@@ -25,7 +25,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">mon</l>
+         <l pos="Pron" type="pers">mon</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg1_Nom">
@@ -51,7 +51,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">jeg</t>
+            <t pos="Pron" type="pers">jeg</t>
             <xg>
                <x>mon lean</x>
                <xt>jeg er</xt>
@@ -65,7 +65,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="185625">
-         <l pos="Pron" type="Pers">mun</l>
+         <l pos="Pron" type="pers">mun</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg1_Nom">
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">jeg</t>
+            <t pos="Pron" type="pers">jeg</t>
             <xg>
                <x>mun lean</x>
                <xt>jeg er</xt>
@@ -106,7 +106,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="53165">
-         <l pos="Pron" type="Pers">don</l>
+         <l pos="Pron" type="pers">don</l>
          <analysis>Pron_Pers_Sg2_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg2_Nom">
@@ -131,7 +131,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">du</t>
+            <t pos="Pron" type="pers">du</t>
             <xg>
                <x>Dus lea gusto stuora beana.</x>
                <xt>Du har sannelig en stor hund.</xt>
@@ -141,7 +141,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="254157">
-         <l pos="Pron" type="Pers">son</l>
+         <l pos="Pron" type="pers">son</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg3_Nom">
@@ -166,8 +166,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">han</t>
-            <t pos="Pron" type="Pers">hun</t>
+            <t pos="Pron" type="pers">han</t>
+            <t pos="Pron" type="pers">hun</t>
             <xg>
                <x>Son liiko stoahkat.</x>
                <xt>Han liker å leke.</xt>
@@ -181,7 +181,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">moai</l>
+         <l pos="Pron" type="pers">moai</l>
          <analysis>Pron_Pers_Du1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Du1_Nom">
@@ -206,7 +206,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">vi to</t>
+            <t pos="Pron" type="pers">vi to</t>
             <xg>
                <x>moai letne</x>
                <xt>vi to er</xt>
@@ -220,7 +220,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">doai</l>
+         <l pos="Pron" type="pers">doai</l>
          <analysis>Pron_Pers_Du2_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Du2_Nom">
@@ -245,7 +245,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">dere to</t>
+            <t pos="Pron" type="pers">dere to</t>
             <xg>
                <x>doai leahppi</x>
                <xt>dere to er</xt>
@@ -259,7 +259,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">soai</l>
+         <l pos="Pron" type="pers">soai</l>
          <analysis>Pron_Pers_Du3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Du3_Nom">
@@ -284,7 +284,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">de to</t>
+            <t pos="Pron" type="pers">de to</t>
             <xg>
                <x>soai leaba</x>
                <xt>de to er</xt>
@@ -298,7 +298,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="286351">
-         <l pos="Pron" type="Pers">mii</l>
+         <l pos="Pron" type="pers">mii</l>
          <analysis>Pron_Pers_Pl1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl1_Nom">
@@ -323,7 +323,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">vi</t>
+            <t pos="Pron" type="pers">vi</t>
             <xg>
                <x>mii leat</x>
                <xt>vi er</xt>
@@ -337,7 +337,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dii</l>
+         <l pos="Pron" type="pers">dii</l>
          <analysis>Pron_Pers_Pl2_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl2_Nom">
@@ -362,7 +362,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">dere</t>
+            <t pos="Pron" type="pers">dere</t>
             <xg>
                <x>dii lehpet</x>
                <xt>dere er</xt>
@@ -376,7 +376,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sii</l>
+         <l pos="Pron" type="pers">sii</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl3_Nom">
@@ -401,7 +401,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">de</t>
+            <t pos="Pron" type="pers">de</t>
             <xg>
                <x>sii leat</x>
                <xt>de er</xt>
@@ -415,14 +415,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">mu</l>
+         <l pos="Pron" type="pers">mu</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Gen</analysis>
          <analysis>Pron_Pers_Sg1_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">meg</t>
+            <t pos="Pron" type="pers">meg</t>
          </tg>
       </mg>
       <mg>
@@ -442,13 +442,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">munnje</l>
+         <l pos="Pron" type="pers">munnje</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til meg</t>
+            <t pos="Pron" type="pers">til meg</t>
             <xg>
                <x>Muital munnje!</x>
                <xt>Fortell til meg!</xt>
@@ -458,13 +458,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">mus</l>
+         <l pos="Pron" type="pers">mus</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">jeg (har noe)</t>
+            <t pos="Pron" type="pers">jeg (har noe)</t>
             <xg>
                <x>Mus lea beana.</x>
                <xt>Jeg har en hund.</xt>
@@ -474,25 +474,25 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">muinna</l>
+         <l pos="Pron" type="pers">muinna</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med meg</t>
+            <t pos="Pron" type="pers">med meg</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">munin</l>
+         <l pos="Pron" type="pers">munin</l>
          <lemma_ref lemmaID="mun_pron_pers">mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som meg</t>
+            <t pos="Pron" type="pers">som meg</t>
             <xg>
                <x>Don sáhtát logget dihtorii munin.</x>
                <xt>Du kan logge deg inn på datamasinen som meg.</xt>
@@ -502,14 +502,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">du</l>
+         <l pos="Pron" type="pers">du</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Gen</analysis>
          <analysis>Pron_Pers_Sg2_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">deg</t>
+            <t pos="Pron" type="pers">deg</t>
          </tg>
       </mg>
       <mg>
@@ -529,13 +529,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dutnje</l>
+         <l pos="Pron" type="pers">dutnje</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til deg</t>
+            <t pos="Pron" type="pers">til deg</t>
             <xg>
                <x>Muitalan dutnje.</x>
                <xt>Jeg forteller til deg.</xt>
@@ -545,13 +545,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dus</l>
+         <l pos="Pron" type="pers">dus</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">du (har noe)</t>
+            <t pos="Pron" type="pers">du (har noe)</t>
             <xg>
                <x>Dus lea beana.</x>
                <xt>Du har en hund.</xt>
@@ -561,25 +561,25 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">duinna</l>
+         <l pos="Pron" type="pers">duinna</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med deg</t>
+            <t pos="Pron" type="pers">med deg</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dunin</l>
+         <l pos="Pron" type="pers">dunin</l>
          <lemma_ref lemmaID="don_pron_pers">don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som deg</t>
+            <t pos="Pron" type="pers">som deg</t>
             <xg>
                <x>Sáhtángo logget dihtorii dunin.</x>
                <xt>Kan jeg logge meg inn på datamasinen som deg?</xt>
@@ -589,15 +589,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">su</l>
+         <l pos="Pron" type="pers">su</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Gen</analysis>
          <analysis>Pron_Pers_Sg3_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">ham</t>
-            <t pos="Pron" type="Pers">henne</t>
+            <t pos="Pron" type="pers">ham</t>
+            <t pos="Pron" type="pers">henne</t>
          </tg>
       </mg>
       <mg>
@@ -613,14 +613,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sutnje</l>
+         <l pos="Pron" type="pers">sutnje</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til han</t>
-            <t pos="Pron" type="Pers">til henne</t>
+            <t pos="Pron" type="pers">til han</t>
+            <t pos="Pron" type="pers">til henne</t>
             <xg>
                <x>Muital sutnje!</x>
                <xt>Fortell til henne!</xt>
@@ -630,14 +630,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sus</l>
+         <l pos="Pron" type="pers">sus</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">han (har noe)</t>
-            <t pos="Pron" type="Pers">hun (har noe)</t>
+            <t pos="Pron" type="pers">han (har noe)</t>
+            <t pos="Pron" type="pers">hun (har noe)</t>
             <xg>
                <x>Sus lea beana.</x>
                <xt>Hun har en hund.</xt>
@@ -647,40 +647,40 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">suinna</l>
+         <l pos="Pron" type="pers">suinna</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med henne</t>
-            <t pos="Pron" type="Pers">med han</t>
+            <t pos="Pron" type="pers">med henne</t>
+            <t pos="Pron" type="pers">med han</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sunin</l>
+         <l pos="Pron" type="pers">sunin</l>
          <lemma_ref lemmaID="son_pron_pers">son</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som han</t>
-            <t pos="Pron" type="Pers">som henne</t>
+            <t pos="Pron" type="pers">som han</t>
+            <t pos="Pron" type="pers">som henne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">munno</l>
+         <l pos="Pron" type="pers">munno</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Gen</analysis>
          <analysis>Pron_Pers_Du1_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">oss to</t>
+            <t pos="Pron" type="pers">oss to</t>
          </tg>
       </mg>
       <mg>
@@ -701,13 +701,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">munnuide</l>
+         <l pos="Pron" type="pers">munnuide</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til oss to</t>
+            <t pos="Pron" type="pers">til oss to</t>
             <xg>
                <x>Muital munnuide!</x>
                <xt>Fortell til oss to!</xt>
@@ -717,13 +717,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">munnos</l>
+         <l pos="Pron" type="pers">munnos</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">vi to (har noe)</t>
+            <t pos="Pron" type="pers">vi to (har noe)</t>
             <xg>
                <x>Munnos lea beana.</x>
                <xt>Vi to har en hund.</xt>
@@ -733,38 +733,38 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">munnuin</l>
+         <l pos="Pron" type="pers">munnuin</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med oss to</t>
+            <t pos="Pron" type="pers">med oss to</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">munnon</l>
+         <l pos="Pron" type="pers">munnon</l>
          <lemma_ref lemmaID="moai_pron_pers">moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som oss to</t>
+            <t pos="Pron" type="pers">som oss to</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dudno</l>
+         <l pos="Pron" type="pers">dudno</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Gen</analysis>
          <analysis>Pron_Pers_Du2_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">dere to</t>
+            <t pos="Pron" type="pers">dere to</t>
          </tg>
       </mg>
       <mg>
@@ -780,13 +780,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dudnuide</l>
+         <l pos="Pron" type="pers">dudnuide</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til dere to</t>
+            <t pos="Pron" type="pers">til dere to</t>
             <xg>
                <x>Muitalan dudnuide.</x>
                <xt>Jeg forteller til dere to.</xt>
@@ -796,13 +796,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dudnos</l>
+         <l pos="Pron" type="pers">dudnos</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">dere to (har noe)</t>
+            <t pos="Pron" type="pers">dere to (har noe)</t>
             <xg>
                <x>Dudnos lea beana.</x>
                <xt>Dere to har en hund.</xt>
@@ -812,38 +812,38 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dudnuin</l>
+         <l pos="Pron" type="pers">dudnuin</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med dere to</t>
+            <t pos="Pron" type="pers">med dere to</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dudnon</l>
+         <l pos="Pron" type="pers">dudnon</l>
          <lemma_ref lemmaID="doai_pron_pers">doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som dere to</t>
+            <t pos="Pron" type="pers">som dere to</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sudno</l>
+         <l pos="Pron" type="pers">sudno</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Gen</analysis>
          <analysis>Pron_Pers_Du3_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">de to</t>
+            <t pos="Pron" type="pers">de to</t>
          </tg>
       </mg>
       <mg>
@@ -859,13 +859,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sudnuide</l>
+         <l pos="Pron" type="pers">sudnuide</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til de to</t>
+            <t pos="Pron" type="pers">til de to</t>
             <xg>
                <x>Muital sudnuide!</x>
                <xt>Fortell til de to!</xt>
@@ -875,13 +875,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sudnos</l>
+         <l pos="Pron" type="pers">sudnos</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">de to (har noe)</t>
+            <t pos="Pron" type="pers">de to (har noe)</t>
             <xg>
                <x>Sudnos lea beana.</x>
                <xt>De to har en hund.</xt>
@@ -891,38 +891,38 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sudnuin</l>
+         <l pos="Pron" type="pers">sudnuin</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med de to</t>
+            <t pos="Pron" type="pers">med de to</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sudnon</l>
+         <l pos="Pron" type="pers">sudnon</l>
          <lemma_ref lemmaID="soai_pron_pers">soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som de to</t>
+            <t pos="Pron" type="pers">som de to</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">min</l>
+         <l pos="Pron" type="pers">min</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Gen</analysis>
          <analysis>Pron_Pers_Pl1_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">oss</t>
+            <t pos="Pron" type="pers">oss</t>
          </tg>
       </mg>
       <mg>
@@ -942,13 +942,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">midjiide</l>
+         <l pos="Pron" type="pers">midjiide</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til oss</t>
+            <t pos="Pron" type="pers">til oss</t>
             <xg>
                <x>Muital midjiide!</x>
                <xt>Fortell til oss!</xt>
@@ -958,13 +958,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">mis</l>
+         <l pos="Pron" type="pers">mis</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">vi (har noe)</t>
+            <t pos="Pron" type="pers">vi (har noe)</t>
             <xg>
                <x>Mis lea beana.</x>
                <xt>Vi har en hund.</xt>
@@ -974,38 +974,38 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">minguin</l>
+         <l pos="Pron" type="pers">minguin</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med oss</t>
+            <t pos="Pron" type="pers">med oss</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">minin</l>
+         <l pos="Pron" type="pers">minin</l>
          <lemma_ref lemmaID="mii_pron_pers">mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som oss</t>
+            <t pos="Pron" type="pers">som oss</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">din</l>
+         <l pos="Pron" type="pers">din</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Gen</analysis>
          <analysis>Pron_Pers_Pl2_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">dere</t>
+            <t pos="Pron" type="pers">dere</t>
          </tg>
       </mg>
       <mg>
@@ -1020,13 +1020,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">didjiide</l>
+         <l pos="Pron" type="pers">didjiide</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til dere</t>
+            <t pos="Pron" type="pers">til dere</t>
             <xg>
                <x>Muitalan didjiide.</x>
                <xt>Jeg forteller til dere.</xt>
@@ -1036,13 +1036,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dis</l>
+         <l pos="Pron" type="pers">dis</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">dere (har noe)</t>
+            <t pos="Pron" type="pers">dere (har noe)</t>
             <xg>
                <x>Dis lea beana.</x>
                <xt>Dere har en hund.</xt>
@@ -1052,38 +1052,38 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dinguin</l>
+         <l pos="Pron" type="pers">dinguin</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med dere</t>
+            <t pos="Pron" type="pers">med dere</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">dinin</l>
+         <l pos="Pron" type="pers">dinin</l>
          <lemma_ref lemmaID="dii_pron_pers">dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som dere</t>
+            <t pos="Pron" type="pers">som dere</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sin</l>
+         <l pos="Pron" type="pers">sin</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Gen</analysis>
          <analysis>Pron_Pers_Pl3_Acc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">dem</t>
+            <t pos="Pron" type="pers">dem</t>
          </tg>
       </mg>
       <mg>
@@ -1098,13 +1098,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sidjiide</l>
+         <l pos="Pron" type="pers">sidjiide</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ill</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">til dem</t>
+            <t pos="Pron" type="pers">til dem</t>
             <xg>
                <x>Muital sidjiide!</x>
                <xt>Fortell til dem!</xt>
@@ -1114,13 +1114,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sis</l>
+         <l pos="Pron" type="pers">sis</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Loc</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">de (har noe)</t>
+            <t pos="Pron" type="pers">de (har noe)</t>
             <xg>
                <x>Sis lea beana.</x>
                <xt>De har en hund.</xt>
@@ -1130,25 +1130,25 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">singuin</l>
+         <l pos="Pron" type="pers">singuin</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">med dem</t>
+            <t pos="Pron" type="pers">med dem</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Pron" type="Pers">sinin</l>
+         <l pos="Pron" type="pers">sinin</l>
          <lemma_ref lemmaID="sii_pron_pers">sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ess</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Pers">som dem</t>
+            <t pos="Pron" type="pers">som dem</t>
          </tg>
       </mg>
    </e>
