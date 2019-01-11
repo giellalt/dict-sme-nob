@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smenob" xml:lang="sme">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -58,7 +57,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ii be6f9077-da70-49ba-bd18-ef3c2e8ddf5b">
             <re>3. person entall</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -79,7 +78,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Sg1</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="in d9432d51-6861-430e-b220-dac01190e7cd">
             <re>om meg selv</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -100,7 +99,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Sg2</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="it 3137ef68-94a6-4cc5-91e8-fac8291ac286">
             <re>om deg</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -121,7 +120,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Du1</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ean a7fa8f6f-6c10-4fbf-813a-2d8c77c43678">
             <re>om oss to</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -142,7 +141,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Du2</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eahppi 30fd0efa-a41a-4f4b-8fea-f1846ba5279d">
             <re>om dere to</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -163,7 +162,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Du3</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eaba 38139137-7e13-4818-b347-cabce9250a0d">
             <re>om dem to</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -184,7 +183,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Pl1</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eat 93f4c395-b998-4f95-8cb1-c2dd1615da19">
             <re>om oss</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -205,7 +204,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Pl2</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ehpet 74975127-a5e4-49fb-aecf-53dd1049ce3e">
             <re>om dere</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -226,7 +225,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Pl3</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eai 5945621b-8b6c-47e3-bb23-1b8c91cfcd10">
             <re>om dem</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -275,7 +274,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iige 1bbd0116-6795-47d6-a1fc-80856ff252f5">
             <re>3. person entall</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -292,7 +291,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Sg1_Foc/ge</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="inge 68fa1bf6-60fb-45c0-873c-080bd8819936">
             <re>om meg selv</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -309,7 +308,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Sg2_Foc/ge</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="itge 8738a1bb-d26c-4aec-93c5-fcb8f7efa968">
             <re>om deg</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -326,7 +325,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Du1_Foc/ge</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eange 5c6e4ac7-9b9c-47c9-82cc-8b2e560f3eae">
             <re>om oss to</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -343,7 +342,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Du2_Foc/ge</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eahppige 52bc33ed-d1e0-4e24-8e24-f6bebf82072d">
             <re>om dere to</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -360,7 +359,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Du3_Foc/ge</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eabage c29f79d2-ace3-4025-832b-6e6ee26485b7">
             <re>om dem to</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -377,7 +376,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Pl1_Foc/ge</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eatge 0707db8a-4285-453b-a2fd-c6bcffb09194">
             <re>om oss</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -394,7 +393,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Pl2_Foc/ge</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ehpetge 7adb0cc3-b557-4e40-869a-b42d0eebb4b9">
             <re>om dere</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -411,7 +410,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>IV_Neg_Ind_Pl3_Foc/ge</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="eaige 11fb12ea-81ad-434f-8abf-0acf7d27f975">
             <re>om dem</re>
             <t pos="Adv">og (heller) ikke</t>
             <xg>
@@ -456,7 +455,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="allos 38dd1a77-bc98-4b0d-a468-f42040a5a396">
             <re>3. person entall</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -473,7 +472,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Neg_Imprt_Sg1</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="allon 422ebf39-ce8d-4c47-b4a4-72f5db7d4db3">
             <re>til meg selv</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -492,7 +491,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Neg_Imprt_Sg2</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ale c86d4f9e-c4b8-41e8-aa67-2ef6ab2c8c82">
             <re>til deg</re>
             <t pos="Adv">ikke</t>
             <xg re="til en person">
@@ -509,7 +508,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Neg_Imprt_Du1</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="allu c22c908d-2481-49e2-a050-344b6170c579">
             <re>til oss to</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -526,7 +525,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Neg_Imprt_Du2</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alli f3489d2d-acf3-4ab7-bcda-7d29dc4bdd31">
             <re>til dere to</re>
             <t pos="Adv">ikke</t>
             <xg re="til to personer">
@@ -543,7 +542,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Neg_Imprt_Du3</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alloska a5823623-7232-4920-b114-e39ba7c49240">
             <re>om dem to</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -560,7 +559,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Neg_Imprt_Pl1</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="allot 624fab94-83e7-42c6-a142-444c69bc1c9a">
             <re>til oss</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -577,7 +576,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Neg_Imprt_Pl2</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="allet 77c51e27-b5f6-45bb-bce0-4ca70398e6d7">
             <re>til dere</re>
             <t pos="Adv">ikke</t>
             <xg re="til flere enn to personer">
@@ -594,7 +593,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Neg_Imprt_Pl3</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alloset f70c846b-7b76-405c-acfb-dc99304ae727">
             <re>om flere</re>
             <t pos="Adv">ikke</t>
             <xg>
@@ -604,7 +603,5 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

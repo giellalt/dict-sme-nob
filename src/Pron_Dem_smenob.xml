@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smenob" xml:lang="sme">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -64,13 +63,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dat be6e72b5-b058-46c5-83f3-0e41a52e8868">
             <t pos="Pron" type="Pers">den</t>
             <t pos="Pron" type="Pers">det</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dat 3a33c30d-621a-410a-af58-31bd7bcab835">
             <t pos="Pron" type="Pers">han</t>
             <t pos="Pron" type="Pers">hun</t>
             <xg>
@@ -103,7 +102,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dát aa150af3-2497-45f0-a11e-f04e81f45fb6">
             <t pos="Pron" type="Pers">dette</t>
             <t pos="Pron" type="Pers">denne</t>
             <xg>
@@ -117,7 +116,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dát 286f92d0-fc44-4bf4-b320-98e2ad883606">
             <t pos="Det" type="Dem">dette</t>
             <t pos="Det" type="Dem">denne</t>
             <xg>
@@ -158,7 +157,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diet 10777b42-06cb-412b-b7f0-90454bf6b14b">
             <re>nærmere deg enn meg eller som nettopp er nevnt</re>
             <t pos="Pron" type="Pers">den</t>
             <xg>
@@ -180,7 +179,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diet e6608232-f542-4293-9b5d-5f2675e07a47">
             <re>nærmere deg enn meg eller som nettopp er nevnt</re>
             <t pos="Det" type="Dem">den</t>
             <xg>
@@ -217,7 +216,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duot dc22c23d-ebf5-4edb-bfe0-b7e12cfb09f9">
             <t pos="Pron" type="Pers">det der borte</t>
             <xg>
                <x>Mii duot lea?</x>
@@ -238,7 +237,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duot 5ae19ec8-e9f2-4f57-9826-bcff47fca44a">
             <t pos="Det" type="Dem">det der</t>
             <xg>
                <x>Movt bat duot geafes čivga sáhtii du beastit?</x>
@@ -274,12 +273,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dot 4ec54018-a3cb-4e6e-b7f6-d63db5ba5348">
             <t pos="Pron" type="Pers">det lengst borte</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dot f09fb8aa-74b8-4871-923e-35617dca20b8">
             <t pos="Det" type="Dem">det lengst borte</t>
             <xg>
                <x>Ja dan dáfus eai dárbbaš ballat maid duot dahje dot riikabellodat dadjá jus sii oaivvildit nuo dahje
@@ -338,12 +337,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dat 79003c4b-b47f-45af-8b9a-d25225970a3a">
             <t pos="Pron" type="Pers">de</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dat 6b6c805f-06a4-4922-801f-32ae6320ab18">
             <t pos="Det" type="Dem">de</t>
          </tg>
       </mg>
@@ -371,12 +370,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dát 72042d24-62ed-42e6-8071-db94d5385b08">
             <t pos="Pron" type="Pers">disse</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dát 036c9ee0-7197-4949-93db-2b2d39d8053f">
             <t pos="Det" type="Dem">disse</t>
             <xg>
                <x>Gosa dolvot dát dáhpáhusat?</x>
@@ -424,13 +423,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diet 606a54c5-fe15-43c4-aedf-8c53c9e076b7">
             <re>nærmere meg enn deg eller som nettopp er nevnt</re>
             <t pos="Pron" type="Pers">de</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diet c295aa31-ab62-4cab-8f51-03f7dd00fb7e">
             <re>nærmere meg enn deg eller som nettopp er nevnt</re>
             <t pos="Det" type="Dem">de</t>
             <xg>
@@ -479,7 +478,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duot 57e201fd-2eda-4b5b-ad3f-309f09a681ac">
             <t pos="Pron" type="Pers">de der borte</t>
             <xg>
                <x>Geat bat duot leaba? jearai eadni.</x>
@@ -488,7 +487,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duot 43aa7632-1542-40a8-aa57-0724fdf4cf83">
             <t pos="Det" type="Dem">de der</t>
             <xg>
                <x>Čuovuimet duoid áibmadas lottiid girddašeami.</x>
@@ -524,12 +523,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dot df800e8b-6534-439b-b703-3c5e571009dc">
             <t pos="Pron" type="Pers">de lengst borte</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dot 87747146-e009-42f7-ab2d-b5136f2ab8f4">
             <t pos="Det" type="Dem">de lengst borte</t>
          </tg>
       </mg>
@@ -557,7 +556,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkár eb1f55d4-8df8-4c40-b3e3-870588123e36">
             <t pos="Pron" type="Dem">slik</t>
             <xg>
                <x>Jođiheaddji diehtá ahte dakkár evttohus baldá olu olbmuid.</x>
@@ -589,7 +588,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkárat 6fc08ce3-65fd-45fa-936a-a5154567ba70">
             <t pos="Pron" type="Dem">slike</t>
             <xg>
                <x>Das leat dološ sárgumat vuođđun, ovdamearkka dihte dakkárat go meavrresgáris ledje.</x>
@@ -621,7 +620,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkár b033a7ca-a5b0-4359-9e31-89ade6291672">
             <t pos="Pron" type="Dem">sånn her</t>
             <xg>
                <x>Biret lea dákkár.</x>
@@ -653,7 +652,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkárat 62ff81f1-091d-4125-862b-0027fe1c1061">
             <re>om flere</re>
             <t pos="Pron" type="Dem">sånn her</t>
             <xg>
@@ -686,7 +685,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkár 69cdfdb0-68e4-4760-b52a-30dce7915169">
             <t pos="Pron" type="Dem">slik en</t>
             <t pos="Pron" type="Dem">slikt</t>
             <xg>
@@ -719,7 +718,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkárat 4cfece19-f782-43fb-bef5-b075c01e1530">
             <t pos="Pron" type="Dem">slike som det</t>
             <xg>
                <x>Stuorra meahcceeallit leat bierdna ja sarvá, ja smávva meahcceeallit leat rievssahat ja diekkárat.</x>
@@ -735,12 +734,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dasa f978b3b3-6957-4e4e-93bd-2e6144ad6520">
             <t pos="Pron" type="Pers">til den</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dasa b6c2fb75-1ab1-47ec-b96c-dd6797f62fae">
             <t pos="Det" type="Dem">til den</t>
          </tg>
       </mg>
@@ -752,13 +751,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="das 137f3540-a564-4d66-87aa-501bc7d2a7af">
             <t pos="Pron" type="Pers">av den</t>
             <t pos="Pron" type="Pers">i den</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="das 6328743a-2930-4f73-a8d3-8d3f4210c3fe">
             <t pos="Det" type="Dem">av den</t>
             <t pos="Det" type="Dem">i den</t>
          </tg>
@@ -771,12 +770,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dainna 2e92aba0-3f5f-4fe3-b4d8-444ee203fe20">
             <t pos="Pron" type="Pers">med det</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dainna 26ed6478-440d-466e-8968-5e9c2845b9dd">
             <t pos="Det" type="Dem">med det</t>
          </tg>
       </mg>
@@ -788,12 +787,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dása 0bddf116-d08f-49ab-a976-cfc7e3bef303">
             <t pos="Pron" type="Pers">til denne</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dása b73f0320-b1b1-418f-b0db-494aa63bb2a9">
             <t pos="Det" type="Dem">til denne</t>
          </tg>
       </mg>
@@ -805,13 +804,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dás 04bd1aae-fdf5-461b-9dd3-1932f609e5bf">
             <t pos="Pron" type="Pers">av denne</t>
             <t pos="Pron" type="Pers">i denne</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dás e193863a-b86b-44db-859b-feabb591c3ba">
             <t pos="Det" type="Dem">av denne</t>
             <t pos="Det" type="Dem">i denne</t>
          </tg>
@@ -824,12 +823,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dáinna b8ba09a3-238f-41bf-99df-27d199869758">
             <t pos="Pron" type="Pers">med denne</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dáinna e7098314-a7fe-4a4c-9a46-996c21c1614e">
             <t pos="Det" type="Dem">med denne</t>
          </tg>
       </mg>
@@ -841,12 +840,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diesa a6594a46-be7e-4c5e-9e7c-5f08a5b25e88">
             <t pos="Pron" type="Pers">til den der</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diesa 74b95c34-a415-4a3c-9a87-e083ca598133">
             <t pos="Det" type="Dem">til den der</t>
          </tg>
       </mg>
@@ -858,13 +857,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dies 647bab45-a2a2-4eb6-b706-08ca2fedb6b1">
             <t pos="Pron" type="Pers">av den der</t>
             <t pos="Pron" type="Pers">i den der</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dies bed0e316-6451-463a-8c4a-b103777c5abe">
             <t pos="Det" type="Dem">av den der</t>
             <t pos="Det" type="Dem">i den der</t>
          </tg>
@@ -877,12 +876,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dieinna 8ed6f529-adfc-450f-9534-87de0dc117c8">
             <t pos="Pron" type="Pers">med den der</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dieinna 95dd522f-3c9e-4498-b73d-1c28a98e4be9">
             <t pos="Det" type="Dem">med den der</t>
          </tg>
       </mg>
@@ -894,12 +893,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duosa c50fe21b-4a24-4eb0-85ce-7e58ead57f0a">
             <t pos="Pron" type="Pers">til den der borte</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duosa a251f1ed-cb6e-4517-95d6-5b05d9903128">
             <t pos="Det" type="Dem">til den der borte</t>
          </tg>
       </mg>
@@ -911,13 +910,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duos e42c47ba-cd47-4812-8d06-9a270afb38a4">
             <t pos="Pron" type="Pers">av den der borte</t>
             <t pos="Pron" type="Pers">i den der borte</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duos d08a060e-780d-46fc-8409-7bcff2551b84">
             <t pos="Det" type="Dem">av den der borte</t>
             <t pos="Det" type="Dem">i den der borte</t>
          </tg>
@@ -930,12 +929,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duoinna 3bad0e70-27b3-4095-b960-0a830d1d1d8a">
             <t pos="Pron" type="Pers">med den der borte</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duoinna cf5df495-04e8-486f-9bc1-875de0a3bc5a">
             <t pos="Det" type="Dem">med den der borte</t>
          </tg>
       </mg>
@@ -948,17 +947,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="daid 1a253170-ac7f-48ee-b113-1690762bca4a">
             <t pos="Pron" type="Pers">de</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="daid 8bfa5fe9-208d-47fd-8b99-b9c75c2316de">
             <t pos="Pron" type="Pers">deres</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="daid 1f43a822-69c5-4e7d-aeb8-ab69758c5dfc">
             <t pos="Det" type="Dem">de</t>
          </tg>
       </mg>
@@ -970,12 +969,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="daidda cddb766f-cae4-4b82-8983-8690bb3eb33e">
             <t pos="Pron" type="Pers">til dem</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="daidda 77b755d2-e98e-4a05-a566-6b1628c2fc04">
             <t pos="Det" type="Dem">til de</t>
          </tg>
       </mg>
@@ -987,13 +986,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dain c1cc66fa-d250-44b1-b497-1c7ec8c76749">
             <t pos="Pron" type="Pers">i dem</t>
             <t pos="Pron" type="Pers">av dem</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dain 71dafc63-6b76-47ac-ab93-30c7a6f03351">
             <t pos="Det" type="Dem">i de</t>
             <t pos="Det" type="Dem">av de</t>
          </tg>
@@ -1006,12 +1005,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="daiguin 33159a3a-cfcf-4f90-a02a-6118db0aae7b">
             <t pos="Pron" type="Pers">med dem</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="daiguin 946b99ef-6264-4214-8a01-e5d7f3b61f93">
             <t pos="Det" type="Dem">med de</t>
          </tg>
       </mg>
@@ -1024,12 +1023,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dáid ccce864c-1ebe-4164-b4c6-b7da3b9e1173">
             <t pos="Det" type="Dem">disse</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dáid 62f2b76b-5e80-43ae-9a36-0f8735ab801f">
             <t pos="Det" type="Dem">disses</t>
          </tg>
       </mg>
@@ -1041,7 +1040,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dáidda 09000a8d-ca42-4174-aedc-291d1828742d">
             <t pos="Det" type="Dem">til disse</t>
          </tg>
       </mg>
@@ -1053,7 +1052,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dáin 5b03bf76-f0ee-4cda-b7f4-e9b696aad92d">
             <t pos="Det" type="Dem">i disse</t>
             <t pos="Det" type="Dem">av disse</t>
          </tg>
@@ -1066,7 +1065,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dáiguin 98e85330-fc47-48d1-86ab-93319b5caa8a">
             <t pos="Det" type="Dem">med disse</t>
          </tg>
       </mg>
@@ -1079,7 +1078,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dieid 00025cd6-f6ea-4ba1-b784-af01835d98f8">
             <re>som er nærmere deg eller som nettopp er nevnt</re>
             <t pos="Det" type="Dem">de</t>
          </tg>
@@ -1092,7 +1091,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dieidda 0f89493e-3250-4a8f-936e-10e08321c064">
             <re>som er nærmere deg eller som nettopp er nevnt</re>
             <t pos="Pron" type="Dem">til dem</t>
          </tg>
@@ -1105,7 +1104,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diein 790b600b-e553-430d-a75e-9ca9461485ba">
             <re>som er nærmere deg eller som nettopp er nevnt</re>
             <t pos="Pron" type="Dem">i dem</t>
             <t pos="Pron" type="Dem">av dem</t>
@@ -1119,7 +1118,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dieiguin 69cb407c-6d71-4e27-b2bd-6bb035912c05">
             <re>som er nærmere deg eller som nettopp er nevnt</re>
             <t pos="Pron" type="Dem">med dem</t>
          </tg>
@@ -1133,12 +1132,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duoid ef014e23-9435-44e5-a34f-3142223728ab">
             <t pos="Pron" type="Dem">de der borte</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duoid f8065cfb-e661-45ef-ae09-f091688a4dd7">
             <t pos="Pron" type="Dem">de der borte sine</t>
          </tg>
       </mg>
@@ -1150,7 +1149,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duoidda 27b1b1a0-adf9-4bb3-aa22-eb7d17100b60">
             <t pos="Pron" type="Dem">til dem der borte</t>
          </tg>
       </mg>
@@ -1162,7 +1161,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duoin 17604a97-e5e5-4e7e-b1f3-048ac968eedd">
             <t pos="Pron" type="Dem">i dem</t>
             <t pos="Pron" type="Dem">av dem</t>
          </tg>
@@ -1175,7 +1174,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="duoiguin fa4b950e-c01f-4726-9239-bdfa00ccad05">
             <t pos="Pron" type="Dem">med dem der borte</t>
          </tg>
       </mg>
@@ -1188,12 +1187,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="doid 958a5a78-6675-49e9-8a92-ab17abaef3d5">
             <t pos="Pron" type="Dem">de lengst borte</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="doid 6105c8e1-15cc-4cd7-a33f-ede5ecb05b7a">
             <t pos="Pron" type="Dem">de lengst borte sine</t>
          </tg>
       </mg>
@@ -1205,7 +1204,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="doidda 1fec95a9-36eb-46f6-938a-d236660c2e9c">
             <t pos="Pron" type="Dem">til dem lengst borte</t>
          </tg>
       </mg>
@@ -1217,7 +1216,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="doin de0d034c-d7a7-4ff2-ab39-6065d035137b">
             <t pos="Pron" type="Dem">i dem lengst borte</t>
             <t pos="Pron" type="Dem">av dem lengst borte</t>
          </tg>
@@ -1230,7 +1229,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="doiguin 7605192d-ddb0-479b-9929-19f9fe80dc85">
             <t pos="Pron" type="Dem">med dem lengst borte</t>
          </tg>
       </mg>
@@ -1243,7 +1242,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkára 0855db3d-7213-4a24-9e26-77f95a78efa0">
             <t pos="Pron" type="Dem">slik</t>
             <xg>
                <x>Mis leat 500 dakkára.</x>
@@ -1259,7 +1258,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkárii d5e23bd7-7835-48d9-bc19-73115cbfdb96">
             <t pos="Pron" type="Dem">til slikt</t>
             <xg>
                <x>Ale vuovdde biilla dakkárii gii ii mávsse.</x>
@@ -1275,13 +1274,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkáris 0a94f4ea-20f1-49b4-bb60-4be4b2804089">
             <t pos="Pron" type="Dem">i slikt</t>
             <t pos="Pron" type="Dem">av slikt</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkáris 8a31ebbd-909d-4718-a189-cd61491e5764">
             <re>har</re>
             <t pos="Pron" type="Dem">slik</t>
             <xg>
@@ -1298,7 +1297,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkáriin 229370f0-df0d-4c72-bacb-245e13105fff">
             <t pos="Pron" type="Dem">med slikt</t>
             <xg>
                <x>In mun sáhte ovttasbargat dakkáriin.</x>
@@ -1314,7 +1313,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkárin b84c827b-4813-4563-a937-7a3c9ff59dc2">
             <t pos="Pron" type="Dem">som slikt</t>
             <xg>
                <x>Dasa lassin ráhkada son riskkuid ja boaluid juste dakkárin go kundarat háliidit.</x>
@@ -1331,7 +1330,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkára 2747aa6d-d36e-40d7-bfde-a05c6590e6ee">
             <t pos="Pron" type="Dem">sånn her</t>
             <xg>
                <x>In leat oaidnán dákkára ovdal.</x>
@@ -1347,7 +1346,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkárii bd7bc0d8-3b56-4c89-9f14-1852c652008a">
             <t pos="Pron" type="Dem">til en sånn her</t>
             <xg>
                <x>Dát ii leat rivttes báiki dákkárii.</x>
@@ -1363,13 +1362,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkáris f5be5a1b-1bb3-4ecb-80df-f0defbbd2465">
             <t pos="Pron" type="Dem">i en sånn her</t>
             <t pos="Pron" type="Dem">av en sånn her</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkáris fdfe5158-3683-4e67-b90a-0c028b47404d">
             <re>har</re>
             <t pos="Pron" type="Dem">en sånn her</t>
          </tg>
@@ -1382,7 +1381,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkáriin 5d4846e9-a92a-471b-a054-a8fe459258c7">
             <t pos="Pron" type="Dem">med en sånn her</t>
             <xg>
                <x>In mun sáhte ovttasbargat dákkáriin.</x>
@@ -1398,7 +1397,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkárin 018d46b2-ae8c-4ce0-b39a-ecbab6207c6c">
             <t pos="Pron" type="Dem">som sånn her</t>
             <xg>
                <x>Go eiseválddit álgoálggus leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go
@@ -1417,7 +1416,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkára 0c7d50bc-986d-4bfb-95bc-8a2f46c59317">
             <t pos="Pron" type="Dem">en slik en</t>
          </tg>
       </mg>
@@ -1429,7 +1428,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkárii 9779bb63-b34f-4bc8-9762-4959e3410ff9">
             <t pos="Pron" type="Dem">til en slik en</t>
             <xg>
                <x>Diekkárii ii gánnát geavahit ruđaid.</x>
@@ -1445,13 +1444,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkáris df1ca3b2-c716-49af-8b0b-a02fb633dec5">
             <t pos="Pron" type="Dem">i en slik en</t>
             <t pos="Pron" type="Dem">av en slik en</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkáris cbe633e0-53b9-4d66-8ab8-87caa16313e2">
             <re>har</re>
             <t pos="Pron" type="Dem">en slik en</t>
             <xg>
@@ -1468,7 +1467,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkáriin 16de276c-d07c-4545-950d-8df9cd8335ea">
             <t pos="Pron" type="Dem">med en slik en</t>
             <xg>
                <x>In mun sáhte ovttasbargat diekkáriin.</x>
@@ -1484,7 +1483,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkárin 9c94b0c1-6d96-442a-9263-7b1c4b42fdcb">
             <t pos="Pron" type="Dem">som slikt</t>
          </tg>
       </mg>
@@ -1497,7 +1496,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkáriid 68f60165-82f8-4f06-b87d-cbc12bda2f60">
             <t pos="Pron" type="Dem">slike</t>
             <xg>
                <x>Jođiheaddji muitala iežas duogáža leat hui stuora ávkin go dakkáriid bargá.</x>
@@ -1513,7 +1512,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkáriidda fd974021-ef25-476b-8729-67396aa1dd26">
             <t pos="Pron" type="Dem">til slike</t>
             <xg>
                <x>Dat oainnat eai liiko dakkáriidda geat ieža eai máhte buot.</x>
@@ -1529,13 +1528,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkáriin ce429bae-c9a1-4ea2-aa9c-f3bfb1b1e50b">
             <t pos="Pron" type="Dem">i slike</t>
             <t pos="Pron" type="Dem">av slike</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkáriin b6c510c2-b4e7-414f-8331-46bdfbf987b9">
             <re>har</re>
             <t pos="Pron" type="Dem">slike</t>
             <xg>
@@ -1552,7 +1551,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dakkáriiguin c9f1254c-971a-46ab-96dd-96cc08edd98b">
             <t pos="Pron" type="Dem">med slike</t>
             <xg>
                <x>In mun sáhte ovttasbargat dakkáriiguin.</x>
@@ -1569,7 +1568,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkáriid f28cadfe-2148-4b66-8e30-44f09a8aea88">
             <t pos="Pron" type="Dem">sånne her</t>
             <xg>
                <x>Iibat dákkáriid sáhtášii dikšut Dikki siskkobealde?</x>
@@ -1585,7 +1584,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkáriidda 4b46dbfd-a516-47f0-8edd-c86c702ba8dc">
             <t pos="Pron" type="Dem">til sånne her</t>
             <xg>
                <x>Dát ii leat rievttes searvi dákkáriidda.</x>
@@ -1601,13 +1600,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkáriin ae3784b9-2b47-4675-83b3-046f3bdbb6b1">
             <t pos="Pron" type="Dem">i sånne her</t>
             <t pos="Pron" type="Dem">av sånne her</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkáriin cb0c6b27-72f5-442b-82b9-c48b08b2676f">
             <re>har</re>
             <t pos="Pron" type="Dem">sånne her</t>
             <xg>
@@ -1624,7 +1623,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dákkáriiguin 5ac62fe0-c001-4cf2-b702-79d0e2e2c958">
             <t pos="Pron" type="Dem">med sånne her</t>
             <xg>
                <x>In mun sáhte ovttasbargat dákkáriiguin.</x>
@@ -1641,7 +1640,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Acc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkáriid 99cc3641-f0d6-4360-bd4c-5e1b81a0702b">
             <t pos="Pron" type="Dem">slike</t>
             <xg>
                <x>Boanda máksá hui ollu investerendivvagiid ja diekkáriid stáhtii.</x>
@@ -1657,7 +1656,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkáriidda 8987666b-32f3-4be9-ba29-24d553ff752a">
             <t pos="Pron" type="Dem">til slike</t>
             <xg>
                <x>Ale vuovdde biilla diekkáriidda geat eai mávsse.</x>
@@ -1673,13 +1672,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkáriin 23c41a9b-d075-40a0-8448-c45e82e10c9d">
             <t pos="Pron" type="Dem">i slike</t>
             <t pos="Pron" type="Dem">av slike</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkáriin 6575e59d-cace-4e30-9cad-156cc1ed54a7">
             <re>har</re>
             <t pos="Pron" type="Dem">slike</t>
             <xg>
@@ -1696,7 +1695,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="diekkáriiguin 38c54b83-3b4e-4e63-9dd6-d742380a1560">
             <t pos="Pron" type="Dem">med slike</t>
             <xg>
                <x>In mun sáhte ovttasbargat diekkáriiguin.</x>
@@ -1705,7 +1704,5 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

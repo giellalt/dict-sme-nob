@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smenob" xml:lang="sme">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -28,7 +27,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" type="Prop">Báhčáveaji álbmotmeahcci</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="Báhčáveaji álbmotmeahcci 75581f99-1dcb-4d5e-a0aa-c7160eb87c42">
             <t pos="N" type="Prop">Øvre Pasvik nasjonalpark</t>
          </tg>
       </mg>
@@ -38,7 +37,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" type="Prop">Sámisoga lávlla</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="Sámisoga lávlla 5aa5afc8-597b-43c5-af15-4ef2e9e80ae0">
             <t pos="N" type="Prop">Samefolkets sang</t>
          </tg>
       </mg>
@@ -48,12 +47,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" type="Prop">Ipmil Áhčči</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="Ipmil Áhčči 151ae8ca-79f5-44a2-800c-fd60de6260b7">
             <t pos="N" type="Prop">Gud Fader</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

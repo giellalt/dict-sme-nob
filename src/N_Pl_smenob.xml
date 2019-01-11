@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smenob" xml:lang="sme">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -28,7 +27,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">bellodatduorggat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="bellodatduorggat fa36f93b-0def-4ffb-9ab2-8e4105ba1487">
             <t pos="N">partipisk</t>
          </tg>
       </mg>
@@ -38,7 +37,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">dutkansearat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dutkansearat 52c3639c-e883-4940-93a0-51e29f0924d6">
             <t pos="N">forskningsinnsats</t>
          </tg>
       </mg>
@@ -48,7 +47,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">valáštallandoalut</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="valáštallandoalut 01fa0892-e36c-4a1a-b757-657c93e6c0d5">
             <t pos="N">idrettsarrangement</t>
          </tg>
       </mg>
@@ -58,7 +57,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">musihkkariemut</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="musihkkariemut 82985a74-df3b-4654-9209-b754fbad2294">
             <t pos="N">festspill</t>
          </tg>
       </mg>
@@ -68,7 +67,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">seaŋgagávnnit</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="seaŋgagávnnit 8956b530-40d6-4ca6-aea7-72baf6c1e5ce">
             <t pos="N">sengetøy</t>
          </tg>
       </mg>
@@ -78,7 +77,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">konfirmašundoalut</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="konfirmašundoalut 13798fb6-57e4-456c-841c-30414cc94275">
             <re>konfirmasjonsselskap</re>
             <t pos="N">konfirmasjon</t>
          </tg>
@@ -89,7 +88,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">dutkkalmasat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dutkkalmasat 143ef0e1-30cb-47cf-8fa7-ac379727ab4f">
             <t pos="N">etterforskning</t>
          </tg>
       </mg>
@@ -99,7 +98,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">čoakkálmasat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="čoakkálmasat 8e5ec87b-abe9-491f-a0f1-f94bf5a166da">
             <re>religiøst møte</re>
             <t pos="N">møte</t>
          </tg>
@@ -110,7 +109,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">čoakkalmasat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="čoakkalmasat b93e1655-b8d2-479e-80c4-dcca568e7905">
             <re>religiøst møte</re>
             <t pos="N">møte</t>
          </tg>
@@ -121,7 +120,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">čállinmearkkat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="čállinmearkkat e3f5f63b-2346-4e13-8c16-3f928e1c8a9e">
             <t pos="N">tegnsett</t>
          </tg>
       </mg>
@@ -131,7 +130,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">mátkkoštangolut</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="mátkkoštangolut df29ff08-610f-4eb4-a6f7-8f51c46481a1">
             <t pos="N">reiseutgift</t>
          </tg>
       </mg>
@@ -141,13 +140,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N" nr="Pl">jáffut</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="jáffut 6a2d1c95-9e30-4689-ad45-b1086040ee13">
             <re>mel</re>
             <t pos="N">melsekk</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

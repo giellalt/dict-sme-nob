@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smenob" xml:lang="sme">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -28,7 +27,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">earret</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="earret 04529866-dcd7-430f-bea5-4c7a8ea76efc">
             <t pos="CC">unntatt</t>
             <xg>
                <x>Buohkat bohte earret Niillas.</x>
@@ -42,7 +41,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">sihke</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="sihke 42c04dd4-c33e-4264-92b1-4c42306354c5">
             <t pos="CC">både</t>
             <xg>
                <x>Dat lea sihke buorre ja heittot.</x>
@@ -56,7 +55,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">dahege</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dahege 2be68a8f-735a-4dd7-a951-fb338ef1d699">
             <t pos="CC">eller</t>
          </tg>
       </mg>
@@ -66,7 +65,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">ahte</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ahte 45b6ceef-a965-41a5-b489-f564f73e012d">
 	   <re>mellom identiske komparativformer</re>
             <t pos="CC">og</t>
 	   <xg>
@@ -85,7 +84,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">dahe</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dahe a5d0264f-73ed-4094-a333-511f071d7f97">
             <t pos="CC">eller</t>
          </tg>
       </mg>
@@ -95,7 +94,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">dahjege</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dahjege 48ef3919-212e-4d0b-91c5-43a7d527acb1">
             <t pos="CC">eller</t>
          </tg>
       </mg>
@@ -106,7 +105,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l_ref>vai_cc</l_ref>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dahje a18423d8-dbed-4156-8bdd-7ad57ed03f04">
             <t pos="CC">eller</t>
             <xg>
                <x>Buohkat ledje gávdnan biktasiid dahje eará dávviriid maid háliidedje oastit.</x>
@@ -120,7 +119,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">dehege</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dehege 69fca6e1-3dec-470e-9858-9c1eb03abcc7">
             <t pos="CC">eller</t>
          </tg>
       </mg>
@@ -130,7 +129,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">dehe</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dehe 1144148a-23ab-48da-8bba-88b687c19128">
             <t pos="CC">eller</t>
          </tg>
       </mg>
@@ -140,7 +139,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">ja</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ja d4d506c7-bedb-464a-8d28-09fe748bde25">
             <t pos="CC">og</t>
             <xg>
                <x>Dat lea sihke buorre ja heittot.</x>
@@ -154,7 +153,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CC">muhto</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="muhto 138b33b4-73e1-48fa-9b58-61579b28ad98">
             <t pos="CC">men</t>
             <xg>
                <x>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</x>
@@ -169,7 +168,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l_ref>dahje_cc</l_ref>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="vai a78d644a-cee8-4925-af56-12e11d032567">
             <re>i spørsmål om to alternativer</re>
             <t pos="CC">eller</t>
             <xg>
@@ -183,7 +182,5 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

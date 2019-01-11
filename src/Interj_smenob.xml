@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smenob" xml:lang="sme">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -28,7 +27,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="Interj">vuoi ihán</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="vuoi ihán 1979795f-dd4f-4359-af71-9a45ef31791a">
             <t pos="Interj">oi</t>
             <t pos="Interj">å dæven</t>
             <xg>
@@ -47,7 +46,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="Interj">aa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="aa 01e72a88-0923-4ae2-9905-c1b009a8893f">
             <re>uttrykk for at en nekter, avviser eller protesterer mot noe</re>
             <t pos="Interj">nei</t>
             <xg>
@@ -62,7 +61,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="Interj">bures</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="bures 24c817b1-95f4-458e-8841-81c794c39288">
             <re>når man handhilser</re>
             <t pos="Adv">god dag</t>
             <xg>
@@ -77,7 +76,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="Interj">já</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="já eb8db9d1-74b1-492e-9f68-c373ad066852">
             <t pos="Interj">jasså</t>
          </tg>
       </mg>
@@ -87,7 +86,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="Interj">dearvva</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dearvva aa26aecc-4db1-4646-93a2-4d1c99c3e747">
             <t pos="Interj">hei</t>
          </tg>
       </mg>
@@ -97,7 +96,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="Interj">gea</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="gea adb48b58-9ff2-4de5-b3e7-56aaf8a8ccff">
             <t pos="V">se</t>
             <xg>
                <x>Gea, beana skierbmu!</x>
@@ -111,7 +110,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="Interj">vuoi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="vuoi 1d9c7ab8-b9f8-4cf9-97f8-3ff2c273fa00">
             <t pos="Interj">akk</t>
             <t pos="Interj">å</t>
             <xg>
@@ -125,7 +124,5 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

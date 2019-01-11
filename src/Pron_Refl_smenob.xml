@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smenob" xml:lang="sme">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -37,7 +36,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ieš 0d2c645d-c584-4211-bb62-757434fe1f30">
             <t pos="Pron" type="Refl">sjøl</t>
             <xg>
                <x>Mun lean dan ieš dahkan.</x>
@@ -54,7 +53,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl_Nom</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ieža 60508bd3-a1cb-409e-9a7a-dc9fc7907724">
             <re>om flere</re>
             <t pos="Pron" type="Refl">sjøl</t>
             <xg>
@@ -93,14 +92,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežan 625ccbfa-7c5f-4d51-8a0f-1ca2db5851ca">
             <t pos="Pron" type="Refl">meg selv</t>
             <xg>
                <x>Mun oainnán iežan speadjalis.</x>
                <xt>Jeg ser meg selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežan 41855587-12c7-4894-99fa-0fb59f4ebbde">
             <t pos="Pron" type="Poss">min</t>
             <t pos="Pron" type="Poss">min egen</t>
             <xg>
@@ -135,14 +134,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčan ede6466f-079b-4095-b6c9-8326c7af72c4">
             <t pos="Pron" type="Refl">meg selv</t>
             <xg>
                <x>Mun oainnán iehčan speadjalis.</x>
                <xt>Jeg ser meg selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčan 2b2b83ee-a8bf-45c6-aa0f-20ea094e81fa">
             <t pos="Pron" type="Poss">min</t>
             <t pos="Pron" type="Poss">min egen</t>
             <xg>
@@ -176,14 +175,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežat 48784c35-6268-4335-ac61-03d7a52ff8a7">
             <t pos="Pron" type="Refl">deg selv</t>
             <xg>
                <x>Don oainnát iežat speadjalis.</x>
                <xt>Du ser deg selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežat 35b2aa19-da82-4b4c-8d33-595cfc59b710">
             <t pos="Pron" type="Poss">din</t>
             <t pos="Pron" type="Poss">din egen</t>
             <xg>
@@ -217,14 +216,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežas d9781066-91ac-4269-b7a5-75c477d77c85">
             <t pos="Pron" type="Refl">seg selv</t>
             <xg>
                <x>Eadni oaidná iežas speadjalis.</x>
                <xt>Mor ser seg selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežas e849d03d-9de1-45c8-af6a-f5bf43d9fc6a">
             <t pos="Pron" type="Poss">sin</t>
             <t pos="Pron" type="Poss">sin egen</t>
             <xg>
@@ -259,7 +258,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežame be93522a-e48d-49db-a79d-27b3aa75aea2">
             <re>om to</re>
             <t pos="Pron" type="Refl">oss selv</t>
             <xg>
@@ -267,7 +266,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>Vi to ser oss selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežame ca7a9299-36e0-4f02-9994-0d7b3ec6c14e">
             <re>om to</re>
             <t pos="Pron" type="Poss">vår</t>
             <t pos="Pron" type="Poss">vår egen</t>
@@ -303,7 +302,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčame 15ee367e-54e5-43fc-9fbb-2558b54e8e2f">
             <re>om to</re>
             <t pos="Pron" type="Refl">oss selv</t>
             <xg>
@@ -311,7 +310,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>Vi to ser oss selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčame c15c301b-615d-4c11-94f9-18d24bb34e2a">
             <re>om to</re>
             <t pos="Pron" type="Poss">vår</t>
             <t pos="Pron" type="Poss">vår egen</t>
@@ -347,7 +346,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideame 30f17596-8127-42ff-a4d9-f8dada7c27b6">
             <re>om to</re>
             <t pos="Pron" type="Refl">oss selv</t>
             <xg>
@@ -355,7 +354,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>Vi to ser oss selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideame 02d2d8f4-150c-46f2-9e15-f5d49e067861">
             <re>om to</re>
             <t pos="Pron" type="Poss">vår</t>
             <t pos="Pron" type="Poss">vår egen</t>
@@ -390,7 +389,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežade cb844da7-7775-454e-bb43-2d40c5b60fad">
             <re>om to</re>
             <t pos="Pron" type="Refl">dere selv</t>
             <xg>
@@ -398,7 +397,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>Dere to ser dere selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežade 1b8afbd1-7448-4ac3-9cc8-af748c544021">
             <re>om to</re>
             <t pos="Pron" type="Poss">deres</t>
             <t pos="Pron" type="Poss">deres egen</t>
@@ -433,7 +432,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideatte d4052e6a-329e-43f1-a697-633eacef3b58">
             <re>om to</re>
             <t pos="Pron" type="Refl">dere selv</t>
             <xg>
@@ -441,7 +440,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>Dere to ser dere selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideatte 2c93cec0-6790-4388-8916-06648aa7a3cd">
             <re>om to</re>
             <t pos="Pron" type="Poss">deres</t>
             <t pos="Pron" type="Poss">deres egen</t>
@@ -476,7 +475,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaska e3761474-681d-45b3-a89f-d88cc0402b2b">
             <re>om to</re>
             <t pos="Pron" type="Refl">seg selv</t>
             <xg>
@@ -484,7 +483,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>De to ser seg selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaska a43d9e62-cd21-431d-a56a-69f4c73e3172">
             <re>om to</re>
             <t pos="Pron" type="Poss">deres</t>
             <t pos="Pron" type="Poss">deres egen</t>
@@ -519,7 +518,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideaskka df0ef005-d5d7-4b10-9164-342ece296785">
             <re>om to</re>
             <t pos="Pron" type="Refl">seg selv</t>
             <xg>
@@ -527,7 +526,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>De to ser seg selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideaskka 09eab55f-b9e9-4727-83a6-ac2a67db08f6">
             <re>om to</re>
             <t pos="Pron" type="Poss">deres</t>
             <t pos="Pron" type="Poss">deres egen</t>
@@ -562,14 +561,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežamet 1bd84fa2-6a20-459c-8d63-58060f9f5bce">
             <t pos="Pron" type="Refl">oss selv</t>
             <xg>
                <x>Mii oaidnit iežamet speadjalis.</x>
                <xt>Vi ser oss selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežamet 13bf12dc-1a29-432d-a34c-80fbb00e2068">
             <t pos="Pron" type="Poss">vår</t>
             <t pos="Pron" type="Poss">vår egen</t>
             <xg>
@@ -604,14 +603,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčamet 33fb002e-b629-4a1d-bab3-7d10be064187">
             <t pos="Pron" type="Refl">oss selv</t>
             <xg>
                <x>Mii oaidnit iehčamet speadjalis.</x>
                <xt>Vi ser oss selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčamet 3eda6a06-2673-45b1-9c46-ab0493a97f8a">
             <t pos="Pron" type="Poss">vår</t>
             <t pos="Pron" type="Poss">vår egen</t>
             <xg>
@@ -646,14 +645,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideamet 826cdaa5-c046-40dc-a951-824e83bd2899">
             <t pos="Pron" type="Refl">oss selv</t>
             <xg>
                <x>Mii oaidnit iežaideamet speadjalis.</x>
                <xt>Vi ser oss selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideamet 280cd369-ea0c-457c-b4ad-49e3144bd292">
             <t pos="Pron" type="Poss">vår</t>
             <t pos="Pron" type="Poss">vår egen</t>
             <xg>
@@ -687,14 +686,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežadet 2bbab8b0-b9da-4b6b-aa8c-1e42b23e8869">
             <t pos="Pron" type="Refl">dere selv</t>
             <xg>
                <x>Dii oaidnibehtet iežadet speadjalis.</x>
                <xt>Dere ser dere selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežadet f3b587a3-6016-41ef-9c42-26fa80006381">
             <t pos="Pron" type="Poss">deres</t>
             <t pos="Pron" type="Poss">deres egen</t>
             <xg>
@@ -728,14 +727,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideattet f5edf645-21ba-4241-9ba9-853005405f09">
             <t pos="Pron" type="Refl">dere selv</t>
             <xg>
                <x>Dii oaidnibehtet iežaideattet speadjalis.</x>
                <xt>Dere ser dere selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideattet f74798ea-4d9f-482e-84be-2a7f397f23d7">
             <t pos="Pron" type="Poss">deres</t>
             <t pos="Pron" type="Poss">deres egen</t>
             <xg>
@@ -769,7 +768,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaset 755e07fc-4cd2-4306-b802-4cd0ee126150">
             <re>om flere</re>
             <t pos="Pron" type="Refl">seg selv</t>
             <xg>
@@ -777,7 +776,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>De ser seg selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaset ebc8e3b0-5689-4b09-a632-72d9b127e1f7">
             <t pos="Pron" type="Poss">deres</t>
             <t pos="Pron" type="Poss">deres egen</t>
             <xg>
@@ -811,7 +810,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </mini_paradigm>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideaset 9cbec13e-b883-4dd6-baee-f67328c5021d">
             <re>om flere</re>
             <t pos="Pron" type="Refl">seg selv</t>
             <xg>
@@ -819,7 +818,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <xt>De ser seg selv i speilet.</xt>
             </xg>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaideaset 17dd7de8-44da-43f7-97ff-c1be127178b5">
             <t pos="Pron" type="Poss">deres</t>
             <t pos="Pron" type="Poss">deres egen</t>
             <xg>
@@ -836,7 +835,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccesan 3cf1f1c2-77c5-4586-927c-ba0bbdb5c14c">
             <t pos="Pron" type="Refl">til meg selv</t>
             <xg>
                <x>Mun dadjen alccesan.</x>
@@ -852,7 +851,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccan 466721a5-6d19-4836-be40-1b236c3f2396">
             <t pos="Pron" type="Refl">til meg selv</t>
             <xg>
                <x>Mun dadjen alccan.</x>
@@ -868,7 +867,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccen e176f9ce-8319-4b3f-b60b-959e7ba12082">
             <t pos="Pron" type="Refl">til meg selv</t>
             <xg>
                <x>Mun dadjen alccen.</x>
@@ -884,7 +883,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg1_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddán e63a23d9-e99d-472b-a657-395037def219">
             <re>har</re>
             <t pos="Pron" type="Refl">jeg selv</t>
             <xg>
@@ -901,7 +900,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg1_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežainan 29722f58-c0b2-4e8b-a730-25f82f0604f2">
             <t pos="Pron" type="Refl">med meg selv</t>
             <xg>
                <x>Mun hupmen iežainan.</x>
@@ -917,7 +916,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg1_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčanan 6b9b4590-904b-4983-b78c-5823fb39a411">
             <t pos="Pron" type="Refl">som meg selv</t>
             <xg>
                <x>Mun ledjen doppe iehčanan.</x>
@@ -933,7 +932,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccesat bb4f0698-b815-4ea8-a0f6-96f5a954623f">
             <t pos="Pron" type="Refl">til deg selv</t>
             <xg>
                <x>Don oasttát alccesat.</x>
@@ -949,7 +948,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccat 98c4fc0e-522a-4760-a910-cb9648b6392e">
             <t pos="Pron" type="Refl">til deg selv</t>
             <xg>
                <x>Don oasttát alccat.</x>
@@ -965,7 +964,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccet 28743105-a8fb-4446-a7b0-dd878f5b1484">
             <t pos="Pron" type="Refl">til deg selv</t>
             <xg>
                <x>Don oasttát alccet.</x>
@@ -981,7 +980,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg2_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddát 401f0758-f39b-4ae0-8cda-2e153236f794">
             <re>har</re>
             <t pos="Pron" type="Refl">du selv</t>
             <xg>
@@ -998,7 +997,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg2_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežainat 3779511e-9143-44ee-8fad-79939b264781">
             <t pos="Pron" type="Refl">med deg selv</t>
             <xg>
                <x>Don hupmet iežainat.</x>
@@ -1014,7 +1013,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg2_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčanat db8b7ad3-e0fd-4978-a010-50f7eddb4bae">
             <t pos="Pron" type="Refl">som deg selv</t>
             <xg>
                <x>Don ledjet doppe iehčanat.</x>
@@ -1030,7 +1029,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccesis 7b357af8-1d57-455f-a5a8-6ab5fe74e8c8">
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
                <x>Eadni oastá alccesis.</x>
@@ -1046,7 +1045,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccis fcf3b17b-4367-45b9-87fd-e9c3b53a2e75">
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
                <x>Eadni oastá alccis.</x>
@@ -1062,7 +1061,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcces cc746b9b-8807-492c-a952-397e82803e87">
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
                <x>Eadni oastá alcces.</x>
@@ -1078,7 +1077,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg3_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddis 2b6b2276-06d3-4db9-937e-8fd0b25ca906">
             <re>har</re>
             <t pos="Pron" type="Refl">han selv</t>
             <t pos="Pron" type="Refl">hun (har) selv</t>
@@ -1096,7 +1095,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg3_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddes dc347679-5b67-4037-919d-938395d69165">
             <re>har</re>
             <t pos="Pron" type="Refl">han selv</t>
             <t pos="Pron" type="Refl">hun (har) selv</t>
@@ -1114,7 +1113,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg3_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežainis 6797a8d7-6ac4-49e9-bcd4-d6a62abd3797">
             <t pos="Pron" type="Refl">med seg selv</t>
             <xg>
                <x>Eadni humai iežainis.</x>
@@ -1130,7 +1129,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Sg3_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčanis 0a3fc465-d88b-401a-9221-995fbfd60872">
             <t pos="Pron" type="Refl">som seg selv</t>
             <xg>
                <x>Eadni lei doppe iehčanis.</x>
@@ -1146,7 +1145,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceseame ae1c0ec2-fd78-4e69-b503-4b5e5fc3fe1e">
             <re>om to</re>
             <t pos="Pron" type="Refl">til oss selv</t>
             <xg>
@@ -1163,7 +1162,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceme f5d79706-3ff3-444d-aef2-ca401e06dbd7">
             <re>om to</re>
             <t pos="Pron" type="Refl">til oss selv</t>
             <xg>
@@ -1180,7 +1179,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccame ce27dfb9-096b-4450-8e4d-5ca4f421292d">
             <re>om to</re>
             <t pos="Pron" type="Refl">til oss selv</t>
             <xg>
@@ -1197,7 +1196,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du1_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddáme 59cf2ec1-3991-4cfb-b028-a8aa40b7741d">
             <re>har</re>
             <t pos="Pron" type="Refl">vi to selv</t>
             <xg>
@@ -1214,7 +1213,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du1_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddiineame 48da2069-7b33-41ef-bcbc-a95f9f8daf5d">
             <re>har</re>
             <t pos="Pron" type="Refl">vi to selv</t>
             <xg>
@@ -1231,7 +1230,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du1_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaineame fde9ffff-cdba-48f2-bb56-edddb89d6282">
             <re>om to</re>
             <t pos="Pron" type="Refl">med oss selv</t>
             <xg>
@@ -1248,7 +1247,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du1_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčaneame 4c2d6964-bfbd-4557-801f-99651403d6e6">
             <re>om to</re>
             <t pos="Pron" type="Refl">som oss selv</t>
             <xg>
@@ -1265,7 +1264,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceseatte 2cdd9e08-85d7-434b-965a-1b2def9b38cf">
             <re>om to</re>
             <t pos="Pron" type="Refl">til dere selv</t>
             <xg>
@@ -1282,7 +1281,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccade 309d5cac-419f-4ed8-b90e-91e3862e8cbf">
             <re>om to</re>
             <t pos="Pron" type="Refl">til dere selv</t>
             <xg>
@@ -1299,7 +1298,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccede 5096acec-ff4b-4c53-af4a-d967ee9bad1a">
             <re>om to</re>
             <t pos="Pron" type="Refl">til dere selv</t>
             <xg>
@@ -1316,7 +1315,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du2_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddáde 0cd68b17-2ae4-484a-99fb-7b71df6f1e1e">
             <re>har</re>
             <t pos="Pron" type="Refl">dere to selv</t>
             <xg>
@@ -1333,7 +1332,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du2_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddiineatte efe3fd1b-b3eb-4485-95e7-4506c21ca46d">
             <re>har</re>
             <t pos="Pron" type="Refl">dere to selv</t>
             <xg>
@@ -1350,7 +1349,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du2_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaineatte 7b41ff25-60d5-4d34-a7ca-4853192c17ca">
             <re>om to</re>
             <t pos="Pron" type="Refl">med dere selv</t>
             <xg>
@@ -1367,7 +1366,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du2_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčaneatte aa5ca18b-fbcc-43e8-a451-7ece1be4f08e">
             <re>om to</re>
             <t pos="Pron" type="Refl">som dere selv</t>
             <xg>
@@ -1384,7 +1383,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceseaskka 316e408d-3cf4-4e5a-86c5-0c2b0afc9b3e">
             <re>om to</re>
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
@@ -1401,7 +1400,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcciska 9095e928-bbb2-41fe-b3f7-45c0af4346b3">
             <re>om to</re>
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
@@ -1418,7 +1417,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceska 229bc9a8-1efb-4fe5-9db4-844b970c82f1">
             <re>om to</re>
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
@@ -1435,7 +1434,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddiska d4448c73-f276-437a-8e89-228b9d2f61bf">
             <re>har</re>
             <t pos="Pron" type="Refl">de to selv</t>
             <xg>
@@ -1452,7 +1451,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddeska ffd56741-4f8c-42ac-8b8b-8856cf63d062">
             <re>har</re>
             <t pos="Pron" type="Refl">de to selv</t>
             <xg>
@@ -1469,7 +1468,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du3_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddiineaskka f0e40a67-b03a-4f34-a6fa-1599559ac12f">
             <re>har</re>
             <t pos="Pron" type="Refl">de to selv</t>
             <xg>
@@ -1486,7 +1485,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du3_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaineaskka 812ab614-331b-4cba-887c-974ee7fb470e">
             <re>om to</re>
             <t pos="Pron" type="Refl">med seg selv</t>
             <xg>
@@ -1503,7 +1502,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Du3_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčaneaskka 337d6050-f633-414e-8f56-ae123f17e01f">
             <re>om to</re>
             <t pos="Pron" type="Refl">som seg selv</t>
             <xg>
@@ -1520,7 +1519,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceseamet 0735ba6a-9f4f-407a-a76c-81d6974d09a9">
             <t pos="Pron" type="Refl">til oss selv</t>
             <xg>
                <x>Mii dajaimet alcceseamet.</x>
@@ -1536,7 +1535,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccamet 93f46bc6-4a6e-45f4-a94c-e0a7ff5d0b52">
             <t pos="Pron" type="Refl">til oss selv</t>
             <xg>
                <x>Mii dajaimet alccamet.</x>
@@ -1552,7 +1551,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl1_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccemet 2108be09-9630-4e97-a6b5-932f18e6e5f1">
             <t pos="Pron" type="Refl">til oss selv</t>
             <xg>
                <x>Mii dajaimet alccemet.</x>
@@ -1568,7 +1567,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl1_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddámet 0eb35e4b-191e-477f-9ab4-9ae797088a3e">
             <re>har</re>
             <t pos="Pron" type="Refl">vi selv</t>
             <xg>
@@ -1585,7 +1584,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl1_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddiineamet 87906874-e8aa-49f6-b7ad-63053484e945">
             <re>har</re>
             <t pos="Pron" type="Refl">vi selv</t>
             <xg>
@@ -1602,7 +1601,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl1_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaineamet 83bfe2b6-6e52-42aa-9665-623e7d6efcfe">
             <t pos="Pron" type="Refl">med oss selv</t>
             <xg>
                <x>Mii humaimet iežaineamet.</x>
@@ -1618,7 +1617,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl1_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčaneamet 5d597ea6-8ad6-4a08-9e44-8028b84900cd">
             <t pos="Pron" type="Refl">som oss selv</t>
             <xg>
                <x>Mii leimmet doppe iehčaneamet.</x>
@@ -1634,7 +1633,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceseattet 8373458c-06a0-4cdd-af74-2403bf992d2c">
             <t pos="Pron" type="Refl">til dere selv</t>
             <xg>
                <x>Dii oastibehtet alcceseattet.</x>
@@ -1650,7 +1649,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccadet b7788efa-873f-4b67-9765-506beb3fd3f0">
             <t pos="Pron" type="Refl">til dere selv</t>
             <xg>
                <x>Dii oastibehtet alccadet.</x>
@@ -1666,7 +1665,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl2_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alccedet 80e0c4ad-f3f0-4a23-97de-32e61bcdcad0">
             <t pos="Pron" type="Refl">til dere selv</t>
             <xg>
                <x>Dii oastibehtet alccedet.</x>
@@ -1682,7 +1681,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl2_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddádet 6b4e4e80-6fd7-47b9-bae5-fab103fe3c18">
             <re>har</re>
             <t pos="Pron" type="Refl">dere selv</t>
             <xg>
@@ -1699,7 +1698,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl2_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddiineattet ee6b338a-6989-45c1-a9b1-5f9ba7a38a1b">
             <re>har</re>
             <t pos="Pron" type="Refl">dere selv</t>
             <xg>
@@ -1716,7 +1715,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl2_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaineattet 8fac4cbd-6cae-4ed6-acc1-11b9368edcb8">
             <t pos="Pron" type="Refl">med dere selv</t>
             <xg>
                <x>Dii humaidet iežaineattet.</x>
@@ -1732,7 +1731,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl2_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčaneattet 1635cbd4-bade-4fca-b77b-99530dec6e5c">
             <t pos="Pron" type="Refl">som dere selv</t>
             <xg>
                <x>Dii leiddet doppe iehčaneattet.</x>
@@ -1748,7 +1747,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceseaset fed1bebc-afb4-4e3f-b1dd-50e4a34dc439">
             <re>om flere</re>
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
@@ -1765,7 +1764,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcceset 85e0f3ff-8cef-4222-b702-2e1d25842830">
             <re>om flere</re>
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
@@ -1782,7 +1781,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl3_Ill</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alcciset 2b073713-99b3-4510-b973-cabb20322055">
             <re>om flere</re>
             <t pos="Pron" type="Refl">til seg selv</t>
             <xg>
@@ -1799,7 +1798,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddiset 85565243-ae44-4bb4-99ed-7cff4bc90c87">
             <re>har</re>
             <t pos="Pron" type="Refl">de selv</t>
             <xg>
@@ -1816,7 +1815,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddeset 687c2597-bab7-4d34-807e-3a0837aed061">
             <re>har</re>
             <t pos="Pron" type="Refl">de selv</t>
             <xg>
@@ -1833,7 +1832,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl3_Loc</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="alddiineaset b9cb93ef-2dc4-4643-88f7-5a76afe2f9f7">
             <re>har</re>
             <t pos="Pron" type="Refl">de selv</t>
             <xg>
@@ -1850,7 +1849,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl3_Com</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iežaineaset 52574467-e905-4b92-b07a-a3c273823ff4">
             <re>om flere</re>
             <t pos="Pron" type="Refl">med seg selv</t>
             <xg>
@@ -1867,7 +1866,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <analysis>Pron_Refl_Pl3_Ess</analysis>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="iehčaneaset 181b8be8-bec0-4309-a9fa-a4f7caaa5bea">
             <re>om flere</re>
             <t pos="Pron" type="Refl">som seg selv</t>
             <xg>
@@ -1877,7 +1876,5 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

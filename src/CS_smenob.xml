@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smenob" xml:lang="sme">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -28,7 +27,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">vai</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="vai fc2c5431-44cc-4e86-824c-f67240dee574">
             <t pos="Phrase">for at</t>
             <t pos="Phrase">for å</t>
             <xg>
@@ -43,7 +42,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">ahte</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ahte 8066d98b-cecb-4863-9712-1ca52e14beef">
             <t pos="CS">at</t>
             <xg>
                <x>Lea hui mávssolaš ahte sin dárbbut váldojit vuhtii.</x>
@@ -61,7 +60,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">de</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="de 619385a2-1b71-403f-ae39-0aa78cc567c0">
             <t pos="CS">så</t>
             <xg>
                <x>Go bárdni bođii dállui, de son lei áibbas galmmas.</x>
@@ -70,7 +69,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="de 5ff131ff-45f6-4fb2-8215-fcf0554e6508">
             <t pos="CS">ja</t>
             <xg>
                <x>Jugatgo káfe? De jugan.</x>
@@ -84,7 +83,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">jus</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="jus 8a4656b4-f862-4e16-a5a0-c4eb809e0114">
             <t pos="CS">hvis</t>
             <xg>
                <x>Jus ihttin lea buolaš, de eat vuolgge čuoigat.</x>
@@ -98,7 +97,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">nugo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="nugo 4e599d43-af1c-44c3-a354-a10f58c7e5b3">
             <t pos="Phrase">slik som</t>
             <t pos="CS">som</t>
             <xg>
@@ -126,7 +125,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">dugo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dugo 4fe5694b-5546-4a21-b8eb-bc14c63076f2">
             <t pos="Phrase">akkurat som</t>
             <t pos="CS">liksom</t>
             <xg>
@@ -145,7 +144,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">dego</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="dego 1c3986f9-5a0b-4487-916e-a560ef8d0ec7">
             <t pos="Phrase">akkurat som</t>
             <t pos="CS">liksom</t>
             <xg>
@@ -164,7 +163,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">jos</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="jos 2a282637-f573-4fa2-98b7-a079ddf4b386">
             <t pos="CS">dersom</t>
             <t pos="CS">hvis</t>
             <xg>
@@ -179,7 +178,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">vaikke</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="vaikke 24130af8-9d7c-458a-bf9f-3e0881bb2f87">
             <t pos="Phrase">om så</t>
             <t pos="Phrase">selv om</t>
             <xg>
@@ -198,7 +197,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">vaikko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="vaikko c6135ffc-dd49-4636-855d-782cb19e364d">
             <t pos="Phrase">om så</t>
             <t pos="Phrase">selv om</t>
             <xg>
@@ -217,7 +216,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">váikko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="váikko 0cfe7e0b-45ba-4142-a979-bcc3b16ec348">
             <t pos="Phrase">om så</t>
             <t pos="Phrase">selv om</t>
             <xg>
@@ -236,7 +235,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">go</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="go 64a72c99-250a-4f59-9c1b-38bd3b22c8d4">
             <t pos="CS">når</t>
             <xg>
                <x>Maid dál ges galgá dahkat, go ii leat hivssetbábir?</x>
@@ -245,7 +244,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="go 624c45df-0cb9-4fbe-9019-05ef89e285a3">
             <t pos="CS">enn</t>
             <xg>
                <x>Ánte lea gievrrat go Elle.</x>
@@ -254,7 +253,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="go f6fd1b61-8d9e-46a2-9dca-aceca8d4e6ee">
             <t pos="CS">som</t>
             <xg>
                <x>Sidjiide lea sámegiella amas giella, maid fertejit oahppagoahtit seammá láhkai go eará amas
@@ -274,12 +273,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="CS">ovdalgo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" tw_id="ovdalgo 2f9eca50-bb30-4cc9-aa66-df2f26ed9ef9">
             <t pos="CS">før</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
-                 src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>
