@@ -2248,7 +2248,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l context="mun" pos="V">almmáskit</l>
+         <l context="upers" pos="V">almmáskit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="almmáskit c1c975e8-e8a1-4234-b0e7-ee89cae74c47">
@@ -12154,16 +12154,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e>
-      <lg freq="0">
-         <l context="mun" pos="V">nettobušetteret</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob" tw_id="nettobušetteret 807a626a-8eda-47b9-90ba-f9e3046eec43">
-            <t pos="V">nettobudsjettere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="1">
          <l context="mun" pos="V">nevrošit</l>
       </lg>
@@ -19081,16 +19071,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e>
-      <lg freq="722">
-         <l context="mun" pos="V">vuostáiváldit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob" tw_id="vuostáiváldit 8af8d35b-ff9a-43df-bcd2-a5c8341aa3c4">
-            <t pos="V">ta imot</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="387">
          <l context="mun" pos="V">čevllohallat</l>
       </lg>
@@ -19472,7 +19452,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="21">
-         <l context="mun" pos="V">dálkkáskit</l>
+         <l context="upers" pos="V">dálkkáskit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="dálkkáskit 3986f931-caf1-4ff7-a0f1-963edc2b9152">
@@ -24545,7 +24525,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="vuostáváldit f3af3e9f-529d-434b-8c70-a0faefca32c9">
             <re>ta imot</re>
-            <t pos="V">motta</t>
+            <t pos="V">ta imot</t>
          </tg>
       </mg>
    </e>
@@ -31288,11 +31268,24 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">geahppánit</l>
+         <l context="dat" pos="V">geahppánit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="geahppánit 95569d00-6a22-4872-9a36-426eac880807">
             <t pos="V">avta</t>
+            <xg>
+               <x>Aviissa preassadoarjja geahppána 100 000 ruvnnuin dán jagi.</x>
+               <xt>Avisas pressestøtte avtar med 100 000 kroner i år.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli færre</t>
+            <xg>
+               <x>Gávpejas lohká turisttaid geahppánan diimmá ektui.</x>
+               <xt>Handelsmannen sier at det er blitt færre turister i forhold til i fjor.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -36987,7 +36980,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">njázudit</l>
+         <l context="upers" pos="V">njázudit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="njázudit 90b7bfa9-57a5-4f48-858d-0d33b15649fc">
