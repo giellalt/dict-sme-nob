@@ -4720,12 +4720,43 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="darvánit 30d4736c-fde3-473a-ac88-9f48e9c0a9be">
-            <t pos="V">bli fast</t>
             <t pos="V">feste seg</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">befeste seg</t>
+            <xg>
+               <x>Dárogiela ja riikkaidgaskasaš sánit darvánit sámegielaide ja šaddet oassin beaivválaš gielas.</x>
+               <xt>Norske og internasjonale ord befester seg i det samiske språket og blir en del av dagligtalen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sitte i</t>
+            <xg>
+               <x>Váikkuhus sáhttá darvánit guhkes áigái.</x>
+               <xt>Virkningen kan sitte i lenge.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
-   <e>
+    <e>
+      <lg>
+         <l context="mun" pos="V">eaidadit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fremmedgjøre</t>
+            <xg>
+               <x>Dutki čállá, ahte ásodatáigi eaidadii sámemánáid sámeduogážis ja eatnigielas.</x>
+               <xt>Forskeren skriver at internattiden fremmegjorde de samiske barna fra sin samiske bakgrunn og morsmål.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg freq="586">
          <l context="mun" pos="V">deaddilit</l>
          <lsub>deaddelit</lsub>
@@ -17370,6 +17401,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob" tw_id="časkit 1af0cf31-0c34-4563-8cf4-fcd3c62222bc">
             <re>en gang</re>
             <t pos="V">slå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob" tw_id="časkit 1af0cf31-0c34-4563-8cf4-fcd3c62222bc">
+            <re>om øye</re>
+            <t pos="V">blunke</t>
+            <xg>
+               <x>Son časkkii čalmmi niidii nu ahte son ruovssihii.</x>
+               <xt>Han blunket til jenta slik at hun rødmet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
