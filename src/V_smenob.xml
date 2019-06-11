@@ -23339,7 +23339,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="22">
-         <l pos="V">fierahit</l>
+         <l context="mun" pos="V">fierahit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="fierahit 4b3696e1-2858-461b-a7e4-9e27f592f000">
@@ -23506,7 +23506,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="514">
-         <l pos="V">ovttastuvvat</l>
+         <l context="dat" pos="V">ovttastuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ovttastuvvat 86760801-f895-4d64-a943-2b1b05af3dd0">
@@ -23671,7 +23671,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="210">
-         <l pos="V">váidut</l>
+         <l context="dat" pos="V">váidut</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="váidut 659d063f-588e-4ad0-ab35-a7277924bd26">
@@ -23700,7 +23700,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="17">
-         <l pos="V">soabahallat</l>
+         <l context="mun" pos="V">soabahallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="soabahallat ac761301-53a0-4755-bdb0-1ac0720a4fd6">
@@ -23840,7 +23840,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="4">
-         <l pos="V">čuovgát</l>
+         <l context="mun" pos="V">čuovgát</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čuovgát 89e761ab-477c-49c7-a7d8-784f153391fc">
@@ -23873,7 +23873,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="41">
-         <l pos="V">mielddisetbuktit</l>
+         <l context="dat" pos="V">mielddisetbuktit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="mielddisetbuktit 0ed762ce-3d93-4c86-9b7f-be89aa406489">
@@ -23894,7 +23894,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="182">
-         <l pos="V">dagadit</l>
+         <l context="dat" pos="V">dagadit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="dagadit 301ad934-67bd-44b8-baf0-bf0317139b6c">
@@ -23905,7 +23905,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="295">
-         <l pos="V">gárgedit</l>
+         <l context="dat" pos="V">gárgedit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="gárgedit 2b4fc7f9-13be-4115-917a-e2ca11be8081">
@@ -23916,7 +23916,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="86">
-         <l pos="V">gárggiidit</l>
+         <l context="dat" pos="V">gárggiidit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="gárggiidit a1255c15-e180-4065-9be6-fe73d2acce9b">
@@ -23938,12 +23938,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="29">
-         <l pos="V">riibat</l>
+         <l context="dat" pos="V">riibat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="riibat 881356ab-35c8-4b04-acb5-0112f7fc2593">
             <re>frisk, uskadet</re>
             <t pos="V">holde seg</t>
+            <xg>
+               <x>Goikeguolli riibbai unnimustá 10 jagi, jus albmaládje dan vurkkodii.</x>
+               <xt>Tørrfisk holdt seg i minst 10 år, hvis man lagret den ordentlig.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24045,12 +24049,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="59">
-         <l pos="V">geahppudit</l>
+         <l context="dat" pos="V">geahppudit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="geahppudit 555aa30d-2130-431b-ab18-80741062f1a4">
             <re>gjøre lettere</re>
             <t pos="V">lette</t>
+            <xg>
+               <x>Bissovaš muohta geahppuda skábmaáiggi seavdnjadasa.</x>
+               <xt>Snø som holder seg, letter mørket i mørketida.</xt>
+            </xg>
+            <xg>
+               <x>Dálkasat mat geahppudit olbmo, daid gal berre hilgut.</x>
+               <xt>Medisiner som skal gjøre en lettere, dem bør man unngå.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24191,11 +24203,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="181">
-         <l pos="V">bestet</l>
+         <l context="mun" pos="V">bestet</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="bestet 40576275-aa14-4cf0-bedb-77a1c561dbe5">
             <t pos="V">rekruttere</t>
+            <xg>
+               <x>Mii bestiimet vihtta sámegielat olbmo jearahallin.</x>
+               <xt>Vi rekrutterte fem samiskspråklige personer som intervjuere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24277,12 +24293,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="31">
-         <l pos="V">lotnahuvvat</l>
+         <l context="dat" pos="V">lotnahuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="lotnahuvvat 348984b5-e98f-4101-9262-5ea0500c53a9">
             <re>omskiftes, forandres</re>
             <t pos="V">skifte</t>
+            <xg>
+               <x>Jahkečoahkkin berrešii eastadit ahte buot stivralahtut lotnahuvvet oktanis.</x>
+               <xt>Årsmøtet bør hindre at alle styremedlemmene skiftes ut samtidig.</xt>
+            </xg>
+            <xg>
+               <x>Diibmá lotnahuvve 17 doaktára Guovdageainnus.</x>
+               <xt>I fjor skiftet 17 leger i Kautokeino.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24299,7 +24323,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="60">
-         <l pos="V">earáhuhttit</l>
+         <l context="mun" pos="V">earáhuhttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="earáhuhttit cc6bf116-c47e-43b8-8788-49f3a51dd422">
@@ -24452,7 +24476,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="2">
-         <l pos="V">vakŋut</l>
+         <l context="mun" pos="V">vakŋut</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="vakŋut f5d0dcd0-37fa-40bd-8b75-41b89edbd739">
@@ -24507,43 +24531,59 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="745">
-         <l pos="V">laktásit</l>
+         <l context="dat" pos="V">laktásit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="laktásit cfb508cb-6f9c-40d6-ad0e-13ee2cb10a13">
             <re>forenes</re>
             <t pos="V">knytte</t>
+            <xg>
+               <x>Muitalusat ja máidnasat laktásit dávjá báikkiide.</x>
+               <xt>Fortellinger og eventyr knyttes ofte til steder.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="fad">
       <lg freq="23">
-         <l pos="V">laktašuvvat</l>
+         <l context="dat" pos="V">laktašuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="laktašuvvat 682aa966-8e43-4e80-9cba-577c4a321002">
             <re>forenes</re>
             <t pos="V">knytte</t>
+            <xg>
+               <x>Geažus laktašuvvá vearbamáddagiidda.</x>
+               <xt>Suffikset knytter seg til verbstammene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="fad">
       <lg freq="194">
-         <l pos="V">viidut</l>
+         <l context="dat" pos="V">viidut</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="viidut f6fab9e8-f032-4f37-818a-7465dda568d6">
             <t pos="V">utvides</t>
+            <xg>
+               <x>Álbmotmeahci viiddui 133 000 hektárain.</x>
+               <xt>Nasjonalparken blei utvidet med 133 000 hektar.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="fad">
       <lg freq="432">
-         <l pos="V">sisdoallat</l>
+         <l context="dat" pos="V">sisdoallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sisdoallat 40d1145e-8230-4068-9b64-115a47d61b11">
             <t pos="V">inneholde</t>
+            <xg>
+               <x>Ođđa CD-skearru sisdoallá	sihke árbevirolaš juigosiid/luđiid ja ođđaáigásaš musihka.</x>
+               <xt>Den nŧe CD-plata inneholder både tradisjonelle joiker og moderne musikk.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -24555,7 +24595,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="38">
-         <l pos="V">sisttisetdoallat</l>
+         <l context="dat" pos="V">sisttisetdoallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sisttisetdoallat adb0f0b8-bc59-47ed-957c-78f0a6578ce1">
@@ -24599,18 +24639,22 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="52">
-         <l pos="V">stuorrudit</l>
+         <l context="mun" pos="V">stuorrudit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="stuorrudit ac99bb73-7bb4-4a62-914f-1d931178135f">
             <re>gjøre større</re>
             <t pos="V">øke</t>
+            <xg>
+               <x>Danne mii stuorrudit suohkaniid bušeahtaid 6,4 miljárdda ruvnnuin.</x>
+               <xt>Derfor øker vi kommunenes busjetter med 6,4 miljarder kroner.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="fad">
       <lg freq="56">
-         <l pos="V">lassánahttit</l>
+         <l context="mun" pos="V">lassánahttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="lassánahttit e66e4e71-0f82-4620-9f95-08e4d0f9099f">
@@ -24632,7 +24676,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="47">
-         <l pos="V">sirdát</l>
+         <l context="mun" pos="V">sirdát</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sirdát 493eacc0-f39f-43c5-90c7-7e208d0da6bc">
@@ -24654,7 +24698,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="V">uhccudit</l>
+         <l context="mun" pos="V">uhccudit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="uhccudit 13622bd2-0adf-445c-aeec-cfb33f1c0b2f">
@@ -24687,18 +24731,22 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="112">
-         <l pos="V">čoavdásit</l>
+         <l context="dat" pos="V">čoavdásit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čoavdásit 61d15a85-6412-4ebe-a219-6aac4ea61211">
             <re>løsne, gå opp av seg selv el. ved å bli løst opp</re>
-            <t pos="V">løse</t>
+            <t pos="V">løses</t>
+            <xg>
+               <x>Sávan ahte ášši čoavdása dál.</x>
+               <xt>Jeg håper at saka løses nå.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="fad">
       <lg freq="114">
-         <l pos="V">čoavdašuvvat</l>
+         <l context="dat" pos="V">čoavdašuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čoavdašuvvat c4299e40-b6cd-4f86-9e48-e8b5bd4e352e">
@@ -24709,12 +24757,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="148">
-         <l pos="V">spiehkkasit</l>
+         <l context="mun" pos="V">spiehkkasit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="spiehkkasit f418e742-f9a5-4e87-b263-5549bcf81c9e">
-            <re>skille seg ut</re>
-            <t pos="V">skille</t>
+            <t pos="V">skille seg ut</t>
          </tg>
       </mg>
    </e>
@@ -24731,7 +24778,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="828">
-         <l pos="V">siskkildit</l>
+         <l context="dat" pos="V">siskkildit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="siskkildit 4ba9cc1e-746c-4559-a0d0-dc75f9fbf819">
@@ -24742,7 +24789,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="661">
-         <l pos="V">juohkásit</l>
+         <l context="dat" pos="V">juohkásit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="juohkásit 28c8fc07-ee1a-4119-8776-393679b0a73f">
@@ -24786,7 +24833,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="60">
-         <l pos="V">searvadit</l>
+         <l context="mun" pos="V">searvadit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="searvadit e16f0efc-3ef0-42bc-b115-b4d82a388567">
@@ -24797,7 +24844,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="37">
-         <l pos="V">ovttaiduvvat</l>
+         <l context="mun" pos="V">ovttaiduvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ovttaiduvvat 4400ba34-975d-4bc0-80dc-8db15d50e7de">
@@ -24819,7 +24866,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="35">
-         <l pos="V">álkkásmahttit</l>
+         <l context="mun" pos="V">álkkásmahttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="álkkásmahttit 673b2d10-2cd8-4989-9468-f06f21777b23">
@@ -24839,18 +24886,18 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="160">
-         <l pos="V">vuogáiduvvat</l>
+         <l context="mun" pos="V">vuogáiduvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="vuogáiduvvat 9837b24b-23b4-4928-accc-3a33504b2598">
-            <re>systematiseres</re>
-            <t pos="V">systematisere</t>
+            <t pos="V">akklimatiseres</t>
+            <t pos="V">bli vant til</t>
          </tg>
       </mg>
    </e>
    <e src="fad">
       <lg freq="2">
-         <l pos="V">čuoimmuhit</l>
+         <l context="mun" pos="V">čuoimmuhit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čuoimmuhit 6c130920-f1b0-408e-a493-46fec67e2043">
@@ -24861,7 +24908,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="56">
-         <l pos="V">dihkkádit</l>
+         <l context="mun" pos="V">dihkkádit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="dihkkádit d892277f-0b4b-471d-9fea-18e73aa128e9">
@@ -24872,7 +24919,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="51">
-         <l pos="V">ávnnastit</l>
+         <l context="mun" pos="V">ávnnastit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ávnnastit 4d48e6c0-0a8a-4dd2-a3c9-27a54422f8fb">
@@ -24883,7 +24930,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="95">
-         <l pos="V">fámuhuhttit</l>
+         <l context="mun" pos="V">fámuhuhttit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="fámuhuhttit a952aead-689a-4053-b34c-88b8aaab40ba">
@@ -30812,7 +30859,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="6">
-         <l pos="V">šláddjet</l>
+         <l context="mun" pos="V">šláddjet</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="šláddjet d22e90b8-671d-4901-a179-ba578ca8f03f">
@@ -30827,7 +30874,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="377">
-         <l pos="V">máhcahit</l>
+         <l context="mun" pos="V">máhcahit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="máhcahit 017a2c01-41d4-4cd4-b932-5a4dbd9433a2">
@@ -30842,7 +30889,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="85">
-         <l pos="V">duppalastit</l>
+         <l context="mun" pos="V">duppalastit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="duppalastit 82ecc715-9c05-4caa-ac61-4d090560b08c">
@@ -30857,7 +30904,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="140">
-         <l pos="V">revideret</l>
+         <l context="mun" pos="V">revideret</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="revideret c3a4e040-61e4-4691-8220-e2462228b80a">
@@ -30867,7 +30914,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="645">
-         <l pos="V">raporteret</l>
+         <l context="mun" pos="V">raporteret</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="raporteret 2c61ccbf-19ea-476d-aaa4-86648944b161">
@@ -30877,7 +30924,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="177">
-         <l pos="V">deattastit</l>
+         <l context="mun" pos="V">deattastit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="deattastit 071231de-4190-47f5-bcce-4bab2b286b4f">
@@ -30892,7 +30939,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="176">
-         <l pos="V">lihccut</l>
+         <l context="mun" pos="V">lihccut</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="lihccut 3c8df05e-d065-4679-837e-5ebaa1926a95">
@@ -30907,7 +30954,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="3">
-         <l pos="V">projekteret</l>
+         <l context="mun" pos="V">projekteret</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="projekteret c3b072b6-bc15-48ff-9a08-8986d93989c6">
@@ -30917,7 +30964,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="38">
-         <l pos="V">sátnádit</l>
+         <l context="mun" pos="V">sátnádit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sátnádit 89d57935-6a02-43bf-824e-bf520ed021a7">
@@ -30927,7 +30974,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="162">
-         <l pos="V">gállit</l>
+         <l context="mun" pos="V">gállit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="gállit a1c00b0c-004d-4d5f-bf67-512d7b1c9509">
@@ -30937,7 +30984,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="155">
-         <l pos="V">giktalit</l>
+         <l context="mun" pos="V">giktalit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="giktalit 3fbf68ae-d52e-4c2b-b20a-47881369b1b3">
@@ -30952,7 +30999,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="189">
-         <l pos="V">vihkkedallat</l>
+         <l context="mun" pos="V">vihkkedallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="vihkkedallat 9e1c5006-5753-42c8-96e9-a6643642894d">
@@ -30967,7 +31014,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="340">
-         <l pos="V">daguhit</l>
+         <l context="mun" pos="V">daguhit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="daguhit 827ef9b7-fc1a-4475-8dde-748212bda13a">
@@ -30982,7 +31029,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="57">
-         <l pos="V">stáđásmuvvat</l>
+         <l context="mun" pos="V">stáđásmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="stáđásmuvvat 7c96a54c-8e34-4d99-adcb-79f0cd606edf">
@@ -30992,7 +31039,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="116">
-         <l pos="V">rekruteret</l>
+         <l context="mun" pos="V">rekruteret</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="rekruteret bfbdd87b-5c5c-467c-9b2b-0491a6f3cc17">
@@ -31002,7 +31049,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="660">
-         <l pos="V">sajáiduvvat</l>
+         <l  context="mun" pos="V">sajáiduvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sajáiduvvat 1270ab39-c08a-4c42-8e9b-28daa22a0c59">
@@ -31017,7 +31064,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="66">
-         <l pos="V">dárkilastit</l>
+         <l context="mun" pos="V">dárkilastit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="dárkilastit b2467da0-ff1e-4c60-b825-9127858865cf">
@@ -31032,7 +31079,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="1">
-         <l pos="V">čuoibmuladdat</l>
+         <l context="mun" pos="V">čuoibmuladdat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čuoibmuladdat 870ecb7c-7a5f-4554-8d8e-3d2bc16afa24">
@@ -37367,7 +37414,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">sparggihit</l>
+         <l context="dat" pos="V">sparggihit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sparggihit 42d3e75c-3ff3-4ed7-abbf-a5dbe33b1aa8">
@@ -37381,7 +37428,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">hipmošit</l>
+         <l context="mun" pos="V">hipmošit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="hipmošit 5d63fbfd-fe6e-4fd6-a59c-46480db1cc55">
@@ -37395,7 +37442,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">háhccát</l>
+         <l context="mun" pos="V">háhccát</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="háhccát 4157c1d7-9d50-4111-a8bb-e2fd775d19c4">
@@ -37409,7 +37456,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">njiellasit</l>
+         <l context="dat" pos="V">njiellasit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="njiellasit a509ac95-f348-43f8-977d-1862c7ccd761">
@@ -37432,7 +37479,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">ráttástuvvat</l>
+         <l context="mun" pos="V">ráttástuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ráttástuvvat 4a703773-03a1-4d67-b337-d54d060ca0a7">
@@ -37446,7 +37493,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">seđohallat</l>
+         <l context="mun" pos="V">seđohallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="seđohallat e8ade2c1-5cec-496e-9a0e-e3f86c18460b">
@@ -37460,7 +37507,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">nákkáskit</l>
+         <l context="mun" pos="V">nákkáskit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="nákkáskit 5248ccda-a850-4929-9599-a8dfb1ba9dbf">
@@ -37474,7 +37521,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">molžat</l>
+         <l context="mun" pos="V">molžat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="molžat bd02744d-243c-4145-ada8-3e016916dcd6">
@@ -37488,7 +37535,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">jiellahastit</l>
+         <l context="mun" pos="V">jiellahastit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="jiellahastit 7012fac4-a850-43f9-8b11-5d5137cbe5c2">
@@ -37502,7 +37549,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">šlaggat</l>
+         <l context="mun" pos="V">šlaggat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="šlaggat 56627a18-d727-431f-a53a-f438a8e9c9be">
@@ -37517,7 +37564,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">šlivgasaddat</l>
+         <l context="dat" pos="V">šlivgasaddat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="šlivgasaddat 60af3ee9-adc8-49e5-b04a-7a2b80558499">
@@ -37531,7 +37578,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">cakkástallat</l>
+         <l context="mun" pos="V">cakkástallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="cakkástallat 21a016ef-cd5e-4f67-bebd-049229e6ac02">
@@ -37550,7 +37597,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">soažžudit</l>
+         <l context="mun" pos="V">soažžudit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="soažžudit 60cf6026-cc91-4246-9403-3bc3ffef0a18">
@@ -37564,7 +37611,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">skuŋkát</l>
+         <l context="mun" pos="V">skuŋkát</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="skuŋkát f05386db-a5b5-4bed-84c1-b8bf7f5cff0a">
@@ -37578,7 +37625,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">sogahuvvat</l>
+         <l context="mun" pos="V">sogahuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sogahuvvat 167c4fc1-3745-4632-9b07-fd6b37ca0ad6">
@@ -37592,7 +37639,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">leŋget</l>
+         <l context="mun" pos="V">leŋget</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="leŋget 8b303e48-b83e-4f74-86be-b8d909dbff14">
@@ -37607,7 +37654,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">guolbmat</l>
+         <l context="dat" pos="V">guolbmat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="guolbmat 72e99d14-0684-403d-964e-9326bfdf3230">
@@ -37622,7 +37669,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">gohttet</l>
+         <l context="mun" pos="V">gohttet</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="gohttet 57c72582-6d2c-4fe1-8ff1-9dfaf1f3cedc">
@@ -37636,7 +37683,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">tealttástallat</l>
+         <l context="mun" pos="V">tealttástallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="tealttástallat 17e7595d-dc17-4cd1-b443-ee940ea55248">
@@ -37650,7 +37697,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">goađástallat</l>
+         <l context="mun" pos="V">goađástallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="goađástallat 41e486f3-0baf-4ea0-bd60-99e0e062d09f">
@@ -37665,7 +37712,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">lávostallat</l>
+         <l context="mun" pos="V">lávostallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="lávostallat 068fb64c-a991-428f-9d31-5e5eef591558">
@@ -37679,7 +37726,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">viimmáskit</l>
+         <l context="mun" pos="V">viimmáskit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="viimmáskit 904fee20-e0a0-4061-bff7-cf7da20fa990">
@@ -37693,7 +37740,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">amastit</l>
+         <l context="mun" pos="V">amastit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="amastit ab9d18d7-a708-4edf-9288-11fa90eeb2e4">
