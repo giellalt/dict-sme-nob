@@ -1704,5 +1704,56 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Pron">duot dát</l>
+         <analysis>Pron_Dem_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Sg_Acc/Gen">
+               <wordform>duon dán</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Ill">
+               <wordform>duosa dása</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Loc">
+               <wordform>duos dás</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg_Com">
+               <wordform>duoinna dáinna</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Ess">
+               <wordform>duonin dánin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Nom">
+               <wordform>duot dát</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Acc/Gen">
+               <wordform>duoid dáid</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Ill">
+               <wordform>duoidda dáidda</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Loc">
+               <wordform>duoin dáin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>duoiguin dáiguin</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">det ene og det andre</t>
+            <xg>
+               <x>Niegadii duon dán amas niegu.</x>
+               <xt>Hun drømte den ene og den andre ukjente drømmen.</xt>
+            </xg>
+            <xg>
+               <x>Sii čuoččuhit duoid dáid, ákkaid haga ja duođaštusaid haga.</x>
+               <xt>De påstår det ene og det andre, uten argumenter og bevis.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

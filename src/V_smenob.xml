@@ -4058,7 +4058,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="bákŋat 04751d15-3f08-4daa-97e2-108c85695c38">
             <t pos="V">vake</t>
-            <t pos="V">sprette</t>
             <xg>
                <x>Guolli bákŋá jávrris.</x>
                <xt>Fisken vaker i vannet.</xt>
@@ -4133,6 +4132,19 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="bánccardit f28a631d-8159-4c07-b64f-f25e6d99ab85">
             <t pos="V">sprelle</t>
+            <xg>
+               <x>Guolli bánccarda sakka.</x>
+               <xt>Fisken spreller voldsomt.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sprette</t>
+            <xg>
+               <x>Spábba bánccardii gosa beare earret mu guvlui.</x>
+               <xt>Ballen spratt hvor som helst bortsett fra mot meg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5163,6 +5175,48 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="dievvat 1269655d-dfb1-4d97-aa5a-79f449fd9e89">
             <t pos="V">flø</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">njolggiidit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lunte</t>
+            <xg>
+               <x>Ovcci vuomi njolggiida ovtta veaiggis.</x>
+               <xt>Ni skogdaler lunter den i løpet av en skumringstid.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">gievdat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">overanstrenge seg</t>
+            <xg>
+               <x>Dii lehpet garra bargguin gievdan.</x>
+               <xt>Dere har overanstrengt dere med hardt arbeid.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">gávgalit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">strø</t>
+            <xg>
+               <x>Vihtta jagi leat juo golihan dan rájes go fárrejin Guovdageidnui.</x>
+               <xt>Det har allerede gått fem år siden jeg flyttet til Kautokeino.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8761,6 +8815,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob" tw_id="gávkat 0a032992-8138-4d14-a4ac-154f661da8f3">
             <t pos="V">glane</t>
             <t pos="V">glo</t>
+            <xg>
+               <x>Oahppit gávke munnje.</x>
+               <xt>Elevene glodde på meg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10213,6 +10271,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="jupmat b3256087-c663-4530-b998-0317bc1d23f1">
             <t pos="V">larme</t>
+            <t pos="V">drønne</t>
+            <xg>
+               <x>Jietna jupmá mu beljiide.</x>
+               <xt>Lyden drønner i ørene mine.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20670,6 +20733,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="govahallat d115f5e3-8215-45d0-8a4a-87ba8f8e6b45">
             <t pos="V">forestille</t>
+            <xg>
+               <x>Dán láhkai govahallá Finnmárkku eananvuovdinhoavda boahtteáiggi dili.</x>
+               <xt>Slik forestiller jordsalgssjefen i Finnmark situasjonen i framtida.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
