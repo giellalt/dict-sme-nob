@@ -651,7 +651,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="cakkasnjálmmiid 1a83a004-fdaf-4f6f-a18b-7c0a3aab5b94">
-            <t pos="Adv">med åpen munn</t>
+            <t pos="Phrase">med åpen munn</t>
             <xg>
                <x>Nieida geahčai su cakkasnjálmmiid.</x>
                <xt>Jenta så på henne med åpen munn.</xt>
@@ -666,10 +666,38 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="nagirčalmmiid a105e60f-1272-4ed9-9f22-cc51f09cc1e9">
-            <t pos="Adv">med søvnige øyne</t>
+            <t pos="Phrase">med søvnige øyne</t>
             <xg>
                <x>Nagirčalmmiid njommon seaŋggas eret.</x>
                <xt>Med søvnige øyne krøp jeg ut av sengen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mojinjálmmiid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">med et smil om munnen</t>
+            <xg>
+               <x>Ánte dajai mojinjálmmiid ahte son lea ceavzán eksámena.</x>
+               <xt>Ánte sa med et smil om munnen at han har bestått eksamen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mojonjálmmiid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">med et smil om munnen</t>
+            <xg>
+               <x>Ánte dajai mojonjálmmiid ahte son lea ceavzán eksámena.</x>
+               <xt>Ánte sa med et smil om munnen at han har bestått eksamen.</xt>
             </xg>
          </tg>
       </mg>
@@ -680,7 +708,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="mojunjálmmiid 43d2940b-2317-4dec-a2f9-c5c2d95866eb">
-            <t pos="Adv">med et smil om munnen</t>
+            <t pos="Phrase">med et smil om munnen</t>
             <xg>
                <x>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámena.</x>
                <xt>Ánte sa med et smil om munnen at han har bestått eksamen.</xt>
@@ -726,8 +754,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="movtta fccfd71e-2fc9-43eb-8776-c1f7dade6f81">
-            <t pos="Adv">ved godt mot</t>
-            <t pos="Adv">i godt humør</t>
+            <t pos="Phrase">ved godt mot</t>
+            <t pos="Phrase">i godt humør</t>
             <xg>
                <x>Moai letne movtta.</x>
                <xt>Vi to er i godt humør.</xt>
@@ -741,8 +769,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="gostege ae886808-33ca-46f7-a229-56ae5d8f110d">
-            <t pos="Adv">ingensteds fra</t>
-            <t pos="Adv">noensteds fra</t>
+            <t pos="Phrase">ingensteds fra</t>
+            <t pos="Phrase">noensteds fra</t>
             <xg>
                <x>In leat goit gullan gostege ahte lea leamaš eanandoarggástus.</x>
                <xt>Jeg har ikke hørt noen steder at det har vært jordskjelv.</xt>
@@ -770,7 +798,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="birrajándora b03ef025-4954-45e2-9601-2e32be4ab280">
-            <t pos="Adv">døgnet rundt</t>
+            <t pos="Phrase">døgnet rundt</t>
             <xg>
                <x>Dáppe vudjet biillat ja tráilarat birrajándora.</x>
                <xt>Her kjører biler og trailere døgnet rundt.</xt>
@@ -785,7 +813,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="glássaráigge 1c7266c1-b6a4-4d6c-8469-5a24d7e63804">
-            <t pos="Adv">gjennom vinduet</t>
+            <t pos="Phrase">gjennom vinduet</t>
             <xg>
                <x>Mun oidnen áhku guovlamin glássaráigge olggos.</x>
                <xt>Jeg så bestemor se ut gjennom vinduet.</xt>
@@ -799,7 +827,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="riebangolleglássaráigge fac2aee6-4061-4679-bcdc-e6309033101f">
-            <t pos="Adv">gjennom kråkesølvvinduet</t>
+            <t pos="Phrase">gjennom kråkesølvvinduet</t>
             <xg>
                <x src="S. B. Johansen 2010: Sárá beaivegirji s. 79.">... ferte duhtat dasa go beassá
                riebangolleglássaráigge guovlat goaskima.</x>
@@ -829,7 +857,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ovttatmano 51f05e9e-00df-43d7-8b9c-48a5471bd604">
-            <t pos="Adv">med en gang</t>
+            <t pos="Phrase">med en gang</t>
             <xg>
                <x>Sii sáddejit dieđu ovttatmano.</x>
                <xt>De sender melding med en gang.</xt>
@@ -843,7 +871,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ovttatmanu 94713780-1b00-445b-8729-6711503f2b36">
-            <t pos="Adv">med en gang</t>
+            <t pos="Phrase">med en gang</t>
             <xg>
                <x>Sii sáddejit dieđu ovttatmanu.</x>
                <xt>De sender melding med en gang.</xt>
@@ -877,7 +905,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="hávális 85afd819-8052-4051-8683-f605537b8b05">
-            <t pos="Adv">om gangen</t>
+            <t pos="Phrase">om gangen</t>
             <xg>
                <x>Mánáidgárdesadji addo jahkái ain hávális.</x>
                <xt>Barnehageplassen tildeles for ett år om gangen.</xt>
@@ -891,7 +919,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="eahkedis dbe4d661-c113-4e8e-b909-b916430d210d">
-            <t pos="Adv">om kvelden</t>
+            <t pos="Phrase">om kvelden</t>
             <xg>
                <x>Eahkedis lei ipmilbálvalus girkus.</x>
                <xt>Om kvelden var det gudstjeneste i kirka.</xt>
@@ -905,7 +933,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="iđđedis 1899c937-07e4-4ee2-a695-f2588c62c640">
-            <t pos="Adv">om morgenen</t>
+            <t pos="Phrase">om morgenen</t>
             <xg>
                <x>Iđđedis lei guoldu, muhto beaivet de firtii.</x>
                <xt>Om morgenen var det snøfokk, men ut på dagen ble det fint vær.</xt>
@@ -962,7 +990,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="buoril 1a56dcb2-7379-4b41-a779-0123ed7fea2a">
-            <t pos="Adv">ikke med en gang</t>
+            <t pos="Phrase">ikke med en gang</t>
             <xg>
                <x>Bárdni ii nohkkan buoril.</x>
                <xt>Gutten sovnet ikke med en gang.</xt>
@@ -991,7 +1019,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="oanehaš a9acf74e-2ede-4399-a2bd-2c3999ac1a8d">
-            <t pos="Adv">kort tid</t>
+            <t pos="Phrase">kort tid</t>
             <xg>
                <x>Maŋŋel go oanehaš ledje orron gávpogis, de fárrejedje ruovttoluotta gillái.</x>
                <xt>Etter at de hadde bodd en stund i byen, flyttet de tilbake til bygda.</xt>
@@ -1005,7 +1033,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="iešheanalis e95d4188-5feb-4b31-9a7c-32ed0d4482cd">
-            <t pos="Adv">på egen hånd</t>
+            <t pos="Phrase">på egen hånd</t>
             <xg>
                <x>Ferte diktit mánáid iešheanalis bargat.</x>
                <xt>Man må la barna arbeide på egen hånd.</xt>
@@ -1058,7 +1086,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob" tw_id="iešdáhtos 3b1bfc44-602b-46cb-9c6d-18c7b64013ce">
-            <t pos="Adv">med vilje</t>
+            <t pos="Phrase">med vilje</t>
          </tg>
       </mg>
    </e>
@@ -1078,7 +1106,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ovdalaš bd23853f-1877-40a0-99d6-db10601dcb3b">
-            <t pos="Adv">litt tidligere</t>
+            <t pos="Phrase">litt tidligere</t>
          </tg>
       </mg>
    </e>
@@ -5350,6 +5378,90 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>         
+	      <l pos="Adv">allamenolaččat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">høytidelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>         
+	      <l pos="Adv">nuppos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">vekk</t>
+            <xg>
+               <x>Gánda jorggiha mus nuppos.</x>
+               <xt>Gutten vender seg bort fra meg.</xt>
+            </xg>
+            <xg>
+               <x>Birgget bođii gámmárii, áhkku geahčai nuppos.</x>
+               <xt>Birgget kom inn i rommet, bestemor så vekk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>         
+	      <l pos="Adv">muđolassii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nesegrus</t>
+            <xg>
+               <x>Mun gahččen muđolassii čivrii.</x>
+               <xt>Jeg ramlet nesegrus i grusen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>         
+	      <l pos="Adv">lobiheamit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ulovlig</t>
+            <xg>
+               <x>Dál lea dat áigi go eatnašat lobiheamet vudjet váris.</x>
+               <xt>Nå er den tida at de fleste kjører ulovlig på fjellet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>         
+	      <l pos="Adv">guvreselggiid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">med kroket rygg</t>
+            <xg>
+               <x>Mihkkal čohkkái mu ovddabealde, guvreselggiid.</x>
+               <xt>Mihkkal satt foran meg, men kroket rygg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>         
+	      <l pos="Adv">rihcojulggiid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">barbeint</t>
+            <xg>
+               <x>Soai gálašeigga rihcojulggiid jogažis.</x>
+               <xt>De to vasset barbeint i bekken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>         
 	      <l pos="Adv">álásjulggiid</l>
       </lg>
       <mg>
@@ -6617,8 +6729,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ceakkobeljiid 1309a6aa-3a1e-4a91-9873-c54942f7e184">
-            <t pos="Adv">med ørene rett opp</t>
-            <t pos="Adv">med ørene på stilk</t>
+            <t pos="Phrase">med ørene rett opp</t>
+            <t pos="Phrase">med ørene på stilk</t>
             <xg>
                <x>Áhkku muitala ollu somás muitalusaid ja mii čohkkát ceakkobeljiid ja guldalit.</x>
                <xt>Bestemor forteller mange morsomme fortellinger og vi sitter med lytter med ørene på stilk.</xt>

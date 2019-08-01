@@ -266,6 +266,41 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
+         <l context="dáhpáhus" pos="A">allamenolaš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høytidelig</t>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="geađgi" pos="A">šallat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">glatt</t>
+            <t pos="N">slett</t>
+            <xg>
+               <x>Čáhcegiera šoavvu vuodjagoalkin ja šalladin dego speajal.</x>
+               <xt>Vannskorpa glinser blikkstille og slett som et speil.</xt>
+            </xg>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="olmmoš" pos="A">gáddálas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">selvgod</t>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l context="geavahus" pos="A">vuoigatvuođalaš</l>
       </lg>
       <mg>
@@ -9884,7 +9919,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="14">
-         <l context="joavku" pos="A">ovttagielalaš</l>
+         <l context="joavku" paradigme="cases" pos="A">ovttagielalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ovttagielalaš 857da9d4-264f-4d14-83f5-aadc442d6c62">
@@ -12771,7 +12806,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="1994">
-         <l context="ášši" pos="A">gielalaš</l>
+         <l context="ášši" paradigme="cases" pos="A">gielalaš</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="gielalaš 963e38b7-7145-4a51-aad9-5cf905abb050">
@@ -17178,7 +17213,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob" tw_id="hearki 368b4906-d9a8-4cbf-aa2a-6cddebf02bae">
             <t pos="A">øm</t>
             <t pos="A">følsom</t>
-            <t pos="A">lang</t>
          </tg>
       </mg>
       <mg>
