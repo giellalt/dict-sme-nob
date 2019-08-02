@@ -5378,6 +5378,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>         
+	      <l pos="Adv">vuorddekeahttá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">uventet</t>
+            <xg>
+               <x>Nu dáhpáhuvai áibbas vuorddekeahttá.</x>
+               <xt>Det skjedde helt uventet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>         
 	      <l pos="Adv">allamenolaččat</l>
       </lg>
       <mg>
@@ -5840,6 +5854,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <xg>
                <x>Attán ándagassii.</x>
                <xt>Jeg tilgir.</xt>
+            </xg>
+            <xg>
+               <x>In háhppehan átnut ándagassii.</x>
+               <xt>Jeg rakk ikke å be om unnskyldning.</xt>
             </xg>
          </tg>
       </mg>
@@ -7609,6 +7627,57 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">foran</t>
+            <xg>
+               <x>Eadni manai ovdalis ja Máhtte maŋis.</x>
+               <xt>Mor gikk foran og Máhtte gikk bak.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">tidligere</t>
+            <xg>
+               <x>Nu go ovdalis muitaluvvon, de ledje dáluolbmuin ollu hearggit.</x>
+               <xt>Slik som tidligere fortalt, så hadde jordbrukerne mye rein.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jietnatkeahttá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">uten å si</t>
+            <t pos="Phrase">uten å uttale</t>
+            <xg>
+               <x>Mánná sáhttá guođđit sojahangehčosa -n jietnatkeahttá.</x>
+               <xt>Barnet kan la være å uttale bøyningsendelsen -n.</xt>
+            </xg>
+            <xg>
+               <x>Das dal čohkohadde jaska oanehassii, jietnatkeahttá eambbo.</x>
+               <xt>Vi sitter stille en liten stund, uten å si noe mer.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">njamažahkká</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">plutselig og uventet</t>
+            <xg>
+               <x>Čakčaidja falleha álohii njamažahkká.</x>
+               <xt>Høstnatta overmanner alltid plutselig og uventet.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg freq="24">
@@ -7616,7 +7685,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sealggabealde 7fd0023e-ee49-4c9e-82ab-c993ead684f6">
-            <t pos="Adv">på ryggsiden</t>
+            <t pos="Phrase">på ryggsiden</t>
             <xg>
                <x>Mun gullen juoidá mu sealggabealde skoahpamin.</x>
                <xt>Jeg hørte noe bak ryggen min som raslet.</xt>

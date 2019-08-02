@@ -9753,6 +9753,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e>
+      <lg>
+         <l context="mun" pos="V">imaštaddat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli forundra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg freq="1478">
          <l context="mun" pos="V">imaštallat</l>
       </lg>
@@ -14898,6 +14908,36 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e>
+      <lg>
+         <l context="mun" pos="V">gohčohaddat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli pålagt</t>
+            <t pos="Phrase">bli kommandert</t>
+            <xg>
+               <x>Oktii gohčohadden olggos feaskárii mannat.</x>
+               <xt>En gang blei jeg kommandert å gå ut i gangen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">gohčohallat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli pålagt</t>
+            <t pos="Phrase">bli kommandert</t>
+            <xg>
+               <x>Son gii oamasta bohccuid njuolggadusaid vuostá, sáhttá gohčohallat heaitit.</x>
+               <xt>Den som eier rein mot reglene, kan pålegges å slutte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg freq="3">
          <l context="dat" pos="V">seabbát</l>
       </lg>
@@ -17566,6 +17606,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob" tw_id="átnut 629fc267-9911-4de9-8abe-8ac7096927ee">
             <t pos="V">be</t>
             <t pos="V">tigge</t>
+            <xg>
+               <x>In háhppehan átnut ándagassii.</x>
+               <xt>Jeg rakk ikke å be om unnskyldning.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19071,6 +19115,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob" tw_id="šoavvat f312a790-d05d-4166-8ee9-85d81b9176e8">
             <t pos="V">suse</t>
             <t pos="V">bruse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">sapmat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hviske</t>
          </tg>
       </mg>
    </e>
@@ -27504,12 +27558,56 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e>
+      <lg>
+         <l context="mun" pos="V">hárčet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skreve</t>
+            <xg>
+               <x>Muittán dákkár diidda go: Nissonolmmoš ii galgan hárčet bivdobiergasiid badjel.</x>
+               <xt>Jeg husker en slik overtro: En kvinne skulle ikke skreve over fangstredskaper.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">fiskkodit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gulne</t>
+            <t pos="Phrase">bli gul</t>
+            <xg>
+               <x>Rábastii vuolggedettiin lohkamuššan boares fiskkodan aviissa stohpočiegas.</x>
+               <xt>Da hun dro nappet hun med seg som lesestoff en gammel gulnet avis fra kroken i stua.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">njimmat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sutre</t>
+            <t pos="V">kvine</t>
+            <xg>
+               <x>Lihkus lei dakkár tealtá, ahte eai beassan čuoikkat sisa, olggobealde dušše njimme.</x>
+               <xt>Heldigvis var det et slikt telt at mygg ikke kom inn, utenfor de bare kvinte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg freq="33">
          <l context="mun" pos="V">buvihit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="buvihit b3e9a000-eca6-49a9-af95-fd15494d2691">
-            <re x="fad">drepe ve å stanse lufttilførsel til lungene</re>
+            <re x="fad">drepe ved å stanse lufttilførsel til lungene</re>
             <t pos="V">kvele</t>
          </tg>
       </mg>
@@ -32523,6 +32621,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="jávkadit 816f52af-3e8d-4642-ab82-12b197df1763">
             <t pos="V">fjerne</t>
+            <xg>
+               <x>Guovllan gámaluottaide maid muohta lea jávkadeamen.</x>
+               <xt>Jeg ser på fotsporene som snøen er i ferd med å fjerne.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -37378,6 +37480,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob" tw_id="jorgasit b6ff305f-44cb-46e9-942f-c37ce16680cf">
          <re>av seg selv</re>
             <t pos="V">snu seg</t>
+             <xg>
+               <x>Dilli jorgasii juo 1993 válggain.</x>
+               <xt>Situasjonen snudde seg allerede under valget i 1993.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
