@@ -3220,7 +3220,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="bissehit 8bb37df0-dd90-4f82-952c-0771761cfd30">
-            <re>transitiv</re>
+            <re>transitiv: stoppe noe</re>
             <t pos="V">stoppe</t>
             <xg>
                <x>Mun bissehin dan.</x>
@@ -3434,8 +3434,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <lc>(son) bolddii</lc>
       </lg>
       <mg>
+         <l_ref>buollit_v</l_ref>
          <tg xml:lang="nob" tw_id="boaldit 7eae1012-a94e-42e2-a765-4f80c9e7bf81">
-            <re>transitiv</re>
+            <re>transitiv: brenne noe</re>
             <t pos="V">brenne</t>
             <xg>
                <x>Mun boalddán boares báhpáriid.</x>
@@ -5025,7 +5026,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob" tw_id="deaivvadit f494137e-18e8-4ebc-90a3-32f7768031f4">
-         <re>intransitivt, krever komitativ</re>
+         <re>intransitiv, krever komitativ</re>
             <t pos="V">møte</t>
             <xg>
                <x>Muhtun beaivve deaivvadin ránnjáin jávregáttis.</x>
@@ -14459,10 +14460,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e>
       <lg freq="381">
          <l context="dat" pos="V">ruohttat</l>
-         <l_ref>viehkat_v</l_ref>
          <lc>(dat) ruohtai, ruhttet</lc>
       </lg>
       <mg>
+         <l_ref>viehkat_v</l_ref>
          <tg xml:lang="nob" tw_id="ruohttat 22491dc6-4e45-4ff8-a0aa-d81869605ead">
             <re>om firbeinte dyr</re>
             <t pos="V">løpe</t>
@@ -14922,7 +14923,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="salgat eda15906-152b-4a80-a9ad-a66b87430447">
-            <re>intransitiv, om isbelegg</re>
+            <re>intransitiv: isbelegg tiner</re>
             <t pos="V">tine</t>
             <xg>
                <x>Gáfegievdni salgá.</x>
@@ -15614,6 +15615,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <lc>(dat) sojai</lc>
       </lg>
       <mg>
+         <l_ref>suojahit_v</l_ref>
          <tg xml:lang="nob" tw_id="sodjat f949fc8f-fa12-4544-8057-d59fc171e559">
             <t pos="V">bøye seg</t>
          </tg>
@@ -15895,8 +15897,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <lc>(dat) suttai</lc>
       </lg>
       <mg>
+         <l_ref>suddadit_v</l_ref>
          <tg xml:lang="nob" tw_id="suddat dbbdf6d9-1445-487f-8e40-50ded8d8e1c6">
-            <re>intransitiv</re>
+            <re>intransitiv: noe smelter</re>
             <t pos="V">smelte</t>
             <t pos="V">tine</t>
          </tg>
@@ -16641,10 +16644,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e>
       <lg freq="1332">
          <l context="mun" pos="V">viehkat</l>
-         <l_ref>ruohttat_v</l_ref>
          <lc>(mon) viegan, (sii) vihket</lc>
       </lg>
       <mg>
+         <l_ref>ruohttat_v</l_ref>
          <tg xml:lang="nob" tw_id="viehkat c9b46e38-5508-4391-b372-dbbe71ecb3af">
             <re>om tobeinte</re>
             <t pos="V">løpe</t>
@@ -17938,7 +17941,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čiehkat 59c42d96-6b5a-4776-8de3-725e222400c2">
-         <re>transitivt: gjemme noe</re>
+         <re>transitiv: gjemme noe</re>
             <t pos="V">gjemme</t>
             <xg>
                <x>Sii leat čiehkan silbbaid ja ruđaid eatnamiid sisa.</x>
@@ -18450,9 +18453,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e>
       <lg freq="2679">
          <l context="dat" pos="V">čuohcat</l>
-         <l_ref>čuohcit_v</l_ref>
       </lg>
       <mg>
+         <l_ref>čuohcit_v</l_ref>
          <tg xml:lang="nob" tw_id="čuohcat 29e63c01-39f0-4350-91f8-2adfa4c803c9">
             <t pos="V">påvirke</t>
             <t pos="V">berøre</t>
@@ -18652,11 +18655,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob" tw_id="čuoččastit 4b0d30cd-dcfa-4246-8727-e5df819437df">
-            <re>intransitiv</re>
+            <re>intransitiv: noe stopper</re>
             <t pos="V">stoppe</t>
             <xg>
                <x>Luossa čuoččasta savvoniidda.</x>
-               <xt>Laksen stiller stanser opp i de stilleflytende stykker av elven.</xt>
+               <xt>Laksen stopper opp i de stilleflytende stykker av elven.</xt>
             </xg>
             <xg>
                <x>Lásse čuoččastii muinna háleštit.</x>
@@ -21645,7 +21648,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ruohkastit 39054f86-0d51-438d-8513-66ec63dae678">
-            <re>transitiv</re>
+            <re>transitiv: klø noe</re>
             <t pos="V">klø litt</t>
          </tg>
       </mg>
@@ -21728,7 +21731,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="spiiddistit 4a66e17b-4bac-4cdb-914d-4cc4d1a99f80">
-            <re>intransitiv</re>
+            <re>intransitiv: noe svir</re>
             <t pos="V">svi</t>
          </tg>
       </mg>
@@ -21871,7 +21874,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="vuoššastit 5f1a2179-7f14-4aa5-a088-8983e35c2941">
-            <re>transitiv</re>
+            <re>transitiv: koke noe</re>
             <t pos="V">koke fort</t>
          </tg>
       </mg>
@@ -24081,9 +24084,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="410">
          <l context="mun" pos="V">prioriteret</l>
-         <l_ref>vuoruhit</l_ref>
       </lg>
       <mg>
+         <l_ref>vuoruhit_v</l_ref>
          <tg xml:lang="nob" tw_id="prioriteret 9acb12d0-7b0d-4f1f-95ac-56377bcc476b">
             <t pos="V">prioritere</t>
             <xg>
@@ -27573,6 +27576,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <lc>(dat) bulii, (dat) bullet</lc>
       </lg>
       <mg>
+         <l_ref>boaldit_v</l_ref>
          <tg xml:lang="nob" tw_id="buollit 3b58ea79-19f9-4194-8b9c-1426a0929d73">
             <re x="fad">være i brann</re>
             <t pos="V">brenne</t>
@@ -27816,6 +27820,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <lc>(mon) vuoššan, (sii) vuššet</lc>
       </lg>
       <mg>
+         <l_ref>duoldat_v</l_ref>
          <tg xml:lang="nob" tw_id="vuoššat 227f0d80-ab5e-46e0-9402-e018cb9e7465">
             <t pos="V">koke</t>
             <xg>
@@ -27831,6 +27836,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <lc>(dat) duolddai, duldet</lc>
       </lg>
       <mg>
+         <l_ref>vuoššat_v</l_ref>
          <tg xml:lang="nob" tw_id="duoldat 1ceb3921-ca34-4647-a1c6-9066863f7f3e">
             <t pos="V">koke</t>
             <xg>
@@ -28529,8 +28535,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l context="mun" pos="V">sojahit</l>
       </lg>
       <mg>
+         <l_ref>suodjat_v</l_ref>
          <tg xml:lang="nob" tw_id="sojahit a6c35fb3-d7eb-4f32-9bdd-c7370b41b8fb">
-            <re x="fad">transitiv; bøye noe</re>
+            <re x="fad">transitiv: bøye noe</re>
             <t pos="V">bøye</t>
          </tg>
       </mg>
@@ -28850,8 +28857,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l context="mun" pos="V">suddadit</l>
       </lg>
       <mg>
+         <l_ref>suddat_v</l_ref>
          <tg xml:lang="nob" tw_id="suddadit 5d73f9ff-5175-4d6e-b954-9b34cf8b83de">
-            <re x="fad">transitiv</re>
+            <re x="fad">transitiv: smelte noe</re>
             <t pos="V">smelte</t>
          </tg>
       </mg>
@@ -29170,7 +29178,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="bisihit af082bd0-d10d-4631-9a5e-7accc5ab4f68">
-            <re>intransitiv</re>
+            <re>intransitiv: noe stanser</re>
             <t pos="V">stanse</t>
             <xg>
                <x>Mun bisihin.</x>
@@ -32426,7 +32434,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="šolget 99fb3493-8cfd-4ba3-8d74-97cbb6990497">
-         <re>transitiv</re>
+         <re>transitiv: tine noe</re>
             <t pos="V">tine</t>
             <t pos="V">smelte</t>
          </tg>
@@ -37678,7 +37686,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="imaštahttit b1a71738-3633-42ff-9e08-2d29bd7a7f61">
-         <re>transitivt verb, forundre noen</re>
+         <re>transitiv: forundre noen</re>
             <t pos="V">forundre</t>
          </tg>
       </mg>
@@ -38015,7 +38023,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="njaddit f6ea8c63-216d-444c-82ee-c4dd5af8f5b7">
-         <re>intransitivt: noe smaker</re>
+         <re>intransitiv: noe smaker</re>
             <t pos="V">smake</t>
          </tg>
       </mg>
