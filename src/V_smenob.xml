@@ -27512,16 +27512,22 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob" tw_id="ribahit ba05bc09-708c-4a3f-b64e-aa2ae9c54089">
             <t pos="V">miste</t>
             <xg>
+               <x>Eat berre nuorttas ribahit ealu.</x>
+               <xt>Vi bør ikke miste flokken østover.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>ufrivillig</re>
+            <t pos="Phrase">komme til å gjøre noe</t>
+            <xg>
                <x>Ikte eahkes mun ribahin nohkkat, inge šaddan boahtit.</x>
                <xt>I går kveld falt jeg i søvn og ble derfor ikke å komme.</xt>
             </xg>
             <xg>
                <x>Elle ribahii boagustit girkus.</x>
                <xt>Elle kom til å le i kirka.</xt>
-            </xg>
-            <xg>
-               <x>Eat berre nuorttas ribahit ealu.</x>
-               <xt>Vi bør ikke miste flokken østover.</xt>
             </xg>
          </tg>
       </mg>
@@ -28839,6 +28845,71 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="analyseret 60fd77ca-cb93-41a5-b0ad-6319a6b52864">
             <t pos="V">analysere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">šleaivalit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om lasso</re>
+            <t pos="V">kaste forkjært</t>            
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hugge forkjært</t>            
+            <xg>
+               <x>Niibi sáhttá njalppehit jos ribaha čuohpadettiin šleaivalit go niibi lea bastteheapme.</x>
+               <xt>Kniven kan glippe ut av handa hvis man er uheldig å hogge forkjært når kniven er ukvass.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">njalppehit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>ut av handa</re>
+            <t pos="V">glippe</t>            
+            <xg>
+               <x>Niibi sáhttá njalppehit jos ribaha čuohpadettiin šleaivalit go niibi lea bastteheapme.</x>
+               <xt>Kniven kan glippe ut av handa hvis man er uheldig å hogge forkjært når kniven er ukvass.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">njalppihit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>ut av handa</re>
+            <t pos="V">glippe</t>            
+            <xg>
+               <x>Niibi sáhttá njalppihit jos ribaha čuohpadettiin šleaivalit go niibi lea bastteheapme.</x>
+               <xt>Kniven kan glippe ut av handa hvis man er uheldig å hogge forkjært når kniven er ukvass.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">njoalppihit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>ut av handa</re>
+            <t pos="V">glippe</t>            
+            <xg>
+               <x>Niibi sáhttá njoalppihit jos ribaha čuohpadettiin šleaivalit go niibi lea bastteheapme.</x>
+               <xt>Kniven kan glippe ut av handa hvis man er uheldig å hogge forkjært når kniven er ukvass.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
