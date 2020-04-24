@@ -980,6 +980,26 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <x>Mu oabbá lea sámediggeáirras.</x>
                <xt>Søstera mi er sametingsrepresentant.</xt>
             </xg>
+            <xg>
+               <x>Mun lean 15 jagi boaris.</x>
+               <xt>Jeg er 15 år.</xt>
+            </xg>
+            <xg>
+               <x>Don leat čeahppi.</x>
+               <xt>Du er flink.</xt>
+            </xg>
+            <xg>
+               <x>Dii lehpet čeahpit.</x>
+               <xt>Dere er flinke.</xt>
+            </xg>
+            <xg>
+               <x>Olgun lei galmmas.</x>
+               <xt>Det var kaldt ute.</xt>
+            </xg>
+            <xg>
+               <x>Mii leat Danmárkkus luomus.</x>
+               <xt>Vi er i Danmark på ferie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -989,6 +1009,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
                <x>Mus lea beana.</x>
                <xt>Jeg har en hund.</xt>
             </xg>
+            <xg>
+               <x>Ánnes leat golbma máná.</x>
+               <xt>Anne har tre barn.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -997,6 +1021,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <xg>
                <x>Mun lean oastán biilla.</x>
                <xt>Jeg har kjøpt bil.</xt>
+            </xg>
+            <xg>
+               <x>Sii ledje oađđán guhká.</x>
+               <xt>De hadde sovet lenge.</xt>
+            </xg>
+            <xg>
+               <x>Ánte ja Sárá leaba boradeame.</x>
+               <xt>Ánte og Sárá holder på å spise.</xt>
             </xg>
             <xg>
                <x>It go oainne ahte lean lohkame?</x>
@@ -31413,37 +31445,39 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <lc>(dat) cevzzii</lc>
       </lg>
       <mg>
-         <tg xml:lang="nob" tw_id="ceavzit f511e983-d827-430d-89c7-da7b32ce38d3">
-            <t pos="V">holde seg</t>
-            <t pos="V">klare seg</t>
+         <tg xml:lang="nob" tw_id="ceavzit 6fb6211d-7d51-4e75-a14b-61d212726434">
+            <t pos="V">overleve</t>
             <xg>
-               <x>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámena.</x>
-               <xt>Ánte sa med et smil om munnen at han har bestått eksamen.</xt>
+               <x>Bohccot cevze goavvedálvvi badjel.</x>
+               <xt>Reinsdyrene overlevde nødvinteren.</xt>
             </xg>
          </tg>
       </mg>
       <mg x="fad">
          <tg xml:lang="nob" tw_id="ceavzit 418d23db-15cc-4a5a-bf1e-77c08ac2dbc2">
-            <re>klare</re>
             <t pos="V">bestå</t>
+            <xg>
+               <x>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámenis.</x>
+               <xt>Ánte sa med et smil om munnen at han har bestått eksamen.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob" tw_id="ceavzit 6fb6211d-7d51-4e75-a14b-61d212726434">
-            <re>overleve</re>
-            <t pos="V">bestå</t>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">holde ut</t>
+            <xg>
+               <x>Áne lea ceavzán váivves diliid.</x>
+               <xt>Ane har holdt ut de vonde periodene.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg x="fad">
-         <tg xml:lang="nob" tw_id="ceavzit 7d46e484-020c-4670-a828-31ea8ae4cbd3">
-            <re>bestå, overleve</re>
-            <t pos="V">holde seg</t>
-         </tg>
-      </mg>
-      <mg x="fad">
-         <tg xml:lang="nob" tw_id="ceavzit 13a93a72-4394-472d-b643-dcc5f3c4ff9f">
-            <re>slippe fra det med livet</re>
-            <t pos="V">overleve</t>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">klare seg</t>
+            <xg>
+               <x>Sii navdet iežaset ceavzit bures.</x>
+               <xt>De tror at de klarer seg bra.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
