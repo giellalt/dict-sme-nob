@@ -24,6 +24,149 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e>
       <lg>
+         <l context="mun" pos="V">árvvohuvvat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli verdiløs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">álmmehuvvat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om mat og drikke</re>
+            <t pos="Phrase">bli kraftløs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">vuostáiváldit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">motta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">vuoimmehuvvat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om mennesker og dyr</re>
+            <t pos="Phrase">bli kraftløs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">rássat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">purre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">mohkkasit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">svinge seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">lossut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli tyngre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">jurddašallat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tenke</t>
+            <t pos="Phrase">lure på</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">hervvošit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">beundre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">doneret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">donere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">bárdit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">riste</t>
+            <xg>
+               <x>Oahppi bárddii oaivvi, ii son diehtán mii elliid dat lei.</x>
+               <xt>Eleven ristet på hodet for hun visste ikke hvilket dyr det var.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">čoaskudit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>kjøle ned</re>
+            <t pos="V">kjøle</t>
+            <t pos="V">avkjøle</t>
+            <xg>
+               <x>Nuortebiekkat ledje johtilit čoaskudan davimus Sámi.</x>
+               <xt>Vindene fra øst hadde raskt kjølt ned den nordligste delen av Sameland.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">harccastit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kvele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l context="mun" pos="V">šolgat</l>
       </lg>
       <mg>
@@ -9387,7 +9530,18 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e>
-      <lg freq="0">
+      <lg>
+         <l context="mun" pos="V">heajastallaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">holde et selskap</t>
+            <t pos="V">holde bryllup</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg freq="0">
          <l context="mun" pos="V">heajastaddat</l>
          <lc>-tattai</lc>
       </lg>
