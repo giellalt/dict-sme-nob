@@ -1,0 +1,65 @@
+tre stem:
+stem="2syll"
+stem="3syll"
+stem="Csyll"
+
+liste for å legge til info om stemtype også til propernons, vær obs på at leksikonnavnet etterfølges av f.eks. -plc, -mal
+info hentes fra kontinuasjonsleksikonene i
+lang-sme/src/fst/stems/sme-propernouns.lexc og giella-shared/smi/src/fst/stemssmi-propernouns.lexc
+
+
+f.eks.
+jáhkka+Sem/Clth:jáhkka GOAHTI-A ;
+
+===>       <l pos="N" stem="2syll">jáhkka</l>
+
+
+
+stem="2syll"
+ACCRA
+ALBMOTMUSEA
+ALEUHTAT
+ANGELIT
+BALAK
+BERN
+C-FI-NEN 
+DUBAI 
+GIRUNA
+GOAHTI
+HAWAII
+HEANDARAT
+HEIM
+LANDA 
+MALAWI
+MARJA
+NIEMI
+NIKOSIIJA 
+NYSTØ
+OY
+PIPPI
+SARAK
+SIJTE
+SKANIK
+SUND
+SUOPMA
+VARGGAT
+MAKIs
+
+stem="3syll"
+LONDON
+DUORTNUS
+CAVKKUS
+ANAR
+EATNAMAT
+ADJAGAT 
+RONDANE
+JOKULL
+
+stem="Csyll"
+GUOLBBA
+GEAVNNIS
+SULLOT
+LASSAT
+DAVVISUOLU 
+
+
