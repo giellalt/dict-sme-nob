@@ -24,12 +24,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e>
       <lg>
-         <l pos="A">Der/Comp</l>
+         <l pos="A">Der/Comp</l> 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t type="expl">mer X</t>
-            <morph_expl>ordavledning: komparativ</morph_expl>
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/adjektiver.nob.html#Komparering">ordavledning: komparativ</t>
+            <morph_expl>mer X</morph_expl>
          </tg>
       </mg>
    </e>
@@ -39,8 +39,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t type="expl">mest X</t> 
-            <morph_expl>ordavledning: superlativ</morph_expl>
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/adjektiver.nob.html#Komparering">ordavledning: superlativ</t>
+            <morph_expl>mest X</morph_expl>
          </tg>
       </mg>
    </e>
@@ -84,8 +84,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
  <!--           <t type="expl">passivform av verbet</t>   muitaluvvot borrojuvvot -->
-            <t type="grammar" href="http://oahpa.no/sme/gramm/syntaks.nob.html#Passive+setninger">passivform av verbet</t>
-            <morph_expl>ordavledning: –uvvot</morph_expl>
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-%28j%29uvvot">ordavledning: –uvvot</t>
+            <morph_expl>passivform av verbet: bli X</morph_expl>
          </tg>
       </mg>
    </e>
@@ -95,8 +95,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t type="grammar" href="http://oahpa.no/sme/gramm/syntaks.nob.html#Passive+setninger">kort passivform av verbet</t>
-            <morph_expl>ordavledning: –ot</morph_expl>
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-ot">ordavledning: –ot</t>
+            <morph_expl>kort passivform av verbet</morph_expl>
          </tg>
       </mg>
    </e>
@@ -262,8 +262,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t type="expl">være så uheldig å bli</t>
-            <morph_expl>ordavledning: -hallat (passiv)</morph_expl>
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/adjektiver.nob.html#-hallat%2F-haddat">ordavledning: -hallat (passiv)</t>
+            <morph_expl>være så uheldig å bli</morph_expl>
          </tg>
       </mg>
    </e>
@@ -512,7 +512,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.html#Vearbaabessiiva">verbabessiv</t>
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Verbabessiv">verbabessiv</t>
             <morph_expl>uten å gjøre X</morph_expl>
          </tg>
       </mg>
@@ -523,8 +523,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t type="expl">måten å gjøre noe på</t>
-            <morph_expl>verbgenitiv</morph_expl>
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Verbgenitiv">verbgenitiv</t>
+            <morph_expl>måten å gjøre noe på</morph_expl>
          </tg>
       </mg>
    </e>
@@ -533,31 +533,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l pos="N">Ger</l> <!-- viegadettiin -->
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t type="expl">mens man X</t>
-            <morph_expl>gerundium</morph_expl>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">Comp</l> <!-- čeahpit -->
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t type="expl">mer X</t>
-            <morph_expl>komparativ -t</morph_expl>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">Superl</l> <!-- čeahpimus -->
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t type="expl">mest X</t>
-            <morph_expl>superlativ -mus</morph_expl>
+         <tg xml:lang="nob"> 
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Gerundium">gerundium</t>
+            <morph_expl>mens man X</morph_expl>
          </tg>
       </mg>
    </e>
