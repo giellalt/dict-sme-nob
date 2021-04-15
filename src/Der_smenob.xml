@@ -484,7 +484,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">Der/vuota</l> <!-- ráhkesvuohta ráhkis+A+Attr+Der/vuota+N+Sg+Nom -->
+         <l pos="A">Der/vuota</l> <!-- ráhkesvuohta fráhkis+A+Attr+Der/vuota+N+Sg+Nom -->
 
       </lg>
       <mg>
@@ -547,6 +547,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="nob"> 
             <t type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+lokativ">aktio lokativ</t>
             <morph_expl>om handlingen</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Actio+Ess</l> <!-- diehtimin -->
+      </lg>
+      <mg>
+         <tg xml:lang="nob"> 
+            <t type="expl">om en uavsluttet handling</t>
+            <morph_expl>aktio essiv</morph_expl>
          </tg>
       </mg>
    </e>
