@@ -24,7 +24,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e>
       <lg>
-         <l context="mun" pos="V">árvvohuvvat</l>
+         <l context="mun" pos="V">nealgut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sulte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">árvvohuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -34,7 +44,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">álmmehuvvat</l>
+         <l context="dat" pos="V">álmmehuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -76,7 +86,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">mohkkasit</l>
+         <l context="dat" pos="V">mohkkasit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -167,7 +177,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">šolgat</l>
+         <l context="dat" pos="V">šolgat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -201,7 +211,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">šolggadit</l>
+         <l context="dat" pos="V">šolggadit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -223,7 +233,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">šolggiidit</l>
+         <l context="dat" pos="V">šolggiidit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -234,7 +244,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="490">
-         <l context="mun" pos="V">suddat</l>
+         <l context="dat" pos="V">suddat</l>
          <lc>(dat) suttai</lc>
       </lg>
       <mg>
@@ -351,7 +361,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">sáhpodit</l>
+         <l context="dat" pos="V">sáhpodit</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="sáhpodit 13d3a794-bfb6-4cf8-aa1c-46c5820dba2e">
@@ -35135,7 +35145,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="báikut e55b2849-22a8-4965-80fe-6c6020b49597">
-            <t pos="V">røske litt reinlav</t>
+            <t pos="Phrase">røske litt reinlav</t>
          </tg>
       </mg>
    </e>
@@ -35144,8 +35154,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l context="mun" pos="V">báitot</l>
       </lg>
       <mg>
+         <tg xml:lang="nob">
+            <t pos="V">falmes</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="nob" tw_id="báitot d43c3e24-43fe-4522-b8f3-4b82148712cd">
-            <t pos="V">gå i offside</t>
+	         <re>om fotball</re>
+            <t pos="Phrase">gå i offside</t>
          </tg>
       </mg>
    </e>
@@ -35166,13 +35182,13 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="davrat 54793b90-d367-4025-8fca-2c625eb27b8c">
          <re>om skinn</re>
-            <t pos="V">bli stiv og skrukket</t>
+            <t pos="Phrase">bli stiv og skrukket</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob" tw_id="davrat 2915985c-7881-4578-a03f-9fc452356a5a">
          <re>om fisk</re>
-            <t pos="V">krølle seg i gryta</t>
+            <t pos="Phrase">krølle seg i gryta</t>
          </tg>
       </mg>
    </e>
@@ -35182,7 +35198,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="deaimmáskit 1d1e848a-2460-4c64-add3-210c7aecc678">
-            <t pos="V">svime av</t>
+            <t pos="Phrase">svime av</t>
          </tg>
       </mg>
    </e>
@@ -35232,7 +35248,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="duorbalit 912eb344-7a1d-4645-bc12-684618a8350b">
-            <t pos="V">plaske kraftig</t>
+            <t pos="Phrase">plaske kraftig</t>
          </tg>
       </mg>
    </e>
@@ -35272,7 +35288,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="fierpmástuvvat 2652a5f8-9cfb-4db2-916c-d548e132c24d">
-            <t pos="V">få skrekk i seg for fiskegarn</t>
+            <t pos="Phrase">få skrekk i seg for fiskegarn</t>
          </tg>
       </mg>
    </e>
@@ -35292,7 +35308,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="fávlánit 974791a2-bd25-4394-b143-90e95e3ea8fd">
-            <t pos="V">gå ut på dypere vann</t>
+            <t pos="Phrase">gå ut på dypere vann</t>
          </tg>
       </mg>
    </e>
@@ -35312,7 +35328,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="geahpadit edca88df-2040-4180-969d-f0c6b55e9fc7">
-            <t pos="V">sette tråd i garnnål</t>
+            <t pos="Phrase">sette tråd i garnnål</t>
          </tg>
       </mg>
    </e>
@@ -35322,7 +35338,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="geallit c1638b41-13e1-411e-8e64-46f6d343aee1">
-            <t pos="V">dra not med notspill</t>
+            <t pos="Phrase">dra not med notspill</t>
          </tg>
       </mg>
    </e>
@@ -35332,7 +35348,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="geavvadit 940ac1d3-4be0-4919-9597-2ca5334b050a">
-            <t pos="V">la heve</t>
+            <t pos="Phrase">la heve</t>
          </tg>
       </mg>
    </e>
@@ -35372,7 +35388,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="girdnut b53a0e97-0720-47e2-9936-8a7a2c9fc767">
-            <t pos="V">kjerne smør</t>
+            <t pos="Phrase">kjerne smør</t>
          </tg>
       </mg>
    </e>
@@ -35382,7 +35398,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="goalvát 5d0d85dd-824b-42f2-9a20-95b177ac5ef5">
-            <t pos="V">ligge hvelvet</t>
+            <t pos="Phrase">ligge hvelvet</t>
          </tg>
       </mg>
    </e>
@@ -35392,7 +35408,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="goarvanit 7ac28d31-aed1-4cab-a61b-c58531296c21">
-            <t pos="V">få posefasong</t>
+            <t pos="Phrase">få posefasong</t>
          </tg>
       </mg>
    </e>
@@ -35402,7 +35418,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="govdet db84df90-1945-418a-b6a0-8c11bb1b35b6">
-            <t pos="V">stige til overflaten</t>
+            <t pos="Phrase">stige til overflaten</t>
          </tg>
       </mg>
    </e>
@@ -35432,7 +35448,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="hehppet 348b55c7-53f5-4a84-aa98-d2af14e0a199">
-            <t pos="V">skjemme ut</t>
+            <t pos="Phrase">skjemme ut</t>
          </tg>
       </mg>
    </e>
@@ -35442,7 +35458,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="hivllášit 5355f07e-6cdc-41be-b218-c0939da2c45d">
-            <t pos="V">synes å være for tynn</t>
+            <t pos="Phrase">synes å være for tynn</t>
          </tg>
       </mg>
    </e>
@@ -35452,7 +35468,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="hálbbidit 312372ee-560d-4631-8916-132ecac00631">
-            <t pos="V">senke prisen</t>
+            <t pos="Phrase">senke prisen</t>
          </tg>
       </mg>
    </e>
@@ -35516,7 +35532,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="luovdádit 47e788f0-7f0d-4918-ab99-d936d456c741">
-            <t pos="V">sette flåer på garn eller not</t>
+            <t pos="Phrase">sette flåer på garn eller not</t>
          </tg>
       </mg>
    </e>
@@ -35536,7 +35552,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="lássahuvvat 9c9605e0-7c53-48c4-80b3-775120de43ed">
-            <t pos="V">blokkere seg</t>
+            <t pos="Phrase">blokkere seg</t>
          </tg>
       </mg>
    </e>
@@ -35546,7 +35562,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="mearddástallat 5b77c44a-eacf-4b4b-80e3-e985dd67fba0">
-            <t pos="V">fange fisk med ruse</t>
+            <t pos="Phrase">fange fisk med ruse</t>
          </tg>
       </mg>
    </e>
@@ -35556,7 +35572,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="nirvvonárvvohallat 37adb8ec-776e-4d29-8dd2-00bc83985633">
-            <t pos="V">lage grimaser</t>
+            <t pos="Phrase">lage grimaser</t>
          </tg>
       </mg>
    </e>
@@ -35586,7 +35602,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="noastit ebc6ffdf-3e32-40d1-ace5-233e4e1d8ff3">
-            <t pos="V">trekke not på land</t>
+            <t pos="Phrase">trekke not på land</t>
          </tg>
       </mg>
    </e>
@@ -35596,7 +35612,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="návlet 5d094afe-9223-4b03-af8c-a116138e07e7">
-            <t pos="V">slå påler</t>
+            <t pos="Phrase">slå påler</t>
          </tg>
       </mg>
    </e>
@@ -35626,7 +35642,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="oastalit 9691ebf7-26fb-4aff-baea-8262046fbe8b">
-            <t pos="V">ville kjøpe</t>
+            <t pos="Phrase">ville kjøpe</t>
          </tg>
       </mg>
       <mg>
@@ -35641,7 +35657,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="oazistit 541389e1-ffca-4eed-9a37-21ee0dd8e640">
-            <t pos="V">sette stengsel</t>
+            <t pos="Phrase">sette stengsel</t>
          </tg>
       </mg>
    </e>
@@ -35671,7 +35687,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob" tw_id="riškalit b37b0fdc-43ff-4f55-b0a5-99f71d32eddb">
-            <t pos="V">yte et lite bidrag</t>
+            <t pos="Phrase">yte et lite bidrag</t>
          </tg>
       </mg>
    </e>
@@ -35681,8 +35697,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ruđahuvvat 9908f3eb-9fee-401a-9067-7a788cc3e932">
-            <t pos="V">komme i likviditetsvansker</t>
-            <t pos="V">bli uten penger</t>
+            <t pos="Phrase">komme i likviditetsvansker</t>
+            <t pos="Phrase">bli uten penger</t>
          </tg>
       </mg>
    </e>
@@ -35692,7 +35708,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="suhpodit 73c77235-1c1c-4155-bbfa-3f51564ac9a6">
-            <t pos="V">sette ut drivgarn</t>
+            <t pos="Phrase">sette ut drivgarn</t>
          </tg>
       </mg>
    </e>
@@ -35702,7 +35718,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="suitit 4f2af439-9486-41ff-9d0f-1d80089c683d">
-            <t pos="V">ha råd til</t>
+            <t pos="Phrase">ha råd til</t>
          </tg>
       </mg>
    </e>
@@ -35712,7 +35728,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="suvlet 7af7d81b-e217-4896-b2ff-0e7b3046073d">
-            <t pos="V">gi smak til mat</t>
+            <t pos="Phrase">gi smak til mat</t>
          </tg>
       </mg>
    </e>
@@ -35722,7 +35738,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="ábbut 41983ad0-05c3-43e4-b1ef-b3431956c8db">
-            <t pos="V">koke over</t>
+            <t pos="Phrase">koke over</t>
          </tg>
       </mg>
    </e>
@@ -35742,7 +35758,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="áššečuoččáldahttit 4b9b0186-e984-475d-a559-6b18d69ee2b8">
-            <t pos="V">reise søksmål</t>
+            <t pos="Phrase">reise søksmål</t>
          </tg>
       </mg>
    </e>
@@ -35762,7 +35778,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čoalluladdat 2e7fda12-6752-4aba-a9dc-2c4d3e9fa9cb">
-            <t pos="V">sløye mye fisk</t>
+            <t pos="Phrase">sløye mye fisk</t>
          </tg>
       </mg>
    </e>
@@ -35782,7 +35798,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čoaltašuvvat 358bfb5f-b03b-444a-802d-905dfe9c4202">
-            <t pos="V">klumpe seg</t>
+            <t pos="Phrase">klumpe seg</t>
          </tg>
       </mg>
    </e>
@@ -35792,7 +35808,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čuoibmulit ec66f41f-326e-4b0f-b60f-cdfc080d468f">
-            <t pos="V">stake av sted</t>
+            <t pos="Phrase">stake av sted</t>
          </tg>
       </mg>
    </e>
