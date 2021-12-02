@@ -17379,14 +17379,28 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <l context="olmmoš" pos="A">ovttaskas</l>
          <lc>-kasat, -kassii</lc>
       </lg>
-      <mg>
-         <tg xml:lang="nob" tw_id="ovttaskas aa8a829d-67a2-4e02-9dd7-e89343ca1f67">
-            <t pos="A">enslig</t>
-         </tg>
-      </mg>
       <mg src="fad">
          <tg xml:lang="nob" tw_id="ovttaskas 78a4fb0d-afbb-4102-a7e5-d2c7b644d8f6">
-            <t pos="A">enkelt</t>
+            <t pos="A">enkel</t>
+            <xg>
+               <x>Johansen ii sáhte ovttaskas áššiid kommenteret.</x>
+               <xt>Johansen kan ikke kommentere enkeltsaker.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">individuell</t>
+            <xg>
+               <x>Sámi mánát ožžo ovttaskas vuoigatvuođa oahppat sihke iežaset giela ja iežaset gillii.</x>
+               <xt>Samiske barn får individuell rettighet til å lære både sitt eget språk og på sitt eget språk.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg> 
+         <tg xml:lang="nob" tw_id="ovttaskas aa8a829d-67a2-4e02-9dd7-e89343ca1f67">
+            <t pos="A">enslig</t>
+            <t pos="A">singel</t>
          </tg>
       </mg>
    </e>
