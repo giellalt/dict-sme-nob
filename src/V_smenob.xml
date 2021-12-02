@@ -21,7 +21,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote></lics>
+     </sourcenote></lics> 
      <e>
       <lg>
          <l context="mun" pos="V">geaidut</l>
@@ -34,10 +34,37 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
+         <l context="mun" pos="V">čogodit</l>
+            <xg>
+               <x>Áhkku čogodii.</x>
+               <xt>Bestemor kjemmet seg.</xt>
+            </xg>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">kjemme seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">nealgudit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>transitivt, om å sulte noen</re>
+            <t pos="V">sulte</t>
+            <t pos="V">sultefore</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l context="mun" pos="V">nealgut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>intransitivt, noen sulter</re>
             <t pos="V">sulte</t>
          </tg>
       </mg>
@@ -3085,6 +3112,17 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="bassat d5bf2e9c-5229-44db-a0ba-aeb0da859e37">
             <t pos="V">vaske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">biđđit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>om å steike litt i panna</re>
+            <t pos="V">steike</t>
          </tg>
       </mg>
    </e>
