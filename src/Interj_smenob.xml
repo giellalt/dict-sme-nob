@@ -24,11 +24,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e>
       <lg freq="0">
-         <l pos="Interj">buorre beaivi</l>
+         <l pos="Phrase">buorre beaivi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Interj">god dag</t>
+            <t pos="Phrase">god dag</t>
             <xg>
                <x>Buorre beaivi, rávkkai Ovllá. Ipmel atti, vástidii Elle.</x>
                <xt>God dag, hilste Ovllá. God dag, svarte Elle.</xt>
@@ -38,11 +38,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Interj">buorre iđit</l>
+         <l pos="Phrase">buorre iđit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Interj">god morgen</t>
+            <t pos="Phrase">god morgen</t>
             <xg>
                <x>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</x>
                <xt>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</xt>
@@ -52,11 +52,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Interj">buorre eahket</l>
+         <l pos="Phrase">buorre eahket</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Interj">god kveld</t>
+            <t pos="Phrase">god kveld</t>
             <xg>
                <x>Buorre eahket, logai Risten kurssa oasseváldiide. Ipmel atti, vástidedje sii.</x>
                <xt>God kveld, sa Risten til kursdeltakerne. God kveld, svarte de.</xt>
@@ -66,22 +66,22 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Interj">buorre idja</l>
+         <l pos="Phrase">buorre idja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Interj">god natt</t>
+            <t pos="Phrase">god natt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg freq="0">
-         <l pos="Interj">ipmel atti</l>
+         <l pos="Phrase">ipmel atti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <re>som svar på hilsningene buorre iđit, buorre beaivi, buorre eahket</re>
-            <t pos="Interj">gud ga</t>
+            <t pos="Phrase">gud ga</t>
             <xg>
                <x>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</x>
                <xt>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</xt>
@@ -99,12 +99,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="Interj">vuoi ihán</l>
+         <l pos="Phrase">vuoi ihán</l>
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="vuoi ihán 1979795f-dd4f-4359-af71-9a45ef31791a">
             <t pos="Interj">oi</t>
-            <t pos="Interj">å dæven</t>
+            <t pos="Phrase">å dæven</t>
             <xg>
                <x>Vuoi ihán, don leat čeahppi.</x>
                <xt>Oi, så flink du er.</xt>
@@ -138,9 +138,24 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob" tw_id="bures 24c817b1-95f4-458e-8841-81c794c39288">
             <re>når man handhilser</re>
-            <t pos="Adv">god dag</t>
+            <t pos="Phrase">god dag</t>
             <xg>
                <x>Bures!</x>
+               <xt>God dag!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">bures bures</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>når man handhilser, som svar</re>
+            <t pos="Phrase">god dag</t>
+            <xg>
+               <x>Bures bures!</x>
                <xt>God dag!</xt>
             </xg>
          </tg>
