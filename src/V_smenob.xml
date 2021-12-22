@@ -24,6 +24,21 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
      <e>
       <lg>
+         <l context="mun" pos="V">čáhkadit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>transitiv</re>
+            <t pos="Phrase">ordne plass til</t>
+            <xg>
+               <x>Hástalus lea buot dáidagiid čáhkadit go mis lea unnán sadji.</x>
+               <xt>Utfordringa er å ordne plass til alle kunstverkene når vi har så liten plass.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+     <e>
+      <lg>
          <l context="mun" pos="V">geaidut</l>
       </lg>
       <mg>
@@ -19267,7 +19282,12 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob" tw_id="čáhkat 960a9f2c-9762-48b7-93bf-d06d7141aad1">
-            <t pos="V">få plass</t>
+	         <re>intransitiv</re>
+            <t pos="Phrase">få plass</t>
+            <xg>
+               <x>Gilivissui čáhket 100 olbmo.</x>
+               <xt>I bygdehuset er det plass til 100 personer.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
