@@ -1,18 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+    <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno and Divvun at UiT,
+For the full license text, see the link above.</lic>
+    <ref>Work by Nils Jernsletten, Giellatekno and Divvun at UiT,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+    <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -21,198 +23,204 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote></lics>
-   <e>
-      <lg freq="0">
-         <l pos="Phrase">buorre beaivi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">god dag</t>
-            <xg>
-               <x>Buorre beaivi, rávkkai Ovllá. Ipmel atti, vástidii Elle.</x>
-               <xt>God dag, hilste Ovllá. God dag, svarte Elle.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="Phrase">buorre iđit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">god morgen</t>
-            <xg>
-               <x>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</x>
-               <xt>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="Phrase">buorre eahket</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">god kveld</t>
-            <xg>
-               <x>Buorre eahket, logai Risten kurssa oasseváldiide. Ipmel atti, vástidedje sii.</x>
-               <xt>God kveld, sa Risten til kursdeltakerne. God kveld, svarte de.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="Phrase">buorre idja</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">god natt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="Phrase">ipmel atti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>som svar på hilsningene buorre iđit, buorre beaivi, buorre eahket</re>
-            <t pos="Phrase">gud ga</t>
-            <xg>
-               <x>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</x>
-               <xt>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</xt>
-            </xg>
-            <xg>
-               <x>Buorre beaivi, rávkkai Ovllá. Ipmel atti, vástidii Elle.</x>
-               <xt>God dag, hilste Ovllá. God dag, svarte Elle.</xt>
-            </xg>
-            <xg>
-               <x>Buorre eahket, logai Risten kurssa oasseváldiide. Ipmel atti, vástidedje sii.</x>
-               <xt>God kveld, sa Risten til kursdeltakerne. God kveld, svarte de.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="Phrase">vuoi ihán</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Interj">oi</t>
-            <t pos="Phrase">å dæven</t>
-            <xg>
-               <x>Vuoi ihán, don leat čeahppi.</x>
-               <xt>Oi, så flink du er.</xt>
-            </xg>
-            <xg>
-               <x>Vuoi ihán, dáppe lea moivvas.</x>
-               <xt>Å dæven, det er rotete her.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="159">
-         <l pos="Interj">a-a</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>uttrykk for at en nekter, avviser eller protesterer mot noe</re>
-            <t pos="Interj">nei</t>
-            <xg>
-               <x>A-a, dan in háliit.</x>
-               <xt>Nei, det vil jeg ikke.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="84">
-         <l pos="Interj">bures</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>når man handhilser</re>
-            <t pos="Phrase">god dag</t>
-            <xg>
-               <x>Bures!</x>
-               <xt>God dag!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bures bures</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>når man handhilser, som svar</re>
-            <t pos="Phrase">god dag</t>
-            <xg>
-               <x>Bures bures!</x>
-               <xt>God dag!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="239">
-         <l pos="Interj">já</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Interj">jasså</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="32">
-         <l pos="Interj">dearvva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Interj">hei</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="459">
-         <l pos="Interj">gea</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">se</t>
-            <xg>
-               <x>Gea, beana skierbmu!</x>
-               <xt>Se, hunden halter!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="2371">
-         <l pos="Interj">vuoi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Interj">akk</t>
-            <t pos="Interj">å</t>
-            <xg>
-               <x>Vuoi, go lea váivi.</x>
-               <xt>Å akk, hvor trist det er.</xt>
-            </xg>
-            <xg>
-               <x>Vuoi, man somá go soamis mus maid ballá.</x>
-               <xt>Å, så artig at noen er redd for meg også.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
+     </sourcenote>
+  </lics>
+  <e>
+    <lg freq="0">
+      <l pos="Phrase">buorre beaivi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">god dag</t>
+        <xg>
+          <x>Buorre beaivi, rávkkai Ovllá. Ipmel atti, vástidii Elle.</x>
+          <xt>God dag, hilste Ovllá. God dag, svarte Elle.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="Phrase">buorre iđit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">god morgen</t>
+        <xg>
+          <x>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</x>
+          <xt>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="Phrase">buorre eahket</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">god kveld</t>
+        <xg>
+          <x>Buorre eahket, logai Risten kurssa oasseváldiide. Ipmel atti, vástidedje sii.</x>
+          <xt>God kveld, sa Risten til kursdeltakerne. God kveld, svarte de.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="Phrase">buorre idja</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">god natt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="Phrase">ipmel atti</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>som svar på hilsningene buorre iđit, buorre beaivi, buorre eahket</re>
+        <t pos="Phrase">gud ga</t>
+        <xg>
+          <x>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</x>
+          <xt>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</xt>
+        </xg>
+        <xg>
+          <x>Buorre beaivi, rávkkai Ovllá. Ipmel atti, vástidii Elle.</x>
+          <xt>God dag, hilste Ovllá. God dag, svarte Elle.</xt>
+        </xg>
+        <xg>
+          <x>Buorre eahket, logai Risten kurssa oasseváldiide. Ipmel atti, vástidedje sii.</x>
+          <xt>God kveld, sa Risten til kursdeltakerne. God kveld, svarte de.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="Phrase">vuoi ihán</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Interj">oi</t>
+        <t pos="Phrase">å dæven</t>
+        <xg>
+          <x>Vuoi ihán, don leat čeahppi.</x>
+          <xt>Oi, så flink du er.</xt>
+        </xg>
+        <xg>
+          <x>Vuoi ihán, dáppe lea moivvas.</x>
+          <xt>Å dæven, det er rotete her.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="159">
+      <l pos="Interj">a-a</l>
+      <algu lekseemi_id="24398" sanue_id="9129"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>uttrykk for at en nekter, avviser eller protesterer mot noe</re>
+        <t pos="Interj">nei</t>
+        <xg>
+          <x>A-a, dan in háliit.</x>
+          <xt>Nei, det vil jeg ikke.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="84">
+      <l pos="Interj">bures</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>når man handhilser</re>
+        <t pos="Phrase">god dag</t>
+        <xg>
+          <x>Bures!</x>
+          <xt>God dag!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Phrase">bures bures</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>når man handhilser, som svar</re>
+        <t pos="Phrase">god dag</t>
+        <xg>
+          <x>Bures bures!</x>
+          <xt>God dag!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="239">
+      <l pos="Interj">já</l>
+      <algu lekseemi_id="31375" sanue_id="11588"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Interj">jasså</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="32">
+      <l pos="Interj">dearvva</l>
+      <algu lekseemi_id="22720" sanue_id="47071"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Interj">hei</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="459">
+      <l pos="Interj">gea</l>
+      <algu lekseemi_id="29855" sanue_id="66313"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">se</t>
+        <xg>
+          <x>Gea, beana skierbmu!</x>
+          <xt>Se, hunden halter!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="2371">
+      <l pos="Interj">vuoi</l>
+      <algu lekseemi_id="16575" sanue_id="6375"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Interj">akk</t>
+        <t pos="Interj">å</t>
+        <xg>
+          <x>Vuoi, go lea váivi.</x>
+          <xt>Å akk, hvor trist det er.</xt>
+        </xg>
+        <xg>
+          <x>Vuoi, man somá go soamis mus maid ballá.</x>
+          <xt>Å, så artig at noen er redd for meg også.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>
