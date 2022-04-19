@@ -27,12 +27,27 @@ For the full license text, see the link above.</lic>
   </lics>
   <e>
     <lg>
+      <l pos="Pcle">dat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t type="expl">for framheving</t>
+        <xg>
+          <x>Dievasčoahkkin dat mearrida bušeahta.</x>
+          <xt>Det er plenumsmøtet som bestemmer budsjettet.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="Pcle">son</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">mon tro</t>
-        <xg>
+		<t type="grammarexpl" href="http://oahpa.no/sme/gramm/partikler.nob.html">Les om partikler</t>
+		<xg>
           <x>Maid son Issát jurddaša?</x>
           <xt>Mon tro hva Issát tenker?</xt>
         </xg>
@@ -78,6 +93,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Phrase">få se</t>
         <t pos="Phrase">kom an</t>
+		<t type="grammarexpl" href="http://oahpa.no/sme/gramm/partikler.nob.html">Les om partikler</t>
         <xg>
           <x>Hás it njuike fárrui!</x>
           <xt>Få se om du blir med!</xt>
