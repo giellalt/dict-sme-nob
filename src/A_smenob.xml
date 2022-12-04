@@ -292,6 +292,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+        <t pos="A">aggressiv</t>
         <t pos="A">fiendtlig</t>
         <xg>
           <x>Geahčastagat orrot vašánat.</x>
@@ -5181,6 +5182,17 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+   <e>
+      <lg freq="11">
+         <l pos="A">njáigu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">blyg</t>
+            <t pos="A">sjenert</t>
+         </tg>
+      </mg>
+   </e>
   <e>
     <lg freq="39">
       <l context="olmmoš" pos="A">umáhttu</l>
@@ -5816,6 +5828,16 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="A">uforsiktig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">várrogas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">forsiktig</t>
       </tg>
     </mg>
   </e>
