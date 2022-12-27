@@ -1514,6 +1514,27 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="17">
+      <l context="dat" pos="V">fiskát</l>
+      <algu lekseemi_id="23253" sanue_id="7936"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">se gul ut</t>
+        <t pos="Phrase">lyse gul</t>
+        <xg>
+          <x>Soahkeovssiin urbbit fiskájedje beaivebáitagis.</x>
+          <xt>På bjørkas greiner lyste skuddene gule i solskinnet.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli gul</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="17">
       <l context="dat" pos="V">vielgát</l>
     </lg>
     <mg>
@@ -8513,6 +8534,48 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="dat" pos="V">goaikkehit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>en gang</re>
+        <t pos="V">dryppe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">šnjoaraidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+            <re>lenge</re>
+        <t pos="V">risle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">šnjoarrat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">risle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">njartat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli gjennomvåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="45">
       <l context="dat" pos="V">goaikut</l>
       <lc>goaikkui, goikot</lc>
@@ -14485,6 +14548,43 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">nyte</t>
         <t pos="V">smake</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="68">
+      <l context="mun" pos="V">náđustit</l>
+      <algu lekseemi_id="20" sanue_id="43000"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">krype sammen fort</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">báŋádit</l>
+      <algu lekseemi_id="18324" sanue_id="9421"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>en gang</re>
+        <t pos="V">sprette</t>
+        <t pos="V">vake</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">báŋadit</l>
+      <algu lekseemi_id="18324" sanue_id="9421"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>mange ganger</re>
+        <t pos="V">sprette</t>
+        <t pos="V">vake</t>
       </tg>
     </mg>
   </e>
@@ -28751,6 +28851,48 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="dat" pos="V">hurrat</l>
+      <algu lekseemi_id="31151" sanue_id="10823"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">summe</t>
+        <xg>
+          <x>Muhtun divrrit hurret.</x>
+          <xt>Noen insekter summer.</xt>
+        </xg>
+        <xg>
+          <x>Skohter hurrá.</x>
+          <xt>Skuteren summer.</xt>
+        </xg>
+     </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">vuoiŋŋastallat</l>
+      <algu lekseemi_id="16617" sanue_id="6767"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">hvile</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">ruŋkit</l>
+      <algu lekseemi_id="5663" sanue_id="4036"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om ravn</re>
+        <t pos="V">skrike</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="940">
       <l context="mun" pos="V">vuoiŋŋastit</l>
       <algu lekseemi_id="16617" sanue_id="6767"/>
@@ -28771,6 +28913,29 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re x="fad">komme på</re>
         <t pos="V">oppdage</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">simput</l>
+      <algu lekseemi_id="12769" sanue_id="56356"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>som en hare</re>
+        <t pos="V">hoppe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">bállit</l>
+      <algu lekseemi_id="18270" sanue_id="21838"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">raute</t>
       </tg>
     </mg>
   </e>
@@ -38170,6 +38335,18 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">komponere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">gerjjodit</l>
+      <algu lekseemi_id="28092" sanue_id="23289"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om hund</re>
+        <t pos="V">logre</t>
       </tg>
     </mg>
   </e>
