@@ -2059,6 +2059,32 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">vel</t>
+            <xg>
+               <x>Nu gal lea.</x>
+               <xt>Slik er det vel.</xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">riktignok</t>
+            <xg>
+               <x>Ássat mii gal davvin, muhto dáppe eai leat dušše sámit.</x>
+               <xt>Vi bor riktignok i nord, men her er det ikke bare samer.</xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t type="expl">forsterkende ('virkelig')</t>
+            <xg>
+               <x>Dan gal lean vajálduhttán.</x>
+               <xt>Det har jeg (virkelig) glemt.</xt>
+            </xg>
+            <xg>
+               <xt>De gal in háliit dohko vuolgit.</xt>
+               <x>Da vil jeg (virkelig) ikke dra dit.</x>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -6596,12 +6622,11 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">rett</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
         <t pos="Adv">direkte</t>
+            <xg>
+               <x>Mun mannen njuolga dohko.</x>
+               <xt>Jeg dro direkte dit.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
