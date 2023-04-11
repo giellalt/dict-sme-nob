@@ -5719,10 +5719,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">glimte</t>
-        <t pos="V">skinne</t>
+        <t pos="V">glitre</t>
         <xg>
           <x>Čáhci deadju šearradin.</x>
-          <xt>Vannet skinner klart.</xt>
+          <xt>Vannet glitrer klart.</xt>
         </xg>
       </tg>
     </mg>
@@ -7979,6 +7979,16 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">gárvvihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skrelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="6">
       <l context="mun" pos="V">garahit</l>
     </lg>
@@ -8118,12 +8128,41 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="622">
+      <l context="mun" pos="V">geahčestit</l>
+      <algu lekseemi_id="29870" sanue_id="84867"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">kaste et blikk på</t>
+        <xg>
+          <x>In duostta geahčestit sutnje.</x>
+          <xt>Jeg tør ikke se på henne.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="622">
       <l context="mun" pos="V">geahčastit</l>
       <algu lekseemi_id="29870" sanue_id="84867"/>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">se litt på</t>
+        <t pos="Phrase">kaste et blikk på</t>
+        <xg>
+          <x>In duostta geahčastit sutnje.</x>
+          <xt>Jeg tør ikke se på henne.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gugget</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bøye seg</t>
       </tg>
     </mg>
   </e>
@@ -14650,7 +14689,19 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">nyte</t>
+        <xg>
+          <x>Láviimet fitnat sullos gálašeamen ja návddašit beaivvi.</x>
+          <xt>Vi brukte å dra innom øya for å bade og nyte sola.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
         <t pos="V">smake</t>
+        <xg>
+          <x>Soai illudeigga eatni herskuid fas návddašit.</x>
+          <xt>De gledet seg til igjen å nyte mors godsaker.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -15858,6 +15909,88 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="dat" pos="V">joaibmašuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli krøllet</t>
+        <xg>
+          <x>Nieida civccui báhpira nu garrasit ahte dat joaibmašuvai.</x>
+          <xt>Jenta kleip så hardt i papiret at det ble krøllet.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čuoggasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">sette seg fast i</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dipmadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">mykgjøre</t>
+        <xg>
+          <x>Garran gápmagiid dipmadit ostočáziin.</x>
+          <xt>Komager som har blitt harde, mykgjør vi med barkevann.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gardnjilastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bruke albuen</t>
+        <xg>
+          <x>Oabbá gardnjilasttii su: Geahča mat!</x>
+          <xt>Søstera støtte albuen i henne: Se!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">bažirdit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">stønne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">hirrát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">sprike</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">skurkkihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">grynte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="23">
       <l context="mun" pos="V">ruoidnat</l>
       <lc>(dat) ruoinnai, ruidnet</lc>
@@ -15902,6 +16035,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">knake</t>
+            <xg>
+               <x>Muohta ruškkii dálveskuovaid vuolde.</x>
+               <xt>Snøen knaket under vinterskoene.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -21278,13 +21415,85 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">bijadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">sette av gårde</t>
+        <xg>
+          <x>Leahtuin bijadedje báhtui.</x>
+          <xt>I full fart satte de avgårde på flukt.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">himihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">humre</t>
+        <xg>
+          <x>Ánne himihii iežas jurdagiidda.</x>
+          <xt>Ánne humret av tankene sine.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">čavgat</l>
+    </lg>
+    <mg>
+      <l_ref>čavget_v</l_ref>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli strammene</t>
+        <xg>
+          <x>Njuolggadusaid fitnodagaid ektui čavget.</x>
+          <xt>Reglene i forhold til bedrifter blir strammere.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">spennes</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om vind</re>
+        <t pos="V">øke</t>
+        <xg>
+          <x>Eahketbeallái čavgagođii biegga garrasit.</x>
+          <xt>Mot kvelden begynte vinden å øke voldsomt.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="596">
       <l context="mun" pos="V">čavget</l>
     </lg>
     <mg>
+      <l_ref>čavgat_v</l_ref>
       <tg xml:lang="nob">
         <t pos="V">stramme</t>
+        <xg>
+          <x>Mun čavgejin skuovvabáttiid.</x>
+          <xt>Jeg strammet skolissene.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <l_ref>čavgat_v</l_ref>
+      <tg xml:lang="nob">
         <t pos="Phrase">stramme inn</t>
+        <xg>
+          <x>EU-kommišuvdna árvala čavget njuolggadusaid fitnodagaid ektui.</x>
+          <xt>EU-kommisjonen foreslår å stramme inn reglene i forhold til bedrifter.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -22674,12 +22883,30 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">geahčestallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">kaste et blikk på av og til</t>
+        <xg>
+          <x>Nieida geahčestalai sabehiidda vai bissu láhtus.</x>
+          <xt>Jenta så stadig på skiene for å holde seg i løypa.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="36">
       <l context="mun" pos="V">geahčastallat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">kaste et blikk på av og til</t>
+        <xg>
+          <x>Nieida geahčastalai sabehiidda vai bissu láhtus.</x>
+          <xt>Jenta så stadig på skiene for å holde seg i løypa.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -29567,7 +29794,7 @@ For the full license text, see the link above.</lic>
         <t pos="V">skreve</t>
         <xg>
           <x>Muittán dákkár diidda go: Nissonolmmoš ii galgan hárčet bivdobiergasiid badjel.</x>
-          <xt>Jeg husker en slik overtro: En kvinne skulle ikke skreve over fangstredskaper.</xt>
+          <xt>Jeg husker en slik folketro: En kvinne skulle ikke skreve over fangstredskaper.</xt>
         </xg>
       </tg>
     </mg>
@@ -30322,8 +30549,11 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <re x="fad">true med å ville + infinitiv</re>
         <t pos="V">true</t>
+        <xg>
+          <x>Stállu loktestii šlubbosoappi, dego nihttime dainna.</x>
+          <xt>Stallo løftet kluppa, som om han truet med den.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -30337,6 +30567,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re x="fad">true med bevegelser, gjenstander</re>
         <t pos="V">true</t>
+        <xg>
+          <x>Bárdni vuohkadii čorpmain beatnagii.</x>
+          <xt>Gutten truet med knyttneven mot hunden.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -32744,7 +32978,7 @@ For the full license text, see the link above.</lic>
         <t pos="V">våge</t>
         <t pos="V">tørre</t>
         <xg>
-          <x>Mun in duostta geahčastit sutnje.</x>
+          <x>In duostta geahčastit sutnje.</x>
           <xt>Jeg tør ikke se på henne.</xt>
         </xg>
       </tg>
@@ -38648,6 +38882,20 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">meavskut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">smatte</t>
+            <xg>
+               <x>Nieida meavskkui njuokčamiin guomi vuostá.</x>
+               <xt>Jenta smattet med tunga mot ganen.</xt>
+            </xg>
+        </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">doavskkuhit</l>
     </lg>
     <mg>
@@ -40041,6 +40289,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">løsne</t>
+        <xg>
+          <x>Áhči boares jáhkas nubbi soadjegeahči lei luotkanan.</x>
+          <xt>På fars gamle jakke hadde den ene ermekanten løsnet.</xt>
+        </xg>
       </tg>
     </mg>
   </e>

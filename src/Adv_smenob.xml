@@ -4070,6 +4070,20 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">lahkalaga</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">nær hverandre</t>
+        <xg>
+          <x>Čohkohalle lahkalaga.</x>
+          <xt>Vi to sitter nært hverandre.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="89">
       <l pos="Adv">lahkalagaid</l>
     </lg>
@@ -4516,6 +4530,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">ellers</t>
+            <xg>
+               <x>Veahá čoaskkis, muhto minddar fiidná dálki.</x>
+               <xt>Litt kjølig, men ellers fint vær.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -4673,6 +4691,21 @@ For the full license text, see the link above.</lic>
           <x>Mun čálán ná.</x>
           <xt>Jeg skriver slik.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">nammejahkii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">ved navn</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">nemlig</t>
       </tg>
     </mg>
   </e>
@@ -7198,11 +7231,15 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="9">
-      <l pos="Adv">sealggát</l>
+      <l pos="Adv">sealggát</l> Ledjen sealggát uksii in ge jorggihan
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">med ryggen mot</t>
+        <t pos="Phrase">med ryggen mot</t>
+            <xg>
+               <x>Ledjen sealggát uksii in ge jorggihan.</x>
+               <xt>Jeg hadde ryggen mot døra og snudde meg ikke.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -7212,7 +7249,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">ved senga</t>
+        <t pos="Phrase">ved senga</t>
         <xg>
           <x>Eadni vieččai skálu maid seaŋgagurrii bijai.</x>
           <xt>Mor henta ei bøtte som hun satte ved senga.</xt>
@@ -7226,7 +7263,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">til salgs</t>
+        <t pos="Phrase">til salgs</t>
         <xg>
           <x>Váffelat lea vuovdimassii.</x>
           <xt>Det er vafler til salgs.</xt>
@@ -7255,7 +7292,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">fra før</t>
+        <t pos="Phrase">fra før</t>
         <xg>
           <x>Soai máhttiba sámegiela ovdalaččas juo.</x>
           <xt>De to kan samisk fra før.</xt>
@@ -7279,7 +7316,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">på forhånd</t>
+        <t pos="Phrase">på forhånd</t>
       </tg>
     </mg>
   </e>
@@ -7289,7 +7326,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">i nærheten</t>
+        <t pos="Phrase">i nærheten</t>
         <xg>
           <x>Doppe ledje buorit guollejávrrit lahkosis.</x>
           <xt>Der var det gode fiskevann i nærheten.</xt>
@@ -7341,13 +7378,31 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">vuordagasas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">i vente</t>
+            <xg>
+               <x>Meteorologalaš Instituhtas muitalit heajos dálkkiid vuordagasas Oarje-Finnmárkui.</x>
+               <xt>På Meterologiask institutt forteller de at det er dårlig vær i vente i Vest-Finnmark.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="16">
       <l pos="Adv">čalmmát</l>
       <algu lekseemi_id="14040" sanue_id="56733"/>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">med ansiktet vendt mot</t>
+        <t pos="Phrase">med ansiktet vendt mot</t>
+            <xg>
+               <x>Juo, dat gal lea riekta, dajai oahpaheaddji ja čuččodii čalmmát Evenii.</x>
+               <xt>Ja, det er riktig, sa læreren og sto med ansiktet vendt mot Even.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
