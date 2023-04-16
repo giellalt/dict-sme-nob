@@ -27,6 +27,29 @@ For the full license text, see the link above.</lic>
   </lics>
   <e>
     <lg>
+      <l context="mun" pos="V">vuoiddadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">sminke seg</t>
+        <xg>
+          <x>De álggii nieida vuoiddadit.</x>
+          <xt>Og så begynte jenta å sminke seg.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">salve</t>
+        <xg>
+          <x>Jesus vuoiddaduvvui Betanias.</x>
+          <xt>Jesus ble salvet i Betania.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">spáppastallat</l>
     </lg>
     <mg>
@@ -10803,6 +10826,15 @@ For the full license text, see the link above.</lic>
         </xg>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">irritere</t>
+            <xg>
+               <x>Evttohus hárdá olbmuid.</x>
+               <xt>Forslaget irriterer folk.</xt>
+            </xg>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg freq="24">
@@ -11423,6 +11455,30 @@ For the full license text, see the link above.</lic>
           <x>Doaivvu miel dilli jorggiha fargga.</x>
           <xt>Forhåpentligvis vil situasjonen snart snu.</xt>
         </xg>
+        <xg>
+          <x>Oaivvit jorggihedje nieidda maŋŋái.</x>
+          <xt>Hodene snudde seg etter jenta.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">alvvahuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli energiløs</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">alvvahuhttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">underkue</t>
       </tg>
     </mg>
   </e>
@@ -13604,6 +13660,15 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
+        <t pos="V">strømme</t>
+        <xg>
+          <x>Bohccot márre ovddos, čuđiid mielde.</x>
+          <xt>Reinen strømmet framover, hundrevis.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
         <t pos="V">innsige</t>
       </tg>
     </mg>
@@ -13674,6 +13739,25 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">greie</t>
         <t pos="V">klare</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lihkkasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>begynne å bevege seg</re>
+        <t pos="Phrase">bevege seg</t>
+        <xg>
+          <x>Bohccot lihkkasedje skohteriid guvlui.</x>
+          <xt>Reinsdyrene begynte å bevege seg mot skuterne.</xt>
+        </xg>
+        <xg>
+          <x>Viessu ii lihkkasan, danne go dat lei bures huksejuvvon.</x>
+          <xt>Huset beveget seg ikke, fordi det var godt bygd.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -16000,6 +16084,16 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="dat" pos="V">skurkit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">grynte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="dat" pos="V">skurkkihit</l>
     </lg>
     <mg>
@@ -16039,6 +16133,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	    <re>om rein</re>  
         <t pos="V">grynte</t>
         <t pos="V">snøfte</t>
       </tg>
@@ -21541,6 +21636,16 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">hirpmáhuhttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">overraske</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="549">
       <l context="mun" pos="V">hirpmahuvvat</l>
       <lsub>hirpmáhuvvat</lsub>
@@ -21600,6 +21705,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">tvinges</t>
+            <xg>
+               <x>Son bággehalai fárret.</x>
+               <xt>Han blei tvunget til å flytte.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -23674,7 +23783,62 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">lukte på lenge</t>
+        <t pos="V">sniffe</t>
+        <xg>
+          <x>Beana susttašii gieđaid maid nieida geaigguhii dasa.</x>
+          <xt>Hunden sniffet på hendene som jenta strakte mot den.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lávkulit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	   <re>en rask handling</re>   
+        <t pos="V">skritte</t>
+        <xg>
+          <x>Nisu lávkulii biillas olggos.</x>
+          <xt>Kvinnen skrittet ut av bilen.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gáhkut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">kremte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">vuobaidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">jamre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">rabihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>en gang</re>
+        <t pos="V">flakse</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">kvekke til</t>
       </tg>
     </mg>
   </e>
@@ -23997,6 +24161,16 @@ For the full license text, see the link above.</lic>
         <t pos="V">sprelle</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>bevegelse</re>
+        <t pos="V">vri seg</t>
+            <xg>
+               <x>Gearpmaš gišvvardii, ja de jávkkai fas dohko gos lei boahtán.</x>
+               <xt>Slangen vrei seg, og så forsvant den dit hvorfra den var kommet.</xt>
+            </xg>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg freq="179">
@@ -24010,6 +24184,39 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">føles svakt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">skielgut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skjele</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">se skjevt på</t>
+            <xg>
+               <x>Dan dihte olbmot leat skilgon midjiide.</x>
+               <xt>På grunn av dette har folk sett skjevt på oss.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">skielgát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skjele</t>
+            <xg>
+               <x>Máŋga njuoratmáná skielgájit vuosttaš mánuid áigge.</x>
+               <xt>Mange spedbarn skjeler de første månedene.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -27571,6 +27778,21 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">nimmordit</l> 
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">uttrykke sin misnøye</t>
+        <t src="fad" pos="V">murre</t>
+        <xg>
+          <x>Mearrádusa geažil leat olusat nimmordan.</x>
+          <xt>På grunn av avgjørelsen har mange uttrykt sin misnøye.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="62">
       <l context="mun" pos="V">nimmorit</l>
       <algu lekseemi_id="356" sanue_id="963"/>
@@ -27579,6 +27801,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Phrase">uttrykke sin misnøye</t>
         <t src="fad" pos="V">murre</t>
+        <xg>
+          <x>Mearrádusa geažil leat olusat nimmoran.</x>
+          <xt>På grunn av avgjørelsen har mange uttrykt sin misnøye.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -27683,6 +27909,15 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Geahččalan aŋkke gozihit visot servodahkii gullevaš áššiid.</x>
           <xt>Jeg prøver likevel å følge med i alle samfunnssaker.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">holde noen våken</t>
+        <xg>
+          <x>Ášši gozihii su ijaid.</x>
+          <xt>Saka holdt henne våken på nettene.</xt>
         </xg>
       </tg>
     </mg>
@@ -28366,6 +28601,14 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">spores</t>
         <t src="fad" pos="V">synes</t>
+        <xg>
+          <x>Rievssahiid varas luottat vuhttojit šiljus.</x>
+          <xt>Ferske spor etter ryper synes på gårdsplassen.</xt> 
+        </xg>
+        <xg>
+          <x>Buohkat gehčče sutnje, ja vuhttui ahte son ii liikon dasa.</x>
+          <xt>Alle så på henne, og det syntes at hun ikke likte det.</xt>          
+         </xg>
       </tg>
     </mg>
   </e>
@@ -29754,6 +29997,21 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Dolla buollá.</x>
           <xt>Ilden brenner.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">borggohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>røyke tobakk</re>
+        <t pos="V">røyke</t>
+        <xg>
+          <x>Muhtimat borggohalle, ja sii hupme oktii njálmmiid.</x>
+          <xt>Noen røkte, og de snakket i munnen på hverandre.</xt>
         </xg>
       </tg>
     </mg>
@@ -31539,6 +31797,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re>en gang</re>
         <t pos="V">vri</t>
+            <xg>
+               <x>Elsa bonjastii čoavdaga ja vuoddjái.</x>
+               <xt>Elsa vrei om nøkkelen og kjørte avgårde.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -34433,11 +34695,31 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">čeavžut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">tasse</t>
+        <t pos="V">traske</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">mohkastit</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">bøye</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">svinge</t>
+        <xg>
+          <x>Vuoddji bijai ravkečuovgga čájehan dihte ahte áiggui mohkastit olgeš guvlui.</x>
+          <xt>Sjåføren satte på blinklys for å vise at hun ville svinge til høyre.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -35138,6 +35420,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">dras</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">tiltrekkes</t>
       </tg>
     </mg>
   </e>
@@ -37326,6 +37613,31 @@ For the full license text, see the link above.</lic>
         <t pos="Phrase">stige til overflaten</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="nob">
+	    <re>om været</re>  
+        <t pos="V">lette</t>
+        <xg>
+          <x>Dálki lei govden, muhto balvvat váriid duohken lahkonadde jođánit.</x>
+          <xt>Været hadde lettet, men skyene bak fjellene nærmet seg fort.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">guoktálastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	    <re>være usikker</re>  
+        <t pos="V">vakle</t>
+        <xg>
+          <x>Ahčči guoktálasttii, šattašii eanet bargu.</x>
+          <xt>Far vaklet, det ville bli mer arbeid.</xt>
+        </xg>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -38739,6 +39051,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">irritere</t>
+            <xg>
+               <x>Dát sáhttá eardudit olbmuid.</x>
+               <xt>Dette kan irritere folk.</xt>
+            </xg>
+            <xg>
+               <x>Dát dálkkas sáhttá eardudit gužžaráhku.</x>
+               <xt>Dette legemiddelet kan irritere urinblæra.</xt>
+            </xg>
       </tg>
     </mg>
   </e>

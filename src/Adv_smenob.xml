@@ -25,7 +25,27 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
   </lics>
-  <e>
+   <e>
+    <lg>
+      <l pos="Adv">árvvusge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">sannsynligvis</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="Adv">árvvusnai</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">sannsynligvis</t>
+      </tg>
+    </mg>
+  </e>
+ <e>
     <lg>
       <l ader="kreatiivvalaš" pos="Adv">kreatiivvalaččat</l>
     </lg>
@@ -1008,6 +1028,20 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">šluđut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">slurvete</t>
+        <xg>
+          <x>Dan ii sáhte šluđut dahkat ja lea áddjás bargu.</x>
+          <xt>Det kan man ikke gjøre slurvete og det er tidkrevende arbeid.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="93">
       <l pos="Adv">ovttatmanu</l>
     </lg>
@@ -1441,6 +1475,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">skeivt</t>
+            <xg>
+               <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
+               <xt>Gutten tråkket skjevt, og plutselig lå han.</xt>
+            </xg>
       </tg>
     </mg>
     <mg>
@@ -6505,6 +6543,20 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">badjeliidda</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">lenger opp</t>
+        <xg>
+          <x>Fargga áigot ealuin johtit badjeliidda, geasseorohahkii.</x>
+          <xt>Snart skal de flytte med reinflokken lenger opp, til sommerboplassen.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="2156">
       <l pos="Adv">badjelii</l>
       <algu lekseemi_id="25608" sanue_id="85409"/>
@@ -6865,6 +6917,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">rundt og rundt</t>
+        <xg>
+          <x>Heargi ruohtai birrat birra, ja nisu šattai máŋgii njuiket reagas eret.</x>
+          <xt>Kjørereinen sprang rundt og rundt og kvinnen måtte hoppe av sleden mange ganger.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -9108,6 +9164,27 @@ For the full license text, see the link above.</lic>
           <x>Almmái vázzá njuolggočilggiid ja dávgasit dego leopárda.</x>
           <xt>Mannen går rakrygget og spenstig som en leopard.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">bisánkeahttá</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">uavbrutt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l ader="coagis" pos="Adv">coahkásit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">overfladisk</t>
+        <t pos="Adv">grunt</t>
       </tg>
     </mg>
   </e>
