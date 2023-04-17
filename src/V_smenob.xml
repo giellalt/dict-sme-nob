@@ -4618,6 +4618,49 @@ For the full license text, see the link above.</lic>
         <t pos="V">demontere</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">ransake</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">šlimppardit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">slenge</t>
+        <xg>
+          <x>Lámpá šlimppardii dáhkis.</x>
+          <xt>Lampa slengte under taket.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">buđđosit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">tilstoppes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">šloanccehit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">deise</t>
+        <xg>
+          <x>Nieida šloanccehii stuolu ala.</x>
+          <xt>Jenta deiset ned på stolen.</xt>
+        </xg>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg freq="8">
@@ -23793,6 +23836,21 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">hohpohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">skynde seg</t>
+        <t pos="V">stresse</t>
+        <xg>
+          <x>It dárbbaš hohpohallat.</x>
+          <xt>Du trenger ikke å skynde deg.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">lávkulit</l>
     </lg>
     <mg>
@@ -23803,6 +23861,16 @@ For the full license text, see the link above.</lic>
           <x>Nisu lávkulii biillas olggos.</x>
           <xt>Kvinnen skrittet ut av bilen.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čegŋet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">huke seg ned</t>
       </tg>
     </mg>
   </e>
