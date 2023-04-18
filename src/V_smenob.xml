@@ -14011,6 +14011,48 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">njunnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">spore</t>
+        <t pos="V">lukte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">bođđet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">sett på mot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">šluppihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">falle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">nisádit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	     <re>en gang</re> 
+        <t pos="V">snyte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="34">
       <l context="mun" pos="V">nissut</l>
       <lc>(son) nisui</lc>
@@ -37690,6 +37732,65 @@ For the full license text, see the link above.</lic>
           <x>Dálki lei govden, muhto balvvat váriid duohken lahkonadde jođánit.</x>
           <xt>Været hadde lettet, men skyene bak fjellene nærmet seg fort.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">skurvvagit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli matt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">riškkihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	     <re>intransitiv, noe skvetter</re> 
+        <t pos="V">skvette</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">losidahttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">tynge</t>
+            <xg>
+			<x>Jurdda lasidahtii su vuoigŋama.</x>
+			<xt>Tanken gjorde pusten hennes tyngre.</xt>         
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">nárvvagit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli rynket</t>
+            <xg>
+			<x>Gatnjalat golge nárvvagan muođuid mielde.</x>
+			<xt>Tårene rant langs de rynkete kinnene.</xt>         
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">mášohuddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli utålmodig</t>
       </tg>
     </mg>
   </e>
