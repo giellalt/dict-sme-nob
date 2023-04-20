@@ -21210,11 +21210,18 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">šohkut</l>
       <lc>(mon) šogun</lc>
       <algu lekseemi_id="12035" sanue_id="4852"/>
-    </lg>
+    </lg> 
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">puste</t>
-        <t pos="V">blåse</t>
+        <t type="expl">la varm eller kald luft strømme ut</t>
+        <xg>
+          <x>Uvdna šohkugođii lieggasa goalša vistái.</x>
+          <xt>Ovnen begynte å gi ut varme i det kalde huset.</xt>
+        </xg>
+        <xg>
+          <x>Eatnu šogui galbmasa beaivvadatbeaivvi maŋŋá.</x>
+          <xt>Elva ga fra seg kulde etter solskinnsdagen.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -23813,7 +23820,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">snufse</t>
-        <t pos="Phrase">blåse luften gjennom nesen</t>
       </tg>
     </mg>
   </e>
@@ -32871,12 +32877,25 @@ For the full license text, see the link above.</lic>
         <t pos="V">grunnlegge</t>
         <t src="fad" pos="V">opprette</t>
         <t src="fad" pos="V">etablere</t>
+        <xg>
+          <x>Norgga stáhta lea vuođđuduvvon guovtti álbmoga eatnamiidda.</x>
+          <xt>Staten Norge er etablert på territoriet til to folk.</xt>
+        </xg>
       </tg>
     </mg>
     <mg x="fad">
       <tg xml:lang="nob">
         <re>organisere, tre sammen</re>
         <t pos="V">konstituere</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">bygge på</t>
+        <xg>
+          <x>Vuoigatvuođat leat vuođđuduvvon lágaide ja láhkaásahusaide.</x>
+          <xt>Rettighetene er bygd på lover og forskrifter.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
