@@ -21161,6 +21161,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">hviske</t>
+        <xg>
+          <x>Olbmot sapmet gaskaneaset.</x>
+          <xt>Folk hvisker med hverandre.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -21845,6 +21849,10 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Bárdni jávkkihii olggos ránnjánieidda maŋis.</x>
           <xt>Gutten forsvant ut døra etter nabojenta.</xt>
+        </xg>
+        <xg>
+          <x>Beaivváš ollii dušše jur oidnostit ovdalgo fas jávkkihii.</x>
+          <xt>Sola rakk bare såvidt å vises før den igjen forsvant.</xt>
         </xg>
       </tg>
     </mg>
@@ -23923,6 +23931,48 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="dat" pos="V">luoddanaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">få sprekker</t>
+        <xg>
+          <x>Mu baksamat dorbmot ja luoddanaddet.</x>
+          <xt>Leppene min hovner og får sprekker.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">dorbmut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">hovne</t>
+        <xg>
+          <x>Mu baksamat dorbmot ja luoddanaddet.</x>
+          <xt>Leppene min hovner og får sprekker.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">doaŋgut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">stivne</t>
+        <xg>
+          <x>Mus lea gurot giehta doŋgon, lean massán návccaid gieđas.</x>
+          <xt>Min venstre hand er stivet, jeg har mistet kreftene i handa.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">čegŋet</l>
     </lg>
     <mg>
@@ -24423,6 +24473,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">vises litt</t>
+        <xg>
+          <x>Beaivváš ollii dušše jur oidnostit ovdalgo fas jávkkihii.</x>
+          <xt>Sola rakk bare såvidt å vises før den igjen forsvant.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -38233,6 +38287,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">stake av sted</t>
+        <xg>
+          <x>Nieida lei nu giehtagievra ahte son čuoibmulii fámuin ja čeasai guhkás.</x>
+          <xt>Jenta var så armsterk at hun staka med kraft og gled langt.</xt>
+        </xg>
       </tg>
     </mg>
   </e>

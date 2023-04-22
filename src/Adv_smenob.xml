@@ -1477,7 +1477,7 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">skeivt</t>
             <xg>
                <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
-               <xt>Gutten tråkket skjevt, og plutselig lå han.</xt>
+               <xt>Gutten tråkket skjevt, og plutselig var han liggende.</xt>
             </xg>
       </tg>
     </mg>
@@ -5539,6 +5539,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">liggende</t>
+            <xg>
+               <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
+               <xt>Gutten tråkket skjevt, og plutselig var han liggende.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -9177,11 +9181,29 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l pos="Adv">čuožžut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">stående</t>
+            <xg>
+               <x>Muhto ii oktage lean čuožžut.</x>
+               <xt>Men ingen var stående.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="Adv">čohkkut</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">sittende</t>
+            <xg>
+               <x>De son nohkai fas čohkkut.</x>
+               <xt>Så sovnet han sittende.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
