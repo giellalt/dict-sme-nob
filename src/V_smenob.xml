@@ -15593,6 +15593,36 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">njuohtat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">smøre utover</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">male</t> 
+        <xg>
+          <x>Vaikko mun njuođan govaid, de máhcan álo tevdnemii.</x>
+          <xt>Selv om jeg maler bilder, så vender jeg alltid tilbake til tegning.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">reavggádit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>en gang</re>
+        <t pos="V">rape</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="0">
       <l context="mun" pos="V">reavgit</l>
       <lc>(son) revggii</lc>
@@ -32006,6 +32036,16 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re x="fad">bruke spiss gjenstand, flere ganger</re>
         <t pos="V">stikke</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>med finger, flere ganger</re>
+        <t pos="V">trykke</t>
+        <xg>
+          <x>Máhtte čohkká biillastis ja čuoggu telefovnna.</x>
+          <xt>Máhtte sitter i bilen sin og trykker på telefonen.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
