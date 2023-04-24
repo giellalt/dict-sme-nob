@@ -1375,7 +1375,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">fra</t>
+        <t pos="Pr">fra</t>
         <xg>
           <x>Sii leat Suomas eret.</x>
           <xt>De er fra Finland.</xt>
@@ -2054,7 +2054,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">samme</t>
+        <t pos="Det">samme</t>
         <xg>
           <x>Árvolassáneapmi lei jagis 1997 sullii seamma dásis goappaš riikkain.</x>
           <xt>Verdistigningen var i 1997 omtrent på samme nivå i begge landa.</xt>
@@ -2848,7 +2848,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">til</t>
+        <t pos="Pr">til</t>
         <xg>
           <x>dassá go</x>
           <xt>inntil</xt>
@@ -3242,7 +3242,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">mer</t>
-        <t pos="Adv">flere</t>
+        <t pos="Det">flere</t>
       </tg>
     </mg>
   </e>
@@ -3518,7 +3518,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">midt i</t>
+        <t pos="Phrase">midt i</t>
       </tg>
     </mg>
   </e>
@@ -3581,7 +3581,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">til</t>
+        <t pos="Pr">til</t>
         <xg>
           <x>Mun lean barggus gitta bearjadahkii.</x>
           <xt>Jeg er på jobb helt til fredag.</xt>
@@ -4524,7 +4524,6 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">for</t>
         <t pos="Adv">altfor</t>
         <xg>
           <x>menddo guhkkin</x>
@@ -4670,7 +4669,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">flere</t>
+        <t pos="Det">flere</t>
         <xg>
           <x>De mii sáhttit ásahit vel eanet joavkkuid.</x>
           <xt>Så kan vi etablere enda flere lag.</xt>
@@ -4849,8 +4848,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">urørt</t>
-        <t pos="Adv">hel</t>
+        <t pos="A">urørt</t>
+        <t pos="A">hel</t>
       </tg>
     </mg>
   </e>
@@ -5043,7 +5042,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">hele</t>
-        <t pos="Adv">all</t>
+        <t pos="A">all</t>
       </tg>
     </mg>
   </e>
@@ -5797,7 +5796,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">sunt</t>
-        <t pos="Adv">frisk</t>
+        <t pos="A">frisk</t>
         <xg>
           <x>Mun ealán dearvan.</x>
           <xt>Jeg er frisk.</xt>
@@ -6125,27 +6124,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <lg freq="0">
-      <l pos="Adv">lágan</l>
-      <lsub>lágán</lsub>
-      <lc>láganat</lc>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="Adv">slik</t>
-        <t pos="Adv">slags</t>
-        <xg>
-          <x>dán lágan</x>
-          <xt>sånn her</xt>
-        </xg>
-        <xg>
-          <x>Mii eat galgga vajálduhttit ahte sis lea maiddái muhtin lágan objektiivvalaš vuođđu.</x>
-          <xt>Vi skal heller ikke glemme at de også har et slags objektivt grunnlag.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
     <lg freq="304">
       <l pos="Adv">mađe</l>
       <algu lekseemi_id="35640" sanue_id="45903"/>
@@ -6313,18 +6291,23 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">unnskyld</t>
+        <t pos="Interj">unnskyld</t>
         <xg>
-          <x>Attán ándagassii.</x>
-          <xt>Jeg tilgir.</xt>
+          <x>Bivddán ándagassii.</x>
+          <xt>Jeg ber om unnskyld.</xt>
         </xg>
+      </tg>
+    </mg>
+     <mg>
+      <tg xml:lang="nob">
+        <t pos="N">unnskyldning</t>
         <xg>
           <x>In háhppehan átnut ándagassii.</x>
           <xt>Jeg rakk ikke å be om unnskyldning.</xt>
         </xg>
       </tg>
     </mg>
-  </e>
+ </e>
   <e>
     <lg freq="6153">
       <l pos="Adv">dieđusge</l>
@@ -6719,7 +6702,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">under</t>
+        <t pos="Pr">under</t>
       </tg>
     </mg>
   </e>
@@ -7632,7 +7615,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">heller</t>
-        <t pos="Adv">snarere</t>
         <xg>
           <x>Jus buoret livččet borramuša oastán, njálgáid sadjái!</x>
           <xt>Om du heller hadde kjøpt mat, istedenfor godteri!</xt>
@@ -7724,7 +7706,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">enten</t>
+        <t pos="CC">enten</t>
         <xg>
           <x>juogo ... dahje</x>
           <xt>enten ... eller</xt>
@@ -7854,7 +7836,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">bak</t>
+        <t pos="Pr">bak</t>
       </tg>
     </mg>
   </e>
@@ -7864,7 +7846,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">bakenfor</t>
+        <t pos="Pr">bakenfor</t>
       </tg>
     </mg>
   </e>
@@ -7923,7 +7905,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">tull</t>
+        <t pos="N">tull</t>
         <xg>
           <x>Don hálat duššiid!</x>
           <xt>Du snakker tull!</xt>
@@ -8218,7 +8200,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">foran</t>
+        <t pos="Pr">foran</t>
         <xg>
           <x>Eadni manai ovdalis ja Máhtte maŋis.</x>
           <xt>Mor gikk foran og Máhtte gikk bak.</xt>
@@ -8476,7 +8458,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">skjeiv</t>
+        <t pos="A">skjeiv</t>
       </tg>
     </mg>
   </e>
@@ -8551,7 +8533,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">bøyd</t>
+        <t pos="A">bøyd</t>
       </tg>
     </mg>
   </e>
@@ -9032,7 +9014,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">full</t>
+        <t pos="A">full</t>
         <xg>
           <x>Lihtti lea dievva.</x>
           <xt>Skåla er full.</xt>
@@ -9074,8 +9056,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">full</t>
-        <t pos="Adv">beruset</t>
+        <t pos="A">full</t>
+        <t pos="A">beruset</t>
         <xg>
           <x>Son lea gárremiin.</x>
           <xt>Han er full.</xt>
@@ -9222,7 +9204,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">dugnad</t>
+        <t pos="N">dugnad</t>
         <t pos="Adv">med forente krefter</t>
         <xg>
           <x>Váhnemat barge ollu álbmogassii, ja doalaimet váhnenmávssu nu vuollin go vejolaš.</x>
@@ -9432,7 +9414,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">stappfull</t>
+        <t pos="A">stappfull</t>
         <xg>
           <x>Toga lea spagga dievva.</x>
           <xt>Toget er stappfullt.</xt>
@@ -9563,7 +9545,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re/>
-        <t pos="Adv">sjeldent</t>
+        <t pos="Adv">sjelden</t>
       </tg>
     </mg>
   </e>
