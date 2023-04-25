@@ -11423,6 +11423,43 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+   <e>
+    <lg>
+      <l context="mun" pos="V">guossástallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">være på besøk</t>
+        <xg>
+          <x>Ministtar guossástalai Anáris.</x>
+          <xt>Ministeren var på besøk i Inari.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">være beskjeden</t>
+        <xg>
+          <x>Dás ii dárbbaš guossástallat, váldi borramuša!</x>
+          <xt>Her trenger man ikke være beskjeden, forsyn dere med mat!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+ <e>
+    <lg>
+      <l context="mun" pos="V">gárihuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli beruset</t>
+        <xg>
+          <x>Sii leat juhkan viinni ja leat	gárihuvvan.</x>
+          <xt>De har drukket brennevin og er blitt beruset.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg freq="14">
       <l context="mun" pos="V">jolggadit</l>
@@ -11430,6 +11467,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">driste seg til</t>
+        <xg>
+          <x>In jolggat boradit earáid oaidnut.</x>
+          <xt>Jeg drister meg ikke til å spise i andres påsyn.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -39736,6 +39777,34 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">vingle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hehppehit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">ydmyke</t>
+        <xg>
+          <x>Reahttadeimme, dat han lei albma hersko.</x>
+          <xt>Vi spiste godt og lenge, det var ordentlig delikatesse.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">reahttadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">spise godt og lenge</t>
+        <xg>
+          <x>Reahttadeimme, dat han lei albma hersko.</x>
+          <xt>Vi spiste godt og lenge, det var ordentlig delikatesse.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
