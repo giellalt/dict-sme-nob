@@ -26,6 +26,16 @@ For the full license text, see the link above.</lic>
   </lics>
   <e>
     <lg>
+      <l context="olmmoš" pos="A">daddjái</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">pratsom</t> 
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="olmmoš" pos="A">oaivvesnaga</l>
     </lg>
     <mg>
@@ -453,7 +463,7 @@ For the full license text, see the link above.</lic>
         <t pos="A">uthvilt</t>
         <xg>
           <x>Lei imaš ahte nieida gii lei gohcán ihkku, lei áibbas vuoŋis.</x>
-          <xt>Det var rart at jenta som hadde våkt natta, var helt uthvilt.</xt>
+          <xt>Det var rart at jenta som hadde våkt på natta, var helt uthvilt.</xt>
         </xg>
       </tg>
     </mg>
@@ -12434,6 +12444,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="A">moderne</t>
+        <xg>
+          <x>Son ráhkada ođđamállet silbbaid čigŋás olbmuide.</x>
+          <xt>Hun lager moderne sølvsmykker til jålete folk.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -13580,6 +13594,41 @@ For the full license text, see the link above.</lic>
   <e>
     <lg freq="41">
       <l context="filbma" paradigme="cases" pos="A">greikalaš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">gresk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">skuortnas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">elendig</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">gjerrig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="filbma" paradigme="cases" pos="A">greikalaš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">gresk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="filbma" pos="A">greika</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -17109,6 +17158,25 @@ For the full license text, see the link above.</lic>
         <t pos="A">taus</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">fåmælt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="govva" pos="A">čáhppesvielgat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">svarthvit</t>
+        <xg>
+          <x>Girjjis leat čáhppesvilges govat.</x>
+          <xt>I boka er det bilder i svarthvitt.</xt>
+        </xg>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg freq="798">
@@ -20499,6 +20567,67 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="A">konfliktdempende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" paradigme="cases" pos="A">ruoššagielat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">russiskspråklig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="prošeakta" pos="A">bargogáibideaddji</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">arbeidskrevende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">rieddjái</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">skrålende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="doaibma" pos="A">billisteaddji</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">ødeleggende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="doaibma" pos="A">váidudeaddji</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">avbøtende</t>
+        <t pos="A">dempende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="doaibma" pos="A">allergiijašaddadeaddji</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">allergifremkallende</t>
       </tg>
     </mg>
   </e>

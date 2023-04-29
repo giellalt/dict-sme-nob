@@ -50,6 +50,26 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">seanadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">forsones</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">guoirat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli mager</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">skealgut</l>
     </lg>
     <mg>
@@ -129,6 +149,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">trylle</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">synkverve</t>
       </tg>
     </mg>
   </e>
@@ -2636,6 +2661,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">bli rørt</t>
+            <xg>
+               <x>Njuorrasan ja gatnjalat golggiidit.</x>
+               <xt>Jeg blir rørt og tårene begynner å renne.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -8573,7 +8602,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">være vilter</t>
-        <t pos="V">oppskrudd</t>
+        <t pos="Phrase">være oppskrudd</t>
       </tg>
     </mg>
   </e>
@@ -12714,7 +12743,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">bli bløytt</t>
-        <t pos="V">utvannet</t>
+        <t pos="V">utvannes</t>
       </tg>
     </mg>
   </e>
@@ -17643,6 +17672,12 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	     <re>om penger</re> 
+        <t pos="V">sløse</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
         <t pos="V">herje</t>
         <t pos="V">plyndre</t>
       </tg>
@@ -18473,6 +18508,49 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">vente</t>
         <t pos="Phrase">hale med seg</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">skoahpat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>lag lyd mot noe</re>
+        <t pos="V">krasle</t>
+        <xg>
+          <x>Duollji skoahpá cugŋo vuostá.</x>
+          <xt>Skinnet krasler mot skaren.</xt>
+        </xg>
+        <xg>
+          <x>Mii gullo olgun skoahpamin?</x>
+          <xt>Hva krasler utenfor?</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">njahpestit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">rykke</t>
+        <xg>
+          <x>Letne jieŋa alde njahpesteamen.</x>
+          <xt>Vi er på isen og fisker (rykker med snøret).</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="upers" pos="V">šloavggehit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">flamme opp</t>
       </tg>
     </mg>
   </e>
@@ -23909,6 +23987,11 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+        <t pos="V">suse</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
         <t pos="Phrase">dukke opp uanmeldt</t>
       </tg>
     </mg>
@@ -24711,7 +24794,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">støve</t>
+        <t pos="V">støves</t>
       </tg>
     </mg>
   </e>
@@ -29934,7 +30017,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re x="fad">en gang</re>
-        <t pos="V" x="fad">holde rundt hverandre</t>
+        <t pos="Phrase" x="fad">holde rundt hverandre</t>
         <t pos="V">omfavne</t>
       </tg>
     </mg>
@@ -30774,6 +30857,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">våke</t>
+        <xg>
+          <x>Lei imaš ahte nieida gii lei gohcán ihkku, lei áibbas vuoŋis.</x>
+          <xt>Det var rart at jenta som hadde våkt på natta, var helt uthvilt.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -32075,8 +32162,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <re x="fad">en gang</re>
-        <t pos="V" x="fad">bruke spiss gjenstand</t>
+        <re x="fad">en gang, med spiss gjenstand</re>
         <t pos="V">stikke</t>
       </tg>
     </mg>
@@ -33048,7 +33134,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">bygge på</t>
+        <t pos="Phrase">bygge på</t>
         <xg>
           <x>Vuoigatvuođat leat vuođđuduvvon lágaide ja láhkaásahusaide.</x>
           <xt>Rettighetene er bygd på lover og forskrifter.</xt>
@@ -33844,7 +33930,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg x="fad">
       <tg xml:lang="nob">
-        <t pos="V">bekymre</t>
+        <t pos="V">bekymres</t>
       </tg>
     </mg>
   </e>
@@ -40931,7 +41017,12 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	     <re>begynne å renne, om noe flytende</re> 
         <t pos="V">renne</t>
+            <xg>
+               <x>Njuorrasan ja gatnjalat golggiidit.</x>
+               <xt>Jeg blir rørt og tårene begynner å renne.</xt>
+            </xg>
       </tg>
     </mg>
   </e>

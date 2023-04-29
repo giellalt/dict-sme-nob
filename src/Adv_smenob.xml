@@ -2335,6 +2335,16 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l pos="Adv">ijatbeivviid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">dag og natt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l dera="geabbil" pos="Adv">geabbilit</l>
     </lg>
     <mg>
@@ -4519,6 +4529,16 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">ijatbeaivvi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">natt og dag</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="24">
       <l pos="Adv">ijatbeaivái</l>
     </lg>
@@ -5676,12 +5696,54 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">namakeahttá</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">anonymt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">jáhkkimis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">trolig</t>
+        <xg>
+			<x>Biti lea jáhkkimis vuosttaš čiekči.</x>
+			<xt>Biti er trolig den første spilleren.</xt>         
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">guorosnaga</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">tomhendt</t>
+        <xg>
+			<x>Sii máhcce guorosnaga ruoktut.</x>
+			<xt>De dro tomhendte tilbake hjem.</xt>         
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="46">
       <l pos="Adv">otnážii</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">til i dag</t>
+        <xg>
+          <x>ivttážis otnážii</x>
+          <xt>fra i går til i dag</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -7001,6 +7063,35 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">sivvadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">langsomt</t>
+         <t pos="Adv">forsiktig</t>
+           <xg>
+               <x>Mun gaikon ullobuvssaid sivvadit julggiid bajás.</x>
+               <xt>Jeg dro ullbuksene langsomt opp beina.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">várrugasat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">forsiktig</t>
+            <xg>
+               <x>Oahppit galget oahppat dáikinsajiin várrugasat láhttet amaset bártái šatta.</x>
+               <xt>Elevene skal lære å opptre forsiktig på chattesteder slik at de ikke havner i trøbbel.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="5777">
       <l pos="Adv">dattetge</l>
       <algu lekseemi_id="21133" sanue_id="58224"/>
@@ -7008,6 +7099,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">allikevel</t>
+            <xg>
+               <x>Beakkán popjoavku ii dattetge čuojahan festiválas.</x>
+               <xt>Den berømte popgruppa spilte allikevel ikke på festivalen.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
