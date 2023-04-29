@@ -85,7 +85,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="Adv">oktagaslaččat</l>
+      <l ader="oktagaslaš" pos="Adv">oktagaslaččat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -1029,7 +1029,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="Adv">šluđut</l>
+      <l ader="šluhtu" pos="Adv">šluđut</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -1180,7 +1180,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="289">
-      <l  par="yes" pos="Adv">maŋŋelaš</l>
+      <l par="yes" pos="Adv">maŋŋelaš</l>
       <lsub>maŋŋelas</lsub>
     </lg>
     <mg>
@@ -1888,6 +1888,600 @@ For the full license text, see the link above.</lic>
           <x>Don dulkot buot aivve baháguvlui.</x>
           <xt>Du tolker alt bare i negativ retning.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="heahpatmeahttun" pos="Adv">heahpatmeahttumit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">uforskammet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="harbmat" pos="Adv">harbmadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">umåtelig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="gárži" pos="Adv">gáržžit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">snevert</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="guoktilaš" pos="Adv">guoktilaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">hyklerisk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="fysalaš" pos="Adv">fysalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">fysisk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="grammatihkalaš" pos="Adv">grammatihkalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">grammatikalsk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="govdat" pos="Adv">govdadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">bredt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="geavatlaš" pos="Adv">geavatlaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">praktisk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="geahppat" pos="Adv">geahppadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">lett</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="dárki" pos="Adv">dárkkit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">sikkert</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="dávji" pos="Adv">dávjjit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">stadig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="árrat" pos="Adv">árat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">tidlig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="várálaš" pos="Adv">várálaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">farlig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="čielggas" pos="Adv">čielgasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">klart</t>
+        <t pos="Adv">tydelig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="vissis" pos="Adv">vissásit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">sikkert</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="čálalaš" pos="Adv">čálalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">skriftlig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="áŋgir" pos="Adv">áŋgirit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">ivrig</t>
+        <t pos="Adv">flittig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="árki" pos="Adv">árkkit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">ynkelig</t>
+        <t pos="Adv">elendig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="váimmolaš" pos="Adv">váimmolaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">hjertelig</t>
+        <t pos="Adv">inderlig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="vuđolaš" pos="Adv">vuđolaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">grundig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="vuogas" pos="Adv">vuohkkasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">høvelig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="vejolaš" pos="Adv">vejolaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">mulig</t>
+        <t pos="Adv">eventuelt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="unni" pos="Adv">unnit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">mindre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="suollemas" pos="Adv">suollemasat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">hemmelig</t>
+        <t pos="Adv">skjult</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="stáđis" pos="Adv">stáđđásit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">støtt</t>
+        <t pos="Adv">stabilt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="snáhpis" pos="Adv">snáhppásit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">kjapt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="buhtis" pos="Adv">buhttásit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">reint</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="ráinnas" pos="Adv">ráidnasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">reint</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="ruđalaš" pos="Adv">ruđalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">finansielt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="praktihkalaš" pos="Adv">praktihkalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">praktisk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="oskkáldas" pos="Adv">oskkáldasat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">lojalt</t>
+        <t pos="Adv">pålitelig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="oinnolaš" pos="Adv">oinnolaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">synlig</t>
+        <t pos="Adv">åpenbart</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="njálmmálaš" pos="Adv">njálmmálaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">muntlig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="njuovžil" pos="Adv">njuovžilit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">jevnt</t>
+        <t pos="Adv">flytende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="muttát" pos="Adv">muttágit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">passelig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="movttet" pos="Adv">movttegit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">muntert</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="mielaheapme" pos="Adv">mielaheamet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">vanvittig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="lášmat" pos="Adv">lášmadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">spenstig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="loahpalaš" pos="Adv">loahpalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">sist</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="jeavddalaš" pos="Adv">jeavddalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">jevnt</t>
+        <t pos="Adv">regelmessig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="ipmilmeahttun" pos="Adv">ipmilmeahttumit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">ugudelig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="imašlaš" pos="Adv">imašlaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">merkelig</t>
+        <t pos="Adv">forunderlig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="hávski" pos="Adv">hávskit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">hyggelig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="geabbil" pos="Adv">geabbilit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">smidig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="gaskaboddosaš" pos="Adv">gaskaboddosaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">midlertidig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="háreheapme" pos="Adv">háreheamet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">skjødesløst</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="fuollameahttun" pos="Adv">fuollameahttumit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">skjødesløst</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="fuolalaš" pos="Adv">fuolalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">omhyggelig</t>
+        <t pos="Adv">omtenksomt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="formálalaš" pos="Adv">formálalaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">formelt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="dárbbašmeahttun" pos="Adv">dárbbašmeahttumit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">unødvendig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="dohkálaš" pos="Adv">dohkálaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">brukbart</t>
+        <t pos="Adv">godtagbart</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="dohkkemeahttun" pos="Adv">dohkkemeahttumit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">uakseptabelt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="dearvvašlaš" pos="Adv">dearvvašlaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">sunt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="báikkálaš" pos="Adv">báikkálaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">lokalt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="birolaš" pos="Adv">birolaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">djevelsk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="assái" pos="Adv">assájit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">tykt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="almmolaš" pos="Adv">almmolaččat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">offentlig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l dera="allat" pos="Adv">allagit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">høyt</t>
       </tg>
     </mg>
   </e>
@@ -6368,7 +6962,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="4589">
-      <l pos="Adv">garrasit</l>
+      <l ader="garas" pos="Adv">garrasit</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -6523,7 +7117,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="2026">
-      <l pos="Adv">ođđasit</l>
+      <l ader="ođas" pos="Adv">ođđasit</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -6999,7 +7593,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="1390">
-      <l pos="Adv">ollislaččat</l>
+      <l ader="ollislaš" pos="Adv">ollislaččat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -8611,8 +9205,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <re>som adverb: enkelt</re>
-        <t pos="A">enkel</t>
+        <t pos="Adv">enkelt</t>
+        <t pos="Adv">lett</t>
       </tg>
     </mg>
   </e>
@@ -8680,7 +9274,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="Adv">cáicasit</l>
+      <l ader="cáiccas" pos="Adv">cáicasit</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
