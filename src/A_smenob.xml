@@ -518,6 +518,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>om skinn</re>
+        <t pos="Phrase">gjennomvåt og bløt</t>
+        <xg>
+          <x>Gámas šaddá spalccas jos dan luvvada menddo njuoska osttuin.</x>
+          <xt>Leggskinnet blir gjennomvått og bløtt hvis man bløter det med for våt bark.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
         <t pos="A">ergerlig</t>
         <xg>
           <x>Gal dakkár dieđus muhtimin lea oalle spalccas dohkkehit, muhto nu dat beare lea.</x>
@@ -6585,12 +6595,48 @@ For the full license text, see the link above.</lic>
         <t pos="A">slasket</t>
         <t pos="A">sjasket</t>
         <xg>
-          <x>šlincobivttas</x>
+          <x>šlincobivttas, šlincebivttas</x>
           <xt>slasket klesplagg</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">slapp</t>
+        <t pos="A">bløt</t>
         <xg>
-          <x>šlincebivttas</x>
+          <x>šlincobivttas, šlincebivttas</x>
           <xt>slasket klesplagg</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l attr="no" pos="A">šnjalččas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om skinn</re>
+        <t pos="Phrase">gjennomvåt og bløt</t>
+        <xg>
+          <x>Go náhkki lea luvvaduvvon menddo olu, de dat lea šnjalččas.</x>
+          <xt>Når skinn har blitt bløtet for lenge, er det gjennomvått og bløtt.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l attr="no" pos="A">šnjarvvas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om skinn</re>
+        <t pos="Phrase">gjennomvåt og bløt</t>
+        <xg>
+          <x>Go náhkki lea luvvaduvvon menddo olu, de dat lea šnjarvvas.</x>
+          <xt>Når skinn har blitt bløtet for lenge, er det gjennomvått og bløtt.</xt>
         </xg>
       </tg>
     </mg>

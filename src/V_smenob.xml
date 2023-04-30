@@ -50,6 +50,16 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">meattildit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">passere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">seanadit</l>
     </lg>
     <mg>
@@ -2483,6 +2493,20 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">bli skjelven</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dorggiidaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">holde på å skjelve</t>
+           <xg>
+               <x>Son goitge gorgŋii lávdái gos son dorggiidaddi jienain lávllui.</x>
+               <xt>Hun klatret likevel på på scenen hvor hun med skjelvende stemme sang.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -13929,7 +13953,17 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">ikke makte økonomiske forpliktelser</t>
+	      <re>om bukser</re>
+        <t pos="Phrase">gli ned</t>
+         <xg>
+          <x>Mánás leat nallasan buvssat, ja bahta oidno.</x>
+          <xt>Buksene har glidd ned hos barnet, og rumpa synes.</xt>
+        </xg>
+     </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t type="expl">ikke makte økonomiske forpliktelser</t>
       </tg>
     </mg>
   </e>
@@ -18513,6 +18547,28 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="dat" pos="V">šnjalčat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om skinn</re>
+        <t pos="Phrase">bli gjennomvåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">šnjarvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om skinn</re>
+        <t pos="Phrase">bli gjennomvåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">skoahpat</l>
     </lg>
     <mg>
@@ -20822,6 +20878,19 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">lysne</t>
+        <t pos="Phrase">bli lysere</t>
+        <xg>
+          <x>Fáhkka čuvggodii latnja.</x>
+          <xt>Plutselig ble det lyst i rommet.</xt>
+        </xg>
+        <xg>
+          <x>Iđđes árrat, ovdalgo čuvggoda, vulget buohkat olggos.</x>
+          <xt>Tidlig på morgenen, før det blir lyst, drar alle ut.</xt>
+        </xg>
+        <xg>
+          <x>Nieida lávlu sevdnjes jienain mii dađistaga čuvggoda.</x>
+          <xt>Jenta synger med mørk stemme som etterhvert blir lysere.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -23992,7 +24061,11 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">dukke opp uanmeldt</t>
+        <t pos="Phrase">dukke opp</t>
+            <xg>
+               <x>Eat diehtán mii sáhtii skuvihit muoraid gaskkas.</x>
+               <xt>Vi visste ikke hva som kunne dukke opp mellom trærne.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -24133,7 +24206,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">stivne</t>
         <xg>
-          <x>Mus lea gurot giehta doŋgon, lean massán návccaid gieđas.</x>
+          <x>Mus lea gurut giehta doŋgon, lean massán návccaid gieđas.</x>
           <xt>Min venstre hand er stivet, jeg har mistet kreftene i handa.</xt>
         </xg>
       </tg>
@@ -24765,6 +24838,16 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">mørkne</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>forsvinne fra et sted</re>
+        <t pos="V">forsvinne</t>
+        <xg>
+          <x>Čáhpot dás eret!</x>
+          <xt>Forsvinn herfra!</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -26356,6 +26439,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">pakke</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om motor</re>
+        <t pos="V">bakke</t>
       </tg>
     </mg>
   </e>
@@ -28925,6 +29014,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re>fare, reise</re>
         <t pos="V">ferdes</t>
+        <xg>
+          <x>Boazoisit jođaša ealu ja ruovttu gaskka.</x>
+          <xt>Reineieren ferdes mellom reinflokken og hjemmet.</xt> 
+        </xg>
       </tg>
     </mg>
   </e>
@@ -31322,6 +31415,17 @@ For the full license text, see the link above.</lic>
           <x>Mearriduvvon lea ahte suodjalus galgá boahtte 15 jagis oastit ođđa nu gohčoduvvon pánserbiillaid oktiibuot 100 miljárdda ruvnno ovddas.</x>
           <xt>Det er bestemt at forsvaret skal de neste 15 årene kjøpe såkalte panserbiler for i alt 100 milliarder kroner.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">spuŋget</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>stappe i munnen</re>
+        <t pos="V">stappe</t>
       </tg>
     </mg>
   </e>
