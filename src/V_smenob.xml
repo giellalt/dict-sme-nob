@@ -1256,7 +1256,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>om søm</re>
-        <t pos="V">falle</t>
+        <t pos="V">falde</t>
+            <xg>
+               <x>Olmmoš dietnu go máhccu ravdda ja goarru máhcastaga gitta.</x>
+               <xt>Man falder når man bretter inn kanten og syr kanten fast.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -2086,7 +2090,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">plage</t>
-        <t pos="Phrase">bry med</t>
+         <xg>
+           <x>Mii du váivvida?</x>
+           <xt>Hva plager deg?</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">sjenere</t>
       </tg>
     </mg>
   </e>
@@ -5226,6 +5238,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">tenne</t>
+            <xg>
+               <x>Biret cahkkehii dola ja cahkkehalai gintaliid.</x>
+               <xt>Biret tente opp ilden og tente på stearinlysene.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -8764,6 +8780,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">fly avgårde</t>
+          <xg>
+            <x>Goaskin girdila ja seaivu lagaš bákteravdii.</x>
+            <xt>Ørna flyr avgårde og lander på en bergkant like ved.</xt>
+         </xg>
       </tg>
     </mg>
   </e>
@@ -11177,6 +11197,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">undersøke</t>
         <t pos="V">prøve</t>
+        <t pos="V">teste</t>
+         <xg>
+           <x>Oahppit sáhttet dien láhkai iskat sátnevuorkkáset.</x>
+           <xt>Elevene kan slik teste ordforrådet sitt.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -12010,8 +12035,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>ved å skalle av</re>
         <t pos="V">løsne</t>
-        <t pos="Phrase">skalle av</t>
+        <xg>
+          <x>Bánis lea laigan bihttá.</x>
+          <xt>Et stykke av tanna har løsna.</xt>
+        </xg>
+        <xg>
+          <x>Seinniin lea laigan mála.</x>
+          <xt>På veggene er det skallet av maling.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -16966,6 +16999,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">lande</t>
+          <xg>
+            <x>Goaskin seaivu lagaš bákteravdii.</x>
+            <xt>Ørna lander på en bergkant like ved.</xt>
+         </xg>
       </tg>
     </mg>
     <mg>
@@ -18726,6 +18763,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">prøve</t>
         <t pos="V">streve</t>
+         <xg>
+           <x>Mun viggen čuorvut, muhto jietna dego darvánii čoddagii.</x>
+           <xt>Jeg prøvde å rope, men det var som om stemmen satt fast i halsen.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -19063,6 +19104,24 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">plage</t>
         <t pos="V">sjenere</t>
+            <xg>
+               <x>In háliidan vuorjat earáid.</x>
+               <xt>Jeg ville ikke plage andre.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">bággehallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">tvinges</t>
+         <xg>
+           <x>Sii bággehalle sirdit ealu eret iežaset dálveorohagas.</x>
+           <xt>De ble tvunget til å flytte reinflokken bort fra vinterbeitene sine.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -19073,12 +19132,20 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">plage</t>
+         <xg>
+           <x>Máhtte vuortnuhii Máreha dainna áššiin.</x>
+           <xt>Máhtte plaget Máreha med den saka.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">tvinge</t>
         <t pos="V">presse</t>
+         <xg>
+           <x>Dovdat measta vuortnuhuvvon fárrui dohko.</x>
+           <xt>Vi føler oss nærmest tvunget med dit.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -20269,6 +20336,10 @@ For the full license text, see the link above.</lic>
         <re>en gang</re>
         <t pos="V">banke</t>
         <t pos="V">knakke</t>
+         <xg>
+           <x>Mun čoalkalan Ánne uksii, dat lea lohkas.</x>
+           <xt>Jeg banker på Anne sin dør, den er låst.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -21861,7 +21932,17 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">eksperimentere</t>
-      </tg>
+     </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>flere ganger</re>
+        <t pos="V">prøve</t>
+          <xg>
+           <x>Geahččalatta iešguđetlágan suodjegahpiriid, vai gávnnat dan mii heive du oaivái.</x>
+           <xt>Prøv forskjellige hjelmer, slik at du finner den som passer til hodet ditt.</xt>
+        </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -29208,8 +29289,8 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">sitte</t>
         <xg>
-          <x>In gille siste čohkkát.</x>
-          <xt>Jeg gidder ikke å sitte inne.</xt>
+          <x>In gille ruovttus čohkkát.</x>
+          <xt>Jeg gidder ikke å sitte hjemme.</xt>
         </xg>
       </tg>
     </mg>
@@ -30590,6 +30671,19 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">synke</t>
+            <xg>
+               <x>Fanas vuojui mearrabodnái.</x>
+               <xt>Båten sank til sjøbotn.</xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">konsentrere seg om</t>
+            <xg>
+               <x>Dutkin son vuojui earenomážit Guoládaga ja Beahcáma historjái.</x>
+               <xt>Som forsker konsentrerte han seg spesielt om historia til Kolahalvøya og Pasvik.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -33458,12 +33552,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">akte</t>
-        <t pos="Phrase">ta hensyn til</t>
       </tg>
     </mg>
     <mg x="fad">
       <tg xml:lang="nob">
         <t src="fad" pos="V">overholde</t>
+        <t pos="V">respektere</t>
       </tg>
     </mg>
   </e>
@@ -34208,7 +34302,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">forstå hverandre</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
         <t pos="V">kommunisere</t>
+            <xg>
+               <x>Sámediggi lea gulahallan Sámi Doaktáriid Servviin dán ášši birra.</x>
+               <xt>Sametinget har kommunisert med den samiske legeforeninga om denne saka.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -41041,6 +41143,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re>om band</re>
         <t pos="V">løsne</t>
+        <xg>
+          <x>Jus bárggeš nuollasa, de soames lea du juoigamin.</x>
+          <xt>Hvis komagbandsnora løsner, så er det noen som joiker deg.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -41868,10 +41974,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">bo i lavvo</t>
-        <xg>
-          <x>Go goađástalle ja čuvodedje ealu dálvet, elle bearrašat hui lahkalaga bohccuiguin.</x>
-          <xt>Når de bodde i goahti og fulgte flokken på vinteren, bodde familiene veldig tett med reinen.</xt>
-        </xg>
+          <xg>
+            <x>Son lea lávostallan sullos geasi.</x>
+            <xt>De har bodd i lavvo på øya hele sommeren.</xt>
+         </xg>
       </tg>
     </mg>
   </e>
