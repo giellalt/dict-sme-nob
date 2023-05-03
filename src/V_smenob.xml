@@ -2296,6 +2296,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">raute</t>
+            <xg>
+               <x>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat šnjirgot.</x>
+               <xt>Så hører gutten at kyrne rauter, sauene breker og hestene vrinsker.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -8001,6 +8005,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">flakse</t>
         <t pos="V">slenge</t>
+        <xg>
+          <x>fáškut báttiin</x>
+          <xt>å slenge med tau</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -13204,6 +13212,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">breke</t>
+            <xg>
+               <x>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat šnjirgot.</x>
+               <xt>Så hører gutten at kyrne rauter, sauene breker og hestene vrinsker.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -13605,8 +13617,12 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">belje</t>
         <t pos="V">brøle</t>
+        <t pos="V">belje</t>
+        <xg>
+          <x>Vuoksá muolai návehis.</x>
+          <xt>Oksen brølte i fjøsen.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -17286,6 +17302,20 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">rasle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="7">
+      <l context="mun" pos="V">snuhrrat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">snorke</t>
+            <xg>
+               <x>Don han snuhrat nu jitnosit!</x>
+               <xt>Det er du som snorker så høyt!</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -21310,6 +21340,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re>en gang</re>
         <t pos="V">slenge</t>
+        <xg>
+          <x>Nieida šlivgii lávkka láhttái.</x>
+          <xt>Jenta slengte veska på golvet.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -21320,7 +21354,18 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>flere ganger</re>
         <t pos="V">slenge</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>flere ganger</re>
+        <t pos="V">kaste</t>
+              <xg>
+               <x>In máhte dolgevuokkain šlivgut.</x>
+               <xt>Jeg kan ikke kaste med flue.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -21367,8 +21412,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">riste</t>
         <t pos="V">slenge</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">riste</t>
+            <xg>
+               <x>Nieida boagusta ja šluvgá oaivvi.</x>
+               <xt>Jenta ler og rister på hodet.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -21404,6 +21457,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">vrinske</t>
+            <xg>
+               <x>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat šnjirgot.</x>
+               <xt>Så hører gutten at kyrne rauter, sauene breker og hestene vrinsker.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
