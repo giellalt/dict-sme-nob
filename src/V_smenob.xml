@@ -6110,7 +6110,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">diskutere</t>
-        <t pos="V">trette</t>
+        <t pos="V">krangle</t>
+        <xg>
+          <x>In gille šat diggot.</x>
+          <xt>Jeg gidder ikke å krangle mer.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -17302,6 +17306,30 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">rasle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">earánastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gjøre sitt fornødne</t>
+            <xg>
+               <x>Muhtimat fitne earánastimin olgohivssegis.</x>
+               <xt>Noen gjorde sitt fornødne på utedo.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">áššodit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gjøre sitt fornødne</t>
       </tg>
     </mg>
   </e>
