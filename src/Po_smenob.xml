@@ -1267,6 +1267,35 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Po">gurrii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	    <re>bevegelse til</re>
+        <t pos="Phrase">ved siden av</t>
+          <xg>
+             <x>Jovnna čohkkeda ommána gurrii ja coggala dollii moadde muora.</x>
+             <xt>Jovnna setter seg ved ovnen og legger et par vedstykker i ilden.</xt>
+          </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">guora</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">langs med</t>
+          <xg>
+             <x>Bálgá guora golggai jogaš, ja njoammil bisánii juhkat.</x>
+             <xt>Langs med stien rant en bekk, og haren stoppet for å drikke.</xt>
+          </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="682">
       <l pos="Po">guoras</l>
     </lg>
@@ -1469,8 +1498,17 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Pr">ifølge</t>
         <xg>
-          <x>Buohkat geat leat čálihan iežaset jienastuslohkui leat dien čilgehusa mielde sámit.</x>
-          <xt>Alle som har meldt seg inn i manntallet er samer ifølge den definisjonen.</xt>
+          <x>Biera ságaid mielde leaba Ánte-guovttos náitaleame.</x>
+          <xt>I følge Per skal Ánte og kjæresten gifte seg.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">i løpet av</t>
+        <xg>
+          <x>Dáinna fertet otná beaivvi mielde geargat.</x>
+          <xt>Du må bli ferdig med dette i løpet av dagen.</xt>
         </xg>
       </tg>
     </mg>
