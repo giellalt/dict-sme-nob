@@ -15502,6 +15502,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">tiltro</t>
+            <xg>
+               <x>Danne eai oskkil midjiide eanet ovddasvástádusa.</x>
+               <xt>Derfor tiltror de ikke mer ansvar til oss.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -17105,6 +17109,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">bli mørkt</t>
+            <xg>
+               <x>Lea juo sevnnjodan go soai lahkoneaba siesá vissui.</x>
+               <xt>Det var allerede blitt mørkt da de nærmet seg tantas hus.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -18720,6 +18728,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">skumre</t>
         <t pos="V">mørkne</t>
+            <xg>
+               <x>Sola går ned og det begynner å bli skumre.</x>
+               <xt>Beaivi luoitá ja veiggodišgoahtá.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -21977,6 +21989,21 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">forelese</t>
+          <xg>
+             <x>Dutki logaldalai sámi báikenamaid birra.</x>
+             <xt>Forskeren foreleste om samiske stedsnavn.</xt>
+          </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">vuođgŋit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om jakt</re>
+        <t type="expl">vente på lur</t>
       </tg>
     </mg>
   </e>
@@ -22013,6 +22040,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">bli etter</t>
+          <xg>
+             <x>Davvi-Norga lea dál oalát bázahallamin geaidnodivodemiid ektui.</x>
+             <xt>Nord-Norge blir nå fullstendig etter når det gjelder vegvedlikehold.</xt>
+          </xg>
+          <xg>
+             <x>Cirga bázahalai eará heasttaide.</x>
+             <xt>Cirga ble etter de andre hestene.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -22025,7 +22060,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Phrase">putte fort</t>
           <xg>
-             <x>Jovnna čohkkeda ommána gurrii ja coggala dollii moadde muora.</x>
+             <x>Jovnna čohkkeda ommana gurrii ja coggala dollii moadde muora.</x>
              <xt>Jovnna setter seg ved ovnen og putter et par vedstykker i ilden.</xt>
           </xg>
       </tg>
@@ -33585,6 +33620,16 @@ For the full license text, see the link above.</lic>
           <x>Muhtin áigge geažes bávččas váidugoahtá, go deaddu luoitá.</x>
           <xt>Etter en stund blir smerten svakere, når presset avtar.</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om sola</re>
+        <t pos="Phrase">gå ned</t>
+            <xg>
+               <x>Beaivi luoitá ja veiggodišgoahtá.</x>
+               <xt>Sola går ned og det begynner å bli mørkne.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
