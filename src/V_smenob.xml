@@ -8375,7 +8375,7 @@ For the full license text, see the link above.</lic>
         <t pos="V">se</t>
         <t pos="Phrase">se på</t>
         <xg>
-          <x>Mun in gille viesu čorget, mun gal buoret manan TV geahččat.</x>
+          <x>In gille viesu čorget, mun gal buoret manan TV geahččat.</x>
           <xt>Jeg orker ikke å rydde huset, jeg skal heller se på TV.</xt>
         </xg>
         <xg>
@@ -11993,7 +11993,7 @@ For the full license text, see the link above.</lic>
         <t pos="V">tro</t>
         <t pos="V">anta</t>
         <xg>
-          <x>Mun in jáhke dáidda ságaide.</x>
+          <x>In jáhke dáidda ságaide.</x>
           <xt>Jeg tror ikke på de ryktene.</xt>
         </xg>
         <xg>
@@ -20682,7 +20682,7 @@ For the full license text, see the link above.</lic>
         <t pos="V">rydde</t>
         <t pos="V">stelle</t>
         <xg>
-          <x>Mun in gille viesu čorget, mun gal buoret manan TV geahččat.</x>
+          <x>In gille viesu čorget, mun gal buoret manan TV geahččat.</x>
           <xt>Jeg orker ikke å rydde huset, jeg skal heller se på TV.</xt>
         </xg>
       </tg>
@@ -31159,7 +31159,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">orke</t>
         <xg>
-          <x>Mun in gillen guhká surfet go lei nu jalla lossat beassat čiekŋalassii.</x>
+          <x>In gillen guhká surfet go lei nu jalla lossat beassat čiekŋalassii.</x>
           <xt>Jeg orket ikke å surfe lenge fordi det var så innmari tungt å komme seg på dypet.</xt>
         </xg>
         <xg>
@@ -33103,9 +33103,39 @@ For the full license text, see the link above.</lic>
         <re x="fad">skifte bolig</re>
         <t pos="V">flytte</t>
         <xg>
-          <x>Mun in háliit lulás fárret.</x>
+          <x>In háliit lulás fárret.</x>
           <xt>Jeg vil ikke flytte sørover.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">snoahpat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">smake på</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">snoabádit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">smake på</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">snoabádallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">småspise</t>
       </tg>
     </mg>
   </e>
