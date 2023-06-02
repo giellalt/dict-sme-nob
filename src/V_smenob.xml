@@ -18121,17 +18121,38 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">suovastuhttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>å røyke noe</re>
+        <t pos="V">røyke</t>
+        <xg>
+          <x>Mii leat goikadan ja suovastuhttán biergguid ja váimmuid.</x>
+          <xt>Vi har tørket og røkt kjøtt og hjerter.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="77">
       <l context="mun" pos="V">suovastit</l>
       <algu lekseemi_id="10717" sanue_id="92975"/>
     </lg>
     <mg>
-      <tg xml:lang="nob">
+      <tg xml:lang="nob">  
+	      <re>noe ryker</re>
         <t pos="V">ryke</t>
+        <xg>
+          <x>Omman nu suovasta.</x>
+          <xt>Ovnen ryker så.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="nob">
+	      <re>transitiv: å røyke noe</re>
         <t pos="V">røyke</t>
         <xg>
           <x>Suovasta bierggu ja guoli.</x>
