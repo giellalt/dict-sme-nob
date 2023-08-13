@@ -13137,7 +13137,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>være uheldig å tape noe</re>
         <t pos="V">miste</t>
+         <xg>
+            <x>Mun manahin vuodjinkoartta.</x>
+            <xt>Jeg mistet sertifikatet.</xt>
+         </xg>
+          <xg>
+            <x>Dien láhkai mii manahit vejolaš oahpaheddjiid.</x>
+            <xt>På denne måten mister vi potensielle lærere.</xt>
+         </xg>
       </tg>
     </mg>
   </e>
@@ -29171,7 +29180,9 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="35890" sanue_id="17193"/>
     </lg>
     <mg>
+      <l_ref>láhppit_v</l_ref>
       <tg xml:lang="nob">
+	      <re>miste, når det ikke er mulig å finne igjen</re>
         <t pos="V">miste</t>
         <xg>
           <x>Boanddat báikkážis masset olle sávzzaid boraspiriide.</x>
@@ -30666,9 +30677,20 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="32465" sanue_id="23076"/>
     </lg>
     <mg>
+      <l_ref>massit_v</l_ref>
       <tg xml:lang="nob">
-        <re x="fad">miste, eller rote bort</re>
+        <re x="fad">miste, med mulighet for at det kan finnes igjen</re>
         <t pos="V">miste</t>
+         <xg>
+            <x>Gávdnen gahpira maid ledjen láhppán.</x>
+            <xt>Jeg fant lua som jeg hadde mistet.</xt>
+         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om horn, eller strikking</re>
+        <t pos="V">felle</t>
       </tg>
     </mg>
   </e>
