@@ -8869,13 +8869,36 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="17">
-      <l context="mun" pos="V">giđđudit</l>
+      <l context="dat" pos="V">giđđudit</l>
       <algu lekseemi_id="28141" sanue_id="60678"/>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">vrimle</t>
         <t pos="V">flimre</t>
+        <xg>
+          <x>Guovssahasat giđđudit almmis.</x>
+          <xt>Nordlyset flimrer over himmelen.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">vrimle</t>
+        <xg>
+          <x>Smávva eallit giđđudit eatnama alde.</x>
+          <xt>Små dyr vrimler på jorda.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="13">
+      <l context="dat" pos="V">lahcit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">lekke</t>
+        <t pos="V">dryppe</t>
       </tg>
     </mg>
   </e>
