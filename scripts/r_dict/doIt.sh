@@ -27,7 +27,7 @@ java net.sf.saxon.Transform -it main revert_dict_dir.xsl inDir=init_dir
 #java -Xmx2048m net.sf.saxon.Transform -it main add_meta-info_smenob.xsl inDir=outx
 
 # check that properly!
-#   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+#   <xhtml:script src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 #echo    " ....... removing xhtml namespace"
 #perl -pi -e 's/^(<r) xmlns:xhtml=\".*xhtml\"(.*)$/$1$2/' outxxx/*.xml 
 

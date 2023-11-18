@@ -13,7 +13,7 @@
   <xsl:output method="xml"
 	      encoding="UTF-8"
 	      omit-xml-declaration="no"
-	      doctype-system="../../scripts/gt_dictionary.dtd"
+	      doctype-system="../../giella-core/dicts/scripts/gt_dictionary.dtd"
 	      doctype-public="-//XMLmind//DTD gt_dictionary//SE"
 	      indent="yes"/>
   
@@ -24,7 +24,7 @@
     <!-- parametrize href values! -->
 
     <xsl:processing-instruction name="xml-stylesheet">
-      <xsl:text>type="text/css" href="../../scripts/gt_dictionary.css"</xsl:text>
+      <xsl:text>type="text/css" href="../../giella-core/dicts/scripts/gt_dictionary.css"</xsl:text>
     </xsl:processing-instruction>
     
     <xsl:text>

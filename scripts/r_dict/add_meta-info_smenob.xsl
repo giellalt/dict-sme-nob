@@ -15,7 +15,7 @@
   <xsl:output method="xml" name="xml"
 	      encoding="UTF-8"
 	      omit-xml-declaration="no"
-	      doctype-system="../../scripts/gt_dictionary.dtd"
+	      doctype-system="../../giella-core/dicts/scripts/gt_dictionary.dtd"
 	      doctype-public="-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 	      indent="yes"/>
   
@@ -46,13 +46,13 @@
 	<xsl:result-document href="{$outDir}/{$current_file}" format="{$of}">
 	  
 	  <xsl:processing-instruction name="xml-stylesheet">
-	    <xsl:text>title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"</xsl:text>
+	    <xsl:text>title="Dictionary view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary.css" type="text/css"</xsl:text>
 	  </xsl:processing-instruction>
 	  
 	  <xsl:value-of select="$nl"/>
 	  
 	  <xsl:processing-instruction name="xml-stylesheet">
-	    <xsl:text>alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"</xsl:text>
+	    <xsl:text>alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css" type="text/css"</xsl:text>
 	  </xsl:processing-instruction>
 	  
 	  <xsl:value-of select="$nl"/>
@@ -83,7 +83,7 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 	    <xsl:copy-of select="./r/*"/>
-	    <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+	    <xhtml:script src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 	  </r>
 	</xsl:result-document>
       </xsl:if>
