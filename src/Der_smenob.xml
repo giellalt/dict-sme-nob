@@ -541,7 +541,18 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">Actio+Loc</l> <!-- diehtimis -->
+         <l pos="V">Actio+Ess</l> <!-- diehtimin -->
+      </lg>
+      <mg>
+         <tg xml:lang="nob"> 
+            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+essiv">Les om aktio essiv</t>
+            <morph_expl>om en uavsluttet handling</morph_expl>
+         </tg>
+      </mg>
+   </e>
+<!--   <e>
+      <lg>
+         <l pos="V">Actio+Loc</l>  
       </lg>
       <mg>
          <tg xml:lang="nob"> 
@@ -552,18 +563,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">Actio+Ess</l> <!-- diehtimin -->
-      </lg>
-      <mg>
-         <tg xml:lang="nob"> 
-            <t type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+essiv">Les om aktio essiv</t>
-            <morph_expl>om en uavsluttet handling</morph_expl>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">Actio+Nom</l> <!-- diehtin -->
+         <l pos="V">Actio+Nom</l>  
       </lg>
       <mg>
          <tg xml:lang="nob"> 
@@ -574,7 +574,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="V">Actio+Gen</l> <!-- diehtin -->
+         <l pos="V">Actio+Gen</l>  
       </lg>
       <mg>
          <tg xml:lang="nob"> 
@@ -582,7 +582,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
             <morph_expl>om en handling</morph_expl>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e>
       <lg>
          <l pos="V">Neg+Sup</l> <!-- amame -->
