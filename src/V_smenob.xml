@@ -13055,6 +13055,34 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">gožuduvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">tilsotes</t>
+        <xg>
+          <x>Buorre lea diehtit makkár muorra buorit biktá ja buollá guhká.</x>
+          <xt>Det er bra å vite hvilken tresort som varmer godt og brenner lenge.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">biktit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">varme</t>
+        <xg>
+          <x>Buorre lea diehtit makkár muorra buorit biktá ja buollá guhká.</x>
+          <xt>Det er bra å vite hvilken tresort som varmer godt og brenner lenge.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="8">
       <l context="mun" pos="V">láikošit</l>
     </lg>
@@ -13074,6 +13102,12 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">klandre</t>
         <t pos="V">kritisere</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>tornesamisk</re>
+        <t pos="Phrase">lage mat</t>
       </tg>
     </mg>
   </e>
@@ -20136,6 +20170,10 @@ For the full license text, see the link above.</lic>
   <e>
     <lg freq="2291">
       <l context="mun" pos="V">ávkkástallat</l>
+        <xg>
+          <x>Beroštupmi ávkkástallat luondduresurssaiguin lea lassáneamen.</x>
+          <xt>Interessen for å utnytte naturressurser øker.</xt>
+        </xg>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -20740,6 +20778,17 @@ For the full license text, see the link above.</lic>
           <x>Lulábealde viesu lea buorre čohkohaddat.</x>
           <xt>På sørsiden av huset er det godt å sitte.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">šnjivžut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om bål</re>
+        <t pos="Phrase">flamme høyt</t>
       </tg>
     </mg>
   </e>
@@ -31861,6 +31910,51 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">ganastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t type="expl">beite lav på stein eller bjørk</t>
+     </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">njalkkastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">gli</t>
+     </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">ruovdádit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>med kniv</re>
+        <t pos="V">stikke</t>
+         <xg>
+          <x>Son ruovdáda bohcco.</x>
+          <xt>Han stikker reinen.</xt>
+        </xg>
+     </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">uvhridit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">ofre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="215">
       <l context="mun" pos="V">oaffaruššat</l>
       <lc>-rušai</lc>
@@ -32989,6 +33083,17 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="upers" pos="V">ráššudit</l>
+      <algu lekseemi_id="4806" sanue_id="2206"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">regne kraftig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="311">
       <l context="mun" pos="V">čurvet</l>
       <lc>(mon) čurvejin</lc>
@@ -33011,6 +33116,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re x="fad">om vind; frembringe susende lyd ved hurtig bevegelse</re>
         <t pos="V">suse</t>
+        <xg>
+          <x>Soagi lasttat šuvvet.</x>
+          <xt>Bjørkeløvet suser.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -34815,6 +34924,29 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">jovssahallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t type="expl">være uheldig å bli innhentet av</t>
+            <xg>
+               <x>Rieban jovssahalai gumpii.</x>
+               <xt>Reven ble innhenta av ulven.</xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t type="expl">være uheldig å bli utsatt for</t>
+            <xg>
+               <x>Jus heajos dálkái jovssahalat, de lea dehálaš ahte dus leat buorit biktasat.</x>
+               <xt>Hvis du blir utsatt for dårlig vær, er det viktig at du har gode klær.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="1839">
       <l context="mun" pos="V">bisuhit</l>
       <lc>(dat) bisuha</lc>
@@ -34950,6 +35082,12 @@ For the full license text, see the link above.</lic>
           <x>Guđa mánu geahčen oažžu dollet Olmmáivággái.</x>
           <xt>Om seks måneder får hun dra til Manndalen.</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>tornesamisk</re>
+        <t pos="Phrase">lage bål</t>
       </tg>
     </mg>
   </e>
