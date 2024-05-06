@@ -6687,6 +6687,38 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">guhkkeliidda</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">litt lenger bort</t>
+        <xg>
+          <x>Juohke lávki doalvu munno guhkkeliidda ruovttus eret.</x>
+          <xt>Hvert skritt fører oss to litt lenger bort hjemmefra.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">bieđgguid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">spredt</t>
+        <xg>
+          <x>Olbmot ásset bieđgguid.</x>
+          <xt>Folk bor spredt.</xt>
+        </xg>
+        <xg>
+          <x>Materiálat leat bieđgguid máŋgga arkiivvas.</x>
+          <xt>Materialet er spredt på mange arkiver.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="517">
       <l pos="Adv">dađe</l>
     </lg>
@@ -7122,11 +7154,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">likeså</t>
+        <t pos="Phrase">så pass</t>
         <xg>
           <x>Sus leat dan mađe ahte birge.</x>
           <xt>Hun hadde så pass at hun klarte seg.</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">jo</t>
         <xg>
           <x>Mađe stuorit, dađe buoret.</x>
           <xt>Jo større, desto bedre.</xt>
@@ -7141,11 +7178,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">likeså</t>
+        <t pos="Phrase">så pass</t>
         <xg>
           <x>Sus leat dan mađi ahte birge.</x>
           <xt>Hun hadde så pass at hun klarte seg.</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">jo</t>
         <xg>
           <x>Mađi stuorit, dađi buoret.</x>
           <xt>Jo større, desto bedre.</xt>
@@ -7854,6 +7896,17 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">allerede</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">diehttelasat</l>
+      <algu lekseemi_id="21676" sanue_id="21164"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">naturligvis</t>
       </tg>
     </mg>
   </e>
@@ -8825,6 +8878,66 @@ For the full license text, see the link above.</lic>
           <x>Mun vulgen Ánne lusa dakka maŋŋel skuvlla.</x>
           <xt>Jeg dro til Ánne straks etter skolen.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">Ruošša bealde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">på russisk side</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">fra russisk side</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">Ruoŧa bealde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">på svensk side</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">fra svensk side</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">Suoma bealde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">på finsk side</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">fra finsk side</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">Norgga bealde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">på norsk side</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">fra norsk side</t>
       </tg>
     </mg>
   </e>
