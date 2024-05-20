@@ -1479,6 +1479,34 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="dat" pos="V">skohpalastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">få gnagsår</t>
+            <xg>
+               <x>Mus leat suorpmat skohpalastán.</x>
+               <xt>Fingrene mine har fått gnagsår.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">gohpalastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">få gnagsår</t>
+            <xg>
+               <x>Mus leat suorpmat gohpalastán.</x>
+               <xt>Fingrene mine har fått gnagsår.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="0">
       <l context="mun" pos="V">deddohallat</l>
     </lg>
@@ -18952,10 +18980,26 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>intransitiv: foten vrikkes</re>
         <t pos="V">vrikkes</t>
         <xg>
           <x>Mus vealččehii juolgi šiljus oalle bahuid.</x>
           <xt>Jeg vrikket foten ganske stygt på banen.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">mulččihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>intransitiv: foten vrikkes</re>
+        <t pos="V">vrikkes</t>
+        <xg>
+          <x>Høglis mulččihii juolgi gaskavahkku spábbačiekčanhárjehallamis.</x>
+          <xt>Høgli vrikket foten onsdag under fotballtreninga.</xt>
         </xg>
       </tg>
     </mg>
@@ -26387,6 +26431,20 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">deađvasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">klemmes</t>
+        <xg>
+          <x>Suorbmageahči lea deađvasan, muhto ii leat hávvi.</x>
+          <xt>Fingertuppen er klemt, men det ikke er sår.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
   <e src="fad">
     <lg freq="52">
       <l context="mun" pos="V">hávváduvvat</l>
@@ -26394,6 +26452,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">kvestes</t>
+        <t pos="V">skades</t>
+        <xg>
+          <x>Guokte beatnaga hávváduvve.</x>
+          <xt>To hunder ble skadet.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -27011,6 +27074,48 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">bli ferdigstilt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gáskkahallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli bitt</t>
+        <xg>
+          <x>Gáskkahallen beatnagii márkanis.</x>
+          <xt>Jeg ble bitt av en hund nede i bygda.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gaccohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli klort</t>
+        <xg>
+          <x>Go gaccohallá beatnagii dahje bussái, de sáhttá vuolšut.</x>
+          <xt>Når man blir klort av en hund eller ei katt, kan det bli infeksjon.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gaccohaddat</l>
+        <xg>
+          <x>Go gaccohaddá beatnagii dahje bussái, de sáhttá vuolšut.</x>
+          <xt>Når man blir klort av en hund eller ei katt, kan det bli infeksjon.</xt>
+        </xg>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli klort</t>
       </tg>
     </mg>
   </e>
