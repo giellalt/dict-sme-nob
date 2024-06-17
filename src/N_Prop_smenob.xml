@@ -35,16 +35,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e>
-      <lg freq="0">
-         <l pos="N" type="Prop" sem_type="Org">Kristtalašálbmotbellodat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" type="Prop" sem_type="Org">Høyre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="724">
          <l pos="N" type="Prop" sem_type="Org">Olgešbellodat</l>
       </lg>
@@ -404,7 +394,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="0">
-         <l pos="N" type="Prop" sem_type="Plc">Viestarbađaeana</l>
+         <l pos="N" type="Prop" sem_type="Plc">Viesttarbađaeana</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1179,7 +1169,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="SK">
       <lg freq="43">
-         <l pos="N" type="Prop" sem_type="Plc">Báhčaveaivuotna</l>
+         <l pos="N" type="Prop" sem_type="Plc">Báhčaveajvuotna</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -4726,7 +4716,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="340">
-         <l pos="N" type="Prop" sem_type="Plc">Dálošvággi</l>
+         <l pos="N" type="Prop" sem_type="Plc">Dálusvággi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5311,7 +5301,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="nou94">
       <lg freq="25">
-         <l pos="N" type="Prop" sem_type="Plc">Báhčaveaileahki</l>
+         <l pos="N" type="Prop" sem_type="Plc">Báhčaveajleahki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5808,20 +5798,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e src="fad">
-      <lg freq="1">
-         <l pos="N" type="Prop">AGM-ovddideapmi</l>
-         <lsub>AGM-ovdáneapmi</lsub>
-         <lsub>AGM-ovdánahttin</lsub>
-         <lsub>ABM-ovdánahttin</lsub>
-         <lsub>ABM-ovddideapmi</lsub>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" type="Prop">ABM-utvikling</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="22">
          <l pos="N" type="Prop">Geaidnodirektoráhtta</l>
       </lg>
@@ -5958,16 +5934,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Romania</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop">Sveica</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Sveits</t>
          </tg>
       </mg>
    </e>
