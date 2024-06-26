@@ -6,7 +6,7 @@ Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more gen
 
 # Definišuvdnasátnegirjji dokumentašuvdna
 
-- [Redigeringshandbok](nds/redigeringshandbok.md)
+- [Redigeringshandbok](redigeringshandbok.md)
 - [Arbeidsplan 2024](arbeidsplan.html)
 - [Testing dict-FSTs ](https://giellalt.github.io/dicts/TestingDictFST.html)
 
