@@ -3,6 +3,14 @@
 Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
 
 
+
+# Definišuvdnasátnegirjji dokumentašuvdna
+
+- [Redigeringshandbok](nds/redigeringshandbok.md)
+- [Arbeidsplan 2024](arbeidsplan.html)
+- [Testing dict-FSTs ](https://giellalt.github.io/dicts/TestingDictFST.html)
+
+
 # Online dictionaries
 
 - [Nieahtadigisánit for North Sámi, Finnish, Norwegian and Spanish](https://sanit.oahpa.no/)
