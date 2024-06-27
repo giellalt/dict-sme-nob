@@ -10,6 +10,10 @@ Avgrensninger (alle ord en gruppe, eller bare noen få? Jf tall) , arbeidslister
 
 ## Ulike definisjonstypar
 
+# Teknisk arbeid før sommaren
+
+- dtd (Trond, deretter Lene)
+- 
 
 # Arbeid med definisjonar
 
