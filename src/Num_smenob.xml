@@ -4,7 +4,7 @@
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../dtd/smenob.dtd">
+"../../giella-core/dicts/scripts/gt_dictionary.dtd">
 <r id="smenob" xml:lang="sme">
   <lics xml:space="preserve">
     <lic xml:lang="en">
@@ -375,9 +375,21 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="29809" sanue_id="85132"/>
     </lg>
     <mg>
+      <l_ref>guđas_n</l_ref>
+      <dg>
+        <d>vuođđolohku 6</d>
+      </dg>
       <tg xml:lang="nob">
-        <t pos="Num">6</t>
+        <t pos="Num">seks</t>
       </tg>
+      <xg>
+        <x>Kurssas ledje guhtta oasseváldi.</x>
+        <xt>Kurset hadde seks deltakere.</xt>
+      </xg>
+      <xg>
+        <x>In leat leamaš doppe guđa jahkái.</x>
+        <xt>Jeg har ikke vært der på seks år.</xt>
+      </xg>
     </mg>
   </e>
   <e>
