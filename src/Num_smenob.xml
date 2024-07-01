@@ -3,8 +3,11 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!-- 
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd"> 
+-->
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../giella-core/dicts/scripts/gt_dictionary.dtd">
+"../dtd/smenob.dtd">
 <r id="smenob" xml:lang="sme">
   <lics xml:space="preserve">
     <lic xml:lang="en">
@@ -908,6 +911,9 @@ For the full license text, see the link above.</lic>
       <dg>
         <d>vuođđolohku 100</d>
       </dg>
+      <com>
+        <c>eahpesihkar mo čuohti geavahuvvo, omd. akkusatiivvas?</c>
+      </com>
       <tg xml:lang="nob">
         <t pos="Num">hundre</t>
       </tg>
