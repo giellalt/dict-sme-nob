@@ -174,19 +174,18 @@
       class CDATA #IMPLIED
 >
 
-<!ELEMENT mg (semantics?, l_ref?, dg?, com?, tg+, xg* ) >
+<!ELEMENT mg (semantics?, l_ref?, dg?, tg+, xg* ) >
 <!ATTLIST mg
       xml:lang ( sme | nob | fin | swe | rus | smn ) #IMPLIED
       rest CDATA #IMPLIED
 >
 <!ATTLIST mg id CDATA #IMPLIED >
 <!ATTLIST mg src CDATA #IMPLIED >
+<!ATTLIST mg c CDATA #IMPLIED >
 <!ATTLIST mg x ( fad ) #IMPLIED >
 
 <!ELEMENT dg ( d ) >
-<!ELEMENT com ( c ) >
 <!-- definition, synonym, antonym -->
-<!ELEMENT c (#PCDATA) >
 <!ELEMENT d (#PCDATA) >
 <!ELEMENT s (#PCDATA) >
 <!ELEMENT ant (#PCDATA) >
