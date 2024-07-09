@@ -213,7 +213,7 @@
 <!ATTLIST t freq CDATA #IMPLIED >
 <!ATTLIST t oa ( first | yes | no ) #IMPLIED  >
 <!ATTLIST t dict ( yes | no ) #IMPLIED  >
-<!ATTLIST t t_type ( Pers | expl ) #IMPLIED  >
+<!ATTLIST t t_type ( expl | grammarexpl ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
 <!ATTLIST t pos ( A | S  | N  | V | Adp | Clt |
             Adv | P | Pr | Po | Det |
@@ -233,9 +233,7 @@
             pcle | s  | prsprc | phrase | fp-cmp | lp-cmp | cmp | x  | xxx |
       phrase_n | phrase_a | phrase_v | phrase_adv | g3 | NomAg | mwe ) #IMPLIED >
 -->
-<!ATTLIST t type ( expl
-                  | grammarexpl |Prop | Indef | G3 | NomAg | Coll | Recipr | Pers
-                  | grammar | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >
+<!ATTLIST t type ( Prop | Indef | G3 | NomAg | Coll | Recipr | Pers | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >
 <!ATTLIST t decl ( 1 | 2 | 3 | 4 | 5 | x | irr | i | yyy ) #IMPLIED> <!-- irr irregular -->
 <!ATTLIST t gen ( m | f | n | xxx ) #IMPLIED >
 <!ATTLIST t lang ( swe | nob ) #IMPLIED >
