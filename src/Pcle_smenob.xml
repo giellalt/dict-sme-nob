@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t type="expl">for framheving</t>
+        <t t_type="expl">for framheving</t>
         <xg>
           <x>Dievasčoahkkin dat mearrida bušeahta.</x>
           <xt>Det er plenumsmøtet som bestemmer budsjettet.</xt>
@@ -49,7 +49,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">mon tro</t>
-		<t type="grammarexpl" href="http://oahpa.no/sme/gramm/partikler.nob.html">Les om partikler</t>
+		<t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/partikler.nob.html">Les om partikler</t>
 		<xg>
           <x>Maid son Issát jurddaša?</x>
           <xt>Mon tro hva Issát tenker?</xt>
@@ -96,7 +96,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Phrase">få se</t>
         <t pos="Phrase">kom an</t>
-		<t type="grammarexpl" href="http://oahpa.no/sme/gramm/partikler.nob.html">Les om partikler</t>
+		<t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/partikler.nob.html">Les om partikler</t>
         <xg>
           <x>Hás it njuike fárrui!</x>
           <xt>Få se om du blir med!</xt>
@@ -290,7 +290,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>i spørsmål</re>
-        <t type="grammar" href="http://oahpa.no/sme/gramm/syntaks.nob.html#go-spørsmål">spørrepartikkel</t>
+        <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/syntaks.nob.html#go-spørsmål">spørrepartikkel</t>
         <xg>
           <x>Boađát go deike?</x>
           <xt>Kommer du hit?</xt>
