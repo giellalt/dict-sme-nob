@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -6,9 +6,10 @@
 <!--
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smenob.dtd">
 -->
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smenob.dtd"> 
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
-  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/smenob.dtd">
+<r id="smenob" xml:lang="sme">
+  <lics xml:space="preserve">
     <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -31,7 +32,7 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
   </lics>
-   <e>
+  <e>
     <lg>
       <l pos="Adv">vuostegulgii</l>
     </lg>
@@ -41,7 +42,7 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-   <e>
+  <e>
     <lg>
       <l pos="Adv">miehtegulgii</l>
     </lg>
@@ -51,7 +52,7 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-   <e>
+  <e>
     <lg>
       <l pos="Adv">árvvusge</l>
     </lg>
@@ -61,7 +62,7 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-   <e>
+  <e>
     <lg>
       <l pos="Adv">árvvusnai</l>
     </lg>
@@ -71,7 +72,7 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
- <e>
+  <e>
     <lg>
       <l ader="kreatiivvalaš" pos="Adv">kreatiivvalaččat</l>
     </lg>
@@ -83,15 +84,26 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l pos="Adv">láskut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">vannrett</t>
+        <t pos="Adv">horisontal</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="Adv">ceahkkálagaid</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">gradvis</t>
-            <xg>
-               <x>Giellamolsun dáhpáhuvvá dábálaččat ceahkkálagaid.</x>
-               <xt>Språkskiftet skjer vanligvis gradvis.</xt>
-            </xg>
+        <xg>
+          <x>Giellamolsun dáhpáhuvvá dábálaččat ceahkkálagaid.</x>
+          <xt>Språkskiftet skjer vanligvis gradvis.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -102,10 +114,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">gradvis</t>
-            <xg>
-               <x>Giellamolsun dáhpáhuvvá dábálaččat ceahkkálaga.</x>
-               <xt>Språkskiftet skjer vanligvis gradvis.</xt>
-            </xg>
+        <xg>
+          <x>Giellamolsun dáhpáhuvvá dábálaččat ceahkkálaga.</x>
+          <xt>Språkskiftet skjer vanligvis gradvis.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -148,7 +160,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-	      <re>falle sammen, sette sammen</re>
+        <re>falle sammen, sette sammen</re>
         <t pos="Adv">sammen</t>
         <xg>
           <x>Viessu ii lean nanus, ja dat gahčai čoahkkái.</x>
@@ -206,10 +218,8 @@ For the full license text, see the link above.</lic>
           <xt>hvor som helst</xt>
         </xg>
         <xg>
-          <x>Norggas lei buot sámi mánáin vuoigatvuohta oažžut oahpahusa sámegielas vuođđoskuvllas gos ihkinassii
-               orro.</x>
-          <xt>I Norge hadde alle samiske barn rett til å få undervisning i samisk i grunnskolen uansett hvor de
-               bodde.</xt>
+          <x>Norggas lei buot sámi mánáin vuoigatvuohta oažžut oahpahusa sámegielas vuođđoskuvllas gos ihkinassii orro.</x>
+          <xt>I Norge hadde alle samiske barn rett til å få undervisning i samisk i grunnskolen uansett hvor de bodde.</xt>
         </xg>
       </tg>
     </mg>
@@ -398,7 +408,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">muhtun muddui</l>
+      <l pg="no" pos="Adv">muhtun muddui</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -408,7 +418,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">man láhkai</l>
+      <l pg="no" pos="Adv">man láhkai</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -418,7 +428,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">iešguđet ládje</l>
+      <l pg="no" pos="Adv">iešguđet ládje</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -428,7 +438,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">minuvttat nala</l>
+      <l pg="no" pos="Adv">minuvttat nala</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -438,7 +448,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">minuvttat ala</l>
+      <l pg="no" pos="Adv">minuvttat ala</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -448,7 +458,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">diimmut nala</l>
+      <l pg="no" pos="Adv">diimmut nala</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -458,7 +468,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">diimmut ala</l>
+      <l pg="no" pos="Adv">diimmut ala</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -468,7 +478,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">beaivvát nala</l>
+      <l pg="no" pos="Adv">beaivvát nala</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -478,7 +488,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">beaivvát ala</l>
+      <l pg="no" pos="Adv">beaivvát ala</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -488,7 +498,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">gaskaneame</l>
+      <l pg="no" pos="Adv">gaskaneame</l>
       <analysis>Adv_PxDu1</analysis>
     </lg>
     <mg>
@@ -504,7 +514,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">gaskaneatte</l>
+      <l pg="no" pos="Adv">gaskaneatte</l>
       <analysis>Adv_PxDu2</analysis>
     </lg>
     <mg>
@@ -520,7 +530,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">gaskaneaskka</l>
+      <l pg="no" pos="Adv">gaskaneaskka</l>
       <analysis>Adv_PxDu3</analysis>
     </lg>
     <mg>
@@ -536,7 +546,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">gaskaneamet</l>
+      <l pg="no" pos="Adv">gaskaneamet</l>
       <analysis>Adv_PxPl1</analysis>
     </lg>
     <mg>
@@ -552,7 +562,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">gaskaneattet</l>
+      <l pg="no" pos="Adv">gaskaneattet</l>
       <analysis>Adv_PxPl2</analysis>
     </lg>
     <mg>
@@ -568,7 +578,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">gaskaneaset</l>
+      <l pg="no" pos="Adv">gaskaneaset</l>
       <analysis>Adv_PxPl3</analysis>
     </lg>
     <mg>
@@ -1017,10 +1027,9 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Phrase">gjennom kråkesølvvinduet</t>
         <xg>
-          <x src="S. B. Johansen 2010: Sárá beaivegirji s. 79.">... ferte duhtat dasa go beassá
-               riebangolleglássaráigge guovlat goaskima.</x>
-          <xt src="S. B. Johansen 2010: Saras dagbok s. 75.">... han må nøye seg med å se på henne gjennom
-               kråkesølvvinduet sitt.</xt>
+          <x src="S. B. Johansen 2010: Sárá beaivegirji s. 79.">... ferte duhtat dasa go beassá riebangolleglássaráigge guovlat
+          goaskima.</x>
+          <xt src="S. B. Johansen 2010: Saras dagbok s. 75.">... han må nøye seg med å se på henne gjennom kråkesølvvinduet sitt.</xt>
         </xg>
       </tg>
     </mg>
@@ -1501,10 +1510,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">skeivt</t>
-            <xg>
-               <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
-               <xt>Gutten tråkket skjevt, og plutselig var han liggende.</xt>
-            </xg>
+        <xg>
+          <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
+          <xt>Gutten tråkket skjevt, og plutselig var han liggende.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -2765,27 +2774,27 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">riktignok</t>
-            <xg>
-               <x>Ássat mii gal davvin, muhto dáppe eai leat dušše sámit.</x>
-               <xt>Vi bor riktignok i nord, men her er det ikke bare samer.</xt>
-            </xg>
+        <xg>
+          <x>Ássat mii gal davvin, muhto dáppe eai leat dušše sámit.</x>
+          <xt>Vi bor riktignok i nord, men her er det ikke bare samer.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="nob">
         <t t_type="expl">forsterkende ('virkelig')</t>
-            <xg>
-               <x>Nu gal lea.</x>
-               <xt>Slik er det (virkelig).</xt>
-            </xg>
-            <xg>
-               <x>Dan gal lean vajálduhttán.</x>
-               <xt>Det har jeg (virkelig) glemt.</xt>
-            </xg>
-            <xg>
-               <x>De gal in háliit dohko vuolgit.</x>
-               <xt>Da vil jeg (virkelig) ikke dra dit.</xt>
-            </xg>
+        <xg>
+          <x>Nu gal lea.</x>
+          <xt>Slik er det (virkelig).</xt>
+        </xg>
+        <xg>
+          <x>Dan gal lean vajálduhttán.</x>
+          <xt>Det har jeg (virkelig) glemt.</xt>
+        </xg>
+        <xg>
+          <x>De gal in háliit dohko vuolgit.</x>
+          <xt>Da vil jeg (virkelig) ikke dra dit.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -2827,10 +2836,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">tidsnok</t>
         <t pos="Phrase">i tide</t>
-            <xg>
-               <x>Jos son boahtá áiggil, de válddán su mielde go boađán din lusa.</x>
-               <xt>Hvis hun kommer tidsnok, så tar jeg henne med når jeg kommer til dere.</xt>
-            </xg>
+        <xg>
+          <x>Jos son boahtá áiggil, de válddán su mielde go boađán din lusa.</x>
+          <xt>Hvis hun kommer tidsnok, så tar jeg henne med når jeg kommer til dere.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -3223,10 +3232,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">uuttalt</t>
-            <xg>
-               <x>Son barggai váibbakeahttá alpinluohká ásahemiin.</x>
-               <xt>Han arbeidet utrettelig med etableringa av alpinbakken.</xt>
-            </xg>
+        <xg>
+          <x>Son barggai váibbakeahttá alpinluohká ásahemiin.</x>
+          <xt>Han arbeidet utrettelig med etableringa av alpinbakken.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -3237,10 +3246,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">uerstattelig</t>
-            <xg>
-               <x>Son barggai váibbakeahttá alpinluohká ásahemiin.</x>
-               <xt>Han arbeidet utrettelig med etableringa av alpinbakken.</xt>
-            </xg>
+        <xg>
+          <x>Son barggai váibbakeahttá alpinluohká ásahemiin.</x>
+          <xt>Han arbeidet utrettelig med etableringa av alpinbakken.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -3251,10 +3260,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">utrettelig</t>
-            <xg>
-               <x>Son barggai váibbakeahttá alpinluohká ásahemiin.</x>
-               <xt>Han arbeidet utrettelig med etableringa av alpinbakken.</xt>
-            </xg>
+        <xg>
+          <x>Son barggai váibbakeahttá alpinluohká ásahemiin.</x>
+          <xt>Han arbeidet utrettelig med etableringa av alpinbakken.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -3266,10 +3275,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">uansett</t>
         <t pos="Phrase">uavhengig av</t>
-            <xg>
-               <x>Norggas lei buot sámi mánáin vuoigatvuohta oažžut oahpahusa sámegielas vuođđoskuvllas beroškeahttá gos orro.</x>
-               <xt>I Norge hadde alle samiske barn rett til å få undervisning i samisk i grunnskolen uansett hvor de bodde.</xt>
-            </xg>
+        <xg>
+          <x>Norggas lei buot sámi mánáin vuoigatvuohta oažžut oahpahusa sámegielas vuođđoskuvllas beroškeahttá gos orro.</x>
+          <xt>I Norge hadde alle samiske barn rett til å få undervisning i samisk i grunnskolen uansett hvor de bodde.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -3281,10 +3290,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">objektivt</t>
         <t pos="Adv">nøytralt</t>
-            <xg>
-               <x>Dutki geahččala nu bealátkeahttá go vejolaš lahkonit fáddái.</x>
-               <xt>Forskeren forsøker så objektivt som mulig å nærme seg temaet.</xt>
-            </xg>
+        <xg>
+          <x>Dutki geahččala nu bealátkeahttá go vejolaš lahkonit fáddái.</x>
+          <xt>Forskeren forsøker så objektivt som mulig å nærme seg temaet.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -3332,7 +3341,7 @@ For the full license text, see the link above.</lic>
           <xt>Kom inn med en gang!</xt>
         </xg>
       </tg>
-    </mg> 
+    </mg>
   </e>
   <e>
     <lg>
@@ -4292,11 +4301,11 @@ For the full license text, see the link above.</lic>
           <x>Soai sáhtiiga váldit jugástaga, muhto eaba goassige badjelmeare.</x>
           <xt>De kunne ta seg en dram, men aldri for mye.</xt>
         </xg>
-         <xg>
+        <xg>
           <x>Biila lea badjelmeare divrras.</x>
           <xt>Bilen var umåtelig dyr.</xt>
         </xg>
-     </tg>
+      </tg>
     </mg>
   </e>
   <e>
@@ -5402,10 +5411,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">ellers</t>
-            <xg>
-               <x>Veahá čoaskkis, muhto minddar fiidná dálki.</x>
-               <xt>Litt kjølig, men ellers fint vær.</xt>
-            </xg>
+        <xg>
+          <x>Veahá čoaskkis, muhto minddar fiidná dálki.</x>
+          <xt>Litt kjølig, men ellers fint vær.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -5480,10 +5489,8 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">fram</t>
         <xg>
-          <x>Ruoŧa eanagirjjiin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles
-               Finnmárkkus.</x>
-          <xt>I svenske jordebøker fra årene 1738-1741 kommer det fram at privat eie av jord var vanlig i hele
-               Finnmark.</xt>
+          <x>Ruoŧa eanagirjjiin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles Finnmárkkus.</x>
+          <xt>I svenske jordebøker fra årene 1738-1741 kommer det fram at privat eie av jord var vanlig i hele Finnmark.</xt>
         </xg>
       </tg>
     </mg>
@@ -5521,8 +5528,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">ellers</t>
         <xg>
-          <x>Jos ohccit muđui leat dohkálaččat, de vuoruhuvvojit dat geain lea gelbbolašvuohta sihke dárogielas ja
-               sámegielas.</x>
+          <x>Jos ohccit muđui leat dohkálaččat, de vuoruhuvvojit dat geain lea gelbbolašvuohta sihke dárogielas ja sámegielas.</x>
           <xt>Hvis søkerne ellers er kvalifiserte, prioriteres de som har kompetanse i både norsk og samisk.</xt>
         </xg>
       </tg>
@@ -5801,28 +5807,28 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">utvendig</t>
-            <xg>
-               <x>Mun lean divodan viesu sihke siskkil ja olggul.</x>
-               <xt>Jeg har reparert huset både innvendig og utvendig.</xt>
-            </xg>
+        <xg>
+          <x>Mun lean divodan viesu sihke siskkil ja olggul.</x>
+          <xt>Jeg har reparert huset både innvendig og utvendig.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">utenfra</t>
-            <xg>
-               <x>Gielladiđolaš máhttá oaidnit giela olggul.</x>
-               <xt>En språkbevisst person kan se språket utenfra.</xt>
-            </xg>
+        <xg>
+          <x>Gielladiđolaš máhttá oaidnit giela olggul.</x>
+          <xt>En språkbevisst person kan se språket utenfra.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">utenat</t>
-            <xg>
-               <x>Mun máhtán visot olggul.</x>
-               <xt>Jeg kan alt utenat.</xt>
-            </xg>
+        <xg>
+          <x>Mun máhtán visot olggul.</x>
+          <xt>Jeg kan alt utenat.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -5932,8 +5938,8 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">trolig</t>
         <xg>
-			<x>Biti lea jáhkkimis vuosttaš čiekči.</x>
-			<xt>Biti er trolig den første spilleren.</xt>         
+          <x>Biti lea jáhkkimis vuosttaš čiekči.</x>
+          <xt>Biti er trolig den første spilleren.</xt>
         </xg>
       </tg>
     </mg>
@@ -5946,8 +5952,8 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">tomhendt</t>
         <xg>
-			<x>Sii máhcce guorosnaga ruoktut.</x>
-			<xt>De dro tomhendte tilbake hjem.</xt>         
+          <x>Sii máhcce guorosnaga ruoktut.</x>
+          <xt>De dro tomhendte tilbake hjem.</xt>
         </xg>
       </tg>
     </mg>
@@ -6043,10 +6049,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">gjennom døråpninga</t>
-             <xg>
-               <x>Mana sisa uksaráigge!</x>
-               <xt>Gå inn gjennom døråpninga!</xt>
-            </xg>
+        <xg>
+          <x>Mana sisa uksaráigge!</x>
+          <xt>Gå inn gjennom døråpninga!</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -6231,10 +6237,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">innvendig</t>
-            <xg>
-               <x>Mun lean divodan viesu sihke siskkil ja olggul.</x>
-               <xt>Jeg har reparert huset både innvendig og utvendig.</xt>
-            </xg>
+        <xg>
+          <x>Mun lean divodan viesu sihke siskkil ja olggul.</x>
+          <xt>Jeg har reparert huset både innvendig og utvendig.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -6456,10 +6462,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">liggende</t>
-            <xg>
-               <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
-               <xt>Gutten tråkket skjevt, og plutselig var han liggende.</xt>
-            </xg>
+        <xg>
+          <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
+          <xt>Gutten tråkket skjevt, og plutselig var han liggende.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -7040,10 +7046,9 @@ For the full license text, see the link above.</lic>
           <xt>De legger ikke bare vekt på samisk kultur, men også på flerkulturelle forhold.</xt>
         </xg>
         <xg>
-          <x>Sámediggi lea miehtan sutnje máksit 800 ruvnno juohke árgabeaivvi ovddas, muhto ii fal lávvordagaid,
-               sotnabeivviid ja bassebeivviid ovddas.</x>
-          <xt>Sametinget har gått med på å betale 800 kr for hver hverdag, men ikke for lørdager, søndager og
-               helligdager.</xt>
+          <x>Sámediggi lea miehtan sutnje máksit 800 ruvnno juohke árgabeaivvi ovddas, muhto ii fal lávvordagaid, sotnabeivviid ja
+          bassebeivviid ovddas.</x>
+          <xt>Sametinget har gått med på å betale 800 kr for hver hverdag, men ikke for lørdager, søndager og helligdager.</xt>
         </xg>
       </tg>
     </mg>
@@ -7338,7 +7343,7 @@ For the full license text, see the link above.</lic>
         </xg>
       </tg>
     </mg>
-     <mg>
+    <mg>
       <tg xml:lang="nob">
         <t pos="N">unnskyldning</t>
         <xg>
@@ -7347,7 +7352,7 @@ For the full license text, see the link above.</lic>
         </xg>
       </tg>
     </mg>
- </e>
+  </e>
   <e>
     <lg freq="6153">
       <l pos="Adv">dieđusge</l>
@@ -7429,10 +7434,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">med skjelvende hender</t>
-           <xg>
-               <x>Son goitge gorgŋii lávdái gos son doarggatgaccaid čuojahii.</x>
-               <xt>Hun klatret likevel på på scenen hvor hun spilte med skjelvende hender.</xt>
-            </xg>
+        <xg>
+          <x>Son goitge gorgŋii lávdái gos son doarggatgaccaid čuojahii.</x>
+          <xt>Hun klatret likevel på på scenen hvor hun spilte med skjelvende hender.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -7443,11 +7448,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">langsomt</t>
-         <t pos="Adv">forsiktig</t>
-           <xg>
-               <x>Mun gaikon ullobuvssaid sivvadit julggiid bajás.</x>
-               <xt>Jeg dro ullbuksene langsomt opp beina.</xt>
-            </xg>
+        <t pos="Adv">forsiktig</t>
+        <xg>
+          <x>Mun gaikon ullobuvssaid sivvadit julggiid bajás.</x>
+          <xt>Jeg dro ullbuksene langsomt opp beina.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -7458,10 +7463,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">forsiktig</t>
-            <xg>
-               <x>Oahppit galget oahppat dáikinsajiin várrugasat láhttet amaset bártái šatta.</x>
-               <xt>Elevene skal lære å opptre forsiktig på chattesteder slik at de ikke havner i trøbbel.</xt>
-            </xg>
+        <xg>
+          <x>Oahppit galget oahppat dáikinsajiin várrugasat láhttet amaset bártái šatta.</x>
+          <xt>Elevene skal lære å opptre forsiktig på chattesteder slik at de ikke havner i trøbbel.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -7473,10 +7478,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">allikevel</t>
-            <xg>
-               <x>Beakkán popjoavku ii dattetge čuojahan festiválas.</x>
-               <xt>Den berømte popgruppa spilte allikevel ikke på festivalen.</xt>
-            </xg>
+        <xg>
+          <x>Beakkán popjoavku ii dattetge čuojahan festiválas.</x>
+          <xt>Den berømte popgruppa spilte allikevel ikke på festivalen.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -7815,10 +7820,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">direkte</t>
-            <xg>
-               <x>Mun mannen njuolga dohko.</x>
-               <xt>Jeg dro direkte dit.</xt>
-            </xg>
+        <xg>
+          <x>Mun mannen njuolga dohko.</x>
+          <xt>Jeg dro direkte dit.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -7961,8 +7966,7 @@ For the full license text, see the link above.</lic>
         </xg>
         <xg>
           <x>Ovllá vujii máŋgii ovddos maŋos biillain ovdal go deaivvai njuolga sázuid gaskii.</x>
-          <xt>Ovllá kjørte bilen fram og tilbake flere ganger før han fikk den plassert midt i mellom
-               strekene.</xt>
+          <xt>Ovllá kjørte bilen fram og tilbake flere ganger før han fikk den plassert midt i mellom strekene.</xt>
         </xg>
       </tg>
     </mg>
@@ -8377,10 +8381,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">med ryggen mot</t>
-            <xg>
-               <x>Ledjen sealggát uksii in ge jorggihan.</x>
-               <xt>Jeg hadde ryggen mot døra og snudde meg ikke.</xt>
-            </xg>
+        <xg>
+          <x>Ledjen sealggát uksii in ge jorggihan.</x>
+          <xt>Jeg hadde ryggen mot døra og snudde meg ikke.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -8525,10 +8529,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">i vente</t>
-            <xg>
-               <x>Meteorologalaš Instituhtas muitalit heajos dálkkiid vuordagasas Oarje-Finnmárkui.</x>
-               <xt>På Meteorologisk institutt forteller de at det er dårlig vær i vente i Vest-Finnmark.</xt>
-            </xg>
+        <xg>
+          <x>Meteorologalaš Instituhtas muitalit heajos dálkkiid vuordagasas Oarje-Finnmárkui.</x>
+          <xt>På Meteorologisk institutt forteller de at det er dårlig vær i vente i Vest-Finnmark.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -8540,10 +8544,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">med ansiktet vendt mot</t>
-            <xg>
-               <x>Juo, dat gal lea riekta, dajai oahpaheaddji ja čuččodii čalmmát Evenii.</x>
-               <xt>Ja, det er riktig, sa læreren og sto med ansiktet vendt mot Even.</xt>
-            </xg>
+        <xg>
+          <x>Juo, dat gal lea riekta, dajai oahpaheaddji ja čuččodii čalmmát Evenii.</x>
+          <xt>Ja, det er riktig, sa læreren og sto med ansiktet vendt mot Even.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -8776,10 +8780,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">helt i begynnelsen</t>
         <xg>
-          <x>Go eiseválddit álgoálggus leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go
-               dál lea dilli šaddan váttisin.</x>
-          <xt>Når myndighetene fra begynnelsen har lagt opp situasjonen sånn her, så må de takke seg selv for at
-               situasjonen nå er blitt vanskelig.</xt>
+          <x>Go eiseválddit álgoálggus leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go dál lea dilli šaddan
+          váttisin.</x>
+          <xt>Når myndighetene fra begynnelsen har lagt opp situasjonen sånn her, så må de takke seg selv for at situasjonen nå er blitt
+          vanskelig.</xt>
         </xg>
       </tg>
     </mg>
@@ -9394,8 +9398,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">lengre frem</t>
         <xg>
-          <x>Porsáŋgu lea dál vuosttaš sajis goalmmát divišuvnnas, muhto dušše guokte čuoggá ovdalis
-               Bossogohpi.</x>
+          <x>Porsáŋgu lea dál vuosttaš sajis goalmmát divišuvnnas, muhto dušše guokte čuoggá ovdalis Bossogohpi.</x>
           <xt>Porsanger er nå på første plass i tredje divisjon, men er bare to poeng før Bossekop.</xt>
         </xg>
         <xg>
@@ -10388,10 +10391,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">stående</t>
-            <xg>
-               <x>Muhto ii oktage lean čuožžut.</x>
-               <xt>Men ingen var stående.</xt>
-            </xg>
+        <xg>
+          <x>Muhto ii oktage lean čuožžut.</x>
+          <xt>Men ingen var stående.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -10402,10 +10405,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">sittende</t>
-            <xg>
-               <x>De son nohkai fas čohkkut.</x>
-               <xt>Så sovnet han sittende.</xt>
-            </xg>
+        <xg>
+          <x>De son nohkai fas čohkkut.</x>
+          <xt>Så sovnet han sittende.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -10417,8 +10420,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">mange i fellesskap</t>
         <xg>
-          <x>Mii álggiimet álbmogassii dan jearahišgoahtit, ja viimmat čohkkedii áhkku sugadanstullosis, bijai čalbmelásiidis ala, ja ozai láiggi ja gođđinsákkiid.</x>
-          <xt>Vi begynte alle sammen å spørre om dette, og endelig satte bestemor seg i gyngestolen sin, satte på seg brillene og leita fram garn og strikkepinner.</xt>
+          <x>Mii álggiimet álbmogassii dan jearahišgoahtit, ja viimmat čohkkedii áhkku sugadanstullosis, bijai čalbmelásiidis ala, ja ozai
+          láiggi ja gođđinsákkiid.</x>
+          <xt>Vi begynte alle sammen å spørre om dette, og endelig satte bestemor seg i gyngestolen sin, satte på seg brillene og leita fram
+          garn og strikkepinner.</xt>
         </xg>
       </tg>
     </mg>
@@ -10435,7 +10440,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="Adv" pg="no">savkosii</l>
+      <l pg="no" pos="Adv">savkosii</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -10595,7 +10600,8 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">tett inntil hverandre</t>
         <xg>
           <x>Mo árpmuid dološ olbmot leat máhttán čuollat ja bardit geđggiid nu, ahte dat leat heiven oktii áibbas lávgalagaid.</x>
-          <xt>Hvordan i all verden har folk i gamle dager kunnet hogge ut og stable steinene slik at de har passet sammen helt tett inntil hverandre.</xt>
+          <xt>Hvordan i all verden har folk i gamle dager kunnet hogge ut og stable steinene slik at de har passet sammen helt tett inntil
+          hverandre.</xt>
         </xg>
       </tg>
     </mg>
