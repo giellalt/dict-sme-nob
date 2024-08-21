@@ -13545,9 +13545,34 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>høylytt</re>
         <t pos="V">slå</t>
-        <t pos="V">hogge</t>
-        <t pos="V">meie</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>i store mengder</re>
+        <t pos="Phrase">hogge trær</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">mykgjøre</t>
+        <xg>
+          <x>Mun meaiddán sistti.</x>
+          <xt>Jeg mykgjør det garvete skinnet.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="12">
+      <l context="mun" pos="V">vajuldit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>skrape innsiden av skinn med kniv før sying</re>
+        <t pos="V">skrape</t>
       </tg>
     </mg>
   </e>
