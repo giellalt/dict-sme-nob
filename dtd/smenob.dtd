@@ -194,7 +194,7 @@
 <!ELEMENT ant (#PCDATA) >
 
 <!-- Idiom phrases, faste uttrykk -->
-<!ELEMENT ig ( i, id+, it+)+ >
+<!ELEMENT ig ( i, id?, it+)+ >
 <!ELEMENT i (#PCDATA) >
 <!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
