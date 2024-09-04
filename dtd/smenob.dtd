@@ -187,7 +187,6 @@
 
 <!ELEMENT dg ( d, re? ) >
 <!-- definition, synonym, antonym -->
-<!ELEMENT re (#PCDATA) > 
 <!ELEMENT d (#PCDATA) >
 <!ELEMENT sg ( s+ ) >
 <!ELEMENT s (#PCDATA) >
