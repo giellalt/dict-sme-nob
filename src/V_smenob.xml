@@ -4488,18 +4488,56 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="19504" sanue_id="6923"/>
     </lg>
     <mg>
+      <dg>
+        <d>coggat biepmu njálbmái ja njiellat</d>
+      </dg>
       <tg xml:lang="nob">
         <t pos="V">spise</t>
         <t pos="V">ete</t>
         <xg>
-          <x>In vel leat borran dakkár márffiid.</x>
-          <xt>Jeg har ikke spist slike pølser enda.</xt>
+          <x>Mii borrat láibbi iđitbiebmun.</x>
+          <xt>Vi spiser brød til frokost.</xt>
+        </xg>
+        <xg>
+          <x>Gumpe lei borrame ráppis.</x>
+          <xt>Ulven spiste på kadaveret.</xt>
         </xg>
       </tg>
     </mg>
     <mg>
+      <dg>
+        <d>golahit</d>
+      </dg>
       <tg xml:lang="nob">
+        <t pos="Phrase">tære på</t>
         <t pos="V">etse</t>
+        <t pos="V">erodere</t>
+      </tg>
+      <xg>
+        <x>Mielli muvrejuvvui amas johka borrat dan.</x>
+        <xt>Sandmelen ble murt opp for at elva ikke skulle erodere i den.</xt>
+      </xg>
+      <xg>
+        <x>Vuollebáza borai mišuvnna ruđaid.</x>
+        <xt>Underskuddet tærte på misjonens penger.</xt>
+      </xg>
+    </mg>
+    <mg>
+      <dg>
+        <d>gáskit vuokka</d>
+      </dg>
+      <tg xml:lang="nob">
+        <re>om fisk</re>
+        <t pos="Phrase">bite på kroken</t>
+      </tg>
+      <xg>
+        <x>Dápmot borrá vuokka.</x>
+        <xt>Ørreten biter på kroken.</xt>
+      </xg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t/>
       </tg>
     </mg>
   </e>
@@ -13545,13 +13583,13 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-	      <re>høylytt</re>
+        <re>høylytt</re>
         <t pos="V">slå</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="nob">
-	      <re>i store mengder</re>
+        <re>i store mengder</re>
         <t pos="Phrase">hogge trær</t>
       </tg>
     </mg>
@@ -13571,7 +13609,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-	      <re>skrape innsiden av skinn med kniv før sying</re>
+        <re>skrape innsiden av skinn med kniv før sying</re>
         <t pos="V">skrape</t>
       </tg>
     </mg>
