@@ -11,19 +11,24 @@ Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more gen
 - [Testing dict-FSTs ](https://giellalt.github.io/dicts/TestingDictFST.html)
 
 
-# Online dictionaries
+# Online-sátnegirjjit
 
-- [Nieahtadigisánit for North Sámi, Finnish, Norwegian and Spanish](https://sanit.oahpa.no/)
+- [Neahtadigisánit for North Sámi, Finnish, Norwegian and Spanish](https://sanit.oahpa.no/)
 - [North Sámi dictionary page](https://dicts.uit.no/smedicts.eng.html)
 
 
 
 #  Møtereferat
 
-* 2009:
-   [28.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-01-28.txt)  //
-   [18.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-03-18.html) 
+* 2024:
+   [5.9.](meetings/240905.html)
+   
+# Eldre dokumentasjon
+
 * 2011:
   [23.8. 2011](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2011-08-23.html)  // 
   [3.11. 2011](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2011-11-03.html)
+* 2009:
+   [28.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-01-28.txt)  //
+   [18.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-03-18.html) 
   
