@@ -9,97 +9,15 @@ VIKTIG:
 
 Skriv ned her etter kvart.
 
-# Redaksjonsspråk
-Ordboken har vestlige former i definisjoner og eksempelsetninger. 
-t.d. aktio essiv -me
 
-Lemma kan være alle dialektformer
+# Grafisk formatering (css)
 
-Hvor puristisk skal ordboken være? 
-Kan amas frungere som subjunksjon
-
-
-# Mulige visningsalternativer
-Samisk-norsk
-Samisk definisjonsordbok
-Samisk definisjonsordbok med norske oversettelser
+- Nummerer mg-ar, ikkje berre kulepunkt
+- Luft mellom mg-ane
+- Problem: nobsme "gi"
+- det går ikkje fram at det er mange mg-ar
 
 
-
-# Lemmautvalg
-Gruppering? (slik at en ikke trenger logge hvert enkelt ord)
-
-Ulike variantformer i samme oppslag,i SME feks
-universitehta (subst.), universiteahtta (subst.) i samme oppslag
-
-SME-> NOB viser bare den vanligste varianten
-
-
-# Definisjoner
-Realdefinisjon + eventuelle synonym
-
-For å markere at et ord er "uheldig": geavat baicce (= bruk heller)
-
-
-Eksempler
-
-
-# Eksempelsetninger:
-
-## Formelt
-- Fullstendige setninger starter med stor bokstav, avsluttes med tegnsetting (punktum, spørretegn)
-- Ufullstendige setninger med liten bokstav, uten tegnsetting
-- Eksempelsetningene bør være selvstendige setninger, ikke peke til noe utenfor setningen.
-
-## Språkleg
-- Vis reksjon, bruk substantiv for å vise kasusbruk
-- Bruk generiske substantiv (gutten, damen...) og pronomen, ikkje eigennamn
-
-## Avledninger
-
-<orig>verb + suorggis -X</orig>   (med lenke)
-
-# Idiomatisk uttrykk og ordtak
-## Ord og uttrykk som har idiomatiske versjoner på begge steder
-Ordtak og idiomatisk uttryk bør stå i begge med den idiomatiske versjonen, td.
-grav (subst.) = (subst.) hávdi
-
-(i bibeloversetting, egentlig grop) (subst.) roggi
-
-Den som graver en grav, faller selv i den. Dat gii goaivu rokki, gahččá ieš dasa.
-
-## Ord og uttrykk som bare finnes i et språk
-
-## Språklig variasjon
-- Dialektvariasjon (østlig, vestlig, tornesamisk, sjøsamisk)
-- Variasjon mellom ulike administrative organisasjoner (land Norge, Sverige, Finland)
-
-
-# Tallord
-- čieža = vuođđolohku 7; sju
-- Diibmu lea čieža. = klokka er sju.
-- osb.
-- Eksempel med alder, klokke og liknende
-
-# Referere til andre ord
-For eksempel jamfør og til forskjell fra... på norsk, 
-
-På samisk geahča eller gč.? (jamfør = vrd. + komitatiiva (veardádala)
-
-Eller legge til i l_ref?
-
-mii earuha + LOK (til forskjell fra) ??
-evt. mii fas earuha + AKK + LOK
-
-definisjon..., mii fas earuha giehtasealggi giehtaváimmus
-
-motsatt...f.eks. høyre/venstre - nuppegežiid?
-
-som forledd/etterledd i ord som... = ??
-
-
-# Kilde
-Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc, spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
 
 # Redigering i XMLmind
@@ -116,10 +34,46 @@ Husk å velge pos og xml:lang
 Synonymer legges til i sg, antonymer i antg
 
 
-# Spørsmål
 
-## Hva bør man gjøre med ord som f.eks. giehtačálus?
-i ordbøkene oversatt som manus/manuskript, til forksjell fra giehtačála (håndskrift).
+# Redaksjonsspråk
+Hvor puristisk skal ordboken være? 
+F.eks: Kan amas fungere som subjunksjon (amas eai bora), eller skal vi holde på at det er nektende supinum (amasat borrat)?
+
+**Konklusjon:**
+Ordboken har vestlige former i definisjoner og eksempelsetninger. 
+t.d. aktio essiv *-me*
+Lemma kan være alle dialektformer.
+Vi har litt konservativt språk i eksemplene
+
+# Mulige visningsalternativer
+Fra samme kildekode kan vi generere forskjellige ordbøker:
+
+Tospråklige: Samisk-norsk (samisk-finsk)
+Samisk definisjonsordbok
+Samisk definisjonsordbok med norske (finske) oversettelser
+
+
+
+# Lemmautvalg
+Gruppering? (slik at en ikke trenger logge hvert enkelt ord)
+
+SME-> NOB viser bare den vanligste varianten (= lemma) slik som det er nå.
+
+**Konklusjon:**
+Ulike variantformer i samme oppslag,i SME feks
+universitehta (subst.), universiteahtta (subst.) i samme oppslag. Legges inn som variant av lemma, med vN for å kunnne gi riktig bøysningsparadigme. v1 er default for lemma. Dvs at v1 er optional i genereringa, mens v2 osv er obligatoriske.
+
+    <lg>
+      <l pos="N">universitehta</l>
+      <l var="v2" pos="N">universiteahtta</l>
+    </lg>
+
+
+# "Uheldige" ord
+
+
+## Feil bruk av ord?
+i ordbøkene oversatt som manus/manuskript, til forskjell fra giehtačála (håndskrift).
 Men det er mange eksempler i korpus der det er brukt med betydninga håndskrift.
 
 
@@ -130,7 +84,6 @@ for giehtačálus
 1. definisjon av tydinga "manuskript"
 2. (no og då brukt i tydinga "handskrift" -- definisjon) Geavat baicce giehtačála
 
-** Vi bruker tag l_pref (preferred lemma), i dtd-en  l_ref **
 
 Admin:
 Olgešspálttas gávnnat skoviid maid sáhtát čállit olggus ja deavdit giehtačállosiin dehe deavdit njuolga dihtoris .
@@ -152,29 +105,120 @@ Giehtačálus reivves lea maid hui fiinnis .
 De maid garvit dan ahte namat čállojit boastut go lea váttis ipmirdit giehtačállosa, ja dat dáhpáhuvva dávja .
 Čáppa giehtačállosiin, fiidnámus reivebáhpiriin , son ovdanbuktá sávaldagaidis iešguđetlágan olbmuide .
 
+**Konklusjon:**
+For å markere at et ord er "uheldig": 
+- element l_pref (lemma_preferred) som dukker opp i grensesnittet om 'geavat baicce' (= bruk heller)
 
 
-## Diminutiv
 
-beavddáš (=lite bord)
-def: unna beavdi (=lite bord)
-skal man ha l_ref eller en annen referanse til beavdi?
+# Avledninger
 
-beavddáš
-Opphav: beavdi (lenke) og diminutivsavledning -š (lenke) 
-Definisjon
-Eksempler
-Idiomer
+**Konklusjon:**
+Vi gir informsjon om at lemma er en avledning slik i lemmagroup lg:
+       <orig>borrat + suorggis -dit</orig>   (med lenke)
+
+# Idiomatisk uttrykk og ordtak
+## Ord og uttrykk som har idiomatiske versjoner på begge steder
+Ordtak og idiomatisk uttryk bør stå på begge språk med den idiomatiske versjonen, td.
+grav (subst.) = (subst.) hávdi
+
+(i bibeloversetting, egentlig grop) (subst.) *roggi*
+**Konklusjon:**
+Her er det problemer med md-formatteringa:
+      <ig>
+      <i>Dat gii goaivu rokki, gahččá ieš dasa.</i>
+      <id>definišuvdna...</id>
+      <td>Den som graver en grav, faller selv i den.</td> 
+      </ig>
+
+## Ord og uttrykk som bare finnes i et språk
+
+OBS: Dette må vi beskrive...
+
+# Språklig variasjon
+
+**Konklusjon:**
+Vi bruker to parametre, som attributter:
+- Dialektvariasjon (østlig, vestlig, tornesamisk, sjøsamisk)
+- Variasjon mellom ulike administrative organisasjoner (land Norge, Sverige, Finland)
+
+Vi må bli enige om attributtene
 
 
-## juhkaluvvat: 
+# Tallord-artikler
+- čieža = vuođđolohku 7; sju
+- Diibmu lea čieža. = Klokka er sju.
+- osb.
+- Eksempel med alder, klokke og liknende
 
-leahkit alkohola váikkuhusa vuolde? (påvirket?)
+# Referere til andre ord
+For eksempel jamfør og til forskjell fra... på norsk, 
+
+På samisk geahča eller gč., evt.jamfør = vrd. + komitatiiva (= veardádala)
+
+Eller legge til i l_ref?
+
+mii earuha + LOK (til forskjell fra) ??
+evt. mii fas earuha + AKK + LOK
+
+Eks: 
+.. mii fas earuha giehtasealggi giehtaváimmus
+
+motsatt...f.eks. høyre/venstre - nuppegežiid?
+
+som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ... 
+
+
+# Kilde
+Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc, spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
+
+
+
+# Definisjoner
+
+**Konklusjon:**
+Realdefinisjon + eventuelle synonym
+- Unngå 2.person i definisjonene
+- Unngå skråstrek 
+
+## parentes
+har bestemte roller for å framheve strukturen (f.eks. i re)
+kan bruke parentes i definisjoner, f.eks:
+*(njealječiegat) breahtta dahje pláhta mii geavahuvvo lávdespeallamii*
+
+# Eksempelsetninger:
+
+## Formelt
+**Konklusjon:**
+- Fullstendige setninger starter med stor bokstav, avsluttes med tegnsetting (punktum, spørretegn)
+- Ufullstendige setninger med liten bokstav, uten tegnsetting
+- unngå parentes i eksempelsetninger
+- Eksempelsetningene bør være selvstendige setninger, ikke peke til noe utenfor setningen.
+F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
+
+
+## Språkleg
+**Konklusjon:**
+- Gjerne autentiske, men de bør kuttes ned, fjerne 'støy' i setninga
+- Første eksempelsetning bør være typisk bruk av ordet
+- Vis reksjon, bruk substantiv for å vise kasusbruk
+- Bruk generiske substantiv (gutten, dama...) og pronomen, ikkje eigennamn
+- Bør være nøytrale: Unngå stedsnavn, religion, visse grupper - stigmatisering, stereotyper, etc
+- for man/en: bruk f.eks. *olmmoš, dievdoolmmoš, nissonolmmoš*
+
+# Flere betydninger (mg)
+
+## I hvilken rekkefølge skal ulike betydninger være?  
+
+**Konklusjon:**
+Etter semantikk, grunnbetydninga først, med mindre den er misvisende for brukeren
+
+# Oversettinger
+
 
 ## Hvor idiomatiske skal oversettelsene være?
 
-
-Son guovlala giikkáriin oidnojit go lottit. Hvordan oversette? 
+*Son guovlala giikkáriin oidnojit go lottit.* Hvordan oversette? 
 
 - Hun ser i kikkerten om det er fugler å se. - idiomatisk oversettelse
 - Hun ser i kikkerten om fuglene er synlige - nær samiske setning 
@@ -189,10 +233,14 @@ Duorastaga dievai kulturviessu maŋimuš stullui.
 - I samisk-norsk ordbok bør nob-oversettelsen være nært den samiske setninga, men likevel fungere på norsk.
 - Vi bør ha noen til å korrekturlese den norske oversettelsen.
 
-## I hvilken rekkefølge skal ulike betydninger være? Etter frekvens?
 
+## juhkaluvvat: 
+
+leahkit alkohola váikkuhusa vuolde? (påvirket?)
 **Konklusjon:**
-Etter semantikk, grunnbetydninga først, med mindre den er misvisende for brukeren
+bra
+
+
 
 ## idiomer?: 
 - áddjá, eadni, jna.
@@ -202,30 +250,17 @@ Etter semantikk, grunnbetydninga først, med mindre den er misvisende for bruker
 (hvis produktivt): brukt som forledd..., pluss eks
 
 áddjá: guovža (buddosnamma - tabuord)
-## Konklusjon:
-    som egen <mg>
+**Konklusjon:**
+    áddjá: guovža som egen <mg>
 
-Når skal det legges i ig?
-I ig er det ikke plass til definisjon, det er kun i og it (oversettelse)
-## Konklusjon:
-    det er lagt til <id> i ig
+# Slektskapstermer
+
 
 ##  vilbealle, oambealle: vuosttaš, nubbi, goalmmát – hvor skal disse forklaringene legges? 
 
 ig? xg?
 
-## Bør man unngå 2.person i definisjonene?
 
-**Konklusjon:**
-    ja
-
-bruk f.eks. *olmmoš, dievdoolmmoš, nissonolmmoš*
-
-## Hvor nøytrale skal eksemplene være? 
-
-(stedsnavn, religion, visse grupper - stigmatisering, stereotyper, etc)
-
-## Slektskapstermer
 
 sivjjot (svigerinne): eamida oabbá (= konas søster)
 (jus lea dievdu) vielja eamit (= (og hvis man er mann) brorens kone)
@@ -242,27 +277,18 @@ máhka, spile....
 - eatni dahje áhči - váhnema?
 - eamida dahje isida - beallelačča/náittosguoimmi/eallinguoimmi?
 
+**Konklusjon:**
+váhnen og eallinguoibmi
 
-## skråstrek? 
-... bør man unngå 
-
-## parentes
-har bestemte roller for å framheve strukturen (f.eks.  <re>)
-unngå parentes i eksempelsetninger
-kan bruke parentes i definisjoner, f.eks:
-(njealječiegat) breahtta dahje pláhta mii geavahuvvo lávdespeallamii
-
+## Diverse notater
 Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
 Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
 
 Dan gal lean vajálduhttán.
 Det har jeg (virkelig) glemt.
 
-13. eksempler
-hvor autentiske må de være?
-hva er funksjonen til eksemplene?
 
-14. čuohtenáre - virker som det er brukt både om "ca 100" og "hundrevis"
+čuohtenáre - virker som det er brukt både om "ca 100" og "hundrevis", men ca. 100 ser ut til å være den primære bruken
 
 Jiehkit, uđđasat ja eará geologalaš proseassat leat čuohtenáre duháhiid jagiid mielde hábmen eanadaga.
 Ealli guollebivdohápman čuohtenáre jagiid
@@ -271,14 +297,6 @@ Eará videoid, maid Evelina láve juohkit, leat sullii čuohtenáre olbmo geahč
 Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkásaš
 
 
-
-
-# Grafisk formatering
-
-- Nummerer mg-ar, ikkje berre kulepunkt
-- Luft mellom mg-ane
-- Problem: nobsme "gi"
-- det går ikkje fram at det er mange mg-ar
 
 
 
