@@ -9,14 +9,21 @@ VIKTIG:
 
 Skriv ned her etter kvart.
 
+# TEKNISK
 
-# Grafisk formatering (css)
+# Brukergrensesnitt (css)
 
 - Nummerer mg-ar, ikkje berre kulepunkt
 - Luft mellom mg-ane
 - Problem: nobsme "gi"
 - det går ikkje fram at det er mange mg-ar
 
+# Genering av flere ordbøker fra samme kildekode
+Fra samme kildekode kan vi generere forskjellige ordbøker:
+
+Tospråklige: Samisk-norsk (samisk-finsk)
+Samisk definisjonsordbok
+Samisk definisjonsordbok med norske (finske) oversettelser
 
 
 
@@ -35,7 +42,7 @@ Synonymer legges til i sg, antonymer i antg
 
 
 
-# Redaksjonsspråk
+# REDAKSJONSSPRÅK
 Hvor puristisk skal ordboken være? 
 F.eks: Kan amas fungere som subjunksjon (amas eai bora), eller skal vi holde på at det er nektende supinum (amasat borrat)?
 
@@ -45,14 +52,11 @@ t.d. aktio essiv *-me*
 Lemma kan være alle dialektformer.
 Vi har litt konservativt språk i eksemplene
 
-# Mulige visningsalternativer
-Fra samme kildekode kan vi generere forskjellige ordbøker:
-
-Tospråklige: Samisk-norsk (samisk-finsk)
-Samisk definisjonsordbok
-Samisk definisjonsordbok med norske (finske) oversettelser
+# KILDE
+Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc, spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
 
+# LEMMA
 
 # Lemmautvalg
 Gruppering? (slik at en ikke trenger logge hvert enkelt ord)
@@ -135,7 +139,7 @@ Her er det problemer med md-formatteringa:
 
 OBS: Dette må vi beskrive...
 
-# Språklig variasjon
+# Språklig variasjon i lemma og betydning
 
 **Konklusjon:**
 Vi bruker to parametre, som attributter:
@@ -169,12 +173,10 @@ motsatt...f.eks. høyre/venstre - nuppegežiid?
 som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ... 
 
 
-# Kilde
-Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc, spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
 
 
-# Definisjoner
+# DEFINISJONER
 
 **Konklusjon:**
 Realdefinisjon + eventuelle synonym
@@ -186,7 +188,7 @@ har bestemte roller for å framheve strukturen (f.eks. i re)
 kan bruke parentes i definisjoner, f.eks:
 *(njealječiegat) breahtta dahje pláhta mii geavahuvvo lávdespeallamii*
 
-# Eksempelsetninger:
+# EKSEMPELSETNINGER
 
 ## Formelt
 **Konklusjon:**
@@ -206,14 +208,14 @@ F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 - Bør være nøytrale: Unngå stedsnavn, religion, visse grupper - stigmatisering, stereotyper, etc
 - for man/en: bruk f.eks. *olmmoš, dievdoolmmoš, nissonolmmoš*
 
-# Flere betydninger (mg)
+# FLERE BETYDNINGER (mg)
 
 ## I hvilken rekkefølge skal ulike betydninger være?  
 
 **Konklusjon:**
 Etter semantikk, grunnbetydninga først, med mindre den er misvisende for brukeren
 
-# Oversettinger
+# OVERSETTINGER
 
 
 ## Hvor idiomatiske skal oversettelsene være?
@@ -253,7 +255,7 @@ bra
 **Konklusjon:**
     áddjá: guovža som egen <mg>
 
-# Slektskapstermer
+# SLEKTSKAPSTERMER
 
 
 ##  vilbealle, oambealle: vuosttaš, nubbi, goalmmát – hvor skal disse forklaringene legges? 
@@ -280,7 +282,7 @@ máhka, spile....
 **Konklusjon:**
 váhnen og eallinguoibmi
 
-## Diverse notater
+## DIVERSE NOTATER, bør redigeres eller fjernes
 Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
 Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
 
