@@ -9,6 +9,8 @@ VIKTIG:
 
 Skriv ned her etter kvart.
 
+***
+***
 # TEKNISK
 
 # Brukergrensesnitt (css)
@@ -42,7 +44,10 @@ Synonymer legges til i sg, antonymer i antg
 
 
 
+***
+***
 # REDAKSJONSSPRÅK
+
 Hvor puristisk skal ordboken være? 
 F.eks: Kan amas fungere som subjunksjon (amas eai bora), eller skal vi holde på at det er nektende supinum (amasat borrat)?
 
@@ -52,10 +57,14 @@ t.d. aktio essiv *-me*
 Lemma kan være alle dialektformer.
 Vi har litt konservativt språk i eksemplene
 
-# KILDE
+***
+***
+# KILDER
+
 Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc, spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
-
+***
+***
 # LEMMA
 
 # Lemmautvalg
@@ -121,23 +130,6 @@ For å markere at et ord er "uheldig":
 Vi gir informsjon om at lemma er en avledning slik i lemmagroup lg:
        <orig>borrat + suorggis -dit</orig>   (med lenke)
 
-# Idiomatisk uttrykk og ordtak
-## Ord og uttrykk som har idiomatiske versjoner på begge steder
-Ordtak og idiomatisk uttryk bør stå på begge språk med den idiomatiske versjonen, td.
-grav (subst.) = (subst.) hávdi
-
-(i bibeloversetting, egentlig grop) (subst.) *roggi*
-**Konklusjon:**
-Her er det problemer med md-formatteringa:
-      <ig>
-      <i>Dat gii goaivu rokki, gahččá ieš dasa.</i>
-      <id>definišuvdna...</id>
-      <td>Den som graver en grav, faller selv i den.</td> 
-      </ig>
-
-## Ord og uttrykk som bare finnes i et språk
-
-OBS: Dette må vi beskrive...
 
 # Språklig variasjon i lemma og betydning
 
@@ -175,7 +167,8 @@ som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ...
 
 
 
-
+***
+***
 # DEFINISJONER
 
 **Konklusjon:**
@@ -188,6 +181,14 @@ har bestemte roller for å framheve strukturen (f.eks. i re)
 kan bruke parentes i definisjoner, f.eks:
 *(njealječiegat) breahtta dahje pláhta mii geavahuvvo lávdespeallamii*
 
+## juhkaluvvat: 
+
+leahkit alkohola váikkuhusa vuolde? (påvirket?)
+**Konklusjon:**
+bra
+
+***
+***
 # EKSEMPELSETNINGER
 
 ## Formelt
@@ -208,6 +209,9 @@ F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 - Bør være nøytrale: Unngå stedsnavn, religion, visse grupper - stigmatisering, stereotyper, etc
 - for man/en: bruk f.eks. *olmmoš, dievdoolmmoš, nissonolmmoš*
 
+
+***
+***
 # FLERE BETYDNINGER (mg)
 
 ## I hvilken rekkefølge skal ulike betydninger være?  
@@ -215,6 +219,25 @@ F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 **Konklusjon:**
 Etter semantikk, grunnbetydninga først, med mindre den er misvisende for brukeren
 
+
+## sammensetninger: 
+- áddjá, eadni, jna.
+- eadni: eatnibellodat, eatniorganisašuvdna,
+
+**Konklusjon:**
+(hvis produktivt): brukt som forledd..., pluss eks
+*geavahuvvo goallossániid mearusin ....*
+
+
+## noaord, tabuord: 
+áddjá: guovža (buddosnamma - tabuord)
+
+**Konklusjon:**
+    áddjá: guovža som egen <mg>
+
+
+***
+***
 # OVERSETTINGER
 
 
@@ -235,37 +258,43 @@ Duorastaga dievai kulturviessu maŋimuš stullui.
 - I samisk-norsk ordbok bør nob-oversettelsen være nært den samiske setninga, men likevel fungere på norsk.
 - Vi bør ha noen til å korrekturlese den norske oversettelsen.
 
+***
+***
 
-## juhkaluvvat: 
+# IDIOMATISKE UTTRYKK OG ORDTAK
 
-leahkit alkohola váikkuhusa vuolde? (påvirket?)
+## Ord og uttrykk som har idiomatiske versjoner på begge steder
+Ordtak og idiomatisk uttryk bør stå på begge språk med den idiomatiske versjonen, td.
+grav (subst.) = (subst.) hávdi
+
+(i bibeloversetting, egentlig grop) (subst.) *roggi*
 **Konklusjon:**
-bra
+Her er det problemer med md-formatteringa:
+      <ig>
+      <i>Dat gii goaivu rokki, gahččá ieš dasa.</i>
+      <id>definišuvdna...</id>
+      <td>Den som graver en grav, faller selv i den.</td> 
+      </ig>
+
+## Ord og uttrykk som bare finnes i et språk
+
+OBS: Dette må vi beskrive...
 
 
 
-## idiomer?: 
-- áddjá, eadni, jna.
-- eadni: eatnibellodat, eatniorganisašuvdna,
-
-**Konklusjon:**
-(hvis produktivt): brukt som forledd..., pluss eks
-
-áddjá: guovža (buddosnamma - tabuord)
-**Konklusjon:**
-    áddjá: guovža som egen <mg>
-
+***
+***
 # SLEKTSKAPSTERMER
 
-
-##  vilbealle, oambealle: vuosttaš, nubbi, goalmmát – hvor skal disse forklaringene legges? 
+##  vilbealle, oambealle: vuosttaš, nubbi, goalmmát 
+hvor skal disse forklaringene legges? 
 
 ig? xg?
 
-
-
 sivjjot (svigerinne): eamida oabbá (= konas søster)
 (jus lea dievdu) vielja eamit (= (og hvis man er mann) brorens kone)
+
+## likekjønnet ekteskap 
 
 Naba oappá eamit? mo dalle? (= hva med søsters kone? bruker man samme ord da?)
 
@@ -282,7 +311,10 @@ máhka, spile....
 **Konklusjon:**
 váhnen og eallinguoibmi
 
-## DIVERSE NOTATER, bør redigeres eller fjernes
+***
+***
+# DIVERSE NOTATER, bør redigeres eller fjernes
+
 Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
 Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
 
