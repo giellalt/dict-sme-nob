@@ -126,9 +126,27 @@ For å markere at et ord er "uheldig":
 
 # Avledninger
 
+## Informasjon om avledning
+
 **Konklusjon:**
-Vi gir informsjon om at lemma er en avledning slik i lemmagroup lg:
-       <orig>borrat + suorggis -dit</orig>   (med lenke)
+Vi gir informasjon om at lemma er en avledning slik i lemmagroup lg i elementet orig:
+*borrat + suorggis -dit*   (med lenke)
+
+## Homonymi med forskjellige avledninger
+
+Hvis det er homonymi mellom to forskjellige avledninger, skal det føres som to forskjellige lemmaer eller som to betydninger (mg)? 
+
+Eks. 
+*borahit* (kausativ, tar objekt, betyr å gi andre mat)
+*borahit* (refleksiv, tar ikke objekt, betyr å spise på seg selv)
+
+I andre samiske ordbøker behandles disse som to lemmaer
+
+For begge vil opphav være *borrat + suorggis -dit* 
+Hvis man på et seinere tidspunkt ønsker å gå mer informasjon, evt lenke til avledningstypen, vil det ikke være det samme for disse to, og det kan også være et argument for å føre dem som to lemmaer.
+
+**Konklusjon:**
+???
 
 
 # Språklig variasjon i lemma og betydning
