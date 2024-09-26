@@ -85,7 +85,7 @@ For the full license text, see the link above.</lic>
       <dg>
         <d>leahkit alkohola váikkuhusa vuolde</d>
       </dg>
-     <sg>
+      <sg>
         <s>gárihuvvat</s>
       </sg>
       <tg xml:lang="nob">
@@ -141,6 +141,16 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re>i sjakk</re>
         <t pos="Phrase">sette sjakk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">koŋkánit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gå konkurs</t>
       </tg>
     </mg>
   </e>
@@ -11971,7 +11981,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-	      <re>plutselig</re>
+        <re>plutselig</re>
         <t pos="V">slamre</t>
       </tg>
     </mg>
@@ -11981,7 +11991,7 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">gárihuvvat</l>
     </lg>
     <mg>
-     <sg>
+      <sg>
         <s>juhkaluvvat</s>
       </sg>
       <tg xml:lang="nob">
