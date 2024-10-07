@@ -186,9 +186,10 @@
 <!ATTLIST mg c CDATA #IMPLIED >
 <!ATTLIST mg x ( fad ) #IMPLIED >
 
-<!ELEMENT dg ( re?, d ) >
+<!ELEMENT dg ( re?, d, dt? ) >
 <!-- definition, synonym, antonym -->
 <!ELEMENT d (#PCDATA) >
+<!ELEMENT dt (#PCDATA) >
 <!ELEMENT sg ( s+ ) >
 <!ELEMENT s (#PCDATA) >
 <!ELEMENT antg ( ant+ ) >
