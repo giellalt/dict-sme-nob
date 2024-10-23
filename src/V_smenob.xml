@@ -30439,31 +30439,6 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <dg>
-        <d>sirdit juoidá dahje geannu báikkis báikái</d>
-      </dg>
-      <tg xml:lang="nob">
-        <t pos="V">frakte</t>
-        <t pos="V">drive</t>
-        <xg>
-          <x>Son vujii jiekŋaskáhpe ruoktut.</x>
-          <xt>Hun kjørte kjøleskapet hjem.</xt>
-        </xg>
-        <xg>
-          <x>Soai vujiiga máná lagamus togastašuvdnii.</x>
-          <xt>De kjørte barnet til nærmeste togstasjon.</xt>
-        </xg>
-        <xg>
-          <x>vuodjit ealu duoddaris</x>
-          <xt>drive reinflokken på vidda</xt>
-        </xg>
-        <xg>
-          <x>vuodjit hattiid bajás</x>
-          <xt>drive opp prisene</xt>
-        </xg>
-      </tg>
-    </mg>
-    <mg>
-      <dg>
         <d>oažžut geannu gieđahallat ášši</d>
       </dg>
       <tg xml:lang="nob">
@@ -35400,27 +35375,28 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">vuojihit</l>
       <algu lekseemi_id="16659" sanue_id="33191"/>
     </lg>
-    <mg>
+    <mg x="fad">
+      <dg>
+        <d>sirdit juoidá dahje geannu báikkis báikái</d>
+      </dg>
       <tg xml:lang="nob">
         <t pos="V">frakte</t>
+        <t pos="V">drive</t>
         <xg>
           <x>Biebmogávpi vuojiha gálvvuid juohke disttaga.</x>
           <xt>Matbutikken frakter ut varer hver tirsdag.</xt>
         </xg>
-      </tg>
-    </mg>
-    <mg x="fad">
-      <tg xml:lang="nob">
-        <re>transportere</re>
-        <t pos="V">kjøre</t>
-      </tg>
-    </mg>
-    <mg x="fad">
-      <tg xml:lang="nob">
-        <t pos="V">frakte</t>
+        <xg>
+          <x>Soai vuojiheigga máná lagamus togastašuvdnii.</x>
+          <xt>De kjørte barnet til nærmeste togstasjon.</xt>
+        </xg>
         <xg>
           <x>Biebmogávpi vuojiha gálvvuid juohke disttaga.</x>
           <xt>Matbutikken frakter ut varer hver tirsdag.</xt>
+        </xg>
+        <xg>
+          <x>vuojihit ealu duoddaris</x>
+          <xt>drive reinflokken på vidda</xt>
         </xg>
       </tg>
     </mg>
