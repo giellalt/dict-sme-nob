@@ -11050,6 +11050,9 @@ For the full license text, see the link above.</lic>
       <dg>
         <d>mas ii leat alkohola</d>
       </dg>
+      <sg>
+        <s>alkoholaheapme</s>
+      </sg>
       <tg xml:lang="nob">
         <t pos="A">alkoholfri</t>
       </tg>
@@ -11062,6 +11065,9 @@ For the full license text, see the link above.</lic>
       <dg>
         <d>mii ii guossot alkohola</d>
       </dg>
+      <sg>
+        <s>alkoholaheapme</s>
+      </sg>
       <tg xml:lang="nob">
         <re>om arrangement, serveringssted</re>
         <t pos="A">alkoholfri</t>
@@ -11081,9 +11087,39 @@ For the full license text, see the link above.</lic>
       <l context="jugus" pos="A">alkoholaheapme</l>
     </lg>
     <mg>
+      <dg>
+        <d>mas ii leat alkohola</d>
+      </dg>
+      <sg>
+        <s>alkoholkeahtes</s>
+      </sg>
       <tg xml:lang="nob">
         <t pos="A">alkoholfri</t>
       </tg>
+      <xg>
+        <x>alkoholahis vuolla</x>
+        <xt>alkoholfritt øl</xt>
+      </xg>
+    </mg>
+    <mg>
+      <dg>
+        <d>mii ii guossot alkohola</d>
+      </dg>
+      <sg>
+        <s>alkoholkeahtes</s>
+      </sg>
+      <tg xml:lang="nob">
+        <re>om arrangement, serveringssted</re>
+        <t pos="A">alkoholfri</t>
+      </tg>
+      <xg>
+        <x>alkoholahis doalut</x>
+        <xt>alkoholfritt arrangement</xt>
+      </xg>
+      <xg>
+        <x>alkoholahis idjadan- ja guossohanbáikkit</x>
+        <xt>alkoholfrie overnattings- og serveringssteder</xt>
+      </xg>
     </mg>
   </e>
   <e>
