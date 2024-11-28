@@ -17,7 +17,7 @@
 <!ELEMENT sourcenote (#PCDATA|a)*>
 <!ELEMENT a (#PCDATA)>
 
-<!ELEMENT e (lg, source?, semantics?, stem*, sources?, mg+, ig* ) >
+<!ELEMENT e (lg, source?, semantics?, stem*, sources?, mg+, derg*, ig* ) >
 <!ATTLIST e
       usage ( mt | vd | dict | other | nds | fad | KB ) #IMPLIED
       src ( nj | sk | SvSt | gt_fad | gt | fad | other | gg | SK |
@@ -186,10 +186,19 @@
 <!ATTLIST mg c CDATA #IMPLIED >
 <!ATTLIST mg x ( fad ) #IMPLIED >
 
+<!-- Derivations, faste uttrykk -->
+<!ELEMENT derg ( der, dert? )+ >
+<!ELEMENT der (#PCDATA) >
+<!ELEMENT dert (#PCDATA) >
+<!-- <!ELEMENT der_ref (#PCDATA) > -->
+
+<!-- definition  -->
 <!ELEMENT dg ( re?, d, dt? ) >
-<!-- definition, synonym, antonym -->
 <!ELEMENT d (#PCDATA) >
 <!ELEMENT dt (#PCDATA) >
+
+
+<!-- synonym, antonym --> 
 <!ELEMENT sg ( s+ ) >
 <!ELEMENT s (#PCDATA) >
 <!ELEMENT antg ( ant+ ) >
@@ -200,6 +209,8 @@
 <!ELEMENT i (#PCDATA) >
 <!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
+
+
 
 <!ELEMENT tg (semantics?, re?,  ( ((t, stem*, l_ref?, morph_expl?) ))+, xg* ) >
 <!ATTLIST tg
