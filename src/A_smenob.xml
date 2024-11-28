@@ -30,7 +30,17 @@ For the full license text, see the link above.</lic>
   </lics>
   <e>
     <lg>
-      <l pos="A">dievva</l>
+      <l context="olmmoš" pos="A">bahádáhtolaš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">ondsinnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="lihtti" pos="A">dievva</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -44,7 +54,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">njuolggočoalat</l>
+      <l context="olmmoš" pos="A">njuolggočoalat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -58,7 +68,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">johttevaš</l>
+      <l context="vuohki" pos="A">johttevaš</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -174,7 +184,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">guhkedáleš</l>
+      <l context="jávri" pos="A">guhkedáleš</l>
     </lg>
     <mg>
       <dg>
@@ -586,7 +596,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">árppoheapme</l>
+      <l context="fierpmádat" pos="A">árppoheapme</l>
     </lg>
     <mg>
       <dg>
@@ -606,7 +616,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">vuoimmálaš</l>
+      <l context="olmmoš" pos="A">vuoimmálaš</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -627,25 +637,24 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">bártái</l>
+      <l context="olmmoš" pos="A">bártái</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="A">uheldig</t>
       </tg>
       <xg>
-        <x>Soai leaba hutkát ja barggánat, muhto maid hui bártái.</x>
-        <xt>De er kreative og arbeidsomme, men også veldig uheldige.</xt>
+        <x>Son lea hutkái ja barggán, muhto maid hui bártái.</x>
+        <xt>Hun er kreativ og arbeidsom, men også veldig uheldig.</xt>
       </xg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A">luomus</l>
+      <l context="riika" pos="A">luomus</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="A">romslig</t>
         <t pos="A">vidstrakt</t>
       </tg>
       <xg>
@@ -653,10 +662,15 @@ For the full license text, see the link above.</lic>
         <xt>Norge er et vidstrakt land.</xt>
       </xg>
     </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">romslig</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
-      <l pos="A">čaffat</l>
+      <l context="olmmoš" pos="A">čaffat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -675,7 +689,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">láskkonjuolgat</l>
+      <l context="linnjá" pos="A">láskkonjuolgat</l>
     </lg>
     <mg>
       <dg>
@@ -692,7 +706,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">ceakkonjuolgat</l>
+      <l context="linnjá" pos="A">ceakkonjuolgat</l>
     </lg>
     <mg>
       <dg>
@@ -5994,7 +6008,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="11">
-      <l pos="A">njáigu</l>
+      <l context="olmmoš" pos="A">njáigu</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -7174,6 +7188,11 @@ For the full license text, see the link above.</lic>
       <i>čáppat dego láttakeahtes luomi</i>
       <id>hui čáppat</id>
       <it>vakker som et moltekart</it>
+    </ig>
+    <ig>
+      <i>čáppat dego aiddo láddan luomi</i>
+      <id>hui čáppat</id>
+      <it>vakker som en nettopp moden molte</it>
     </ig>
     <ig>
       <i>čáppat dego muorječalbmi</i>
@@ -10952,7 +10971,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e src="fad">
     <lg freq="0">
-      <l pos="A">eahpedoaibmi</l>
+      <l context="vierru" pos="A">eahpedoaibmi</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -11042,7 +11061,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">lossagulot</l>
+      <l context="olmmoš" pos="A">lossagulot</l>
     </lg>
     <mg>
       <dg>
@@ -13300,7 +13319,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e src="fad">
     <lg freq="15">
-      <l pos="A">oatni</l>
+      <l attr="no" pos="A">oatni</l>
       <algu lekseemi_id="25689" sanue_id="9715"/>
     </lg>
     <mg>
@@ -14766,7 +14785,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e src="fad">
     <lg freq="1">
-      <l pos="A">seađus</l>
+      <l context="muitu" pos="A">seađus</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -14935,7 +14954,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e src="fad">
     <lg freq="101">
-      <l pos="A">jámmis</l>
+      <l context="láigi" pos="A">jámmis</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -21333,7 +21352,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">oaivugas</l>
+      <l context="boazu" pos="A">oaivugas</l>
       <algu lekseemi_id="25757" sanue_id="32316"/>
     </lg>
     <mg>
@@ -21405,7 +21424,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">ovttalaš</l>
+      <l context="jođiheapmi" pos="A">ovttalaš</l>
       <algu lekseemi_id="92261" sanue_id="89812"/>
     </lg>
     <mg>
@@ -21879,7 +21898,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">spanas</l>
+      <l context="olmmoš" pos="A">spanas</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -21899,7 +21918,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">spáitil</l>
+      <l context="vuohki" pos="A">spáitil</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
