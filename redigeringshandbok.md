@@ -165,6 +165,16 @@ Vi må bli enige om attributtene
 - osb.
 - Eksempel med alder, klokke og liknende
 
+# Fargeord
+Definisjonene trenger ikke å være så tekniske. Dette holder for rødt f.eks.:
+mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
+
+Trenger heller ikke å skrive hva de ulike fargene symboliserer.
+
+# Kvinnelig og mannlig
+Nissonlaš og almmáilaš brukes i ordboka. Eks:
+nissonlaš/almmáilaš stáhtaoaivámuš
+
 # Referere til andre ord
 For eksempel jamfør og til forskjell fra... på norsk, 
 
