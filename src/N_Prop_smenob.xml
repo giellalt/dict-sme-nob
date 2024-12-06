@@ -4286,16 +4286,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
    </e>
    <e src="SK">
-      <lg freq="2">
-         <l pos="N" type="Prop" vmax="2">Vuođđavuotna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" type="Prop" sem_type="Plc" reg="Berlevåg">Gulgofjorden</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="SK">
       <lg freq="0">
          <l pos="N" type="Prop" sem_type="Plc">Vuoŧkevuonvággi</l>
       </lg>
@@ -5581,11 +5571,11 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="107">
-         <l pos="N" type="Prop">Opplánda</l>
+         <l pos="N" sem_type="Plc" type="Prop">Opplánda</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">oppland</t>
+            <t pos="N">Oppland</t>
          </tg>
       </mg>
    </e>
@@ -5623,7 +5613,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="229">
-         <l pos="N" type="Prop">Ájluokta</l>
+         <l pos="N" sem_type="Plc" type="Prop">Ájluokta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5633,7 +5623,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="3174">
-         <l pos="N" type="Prop">Nordlánda</l>
+         <l pos="N"Davvenjárga  type="Prop">Nordlánda</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5653,7 +5643,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e src="fad">
       <lg freq="165">
-         <l pos="N" type="Prop">Davvenjárga</l>
+         <l pos="N" sem_type="Plc" type="Prop">Davvenjárga</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5715,7 +5705,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="651">
-         <l pos="N" type="Prop">Loabát</l>
+         <l pos="N" sem_type="Plc" type="Prop">Loabát</l>
       </lg>
       <mg>
 <!--         <l_ref>Loabák_n</l_ref> -->
@@ -5727,7 +5717,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg freq="651">
-         <l pos="N" type="Prop">Loabák</l>
+         <l pos="N" sem_type="Plc" type="Prop">Loabák</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5857,7 +5847,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Gilbbesjávri</l>
+         <l pos="N" sem_type="Plc" type="Prop">Gilbbesjávri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5867,7 +5857,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Báttár</l>
+         <l pos="N" sem_type="Plc" type="Prop">Báttár</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5907,7 +5897,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Nordkáhppašleađđu</l>
+         <l pos="N" sem_type="Plc" type="Prop">Nordkáhppašleađđu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5917,7 +5907,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Albania</l>
+         <l pos="N" sem_type="Plc" type="Prop">Albania</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5927,7 +5917,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Nederlánda</l>
+         <l pos="N" sem_type="Plc" type="Prop">Nederlánda</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5937,7 +5927,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Latvia</l>
+         <l pos="N" sem_type="Plc" type="Prop">Latvia</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5947,7 +5937,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Romania</l>
+         <l pos="N" sem_type="Plc" type="Prop">Romania</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
