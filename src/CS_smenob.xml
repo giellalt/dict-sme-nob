@@ -1,11 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smenob.dtd">
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
-  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/smenob.dtd">
+<r id="smenob" xml:lang="sme">
+  <lics xml:space="preserve">
     <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -38,7 +39,7 @@ For the full license text, see the link above.</lic>
         <t pos="Phrase">for at</t>
         <t pos="Phrase">for å</t>
         <xg>
-          <x>Ferten árrat nohkkat vai veaddján iđđes.</x>
+          <x>Ferten árrat nohkkat vai veaján lihkkat iđđes.</x>
           <xt>Jeg må legge meg tidlig slik at jeg klarer å stå opp om morgenen.</xt>
         </xg>
       </tg>
@@ -148,8 +149,7 @@ For the full license text, see the link above.</lic>
         </xg>
         <xg>
           <x>Dán áigásaš ođasmuitaleaddjit eai máhte ságaidge muitalit nugo dolin lávejedje.</x>
-          <xt>Dagens nyhetsformidlere kan ikke fortelle nyheter engang slik som de pleide å gjøre i gamle
-               dager.</xt>
+          <xt>Dagens nyhetsformidlere kan ikke fortelle nyheter engang slik som de pleide å gjøre i gamle dager.</xt>
         </xg>
         <xg>
           <x>Jieŋa alde ledje maid smávva suohtastallamat, nugo gámabálkesteapmi.</x>
@@ -301,10 +301,8 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="CS">som</t>
         <xg>
-          <x>Sidjiide lea sámegiella amas giella, maid fertejit oahppagoahtit seammá láhkai go eará amas
-               gielaid.</x>
-          <xt>For dem er samisk et fremmedspråk, som de må begynne å lære på samme måte som andre
-               fremmedspråk.</xt>
+          <x>Sidjiide lea sámegiella amas giella, maid fertejit oahppagoahtit seammá láhkai go eará amas gielaid.</x>
+          <xt>For dem er samisk et fremmedspråk, som de må begynne å lære på samme måte som andre fremmedspråk.</xt>
         </xg>
         <xg>
           <x>Váldde dakkára go áiggut.</x>
@@ -358,5 +356,5 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"/>
+  <xhtml:script src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>
