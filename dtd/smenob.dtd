@@ -35,7 +35,7 @@
 <!ATTLIST e oa_unif ( done | s | N | E ) #IMPLIED >
 
 <!ELEMENT lg (l+, l_ref*, lemma_ref*, lsub*, lc*, analysis*, mini_paradigm*, algu*, orig*) >
-<!ELEMENT lemma_ref (#PCDATA) >
+<!ELEMENT lemma_ref (#PCDATA) > <!-- navigating in static articles -->
 <!ATTLIST lemma_ref lemmaID CDATA #IMPLIED >
 <!ATTLIST lg freq CDATA #IMPLIED >
 <!ELEMENT analysis (#PCDATA|wordform)* >
@@ -176,7 +176,7 @@
       class CDATA #IMPLIED
 >
 
-<!ELEMENT mg (semantics?, l_ref?, l_pref?, dg?, sg?, antg?, tg+, xg* ) >
+<!ELEMENT mg (semantics?, l_ref?, l_rec?, l_normorg?, l_pref?, dg?, sg?, antg?, tg+, xg* ) >
 <!ATTLIST mg
       xml:lang ( sme | nob | fin | swe | rus | smn ) #IMPLIED
       rest CDATA #IMPLIED
@@ -297,8 +297,13 @@
 
 <!-- perhaps not first for attlist oa, if reverse-leksa shall be taken from nobsma -->
 
-<!ELEMENT l_ref (#PCDATA) >
+<!ELEMENT l_ref (#PCDATA) > <!-- reference, se også = information about words relevant to the lemma -->
+<!ELEMENT l_rec (#PCDATA) > <!-- recommendation, bruk heller -->
+<!ELEMENT l_normorg (#PCDATA) > <!-- decided / recommended by the normative body, here: Giellagáldu -->
+
 <!ELEMENT l_pref (#PCDATA) >
+
+
 
 <!-- translation_comment = for Oahpa use -->
 
