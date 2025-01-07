@@ -4045,6 +4045,21 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">gápmagahttá</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">barføtt</t>
+      </tg>
+    </mg>
+   <ig>
+      <i>Gápmagahttá lea váttis goastat.</i>
+      <id>asdf</id>
+      <it>Uten sko er det vanskelig å komme seg fram.</it>
+    </ig>
+  </e>
+  <e>
     <lg freq="253">
       <l pos="Adv">duos</l>
       <algu lekseemi_id="22504" sanue_id="21909"/>
@@ -4933,7 +4948,11 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">natt og dag</t>
+        <t pos="Phrase">døgnet rundt</t>
+        <xg>
+          <x>Mun bargen ijatbeaivái.</x>
+          <xt>Jeg jobbet døgnet rundt.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
