@@ -708,8 +708,8 @@ For the full license text, see the link above.</lic>
         <re>om skjura</re>
         <t pos="V">skratte</t>
         <xg>
-          <x>skire čahrrá</x>
-          <xt>skjura skratter</xt>
+          <x>Skire čahrrá.</x>
+          <xt>Skjura skratter.</xt>
         </xg>
       </tg>
     </mg>
@@ -756,6 +756,21 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Ledjen skihppon johtit Liissáin, muhto son geassádii.</x>
           <xt>Jeg hadde avtalt å reise med Liisá, men hun trakk seg.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">snurkit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om gris</re>
+        <t pos="V">grynte</t>
+        <xg>
+          <x>Spiidni snurká.</x>
+          <xt>Grisen grynter.</xt>
         </xg>
       </tg>
     </mg>
@@ -5794,6 +5809,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">gjø</t>
         <t pos="V">bjeffe</t>
+        <xg>
+          <x>Beana ja rieban cillet.</x>
+          <xt>Hund og rev gjør.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -11228,6 +11247,59 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">ule</t>
         <t pos="V">hyle</t>
+        <xg>
+          <x>Gumpe holvu.</x>
+          <xt>Ulven uler.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">riehčut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skrike</t>
+        <t pos="V">gnelle</t>
+        <xg>
+          <x>Skávli riehču.</x>
+          <xt>Mása skriker.</xt>
+        </xg>
+            <xg>
+               <x>Hunden gneller.</x>
+               <xt>Beana riehču.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">guhkkat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om gjøk</re>
+        <t pos="V">gale</t>
+        <xg>
+          <x>Giehka guhkká.</x>
+          <xt>Gjøken galer.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="187">
+      <l context="dat" pos="V">cihrrat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om mus</re>
+        <t pos="V">pipe</t>
+        <xg>
+          <x>Sáhpán cihrrá.</x>
+          <xt>Musa piper.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -17204,6 +17276,10 @@ For the full license text, see the link above.</lic>
         <re>om rein</re>
         <t pos="V">grynte</t>
         <t pos="V">snøfte</t>
+        <xg>
+          <x>Miesit ruvget.</x>
+          <xt>Reinkalvene grynter.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -22625,6 +22701,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">surre</t>
         <t pos="V">summe</t>
+            <xg>
+               <x>Čuoika šurrá.</x>
+               <xt>Mygga summer.</xt>
+            </xg>
       </tg>
     </mg>
     <mg>
@@ -32229,6 +32309,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re x="fad">flere ganger</re>
         <t pos="V">brøle</t>
+        <xg>
+          <x>Guovža rohku.</x>
+          <xt>Bjørnen brøler.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
