@@ -15044,7 +15044,17 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">være uheldig å</t>
+            <re>falle ut av hendene</re>
+        <t pos="V">miste</t>
+            <xg>
+               <x>Nisttihin gohpu láhttái.</x>
+               <xt>Jeg mistet koppen i golvet.</xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">ikke klare å la være</t>
         <xg>
           <x>Nisttihin bohkosit.</x>
           <xt>Jeg klarte ikke å la være å flire.</xt>
@@ -26313,6 +26323,20 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">vanskeliggjøre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">ilosmahttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gjøre noen glad</t>
+        <xg>
+          <x>Nieidda sánit ilosmahtte mu.</x>
+          <xt>Jentas ord gjorde meg glad.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
