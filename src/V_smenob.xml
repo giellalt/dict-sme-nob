@@ -26371,6 +26371,165 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dunttardit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>koke</re>
+        <t pos="V">putre</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">prate fort og utydelig</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="dat" pos="V">čulkkihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>skarp lyd</re>
+        <t pos="V">dunke</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="mun" pos="V">seassat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">besiktige</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="dat" pos="V">skoalkkehit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">banke</t>
+        <t pos="V">dunke</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="dat" pos="V">skoalkkehit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">banke</t>
+        <t pos="V">dunke</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="dat" pos="V">ráđahit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skramle</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="mun" pos="V">skáigit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">kauke</t>
+        <t pos="Phrase">rote høyt så det blir ekko</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="mun" pos="V">skoallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skramle</t>
+        <t pos="V">klirre</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="mun" pos="V">meaiskidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">støye</t>
+        <t pos="Phrase">lage støy</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="mun" pos="V">jeađđašuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">finne trøst</t>
+        <t pos="Phrase">få trøst</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l context="mun" pos="V">šloađastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">komme borti med foten</t>
+      </tg>
+    </mg>
+  </e>
+ <e>
+    <lg>
+      <l context="dat" pos="V">rišihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>plutselig</re>
+        <t pos="V">sprute</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">spres til alle kanter</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">guosmmehit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">svis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">rumbbostallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">slå på trommer</t>
+      </tg>
+    </mg>
+  </e>
   <e src="fad">
     <lg freq="104">
       <l context="mun" pos="V">rávásmuvvat</l>
@@ -28151,6 +28310,16 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">goavddustuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli engstelig</t>
+      </tg>
+    </mg>
+  </e>
   <e src="fad">
     <lg freq="492">
       <l context="mun" pos="V">reguleret</l>
@@ -28170,6 +28339,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re>bli mindre, svakere</re>
         <t pos="V">avta</t>
+        <xg>
+          <x>jietna váidu</x>
+          <xt>lyden avtar</xt>
+        </xg>
         <xg>
           <x>Ollu sámi báikkiin lea sámegiella váidugoahtán stuoraválddi gielaid ektui.</x>
           <xt>I mange samiske bygder er samisk blitt svakere i forhold til storsamfunnets språk.</xt>
@@ -43550,8 +43723,8 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Phrase">bli vill</t>
         <xg>
-          <x>Nuorra nieiddat gal viimmáskit go son han lea hui fávrros, nuorra almmái geas lea vel dát erenoamáš musihkka.</x>
-          <xt>Unge jenter blir ville fordi han er veldig vakker, en ung mann som enda har denne spesielle musikken.</xt>
+          <x>Nuorra nieiddat gal viimmáskit go artista lea hui fávrros.</x>
+          <xt>Unge jenter blir ville fordi artisten er veldig vakker.</xt>
         </xg>
       </tg>
     </mg>
