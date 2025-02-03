@@ -5806,6 +5806,9 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="12743" sanue_id="5258"/>
     </lg>
     <mg>
+      <sg>
+        <s>viššat</s>
+      </sg>
       <tg xml:lang="nob">
         <t pos="V">gjø</t>
         <t pos="V">bjeffe</t>
@@ -17945,6 +17948,9 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="10935" sanue_id="11443"/>
     </lg>
     <mg>
+      <sg>
+        <s>duohččat</s>
+      </sg>
       <tg xml:lang="nob">
         <t pos="V">spare</t>
       </tg>
@@ -28312,6 +28318,36 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="dat" pos="V">čádjánit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">komme på ville veier</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čádjidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">forville</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čádjidahttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">forlede</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">goavddustuvvat</l>
     </lg>
     <mg>
@@ -32540,8 +32576,12 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="43489" sanue_id="23930"/>
     </lg>
     <mg>
+      <sg>
+        <s>viššat</s>
+      </sg>
       <tg xml:lang="nob">
         <t pos="V">orke</t>
+        <t pos="V">gidde</t>
         <xg>
           <x>In gillen guhká surfet go lei nu jalla lossat beassat čiekŋalassii.</x>
           <xt>Jeg orket ikke å surfe lenge fordi det var så innmari tungt å komme seg på dypet.</xt>
@@ -35455,6 +35495,9 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="16452" sanue_id="611"/>
     </lg>
     <mg>
+      <sg>
+        <s>gillet</s>
+      </sg>
       <tg xml:lang="nob">
         <t pos="V">orke</t>
         <t pos="V">gidde</t>
@@ -35467,6 +35510,14 @@ For the full license text, see the link above.</lic>
     <mg x="fad">
       <tg xml:lang="nob">
         <t pos="V">tørre</t>
+      </tg>
+    </mg>
+    <mg>
+      <sg>
+        <s>ciellat</s>
+      </sg>
+      <tg xml:lang="nob">
+        <t pos="V">gjø</t>
       </tg>
     </mg>
     <ig>
@@ -37257,6 +37308,9 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="22373" sanue_id="8752"/>
     </lg>
     <mg>
+      <sg>
+        <s>seastit</s>
+      </sg>
       <tg xml:lang="nob">
         <t pos="V">spare</t>
       </tg>
