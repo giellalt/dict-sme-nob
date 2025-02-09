@@ -68,16 +68,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="vuohki" pos="A">johttevaš</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">gangbar</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l context="servodat" pos="A">bearašvuđot</l>
     </lg>
     <mg>
@@ -526,26 +516,6 @@ For the full license text, see the link above.</lic>
         <x>galjesčalmmat fierbmi</x>
         <xt>grovmasket fiskegarn</xt>
       </xg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="Phrase">nu gohčoduvvon</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">såkalt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="Phrase">binná bánna</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">knøttliten</t>
-      </tg>
     </mg>
   </e>
   <e>
@@ -16857,11 +16827,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">bitte liten</t>
-        <t pos="Phrase">bitte små</t>
+        <t pos="A">knøttliten</t>
         <xg>
           <x>Rukses guopparoaivi sulastahttá uhca biellu dahje binná bánna cearkki.</x>
-          <xt>Det røde sopphodet minner om en liten bjelle eller et bitte lite beger.</xt>
+          <xt>Det røde sopphodet minner om en liten bjelle eller et knøttlite beger.</xt>
         </xg>
       </tg>
     </mg>
@@ -16899,10 +16868,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="A">uskikkelig</t>
-        <xg>
-          <x>maiddái garrusátni</x>
-          <xt>også banneord</xt>
-        </xg>
       </tg>
     </mg>
     <mg src="fad">
@@ -16982,6 +16947,41 @@ For the full license text, see the link above.</lic>
     <mg src="fad">
       <tg xml:lang="nob">
         <t pos="A">eksisterende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">sánálaš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">verbal</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">veltalende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="jietna" pos="A">skáigil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">rungende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">juoigalas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">som er ivrig å joike</t>
       </tg>
     </mg>
   </e>
@@ -20821,6 +20821,16 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="olmmoš" pos="A">snáhppil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">rask</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="njálbmi" pos="A">cakkas</l>
     </lg>
     <mg>
@@ -21455,16 +21465,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="A">hyppig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l context="ášši" pos="A">eahpenjuolgat</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">indirekte</t>
       </tg>
     </mg>
   </e>
