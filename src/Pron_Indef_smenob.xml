@@ -516,7 +516,28 @@ For the full license text, see the link above.</lic>
   <e>
     <lg freq="0">
       <l pos="Pron" type="Indef" vmax="2">mihkkege</l>
-      <algu lekseemi_id="36084" sanue_id="15510"/>
+      <analysis>mihkke_Pron_Indef_Sg_Nom_Foc/ge</analysis>
+      <mini_paradigm>
+        <analysis ms="mihkke_Pron_Indef_Sg_Nom_Foc/ge">
+          <wordform>mihkkege</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Acc_Foc/ge">
+          <wordform>maidege</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Acc/Gen_Foc/ge">
+          <wordform>mange</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Ill_Foc/ge">
+          <wordform>masage</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Loc_Foc/ge">
+          <wordform>mastege</wordform>
+          <wordform>masge</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Com_Foc">
+          <wordform>mainnage</wordform>
+        </analysis>
+      </mini_paradigm>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -534,8 +555,29 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="12496">
-      <l pos="Pron" type="Indef">mihkke</l>
-      <algu lekseemi_id="36084" sanue_id="15510"/>
+      <l pos="Pron" type="Indef" pg="no">mihkke</l>
+      <analysis>mihkke_Pron_Indef_Sg_Nom</analysis>
+      <mini_paradigm>
+        <analysis ms="mihkke_Pron_Indef_Sg_Nom_Foc/ge">
+          <wordform>mihkkege</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Acc_Foc/ge">
+          <wordform>maidege</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Acc/Gen_Foc/ge">
+          <wordform>mange</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Ill_Foc/ge">
+          <wordform>masage</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Loc_Foc/ge">
+          <wordform>mastege</wordform>
+          <wordform>masge</wordform>
+        </analysis>
+        <analysis ms="mihkke_Pron_Indef_Sg_Com_Foc">
+          <wordform>mainnage</wordform>
+        </analysis>
+      </mini_paradigm>
     </lg>
     <mg>
       <tg xml:lang="nob">
