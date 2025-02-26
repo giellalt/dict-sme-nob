@@ -7895,10 +7895,25 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">gi gjenlyd</t>
         <t pos="Phrase">gi respons</t>
-        <t pos="Phrase">reagere på</t>
-        <t pos="Phrase">i samsvar med</t>
+        <xg>
+          <x>Márjá ii velge dávistan maidige.</x>
+          <xt>Márjá ga fremdeles ikke lyd fra seg.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gi respons</t>
+        <xg>
+          <x>Márjá ii velge dávistan maidige.</x>
+          <xt>Márjá ga fremdelen ikke lyd fra seg.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gi gjenlyd</t>
       </tg>
     </mg>
   </e>
