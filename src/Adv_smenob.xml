@@ -1749,6 +1749,7 @@ For the full license text, see the link above.</lic>
       <l pos="Adv">giđđat</l>
     </lg>
     <mg>
+	    <l_ref>giđđa_n</l_ref>
       <tg xml:lang="nob">
         <t pos="Adv">om våren</t>
         <xg>
@@ -3331,6 +3332,7 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="13953" sanue_id="18542"/>
     </lg>
     <mg>
+	    <l_ref>čakča_n</l_ref>
       <tg xml:lang="nob">
         <t pos="Adv">om høsten</t>
         <xg>
@@ -3652,11 +3654,28 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l pos="Adv">dálvit</l>
+      <algu lekseemi_id="21310" sanue_id="43982"/>
+    </lg>
+    <mg>
+	    <l_ref>dálvi_n</l_ref>
+      <tg xml:lang="nob">
+        <t pos="Adv">om vinteren</t>
+        <xg>
+          <x>Dálvit sáhttá čuoigat, muhto geassit ii gal sáhte.</x>
+          <xt>Om vinteren kan man gå på ski, men ikke om sommeren.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="1218">
       <l pos="Adv">dálvet</l>
       <algu lekseemi_id="21310" sanue_id="43982"/>
     </lg>
     <mg>
+	    <l_ref>dálvi_n</l_ref>
       <tg xml:lang="nob">
         <t pos="Adv">om vinteren</t>
         <xg>
@@ -4532,10 +4551,26 @@ For the full license text, see the link above.</lic>
       <l pos="Adv">geasset</l>
     </lg>
     <mg>
+	    <l_ref>geassi_n</l_ref>
       <tg xml:lang="nob">
         <t pos="Adv">om sommeren</t>
         <xg>
           <x>Dálvet sáhttá čuoigat, muhto geasset ii gal sáhte.</x>
+          <xt>Om vinteren kan man gå på ski, men ikke om sommeren.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">geassit</l>
+    </lg>
+    <mg>
+	    <l_ref>geassi_n</l_ref>
+      <tg xml:lang="nob">
+        <t pos="Adv">om sommeren</t>
+        <xg>
+          <x>Dálvit sáhttá čuoigat, muhto geassit ii gal sáhte.</x>
           <xt>Om vinteren kan man gå på ski, men ikke om sommeren.</xt>
         </xg>
       </tg>
