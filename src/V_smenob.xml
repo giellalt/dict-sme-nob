@@ -2564,6 +2564,43 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">galljudit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om et hull</re>
+        <t pos="V">utvide</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">galljut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om et hull</re>
+        <t pos="Phrase">bli større</t>
+      </tg>
+    </mg>
+    <ig>
+      <i>čalmmit galjot</i>
+      <id>čalmmit storrot</id>
+      <it>øynene blir store</it>
+    </ig>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hivvehit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">prøve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="54">
       <l context="mun" pos="V">livkkihit</l>
     </lg>
@@ -17299,6 +17336,17 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+        <t pos="V">knake</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">ruožihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>plutselig</re>
         <t pos="V">knake</t>
       </tg>
     </mg>
@@ -39315,11 +39363,24 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">jievžat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">gjengi</t>
+        <t pos="Phrase">si etter</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">rihkustit</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
+          <re>en lov</re>
         <t pos="V">forse</t>
+        <t pos="V">overtre</t>
       </tg>
     </mg>
   </e>
