@@ -30,9 +30,12 @@ For the full license text, see the link above.</lic>
   </lics>
   <e>
     <lg>
-      <l pos="A">buorre</l>
+      <l context="buorre" pos="A">buorre</l>
       <analysis>A_Sg_Nom</analysis>
       <mini_paradigm>
+        <analysis ms="A_Sg_Nom">
+          <wordform>buorre</wordform>
+        </analysis>
         <analysis ms="A_Sg_Nom">
           <wordform>buorre girji</wordform>
         </analysis>
