@@ -34,15 +34,9 @@ For the full license text, see the link above.</lic>
       <analysis>A_Sg_Nom</analysis>
       <mini_paradigm>
         <analysis ms="A_Sg_Nom">
-          <wordform>buorre</wordform>
-        </analysis>
-        <analysis ms="A_Sg_Nom">
           <wordform>buorre girji</wordform>
         </analysis>
         <analysis ms="A_Sg_Acc">
-          <wordform>buori girjji</wordform>
-        </analysis>
-        <analysis ms="A_Sg_Gen">
           <wordform>buori girjji</wordform>
         </analysis>
         <analysis ms="A_Sg_Ill">
@@ -59,11 +53,16 @@ For the full license text, see the link above.</lic>
           <wordform>girjjit leat buorit</wordform>
         </analysis>
         <analysis ms="A_Pl_Acc">
-          <wordform>buriid olbmuid</wordform>
+          <wordform>buriid girjjiid</wordform>
         </analysis>
-        <analysis ms="A_Sg_Acc">
-          <wordform>buriid olbmuide</wordform>
-          <wordform>buriide olbmuide</wordform>
+        <analysis ms="A_Pl_Ill">
+          <wordform>buriid/buriide girjjiide</wordform>
+        </analysis>
+        <analysis ms="A_Der/Comp_A_Sg_Nom">
+          <wordform>buoret</wordform>
+        </analysis>
+        <analysis ms="A_Der/Superl_A_Sg_Nom">
+          <wordform>buoremus</wordform>
         </analysis>
       </mini_paradigm>
     </lg>
