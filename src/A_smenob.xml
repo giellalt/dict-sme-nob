@@ -10068,6 +10068,17 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l context="ášši" pos="A">movttiidahtti</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">engasjerende</t>
+        <t pos="A">inspirerende</t>
+      </tg>
+    </mg>
+  </e>
   <e src="fad">
     <lg freq="1">
       <l context="ášši" pos="A">eahpemovttiidahtti</l>
@@ -21277,12 +21288,22 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="ortnet" pos="A">buresdoaibmi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">velfungerende</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
     <lg freq="1218">
       <l context="ortnet" pos="A">doaibmi</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="A">velfungerende</t>
+        <t pos="A">fungerende</t>
       </tg>
     </mg>
     <mg>
@@ -21291,7 +21312,7 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <e>
+ <e>
     <lg freq="58">
       <l context="filbma" pos="A">suivat</l>
       <algu lekseemi_id="10490" sanue_id="47122"/>
