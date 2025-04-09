@@ -231,7 +231,12 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>om kroppsdel</re>
         <t pos="V">forfryse</t>
+        <xg>
+          <x>Beatnagis leat juolggit čuvččagan buollašis</x>
+          <xt>Hundens bein er forfryst i kulda.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -241,6 +246,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>om kroppsdel</re>
         <t pos="V">forfryse</t>
         <xg>
           <x>Beatnagis leat juolggit šuvččagan buollašis</x>
@@ -3172,6 +3178,21 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">bli dømt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">suvččagit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om kroppsdel</re>
+        <t pos="V">forfryse</t>
+        <xg>
+          <x>Juolgesuorpmat suvččagit jos njuoska suohkuiguin manat olggos.</x>
+          <xt>Tærne forfryser hvis du går ut med våte sokker.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
