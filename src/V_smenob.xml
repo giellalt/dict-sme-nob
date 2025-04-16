@@ -278,12 +278,43 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="upers" pos="V">čuiket</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">bli mye mygg</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">oaiváduvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli beruset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">holbádit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">sy holbi på kofta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">guhparastit</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
          <re>om bevegelse</re>
         <t pos="Phrase">gjøre kollbøtte</t>
+        <t pos="Phrase">stupe kråke</t>
       </tg>
     </mg>
   </e>
@@ -10239,6 +10270,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">stupe kråke</t>
+        <t pos="Phrase">gjøre kollbøtte</t>
       </tg>
     </mg>
   </e>
@@ -23669,6 +23701,31 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">ádelastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">adle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čeavlut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli stolt</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">være stolt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="387">
       <l context="mun" pos="V">čevllohallat</l>
     </lg>
@@ -28158,6 +28215,17 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">arrestere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gapmudit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">ane</t>
+        <t pos="Phrase">ha på følelsen</t>
       </tg>
     </mg>
   </e>
@@ -39929,6 +39997,8 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">presumere</t>
+        <t pos="V">anta</t>
+        <t pos="Phrase">gå ut fra</t>
       </tg>
     </mg>
   </e>
