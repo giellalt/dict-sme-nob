@@ -68,7 +68,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="orgána" pos="A">konvenšuvdnavuđot</l>
+      <l context="orgána" paradigme="cases" pos="A">konvenšuvdnavuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -89,7 +89,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="plána" pos="A">diehtovuđot</l>
+      <l context="plána" paradigme="cases" pos="A">diehtovuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -99,7 +99,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="organisma" pos="A">ovttaseallat</l>
+      <l context="organisma" paradigme="cases" pos="A">ovttaseallat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -109,7 +109,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="organisma" pos="A">máŋggaseallat</l>
+      <l context="organisma" paradigme="cases" pos="A">máŋggaseallat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -134,6 +134,27 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">som husker godt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">neija</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">nøye</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="jurdagat" pos="A">oaččálaš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">kjødelig</t>
+        <t pos="A">sanselig</t>
       </tg>
     </mg>
   </e>
@@ -225,7 +246,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="orgána" pos="A">lihttovuđot</l>
+      <l context="orgána" paradigme="cases" pos="A">lihttovuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -235,7 +256,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="servodat" pos="A">bearašvuđot</l>
+      <l context="servodat" paradigme="cases" pos="A">bearašvuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -245,7 +266,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="diehtu" pos="A">dieđavuđot</l>
+      <l context="diehtu" paradigme="cases" pos="A">dieđavuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -255,7 +276,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="diehtu" pos="A">dutkanvuđot</l>
+      <l context="diehtu" paradigme="cases" pos="A">dutkanvuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -265,7 +286,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="teknologiija" pos="A">grammatihkkavuđot</l>
+      <l context="teknologiija" paradigme="cases" pos="A">grammatihkkavuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -275,7 +296,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="ealáhus" pos="A">kulturvuđot</l>
+      <l context="ealáhus" paradigme="cases" pos="A">kulturvuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -285,7 +306,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="diehtu" pos="A">vásihusvuđot</l>
+      <l context="diehtu" paradigme="cases" pos="A">vásihusvuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -295,7 +316,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="diehtu" pos="A">vásáhusvuđot</l>
+      <l context="diehtu" paradigme="cases" pos="A">vásáhusvuđot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -305,7 +326,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="ipmil" pos="A">buotveagalaš</l>
+      <l context="ipmil" paradigme="cases" pos="A">buotveagalaš</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -12338,9 +12359,49 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l context="skuovat" paradigme="cases" pos="A">vuollegisjoccat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">lavhælt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="skuovat" paradigme="cases" pos="A">allajoccat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">høyhælt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" paradigme="cases" pos="A">lieggaváimmot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">varmhjertet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" paradigme="cases" pos="A">galbmaváimmot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">kaldhjertet</t>
+      </tg>
+    </mg>
+  </e>
   <e src="fad">
     <lg freq="3">
-      <l context="olmmoš" pos="A">garraváimmot</l>
+      <l context="olmmoš" paradigme="cases" pos="A">garraváimmot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -22158,6 +22219,16 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="viessu" pos="A">gappus</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">skummelt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="ášši" pos="A">gáppus</l>
       <algu lekseemi_id="27214" sanue_id="60132"/>
     </lg>
@@ -24088,7 +24159,49 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l context="vásáhus" pos="A">áidnalunddot</l>
+      <l context="olmmoš" paradigme="cases" pos="A">buorrelunddot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">vennlig</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">godartet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" paradigme="cases" pos="A">bahálunddot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">vrien</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">ondartet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" paradigme="cases" pos="A">jaskeslunddot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om en person</re>
+        <t pos="A">stille</t>
+        <t pos="A">forsagt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="vásáhus" paradigme="cases" pos="A">áidnalunddot</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
