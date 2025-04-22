@@ -214,7 +214,7 @@
 
 <!ELEMENT tg (semantics?, re?,  ( ((t, stem*, l_ref?, morph_expl?) ))+, xg* ) >
 <!ATTLIST tg
-      xml:lang ( nob ) #REQUIRED
+      xml:lang ( nob | eng | fra ) #REQUIRED
       check CDATA #IMPLIED
 >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
