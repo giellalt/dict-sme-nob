@@ -18,7 +18,8 @@ jobs:
           python-version: '3.12'
       - name: Install xmllint
         run: |
-          sudo apt-get install -y --no-install-recommends xmllint
+          sudo apt-get update &&
+          sudo apt-get install -y --no-install-recommends libxml2-utils
       - name: Run xmllint
         run:
           ls src/*.xml | xargs python .githooks/pre-commit-xmllint-validate.py
