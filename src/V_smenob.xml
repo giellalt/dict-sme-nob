@@ -13598,8 +13598,18 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">flekke</t>
         <xg>
-          <x>Mii lávet bessiid ja lavnnjiid loggut juohke jagi.</x>
-          <xt>Vi bruker å flekke never og torv hvert år.</xt>
+          <x>Berrešii loggut bessiid šaddi mánus.</x>
+          <xt>Man bør flekke never i voksende måne.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om torv</re>
+        <t pos="Phrase">ta opp</t>
+        <xg>
+          <x>Mii lávet lavnnjiid loggut juohke jagi.</x>
+          <xt>Vi bruker å ta opp torv hvert år.</xt>
         </xg>
       </tg>
     </mg>
@@ -14098,8 +14108,8 @@ For the full license text, see the link above.</lic>
         <t pos="V">pleie</t>
         <t pos="V">bruke</t>
         <xg>
-          <x>Mii lávet bessiid ja lavnnjiid loggut juohke jagi.</x>
-          <xt>Vi bruker å flekke never og torv hvert år.</xt>
+          <x>Mii lávet vuolgit mearragáddái juohke geasi.</x>
+          <xt>Vi bruker å dra til kysten hver sommer.</xt>
         </xg>
       </tg>
     </mg>
@@ -23813,6 +23823,20 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Leahtuin bijadedje báhtui.</x>
           <xt>I full fart satte de avgårde på flukt.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gurgánit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">bevege seg inn i kø eller rekke</t>
+        <xg>
+          <x>Biillat ledje gurgánan liikabiilla maŋábeallai.</x>
+          <xt>Bilene hadde stilt seg i rekke etter likbilen.</xt>
         </xg>
       </tg>
     </mg>
