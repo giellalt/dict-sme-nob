@@ -13666,6 +13666,89 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">mánidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">mane</t>
+        <t pos="Phrase">mane fram</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sáhčalit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">puffe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">readnjut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>med korte bein</re>
+        <t pos="V">gå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hahppalit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">gispe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hohkkat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">drukna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">davkat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skjule</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">bieđđat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">plage</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">haŋkkuhit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">riste</t>
+        <t pos="V">skake</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="dat" pos="V">suohčat</l>
     </lg>
     <mg>
@@ -31800,12 +31883,33 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">lodnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">låne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sarčut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">hoppe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="71">
-      <l context="dat" pos="V">guohcagit</l>
+      <l context="mun" pos="V">guohcagit</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">råtne</t>
+        <t pos="V">bederves</t>
       </tg>
     </mg>
   </e>
