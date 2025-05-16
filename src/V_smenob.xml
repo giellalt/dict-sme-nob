@@ -1037,8 +1037,8 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">lengte</t>
         <xg>
-          <x>Abdul viellada dušše dan dáža nieidda maŋŋái.</x>
-          <xt>Abdul bare lengter etter den norske jenta.</xt>
+          <x>Mun vielladan ruovttubáikái.</x>
+          <xt>Jeg lengter til hjemplassen.</xt>
         </xg>
       </tg>
     </mg>
@@ -1058,6 +1058,11 @@ For the full license text, see the link above.</lic>
           <x>Livččii váivi jus healbadat iežat dáiddalaš attáldagaid.</x>
           <xt>Det ville være trist hvis du forkaster dine kunstnerlige evner.</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">forlate</t>
       </tg>
     </mg>
   </e>
@@ -4654,6 +4659,28 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">boarášit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">anse som for gammel</t>
+        <t pos="Phrase">anse som gammel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">boarástuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli gammel</t>
+        <t pos="V">eldes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="354">
       <l context="mun" pos="V" vmax="3">boarásmuvvat</l>
       <lc>(son) -muvai</lc>
@@ -4843,6 +4870,10 @@ For the full license text, see the link above.</lic>
       <xg>
         <x>Guolli ii borat sáltti haga.</x>
         <xt>Fisk er ikke spiselig uten salt.</xt>
+      </xg>
+      <xg>
+        <x>Vuostáláibi boraha, muhto mus lea guollemiella.</x>
+        <xt>Ostesmørbrød er mat, men jeg har lyst på fisk.</xt>
       </xg>
     </mg>
   </e>
@@ -6289,6 +6320,74 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">knipe munnen sammen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gopmohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>opptre som spøkelse</re>
+        <t pos="V">spøke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gopmohaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>opptre som spøkelse</re>
+        <t pos="V">spøke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">muovlat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>i dyp snø eller bløt myr</re>
+        <t pos="V">grynne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hurgguhit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">ile</t>
+        <xg>
+          <x>Biillat hurgguhit márkana guvlui.</x>
+          <xt>Bilene kjører med fart mot bygdesenteret.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">cuskilit</l>
+      <algu lekseemi_id="12997" sanue_id="56533"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">fnyse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">boŋkkihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">krasje i</t>
       </tg>
     </mg>
   </e>
@@ -9393,7 +9492,7 @@ For the full license text, see the link above.</lic>
           <xt>Dørene stenges kl 18.00.</xt>
         </xg>
         <xg>
-          <x>Čalmmmit giddanit.</x>
+          <x>Čalmmit giddanit.</x>
           <xt>Øyene går igjen.</xt>
         </xg>
       </tg>
@@ -10879,11 +10978,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">bryte</t>
-        <t pos="V">velte</t>
         <xg>
           <x>Ja de cuoppu roahkuhii iežas gitta juolgái, nu ahte ii ožžon luovos muđui go gákkai soppiin.</x>
           <xt>Og så hektet frosken seg fast i foten, slik at han ikke fikk den løs annet enn ved å bryte den med staven.</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">velte</t>
       </tg>
     </mg>
   </e>
@@ -13575,6 +13678,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">tekke</t>
+        <t pos="V">dekke</t>
       </tg>
     </mg>
   </e>
@@ -25059,11 +25163,92 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="dat" pos="V">báfaidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om lyd</re>
+        <t pos="V">dure</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čohkiidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">samles</t>
+             <xg>
+              <x>Mánát ledje čohkiidan geahččat TV.</x>
+              <xt>Barna hadde samlet seg for å se på TV.</xt>
+            </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">goanzát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">stå høy og klønete</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hovkkiidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli dement</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hovkkiiduvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli dement</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hovkkehuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli dement</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gopmahaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>opptre som spøkelse</re>
+        <t pos="V">spøke</t>
+        <xg>
+          <x>Mánát mat ledje hávdáduvvon vihatkeahtes eatnamii ja gopmahalle, sii gohčodedje eahpáražžan.</x>
+          <xt>Barn som ble begravd i uinnviet jord og som spøkte, ble kalt for utburd.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="3">
       <l context="mun" pos="V">gopmahallat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>opptre som spøkelse</re>
         <t pos="V">spøke</t>
         <xg>
           <x>Mánát mat ledje hávdáduvvon vihatkeahtes eatnamii ja gopmahalle, sii gohčodedje eahpáražžan.</x>
@@ -28671,6 +28856,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">ane</t>
         <t pos="Phrase">ha på følelsen</t>
+        <xg>
+          <x>Gapmudin ahte lávka ii lean guorus.</x>
+          <xt>Jeg hadde på følelsen at veska ikke var tom.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -31008,6 +31197,44 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">guolehuhttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	     <re>om elv, vann eller sjøen</re>
+        <t pos="V">tømme for fisk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">doažžut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	     <re>om elv</re>
+        <t pos="V">smulne</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli roligere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">háikit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">rope</t>
+        <t pos="V">hoie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="306">
       <l context="mun" pos="V">huikit</l>
       <lc>(son) huikkii</lc>
@@ -31879,6 +32106,623 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">høres</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">njáŋgat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">ligge utstrakt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">šearasmuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">lysne</t>
+        <t pos="V">klarne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">šearasmit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">lysne</t>
+        <t pos="V">klarne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">moardit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om fiskegarn</re>
+        <t pos="V">skyte</t>
+        <xg>
+          <x>moardit golgadaga</x>
+          <xt>skyte drivgarn</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">ráppaštit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">virvle</t>
+        <xg>
+          <x>Johka ráppašta.</x>
+          <xt>Elva virvler.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">háhpohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">trakte etter</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gámadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">kle på sko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">háhpohaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">trakte etter</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">guivásit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">dukke opp</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">rámškalit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">flakse</t>
+        <t pos="V">blinke</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skremme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dobbánit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bevege seg lenger bort</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli fjernere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">snuordut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om plagg</re>
+        <t pos="Phrase">bli veldig slitt</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om pels</re>
+        <t pos="Phrase">bli uten hår</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">loaččihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">spakne</t>
+        <xg>
+          <x>Biegga loaččihii.</x>
+          <xt>Vinden spaknet.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">løsne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">jávistit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">tildekke</t>
+        <xg>
+          <x>Láirauđđasat leat jávistan guokte viesu.</x>
+          <xt>Leirrasene har dekket til to hus.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">jávvásit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli tildekket</t>
+        <xg>
+          <x>Hivsset lea jávvásan muohttaga vuollai.</x>
+          <xt>Utedoen er dekt under snø.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čoalččuhit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">gå oppreist og sorgløst</t>
+        <xg>
+          <x>Mun fielladan ruovttubáikái.</x>
+          <xt>Jeg lengter til hjemplassen.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">fielladit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">lengte</t>
+        <xg>
+          <x>Mun fielladan ruovttubáikái.</x>
+          <xt>Jeg lengter til hjemplassen.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">oavnnjildit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">være i nærheten</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hievganit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>av arbeid</re>
+        <t pos="Phrase">bli overveldet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">šáigit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">gjø</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">oavŋŋildit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">være i nærheten</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čulket</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">forhindre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">skulljet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>i vann</re>
+        <t pos="V">skylle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">váibbahit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">trøtne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">spildut</l> 
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>dannes tynn is</re>
+        <t pos="Phrase">fryse til</t>
+        <xg>
+          <x>Dálvemearka čakčat lea go jávrrit ja jogat spildot.</x>
+          <xt>På høsten er det et tegn på vinter når vann og elver fryser til.</xt>
+        </xg>
+        <xg>
+          <x>Jávri spildu ihkku, muhto beaivvi ala sáhttá nálget.</x>
+          <xt>Vannet fryser til på natta, men i løpet av dagen kan det bli isfritt.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">gavdut</l> 
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>dannes tynn is</re>
+        <t pos="Phrase">fryse til</t>
+        <xg>
+          <x>Golggotmánus eatnamat bihcot ja jávrrit gavdot.</x>
+          <xt>I oktober dannes det rim på jordag og vannene fryser til.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">ráimmahallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">bli gal av noe unaturlig eller av å gjøre noe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">ráimmahaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">bli gal av noe unaturlig eller av å gjøre noe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">šlundduhit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">bevege seg motløst</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čalggadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">stadig synke gjennom</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">liđggastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">ta en titt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">givdnjut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skimtes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="upers" pos="V">nálget</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli isfri</t>
+        <xg>
+          <x>Jávri spildu ihkku, muhto beaivvi ala sáhttá nálget.</x>
+          <xt>Vannet fryser til på natta, men i løpet av dagen kan det bli isfritt.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">veašidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">bære</t>
+        <xg>
+          <x>Almmái veašidii stuorra guddo dohko man alde sáhttá čohkkát.</x>
+          <xt>Mannen bar en stor stubbe dit som man kan sitte på.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">roŋget</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">si ifra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">árggástallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">være feig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">stoavkkuhit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">smatte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dihtoštit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">undersøke</t>
+        <t pos="V">utforske</t>
+        <xg>
+          <x>Lean dihtoštan ráđđeolbmás riiddu birra.</x>
+          <xt>Jeg har spurt rådmannen ut om konflikten.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">oaččástallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">begjære</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">váhkkasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">komme seg</t>
+        <t pos="Phrase">få lindring</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">bealljeskaddarastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">lytte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lahppasaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">hive etter pusten</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">veaisidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">synge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čáráhallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">sove urolig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">siektadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">lokke</t>
+        <xg>
+          <x>Dat sáhttá siektadit spiriid ealu ala.</x>
+          <xt>Det kan lokke rovdyr inn i reinflokken.</xt>
+        </xg>
+        <xg>
+          <x>Dainna sii siektadit eambbosiid boahtit doaluide.</x>
+          <xt>Med dette lokker de flere å komme til arrangementet.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">ruovddástuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli forherdet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dáččaluvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli fornorsket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dážaluvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli fornorsket</t>
+        <xg>
+          <x>Gilli lea dážaluvvan.</x>
+          <xt>Bygda er blitt fornorsket.</xt>
+        </xg>  
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">láddiluvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli forfinsket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">boahnárastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">krype</t>
+        <t pos="V">kravle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">garcet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">binde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">garccastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">binde</t>
       </tg>
     </mg>
   </e>
@@ -40515,6 +41359,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">rimbelegges</t>
+        <xg>
+          <x>Golggotmánus eatnamat bihcot ja jávrrit gavdot.</x>
+          <xt>I oktober dannes det rim på jordag og vannene fryser til.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -45021,7 +45869,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">synes at noe er vakkert</t>
+        <t pos="Phrase">anse noe for vakkert</t>
         <xg>
           <x>Mun čáppášin su gávtti ja jerren gii dan lea gorron.</x>
           <xt>Jeg syntes at kofta hennes var vakker og spurte hvem som har sydd den.</xt>

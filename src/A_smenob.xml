@@ -208,9 +208,29 @@ For the full license text, see the link above.</lic>
 	      <re>som kommer i motgående retning</re>
         <t pos="A">møtende</t>
             <xg>
-               <x>møtende trafikk</x>
-               <xt>ovddalboahtti johtolat</xt>
+               <x>ovddalboahtti johtolat</x>
+               <xt>møtende trafikk</xt>
             </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">njáŋggas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">lang og klomsete</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="fáhcca" pos="A">gaskandaga</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">halvferdig</t>
       </tg>
     </mg>
   </e>
@@ -6416,11 +6436,12 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>som ikke har snø eller is på vinteren</re>
         <t pos="A">isfri</t>
         <t pos="A">snøfri</t>
         <xg>
-          <x>Saŋas biergasat go dain ii leat muohta dahje jiekŋa dálvet.</x>
-          <xt>Der var det bart, når det ikke var snø eller is om vinteren.</xt>
+          <x>Gáldu bissu saŋasin dálvitge.</x>
+          <xt>Oppkommet holder seg isfri også om vinteren.</xt>
         </xg>
       </tg>
     </mg>
@@ -22296,7 +22317,64 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+        <t pos="A">karrig</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
         <t pos="A">nedbeitet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="náhkki" pos="A">mievkkis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">myk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">stroaŋggis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">fordringfull</t>
+        <t pos="A">streng</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">sroaŋggis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">fordringfull</t>
+        <t pos="A">streng</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">eahpidahkes</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">mistenksom</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="olmmoš" pos="A">giehtaráhpat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="A">armsterk</t>
       </tg>
     </mg>
   </e>
