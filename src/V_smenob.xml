@@ -13816,7 +13816,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">drukna</t>
+        <t pos="V">drukne</t>
       </tg>
     </mg>
   </e>
@@ -25209,6 +25209,172 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">vajadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>i tøy eller skinn</re>
+        <t pos="V">klippe</t>
+        <t pos="V">skjære</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">iktit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">fortelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sáhkkehaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">intervjue</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">vuovgit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gi uttrykk for forbauselse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">rinčát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">være halvnaken</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">njáškát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">ligge i full lengde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">giidánit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli sammen</t>
+        <t pos="V">bli hekta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sáhkkehallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">intervjue</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">áŋggašit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">savne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">ávžut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">oppfordre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">spitnjut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">pipe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">janzut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">gå et sted, stor og tjukk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">janzát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">stå, sitte eller ligge stor og tjukk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">njallat</l>
+    </lg>
+    <mg>
+      <l_ref>njalli_n</l_ref>
+      <tg xml:lang="nob">
+        <t pos="V">løsne</t>
+        <t pos="V">flakne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">reahkkát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">rekke</t>
+        <t pos="Phrase">være nok</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">goalššagit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli kjølig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">hovkkiiduvvat</l>
     </lg>
     <mg>
@@ -32158,6 +32324,70 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">fádnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">plukke kvann</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gazirdit</l>
+    </lg>
+    <mg>
+      <l_ref>gazir_n</l_ref>
+      <tg xml:lang="nob">
+        <t t_type="expl">drepe et dyr ved å stikke i nakkegropen</t>
+        <t pos="V">skjelne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">gávvasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>intransitivt, f.eks. om en sti</re>
+        <t pos="V">ta en annen retning</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">guodjat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>til tross for dårlig lys</re>
+        <t pos="V">skjelne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">huiggirdit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skråle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">skártut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">bli dekket av en skorpe av noe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">ráppaštit</l>
     </lg>
     <mg>
@@ -32165,7 +32395,7 @@ For the full license text, see the link above.</lic>
         <t pos="V">virvle</t>
         <xg>
           <x>Johka ráppašta.</x>
-          <xt>Elva virvler.</xt>
+          <xt>Elvevannet virvler.</xt>
         </xg>
       </tg>
     </mg>
