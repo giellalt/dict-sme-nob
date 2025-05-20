@@ -32340,7 +32340,6 @@ For the full license text, see the link above.</lic>
       <l_ref>gazir_n</l_ref>
       <tg xml:lang="nob">
         <t t_type="expl">drepe et dyr ved å stikke i nakkegropen</t>
-        <t pos="V">skjelne</t>
       </tg>
     </mg>
   </e>
@@ -32378,11 +32377,86 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="dat" pos="V">stoalpát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">tårne</t>
+        <t t_type="expl">stå oppreist som en stang</t>
+        <xg>
+          <x>Gánda stoalpá dego bázzi.</x>
+          <xt>Gutten står oppreist som en statue.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="dat" pos="V">skártut</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t t_type="expl">bli dekket av en skorpe av noe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">sáiset</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om elva</re>
+        <t t_type="expl">forme en masse av is</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">njaŋggirdit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">slange seg</t>
+        <xg>
+          <x>Johka njaŋggirda gili lahkosiin.</x>
+          <xt>Elva slanger seg i nærheten av bygda.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">vri seg unna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">mukkagit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">mugne</t>
+        <xg>
+          <x>Girjjit mukkagit.</x>
+          <xt>Bøkene mugner.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">surne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dearistit</l>
+    </lg>
+    <mg>
+      <l_ref>dearis_n</l_ref>
+      <tg xml:lang="nob">
+        <t pos="Phrase">sy på bise</t>
       </tg>
     </mg>
   </e>
@@ -45921,12 +45995,126 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">holbat</l>
     </lg>
     <mg>
+      <l_ref>holbi_n</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">sy holbi på kofta</t>
         <xg>
           <x>Sáhtátgo veahkehit holbat gávtti?</x>
           <xt>Kan du hjelpe å sy på holbi på kofta?</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gáibmat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">komme overens med noen</t>
+        <t pos="Phrase">bli venner med noen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gáimmadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">komme overens</t>
+        <t pos="Phrase">bli venner</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">kombinere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">vilšut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">snu hodet og se seg rundt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">juokŋat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>ved tørking</re>
+        <t pos="V">gisne</t>
+        <t pos="Phrase">bli utett</t>
+        <xg>
+          <x>Muorralihtti sáhttá juokŋat.</x>
+          <xt>Et trekar kan gisne.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dáikit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skravle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">šlárbmet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skravle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hervvoštaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">more seg</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hervvoštallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">more seg</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">šuvgalit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">fare</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čahraidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skratte</t>
       </tg>
     </mg>
   </e>
