@@ -26665,7 +26665,9 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">susttašit</l>
     </lg>
     <mg>
+      <l_ref>sustit_v</l_ref>
       <tg xml:lang="nob">
+	      <re>lenge</re>
         <t pos="V">sniffe</t>
         <xg>
           <x>Beana susttašii gieđaid maid nieida geaigguhii dasa.</x>
@@ -46115,6 +46117,65 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">skratte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čiđđit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">opponere</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om båt</re>
+        <t pos="Phrase">skjære ut til siden</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">girjjogárjjohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om en fortelling e.l.</re>
+        <t pos="V">utbrodere</t>
+        <t pos="Phrase">å gjøre broket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">váimmosmuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">få mot til noe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">váimmoskit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">få mot til noe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sustit</l>
+    </lg>
+    <mg>
+      <l_ref>susttašit_v</l_ref>
+      <tg xml:lang="nob">
+        <t pos="V">snuse</t>
       </tg>
     </mg>
   </e>
