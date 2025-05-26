@@ -69,7 +69,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">å tre i nåløye</t>
+        <t pos="Phrase">tre i nåløye</t>
       </tg>
     </mg>
   </e>
@@ -5501,6 +5501,7 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">jogŋet</l>
     </lg>
     <mg>
+      <l_ref>jokŋa_s</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">plukke tyttebær</t>
         <xg>
@@ -8869,7 +8870,7 @@ For the full license text, see the link above.</lic>
         <t pos="V">slenge</t>
         <xg>
           <x>fáškut báttiin</x>
-          <xt>å slenge med tau</xt>
+          <xt>slenge med tau</xt>
         </xg>
       </tg>
     </mg>
@@ -13676,6 +13677,7 @@ For the full license text, see the link above.</lic>
       <algu lekseemi_id="33054" sanue_id="17639"/>
     </lg>
     <mg>
+      <l_ref>loavdda_s</l_ref>
       <tg xml:lang="nob">
         <t pos="V">tekke</t>
         <t pos="V">dekke</t>
@@ -13982,6 +13984,7 @@ For the full license text, see the link above.</lic>
       <lc>(sii) lubmejit</lc>
     </lg>
     <mg>
+      <l_ref>luomi_s</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">plukke molter</t>
       </tg>
@@ -15135,6 +15138,7 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">murjet</l>
     </lg>
     <mg>
+      <l_ref>muorji_s</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">plukke bær</t>
       </tg>
@@ -15146,6 +15150,7 @@ For the full license text, see the link above.</lic>
       <lc>(sii) murrejit</lc>
     </lg>
     <mg>
+      <l_ref>muorra_s</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">sage eller hogge ved</t>
       </tg>
@@ -32329,6 +32334,7 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">fádnet</l>
     </lg>
     <mg>
+      <l_ref>fádnu_s</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">plukke kvann</t>
       </tg>
@@ -32382,6 +32388,7 @@ For the full license text, see the link above.</lic>
       <l context="dat" pos="V">stoalpát</l>
     </lg>
     <mg>
+      <l_ref>stoalpu_n</l_ref>
       <tg xml:lang="nob">
         <t pos="V">tårne</t>
         <t t_type="expl">stå oppreist som en stang</t>
@@ -32491,6 +32498,7 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">gámadit</l>
     </lg>
     <mg>
+      <l_ref>gáma_n</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">kle på sko</t>
       </tg>
@@ -32618,10 +32626,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">gå oppreist og sorgløst</t>
-        <xg>
-          <x>Mun fielladan ruovttubáikái.</x>
-          <xt>Jeg lengter til hjemplassen.</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -32848,6 +32852,7 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">árggástallat</l>
     </lg>
     <mg>
+      <l_ref>árgi_a</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">være feig</t>
       </tg>
@@ -44405,6 +44410,7 @@ For the full license text, see the link above.</lic>
       <l context="mun" pos="V">sarret</l>
     </lg>
     <mg>
+      <l_ref>sarrit_s</l_ref>
       <tg xml:lang="nob">
         <t pos="Phrase">plukke blåbær</t>
       </tg>
@@ -46144,7 +46150,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
 	      <re>om en fortelling e.l.</re>
         <t pos="V">utbrodere</t>
-        <t pos="Phrase">å gjøre broket</t>
+        <t pos="Phrase">gjøre broket</t>
       </tg>
     </mg>
   </e>
@@ -46339,6 +46345,35 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">skjules</t>
         <t pos="V">tildekkes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hálbbášit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">anse noe for billig</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">forakte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">fuonášit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">anse noe for dårlig</t>
+        <xg>
+          <x>Sii fuonášedje su barggu.</x>
+          <xt>De anså arbeidet hennes som dårlig.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
