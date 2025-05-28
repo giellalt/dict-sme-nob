@@ -7950,10 +7950,6 @@ For the full license text, see the link above.</lic>
         <xt>Hun er både blind og inhabil.</xt>
       </xg>
     </mg>
-    <ig>
-      <i>ráhkisvuohta dahká olbmo čalmmeheapmin</i>
-      <it>kjærlighet gjør blind</it>
-    </ig>
      <ig>
           <i>Ii galgga čalmmehis gávppi dahkat.</i>
           <it>Man skal ikke handle i blinde (kjøpe katta i sekken).</it>
@@ -18470,12 +18466,13 @@ For the full license text, see the link above.</lic>
           <x>Albma stálut galget leat stuorrát ja romit.</x>
           <xt>Ekte troll skal være store og stygge.</xt>
         </xg>
-        <xg>
-          <x>ropmi dego stállu</x>
-          <xt>stygg som et troll</xt>
-        </xg>
       </tg>
     </mg>
+    <ig>
+      <i>ropmi dego stállu</i>
+      <id>hui ropmi</id>
+      <it>stygg som et troll</it>
+    </ig>
   </e>
   <e>
     <lg freq="1567">
@@ -20095,8 +20092,7 @@ For the full license text, see the link above.</lic>
       </xg>
     </mg>
     <ig>
-      <i>rukses árpu</i>
-      <i>rukses láigi</i>
+      <i>rukses árpu/láigi</i>
       <id>elemeanta, idea mii čatná oktii girjji, logaldallama dahje sullasačča</id>
       <it>rød tråd</it>
     </ig>
@@ -20465,11 +20461,6 @@ For the full license text, see the link above.</lic>
     <ig>
       <i>čáhppes ruđat</i>
       <it>svarte penger</it>
-    </ig>
-    <ig>
-      <i>čáhppes káffe</i>
-      <id>káffe mielkki dahje lávcca haga</id>
-      <it>svart kaffe</it>
     </ig>
     <ig>
       <i>čáhppat dego giehpa</i>
