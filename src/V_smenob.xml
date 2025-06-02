@@ -13828,11 +13828,26 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">šloahkkut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">ete</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">davkat</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">skjule</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">lukke</t>
       </tg>
     </mg>
   </e>
@@ -14615,6 +14630,16 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">buiját</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">svindle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="6">
       <l context="dat" pos="V">meahkut</l>
       <lc>(dat) meagui, (dat) mehkot</lc>
@@ -14623,6 +14648,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">breke</t>
+        <t pos="V">mekre</t>
         <xg>
           <x>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat šnjirgot.</x>
           <xt>Så hører gutten at kyrne rauter, sauene breker og hestene vrinsker.</xt>
@@ -17296,6 +17322,78 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">streve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">labbanit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">stige</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">marššuhit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">vagge</t>
+        <t pos="V">vakle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sahčat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skyve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sahčit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">trekke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">guvdnut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">huke seg ned</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">guvdnjut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">huke seg ned</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">gástadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">fukte</t>
+        <t pos="V">væte</t>
       </tg>
     </mg>
   </e>
