@@ -1848,6 +1848,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+	      <re>holde på å unngå</re>
         <t pos="V">unngå</t>
         <xg>
           <x>Jus garvvašeimmet borramušaid main lea ollu sohkar, de dat buoredivččii min dearvvašvuođa.</x>
@@ -22835,11 +22836,167 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">med beali: kjempe for noe</t>
+	      <re>med beali</re>
+        <t pos="Phrase">kjempe for noe</t>
          <xg>
             <x>Son garrasit čuolai oarjelsámegiela beali.</x>
             <xt>Hun kjempet hardt for sørsamisk.</xt>
          </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">guojihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">letne</t>
+        <t pos="V">klarne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">rámohaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skryte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">rámohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skryte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lahpastuddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">puste tungt</t>
+        <t pos="Phrase">puste med besvær</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lahpastuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">miste pusten</t>
+        <t pos="Phrase">holde på å kveles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lahppasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">miste pusten</t>
+        <t pos="Phrase">holde på å kveles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lahppasaddat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">hive etter pusten</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">noađáskit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gå avgårde med bør på ryggen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">noađástit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bære bør</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gierásmuvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli glad i</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gierásmit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli glad i</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">burskkihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bryte ut i latter</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">burskit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>ufrivillig</re>
+        <t pos="V">le</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">duoršát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">gape</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">guopmat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">begripe</t>
       </tg>
     </mg>
   </e>
@@ -33021,16 +33178,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">lytte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l context="mun" pos="V">lahppasaddat</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="Phrase">hive etter pusten</t>
       </tg>
     </mg>
   </e>
