@@ -46,7 +46,7 @@
       pg ( yes | no ) #IMPLIED
       illpl ( no ) #IMPLIED
       vmax ( 2 | 3 | 4) #IMPLIED
-      dialect CDATA #IMPLIED
+      dial ( east | west | torne | varanger ) #IMPLIED
       par CDATA #IMPLIED
       dera CDATA #IMPLIED
 
@@ -118,7 +118,7 @@
 <!ATTLIST t country CDATA #IMPLIED >
 
 <!ATTLIST t type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr ) #IMPLIED >
-<!ATTLIST t dialect CDATA #IMPLIED >
+<!ATTLIST t dial ( east | west | torne | varanger ) #IMPLIED >
 <!ATTLIST t src CDATA #IMPLIED >
 <!ATTLIST t alt_str CDATA #IMPLIED >
 <!ATTLIST t sem_type ( Obj | Plc | Org | Mal ) #IMPLIED >
