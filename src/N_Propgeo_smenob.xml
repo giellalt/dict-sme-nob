@@ -15779,7 +15779,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="N" reg="x" sem_type="Plc" src="PS" type="Prop">Kvitnes</t>
+        <t pos="N" reg="Berlevåg" sem_type="Plc" src="PS" type="Prop">Kvitnes</t>
       </tg>
     </mg>
   </e>
@@ -20881,6 +20881,16 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg freq="7">
+      <l nr="Pl" pos="N" sem_type="Plc" type="Prop">Ihkkok</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="N" reg="x" sem_type="Plc" src="SA" type="Prop">Store Ekkerøy</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="54">
       <l pos="N" sem_type="Plc" type="Prop">Iidna</l>
     </lg>
@@ -25141,11 +25151,11 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="1">
-      <l pos="N" sem_type="Plc" type="Prop">Leaibbášvággi</l>
+      <l pos="N" sem_type="Plc" type="Prop">Leaibbáš</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="N" reg="x" sem_type="Plc" src="PS" type="Prop">Oldervik</t>
+        <t pos="N" reg="Tromsø" sem_type="Plc" src="PS" type="Prop">Oldervik</t>
       </tg>
     </mg>
   </e>
@@ -25437,7 +25447,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="156">
-      <l pos="N" sem_type="Plc" type="Prop">Leaŋgáviika</l>
+      <l pos="N" sem_type="Plc" type="Prop">Leaŋgaviika</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -52017,7 +52027,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="N" sem_type="Plc" type="Prop">Vuođđavuotna</l>
+      <l pos="N" sem_type="Plc" type="Prop">Vuođavuotna</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -53548,6 +53558,16 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="N" reg="x" sem_type="Plc" src="PS" type="Prop">Appistunturit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="5">
+      <l pos="N" sem_type="Plc" type="Prop">Átavuotna</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="N" reg="x" sem_type="Plc" src="SA" type="Prop">Efjorden</t>
       </tg>
     </mg>
   </e>
