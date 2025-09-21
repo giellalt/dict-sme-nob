@@ -5349,6 +5349,27 @@ For the full license text, see the link above.</lic>
         <t pos="Phrase">rette på</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">helbrede</t>
+        <t pos="V">kurere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">buorádallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">prøve å forbedre</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">prøve å helbrede</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg freq="1694">
@@ -5755,13 +5776,73 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">álgalit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">innlede et forhold</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">liekkistit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">føles varm</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">heailalahttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>transitivt, å svinge på noe</re>
+        <t pos="V">svinge</t>
+        <xg>
+          <x>Son heailalahtii gáktehealmmi.</x>
+          <xt>Hun svingte med koftekanten.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gahčahit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>(ufrivillig) la falle</re>
+        <t pos="V">miste</t>
+        <xg>
+          <x>Gahčahin gohpu láhttái.</x>
+          <xt>Jeg mista koppen i golvet.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">jámadit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">spring omkring</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="126">
       <l context="mun" pos="V">bálgat</l>
       <algu lekseemi_id="18231" sanue_id="7458"/>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">plages</t>
+        <t pos="Phrase">spring omkring</t>
       </tg>
     </mg>
   </e>
@@ -14140,6 +14221,28 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="V">slappe</t>
         <t pos="V">slakke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dovdostit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>litt</re>
+        <t pos="V">føle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">lasmmihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">kollapse</t>
+        <t pos="Phrase">falle sammen</t>
       </tg>
     </mg>
   </e>
@@ -28485,7 +28588,26 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <re>bli svekket</re>
+        <t pos="Phrase">bli svekket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">salkkuhit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skumpe (noen)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">návccahuhttit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
         <t pos="V">svekke</t>
       </tg>
     </mg>
