@@ -320,6 +320,43 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="dat" pos="V">ruškkodit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">bli brunaktig</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	    <re>om høsten</re>
+        <t pos="V">gulne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">suttihit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">smelte</t>
+        <t pos="V">forsvinne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hearidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">være opptatt med noe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">hearddohuvvat</l>
     </lg>
     <mg>
@@ -23588,6 +23625,17 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Phrase">smyge seg under</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čáŋadit</l>
+      <algu lekseemi_id="13927" sanue_id="5348"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">smyge seg under noe</t>
       </tg>
     </mg>
   </e>
