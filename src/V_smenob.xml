@@ -54,6 +54,43 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l context="mun" pos="V">mozzidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">være i håndgemeng med noen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">være i håndgemeng med hverandre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hiddjidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">sjikanere</t>
+        <t pos="V">spotte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hidjidit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">sjikanere</t>
+        <t pos="V">spotte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="dat" pos="V">goarjadit</l>
     </lg>
     <mg>
@@ -37522,9 +37559,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re>om stemmen</re>
         <t pos="V">klare</t>
+        <t pos="V">kremte</t>
         <xg>
           <x>Oahpaheaddji gálge čoddaga.</x>
-          <xt>Læreren klarer stemmen.</xt>
+          <xt>Læreren kremter.</xt>
         </xg>
       </tg>
     </mg>
