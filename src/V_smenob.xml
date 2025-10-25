@@ -31,15 +31,161 @@ For the full license text, see the link above.</lic>
   </lics>
   <e>
     <lg>
+      <l context="mun" pos="V">ganjaldallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">felle tårer</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gáržžohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli begrenset</t>
+        <xg>
+          <x>Boazoguohtunguovllu lea gáržžohallan.</x>
+          <xt>Reinbeiteområdet er blitt begrenset.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">måtte gjøre noe under press</t>
+        <xg>
+          <x>Fitnodat gáržžohalai soabadit suinna.</x>
+          <xt>Bedriften ble presset til å inngå forlik med henne.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lihccohallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli avsatt</t>
+        <t pos="Phrase">bli ekskludert</t>
+        <xg>
+          <x>Son lihccohalai go lei rihkkon njuolggadusaid.</x>
+          <xt>Hun ble ekskludert fordi hun hadde brudt vedtektene.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">bohccostallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">drive med rein</t>
+        <xg>
+          <x>Dál sus ii leat šat vejolaš bohccostallat.</x>
+          <xt>Nå har han ikke lenger mulighet for å drive med rein.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">leke at man har rein</t>
+        <xg>
+          <x>Friddjabottus mánát bohccostalle bottus.</x>
+          <xt>I friminuttet lekte barna at de hadde rein.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">bealkkahallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli kjeftet på</t>
+        <xg>
+          <x>Oahppi bealkkahalai oahpaheaddjái.</x>
+          <xt>Eleven ble kjeftet på av læreren.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">báinnahallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli farget av</t>
+        <t pos="Phrase">bli påvirket av</t>
+        <xg>
+          <x>Sámegiela cealkkaráhkadus báinnahallá dárogillii.</x>
+          <xt>Samisk setningsstruktur blir påvirket av norsk.</xt>
+        </xg>
+        <xg>
+          <x>Son lei báinnahallan dalá skuvlapolitihkkii.</x>
+          <xt>Han var påvirket av den tidas skolepolitikk.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">gevrehallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli bedt om å gjøre noe omgående</t>
+        <xg>
+          <x>Geahččit gevrehallet eret jos leat juhkaluvvan.</x>
+          <xt>Publikum blir bedt om å fjerne seg hvis de har drukket.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">dáččastallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">ha norsk tankemåte eller gjøremåte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sámáiduvvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bli samifisert</t>
+        <xg>
+          <x>Sisafárrejeaddji áiggi mielde sámáiduvai.</x>
+          <xt>Innflytteren ble etter en tid samifisert.</xt>
+        </xg>
+        <xg>
+          <x>Shakespeare-bihttá lea sámáiduvvon.</x>
+          <xt>Shakespeare-stykket er samifisert.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">stuorrulit</l>
     </lg>
     <mg>
       <tg xml:lang="nob">
 	      <re>om barn</re>
-        <t pos="Phrase">bli større</t>
+        <t pos="Phrase">bli eldre</t>
         <xg>
           <x>Gal son oahppá go stuorrula.</x>
-          <xt>Han lærer nok når han blir større.</xt>
+          <xt>Han lærer nok når han blir eldre.</xt>
         </xg>
       </tg>
     </mg>
