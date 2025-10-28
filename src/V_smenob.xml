@@ -3211,14 +3211,16 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Phrase">få til å vise seg</t>
         <t pos="Phrase">la vise seg</t>
-        <!-- Eg får ikkje grep om gode døme her, men dei trengst sårt. TTy: 2025-10-27 -->
+        <xg>
+          <x>Lávlla iđihii mojiid.</x>
+          <xt>Sangen fikk fram smil.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="nob">
         <re>om film</re>
         <t pos="V">framkalle</t>
-        <t pos="V">fremkalle</t>
         <xg>
           <x>Son lea gova iđihan.</x>
           <xt>Hun har framkalt et bilde.</xt>
@@ -3227,7 +3229,17 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">få andre sine reinsdyr inn i flokken sin</t>
+	      <re>om å spire</re>
+        <t pos="Phrase">få til å gro</t>
+        <xg>
+          <x>Giđđat iđihan buđetgilvagiid.</x>
+          <xt>På våren setter jeg settepotetene til å gro.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t t_type="expl">få andre sine reinsdyr inn i flokken sin</t>
         <xg>
           <x>Siida mii iđiha vierrobohcco iežas ellui, galgá jođneamos lági mielde dan dieđihit guoskevaš siidii.</x>
           <xt>En siida som har fått rein fra en annen siida inn i flokken, skal snarest mulig underrette den andre siidaen om forholdet.</xt>
