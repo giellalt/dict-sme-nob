@@ -3258,6 +3258,20 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">gahkkit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">kakle</t>
+      <xg>
+       <x>Vuonccis gahkká.</x>
+       <xt>Høna kakler.</xt>
+      </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="31">
       <l context="mun" pos="V" vmax="3">ilosmuvvat</l>
     </lg>
@@ -22751,7 +22765,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
+	      <re>om lyden av torden</re>
         <t pos="V">tordne</t>
+        <xg>
+          <x>Baján čearggui.</x>
+          <xt>Det tordnet.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -35308,9 +35327,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="V">kvine</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">summe</t>
         <xg>
           <x>Lihkus lei dakkár tealtá, ahte eai beassan čuoikkat sisa, olggobealde dušše njimme.</x>
-          <xt>Heldigvis var det et slikt telt at mygg ikke kom inn, utenfor de bare kvinte.</xt>
+          <xt>Heldigvis var det et slikt telt at mygg ikke kom inn, utenfor bare summet de.</xt>
         </xg>
       </tg>
     </mg>
