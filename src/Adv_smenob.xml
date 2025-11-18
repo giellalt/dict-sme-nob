@@ -2196,15 +2196,19 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">enda</t>
         <t pos="Adv">ennå</t>
+        <xg>
+          <x>Son lea ain dáppe.</x>
+          <xt>Hun er ennå der.</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Adv">enda</t>
         <xg>
           <x>Mii áigut fállat ain buoret aviissa didjiide.</x>
           <xt>Vi skal tilby en enda bedre avis til dere.</xt>
-        </xg>
-        <xg>
-          <x>Son lea ain dáppe.</x>
-          <xt>Hun er fremdeles der.</xt>
         </xg>
       </tg>
     </mg>
@@ -6365,7 +6369,7 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">sammen med</t>
         <xg>
           <x>áhčči oktan mánáinis</x>
-          <xt>far med sitt barnet</xt>
+          <xt>far med barnet sitt</xt>
         </xg>
       </tg>
     </mg>
@@ -6377,12 +6381,20 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Adv">sammen</t>
+        <t pos="Phrase">mot hverandre</t>
+        <xg>
+          <x>Biillat beaškkehedje oktii.</x>
+          <xt>Bilene kolliderte.</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">en gang</t>
+        <xg>
+          <x>Čájet vel oktii!</x>
+          <xt>Vis en gang til!</xt>
+        </xg>
       </tg>
     </mg>
   </e>
