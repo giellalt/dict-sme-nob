@@ -27637,6 +27637,18 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg freq="12">
+      <l context="mun" pos="V">snuđđat</l>
+      <algu lekseemi_id="9438" sanue_id="10718"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">snufse</t>
+        <t t_type="expl">puste slik at det høres</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="8">
       <l context="mun" pos="V">sojaldahttit</l>
     </lg>
@@ -30961,8 +30973,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <re>frisk, uskadet</re>
-        <t pos="Phrase">holde seg</t>
+        <t pos="Phrase">holde seg (frisk, uskadet)</t>
         <xg>
           <x>Goikeguolli riibbai unnimustá 10 jagi, jus albma ládje dan vurkkodii.</x>
           <xt>Tørrfisk holdt seg i minst 10 år, hvis man lagret den ordentlig.</xt>
@@ -32125,6 +32136,21 @@ For the full license text, see the link above.</lic>
         <t pos="V" src="fad">murre</t>
         <xg>
           <x>Mearrádusa geažil leat olusat nimmoran.</x>
+          <xt>På grunn av avgjørelsen har mange uttrykt sin misnøye.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">nimmardit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">uttrykke sin misnøye</t>
+        <t pos="V" src="fad">murre</t>
+        <xg>
+          <x>Mearrádusa geažil leat olusat nimmardan.</x>
           <xt>På grunn av avgjørelsen har mange uttrykt sin misnøye.</xt>
         </xg>
       </tg>
