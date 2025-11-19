@@ -4730,6 +4730,16 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">estimeret</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">bry seg om</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="524">
       <l context="dat" pos="V">billašuvvat</l>
       <lc>-šuvai</lc>
@@ -20835,6 +20845,62 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">lietnjut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">klynke</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">ule</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">veaigut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">skumre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">sáhčat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>med strev</re>
+        <t pos="V">skyve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">lampet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">hoppe på ski</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">hipmudit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">ha lyst på</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="1232">
       <l context="mun" pos="V">sámástit</l>
     </lg>
@@ -20864,7 +20930,12 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="V">tale</t>
+        <t pos="V">snakke</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">preke</t>
       </tg>
     </mg>
   </e>
