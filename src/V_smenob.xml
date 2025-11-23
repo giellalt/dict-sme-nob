@@ -31,6 +31,16 @@ For the full license text, see the link above.</lic>
   </lics>
   <e>
     <lg>
+      <l context="mun" pos="V">suvget</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">filtre opp</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l context="mun" pos="V">ganjaldallat</l>
     </lg>
     <mg>
@@ -9258,6 +9268,23 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">vierralit</l>
+      <algu lekseemi_id="23187" sanue_id="59438"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">rulle</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">dette</t>
+        <t pos="Phrase">falle overende</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="30">
       <l context="mun" pos="V">fierralit</l>
       <algu lekseemi_id="23187" sanue_id="59438"/>
@@ -9292,6 +9319,22 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+    <lg>
+      <l context="mun" pos="V">vierrat</l>
+      <algu lekseemi_id="23191" sanue_id="7927"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">rulle</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">rase ned</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
     <lg freq="44">
       <l context="mun" pos="V">fierrut</l>
       <lc>(mon) fierun, (sii) firrot</lc>
@@ -9302,6 +9345,21 @@ For the full license text, see the link above.</lic>
         <t pos="Phrase">røre rundt</t>
         <xg>
           <x>Dasto fierun joŋaid sohkkariin ja bijan daid galmmihanbumbái.</x>
+          <xt>Deretter rører jeg tyttebæra med sokker og legger dem i fryseren.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">vierrut</l>
+      <algu lekseemi_id="23192" sanue_id="271"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">røre rundt</t>
+        <xg>
+          <x>Dasto vierun joŋaid sohkkariin ja bijan daid galmmihanbumbái.</x>
           <xt>Deretter rører jeg tyttebæra med sokker og legger dem i fryseren.</xt>
         </xg>
       </tg>
@@ -28101,6 +28159,89 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
+        <t pos="V">knele</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">deabirdit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="Phrase">gå med slepende skritt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">nábirdit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">bore</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">nábárdit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">bore</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">cuhpat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">surkle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="dat" pos="V">cubistit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>en gang, litt</re>
+        <t pos="V">surkle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">čippostallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>holde på med</re>
+        <t pos="V">knele</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">buolvvastit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">knele</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l context="mun" pos="V">buolvvastallat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>holde på med</re>
         <t pos="V">knele</t>
       </tg>
     </mg>
