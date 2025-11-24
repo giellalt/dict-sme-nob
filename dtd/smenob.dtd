@@ -17,7 +17,7 @@
 <!ELEMENT sourcenote (#PCDATA|a)*>
 <!ELEMENT a (#PCDATA)>
 
-<!ELEMENT e (lg, source?, semantics?, stem*, sources?, mg+, derg*, ig* ) >
+<!ELEMENT e (lg, mg+, ig* ) >
 <!ATTLIST e
       src ( nj | sk | SvSt | gt_fad | gt | fad | other | sgg | SK |
             PS_SA | KAL | nou94 | PS | husbykuhmunen | lmm | sammallahti |
@@ -102,7 +102,7 @@
 
 
 
-<!ELEMENT tg (semantics?, re?,  ( ((t, stem*, l_ref?, morph_expl?) ))+, xg* ) >
+<!ELEMENT tg (re?,  ( ((t, l_ref?, morph_expl?) ))+, xg* ) >
 <!ATTLIST tg
       xml:lang ( nob | eng | fra ) #REQUIRED
       check CDATA #IMPLIED
