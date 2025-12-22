@@ -15401,8 +15401,12 @@ For the full license text, see the link above.</lic>
           <xt>Ha det bra!</xt>
         </xg>
         <xg>
-          <x>Bures dat manná.</x>
-          <xt>Det går bra.</xt>
+          <x>Mo manná? Bures dat manná.</x>
+          <xt>Hvordan går det? Det går bra.</xt>
+        </xg>
+        <xg>
+          <x>Mo manná? Dohko manná.</x>
+          <xt>Hvordan går det? Det går ikke så bra.</xt>
         </xg>
       </tg>
     </mg>
@@ -33000,6 +33004,11 @@ For the full license text, see the link above.</lic>
         <t pos="V">søke</t>
       </tg>
     </mg>
+    <ig>
+      <i>Guhte ohcá, son gávdná.</i>
+      <id>asdf</id>
+      <it>Den som leter, han finner.</it>
+    </ig>
   </e>
   <e>
     <lg freq="75">
@@ -38301,6 +38310,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Phrase">ivre for</t>
         <t pos="Phrase" src="fad">satse på</t>
+        <xg>
+          <x>Mun áiggun áŋggiruššat oahppat suomagiela.</x>
+          <xt>Jeg vil satse på å lære finsk.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
