@@ -42,6 +42,8 @@ Husk å velge pos og xml:lang
 
 Synonymer legges til i sg, antonymer i antg
 
+Eventuelle idiomer legges til i ig, oversettelse i it
+
 
 
 ***
@@ -61,7 +63,7 @@ Vi har litt konservativt språk i eksemplene
 ***
 # KILDER
 
-Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc, spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
+Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc., spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
 ***
 ***
@@ -74,7 +76,7 @@ SME-> NOB viser bare den vanligste varianten (= lemma) slik som det er nå.
 
 **Konklusjon:**
 Ulike variantformer i samme oppslag,i SME feks
-universitehta (subst.), universiteahtta (subst.) i samme oppslag. Legges inn som variant av lemma, med vN for å kunnne gi riktig bøysningsparadigme. v1 er default for lemma. Dvs at v1 er optional i genereringa, mens v2 osv er obligatoriske.
+universitehta (subst.), universiteahtta (subst.) i samme oppslag. Legges inn som variant av lemma, med vN for å kunnne gi riktig bøyningsparadigme. v1 er default for lemma. Dvs at v1 er optional i genereringa, mens v2 osv er obligatoriske.
 
     <lg>
       <l pos="N">universitehta</l>
@@ -166,10 +168,10 @@ Vi må bli enige om attributtene
 - Eksempel med alder, klokke og liknende
 
 # Fargeord
-Definisjonene trenger ikke å være så tekniske. Dette holder for rødt f.eks.:
+Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
 mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
 
-Trenger heller ikke å skrive hva de ulike fargene symboliserer.
+Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
 
 # Kvinnelig og mannlig
 Nissonlaš og almmáilaš brukes i ordboka. Eks:
@@ -178,7 +180,7 @@ nissonlaš/almmáilaš stáhtaoaivámuš
 # Referere til andre ord
 For eksempel jamfør og til forskjell fra... på norsk, 
 
-På samisk geahča eller gč., evt.jamfør = vrd. + komitatiiva (= veardádala)
+På samisk geahča eller gč., evt. jamfør = vrd. + komitatiiva (= veardádala)
 
 Eller legge til i l_ref?
 
@@ -343,6 +345,8 @@ váhnen og eallinguoibmi
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
+
+Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
 Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
 Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
 
@@ -350,12 +354,17 @@ Dan gal lean vajálduhttán.
 Det har jeg (virkelig) glemt.
 
 
-čuohtenáre - virker som det er brukt både om "ca 100" og "hundrevis", men ca. 100 ser ut til å være den primære bruken
+čuohtenáre - virker som det er brukt både om "ca. 100" og "hundrevis", men "ca. 100" ser ut til å være den primære bruken. Bør begge betydningene legges til i ordboka?
 
+Noen eksempler fra korpus:
 Jiehkit, uđđasat ja eará geologalaš proseassat leat čuohtenáre duháhiid jagiid mielde hábmen eanadaga.
+
 Ealli guollebivdohápman čuohtenáre jagiid
+
 Biedjovákkeguovllus ledje gottit duháhiid jagiid ja (lojes) bohccot fas leat leamašan čuohtenáre jagiid.
-Eará videoid, maid Evelina láve juohkit, leat sullii čuohtenáre olbmo geahččan,
+
+Eará videoid, maid Evelina láve juohkit, leat sullii čuohtenáre olbmo geahččan
+
 Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkásaš
 
 
