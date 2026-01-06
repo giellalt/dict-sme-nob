@@ -65,6 +65,8 @@ Vi har litt konservativt språk i eksemplene
 
 Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc., spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
+Skal dette være en regel?
+
 ***
 ***
 # LEMMA
@@ -211,11 +213,10 @@ har bestemte roller for å framheve strukturen (f.eks. i re)
 kan bruke parentes i definisjoner, f.eks:
 *(njealječiegat) breahtta dahje pláhta mii geavahuvvo lávdespeallamii*
 
-## juhkaluvvat: 
 
-leahkit alkohola váikkuhusa vuolde? (påvirket?)
-**Konklusjon:**
-bra
+Enn så lenge de samiske definisjonene ikke vises på nettsida:
+Hvis et ord har flere dg-er i sme, legg også til dt (oversettelse til norsk). Dette for å unngå forvirring om hvorfor et ord er listet opp flere ganger i ordboka. 
+
 
 ***
 ***
@@ -225,7 +226,7 @@ bra
 **Konklusjon:**
 - Fullstendige setninger starter med stor bokstav, avsluttes med tegnsetting (punktum, spørretegn)
 - Ufullstendige setninger med liten bokstav, uten tegnsetting
-- unngå parentes i eksempelsetninger
+- Unngå parentes i eksempelsetninger
 - Eksempelsetningene bør være selvstendige setninger, ikke peke til noe utenfor setningen.
 F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 
@@ -238,6 +239,9 @@ F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 - Bruk generiske substantiv (gutten, dama...) og pronomen, ikkje eigennamn
 - Bør være nøytrale: Unngå stedsnavn, religion, visse grupper - stigmatisering, stereotyper, etc
 - for man/en: bruk f.eks. *olmmoš, dievdoolmmoš, nissonolmmoš*
+
+
+Videre bør alle ord som er brukt i eksempelsetninger (og definisjoner) være med i ordboka. Legg derfor til ord hvis du ser det mangler.
 
 
 ***
@@ -347,7 +351,9 @@ váhnen og eallinguoibmi
 
 
 Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
+
 Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
+
 Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
 
 Dan gal lean vajálduhttán.
@@ -357,6 +363,7 @@ Det har jeg (virkelig) glemt.
 čuohtenáre - virker som det er brukt både om "ca. 100" og "hundrevis", men "ca. 100" ser ut til å være den primære bruken. Bør begge betydningene legges til i ordboka?
 
 Noen eksempler fra korpus:
+
 Jiehkit, uđđasat ja eará geologalaš proseassat leat čuohtenáre duháhiid jagiid mielde hábmen eanadaga.
 
 Ealli guollebivdohápman čuohtenáre jagiid
