@@ -1,0 +1,118 @@
+@charset "utf-8";
+@import "gt_dictionary_XXE_shared.css";
+
+r, rootdict {
+    background-color: #fff;
+}
+
+/* tg styling: */
+tg + tg:before {
+    content: "; ";
+}
+dg {
+    display: block;
+    width: 100px;
+    height: 35px;
+    padding: 5px;
+}
+
+dg:after {
+    margin-bottom: 100ex;
+}
+
+dg d {
+    font-style: italic;
+}
+
+d:after {
+        content: "; ";
+}
+
+tg {
+    display: inline;
+}
+
+re {
+    display: inline;
+}
+
+/* t styling: */
+syn + syn:before,
+t  +  t:before,
+te +  t:before,
+tf +  t:before,
+t  + tf:before,
+te + tf:before,
+tf + tf:before {
+    content: ", ";
+}
+d, t, tf, te, orig {
+    display: inline;
+}
+d + l + t + i {
+    margin-left: +.35em;
+}
+
+/* xg, x, xt styling: */
+te + xg:before, tf + xg:before {
+    margin-left: 0.5ex;
+    content: " ";
+}
+
+xg + xg:before {
+    display: inline;
+    content: "; ";
+}
+
+xg x {
+    font-style: italic;
+}
+
+ig {
+    display: block;
+    content: "Dajaldagat: ";
+}
+
+/* inline */
+ig + ig:before {
+    display: inline;
+    content: "; ";
+}
+
+ig i {
+    font-style: italic;
+}
+
+i:after {
+        content: "; ";
+}
+
+ig id {
+}
+
+id:before {
+    color: gray;
+    content: " (";
+}
+
+id:after {
+    color: gray;
+    content: ") ";
+}
+
+/* syng, syn styling: */
+syng {
+    display: inline;
+}
+
+syn {
+    display: inline;
+}
+
+
+/* Her kjem tillegga for sme-oahpa: */
+
+tr + tr:before {
+    content: "; ";
+}
+
