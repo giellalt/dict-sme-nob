@@ -360,6 +360,20 @@ Dan gal lean vajálduhttán.
 Det har jeg (virkelig) glemt.
 
 
+**birra(n)beaivi**:
+
+Finnes som substantiv i ordboka. Lurer på om det også er et adjektiv/adverb? Noe av bruken kan tyde på det:
+
+[...] ja ii guhtege ásahus sáhte fállat sámegielat bálvalusa	birranbeaivvi	.
+
+[...] lea dál áidna	birrabeaivve	dikšofálaldat sámemánáide Norggas .
+
+Ođđa muitosadji galgá leat olámuttos birranbeaivvi
+
+
+
+**čuohtenáre**:
+
 čuohtenáre - virker som det er brukt både om "ca. 100" og "hundrevis", men "ca. 100" ser ut til å være den primære bruken. Bør begge betydningene legges til i ordboka?
 
 Noen eksempler fra korpus:
