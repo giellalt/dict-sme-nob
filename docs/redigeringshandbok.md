@@ -350,17 +350,7 @@ váhnen og eallinguoibmi
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
 
-Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
-
-Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
-
-Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
-
-Dan gal lean vajálduhttán.
-Det har jeg (virkelig) glemt.
-
-
-**birra(n)beaivi**:
+## birra(n)beaivi
 
 Finnes som substantiv i ordboka. Lurer på om det også er et adjektiv/adverb? Noe av bruken kan tyde på det:
 
@@ -371,14 +361,14 @@ Finnes som substantiv i ordboka. Lurer på om det også er et adjektiv/adverb? N
 Ođđa muitosadji galgá leat olámuttos birranbeaivvi
 
 
-**oaniduvvon**
+## oaniduvvon
 
 Er det greit å skrive "oaniduvvon" for "forkortet":
 
 	vuođđolohku 1 000 000, oaniduvvon milj.
 
 
-**synonymer**
+## synonymer
 
 Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være? hupmat - hállat er vel greit, men hva med:
 
@@ -393,26 +383,74 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være? hupm
 5. áhkku - belá (dialekt, ganske ulikt)
 
 
-**Skal alle varianter legges til i ordboka?**
+## Skal alle varianter legges til i ordboka?
 
 For eksempel: 
 
-	gáfegohppu
-	gáffegohppu
-	káffegohppu
-	gáffekohppa
-	káffekohppa
-	osv.
+gáfegohppu
+gáffegohppu
+káffegohppu
+gáffekohppa
+káffekohppa
+osv.
 
 
-**Flere forklaringer i én definisjon**
+## Flere forklaringer i én definisjon
 
-F.eks. vuođđolohku 1 000 000 000, duhát miljovnna, oaniduvvon mrd.
+F.eks. miljárda:
+
+	vuođđolohku 1 000 000 000, duhát miljovnna, oaniduvvon mrd.
 
 Og i så fall, hvilket skilletegn skal man ha mellom definisjonene? Semikolon?
 
 
-**čuohtenáre**:
+## Gjennomsiktighet i definisjoner
+
+F.eks. váldorolla (fra mest til minst gjennomsiktig):
+
+1. olmmoš gii neaktá deháleamos rolla filmmas...
+
+2. olmmoš gii neaktá váldorolla filmmas...
+
+3. neavttár geas lea váldorolla filmmas...
+
+
+## adjektiver definisjoner formulering
+
+Ser at jeg har skrevet noen av definisjonene med "mii" eller "gii", f.eks.:
+	
+	mii lea guhkit go govdat 
+
+Men bør vel kanskje heller være
+	
+	lea guhkit go govdat
+
+?
+
+Men hva med et ord som alitčalmmat:
+
+	geas leat alit čalmmit
+
+Bør det skrives
+
+	leat alit čalmmit
+
+?
+
+
+## nolla - bare numeral?
+
+Er nolla/nulla bare numeral?
+
+	Lean duhtavaš go doallat nulla, čiekčan livččii sáhttán mannat goappeš guvlui.
+
+
+## gii/guhte
+
+olmmoš gii.../olmmoš guhte...
+
+
+## čuohtenáre
 
 čuohtenáre - virker som det er brukt både om "ca. 100" og "hundrevis", men "ca. 100" ser ut til å være den primære bruken. Bør begge betydningene legges til i ordboka?
 
@@ -428,6 +466,17 @@ Eará videoid, maid Evelina láve juohkit, leat sullii čuohtenáre olbmo geahč
 
 Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkásaš
 
+
+
+
+Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
+
+Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
+
+Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
+
+Dan gal lean vajálduhttán.
+Det har jeg (virkelig) glemt.
 
 
 
