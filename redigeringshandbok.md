@@ -371,6 +371,46 @@ Finnes som substantiv i ordboka. Lurer på om det også er et adjektiv/adverb? N
 Ođđa muitosadji galgá leat olámuttos birranbeaivvi
 
 
+**oaniduvvon**
+
+Er det greit å skrive "oaniduvvon" for "forkortet":
+
+	vuođđolohku 1 000 000, oaniduvvon milj.
+
+
+**synonymer**
+
+Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være? hupmat - hállat er vel greit, men hva med:
+
+1. nolla - nulla (ort.)
+
+2. buđetnjuvvdus - buđetmeastu (delvis annet ord)
+
+3. čalbmálagaid - njunnálagaid
+
+4. árga - árgabeaivi
+
+5. áhkku - belá (dialekt, ganske ulikt)
+
+
+**Skal alle varianter legges til i ordboka?**
+
+For eksempel: 
+
+	gáfegohppu
+	gáffegohppu
+	káffegohppu
+	gáffekohppa
+	káffekohppa
+	osv.
+
+
+**Flere forklaringer i én definisjon**
+
+F.eks. vuođđolohku 1 000 000 000, duhát miljovnna, oaniduvvon mrd.
+
+Og i så fall, hvilket skilletegn skal man ha mellom definisjonene? Semikolon?
+
 
 **čuohtenáre**:
 
