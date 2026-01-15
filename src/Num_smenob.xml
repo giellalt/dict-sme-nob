@@ -38,6 +38,9 @@ For the full license text, see the link above.</lic>
          <algu lekseemi_id="20110" sanue_id="81528"/>
       </lg>
       <mg>
+         <dg>
+            <d>30 minuhta ovdal olles diimmu</d>
+         </dg>
          <tg xml:lang="nob">
             <re>om klokka</re>
             <t pos="Num">halv</t>
@@ -490,8 +493,15 @@ For the full license text, see the link above.</lic>
          <l context="gápmagat" pos="Num">ovccilogi</l>
       </lg>
       <mg>
+         <dg>
+            <d>vuođđolohku 90</d>
+         </dg>
          <tg xml:lang="nob">
             <t pos="Num">90</t>
+            <xg>
+               <x>Áhkku lea ovccilogi jagi boaris.</x>
+               <xt>Bestemor er nitti år gammel.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
