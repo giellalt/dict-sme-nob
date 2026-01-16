@@ -74,9 +74,6 @@
       sanue_id CDATA #REQUIRED >
 
 <!ELEMENT mg (l_ref?, dg?, sg?, antg?, tg+, xg* ) >
-<!ATTLIST mg
-      xml:lang ( nob ) #IMPLIED
->
 <!ATTLIST mg id CDATA #IMPLIED >
 <!ATTLIST mg src CDATA #IMPLIED >
 <!ATTLIST mg c CDATA #IMPLIED >
@@ -104,7 +101,7 @@
 
 <!ELEMENT tg (re?,  ( ((t, l_ref?, morph_expl?) ))+, xg* ) >
 <!ATTLIST tg
-      xml:lang ( nob | eng | fra ) #REQUIRED
+      xml:lang ( nob | eng | fra | fin ) #REQUIRED
       check CDATA #IMPLIED
 >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
