@@ -73,7 +73,7 @@
 <!ATTLIST algu
       sanue_id CDATA #REQUIRED >
 
-<!ELEMENT mg (l_ref?, dg?, sg?, antg?, tg+, xg* ) >
+<!ELEMENT mg (l_ref?, dg?, sg?, antg?, tg+ ) >
 <!ATTLIST mg id CDATA #IMPLIED >
 <!ATTLIST mg src CDATA #IMPLIED >
 <!ATTLIST mg c CDATA #IMPLIED >

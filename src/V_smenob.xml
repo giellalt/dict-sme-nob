@@ -57,11 +57,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>forkortelse</re>
             <t pos="Phrase">NB</t>
+            <xg>
+               <x>fuomáš</x>
+               <xt>NB</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>fuomáš</x>
-            <xt>NB</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -75,11 +75,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">lage mat</t>
             <t pos="V">kokkelere</t>
+            <xg>
+               <x>Son lea čeahppi kohkket.</x>
+               <xt>Han er flink til å lage mat.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Son lea čeahppi kohkket.</x>
-            <xt>Han er flink til å lage mat.</xt>
-         </xg>
       </mg>
       <mg>
          <tg xml:lang="nob">
@@ -87,15 +87,15 @@ For the full license text, see the link above.</lic>
             <t pos="V">ordne</t>
             <t pos="Phrase">stelle med</t>
             <t pos="Phrase">ta vare på</t>
+            <xg>
+               <x>kohkket ealu</x>
+               <xt>passe reinflokken</xt>
+            </xg>
+            <xg>
+               <x>kohkket ruovttu</x>
+               <xt>passe hjemmet</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>kohkket ealu</x>
-            <xt>passe reinflokken</xt>
-         </xg>
-         <xg>
-            <x>kohkket ruovttu</x>
-            <xt>passe hjemmet</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -109,11 +109,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">lage mat</t>
             <t pos="V">kokkelere</t>
+            <xg>
+               <x>Son lea čeahppi gohkket.</x>
+               <xt>Han er flink til å lage mat.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Son lea čeahppi gohkket.</x>
-            <xt>Han er flink til å lage mat.</xt>
-         </xg>
       </mg>
       <mg>
          <tg xml:lang="nob">
@@ -121,15 +121,15 @@ For the full license text, see the link above.</lic>
             <t pos="V">ordne</t>
             <t pos="Phrase">stelle med</t>
             <t pos="Phrase">ta vare på</t>
+            <xg>
+               <x>gohkket ealu</x>
+               <xt>passe reinflokken</xt>
+            </xg>
+            <xg>
+               <x>gohkket ruovttu</x>
+               <xt>passe hjemmet</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>gohkket ealu</x>
-            <xt>passe reinflokken</xt>
-         </xg>
-         <xg>
-            <x>gohkket ruovttu</x>
-            <xt>passe hjemmet</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -425,11 +425,11 @@ For the full license text, see the link above.</lic>
             <re>om alkohol</re>
             <t pos="Phrase">bli full</t>
             <t pos="Phrase">bli beruset</t>
+            <xg>
+               <x>Politiijat válde vára olbmos gii lei badjelmeare juhkaluvvan.</x>
+               <xt>Politiet tok vare på en person som var overstadig beruset.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Politiijat válde vára olbmos gii lei badjelmeare juhkaluvvan.</x>
-            <xt>Politiet tok vare på en person som var overstadig beruset.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -440,11 +440,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om arter</re>
             <t pos="Phrase">bli utryddet</t>
+            <xg>
+               <x>Albbas lea nálihuvvan ollu guovlluin.</x>
+               <xt>Gaupa er utryddet i mange områder.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Albbas lea nálihuvvan ollu guovlluin.</x>
-            <xt>Gaupa er utryddet i mange områder.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -497,15 +497,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">sveve</t>
             <t pos="V">kretse</t>
+            <xg>
+               <x>Vuosttas muohtačalmmit sattáhalle čakčaáimmus.</x>
+               <xt>De første snøfnuggene svevde i høstlufta.</xt>
+            </xg>
+            <xg>
+               <x>Gáranas sattáhallá su birra.</x>
+               <xt>En ravn kretser rundt ham.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Vuosttas muohtačalmmit sattáhalle čakčaáimmus.</x>
-            <xt>De første snøfnuggene svevde i høstlufta.</xt>
-         </xg>
-         <xg>
-            <x>Gáranas sattáhallá su birra.</x>
-            <xt>En ravn kretser rundt ham.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -528,15 +528,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">krone</t>
+            <xg>
+               <x>Ođđa monárka ruvdnejuvvui.</x>
+               <xt>Den nye monarken ble kronet.</xt>
+            </xg>
+            <xg>
+               <x>ruvdnejuvvot gonagassan, dronnegin, keaisárin</x>
+               <xt>bli kronet til konge, dronning, keiser</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Ođđa monárka ruvdnejuvvui.</x>
-            <xt>Den nye monarken ble kronet.</xt>
-         </xg>
-         <xg>
-            <x>ruvdnejuvvot gonagassan, dronnegin, keaisárin</x>
-            <xt>bli kronet til konge, dronning, keiser</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -5391,11 +5391,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">nyte et måltid</t>
             <t pos="V">spise</t>
+            <xg>
+               <x>Máret ja Jovnna boradeigga ovttas.</x>
+               <xt>Máret og Jovnna spiste i lag.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Máret ja Jovnna boradeigga ovttas.</x>
-            <xt>Máret og Jovnna spiste i lag.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -5411,15 +5411,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">mate</t>
             <t pos="V">fôre</t>
+            <xg>
+               <x>Eadni boraha mánáža.</x>
+               <xt>Mora mater det lille barnet.</xt>
+            </xg>
+            <xg>
+               <x>Sii fertejedje borahit ellui jeahkáliid.</x>
+               <xt>De måtte fôre reinflokken med reinlav.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Eadni boraha mánáža.</x>
-            <xt>Mora mater det lille barnet.</xt>
-         </xg>
-         <xg>
-            <x>Sii fertejedje borahit ellui jeahkáliid.</x>
-            <xt>De måtte fôre reinflokken med reinlav.</xt>
-         </xg>
       </mg>
       <mg>
          <dg>
@@ -5427,15 +5427,15 @@ For the full license text, see the link above.</lic>
          </dg>
          <tg xml:lang="nob">
             <t pos="Phrase">høve som mat</t>
+            <xg>
+               <x>Guolli ii borat sáltti haga.</x>
+               <xt>Fisk er ikke spiselig uten salt.</xt>
+            </xg>
+            <xg>
+               <x>Vuostáláibi boraha, muhto mus lea guollemiella.</x>
+               <xt>Ostesmørbrød er mat, men jeg har lyst på fisk.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Guolli ii borat sáltti haga.</x>
-            <xt>Fisk er ikke spiselig uten salt.</xt>
-         </xg>
-         <xg>
-            <x>Vuostáláibi boraha, muhto mus lea guollemiella.</x>
-            <xt>Ostesmørbrød er mat, men jeg har lyst på fisk.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -5512,15 +5512,15 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">tære på</t>
             <t pos="V">etse</t>
             <t pos="V">erodere</t>
+            <xg>
+               <x>Mielli muvrejuvvui amas johka borrat dan.</x>
+               <xt>Sandmelen ble murt opp for at elva ikke skulle erodere i den.</xt>
+            </xg>
+            <xg>
+               <x>Vuollebáza borai miššovnna ruđaid.</x>
+               <xt>Underskuddet tærte på misjonens penger.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Mielli muvrejuvvui amas johka borrat dan.</x>
-            <xt>Sandmelen ble murt opp for at elva ikke skulle erodere i den.</xt>
-         </xg>
-         <xg>
-            <x>Vuollebáza borai miššovnna ruđaid.</x>
-            <xt>Underskuddet tærte på misjonens penger.</xt>
-         </xg>
       </mg>
       <mg>
          <dg>
@@ -5530,11 +5530,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om fisk</re>
             <t pos="Phrase">bite på kroken</t>
+            <xg>
+               <x>Dápmot borrá vuokka.</x>
+               <xt>Ørreten biter på kroken.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Dápmot borrá vuokka.</x>
-            <xt>Ørreten biter på kroken.</xt>
-         </xg>
       </mg>
       <mg>
          <dg>
@@ -5544,11 +5544,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>i brettspill</re>
             <t pos="Phrase">slå motstanderens brikke</t>
+            <xg>
+               <x>Vielgada c4-reaŋga sáhttá borrat čáhppada b5-reaŋgga.</x>
+               <xt>Hvits c4-bonde kan slå svarts b5-bonde.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Vielgada c4-reaŋga sáhttá borrat čáhppada b5-reaŋgga.</x>
-            <xt>Hvits c4-bonde kan slå svarts b5-bonde.</xt>
-         </xg>
       </mg>
       <ig>
          <i>borrat dego spiidni</i>
@@ -8596,11 +8596,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om vannstand i elv</re>
             <t pos="V">stige</t>
+            <xg>
+               <x>Johka lea dulvan mehterbeale.</x>
+               <xt>Elva har steget med en halvmeter.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Johka lea dulvan mehterbeale.</x>
-            <xt>Elva har steget med en halvmeter.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -14171,11 +14171,11 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">legge til</t>
             <t pos="V">øke</t>
             <t pos="V">tilsette</t>
+            <xg>
+               <x>Lasit 3 mani ja 100 grámma sohkkara.</x>
+               <xt>Tilsett 3 egg og 100 gram sukker.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Lasit 3 mani ja 100 grámma sohkkara.</x>
-            <xt>Tilsett 3 egg og 100 gram sukker.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -16180,11 +16180,11 @@ For the full license text, see the link above.</lic>
          </dg>
          <tg xml:lang="nob">
             <t pos="Phrase">plukke bær</t>
+            <xg>
+               <x>Čakčat liiko murjet, ja dálvet ges čuoiggadit.</x>
+               <xt>Om høsten liker hun å plukke bær, og om vinteren går hun på ski.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Čakčat liiko murjet, ja dálvet ges čuoiggadit.</x>
-            <xt>Om høsten liker hun å plukke bær, og om vinteren går hun på ski.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -19468,15 +19468,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">rose</t>
             <t pos="V">prise</t>
+            <xg>
+               <x>Son lei čeahppi rámidit ja movttiidahttit.</x>
+               <xt>Hun var flink til å rose og oppmuntre.</xt>
+            </xg>
+            <xg>
+               <x>Sii leat almmuhan máŋga rámiduvvon skearru.</x>
+               <xt>De har utgitt mange kritikerroste album.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Son lei čeahppi rámidit ja movttiidahttit.</x>
-            <xt>Hun var flink til å rose og oppmuntre.</xt>
-         </xg>
-         <xg>
-            <x>Sii leat almmuhan máŋga rámiduvvon skearru.</x>
-            <xt>De har utgitt mange kritikerroste album.</xt>
-         </xg>
       </mg>
    </e>
    <e>
@@ -19589,11 +19589,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">råde</t>
             <t pos="V">herske</t>
             <t pos="V">regjere</t>
+            <xg>
+               <x>Dronnet ráđđii 35 jagi.</x>
+               <xt>Dronninga regjerte i 35 år.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Dronnet ráđđii 35 jagi.</x>
-            <xt>Dronninga regjerte i 35 år.</xt>
-         </xg>
       </mg>
       <mg>
          <tg xml:lang="nob">
@@ -27280,11 +27280,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli lettere</t>
+            <xg>
+               <x>Lean vihtta kilo gehppon.</x>
+               <xt>Jeg har blitt fem kilo lettere.</xt>
+            </xg>
          </tg>
-         <xg>
-            <x>Lean vihtta kilo gehppon.</x>
-            <xt>Jeg har blitt fem kilo lettere.</xt>
-         </xg>
       </mg>
    </e>
    <e>
