@@ -20,9 +20,15 @@ Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more gen
 
 #  Møtereferat
 
+## smenob
+
 * 2024:
    [5.9.](meetings/240905.html)
-   
+
+## Generelle
+
+* 2026: [16.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/meetings/dicts/250116.html)
+
 # Eldre dokumentasjon
 
 * 2011:
