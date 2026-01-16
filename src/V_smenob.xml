@@ -51,21 +51,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">vrd.</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>forkortelse</re>
-            <t pos="Phrase">jf.</t>
-         </tg>
-         <xg>
-            <x>veardit</x>
-            <xt>jamfør</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">fuom.</l>
       </lg>
       <mg>
@@ -30139,11 +30124,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="fad">
       <lg freq="2117">
-         <l pos="V">vrd</l>
+         <l pos="V">vrd.</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re>forkortelse</re>
             <t pos="V">jf.</t>
+            <xg>
+               <x>veardit</x>
+               <xt>jamfør</xt>
+            </xg>
             <xg>
                <x>Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
                <xt>Saken er klar, jf. (jamfør) sametingsmeldinga.</xt>
