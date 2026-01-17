@@ -21,12 +21,55 @@ def parse_args():
 
     return parser.parse_args()
 
+def merge(smenob_entry, smefin_entry):
+    pass
+
 def main(args):
     with open(args.sme_fin) as f:
         smefin_tree = etree.parse(f)
 
     with open(args.sme_nob) as f:
         smenob_tree = etree.parse(f)
+
+    smefin_root = smefin_tree.getroot()
+    smenob_root = smenob_tree.getroot()
+
+    new_entries = []
+
+    # Iterate through smefin entries. Look them up by l in smenob. Try merging
+    for entry in smefin_root.iter("e"):
+        l = entry.xpath("./lg/l")[0]
+        l_id = (l.text, l.get("pos"), l.get("type"))
+        smenob_l_list = smenob_root.xpath(f'.//l[text()="{l.text}"]')
+        if len(smenob_l_list) == 1:
+            # Match! Merge with this entry
+            smenob_entry = smenob_l_list[0].getparent().getparent()
+            merge(smenob_entry, entry)
+        elif len(smenob_l_list) > 1:
+            # Multiple matches! Try to find the correct using pos and type
+            for smenob_l in smenob_l_list:
+                if smenob_l.get("pos") == l.get("pos") and smenob_l.get("type") == l.get("type"):
+                    smenob_entry = smenob_l.getparent().getparent()
+                    merge(smenob_entry, entry)
+                    continue
+            # If no match, print info:
+            print(f"No match for {l_id}. Please merge manually")
+        else: # len < 1
+            # No match! Add new entry to the end of the smenob file
+            new_entries.append(entry)
+
+    # Add entries not existing in smenob to the end of the file
+    for entry in new_entries:
+        # Add empty smenob tg
+        for mg in entry.xpath("./mg"):
+            tg = etree.SubElement(mg, "tg")
+            tg.set("{http://www.w3.org/XML/1998/namespace}lang", "nob")
+            t = etree.SubElement(tg, "t")
+            t.text = "_NOB"
+        smenob_root.append(entry)
+
+    smenob_tree.write(args.sme_nob, pretty_print=True, encoding="utf-8")
+
 
 
 
