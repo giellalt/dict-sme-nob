@@ -21,8 +21,22 @@ def parse_args():
 
     return parser.parse_args()
 
-def merge(smenob_entry, smefin_entry):
-    pass
+def merge_mgs(smenob_mg, smefin_mg):
+    smefin_tg = smefin_mg.xpath("./tg")[0]
+    smenob_mg.append(smefin_tg)
+
+def merge_entries(smenob_entry, smefin_entry, smefin_id):
+    # Does smefin entry contain multiple mg's?
+    smefin_mgs = smefin_entry.xpath("./mg")
+    if len(smefin_mgs) > 1:
+        print(f"entry {smefin_id} contains multiple mg's. Please merge manually")
+        return
+
+    # Merge
+    first_smenob_mg = smenob_entry.xpath("./mg")[0]
+    smefin_mg = smefin_mgs[0]
+    merge_mgs(first_smenob_mg, smefin_mg)
+
 
 def main(args):
     with open(args.sme_fin) as f:
@@ -44,13 +58,13 @@ def main(args):
         if len(smenob_l_list) == 1:
             # Match! Merge with this entry
             smenob_entry = smenob_l_list[0].getparent().getparent()
-            merge(smenob_entry, entry)
+            merge_entries(smenob_entry, entry, l_id)
         elif len(smenob_l_list) > 1:
             # Multiple matches! Try to find the correct using pos and type
             for smenob_l in smenob_l_list:
                 if smenob_l.get("pos") == l.get("pos") and smenob_l.get("type") == l.get("type"):
                     smenob_entry = smenob_l.getparent().getparent()
-                    merge(smenob_entry, entry)
+                    merge_entries(smenob_entry, entry, l_id)
                     continue
             # If no match, print info:
             print(f"No match for {l_id}. Please merge manually")
