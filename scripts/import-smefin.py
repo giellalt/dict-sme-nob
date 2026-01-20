@@ -21,8 +21,13 @@ def parse_args():
 
     return parser.parse_args()
 
-def merge_mgs(smenob_mg, smefin_mg):
-    smefin_tg = smefin_mg.xpath("./tg")[0]
+def merge_mgs(smenob_mg, smefin_mg, id):
+    try:
+        smefin_tg = smefin_mg.xpath("./tg")[0]
+    except IndexError:
+        print(f"{id} has a meaning group without translation. Skipping")
+        print(etree.tostring(smefin_mg.getparent()))
+        return
     smenob_mg.append(smefin_tg)
 
 def merge_entries(smenob_entry, smefin_entry, smefin_id):
@@ -35,7 +40,7 @@ def merge_entries(smenob_entry, smefin_entry, smefin_id):
     # Merge
     first_smenob_mg = smenob_entry.xpath("./mg")[0]
     smefin_mg = smefin_mgs[0]
-    merge_mgs(first_smenob_mg, smefin_mg)
+    merge_mgs(first_smenob_mg, smefin_mg, smefin_id)
 
 
 def main(args):
@@ -61,13 +66,16 @@ def main(args):
             merge_entries(smenob_entry, entry, l_id)
         elif len(smenob_l_list) > 1:
             # Multiple matches! Try to find the correct using pos and type
+            match = False
             for smenob_l in smenob_l_list:
                 if smenob_l.get("pos") == l.get("pos") and smenob_l.get("type") == l.get("type"):
                     smenob_entry = smenob_l.getparent().getparent()
                     merge_entries(smenob_entry, entry, l_id)
+                    match = True
                     continue
             # If no match, print info:
-            print(f"No match for {l_id}. Please merge manually")
+            if not match:
+                print(f"No match for {l_id}. Please merge manually")
         else: # len < 1
             # No match! Add new entry to the end of the smenob file
             new_entries.append(entry)
