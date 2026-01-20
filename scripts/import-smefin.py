@@ -72,6 +72,15 @@ def main(args):
             # No match! Add new entry to the end of the smenob file
             new_entries.append(entry)
 
+    for entry in smenob_root.iter("e"):
+        for mg in entry.xpath("./mg"):
+            fin_tgs = mg.xpath('./tg[@xml:lang="fin"]')
+            if len(fin_tgs) == 0:
+                tg = etree.SubElement(mg, "tg")
+                tg.set("{http://www.w3.org/XML/1998/namespace}lang", "fin")
+                t = etree.SubElement(tg, "t")
+                t.text = "_FIN"                
+
     # Add entries not existing in smenob to the end of the file
     for entry in new_entries:
         # Add empty smenob tg
