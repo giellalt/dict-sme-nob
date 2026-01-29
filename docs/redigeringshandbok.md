@@ -160,7 +160,8 @@ Vi bruker to parametre, som attributter:
 - Dialektvariasjon (østlig, vestlig, tornesamisk, sjøsamisk)
 - Variasjon mellom ulike administrative organisasjoner (land Norge, Sverige, Finland)
 
-Vi må bli enige om attributtene
+Vi må bli enige om attributtene.
+Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
 
 
 # Tallord-artikler
@@ -372,15 +373,15 @@ Er det greit å skrive "oaniduvvon" for "forkortet":
 
 Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være? hupmat - hállat er vel greit, men hva med:
 
-1. nolla - nulla (ort.)
+1. nolla - nulla (ort.) --> ikke synonym
 
-2. buđetnjuvvdus - buđetmeastu (delvis annet ord)
+2. buđetnjuvvdus - buđetmeastu (delvis annet ord) --> bør sette inn synonym
 
-3. čalbmálagaid - njunnálagaid
+3. čalbmálagaid - njunnálagaid --> bør være synonym
 
-4. árga - árgabeaivi
+4. árga - árgabeaivi --> bør sette inn synonym
 
-5. áhkku - belá (dialekt, ganske ulikt)
+5. áhkku - muore (dialekt, ganske ulikt)
 
 
 ## Skal alle varianter legges til i ordboka?
@@ -403,16 +404,27 @@ F.eks. miljárda:
 
 Og i så fall, hvilket skilletegn skal man ha mellom definisjonene? Semikolon?
 
+**Konklusjon**: semikolon er greit.
+
+
+"oaniduvvon mrd." er en tilleggsopplysning. Et eget element eller attributt for å legge inn forkortelser?
+
+
 
 ## Gjennomsiktighet i definisjoner
 
-F.eks. váldorolla (fra mest til minst gjennomsiktig):
+F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
 
 1. olmmoš gii neaktá deháleamos rolla filmmas...
 
 2. olmmoš gii neaktá váldorolla filmmas...
 
 3. neavttár geas lea váldorolla filmmas...
+
+
+**Konklusjon**: Sammensatte ord: man trenger ikke å definere hvert av ordene på nytt.
+3. er nok best i dette tilfellet.
+
 
 
 ## adjektiver definisjoner formulering
@@ -427,6 +439,9 @@ Men bør vel kanskje heller være
 
 ?
 
+
+
+
 Men hva med et ord som alitčalmmat:
 
 	geas leat alit čalmmit
@@ -438,11 +453,24 @@ Bør det skrives
 ?
 
 
+**Konklusjon**: bruke mii/gii i definisjoner.
+
+
+Også interessant å ta dette opp med Klara Sjo. Se f.eks. frekk, vennlig... i BOB.
+
+
+
 ## nolla - bare numeral?
 
 Er nolla/nulla bare numeral?
 
 	Lean duhtavaš go doallat nulla, čiekčan livččii sáhttán mannat goappeš guvlui.
+
+
+Samme med miljárda, miljovdna, duhát osv.
+I BOB er f.eks. "tusen" både substantiv og kvantor.
+
+**Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
 
 
 ## gii/guhte
@@ -467,6 +495,7 @@ Eará videoid, maid Evelina láve juohkit, leat sullii čuohtenáre olbmo geahč
 Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkásaš
 
 
+**Konklusjon**: Legg først og fremst inn betydninga som er dokumentert i andre ordbøker. Hvis den andre bruken er omfattende så kan det legges inn med re: (i nyere betydning).
 
 
 Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
