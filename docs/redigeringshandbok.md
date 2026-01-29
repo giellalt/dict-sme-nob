@@ -27,6 +27,19 @@ Tospråklige: Samisk-norsk (samisk-finsk)
 Samisk definisjonsordbok
 Samisk definisjonsordbok med norske (finske) oversettelser
 
+# dtd
+Vi må se på dtd for 
+- dialektmarkering
+- varianter (v1, v2 osv)
+- ordavledninger
+- source
+- antonymer (flere typer antonymer). Hva skal være med? Her fra Fjeld og Vikør 6. kap:
+-- kontradiktorisk motsetning (enten/eller), f.eks. gift ugift
+-- kontrær motsetning,
+--- artsmotsetning, f.eks. mann kvinne, hane høne
+--- gradsmotsetning, de kan sammenliknes, f.eks. varm kald, tom full
+--- konvers motsetning, to forskjellige perspektiver på samme sak, f.eks. kjøpe selge, gi få, mor barn, ektemann hustru
+--- kompletterende motsetning, handling som naturlig følges av en annen, f.eks. spørsmål svar, angrep forsvar, snakke lytte
 
 
 # Redigering i XMLmind
