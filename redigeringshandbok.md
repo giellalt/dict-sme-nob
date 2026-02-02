@@ -384,7 +384,7 @@ Er det greit å skrive "oaniduvvon" for "forkortet":
 
 ## synonymer
 
-Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være? hupmat - hállat er vel greit, men hva med:
+Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 1. nolla - nulla (ort.) --> ikke synonym
 
@@ -397,15 +397,19 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være? hupm
 5. áhkku - muore (dialekt, ganske ulikt)
 
 
+**Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
+
+
+
 ## Skal alle varianter legges til i ordboka?
 
 For eksempel: 
 
-gáfegohppu
-gáffegohppu
-káffegohppu
-gáffekohppa
-káffekohppa
+	gáfegohppu
+	gáffegohppu
+	káffegohppu
+	gáffekohppa
+	káffekohppa
 osv.
 
 
@@ -436,7 +440,8 @@ F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
 
 
 **Konklusjon**: Sammensatte ord: man trenger ikke å definere hvert av ordene på nytt.
-3. er nok best i dette tilfellet.
+
+3 er nok best i dette tilfellet.
 
 
 
@@ -489,6 +494,19 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 ## gii/guhte
 
 olmmoš gii.../olmmoš guhte...
+
+
+## metaforisk, abstrakt betydning
+
+På norsk ofte "i overført betydning".
+
+Hvordan markere det?
+Skal det være i re?
+
+
+## idiomer, faste uttrykk
+
+Når skal det under idiomer og når bare under eksempel?
 
 
 ## čuohtenáre
