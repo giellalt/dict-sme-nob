@@ -509,6 +509,17 @@ Skal det være i re?
 Når skal det under idiomer og når bare under eksempel?
 
 
+## samme definisjon
+
+f.eks.
+guovttebearašásodat: viessu mas leat guokte ássanovttadaga
+guovttebearašviessu: viessu mas leat guokte ássanovttadaga
+
+Skal definisjonen gjentas? (det jeg har gjort i dette tilfellet)
+
+i BOB er det gjort slik: tomannshus har bare en lenke til tomannsbolig
+
+
 ## čuohtenáre
 
 čuohtenáre - virker som det er brukt både om "ca. 100" og "hundrevis", men "ca. 100" ser ut til å være den primære bruken. Bør begge betydningene legges til i ordboka?
