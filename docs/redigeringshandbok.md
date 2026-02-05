@@ -500,7 +500,7 @@ olmmoš gii.../olmmoš guhte...
 
 På norsk ofte "i overført betydning".
 
-Hvordan markere det?
+Hvordan markere det? Formulering...
 Skal det være i re?
 
 
@@ -512,12 +512,20 @@ Når skal det under idiomer og når bare under eksempel?
 ## samme definisjon
 
 f.eks.
+
 guovttebearašásodat: viessu mas leat guokte ássanovttadaga
 guovttebearašviessu: viessu mas leat guokte ássanovttadaga
 
 Skal definisjonen gjentas? (det jeg har gjort i dette tilfellet)
 
 i BOB er det gjort slik: tomannshus har bare en lenke til tomannsbolig
+
+
+## avledninger
+
+Må diskuteres.
+
+F.eks. hvordan få frem forskjellen mellom arvigoahtit, arvát, arvváskit...
 
 
 ## čuohtenáre
@@ -537,7 +545,7 @@ Eará videoid, maid Evelina láve juohkit, leat sullii čuohtenáre olbmo geahč
 Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkásaš
 
 
-**Konklusjon**: Legg først og fremst inn betydninga som er dokumentert i andre ordbøker. Hvis den andre bruken er omfattende så kan det legges inn med re: (i nyere betydning).
+**Konklusjon**: Legg først og fremst inn betydninga som er dokumentert i andre ordbøker. Hvis den andre bruken er omfattende så kan man vurdere å legge det inn med re: (i nyere betydning).
 
 
 Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
