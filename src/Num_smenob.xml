@@ -54,8 +54,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg freq="8552">
          <l context="gápmagat" pos="Num" vmax="3">miljovdna</l>
-         <lsub>miljun</lsub>
-         <lsub>millijuvdna</lsub>
          <algu lekseemi_id="36085" sanue_id="63365"/>
       </lg>
       <mg>
@@ -159,7 +157,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">mange tusen</t>
+            <t t_type="phrase">mange tusen</t>
          </tg>
       </mg>
    </e>
@@ -179,7 +177,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">mange hundretusen</t>
+            <t t_type="phrase">mange hundretusen</t>
          </tg>
       </mg>
    </e>
@@ -244,7 +242,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg freq="3656">
          <l context="gápmagat" pos="Num">logi</l>
-         <lc>logit</lc>
          <algu lekseemi_id="33131" sanue_id="18044"/>
       </lg>
       <mg>
@@ -302,7 +299,6 @@ For the full license text, see the link above.</lic>
    <e src="fad">
       <lg freq="8552">
          <l pos="Num">miljovdna</l>
-         <lsub>milliuvdna</lsub>
          <algu lekseemi_id="36085" sanue_id="63365"/>
       </lg>
       <mg>
@@ -320,7 +316,7 @@ For the full license text, see the link above.</lic>
             <d>sullii logi</d>
          </dg>
          <tg xml:lang="nob">
-            <t pos="Phrase">omtrent ti</t>
+            <t t_type="phrase">omtrent ti</t>
             <xg>
                <x>Dutkit leat gávdnan logenáre ráppi.</x>
                <xt>Forskere har funnet om lag ti kadaver.</xt>
@@ -331,7 +327,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg freq="6859">
          <l context="gápmagat" pos="Num">njeallje</l>
-         <lc>njealji, njeljiin</lc>
          <algu lekseemi_id="1206" sanue_id="72"/>
       </lg>
       <mg>
@@ -426,7 +421,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg freq="33432">
          <l context="gápmagat" pos="Num">okta</l>
-         <lc>ovtta</lc>
          <algu lekseemi_id="25992" sanue_id="59982"/>
       </lg>
       <mg>
@@ -1132,7 +1126,7 @@ For the full license text, see the link above.</lic>
             <d>sullii čuohti</d>
          </dg>
          <tg xml:lang="nob">
-            <t pos="Phrase">omtrent hundre</t>
+            <t t_type="phrase">omtrent hundre</t>
             <xg>
                <x>Čuohtenáre oasseváldi ledje boahtán miehtá riikka.</x>
                <xt>Omtrent hundre deltagere hadde kommet fra hele landet.</xt>

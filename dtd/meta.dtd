@@ -2,14 +2,15 @@
 <!ELEMENT id ( #PCDATA ) >
 <!ELEMENT name ( #PCDATA ) >
 <!ATTLIST name
-xml:lang (no|se|sma|smj) #REQUIRED
+xml:lang (no|se|sma|smj|sv) #REQUIRED
 >
 <!ELEMENT public ( #PCDATA ) >
-<!ELEMENT license ( #PCDATA ) >
+<!ELEMENT license (#PCDATA|a)* >
+<!ELEMENT a ( #PCDATA ) >
 <!ELEMENT copyright ( #PCDATA ) >
 <!ELEMENT description (p) >
 <!ATTLIST description
-xml:lang (no|se|sma|smj) #REQUIRED
+xml:lang (no|se|sma|smj|sv) #REQUIRED
 >
 <!ELEMENT p ( #PCDATA ) >
 <!ELEMENT langs (srclang, trglang+) >

@@ -39,12 +39,12 @@
       pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle |
             Num | CC | CS | Phrase | fp-cmp ) #REQUIRED
       attr ( no ) #IMPLIED
+      id CDATA #IMPLIED
       nr ( Sg | Du | Pl ) #IMPLIED
       context CDATA #IMPLIED
       type ( Rel | Pers | Indef | Refl | Dem | G3 | G7 | NomAg | Ord
       | Prop | Recipr | Coll | Interr ) #IMPLIED
       pg ( yes | no ) #IMPLIED
-      illpl ( no ) #IMPLIED
       vmax ( 2 | 3 | 4) #IMPLIED
       dial ( east | west | torne | varanger ) #IMPLIED
       par CDATA #IMPLIED
@@ -62,9 +62,6 @@
 <!ELEMENT lsub (#PCDATA) >
 <!ATTLIST lsub src CDATA #IMPLIED >
 <!ATTLIST lsub x ( fad ) #IMPLIED >
-
-<!-- lc = lemma comment, misused as stem field -->
-<!ELEMENT lc (#PCDATA) >
 
 <!-- algu = lemma IDs in the algu database -->
 <!ELEMENT algu EMPTY >
@@ -108,9 +105,9 @@
 <!ATTLIST re x ( fad ) #IMPLIED >
 
 <!ELEMENT t (#PCDATA) >
-<!ATTLIST t t_type ( expl | grammarexpl ) #IMPLIED  >
+<!ATTLIST t t_type ( expl | grammarexpl | phrase ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
-<!ATTLIST t pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle | Num | CC | CS | Phrase | fp-cmp ) #IMPLIED  >
+<!ATTLIST t pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle | Num | CC | CS | fp-cmp ) #IMPLIED  >
 <!ATTLIST t reg CDATA #IMPLIED >
 <!ATTLIST t country CDATA #IMPLIED >
 

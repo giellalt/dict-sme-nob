@@ -36,7 +36,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>vanligvis som takk for maten</re>
-        <t pos="Phrase">mange takk</t>
+        <t t_type="phrase">mange takk</t>
       </tg>
     </mg>
   </e>
@@ -46,7 +46,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">god dag</t>
+        <t t_type="phrase">god dag</t>
         <xg>
           <x>Buorre beaivi, rávkkai Ovllá. Ipmel atti, vástidii Elle.</x>
           <xt>God dag, hilste Ovllá. God dag, svarte Elle.</xt>
@@ -60,7 +60,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">god morgen</t>
+        <t t_type="phrase">god morgen</t>
         <xg>
           <x>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</x>
           <xt>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</xt>
@@ -74,7 +74,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">god kveld</t>
+        <t t_type="phrase">god kveld</t>
         <xg>
           <x>Buorre eahket, logai Risten kurssa oasseváldiide. Ipmel atti, vástidedje sii.</x>
           <xt>God kveld, sa Risten til kursdeltakerne. God kveld, svarte de.</xt>
@@ -88,7 +88,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">god natt</t>
+        <t t_type="phrase">god natt</t>
       </tg>
     </mg>
   </e>
@@ -99,7 +99,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>som svar på hilsningene buorre iđit, buorre beaivi, buorre eahket</re>
-        <t pos="Phrase">gud ga</t>
+        <t t_type="phrase">gud ga</t>
         <xg>
           <x>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</x>
           <xt>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</xt>
@@ -122,7 +122,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Interj">oi</t>
-        <t pos="Phrase">å dæven</t>
+        <t t_type="phrase">å dæven</t>
         <xg>
           <x>Vuoi ihán, don leat čeahppi.</x>
           <xt>Oi, så flink du er.</xt>
@@ -157,7 +157,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>når man handhilser</re>
-        <t pos="Phrase">god dag</t>
+        <t t_type="phrase">god dag</t>
         <xg>
           <x>Bures!</x>
           <xt>God dag!</xt>
@@ -172,7 +172,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>når man handhilser, som svar</re>
-        <t pos="Phrase">god dag</t>
+        <t t_type="phrase">god dag</t>
         <xg>
           <x>Bures bures!</x>
           <xt>God dag!</xt>

@@ -15,7 +15,7 @@ The file is already translated, __but it must be checked__.
 
 
 
-
+l_sub-listu.txt is a list of former l_sub entries in the dictionaries which were deleted on 2026-02-09
 
 
 

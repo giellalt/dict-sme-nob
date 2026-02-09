@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">i forhold til</t>
+        <t t_type="phrase">i forhold til</t>
         <xg>
           <x>dan ektui</x>
           <xt>i forhold til det</xt>
@@ -64,7 +64,7 @@ For the full license text, see the link above.</lic>
         </xg>
       </tg>
       <tg xml:lang="nob">
-        <t pos="Phrase">sammenlignet med</t>
+        <t t_type="phrase">sammenlignet med</t>
         <xg>
           <x>Dat golut leat govttolaččat veahki ektui.</x>
           <xt>Kostnadene er gunstige sammenlignet med nytten.</xt>
@@ -130,8 +130,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">i henhold til</t>
-        <t pos="Phrase">i samsvar med</t>
+        <t t_type="phrase">i henhold til</t>
+        <t t_type="phrase">i samsvar med</t>
         <xg>
           <x>dan olis</x>
           <xt>i henhold til det</xt>
@@ -150,7 +150,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">med hensyn til</t>
+        <t t_type="phrase">med hensyn til</t>
         <xg>
           <x>dan dáfus</x>
           <xt>med hensyn til det</xt>
@@ -161,7 +161,7 @@ For the full license text, see the link above.</lic>
         </xg>
       </tg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på en måte</t>
+        <t t_type="phrase">på en måte</t>
         <xg>
           <x>Sámegiella lea máŋgga dáfus ártegis giella.</x>
           <xt>Samisk er på mange måter et merkelig språk.</xt>
@@ -181,7 +181,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <re>bevegelse til</re>
         <t pos="Pr">under</t>
-        <t pos="Phrase">inn under</t>
+        <t t_type="phrase">inn under</t>
         <xg>
           <x>Mánná čáŋai seaŋgga vuollai.</x>
           <xt>Barnet krøp inn under senga.</xt>
@@ -238,7 +238,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">full av</t>
+        <t t_type="phrase">full av</t>
         <xg>
           <x>Mus leat sala dievva lieđit.</x>
           <xt>Jeg har favnen min full av blomster.</xt>
@@ -253,7 +253,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>om sted</re>
-        <t pos="Phrase">oppe på</t>
+        <t t_type="phrase">oppe på</t>
         <xg>
           <x>Biret orru joga badjin.</x>
           <xt>Biret bor i den øvre delen av dalen.</xt>
@@ -335,7 +335,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>om sted</re>
-        <t pos="Phrase">så langt som i</t>
+        <t t_type="phrase">så langt som i</t>
         <xg>
           <x>Mii leimmet jo Gárasavvona rájiin.</x>
           <xt>Vi var allerede så langt som i Karesuando.</xt>
@@ -349,7 +349,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">i tillit til</t>
+        <t t_type="phrase">i tillit til</t>
         <xg>
           <x>Du oskálii guođán gálvvuid Elle lusa.</x>
           <xt>I tillit til deg levner jeg varene hos Elle.</xt>
@@ -364,7 +364,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>om tid</re>
-        <t pos="Phrase">i løpet av</t>
+        <t t_type="phrase">i løpet av</t>
         <xg>
           <x>Áiggi ollodahkii lea olu čáhci golgan merrii.</x>
           <xt>I tidens løp har det rent mye vann i havet.</xt>
@@ -394,7 +394,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på ... navn</t>
+        <t t_type="phrase">på ... navn</t>
         <xg>
           <x>Válden vealggi vielljan oaivái.</x>
           <xt>Jeg tok kreditt på min brors navn.</xt>
@@ -409,8 +409,8 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>om hensikten</re>
-        <t pos="Phrase">med tanke på</t>
-        <t pos="Phrase">i den hensikt å</t>
+        <t t_type="phrase">med tanke på</t>
+        <t t_type="phrase">i den hensikt å</t>
         <xg>
           <x>Juohke olbmo nammii galgá leat stuollu.</x>
           <xt>Det skal være en stol til hver enkelt.</xt>
@@ -425,7 +425,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">etter oppfatning</t>
+        <t t_type="phrase">etter oppfatning</t>
         <xg>
           <x>Mu mielas lea somá skuvlla vázzit.</x>
           <xt>Jeg synes det er morsomt å gå på skolen.</xt>
@@ -463,7 +463,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>om mengde, hurtighet eller langvarighet</re>
-        <t pos="Phrase">jevnt i</t>
+        <t t_type="phrase">jevnt i</t>
         <xg>
           <x>Biera ii leat Máhte guotkku.</x>
           <xt>Biera kan ikke måle seg med Máhtte.</xt>
@@ -477,7 +477,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">i påhør av</t>
+        <t t_type="phrase">i påhør av</t>
         <xg>
           <x>Ale muital dan mánáid gulu.</x>
           <xt>Ikke fortell det mens ungene hører på.</xt>
@@ -493,7 +493,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Pr">angående</t>
-        <t pos="Phrase">med hensyn til</t>
+        <t t_type="phrase">med hensyn til</t>
         <xg>
           <x>Ođđa láhka lea dán goris geahnoheabbo go boares láhka.</x>
           <xt>Den nye loven er angående dette svakere enn den gamle loven.</xt>
@@ -509,7 +509,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Pr">angående</t>
-        <t pos="Phrase">med hensyn til</t>
+        <t t_type="phrase">med hensyn til</t>
         <xg>
           <x>Oahpahusa gorrái lea mis hui buorre dilli juste dál.</x>
           <xt>Med hensyn til undervisningen har vi en god situasjon for øyeblikket.</xt>
@@ -538,7 +538,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">under kontroll av</t>
+        <t t_type="phrase">under kontroll av</t>
         <xg>
           <x>Olles fitnodat lea dál du gieđas.</x>
           <xt>Hele bedriften er nå under kontroll av deg.</xt>
@@ -554,7 +554,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>om sted i overført betydning</re>
-        <t pos="Phrase">jevnhøy med</t>
+        <t t_type="phrase">jevnhøy med</t>
         <xg>
           <x>Mun devden gári ravddaid dássá.</x>
           <xt>Jeg fylte karet helt opp til kanten.</xt>
@@ -569,7 +569,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">innenfor mulighetens grenser</t>
+        <t t_type="phrase">innenfor mulighetens grenser</t>
         <xg>
           <x>Dat ii leat mu bottain.</x>
           <xt>Det ligger ikke innenfor mine grenser.</xt>
@@ -584,7 +584,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>om sted</re>
-        <t pos="Phrase">nærmere mot ... siden</t>
+        <t t_type="phrase">nærmere mot ... siden</t>
         <xg>
           <x>Dakko galgá vuodjit Norgga belos.</x>
           <xt>Der må man kjøre nærmere den norske siden.</xt>
@@ -613,7 +613,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på vegne av noen</t>
+        <t t_type="phrase">på vegne av noen</t>
       </tg>
     </mg>
   </e>
@@ -698,7 +698,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">siden av</t>
+        <t t_type="phrase">siden av</t>
         <xg>
           <x>Nuppi beale joga lea min gieddi.</x>
           <xt>På andre siden av elva ligger engen vår.</xt>
@@ -721,7 +721,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">avhengig av</t>
+        <t t_type="phrase">avhengig av</t>
         <xg>
           <x>Bargovuohki lea oahpaheaddji duohkin.</x>
           <xt>Arbeidsmåte er avhengig av læreren.</xt>
@@ -744,7 +744,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">avhengig av</t>
+        <t t_type="phrase">avhengig av</t>
         <xg>
           <x>Bargovuohki lea oahpaheaddji duohken.</x>
           <xt>Arbeidsmåte er avhengig av læreren.</xt>
@@ -768,7 +768,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">til den siden</t>
+        <t t_type="phrase">til den siden</t>
         <xg>
           <x>Dan maŋŋá son fárrii ovttas bearrašiinnis rájá nuppe beallái.</x>
           <xt>Etter det flyttet hun sammen med familien sin til andre siden av grensen.</xt>
@@ -786,7 +786,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">til den siden</t>
+        <t t_type="phrase">til den siden</t>
         <xg>
           <x>Dan maŋŋá son fárrii ovttas bearrašiinnis rájá nuppe beallai.</x>
           <xt>Etter det flyttet hun sammen med familien sin til andre siden av grensen.</xt>
@@ -805,7 +805,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">så mye som</t>
+        <t t_type="phrase">så mye som</t>
         <xg>
           <x>dan veardde</x>
           <xt>så pass mye</xt>
@@ -834,9 +834,9 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <re>uttrykket «áiggi bále»</re>
-        <t pos="Phrase">i tide</t>
+        <t t_type="phrase">i tide</t>
         <t pos="Adv">tidsnok</t>
-        <t pos="Phrase">før det blir for seint</t>
+        <t t_type="phrase">før det blir for seint</t>
         <xg>
           <x>Bivdde veahki áiggi bále.</x>
           <xt>Be om hjelp i tide.</xt>
@@ -966,7 +966,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på grunn av</t>
+        <t t_type="phrase">på grunn av</t>
         <xg>
           <x>Dien mearrádusa dihtii ánssáša ovdagoddi rámi.</x>
           <xt>På grunn av det vedtaket fortjener formannskapet ros.</xt>
@@ -990,7 +990,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på grunn av</t>
+        <t t_type="phrase">på grunn av</t>
         <xg>
           <x>Dan dihte fertejit ráhkadit oktasaš listtu Sámediggeválgii.</x>
           <xt>På grunn av dette må de lage en felles liste til Sametingsvalget.</xt>
@@ -1057,7 +1057,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">inn i</t>
+        <t t_type="phrase">inn i</t>
         <xg>
           <x>Son bidjalii reivve girjji sisa.</x>
           <xt>Hun stakk brevet inn i boka.</xt>
@@ -1079,7 +1079,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på grunnlag av</t>
+        <t t_type="phrase">på grunnlag av</t>
         <xg>
           <x>Dán materiála vuođul lea váttis mearridit.</x>
           <xt>Det er vanskelig å gjøre vedtak på grunnlag av dette materialet.</xt>
@@ -1123,7 +1123,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">ved siden av</t>
+        <t t_type="phrase">ved siden av</t>
         <xg>
           <x>Máze skuvlla báldda golggai ája.</x>
           <xt>Ved siden av Máze skole rant en bekk.</xt>
@@ -1137,7 +1137,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">ved siden av</t>
+        <t t_type="phrase">ved siden av</t>
         <xg>
           <x>Mánná oađđá eatni bálddas.</x>
           <xt>Barnet sover ved siden av mora.</xt>
@@ -1151,7 +1151,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">ved siden av</t>
+        <t t_type="phrase">ved siden av</t>
         <xg>
           <x>Vellet mu báldii!</x>
           <xt>Legg deg ned ved siden av meg!</xt>
@@ -1296,7 +1296,6 @@ For the full license text, see the link above.</lic>
   <e>
     <lg freq="128">
       <l pos="Po">geahčai</l>
-      <lc>geahčen</lc>
     </lg>
     <mg>
       <tg xml:lang="nob">
@@ -1324,7 +1323,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på slutten (av)</t>
+        <t t_type="phrase">på slutten (av)</t>
         <xg>
           <x>Son osttii bulldozera 1950-jagiid loahpageahčen.</x>
           <xt>Han kjøpte bulldoser på slutten av 1950-årene.</xt>
@@ -1339,8 +1338,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på starten (av)</t>
-        <t pos="Phrase">i begynnelsen (av)</t>
+        <t t_type="phrase">på starten (av)</t>
+        <t t_type="phrase">i begynnelsen (av)</t>
         <xg>
           <x>Ruški álgá čakčamánu álggogeahčen ja bistá guokte-golbma vahku.</x>
           <xt>Løvfallet starter i begynnelsen av september og varer i to–tre uker.</xt>
@@ -1355,7 +1354,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
 	    <re>bevegelse til</re>
-        <t pos="Phrase">ved siden av</t>
+        <t t_type="phrase">ved siden av</t>
           <xg>
              <x>Jovnna čohkkeda ommana gurrii ja coggala dollii moadde muora.</x>
              <xt>Jovnna setter seg ved ovnen og legger et par vedstykker i ilden.</xt>
@@ -1369,7 +1368,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">langs med</t>
+        <t t_type="phrase">langs med</t>
           <xg>
              <x>Bálgá guora golggai jogaš, ja njoammil bisánii juhkat.</x>
              <xt>Langs med stien rant en bekk, og haren stoppet for å drikke.</xt>
@@ -1383,7 +1382,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">ved siden av</t>
+        <t t_type="phrase">ved siden av</t>
         <xg>
           <x>Mánná čohkká eatni guoras.</x>
           <xt>Barnet sitter ved siden av mor.</xt>
@@ -1407,7 +1406,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">midt på</t>
+        <t t_type="phrase">midt på</t>
       </tg>
     </mg>
   </e>
@@ -1419,7 +1418,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Pr">nær</t>
-        <t pos="Phrase">i nærheten av</t>
+        <t t_type="phrase">i nærheten av</t>
         <xg>
           <x>In beassan lahka ge uvssa.</x>
           <xt>Jeg kom meg ikke i nærheten av døra engang.</xt>
@@ -1597,7 +1596,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">i løpet av</t>
+        <t t_type="phrase">i løpet av</t>
         <xg>
           <x>Dáinna fertet otná beaivvi mielde geargat.</x>
           <xt>Du må bli ferdig med dette i løpet av dagen.</xt>
@@ -1637,7 +1636,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Pr">foran</t>
-        <t pos="Phrase">i veien</t>
+        <t t_type="phrase">i veien</t>
         <xg>
           <x>Don leat mu ovddas.</x>
           <xt>Du er i vegen for meg.</xt>
@@ -1661,7 +1660,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">tvers av</t>
+        <t t_type="phrase">tvers av</t>
       </tg>
     </mg>
   </e>
@@ -1672,7 +1671,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">inne i</t>
+        <t t_type="phrase">inne i</t>
         <xg>
           <x>Girjji siste gávdnui reive.</x>
           <xt>Et brev ble funnet inne i boka.</xt>
@@ -1692,7 +1691,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Pr">for</t>
-        <t pos="Phrase">av hensyn til</t>
+        <t t_type="phrase">av hensyn til</t>
         <xg>
           <x>Joatkkaskuvlla várás eai báljo gávdno oahppogirjjit sámegillii.</x>
           <xt>Det finnes nesten ikke lærebøker på samisk for den videregående skolen.</xt>
@@ -1751,7 +1750,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på grunn av</t>
+        <t t_type="phrase">på grunn av</t>
         <xg>
           <x>dan geažil</x>
           <xt>på grunn av det</xt>
@@ -1816,7 +1815,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="nob">
         <t pos="Pr">før</t>
-        <t pos="Phrase">i møte</t>
+        <t t_type="phrase">i møte</t>
         <xg>
           <x>Son bođii mu ovddal.</x>
           <xt>Hun kom meg i møte.</xt>
@@ -1907,7 +1906,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">i retning av</t>
+        <t t_type="phrase">i retning av</t>
         <xg>
           <x>Liikká orru mannamin dan guvlui.</x>
           <xt>Det virker likevel å gå i den retningen.</xt>
@@ -1956,7 +1955,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på nordsiden</t>
+        <t t_type="phrase">på nordsiden</t>
       </tg>
     </mg>
   </e>
@@ -1966,7 +1965,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">til nordsiden</t>
+        <t t_type="phrase">til nordsiden</t>
       </tg>
     </mg>
   </e>
@@ -1991,7 +1990,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på baksiden</t>
+        <t t_type="phrase">på baksiden</t>
         <xg>
           <x>Ánte duogábealde ledje muhtun nieiddat.</x>
           <xt>Bak Ánte var det noen jenter.</xt>
@@ -2020,7 +2019,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på sørsiden</t>
+        <t t_type="phrase">på sørsiden</t>
       </tg>
     </mg>
   </e>
@@ -2031,8 +2030,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">rett på</t>
-        <t pos="Phrase">rett mot</t>
+        <t t_type="phrase">rett på</t>
+        <t t_type="phrase">rett mot</t>
         <xg>
           <x>Dávjá lea buoret vuodjit ealli njeaiga go stivret luottas eret.</x>
           <xt>Ofte er det bedre å kjøre rett på et dyr enn å styre i grøfta.</xt>
@@ -2046,7 +2045,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t pos="Phrase">på østsiden</t>
+        <t t_type="phrase">på østsiden</t>
       </tg>
     </mg>
   </e>

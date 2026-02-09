@@ -235,7 +235,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e>
       <lg freq="4666">
          <l pos="N" type="Prop" sem_type="Plc">Ruošša</l>
-         <lc>Ruoššas</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -246,7 +245,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e>
       <lg freq="9410">
          <l pos="N" type="Prop" sem_type="Plc">Ruoŧŧa</l>
-         <lc>Ruoŧa, Ruŧŧii</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -387,7 +385,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e>
       <lg freq="15672">
          <l pos="N" type="Prop" sem_type="Plc">Suopma</l>
-         <lc>Suomas, Supmii</lc>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -906,7 +903,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Skånland">Øvre Revdalen</t>
+            <t t_type="phrase" sem_type="Plc" reg="Skånland">Øvre Revdalen</t>
          </tg>
       </mg>
    </e>
@@ -916,7 +913,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Lille Kjerringvik</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Lille Kjerringvik</t>
          </tg>
       </mg>
    </e>
@@ -996,7 +993,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Porsanger">Indre Billefjord</t>
+            <t t_type="phrase" sem_type="Plc" reg="Porsanger">Indre Billefjord</t>
          </tg>
       </mg>
    </e>
@@ -1051,7 +1048,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Lille Bekkarfjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Lille Bekkarfjorden</t>
          </tg>
       </mg>
    </e>
@@ -1116,7 +1113,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Store Kvalfjorddalen</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Store Kvalfjorddalen</t>
          </tg>
       </mg>
    </e>
@@ -1126,7 +1123,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Store Kvalfjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Store Kvalfjorden</t>
          </tg>
       </mg>
    </e>
@@ -1246,7 +1243,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Loppa" comment="CORRECT_ME">Tverrfjorddalen, s</t>
+            <t t_type="phrase" sem_type="Plc" reg="Loppa" comment="CORRECT_ME">Tverrfjorddalen, s</t>
          </tg>
       </mg>
    </e>
@@ -1276,7 +1273,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Gamvik">Store Skogfjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Gamvik">Store Skogfjorden</t>
          </tg>
       </mg>
    </e>
@@ -1286,7 +1283,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Sør-Varanger">Lille Jarfjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Sør-Varanger">Lille Jarfjorden</t>
          </tg>
       </mg>
    </e>
@@ -1476,7 +1473,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Kvænangen">Lille Altafjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Kvænangen">Lille Altafjorden</t>
          </tg>
       </mg>
    </e>
@@ -1826,7 +1823,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Lille Kvalfjorddalen</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Lille Kvalfjorddalen</t>
          </tg>
       </mg>
    </e>
@@ -1836,7 +1833,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Lille Kvalfjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Lille Kvalfjorden</t>
          </tg>
       </mg>
    </e>
@@ -2036,7 +2033,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Porsanger">Ytre Billefjord</t>
+            <t t_type="phrase" sem_type="Plc" reg="Porsanger">Ytre Billefjord</t>
          </tg>
       </mg>
    </e>
@@ -2151,7 +2148,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Storfjord">Indre Berg</t>
+            <t t_type="phrase" sem_type="Plc" reg="Storfjord">Indre Berg</t>
          </tg>
       </mg>
    </e>
@@ -2161,7 +2158,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Gamvik">Litle Skogfjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Gamvik">Litle Skogfjorden</t>
          </tg>
       </mg>
    </e>
@@ -2266,7 +2263,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Store Kjerringvik</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Store Kjerringvik</t>
          </tg>
       </mg>
    </e>
@@ -2276,7 +2273,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Kaldfjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Kaldfjorden</t>
          </tg>
       </mg>
    </e>
@@ -2621,7 +2618,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Tana">Store Leirpollen</t>
+            <t t_type="phrase" sem_type="Plc" reg="Tana">Store Leirpollen</t>
          </tg>
       </mg>
    </e>
@@ -2932,7 +2929,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Hammerfest">Lille Skreifjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Hammerfest">Lille Skreifjorden</t>
          </tg>
       </mg>
    </e>
@@ -2947,7 +2944,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Hammerfest">Lille Skreifjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Hammerfest">Lille Skreifjorden</t>
          </tg>
       </mg>
    </e>
@@ -3267,7 +3264,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Tana">Litle Leirpollen</t>
+            <t t_type="phrase" sem_type="Plc" reg="Tana">Litle Leirpollen</t>
          </tg>
       </mg>
    </e>
@@ -4194,7 +4191,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Loppa">Nordre Tverrfjorddalen</t>
+            <t t_type="phrase" sem_type="Plc" reg="Loppa">Nordre Tverrfjorddalen</t>
          </tg>
       </mg>
    </e>
@@ -4204,7 +4201,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Loppa">Nordre Tverrfjorden</t>
+            <t t_type="phrase" sem_type="Plc" reg="Loppa">Nordre Tverrfjorden</t>
          </tg>
       </mg>
    </e>
@@ -4349,7 +4346,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Kvænangen">Indre Vikselvdalen</t>
+            <t t_type="phrase" sem_type="Plc" reg="Kvænangen">Indre Vikselvdalen</t>
          </tg>
       </mg>
    </e>
@@ -4544,7 +4541,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Alta">Lille Kufjorddalen</t>
+            <t t_type="phrase" sem_type="Plc" reg="Alta">Lille Kufjorddalen</t>
          </tg>
       </mg>
    </e>
@@ -4719,7 +4716,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase" sem_type="Plc" reg="Hammerfest" comment="CORRECT_ME">Vassvikdalen, s</t>
+            <t t_type="phrase" sem_type="Plc" reg="Hammerfest" comment="CORRECT_ME">Vassvikdalen, s</t>
          </tg>
       </mg>
    </e>
@@ -5184,7 +5181,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">Grense Jakobselv</t>
+            <t t_type="phrase">Grense Jakobselv</t>
          </tg>
       </mg>
    </e>
@@ -5536,7 +5533,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="1">
          <l pos="N" type="Prop">Finnmárkkuguorahallamat</l>
-         <lsub>Finnmárkku-guorahallan</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5557,7 +5553,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="1">
          <l pos="N" type="Prop">Finnmárkkustatistihkka</l>
-         <lsub>Finnmárkku-statistihkka</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5578,7 +5573,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="532">
          <l pos="N" type="Prop">Finnmárkokommišuvdna</l>
-         <lsub>Finnmárkkukommišuvdna</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5589,7 +5583,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="2116">
          <l pos="N" type="Prop">Finnmárkkuopmodat</l>
-         <lsub>Finnmárkku-opmodat</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5630,7 +5623,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="0">
          <l pos="N" type="Prop">Nordlánddaruovdemáđidja</l>
-         <lsub>Norlándda ruovdemáđiidja</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5641,7 +5633,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="0">
          <l pos="N" type="Prop">Nordlánddaruovdeluodda</l>
-         <lsub>Nordlándda ruovdeluodda</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5652,7 +5643,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="0">
          <l pos="N" type="Prop">Nordlánddaruovdemáđii</l>
-         <lsub>Norlándda ruovdemáđii</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5673,7 +5663,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="0">
          <l pos="N" type="Prop">Nordlánddageainnus</l>
-         <lsub>Nordlándageainnus</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5684,7 +5673,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="1">
          <l pos="N" type="Prop">Gáiddus-Nuorti</l>
-         <lsub>Gáiddus-Nuorta</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5735,7 +5723,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="312">
          <l pos="N" type="Prop">Luondduhálddašandirektoráhtta</l>
-         <lsub>Luondduhálddahandirektoráhtta</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5746,7 +5733,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="86">
          <l pos="N" type="Prop">Riikkaarkivára</l>
-         <lsub>Riikaarkivára</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5817,7 +5803,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="0">
          <l pos="N" type="Prop">Romssaguorahallamat</l>
-         <lsub>Romssa-guorahallan</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5828,7 +5813,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    <e src="fad">
       <lg freq="63">
          <l pos="N" type="Prop">Sámikopiija</l>
-         <lsub>Sámekopiija</lsub>
       </lg>
       <mg>
          <tg xml:lang="nob">
