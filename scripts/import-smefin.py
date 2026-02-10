@@ -4,6 +4,7 @@ import argparse
 from lxml import etree
 from pathlib import Path
 import subprocess
+import os
 
 """
 This script is used for importing and merging sme-fin dictionary files
@@ -102,8 +103,8 @@ def main(args):
     smenob_tree.write(args.sme_nob, pretty_print=True, encoding="utf-8")
 
     # lxml's pretty print is not working as expected, so do this using xmllint
-    subprocess.run(f"xmllint --pretty 1 {args.sme_nob} > tmp_prettyprint.txt")
-    subprocess.run(f"mv tmp_prettyprint.txt {args.sme_nob}")
+    # subprocess.run(f"xmllint --pretty 1 {args.sme_nob} > tmp_prettyprint.txt", shell=True)
+    # subprocess.run(f"mv tmp_prettyprint.txt {args.sme_nob}", shell=True)
 
 
 
