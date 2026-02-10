@@ -3,6 +3,7 @@
 import argparse
 from lxml import etree
 from pathlib import Path
+import subprocess
 
 """
 This script is used for importing and merging sme-fin dictionary files
@@ -25,8 +26,7 @@ def merge_mgs(smenob_mg, smefin_mg, id):
     try:
         smefin_tg = smefin_mg.xpath("./tg")[0]
     except IndexError:
-        print(f"{id} has a meaning group without translation. Skipping")
-        print(etree.tostring(smefin_mg.getparent()))
+        print(f"{id} seems to have meaning group without translation. This may be caused by a duplicate entry. Please manually check that the correct translation is chosen.")
         return
     smenob_mg.append(smefin_tg)
 
@@ -101,6 +101,9 @@ def main(args):
 
     smenob_tree.write(args.sme_nob, pretty_print=True, encoding="utf-8")
 
+    # lxml's pretty print is not working as expected, so do this using xmllint
+    subprocess.run(f"xmllint --pretty 1 {args.sme_nob} > tmp_prettyprint.txt")
+    subprocess.run(f"mv tmp_prettyprint.txt {args.sme_nob}")
 
 
 
