@@ -35,13 +35,13 @@ def merge_entries(smenob_entry, smefin_entry, smefin_id):
     # Does smefin entry contain multiple mg's?
     smefin_mgs = smefin_entry.xpath("./mg")
     if len(smefin_mgs) > 1:
-        print(f"entry {smefin_id} contains multiple mg's. Please merge manually")
-        return
+        print(f"entry {smefin_id} contains multiple mg's. Please move tg's to the correct mg manually")
+
 
     # Merge
     first_smenob_mg = smenob_entry.xpath("./mg")[0]
-    smefin_mg = smefin_mgs[0]
-    merge_mgs(first_smenob_mg, smefin_mg, smefin_id)
+    for smefin_mg in smefin_mgs:
+        merge_mgs(first_smenob_mg, smefin_mg, smefin_id)
 
 
 def main(args):
@@ -101,10 +101,6 @@ def main(args):
         smenob_root.append(entry)
 
     smenob_tree.write(args.sme_nob, pretty_print=True, encoding="utf-8")
-
-    # lxml's pretty print is not working as expected, so do this using xmllint
-    # subprocess.run(f"xmllint --pretty 1 {args.sme_nob} > tmp_prettyprint.txt", shell=True)
-    # subprocess.run(f"mv tmp_prettyprint.txt {args.sme_nob}", shell=True)
 
 
 
