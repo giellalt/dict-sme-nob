@@ -45,11 +45,9 @@ def merge_entries(smenob_entry, smefin_entry, smefin_id):
 
 
 def main(args):
-    with open(args.sme_fin) as f:
-        smefin_tree = etree.parse(f)
+    smefin_tree = etree.parse(args.sme_fin)
 
-    with open(args.sme_nob) as f:
-        smenob_tree = etree.parse(f)
+    smenob_tree = etree.parse(args.sme_nob)
 
     smefin_root = smefin_tree.getroot()
     smenob_root = smenob_tree.getroot()
