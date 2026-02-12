@@ -375,11 +375,18 @@ Finnes som substantiv i ordboka. Lurer på om det også er et adjektiv/adverb? N
 Ođđa muitosadji galgá leat olámuttos birranbeaivvi
 
 
+**Konklusjon**: vente litt med å eventuelt legge til som adj/adv i ordboka, ettersom det ikke er så mange eksempler på det. Sjekk igjen når vi får nytt korpus. Det finnes heller ikke i andre ordbøker. Kan legges til "ventelista".
+
+
 ## oaniduvvon
 
 Er det greit å skrive "oaniduvvon" for "forkortet":
 
+miljovdna:
+
 	vuođđolohku 1 000 000, oaniduvvon milj.
+
+**Konklusjon**: "oaniduvvon" lea ok.
 
 
 ## synonymer
@@ -474,7 +481,7 @@ Bør det skrives
 **Konklusjon**: bruke mii/gii i definisjoner.
 
 
-Også interessant å ta dette opp med Klara Sjo. Se f.eks. frekk, vennlig... i BOB.
+Hadde også vært interessant å ta dette opp med Klara Sjo. Se f.eks. frekk, vennlig... i BOB.
 
 
 
@@ -503,6 +510,10 @@ På norsk ofte "i overført betydning".
 Hvordan markere det? Formulering...
 Skal det være i re?
 
+F.eks. njealječiegat
+
+Først konkret betydning, så den abstrakte. 
+
 
 ## idiomer, faste uttrykk
 
@@ -526,6 +537,27 @@ i BOB er det gjort slik: tomannshus har bare en lenke til tomannsbolig
 Må diskuteres.
 
 F.eks. hvordan få frem forskjellen mellom arvigoahtit, arvát, arvváskit...
+
+1. Hvordan få frem forskjellene i betydning
+
+2. Morfologien
+
+3. Referering til andre ord. Hvis man søker på "arvit" skal man da få opp "arvát"? Alle arvit-ordene?
+
+Bør ha eget dokument for avledninger.
+
+
+## antonymer
+
+Hvordan begrense
+
+
+
+## definisjoner formulering
+
+arvát: arvigoahtit
+álgogeassi: geasi álgooassi
+
 
 
 ## čuohtenáre
