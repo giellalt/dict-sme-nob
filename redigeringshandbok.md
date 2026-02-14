@@ -420,6 +420,41 @@ For eksempel:
 osv.
 
 
+
+## mihttoovttadagat
+
+Hva er forskjellen mellom grunnenhet og målenhet? Hvordan få frem den forskjellen?
+
+vuođđoovttadat (grunnenhet): definerejuvvon ovttadat mii geavahuvvo vuođđun man nu mihtideapmái, omd. mehter guhkkodaga mihtideapmái, sekunda áiggi mihtideapmái
+
+mihttoovttadat (målenhet): 
+
+dk: (FYSIK) enhed for måling som alle andre enheder i et bestemt målesystem bygger på fx meter, kilogram eller sekund
+
+lossodatovttadat (lengdeenhet): mihttoovttadat mii geavahuvvo mihttidit lossodaga
+
+
+## ortnetlogut
+
+Hvordan definere ordenstall?
+
+viđat: mii lea nummir 5 (muhtin) ortnetvuorus/ráiddus (rekkefølge?)
+
+
+## čoahkkelogut
+
+Hvordan definere samlingstall?
+
+golmmas: tre (personer), tre sammen // golbma (olbmo), golbma ovttas
+
+
+## viđadas
+
+Hvordan definere femtedel, fjerdedel osv.?
+
+viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkásit
+
+
 ## Flere forklaringer i én definisjon
 
 F.eks. miljárda:
