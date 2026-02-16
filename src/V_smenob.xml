@@ -103,6 +103,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="V">muvret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">mure</t>
+            <xg>
+               <x>Mielli muvrejuvvui amas johka borrat dan.</x>
+               <xt>Sandmelen ble murt opp for at elva ikke skulle erodere i den.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">adderet</l>
       </lg>
       <mg>
@@ -37829,7 +37843,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="phrase">ivre for</t>
-            <t t_type="phrase" src="fad">satse på</t>
+            <t src="fad" t_type="phrase">satse på</t>
             <xg>
                <x>Mun áiggun áŋggiruššat oahppat suomagiela.</x>
                <xt>Jeg vil satse på å lære finsk.</xt>
@@ -38261,7 +38275,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg x="fad">
          <tg xml:lang="nob">
-            <t t_type="phrase" src="fad">slippe løs</t>
+            <t src="fad" t_type="phrase">slippe løs</t>
          </tg>
       </mg>
       <mg x="fad">
@@ -38405,7 +38419,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg x="fad">
          <tg xml:lang="nob">
-            <t t_type="phrase" src="fad">bli oppfylt</t>
+            <t src="fad" t_type="phrase">bli oppfylt</t>
          </tg>
       </mg>
    </e>
@@ -46860,7 +46874,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">fri</t>
-            <t t_type="expl" src="KN">være frier i en (tradisjonell) frierferd</t>
+            <t src="KN" t_type="expl">være frier i en (tradisjonell) frierferd</t>
             <xg>
                <x>Son sogŋostalai niidii ja oaččui miehtemielat vástadusa.</x>
                <xt>Han fridde til jenta og fikk et bekreftende svar.</xt>
