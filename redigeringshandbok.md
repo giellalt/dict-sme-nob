@@ -375,7 +375,9 @@ For eksempel:
 	káffekohppa
 osv.
 
-eksempel:
+Her er det også et poeng at f.eks. *káffegohppu* blander to dialekter, *káffe* og *gohppu*. Bør det "frarådes" eller gi errorth i analysatoren?
+
+et annet eksempel:
 	iđitgáffe
 	iđitgáfe
 	iđitkáffe
@@ -384,7 +386,7 @@ eksempel:
 
 **Konklusjon**: det bør være mulig å søke på alle lemmaene. Spørsmålet er hvordan det skal gjøres.
 
-Gjøre det som BOB? Der får man alle variantene opp når man søker på et ord. Men variantene er i samme artikkel.
+Gjøre det som i BOB? Der får man alle variantene opp når man søker på et ord. Men variantene er i samme artikkel. Se f.eks. *høytlønnet*.
 
 ođđa noda lset = lemma set. Jos lset de čajet dan, muđui čájet l.
 
@@ -406,7 +408,7 @@ Skal definisjonen gjentas? (det jeg har gjort i dette tilfellet)
 
 i BOB er det gjort slik: tomannshus har bare en lenke til tomannsbolig
 
-**Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenke til det andre ordet.
+**Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenker man til det andre ordet.
 
 
 
