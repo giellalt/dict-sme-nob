@@ -364,6 +364,65 @@ váhnen og eallinguoibmi
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
 
+## Skal alle varianter legges til i ordboka?
+
+For eksempel: 
+
+	gáfegohppu
+	gáffegohppu
+	káffegohppu
+	gáffekohppa
+	káffekohppa
+osv.
+
+
+## samme definisjon
+
+f.eks.
+
+guovttebearašásodat: viessu mas leat guokte ássanovttadaga
+guovttebearašviessu: viessu mas leat guokte ássanovttadaga
+
+Skal definisjonen gjentas? (det jeg har gjort i dette tilfellet)
+
+i BOB er det gjort slik: tomannshus har bare en lenke til tomannsbolig
+
+
+
+## mihttoovttadagat
+
+Hva er forskjellen mellom grunnenhet og målenhet? Hvordan få frem den forskjellen?
+
+vuođđoovttadat (grunnenhet): definerejuvvon ovttadat mii geavahuvvo vuođđun man nu mihtideapmái, omd. mehter guhkkodaga mihtideapmái, sekunda áiggi mihtideapmái
+
+mihttoovttadat (målenhet): 
+
+dk: (FYSIK) enhed for måling som alle andre enheder i et bestemt målesystem bygger på fx meter, kilogram eller sekund
+
+lossodatovttadat (lengdeenhet): mihttoovttadat mii geavahuvvo mihttidit lossodaga
+
+
+## ortnetlogut
+
+Hvordan definere ordenstall?
+
+viđat: mii lea nummir 5 (muhtin) ortnetvuorus/ráiddus (rekkefølge?)
+
+
+## čoahkkelogut
+
+Hvordan definere samlingstall?
+
+golmmas: tre (personer), tre sammen // golbma (olbmo), golbma ovttas
+
+
+## viđadas
+
+Hvordan definere femtedel, fjerdedel osv.?
+
+viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkásit
+
+
 ## birra(n)beaivi
 
 Finnes som substantiv i ordboka. Lurer på om det også er et adjektiv/adverb? Noe av bruken kan tyde på det:
@@ -407,52 +466,6 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 **Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
 
 
-
-## Skal alle varianter legges til i ordboka?
-
-For eksempel: 
-
-	gáfegohppu
-	gáffegohppu
-	káffegohppu
-	gáffekohppa
-	káffekohppa
-osv.
-
-
-
-## mihttoovttadagat
-
-Hva er forskjellen mellom grunnenhet og målenhet? Hvordan få frem den forskjellen?
-
-vuođđoovttadat (grunnenhet): definerejuvvon ovttadat mii geavahuvvo vuođđun man nu mihtideapmái, omd. mehter guhkkodaga mihtideapmái, sekunda áiggi mihtideapmái
-
-mihttoovttadat (målenhet): 
-
-dk: (FYSIK) enhed for måling som alle andre enheder i et bestemt målesystem bygger på fx meter, kilogram eller sekund
-
-lossodatovttadat (lengdeenhet): mihttoovttadat mii geavahuvvo mihttidit lossodaga
-
-
-## ortnetlogut
-
-Hvordan definere ordenstall?
-
-viđat: mii lea nummir 5 (muhtin) ortnetvuorus/ráiddus (rekkefølge?)
-
-
-## čoahkkelogut
-
-Hvordan definere samlingstall?
-
-golmmas: tre (personer), tre sammen // golbma (olbmo), golbma ovttas
-
-
-## viđadas
-
-Hvordan definere femtedel, fjerdedel osv.?
-
-viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkásit
 
 
 ## Flere forklaringer i én definisjon
@@ -554,17 +567,6 @@ Først konkret betydning, så den abstrakte.
 
 Når skal det under idiomer og når bare under eksempel?
 
-
-## samme definisjon
-
-f.eks.
-
-guovttebearašásodat: viessu mas leat guokte ássanovttadaga
-guovttebearašviessu: viessu mas leat guokte ássanovttadaga
-
-Skal definisjonen gjentas? (det jeg har gjort i dette tilfellet)
-
-i BOB er det gjort slik: tomannshus har bare en lenke til tomannsbolig
 
 
 ## avledninger
