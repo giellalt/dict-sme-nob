@@ -375,6 +375,25 @@ For eksempel:
 	káffekohppa
 osv.
 
+eksempel:
+	iđitgáffe
+	iđitgáfe
+	iđitkáffe
+	iđitkáfe
+
+
+**Konklusjon**: det bør være mulig å søke på alle lemmaene. Spørsmålet er hvordan det skal gjøres.
+
+Gjøre det som BOB? Der får man alle variantene opp når man søker på et ord. Men variantene er i samme artikkel.
+
+ođđa noda lset = lemma set. Jos lset de čajet dan, muđui čájet l.
+
+l_ref "se": 
+
+ordbokene: 
+
+kvensk ordbok: 
+
 
 ## samme definisjon
 
@@ -387,6 +406,8 @@ Skal definisjonen gjentas? (det jeg har gjort i dette tilfellet)
 
 i BOB er det gjort slik: tomannshus har bare en lenke til tomannsbolig
 
+**Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenke til det andre ordet.
+
 
 
 ## mihttoovttadagat
@@ -395,9 +416,15 @@ Hva er forskjellen mellom grunnenhet og målenhet? Hvordan få frem den forskjel
 
 vuođđoovttadat (grunnenhet): definerejuvvon ovttadat mii geavahuvvo vuođđun man nu mihtideapmái, omd. mehter guhkkodaga mihtideapmái, sekunda áiggi mihtideapmái
 
+dk: (FYSIK) enhed for måling som alle andre enheder i et bestemt målesystem bygger på fx meter, kilogram eller sekund
+
+mihttoovttadat mii lea 
+
+
 mihttoovttadat (målenhet): 
 
-dk: (FYSIK) enhed for måling som alle andre enheder i et bestemt målesystem bygger på fx meter, kilogram eller sekund
+definerejuvvon ovttadat mii geavahuvvo vuođđun man nu mihtideapmái, omd. mehter guhkkodaga mihtideapmái, sekunda áiggi mihtideapmái
+
 
 lossodatovttadat (lengdeenhet): mihttoovttadat mii geavahuvvo mihttidit lossodaga
 
@@ -408,12 +435,19 @@ Hvordan definere ordenstall?
 
 viđat: mii lea nummir 5 (muhtin) ortnetvuorus/ráiddus (rekkefølge?)
 
+viđat: mii lea nummir 5 muhtin ortnega mielde
+
+**Konklusjon**: nummir 5 muhtun ortnega mielde
+
 
 ## čoahkkelogut
 
 Hvordan definere samlingstall?
 
-golmmas: tre (personer), tre sammen // golbma (olbmo), golbma ovttas
+KN:
+golmmas: tre (personer), tre sammen
+
+**Konklusjon**: golbma olbmo
 
 
 ## viđadas
