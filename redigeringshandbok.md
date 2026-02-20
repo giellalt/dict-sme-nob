@@ -375,7 +375,7 @@ For eksempel:
 	káffekohppa
 osv.
 
-Her er det også et poeng at f.eks. *káffegohppu* blander to dialekter, *káffe* og *gohppu*. Bør det "frarådes" eller gi errorth i analysatoren?
+Her er det også et poeng at f.eks. *káffegohppu* blander to dialekter, *káffe* og *gohppu*. Bør det "frarådes" eller gi error i analysatoren?
 
 et annet eksempel:
 	iđitgáffe
@@ -406,7 +406,7 @@ guovttebearašviessu: viessu mas leat guokte ássanovttadaga
 
 Skal definisjonen gjentas? (det jeg har gjort i dette tilfellet)
 
-i BOB er det gjort slik: tomannshus har bare en lenke til tomannsbolig
+i BOB er det gjort slik: *tomannshus* har bare en lenke til *tomannsbolig*
 
 **Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenker man til det andre ordet.
 
@@ -457,6 +457,22 @@ golmmas: tre (personer), tre sammen
 Hvordan definere femtedel, fjerdedel osv.?
 
 viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkásit
+
+BOB: hver av fem like deler
+NOB: kvar av dei fem jamstore delane som noko kan delast i
+NAOB: hver av fem like deler som en helhet kan deles i ; femdel
+DK: hver af fem lige store dele som en helhed kan deles op i fx tre femtedele = 3/5
+SE: en del av (något som tänks uppdelat i) fem lika stora delar betraktad i relation till helheten
+
+
+## ovtteš, guvtteš, golmmeš jna.
+
+Mo daid defineret?
+
+BOB: noen som har (start)nummer fem
+NAOB: størrelse med tallverdi 5 ; sifferet 5
+DK: person, genstand el.lign. der har nr. 5 i et bestemt system fx en buslinje
+SE: siffran 5
 
 
 ## birra(n)beaivi
