@@ -126,19 +126,3 @@ KN Gram 263: ha lyst til å, behov for å, just ville til å
 
 blunde - oađestuvvat
 oađestuvvagoahtit - bli trøtt
-
-ii oktage váibba, ii oktage guossal,
-
-ii oktage adjágastte, ii oktage oađestuva.
-
-Ii ovttage boagán loačča,
-
-ii ovttage gámagarca boatkan.
-
-Det er ingen der som er trett eller snubler,
-
-ingen blunder og ingen sover.
-
-Beltet om livet løsner ikke,
-
-og ingen sandalrem slites av.
