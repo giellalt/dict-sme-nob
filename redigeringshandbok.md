@@ -394,6 +394,31 @@ F.eks. njealječiegat
 
 Først konkret betydning, så den abstrakte. 
 
+## ruoná def
+
+BOB: som har en farge som friskt gress (og som ligger mellom gult og blått i fargespekteret)
+
+mo dadjat "friskt gress" sámegillii? dahje ekvivaleantta
+
+ruoná: mas lea ivdni mii sulastahttá (friskt) suoinni
+
+## skuvla
+
+nuoraidskuvla: 
+1. gávccát gitta logát luohká/ceahki vuođđoskuvllas 
+2. nuoraidskuvlla visti
+
+## biegga
+
+máttabiegga:  biegga mii bossu/boahtá máddin
+
+## čoahkkelohku def
+
+čoahkkelohku: lohku/lohkosátni/sátni mii muitala galli olbmos lea sáhka
+
+## ortnetlohku def
+
+ortnetlohku: lohku(sátni) mii čujuha sadjái muhtin ortnegis
 
 ## idiomer, faste uttrykk
 
