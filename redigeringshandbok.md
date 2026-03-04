@@ -183,6 +183,14 @@ Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
 - osb.
 - Eksempel med alder, klokke og liknende
 
+# Ordenstall
+
+viđat: nummir 5 muhtun ortnega mielde
+
+# Samlingstall
+
+golmmas: golbma olbmo
+
 # Fargeord
 Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
 mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
@@ -363,6 +371,39 @@ váhnen og eallinguoibmi
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
+## viđadas
+
+Hvordan definere femtedel, fjerdedel osv.?
+
+viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkásit
+
+BOB: hver av fem like deler
+NOB: kvar av dei fem jamstore delane som noko kan delast i
+NAOB: hver av fem like deler som en helhet kan deles i ; femdel
+DK: hver af fem lige store dele som en helhed kan deles op i fx tre femtedele = 3/5
+SE: en del av (något som tänks uppdelat i) fem lika stora delar betraktad i relation till helheten
+
+## metaforisk, abstrakt betydning
+
+På norsk ofte "i overført betydning".
+
+Hvordan markere det? Formulering...
+Skal det være i re?
+
+F.eks. njealječiegat
+
+Først konkret betydning, så den abstrakte. 
+
+
+## idiomer, faste uttrykk
+
+Når skal det under idiomer og når bare under eksempel?
+
+
+## antonymer
+
+Hvordan begrense
+
 
 ## Skal alle varianter legges til i ordboka?
 
@@ -431,40 +472,6 @@ definerejuvvon ovttadat mii geavahuvvo vuođđun man nu mihtideapmái, omd. meht
 lossodatovttadat (lengdeenhet): mihttoovttadat mii geavahuvvo mihttidit lossodaga
 
 
-## ortnetlogut
-
-Hvordan definere ordenstall?
-
-viđat: mii lea nummir 5 (muhtin) ortnetvuorus/ráiddus (rekkefølge?)
-
-viđat: mii lea nummir 5 muhtin ortnega mielde
-
-**Konklusjon**: nummir 5 muhtun ortnega mielde
-
-
-## čoahkkelogut
-
-Hvordan definere samlingstall?
-
-KN:
-golmmas: tre (personer), tre sammen
-
-**Konklusjon**: golbma olbmo
-
-
-## viđadas
-
-Hvordan definere femtedel, fjerdedel osv.?
-
-viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkásit
-
-BOB: hver av fem like deler
-NOB: kvar av dei fem jamstore delane som noko kan delast i
-NAOB: hver av fem like deler som en helhet kan deles i ; femdel
-DK: hver af fem lige store dele som en helhed kan deles op i fx tre femtedele = 3/5
-SE: en del av (något som tänks uppdelat i) fem lika stora delar betraktad i relation till helheten
-
-
 ## ovtteš, guvtteš, golmmeš jna.
 
 Mo daid defineret?
@@ -516,7 +523,6 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 
 **Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
-
 
 
 
@@ -603,24 +609,6 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 olmmoš gii.../olmmoš guhte...
 
 
-## metaforisk, abstrakt betydning
-
-På norsk ofte "i overført betydning".
-
-Hvordan markere det? Formulering...
-Skal det være i re?
-
-F.eks. njealječiegat
-
-Først konkret betydning, så den abstrakte. 
-
-
-## idiomer, faste uttrykk
-
-Når skal det under idiomer og når bare under eksempel?
-
-
-
 ## avledninger
 
 Må diskuteres.
@@ -634,12 +622,6 @@ F.eks. hvordan få frem forskjellen mellom arvigoahtit, arvát, arvváskit...
 3. Referering til andre ord. Hvis man søker på "arvit" skal man da få opp "arvát"? Alle arvit-ordene?
 
 Bør ha eget dokument for avledninger.
-
-
-## antonymer
-
-Hvordan begrense
-
 
 
 ## definisjoner formulering
