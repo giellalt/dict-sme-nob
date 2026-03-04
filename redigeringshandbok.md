@@ -378,9 +378,13 @@ Hvordan definere femtedel, fjerdedel osv.?
 viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkásit
 
 BOB: hver av fem like deler
+
 NOB: kvar av dei fem jamstore delane som noko kan delast i
+
 NAOB: hver av fem like deler som en helhet kan deles i ; femdel
+
 DK: hver af fem lige store dele som en helhed kan deles op i fx tre femtedele = 3/5
+
 SE: en del av (något som tänks uppdelat i) fem lika stora delar betraktad i relation till helheten
 
 ## metaforisk, abstrakt betydning
@@ -404,21 +408,31 @@ ruoná: mas lea ivdni mii sulastahttá (friskt) suoinni
 
 ## skuvla
 
+I hvilken rekkefølge bør definisjonene være? Synes det er vanskelig å vurdere hvilken som er "grunnbetydninga".
+
 nuoraidskuvla: 
-1. gávccát gitta logát luohká/ceahki vuođđoskuvllas 
+1. gávccát gitta logát ceahki vuođđoskuvllas 
 2. nuoraidskuvlla visti
 
 ## biegga
 
-máttabiegga:  biegga mii bossu/boahtá máddin
+máttabiegga: biegga mii bossu/boahtá máddin
+
+máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørfra* som menes?
 
 ## čoahkkelohku def
 
 čoahkkelohku: lohku/lohkosátni/sátni mii muitala galli olbmos lea sáhka
 
+Oahpa: Čoahkkelogut leat substantiivvat
+
 ## ortnetlohku def
 
 ortnetlohku: lohku(sátni) mii čujuha sadjái muhtin ortnegis
+
+BOB: tall som angir plass i en rekke; 
+rekketall; 
+til forskjell fra grunntall (3)
 
 ## idiomer, faste uttrykk
 
