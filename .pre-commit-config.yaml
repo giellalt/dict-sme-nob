@@ -7,3 +7,10 @@ repos:
         language: python
         files: '^src/.*xml$'
         exclude: '^src/meta\.xml$'
+
+      - id: normalize-unicode
+        name: Normalize Unicode in XML files
+        entry: .githooks/pre-commit-normalize-unicode.py
+        language: python
+        files: '^src/.*xml$'
+        exclude: '^src/meta\.xml$'
