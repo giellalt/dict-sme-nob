@@ -239,6 +239,19 @@ kan bruke parentes i definisjoner, f.eks:
 Enn så lenge de samiske definisjonene ikke vises på nettsida:
 Hvis et ord har flere dg-er i sme, legg også til dt (oversettelse til norsk). Dette for å unngå forvirring om hvorfor et ord er listet opp flere ganger i ordboka. 
 
+## samme definisjon
+
+f.eks.
+
+guovttebearašásodat: viessu mas leat guokte ássanovttadaga
+guovttebearašviessu: viessu mas leat guokte ássanovttadaga
+
+Skal definisjonen gjentas?
+
+i BOB er det gjort slik: *tomannshus* har bare en lenke til *tomannsbolig*
+
+**Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenker man til det andre ordet.
+
 
 ***
 ***
@@ -375,8 +388,6 @@ váhnen og eallinguoibmi
 
 Hvordan definere femtedel, fjerdedel osv.?
 
-viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkásit
-
 BOB: hver av fem like deler
 
 NOB: kvar av dei fem jamstore delane som noko kan delast i
@@ -386,6 +397,8 @@ NAOB: hver av fem like deler som en helhet kan deles i ; femdel
 DK: hver af fem lige store dele som en helhed kan deles op i fx tre femtedele = 3/5
 
 SE: en del av (något som tänks uppdelat i) fem lika stora delar betraktad i relation till helheten
+
+viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkit/juohkásit
 
 ## metaforisk, abstrakt betydning
 
@@ -475,21 +488,6 @@ l_ref "se":
 ordbokene: 
 
 kvensk ordbok: 
-
-
-## samme definisjon
-
-f.eks.
-
-guovttebearašásodat: viessu mas leat guokte ássanovttadaga
-guovttebearašviessu: viessu mas leat guokte ássanovttadaga
-
-Skal definisjonen gjentas? (det jeg har gjort i dette tilfellet)
-
-i BOB er det gjort slik: *tomannshus* har bare en lenke til *tomannsbolig*
-
-**Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenker man til det andre ordet.
-
 
 
 ## mihttoovttadagat
@@ -623,7 +621,7 @@ Bør det skrives
 ?
 
 
-**Konklusjon**: bruke mii/gii i definisjoner.
+**Konklusjon**: greit å bruke mii/gii i definisjoner.
 
 
 Hadde også vært interessant å ta dette opp med Klara Sjo. Se f.eks. frekk, vennlig... i BOB.
