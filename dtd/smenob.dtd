@@ -73,8 +73,9 @@
 <!ELEMENT mg (l_ref?, dg?, sg?, antg?, tg+ ) >
 <!ATTLIST mg id CDATA #IMPLIED >
 <!ATTLIST mg src CDATA #IMPLIED >
-<!ATTLIST mg c CDATA #IMPLIED >
+<!ATTLIST mg c CDATA #IMPLIED > <!-- comment -->
 <!ATTLIST mg x ( fad ) #IMPLIED >
+<!ATTLIST mg sem ( metaphor ) #IMPLIED > <!-- med, bot, zool, ? -->
 
 <!-- definition  -->
 <!ELEMENT dg ( re?, d, dt? ) >
