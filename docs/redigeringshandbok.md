@@ -407,9 +407,25 @@ På norsk ofte "i overført betydning".
 Hvordan markere det? Formulering...
 Skal det være i re?
 
-F.eks. njealječiegat
+Forslag:
+
+sirdojuvvon mearkkašupmi/mearkkašumis
+
+abstrávtalaččat
+
+figuratiivvalaččat
+
+
+F.eks. njealječiegat:
+
+1. mas leat njeallje čiega ja njeallje siiddu
+
+2. eahpenjuovžil
 
 Først konkret betydning, så den abstrakte. 
+
+**Konklusjon**: Vanskelig å vurdere hvordan man skal begrense når det skal markeres og når ikke. Når det gjelder formulering, ikke bestemt enda. 
+Risten legger til kommentar ("overført") i XMLmind på de ordene der det er aktuelt å markere overført betydning. Da kan man enkelt finne de ordene i ettertid hvis man har lyst til å legge inn markering på dem.
 
 ## ruoná def
 
@@ -417,7 +433,7 @@ BOB: som har en farge som friskt gress (og som ligger mellom gult og blått i fa
 
 mo dadjat "friskt gress" sámegillii? dahje ekvivaleantta
 
-ruoná: mas lea ivdni mii sulastahttá (friskt) suoinni
+ruoná: mas lea ivdni mii sulastahttá (friskt)várás suoinni
 
 ## skuvla
 
@@ -550,7 +566,7 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 1. nolla - nulla (ort.) --> ikke synonym
 
-2. buđetnjuvvdus - buđetmeastu (delvis annet ord) --> bør sette inn synonym
+2. buđetnjuvddus - buđetmeastu (delvis annet ord) --> bør sette inn synonym
 
 3. čalbmálagaid - njunnálagaid --> bør være synonym
 
@@ -690,12 +706,14 @@ Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkás
 
 Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
 
-Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain.</x>
+Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain. --> nei. Det ville ikke vært naturlig å ha veardit i parentes etter forkortelsen i en "vanlig" setning.
 
-Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
+Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6). --> ok. Her er bruken naturlig.
 
 Dan gal lean vajálduhttán.
 Det har jeg (virkelig) glemt.
+
+Fjerne parentesene.
 
 
 
