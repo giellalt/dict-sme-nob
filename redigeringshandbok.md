@@ -427,13 +427,6 @@ Først konkret betydning, så den abstrakte.
 **Konklusjon**: Vanskelig å vurdere hvordan man skal begrense når det skal markeres og når ikke. Når det gjelder formulering, ikke bestemt enda. 
 Risten legger til kommentar ("overført") i XMLmind på de ordene der det er aktuelt å markere overført betydning. Da kan man enkelt finne de ordene i ettertid hvis man har lyst til å legge inn markering på dem.
 
-## ruoná def
-
-BOB: som har en farge som friskt gress (og som ligger mellom gult og blått i fargespekteret)
-
-mo dadjat "friskt gress" sámegillii? dahje ekvivaleantta
-
-ruoná: mas lea ivdni mii sulastahttá (friskt)várás suoinni
 
 ## skuvla
 
