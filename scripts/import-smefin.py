@@ -6,6 +6,8 @@ from pathlib import Path
 import subprocess
 import os
 
+# TODO: Copy examples from smenob to smefin
+
 """
 This script is used for importing and merging sme-fin dictionary files
 into the existing sme-nob files to create sme-mul files. Run as follows:
