@@ -92,6 +92,7 @@
 <!-- Idiom phrases, faste uttrykk -->
 <!ELEMENT ig ( i+, id?, it+)+ >
 <!ELEMENT i (#PCDATA) >
+<!ATTLIST i src CDATA #IMPLIED >
 <!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
 
