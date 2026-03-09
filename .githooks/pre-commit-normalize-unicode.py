@@ -51,12 +51,12 @@ def main():
             any_changed = True
 
     if any_changed:
-        print("\nIMPORTANT:")
+        print("\n\033[91mIMPORTANT:\033[0m")
         print(
-            'Files were changed and need to be restaged (git add "filename") before running git commit again.'
+            'The files above were modified and need to be restaged (git add "filename") before running git commit again.'
         )
 
-    return 1 if any_changed else 0
+    return int(any_changed)
 
 
 if __name__ == "__main__":
