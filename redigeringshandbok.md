@@ -384,6 +384,18 @@ váhnen og eallinguoibmi
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
+## oabbá mg2
+
+oabbá lea definerejuvvon ná dál:
+mg1: nieida dahje nisu geas lea seamma áhčči dahje eadni go nuppi olbmos
+
+Muhto das lea goit nubbi mearkkašupmi:
+
+Min eamiálbmot	oappát	ja vielljat eará guovlluin máilmmis eai leat buohkat seamma dilis .
+
+min iežamet girjjálašvuođa	oappáin	ja vieljain ...
+
+
 ## viđadas
 
 Hvordan definere femtedel, fjerdedel osv.?
