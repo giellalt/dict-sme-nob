@@ -395,6 +395,25 @@ Min eamiálbmot	oappát	ja vielljat eará guovlluin máilmmis eai leat buohkat s
 
 min iežamet girjjálašvuođa	oappáin	ja vieljain ...
 
+## biegga
+
+máttabiegga: biegga mii bossu/boahtá máddin
+
+máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørfra* som menes?
+
+## čoahkkelohku def
+
+čoahkkelohku: lohku/lohkosátni/sátni mii muitala galli olbmos lea sáhka
+
+Oahpa: Čoahkkelogut leat substantiivvat
+
+## ortnetlohku def
+
+ortnetlohku: lohku(sátni) mii čujuha sadjái muhtin ortnegis
+
+BOB: tall som angir plass i en rekke; 
+rekketall; 
+til forskjell fra grunntall (3)
 
 ## viđadas
 
@@ -448,29 +467,12 @@ nuoraidskuvla:
 1. gávccát gitta logát ceahki vuođđoskuvllas 
 2. nuoraidskuvlla visti
 
-## biegga
-
-máttabiegga: biegga mii bossu/boahtá máddin
-
-máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørfra* som menes?
-
-## čoahkkelohku def
-
-čoahkkelohku: lohku/lohkosátni/sátni mii muitala galli olbmos lea sáhka
-
-Oahpa: Čoahkkelogut leat substantiivvat
-
-## ortnetlohku def
-
-ortnetlohku: lohku(sátni) mii čujuha sadjái muhtin ortnegis
-
-BOB: tall som angir plass i en rekke; 
-rekketall; 
-til forskjell fra grunntall (3)
 
 ## idiomer, faste uttrykk
 
 Når skal det under idiomer og når bare under eksempel?
+
+EKS....
 
 
 ## antonymer
