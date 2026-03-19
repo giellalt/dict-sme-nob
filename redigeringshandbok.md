@@ -395,6 +395,14 @@ Min eamiálbmot	oappát	ja vielljat eará guovlluin máilmmis eai leat buohkat s
 
 min iežamet girjjálašvuođa	oappáin	ja vieljain ...
 
+
+## tilkommende
+
+mo dadjat sámegillii?
+
+vivvasássa: tilkommende svigersønn
+
+
 ## biegga
 
 máttabiegga: biegga mii bossu/boahtá máddin
