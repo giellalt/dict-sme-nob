@@ -403,6 +403,14 @@ mo dadjat sámegillii?
 vivvasássa: tilkommende svigersønn
 
 
+## perspektiv i def
+
+F.eks.:
+
+boadnji: náitalan dievdu / almmáilaš náittosguoibmi
+
+
+
 ## biegga
 
 máttabiegga: biegga mii bossu/boahtá máddin
