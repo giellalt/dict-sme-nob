@@ -702,7 +702,12 @@ Bør ha eget dokument for avledninger.
 
 ## definisjoner formulering
 
-arvát: arvigoahtit
+arvát er ikke helt det samme som arvigoahtit. Mulig definisjon:
+
+arvát: álgá arvit, dihto dáhpáhusa birra
+arvigoahtit: arvi álgá dahje arvvit álget
+
+
 álgogeassi: geasi álgooassi
 
 
@@ -726,6 +731,7 @@ Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkás
 
 **Konklusjon**: Legg først og fremst inn betydninga som er dokumentert i andre ordbøker. Hvis den andre bruken er omfattende så kan man vurdere å legge det inn med re: (i nyere betydning).
 
+## paranteser
 
 Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
 
