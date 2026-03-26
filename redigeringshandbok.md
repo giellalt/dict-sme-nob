@@ -410,6 +410,15 @@ F.eks.:
 boadnji: náitalan dievdu / almmáilaš náittosguoibmi
 
 
+## oktonaseadni, muhto oktováhnen
+
+SIKOR:
+oktonaseadni: 1
+oktoeadni: 3
+oktonasáhčči: 0
+oktoáhčči: 2
+oktonasváhnen: 1
+oktováhnen: 35+
 
 ## biegga
 
