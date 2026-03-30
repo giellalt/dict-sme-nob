@@ -52,6 +52,36 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <lg>
+         <l pos="Num">milj.</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>forkortelse</re>
+            <t>mill.</t>
+            <xg>
+               <x>miljovdna</x>
+               <xt>million</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">mrd.</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>forkortelse</re>
+            <t>mrd.</t>
+            <xg>
+               <x>miljárda</x>
+               <xt>milliard</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg freq="8552">
          <l context="gápmagat" pos="Num" vmax="3">miljovdna</l>
          <algu lekseemi_id="36085" sanue_id="63365"/>
