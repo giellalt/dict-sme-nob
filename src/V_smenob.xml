@@ -57,6 +57,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l context="mun" pos="V">gevlet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">svinge</t>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">gurpat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">vikle</t>
+            <t pos="V">svøpe</t>
+            <xg>
+                <x>Son gurppai liinni oaivvi birra.</x>
+               <xt>Hun vikla tørkleet rundt hodet.</xt>
+            </xg>
+        </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l context="mun" pos="V">čagardit</l>
       </lg>
       <mg>
@@ -16781,6 +16806,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">hevne</t>
             <t pos="V">gjengjelde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">máltit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="phrase">klare å la være</t>
          </tg>
       </mg>
    </e>
