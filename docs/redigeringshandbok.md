@@ -402,6 +402,11 @@ mo dadjat sámegillii?
 
 vivvasássa: tilkommende svigersønn
 
+boahttevaš?? Se i korpus
+
+olmmoš gii goas nu šaddá olbmo vivva? ... geas lea áigumuš šaddat...
+olmmoš gii vurdojuvvo/áigu/galgá šaddat olbmo vivvan
+
 
 ## perspektiv i def
 
