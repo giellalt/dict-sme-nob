@@ -410,16 +410,6 @@ F.eks.:
 boadnji: náitalan dievdu / almmáilaš náittosguoibmi
 
 
-## oktonaseadni, muhto oktováhnen
-
-SIKOR:
-oktonaseadni: 1
-oktoeadni: 3
-oktonasáhčči: 0
-oktoáhčči: 2
-oktonasváhnen: 1
-oktováhnen: 35+
-
 ## biegga
 
 máttabiegga: biegga mii bossu/boahtá máddin
@@ -439,6 +429,18 @@ ortnetlohku: lohku(sátni) mii čujuha sadjái muhtin ortnegis
 BOB: tall som angir plass i en rekke; 
 rekketall; 
 til forskjell fra grunntall (3)
+
+## oktonaseadni, muhto oktováhnen
+
+SIKOR:
+oktonaseadni: 1
+oktoeadni: 3
+oktonasáhčči: 0
+oktoáhčči: 2
+oktonasváhnen: 1
+oktováhnen: 35+
+
+
 
 ## viđadas
 
