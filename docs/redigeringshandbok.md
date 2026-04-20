@@ -396,6 +396,15 @@ Min eamiálbmot	oappát	ja vielljat eará guovlluin máilmmis eai leat buohkat s
 min iežamet girjjálašvuođa	oappáin	ja vieljain ...
 
 
+## dongeri
+
+sámegillii?
+
+doŋgeribuvssat NDS:as
+
+doŋgeri, doŋŋeri, doŋŋeriija...
+
+
 ## tilkommende
 
 mo dadjat sámegillii?
