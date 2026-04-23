@@ -396,6 +396,15 @@ Min eamiálbmot	oappát	ja vielljat eará guovlluin máilmmis eai leat buohkat s
 min iežamet girjjálašvuođa	oappáin	ja vieljain ...
 
 
+BOB: kvinne sett i forhold til den eller dem hun har religiøst fellesskap med
+
+NAOB: kvinne (sett i forhold til andre kvinner)
+
+BOB ("bror"): særlig i flertall: mann eller folk i forhold til person(er) av andre nasjoner eller til person(er) med felles interesser;
+
+**Konklusjon**: skrive noe a la BOBs bror mg2.
+
+
 ## dongeri
 
 sámegillii?
@@ -403,6 +412,10 @@ sámegillii?
 doŋgeribuvssat NDS:as
 
 doŋgeri, doŋŋeri, doŋŋeriija...
+
+**Konklusjon**: doŋŋeriija
+
++ lasihit doŋŋeribuvssat
 
 
 ## tilkommende
@@ -416,6 +429,7 @@ boahttevaš?? Se i korpus
 olmmoš gii goas nu šaddá olbmo vivva? ... geas lea áigumuš šaddat...
 olmmoš gii vurdojuvvo/áigu/galgá šaddat olbmo vivvan
 
+**Konklusjon**: olmmoš gii áigu šaddat olbmo vivvan
 
 ## perspektiv i def
 
@@ -428,7 +442,11 @@ boadnji: náitalan dievdu / almmáilaš náittosguoibmi
 
 máttabiegga: biegga mii bossu/boahtá máddin
 
+biegga mii boahtá máttil
+
 máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørfra* som menes?
+
+**Konklusjon**: skrive "biegga mii boahtá máttil". máttil betyr "fra sør", men ifølge Sammallahti kan det også bety "i sør", så ikke helt entydig der...
 
 ## čoahkkelohku def
 
