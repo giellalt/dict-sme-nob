@@ -197,6 +197,23 @@ mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
 
 Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
 
+# synonymer
+
+Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
+
+1. nolla - nulla (ort.) --> ikke synonym
+
+2. buđetnjuvddus - buđetmeastu (delvis annet ord) --> bør sette inn synonym
+
+3. čalbmálagaid - njunnálagaid --> bør være synonym
+
+4. árga - árgabeaivi --> bør sette inn synonym
+
+5. áhkku - muore (dialekt, ganske ulikt)
+
+
+**Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
+
 # Kvinnelig og mannlig
 Nissonlaš og almmáilaš brukes i ordboka. Eks:
 nissonlaš/almmáilaš stáhtaoaivámuš
@@ -251,6 +268,31 @@ Skal definisjonen gjentas?
 i BOB er det gjort slik: *tomannshus* har bare en lenke til *tomannsbolig*
 
 **Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenker man til det andre ordet.
+
+## oaniduvvon
+
+Er det greit å skrive "oaniduvvon" for "forkortet":
+
+miljovdna:
+
+	vuođđolohku 1 000 000, oaniduvvon milj.
+
+**Konklusjon**: "oaniduvvon" lea ok.
+
+## Gjennomsiktighet i definisjoner
+
+F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
+
+1. olmmoš gii neaktá deháleamos rolla filmmas...
+
+2. olmmoš gii neaktá váldorolla filmmas...
+
+3. neavttár geas lea váldorolla filmmas...
+
+
+**Konklusjon**: Sammensatte ord: man trenger ikke å definere hvert av ordene på nytt.
+
+3 er nok best i dette tilfellet.
 
 
 ***
@@ -380,9 +422,18 @@ máhka, spile....
 **Konklusjon:**
 váhnen og eallinguoibmi
 
-***
-***
-# DIVERSE NOTATER, bør redigeres eller fjernes
+## tilkommende/sássa
+
+mo dadjat sámegillii?
+
+vivvasássa: tilkommende svigersønn
+
+boahttevaš?? Se i korpus
+
+olmmoš gii goas nu šaddá olbmo vivva? ... geas lea áigumuš šaddat...
+olmmoš gii vurdojuvvo/áigu/galgá šaddat olbmo vivvan
+
+**Konklusjon**: olmmoš gii áigu šaddat olbmo vivvan
 
 ## oabbá mg2
 
@@ -404,6 +455,10 @@ BOB ("bror"): særlig i flertall: mann eller folk i forhold til person(er) av an
 
 **Konklusjon**: skrive noe a la BOBs bror mg2.
 
+***
+***
+# DIVERSE NOTATER, bør redigeres eller fjernes
+
 
 ## dongeri
 
@@ -417,19 +472,6 @@ doŋgeri, doŋŋeri, doŋŋeriija...
 
 + lasihit doŋŋeribuvssat
 
-
-## tilkommende
-
-mo dadjat sámegillii?
-
-vivvasássa: tilkommende svigersønn
-
-boahttevaš?? Se i korpus
-
-olmmoš gii goas nu šaddá olbmo vivva? ... geas lea áigumuš šaddat...
-olmmoš gii vurdojuvvo/áigu/galgá šaddat olbmo vivvan
-
-**Konklusjon**: olmmoš gii áigu šaddat olbmo vivvan
 
 ## perspektiv i def
 
@@ -615,36 +657,6 @@ Ođđa muitosadji galgá leat olámuttos birranbeaivvi
 **Konklusjon**: vente litt med å eventuelt legge til som adj/adv i ordboka, ettersom det ikke er så mange eksempler på det. Sjekk igjen når vi får nytt korpus. Det finnes heller ikke i andre ordbøker. Kan legges til "ventelista".
 
 
-## oaniduvvon
-
-Er det greit å skrive "oaniduvvon" for "forkortet":
-
-miljovdna:
-
-	vuođđolohku 1 000 000, oaniduvvon milj.
-
-**Konklusjon**: "oaniduvvon" lea ok.
-
-
-## synonymer
-
-Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
-
-1. nolla - nulla (ort.) --> ikke synonym
-
-2. buđetnjuvddus - buđetmeastu (delvis annet ord) --> bør sette inn synonym
-
-3. čalbmálagaid - njunnálagaid --> bør være synonym
-
-4. árga - árgabeaivi --> bør sette inn synonym
-
-5. áhkku - muore (dialekt, ganske ulikt)
-
-
-**Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
-
-
-
 ## Flere forklaringer i én definisjon
 
 F.eks. miljárda:
@@ -657,24 +669,6 @@ Og i så fall, hvilket skilletegn skal man ha mellom definisjonene? Semikolon?
 
 
 "oaniduvvon mrd." er en tilleggsopplysning. Et eget element eller attributt for å legge inn forkortelser?
-
-
-
-## Gjennomsiktighet i definisjoner
-
-F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
-
-1. olmmoš gii neaktá deháleamos rolla filmmas...
-
-2. olmmoš gii neaktá váldorolla filmmas...
-
-3. neavttár geas lea váldorolla filmmas...
-
-
-**Konklusjon**: Sammensatte ord: man trenger ikke å definere hvert av ordene på nytt.
-
-3 er nok best i dette tilfellet.
-
 
 
 ## adjektiver definisjoner formulering
