@@ -455,6 +455,8 @@ BOB ("bror"): særlig i flertall: mann eller folk i forhold til person(er) av an
 
 **Konklusjon**: skrive noe a la BOBs bror mg2.
 
+oabbá mg2: nissonolbmot daid ektui geain lea seamma/oktasaš beroštumit dahje ...
+
 ***
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
