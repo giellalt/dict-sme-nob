@@ -736,15 +736,17 @@ F.eks. hvordan få frem forskjellen mellom arvigoahtit, arvát, arvváskit...
 
 3. Referering til andre ord. Hvis man søker på "arvit" skal man da få opp "arvát"? Alle arvit-ordene?
 
-Bør ha eget dokument for avledninger.
-
-
-## definisjoner formulering
 
 arvát er ikke helt det samme som arvigoahtit. Mulig definisjon:
 
 arvát: álgá arvit, dihto dáhpáhusa birra
 arvigoahtit: arvi álgá dahje arvvit álget
+
+
+Bør ha eget dokument for avledninger.
+
+
+## definisjoner formulering
 
 
 álgogeassi: geasi álgooassi
@@ -781,7 +783,7 @@ Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6). --> ok. Her er bruke
 Dan gal lean vajálduhttán.
 Det har jeg (virkelig) glemt.
 
-Fjerne parentesene.
+**Konklusjon**: Fjerne parentesene.
 
 
 
