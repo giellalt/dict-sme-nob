@@ -495,11 +495,22 @@ oktoáhčči: 2
 oktonasváhnen: 1
 oktováhnen: 35+
 
+**Konklusjon**: Ja, legge til i smenob + synonym begge veier.
+
+Det er kanskje forskjell på hvordan ordene brukes på norsk vs. finsk side.
+
+Det kan også være forskjell på hvordan et ord faktisk brukes vs. hva Giellagáldu har normert.
+
+Disse tingene bør diskuteres når det dukker opp slike ord.
+
 ## reŋgot
 
 reŋgot: bargat reaŋgan // (trans.) bargat reaŋgan, omd: reŋgot badjeolbmuid
 
-skal det være to mger?
+skal det være to mg'er?
+
+**Konklusjon**: Ja, to mg'er. Spørsmålet er i hvilken rekkefølge mg'ene skal være. Den trans. betydninga er helt klart mest frekvent i SIKOR. Men hvis man følger "enkelhets" prinsipp, så intrans. først, så trans. Slik er det også gjort i Konrad Nielsen. 
+Så grunnregelen blir at man har den intransitive betydninga som mg1, med mindre man har noen gode grunner til å ikke gjøre det slik.
 
 
 ## perspektiv i def
