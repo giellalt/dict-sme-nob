@@ -340,6 +340,14 @@ Videre bør alle ord som er brukt i eksempelsetninger (og definisjoner) være me
 **Konklusjon:**
 Etter semantikk, grunnbetydninga først, med mindre den er misvisende for brukeren
 
+## reŋgot
+
+reŋgot: bargat reaŋgan // (trans.) bargat reaŋgan, omd: reŋgot badjeolbmuid
+
+skal det være to mg'er?
+
+**Konklusjon**: Ja, to mg'er. Spørsmålet er i hvilken rekkefølge mg'ene skal være. Den trans. betydninga er helt klart mest frekvent i SIKOR. Men hvis man følger "enkelhets" prinsipp, så intrans. først, så trans. Slik er det også gjort i Konrad Nielsen. 
+Så grunnregelen blir at man har den intransitive betydninga som mg1, med mindre man har noen gode grunner til å ikke gjøre det slik.
 
 ## sammensetninger: 
 - áddjá, eadni, jna.
@@ -485,6 +493,14 @@ BOB: tall som angir plass i en rekke;
 rekketall; 
 til forskjell fra grunntall (3)
 
+## kvartála
+
+Ikke helt fornøyd med definisjonen i mg2. 
+
+kvartála mg1: áigodat mii bistá golbma mánu
+
+kvartála mg2: viessojoavku (gávpogis) man njeallje gáhta birastahttet
+
 ## oktonaseadni, muhto oktováhnen
 
 SIKOR:
@@ -502,16 +518,6 @@ Det er kanskje forskjell på hvordan ordene brukes på norsk vs. finsk side.
 Det kan også være forskjell på hvordan et ord faktisk brukes vs. hva Giellagáldu har normert.
 
 Disse tingene bør diskuteres når det dukker opp slike ord.
-
-## reŋgot
-
-reŋgot: bargat reaŋgan // (trans.) bargat reaŋgan, omd: reŋgot badjeolbmuid
-
-skal det være to mg'er?
-
-**Konklusjon**: Ja, to mg'er. Spørsmålet er i hvilken rekkefølge mg'ene skal være. Den trans. betydninga er helt klart mest frekvent i SIKOR. Men hvis man følger "enkelhets" prinsipp, så intrans. først, så trans. Slik er det også gjort i Konrad Nielsen. 
-Så grunnregelen blir at man har den intransitive betydninga som mg1, med mindre man har noen gode grunner til å ikke gjøre det slik.
-
 
 ## perspektiv i def
 
