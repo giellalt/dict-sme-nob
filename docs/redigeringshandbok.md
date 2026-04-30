@@ -495,6 +495,13 @@ oktoáhčči: 2
 oktonasváhnen: 1
 oktováhnen: 35+
 
+## reŋgot
+
+reŋgot: bargat reaŋgan // (trans.) bargat reaŋgan, omd: reŋgot badjeolbmuid
+
+skal det være to mger?
+
+
 ## perspektiv i def
 
 F.eks.:
