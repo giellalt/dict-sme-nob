@@ -294,6 +294,16 @@ F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
 
 3 er nok best i dette tilfellet.
 
+## biegga
+
+máttabiegga: biegga mii bossu/boahtá máddin
+
+biegga mii boahtá máttil
+
+máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørfra* som menes?
+
+**Konklusjon**: skrive "biegga mii boahtá máttil". máttil betyr "fra sør", men ifølge Sammallahti kan det også bety "i sør", så ikke helt entydig der...
+
 
 ***
 ***
@@ -461,37 +471,6 @@ oabbá mg2: nissonolbmot daid ektui geain lea seamma/oktasaš beroštumit dahje 
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
-
-## dongeri
-
-sámegillii?
-
-doŋgeribuvssat NDS:as
-
-doŋgeri, doŋŋeri, doŋŋeriija...
-
-**Konklusjon**: doŋŋeriija
-
-+ lasihit doŋŋeribuvssat
-
-
-## perspektiv i def
-
-F.eks.:
-
-boadnji: náitalan dievdu / almmáilaš náittosguoibmi
-
-
-## biegga
-
-máttabiegga: biegga mii bossu/boahtá máddin
-
-biegga mii boahtá máttil
-
-máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørfra* som menes?
-
-**Konklusjon**: skrive "biegga mii boahtá máttil". máttil betyr "fra sør", men ifølge Sammallahti kan det også bety "i sør", så ikke helt entydig der...
-
 ## čoahkkelohku def
 
 čoahkkelohku: lohku/lohkosátni/sátni mii muitala galli olbmos lea sáhka
@@ -516,6 +495,11 @@ oktoáhčči: 2
 oktonasváhnen: 1
 oktováhnen: 35+
 
+## perspektiv i def
+
+F.eks.:
+
+boadnji: náitalan dievdu / almmáilaš náittosguoibmi
 
 
 ## viđadas
