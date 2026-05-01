@@ -511,11 +511,14 @@ oktoáhčči: 2
 oktonasváhnen: 1
 oktováhnen: 35+
 
-**Konklusjon**: Ja, legge til i smenob + synonym begge veier.
+**Konklusjon**: Ja, legge til i smenob + synonym begge veier. 
 
 Det er kanskje forskjell på hvordan ordene brukes på norsk vs. finsk side.
 
 Det kan også være forskjell på hvordan et ord faktisk brukes vs. hva Giellagáldu har normert.
+
+
+Hvis den ene er tvilsom, kan man vurdere å innføre 'bruk heller'-element, ala l_ref som gir 'se også'.
 
 Disse tingene bør diskuteres når det dukker opp slike ord.
 
