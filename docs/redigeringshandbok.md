@@ -140,6 +140,26 @@ For å markere at et ord er "uheldig":
 - element l_pref (lemma_preferred) som dukker opp i grensesnittet om 'geavat baicce' (= bruk heller)
 
 
+## oktonaseadni, muhto oktováhnen
+
+SIKOR:
+oktonaseadni: 1
+oktoeadni: 3
+oktonasáhčči: 0
+oktoáhčči: 2
+oktonasváhnen: 1
+oktováhnen: 35+
+
+**Konklusjon**: Ja, legge til i smenob + synonym begge veier. 
+
+Det er kanskje forskjell på hvordan ordene brukes på norsk vs. finsk side.
+
+Det kan også være forskjell på hvordan et ord faktisk brukes vs. hva Giellagáldu har normert.
+
+Hvis den ene er tvilsom, kan man vurdere å innføre 'bruk heller'-element, ala l_ref som gir 'se også'.
+
+Disse tingene bør diskuteres når det dukker opp slike ord.
+
 
 # Avledninger
 
@@ -501,26 +521,11 @@ kvartála mg1: áigodat mii bistá golbma mánu
 
 kvartála mg2: viessojoavku (gávpogis) man njeallje gáhta birastahttet
 
-## oktonaseadni, muhto oktováhnen
 
-SIKOR:
-oktonaseadni: 1
-oktoeadni: 3
-oktonasáhčči: 0
-oktoáhčči: 2
-oktonasváhnen: 1
-oktováhnen: 35+
+## Iežas dat ferte gámadit.
 
-**Konklusjon**: Ja, legge til i smenob + synonym begge veier. 
+mo jorgalit dárogillii?
 
-Det er kanskje forskjell på hvordan ordene brukes på norsk vs. finsk side.
-
-Det kan også være forskjell på hvordan et ord faktisk brukes vs. hva Giellagáldu har normert.
-
-
-Hvis den ene er tvilsom, kan man vurdere å innføre 'bruk heller'-element, ala l_ref som gir 'se også'.
-
-Disse tingene bør diskuteres når det dukker opp slike ord.
 
 ## perspektiv i def
 
