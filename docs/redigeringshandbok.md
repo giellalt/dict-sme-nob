@@ -527,6 +527,16 @@ kvartála mg2: viessojoavku (gávpogis) man njeallje gáhta birastahttet
 mo jorgalit dárogillii?
 
 
+## Referere til et annet ord i definisjon, og dermed ikke gjenta definisjonen
+
+F.eks. bivttastit mg2:
+
+gárvodit
+
+
+submet: adderet
+
+
 ## perspektiv i def
 
 F.eks.:
