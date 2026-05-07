@@ -536,6 +536,21 @@ gárvodit
 
 submet: adderet
 
+## bihkkadit
+
+Legge til mg2?
+
+svartmale?
+
+KN: sverte, utmale verre enn fortjent; smøre tykt på, overdrive, lyve
+
+Fant ett eksempel på dette i SIKOR:
+
+muhto sátnejođiheaddji Sæther ii hálit	bihkkadit gieldda dili dan_dihtii.
+
+Et annet spm er om man skal legge til eksempler, ord som ofte brukes med verbet:
+
+vuoidat bihkain (omd. fátnasa ja sabehiid)
 
 ## perspektiv i def
 
