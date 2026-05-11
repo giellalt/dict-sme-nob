@@ -211,6 +211,18 @@ viđat: nummir 5 muhtun ortnega mielde
 
 golmmas: golbma olbmo
 
+# nolla - bare numeral?
+
+Er nolla/nulla bare numeral?
+
+	Lean duhtavaš go doallat nulla, čiekčan livččii sáhttán mannat goappeš guvlui.
+
+
+Samme med miljárda, miljovdna, duhát osv.
+I BOB er f.eks. "tusen" både substantiv og kvantor.
+
+**Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
+
 # Fargeord
 Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
 mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
@@ -745,21 +757,6 @@ Bør det skrives
 
 Hadde også vært interessant å ta dette opp med Klara Sjo. Se f.eks. frekk, vennlig... i BOB.
 
-
-
-## nolla - bare numeral?
-
-Er nolla/nulla bare numeral?
-
-	Lean duhtavaš go doallat nulla, čiekčan livččii sáhttán mannat goappeš guvlui.
-
-
-Samme med miljárda, miljovdna, duhát osv.
-I BOB er f.eks. "tusen" både substantiv og kvantor.
-
-**Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
-
-
 ## gii/guhte
 
 olmmoš gii.../olmmoš guhte...
@@ -813,7 +810,7 @@ Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkás
 
 **Konklusjon**: Legg først og fremst inn betydninga som er dokumentert i andre ordbøker. Hvis den andre bruken er omfattende så kan man vurdere å legge det inn med re: (i nyere betydning).
 
-## paranteser
+## parenteser
 
 Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
 
