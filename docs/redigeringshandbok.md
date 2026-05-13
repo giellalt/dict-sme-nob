@@ -139,6 +139,8 @@ De maid garvit dan ahte namat čállojit boastut go lea váttis ipmirdit giehta�
 For å markere at et ord er "uheldig": 
 - element l_pref (lemma_preferred) som dukker opp i grensesnittet om 'geavat baicce' (= bruk heller)
 
+Hvis man er usikker på om man skal legge til l_pref eller ikke, så kan man legge til en kommentar i xml.
+
 
 ## oktonaseadni, muhto oktováhnen
 
@@ -538,6 +540,12 @@ kvartála mg2: viessojoavku (gávpogis) man njeallje gáhta birastahttet
 
 mo jorgalit dárogillii?
 
+Mearkkašupmi: Olmmoš ferte ieš birget iige galgga vuordit ahte earát veahkehit.
+
+Det er forskjell på om man er i smenob eller nobsme:
+
+i smenob: bare oversette/forklare idiomet til norsk
+i nobsme: da kan man lete etter parallellen/ekvivalenten
 
 ## Referere til et annet ord i definisjon, og dermed ikke gjenta definisjonen
 
@@ -545,7 +553,11 @@ F.eks. bivttastit mg2:
 
 gárvodit
 
+**Konklusjon**: Skrive definisjonen også ..., og eventuelt legge til synonym.
 
+coggat biktasiid iežas dahje nuppi ala 
+
+Samme med: 
 submet: adderet
 
 ## bihkkadit
@@ -559,6 +571,8 @@ KN: sverte, utmale verre enn fortjent; smøre tykt på, overdrive, lyve
 Fant ett eksempel på dette i SIKOR:
 
 muhto sátnejođiheaddji Sæther ii hálit	bihkkadit gieldda dili dan_dihtii.
+
+**Konklusjon**: Legge ordet i en liste, så kan man spørre flere om ordet brukes slik.
 
 Et annet spm er om man skal legge til eksempler, ord som ofte brukes med verbet:
 
