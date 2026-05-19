@@ -43,7 +43,7 @@
       nr ( Sg | Du | Pl ) #IMPLIED
       context CDATA #IMPLIED
       type ( Rel | Pers | Indef | Refl | Dem | G3 | G7 | NomAg | Ord
-      | Prop | Recipr | Coll | Interr ) #IMPLIED
+      | Prop | Recipr | Coll | Interr |ACR | ABBR ) #IMPLIED
       pg ( yes | no ) #IMPLIED
       vmax ( 2 | 3 | 4) #IMPLIED
       dial ( east | west | torne | varanger ) #IMPLIED
