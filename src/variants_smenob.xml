@@ -246,17 +246,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="0">
-         <l context="olmmoš" pos="A">smáđáhkis</l>
-         <algu lekseemi_id="8415" sanue_id="10349"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">hyggelig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="2229">
          <l context="vástádus" pos="A" vmax="2">sihkkar</l>
          <algu lekseemi_id="7506" sanue_id="34785"/>
@@ -478,16 +467,6 @@
    </e>
    <e src="fad">
       <lg freq="73">
-         <l context="ášši" pos="A">eanandoallopolitihkalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">landbrukspolitisk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="73">
          <l context="ášši" pos="A">eatnandoallopolitihkalaš</l>
       </lg>
       <mg>
@@ -503,16 +482,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">kulturpolitisk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="35">
-         <l context="ášši" pos="A">humanitára</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">humanitær</t>
          </tg>
       </mg>
    </e>
@@ -857,23 +826,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="110">
-         <l context="ášši" pos="A">rievttálaš</l>
-         <algu lekseemi_id="5065" sanue_id="71805"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">rettslig</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>ærlig</re>
-            <t pos="A">rettferdig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg>
          <l context="ášši" pos="A">sámi-guoski</l>
       </lg>
@@ -989,22 +941,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="1218">
-         <l pos="Adv">dálvit</l>
-         <algu lekseemi_id="21310" sanue_id="43982"/>
-      </lg>
-      <mg>
-         <l_ref>dálvi_n</l_ref>
-         <tg xml:lang="nob">
-            <t pos="Adv">om vinteren</t>
-            <xg>
-               <x>Dálvit sáhttá čuoigat, muhto geasset ii gal sáhte.</x>
-               <xt>Om vinteren kan man gå på ski, men ikke om sommeren.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="9873">
          <l pos="Adv">dastto</l>
          <algu lekseemi_id="21451" sanue_id="8276"/>
@@ -1095,21 +1031,6 @@
             <xg>
                <x>Biila lea badjelmeari divrras.</x>
                <xt>Bilen var umåtelig dyr.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="1273">
-         <l pos="Adv">geassit</l>
-      </lg>
-      <mg>
-         <l_ref>geassi_n</l_ref>
-         <tg xml:lang="nob">
-            <t pos="Adv">om sommeren</t>
-            <xg>
-               <x>Dálvet sáhttá čuoigat, muhto geassit ii gal sáhte.</x>
-               <xt>Om vinteren kan man gå på ski, men ikke om sommeren.</xt>
             </xg>
          </tg>
       </mg>
@@ -1236,17 +1157,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">måte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="382">
-         <l pos="Adv">uhccán</l>
-         <algu lekseemi_id="12172" sanue_id="75927"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">lite</t>
          </tg>
       </mg>
    </e>
@@ -1416,26 +1326,6 @@
    </e>
    <e>
       <lg freq="0">
-         <l pos="Adv">nuppe ládje</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">motsatt</t>
-            <t pos="Adv">annerledes</t>
-            <t t_type="expl">på en annen måte</t>
-            <xg>
-               <x>Mii šaddat bargat nuppe ládje Sámis go Norggas, oažžut dievdduid mielde.</x>
-               <xt>Vi blir nødt til å jobbe motsatt i Sápmi enn i Norge og få med mennene.</xt>
-            </xg>
-            <xg>
-               <x>Vehádat-giella kopiere eanetlogugiela sániid, hárve nuppe ládje.</x>
-               <xt>Minoritetsspråket kopierer majoritetsspråkets ord, sjelden motsatt.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
          <l pos="Adv">eará ládjii</l>
       </lg>
       <mg>
@@ -1444,21 +1334,6 @@
             <t t_type="phrase">annerledes</t>
             <xg>
                <x>Vaikko mun jurddašan eará ládjii go dii, de ehpet oaččo mu hárdit.</x>
-               <xt>Selv om jeg tenker på en annen måte enn dere, så får dere ikke lov til å erte meg.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="Adv">eará ládje</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="phrase">på en annen måte</t>
-            <t t_type="phrase">annerledes</t>
-            <xg>
-               <x>Vaikko mun jurddašan eará ládje go dii, de ehpet oaččo mu hárdit.</x>
                <xt>Selv om jeg tenker på en annen måte enn dere, så får dere ikke lov til å erte meg.</xt>
             </xg>
          </tg>
@@ -1483,20 +1358,6 @@
             <t pos="Adv">på samme måte</t>
             <xg>
                <x>Eará bivdojoavkkut fertejit maid dahkat juste seamma ládjii.</x>
-               <xt>Andre jaktlag må også gjøre det på samme måte.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="Adv">seamma ládje</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">på samme måte</t>
-            <xg>
-               <x>Eará bivdojoavkkut fertejit maid dahkat juste seamma ládje.</x>
                <xt>Andre jaktlag må også gjøre det på samme måte.</xt>
             </xg>
          </tg>
@@ -11584,21 +11445,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="24">
-         <l pos="N">báikenammaregister</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">stedsnavnsregister</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">stadnamnregister</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="6">
          <l pos="N">kulttorluodda</l>
       </lg>
@@ -15558,16 +15404,6 @@
    <e src="fad">
       <lg freq="0">
          <l pos="N">álgogurse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">innføringskurs</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">álgokursa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -27322,27 +27158,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">álbmotregisttar</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">folkeregister</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">álbmotregistereisseváldi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">folkeregistermyndighet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">álbmotregisttareiseváldi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -28129,16 +27945,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg freq="14">
-         <l pos="N" type="NomAg">fievrrideaddji</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">transportør</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N" type="NomAg">easkkaálgi</l>
@@ -28261,16 +28067,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="0">
-         <l pos="N" type="NomAg">stáhtačálli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">statssekretær</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg>
          <l pos="N" type="NomAg">internáhttajođiheaddji</l>
       </lg>
@@ -28327,16 +28123,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vannpumpetang</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l nr="Pl" pos="N">fievrridangolut</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">reiseutgift</t>
          </tg>
       </mg>
    </e>
@@ -28469,18 +28255,6 @@
       <mg>
          <tg xml:lang="nob">
             <t t_type="phrase">bli rein</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l context="mun" pos="V">buoridit</l>
-         <algu lekseemi_id="19889" sanue_id="81750"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>gjøre bedre</re>
-            <t pos="V">utvide</t>
          </tg>
       </mg>
    </e>
@@ -28713,20 +28487,6 @@
       </mg>
    </e>
    <e>
-      <lg>
-         <l context="mun" pos="V">govahallat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">forestille</t>
-            <xg>
-               <x>Dán láhkai govahallá Finnmárkku eananvuovdinhoavda boahtteáiggi dili.</x>
-               <xt>Slik forestiller jordsalgssjefen i Finnmark situasjonen i framtida.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="121">
          <l context="mun" pos="V" vmax="3">jierásnuvvat</l>
       </lg>
@@ -28774,20 +28534,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">modnes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l context="mun" pos="V">gaccohallat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="phrase">bli klort</t>
-            <xg>
-               <x>Go gaccohallá beatnagii dahje bussái, de sáhttá vuolšut.</x>
-               <xt>Når man blir klort av en hund eller ei katt, kan det bli infeksjon.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -28841,16 +28587,6 @@
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">vuostáváldit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">motta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l context="mun" pos="V">šearasnuvvat</l>
       </lg>
       <mg>
@@ -28876,16 +28612,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">løsne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l context="dat" pos="V">oavŋŋildit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="phrase">være i nærheten</t>
          </tg>
       </mg>
    </e>
