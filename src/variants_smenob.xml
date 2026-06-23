@@ -1653,32 +1653,12 @@
    </e>
    <e>
       <lg>
-         <l pos="N">servvodatguovlu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samfunnsområde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">nenetsagiella</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <re>om språk</re>
             <t pos="N">nenetsisk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">oktasašlistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fellesliste</t>
          </tg>
       </mg>
    </e>
@@ -1694,31 +1674,11 @@
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="N">rukseslistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rødliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
          <l pos="N">rukseslistá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rødliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">iskanlistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sjekkliste</t>
          </tg>
       </mg>
    </e>
@@ -1734,16 +1694,6 @@
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="N">klássalistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">klasseliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
          <l pos="N">klássalistá</l>
       </lg>
       <mg>
@@ -1754,31 +1704,11 @@
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="N">jienastuslistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">manntallsliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
          <l pos="N">jienastuslistá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">manntallsliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">sávvanlistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">ønskeliste</t>
          </tg>
       </mg>
    </e>
@@ -2163,17 +2093,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">konvoluhtta</l>
-         <algu lekseemi_id="88140" sanue_id="85605"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">konvolutt</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg freq="54">
          <l pos="N">granáhta</l>
@@ -2205,44 +2124,12 @@
       </mg>
    </e>
    <e>
-      <lg>
-         <l pos="N">gušta</l>
-         <algu lekseemi_id="30389" sanue_id="62066"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">børste</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">guštá</l>
-         <algu lekseemi_id="30389" sanue_id="62066"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">børste</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="1316">
          <l pos="N">riikkačoahkkin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">landsmøte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="611">
-         <l pos="N">kulttorlávdegoddi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kulturkomité</t>
          </tg>
       </mg>
    </e>
@@ -2730,17 +2617,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="9">
-         <l pos="N">tákse</l>
-         <algu lekseemi_id="84348" sanue_id="81571"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">taksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="14632">
          <l pos="N" vmax="3">eanan</l>
          <algu lekseemi_id="23491" sanue_id="8147"/>
@@ -2845,16 +2721,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jordklode</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">geahčerádjá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">dødlinje</t>
          </tg>
       </mg>
    </e>
@@ -3027,16 +2893,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg freq="22">
-         <l pos="N">govvádus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">karakteristikk</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg freq="65">
          <l pos="N" vmax="3">guotteteanan</l>
@@ -3143,17 +2999,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="315">
-         <l pos="N">kruvdnu</l>
-         <algu lekseemi_id="30368" sanue_id="13926"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">krone</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="541">
          <l pos="N">kulttormuitoláhka</l>
       </lg>
@@ -3190,16 +3035,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kursrom</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">páhppal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">prestegård</t>
          </tg>
       </mg>
    </e>
@@ -3395,16 +3230,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="1318">
-         <l pos="N">riikkarádjá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">riksgrense</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="54">
          <l pos="N" vmax="2">ristbárdni</l>
       </lg>
@@ -3483,17 +3308,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">søppeldynge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="N">tallearka</l>
-         <algu lekseemi_id="22832" sanue_id="32702"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">tallerken</t>
          </tg>
       </mg>
    </e>
@@ -3820,16 +3634,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jordsalgslov</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="N">eatnanhearrá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">landshøvding</t>
          </tg>
       </mg>
    </e>
@@ -4601,16 +4405,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fjordsamfunn</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="4">
-         <l pos="N">fievrridanvuohki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">transportform</t>
          </tg>
       </mg>
    </e>
@@ -6624,16 +6418,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="N">fievrridanrusttet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">transportutstyr</t>
-         </tg>
-      </mg>
-   </e>
    <e src="fad">
       <lg freq="1">
          <l pos="N">universiteahttavuođđudeapmi</l>
@@ -7415,16 +7199,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="12">
-         <l pos="N">fievrridanplána</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">transportplan</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="40">
          <l pos="N">kulttormuitobáiki</l>
       </lg>
@@ -7511,16 +7285,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kulturskoletilbud</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="29">
-         <l pos="N">servvodatságastallan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samfunnsdebatt</t>
          </tg>
       </mg>
    </e>
@@ -8330,16 +8094,6 @@
    </e>
    <e src="fad">
       <lg freq="79">
-         <l pos="N">fylkkaeanandoallostivra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fylkeslandbruksstyre</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="79">
          <l pos="N">fylkkaeatnandoallostivra</l>
       </lg>
       <mg>
@@ -8735,16 +8489,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">grunnforvaltningssystem</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="2">
-         <l pos="N">gávpeeanandoallu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">handelsjordbruk</t>
          </tg>
       </mg>
    </e>
@@ -9355,16 +9099,6 @@
    </e>
    <e src="fad">
       <lg freq="50">
-         <l pos="N">poastalistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">postliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="50">
          <l pos="N">poastalistá</l>
       </lg>
       <mg>
@@ -9931,16 +9665,6 @@
    <e src="fad">
       <lg freq="0">
          <l pos="N">gursefálaldat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kurstilbud</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">kursafálaldat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -10542,16 +10266,6 @@
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="N">terminologiijalistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">terminologiliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
          <l pos="N">terminologiijalistá</l>
       </lg>
       <mg>
@@ -11033,16 +10747,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="31">
-         <l pos="N">vuotnalinnjá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fjordlinje</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="15">
          <l pos="N">servvodatdárbu</l>
       </lg>
@@ -11279,16 +10983,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">taleliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="7">
-         <l pos="N">fievrridanbálvalus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">transporttjeneste</t>
          </tg>
       </mg>
    </e>
@@ -11550,16 +11244,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="0">
-         <l pos="N">fidnokursa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">yrkeskurs</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="8">
          <l pos="N">kulttorneahtta</l>
       </lg>
@@ -11682,16 +11366,6 @@
    <e src="fad">
       <lg freq="11">
          <l pos="N">johttisápmelaččaidlistá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">flyttsameliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">johttisámelistu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -12046,26 +11720,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">landbruksmelding</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">proseantatuollu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">prosenttoll</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="11">
-         <l pos="N">dearvvašvuođaeiseváldi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">helsemyndighet</t>
          </tg>
       </mg>
    </e>
@@ -12469,27 +12123,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">oppalašovdáneapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">totalvekst</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">majestehta</l>
-         <algu lekseemi_id="35699" sanue_id="17139"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">majestet</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">guhttanuppelohmehter</l>
@@ -12523,16 +12156,6 @@
    <e>
       <lg freq="0">
          <l pos="N">lássakárbma</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">vinduspost</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="N">glássagárbma</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -12688,16 +12311,6 @@
    <e src="fad">
       <lg freq="0">
          <l pos="N">stádakirkoortnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">statskirkeordning</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">stáhtagirkoortnet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -13002,16 +12615,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stortingsproposisjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">stáhtaásahus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">statsinstitusjon</t>
          </tg>
       </mg>
    </e>
@@ -13752,16 +13355,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sambygding</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="55">
-         <l pos="N">servvodatovddasvástádus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samfunnsansvar</t>
          </tg>
       </mg>
    </e>
@@ -14825,16 +14418,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="N">satellihttamihtideapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">satelittmåling</t>
-         </tg>
-      </mg>
-   </e>
    <e src="fad">
       <lg freq="64">
          <l pos="N">satelihtta</l>
@@ -14887,16 +14470,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="36">
-         <l pos="N">rekrutterenvuođđu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rektrutteringsgrunnlag</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="9">
          <l pos="N">rekrutterenhástalus</l>
       </lg>
@@ -14913,16 +14486,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rekrutteringsstrategi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="16">
-         <l pos="N">rekrutterenvirgi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rekrutteringsstilling</t>
          </tg>
       </mg>
    </e>
@@ -14967,26 +14530,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="6">
-         <l pos="N">rekrutterenvejolašvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rekrutteringsmulighet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="19">
-         <l pos="N">rekrutterenearri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rekrutteringskvote</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="0">
          <l pos="N">rekrutterenfoanda</l>
       </lg>
@@ -15023,16 +14566,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">privatskolelov</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">vuoruhanlistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">prioriteringsliste</t>
          </tg>
       </mg>
    </e>
@@ -15303,16 +14836,6 @@
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="N">sátnelistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">ordliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
          <l pos="N">sátnelistá</l>
       </lg>
       <mg>
@@ -15538,16 +15061,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">middagstallerken</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">lahttolistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">medlemsliste</t>
          </tg>
       </mg>
    </e>
@@ -16027,16 +15540,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">landbrukseiendom</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="109">
-         <l pos="N">kvaliteahttasihkkarastin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetssikring</t>
          </tg>
       </mg>
    </e>
@@ -16846,16 +16349,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="0">
-         <l pos="N">kulturkaleanddar</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kulturkalender</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="75">
          <l pos="N">kulttordáhpáhus</l>
       </lg>
@@ -17025,16 +16518,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="N">kriisahálddašeapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">krisehåndtering</t>
-         </tg>
-      </mg>
-   </e>
    <e src="fad">
       <lg freq="14">
          <l pos="N">reabbáhálddaheapmi</l>
@@ -17192,16 +16675,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kapabilitetssamarbeid</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">evttohasválljen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kandidatkåring</t>
          </tg>
       </mg>
    </e>
@@ -18040,16 +17513,6 @@
    <e src="fad">
       <lg freq="0">
          <l pos="N">riegádannummir</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fødselsnummer</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">riegádannummár</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -18909,26 +18372,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="7">
-         <l pos="N">rekrutterenplána</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rekrutteringsplan</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="19">
-         <l pos="N">rekrutterenortnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rekrutteringsordning</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="1">
          <l pos="N">rekrutterenruhta</l>
       </lg>
@@ -19581,16 +19024,6 @@
    <e>
       <lg freq="0">
          <l pos="N">stádakirku</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">statskirke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="N">stáhtagirku</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -20389,17 +19822,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="257">
-         <l pos="N">moaitámuš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>negativ tilbakemelding</re>
-            <t pos="N">kritikk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="341">
          <l pos="N">eanangeavaheapmi</l>
       </lg>
@@ -20458,26 +19880,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">territorium</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="5">
-         <l pos="N">vearrogeahpideapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skattelette</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="36">
-         <l pos="N">vearrogeahpádus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skattelette</t>
          </tg>
       </mg>
    </e>
@@ -20731,16 +20133,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg freq="15">
-         <l pos="N">hálddašanovddasvástádus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">forvaltningsansvar</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg freq="549">
          <l pos="N">rávisolmmoš</l>
@@ -20830,16 +20222,6 @@
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="N">válgalistu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">valgliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
          <l pos="N">válgalistá</l>
       </lg>
       <mg>
@@ -20920,16 +20302,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="0">
-         <l pos="N">giellakursa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">språkkurs</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="4">
          <l pos="N">gulloapparáhtta</l>
       </lg>
@@ -20989,26 +20361,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lekeapparat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="779">
-         <l pos="N">linnjá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">linje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="98">
-         <l pos="N">vánhenčoahkkin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">foreldremøte</t>
          </tg>
       </mg>
    </e>
@@ -21126,16 +20478,6 @@
    </e>
    <e>
       <lg freq="0">
-         <l pos="N">tevnnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">tegning</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
          <l pos="N">eanandoallopolitihkka</l>
       </lg>
       <mg>
@@ -21228,16 +20570,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="5038">
-         <l pos="N">politihkkár</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">politiker</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="20229">
          <l pos="N">stáda</l>
          <algu lekseemi_id="77984" sanue_id="74785"/>
@@ -21288,17 +20620,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kulturskole</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="N">listu</l>
-         <algu lekseemi_id="32870" sanue_id="62955"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">liste</t>
          </tg>
       </mg>
    </e>
@@ -21360,16 +20681,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lensmannskontor</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="459">
-         <l pos="N">sámepolitihkkár</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samepolitiker</t>
          </tg>
       </mg>
    </e>
@@ -21674,16 +20985,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="0">
-         <l pos="N">stáhtaráđđi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">statsråd</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="170">
          <l pos="N" vmax="2">ráđđehusadvokáhtta</l>
       </lg>
@@ -21722,26 +21023,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">papir</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gráda</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">grad</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rad</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">larm</t>
          </tg>
       </mg>
    </e>
@@ -21919,17 +21200,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="0">
-         <l pos="N">kursa</l>
-         <algu lekseemi_id="87857" sanue_id="85294"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kurs</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg>
          <l pos="N">gánttor</l>
          <algu lekseemi_id="30266" sanue_id="61990"/>
@@ -21981,17 +21251,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kontor</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="N">ruvdnu</l>
-         <algu lekseemi_id="30370" sanue_id="50179"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">krone</t>
          </tg>
       </mg>
    </e>
@@ -22087,17 +21346,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="1209">
-         <l pos="N">nummár</l>
-         <algu lekseemi_id="1377" sanue_id="1542"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">nummer</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="3707">
          <l pos="N" vmax="2">ođđajagimánnu</l>
          <lsub x="fad">ođđajagimánnu</lsub>
@@ -22146,16 +21394,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="0">
-         <l pos="N">sámegielkursa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samiskkurs</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="32">
          <l pos="N">sáddobábir</l>
       </lg>
@@ -22186,28 +21424,8 @@
       </mg>
    </e>
    <e>
-      <lg freq="322">
-         <l pos="N">universitehta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">universitet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="0">
          <l pos="N">čállingurse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skrivekurs</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="0">
-         <l pos="N">čállinkursa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -22530,16 +21748,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="341">
-         <l pos="N">servvodatovdáneapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samfunnsutvikling</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="136">
          <l pos="N">álgoálbmotnisson</l>
       </lg>
@@ -22584,28 +21792,6 @@
       </mg>
    </e>
    <e>
-      <lg freq="9673">
-         <l pos="N">vánhen</l>
-         <algu lekseemi_id="15931" sanue_id="5980"/>
-      </lg>
-      <mg>
-         <dg>
-            <d>olmmoš geas lea okta dahje eanet mánát</d>
-         </dg>
-         <tg xml:lang="nob">
-            <t pos="N">forelder</t>
-            <xg>
-               <x>Lea stuorra eallinnuppástus šaddat vánhemin.</x>
-               <xt>Det er en stor livsendring å bli forelder.</xt>
-            </xg>
-            <xg>
-               <x>Son lea massán goappašiid vánhemiid.</x>
-               <xt>Han har mistet begge foreldrene.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="203">
          <l pos="N" vmax="2">dássenmandáhtta</l>
       </lg>
@@ -22632,16 +21818,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jordskifterett</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="61">
-         <l pos="N">servvodatdilálašvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samfunnsforhold</t>
          </tg>
       </mg>
    </e>
@@ -23300,16 +22476,6 @@
    </e>
    <e src="fad">
       <lg freq="7">
-         <l pos="N">doavttergrádakandidáhtta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">doktorgradskandidat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="7">
          <l pos="N">doavttirgrádakandidáhta</l>
       </lg>
       <mg>
@@ -23579,16 +22745,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg freq="6">
-         <l pos="N">etáhttastivren</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">etatsstyring</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">fitnojohtolat</l>
@@ -23596,16 +22752,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">yrkestrafikk</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="24">
-         <l pos="N">fievrridandoarjja</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">frakttilskudd</t>
          </tg>
       </mg>
    </e>
@@ -23797,16 +22943,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">odlingsgrense</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">girkoeanan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kirkegård</t>
          </tg>
       </mg>
    </e>
@@ -24057,16 +23193,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forvaltningsapparat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">hávdeeanan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">gravlund</t>
          </tg>
       </mg>
    </e>
@@ -24499,16 +23625,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">minoriteahttadilli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mindretallssituasjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">minoritehtagiella</l>
       </lg>
       <mg>
@@ -24736,16 +23852,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">pilotprosjekt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">rekrutterenoassi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">rekrutteringsandel</t>
          </tg>
       </mg>
    </e>
@@ -25042,28 +24148,8 @@
       </mg>
    </e>
    <e>
-      <lg>
-         <l pos="N">stipendiáhtta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">stipendiat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <lg freq="8">
          <l pos="N">stádaborgár</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">statsborger</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="8">
-         <l pos="N">stáhtaborgár</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -25108,16 +24194,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">talerliste</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg freq="263">
-         <l pos="N">sámenisson</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samekvinne</t>
          </tg>
       </mg>
    </e>
@@ -25795,16 +24871,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">jurddašanmálle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">tankegang</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">betoŋgalohkki</l>
@@ -25878,16 +24944,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">bleahkkapeanna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fyllepenn</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">bleahkkapeanná</l>
       </lg>
       <mg>
@@ -25928,16 +24984,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">boazoguohtunguovlu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">reinbeiteområde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">borahanbumpa</l>
       </lg>
       <mg>
@@ -25968,27 +25014,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">bussebissánansadji</l>
-      </lg>
-      <mg>
-         <dg>
-            <d>merkejuvvon sadji gos busse bisána ja luoitá mátkkošteddjiid eret dahje ala</d>
-         </dg>
-         <sg>
-            <s>bussebissehat</s>
-            <s>bussebissánanbáiki</s>
-         </sg>
-         <tg xml:lang="nob">
-            <t pos="N">busstopp</t>
-            <xg>
-               <x>Gos lea lagamus bussebissánansadji?</x>
-               <xt>Hvor er nærmeste busstopp?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">budjeahttaovddasfástádus</l>
       </lg>
       <mg>
@@ -26009,41 +25034,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">bušeahttaovddasvástádus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">budsjettansvar</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">duopmoreferáhtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">domsreferat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="22">
-         <l pos="N">geasseguohtunguovlu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sommerbeiteområde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gilimusihkkár</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">musikant</t>
          </tg>
       </mg>
    </e>
@@ -26098,87 +25093,6 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
-      <lg freq="70">
-         <l pos="N">integritehta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">integritet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhtta</l>
-         <algu lekseemi_id="89223" sanue_id="86698"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttabiras</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internatmiljø</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttabálvalus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internattjeneste</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttadilálašvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internatsituasjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttadoaibma</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internatdrift</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttaeallin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internatliv</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttafálaldat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internattilbud</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">internáhttahoavda</l>
@@ -26186,46 +25100,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">internatstyrer</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttalokta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internatloft</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttaluohkká</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internatklasse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttasadji</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internatplass</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttastohpu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internatstue</t>
          </tg>
       </mg>
    </e>
@@ -26282,16 +25156,6 @@
    <e>
       <lg>
          <l pos="N">internáhttatráhppa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">internattrapp</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">internáhttatráhppá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -26371,31 +25235,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">konsešuvdnaeiseváldi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">konsesjonsmyndighet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">konsešuvdnaeisseváldi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">konsesjonsmyndighet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="158">
-         <l pos="N">kriteara</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kriterium</t>
          </tg>
       </mg>
    </e>
@@ -26411,148 +25255,8 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="39">
-         <l pos="N">kvaliteahttabuvtta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsprodukt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="1">
-         <l pos="N">kvaliteahttadagaldupmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetssikringsrutine</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="5">
-         <l pos="N">kvaliteahttadiđolašvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsbevissthet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="5">
-         <l pos="N">kvaliteahttaeaktu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetskriterium</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="22">
-         <l pos="N">kvaliteahttagáibádus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetskrav</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="7">
-         <l pos="N">kvaliteahttagálvu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsvare</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="1">
-         <l pos="N">kvaliteahttaindikáhtor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsindikator</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="9">
-         <l pos="N">kvaliteahttalokten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsheving</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="5">
-         <l pos="N">kvaliteahttamearka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsindikator</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="3">
-         <l pos="N">kvaliteahttamerken</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsmerking</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="56">
-         <l pos="N">kvaliteahttaovddideapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsutvikling</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="49">
-         <l pos="N">kvaliteahttaođastus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsreform</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="2">
-         <l pos="N">kvaliteahttaperspektiiva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsperspektiv</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="2">
          <l pos="N">kvalitehtaregister</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsregister</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="2">
-         <l pos="N">kvaliteahttaregister</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -26567,56 +25271,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kvalitetsregister</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="1">
-         <l pos="N">kvaliteahttasihkkarastinortnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetssikringsordning</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="7">
-         <l pos="N">kvaliteahttasuorgi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsnisje</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="1">
-         <l pos="N">kvaliteahttavejolašvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsnisje</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="2">
-         <l pos="N">kvaliteahttaváilivuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsbrist</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="7">
-         <l pos="N">kvaliteahttaárvvoštallan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kvalitetsvurdering</t>
          </tg>
       </mg>
    </e>
@@ -26637,46 +25291,6 @@
       <mg>
          <tg xml:lang="nob">
             <t t_type="phrase">rusforebyggende tiltak</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">mandáhttajuogadeapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mandatfordeling</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">mandáhttajuohkin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mandatfordeling</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">mandáhttajuohku</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mandatfordeling</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">mandáhttasadji</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mandatplass</t>
          </tg>
       </mg>
    </e>
@@ -26722,16 +25336,6 @@
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="N">oljokruvdna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">oljekrone</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
          <l pos="N">oljokruvdno</l>
       </lg>
       <mg>
@@ -26747,16 +25351,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">oljekrone</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">opposišuvdnabellodat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">opposisjonsparti</t>
          </tg>
       </mg>
    </e>
@@ -26865,16 +25459,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">riegádanbeaidearvvuohta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fødselsdagshilsen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">rufepumpa</l>
       </lg>
       <mg>
@@ -26915,42 +25499,12 @@
    </e>
    <e>
       <lg>
-         <l pos="N">skuvlainternáhtta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skoleinternat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">skuvlainternáhttastohpu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skoleinternatbygg</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">spináhtta</l>
          <algu lekseemi_id="94487" sanue_id="92171"/>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">spinat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="18">
-         <l pos="N">stipendiáhttavirgi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">stipendiatstilling</t>
          </tg>
       </mg>
    </e>
@@ -26998,16 +25552,6 @@
    <e src="fad">
       <lg freq="0">
          <l pos="N">sihkkarvuođagurse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sikkerhetskurs</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="0">
-         <l pos="N">sihkkarvuođakursa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -27077,42 +25621,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">valuhtta</l>
-         <algu lekseemi_id="85995" sanue_id="83327"/>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">valuta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">valuhttariska</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">valutarisiko</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">vuolahaspláhtta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sponplate</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">vuollerádjeeaktu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">minimumsvilkår</t>
          </tg>
       </mg>
    </e>
@@ -27133,16 +25646,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">salgsautomat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">vuođđoskuvlainternáhtta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">grunnskoleinternat</t>
          </tg>
       </mg>
    </e>
@@ -27822,16 +26325,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">pappeske</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">oaidnámuš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="expl">noe å se</t>
          </tg>
       </mg>
    </e>
