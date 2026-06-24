@@ -3421,9 +3421,16 @@ For the full license text, see the link above.</lic>
          <l context="mun" pos="V">dihkket</l>
       </lg>
       <mg>
+         <dg>
+            <d>váldit eret dihkiid gos nu rupmašis</d>
+         </dg>
          <tg xml:lang="nob">
             <t pos="V">lyske</t>
             <t pos="V">avluse</t>
+            <xg>
+               <x>Sii dihkkejit guhtet guoimmiset oivviid.</x>
+               <xt>De fjerner lus fra hodet på hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8832,7 +8839,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V" dial="west">håpe</t>
+            <t dial="west" pos="V">håpe</t>
             <xg>
                <x>Doivon duođai ahte dát ášši állana min beallái.</x>
                <xt>Jeg håpet virkelig at denne saken går i vår favør.</xt>
@@ -8841,7 +8848,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V" dial="east">tro</t>
+            <t dial="east" pos="V">tro</t>
             <xg>
                <x>Muhto eat doaivvo guhká gal vejolažžan na dahkat, leaš go šat vejolaš obanassiige.</x>
                <xt>Men vi trur ikke at det er mulig å gjøre det slik lenge, om det er mulig i det hele tatt lenger.</xt>
