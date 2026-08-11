@@ -32,6 +32,13 @@
 <!ATTLIST analysis ms CDATA #IMPLIED >
 <!ELEMENT wordform (#PCDATA) >
 <!ELEMENT orig (#PCDATA) >
+<!ATTLIST orig
+      pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle |
+            Num | CC | CS | Phrase | fp-cmp ) #REQUIRED
+      suorggis CDATA #IMPLIED      
+>
+
+
 <!ELEMENT mini_paradigm (analysis+) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l
