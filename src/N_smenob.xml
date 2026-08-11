@@ -51995,7 +51995,7 @@
    <e>
       <lg freq="6">
          <l pos="N">beavddáš</l>
-         <orig>beavdi + suorggis -š</orig>
+         <orig pos="N" suorggis="š">beavdi</orig>
       </lg>
       <mg>
          <dg>
@@ -53348,6 +53348,7 @@
    <e>
       <lg>
          <l pos="N">jeagohisvuohta</l>
+         <orig pos="A" suorggis="vuohta">jeagoheapme</orig>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -57655,6 +57656,7 @@
    <e>
       <lg freq="39">
          <l pos="N">unohasvuohta</l>
+         <orig pos="A" suorggis="vuohta">unohas</orig>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -60273,6 +60275,7 @@
    <e>
       <lg freq="0">
          <l pos="N">vuovdnásvuohta</l>
+         <orig pos="A" suorggis="vuohta">vuovdnái</orig>
       </lg>
       <mg>
          <tg xml:lang="nob">
