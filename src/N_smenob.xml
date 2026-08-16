@@ -25547,6 +25547,18 @@
    </e>
    <e>
       <lg>
+         <l pos="N">alddas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>del av fottøy</re>
+            <t pos="N">skaft</t>
+            <t pos="N">overdel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">uvhnnádat</l>
       </lg>
       <mg>
@@ -25602,6 +25614,16 @@
             <xg>
                <x>Nuorat geardi berošta eará áššiin go boarráset geardi.</x>
                <xt>Den yngre generasjonen er opptatt av andre saker enn den eldre generasjonen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om strikking</re>
+            <t pos="N">omgang</t>
+            <xg>
+               <x>Gođe 30 geardde njuolgut.</x>
+               <xt>Strikk 30 omganger rett.</xt>
             </xg>
          </tg>
       </mg>
@@ -32828,13 +32850,14 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om fottøy</re>
+            <re>under fottøy</re>
             <t pos="N">hæl</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">bakerste del av komag</t>
+            <re>del av fottøy</re>
+            <t t_type="expl">bakerste del av komag eller sokk</t>
          </tg>
       </mg>
    </e>
@@ -58088,6 +58111,36 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kvisttupp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">njuolggobealli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettside</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jorggobealli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vrangside</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">guohpá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sokk</t>
          </tg>
       </mg>
    </e>
@@ -84782,6 +84835,46 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kystsone</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">njuolggočalbmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettmaske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jorggučalbmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vrangmaske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">readdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vrangbord</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">bársannállu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stoppenål</t>
          </tg>
       </mg>
    </e>
