@@ -7584,7 +7584,19 @@ For the full license text, see the link above.</lic>
                <xt>Hils fra meg!</xt>
             </xg>
          </tg>
+         <tg xml:lang="nob">
+            <t pos="V">avsi</t>
+            <xg>
+               <x>Alimusriekti celkkii duomu Aursund-áššis.</x>
+               <xt>Høyesterett avsa dom i Aursund-saka.</xt>
+            </xg>
+         </tg>
       </mg>
+      <ig>
+         <i>cealkit dearvvuođaid</i>
+         <id>adsf</id>
+         <it>hilse (til noen andre)</it>
+      </ig>
    </e>
    <e>
       <lg freq="280">
@@ -36315,8 +36327,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>om horn, eller strikking</re>
+            <re>om horn</re>
             <t pos="V">felle</t>
+         </tg>
+         <tg xml:lang="nob">
+            <re>felle masker i strikking</re>
+            <t pos="V">felle</t>
+            <xg>
+               <x>Láhpe goabbat bealde dassážii go leat láhppán buot čalmmiid.</x>
+               <xt>Fell i begge sidene til du har felt alle maskene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
