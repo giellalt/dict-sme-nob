@@ -25551,7 +25551,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>del av fottøy</re>
+            <re>del av fottøy</re>
             <t pos="N">skaft</t>
             <t pos="N">overdel</t>
          </tg>
@@ -40615,6 +40615,12 @@
          <tg xml:lang="nob">
             <re>i noen tornesamiske dialekter</re>
             <t dial="torne" pos="N">skred</t>
+         </tg>
+      </mg>
+      <mg src="https://www.nrk.no/sapmi/_ahceborga---orkan-1.2129345">
+         <tg xml:lang="nob">
+            <re>Beauforts skala</re>
+            <t t_type="phrase">stiv kuling</t>
          </tg>
       </mg>
    </e>
