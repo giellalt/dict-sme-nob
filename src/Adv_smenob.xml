@@ -5207,19 +5207,37 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">til</t>
+            <t pos="A">igjen</t>
+            <t pos="A">stengt</t>
             <xg>
-               <x>Mun lean barggus gitta bearjadahkii.</x>
-               <xt>Jeg er på jobb helt til fredag.</xt>
+               <x>Uksa lea gitta.</x>
+               <xt>Døra er igjen.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">igjen</t>
+            <t t_type="phrase">helt (til)</t>
             <xg>
-               <x>Uksa lea gitta.</x>
-               <xt>Døra er igjen.</xt>
+               <x>Mun lean barggus gitta bearjadahkii.</x>
+               <xt>Jeg er på jobb helt til fredag.</xt>
+            </xg>
+            <xg>
+               <x src="SIKOR">Nissonat ledje kantuvrras ovcci rájes iđđes gitta viđa rádjái nuppi iđida.</x>
+               <xt>Kvinnene var på kontoret fra ni om morgenen helt til klokka fem neste morgen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">avhengig</t>
+            <xg>
+               <x src="SIKOR">Gielddalaš iešstivren lea gitta dain mearrádusain maid Stuorradiggi lea mearridan láhkaaddin.</x>
+               <xt>Kommunalt selvstyre er avhengig av de avgjørelsene som Stortinget har gjort som lovgiver.</xt>
+            </xg>
+            <xg>
+               <x src="SIKOR">Diehttelas olu lea gitta das makkár dálkkit deivet leat.</x>
+               <xt>Selvfølgelig er mye avhengig av hva slags vær det råker å være.</xt>
             </xg>
          </tg>
       </mg>
