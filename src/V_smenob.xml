@@ -443,7 +443,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">huvlliidit</l>
+         <l context="dat" pos="V">huvlliidit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -483,7 +483,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">spahčat</l>
+         <l context="dat" pos="V">spahčat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -626,6 +626,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bråke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="phrase">snakke høyrøstet</t>
          </tg>
       </mg>
    </e>
@@ -1095,7 +1100,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">gáržžohallat</l>
+         <l context="dat" pos="V">gáržžohallat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1505,7 +1510,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">čuvččagit</l>
+         <l context="dat" pos="V">čuvččagit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1655,7 +1660,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">šuvččagit</l>
+         <l context="dat" pos="V">šuvččagit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1690,7 +1695,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">skealgut</l>
+         <l context="mun" pos="V">skielgut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -4375,7 +4380,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">gahkkit</l>
+         <l context="dat" pos="V">gahkkit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7702,7 +7707,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg freq="171">
-         <l context="mun" pos="V">cieládit</l>
+         <l context="dat" pos="V">cieládit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -8834,10 +8839,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">strø</t>
-            <xg>
-               <x>Vihtta jagi leat juo golihan dan rájes go fárrejin Guovdageidnui.</x>
-               <xt>Det har allerede gått fem år siden jeg flyttet til Kautokeino.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -9083,7 +9084,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">skuolljut</l>
+         <l context="dat" pos="V">skuolljut</l>
          <algu lekseemi_id="12572" sanue_id="56236"/>
       </lg>
       <mg>
@@ -9098,7 +9099,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">guolljut</l>
+         <l context="dat" pos="V">guolljut</l>
          <algu lekseemi_id="29575" sanue_id="13936"/>
       </lg>
       <mg>
@@ -18534,7 +18535,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">báŋádit</l>
+         <l context="dat" pos="V">báŋádit</l>
          <algu lekseemi_id="18324" sanue_id="9421"/>
       </lg>
       <mg>
@@ -18547,7 +18548,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">báŋadit</l>
+         <l context="dat" pos="V">báŋadit</l>
          <algu lekseemi_id="18324" sanue_id="9421"/>
       </lg>
       <mg>
@@ -19884,6 +19885,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Garran gápmagiid dipmadit ostočáziin.</x>
                <xt>Komager som har blitt harde, mykgjør vi med barkevann.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">gardnjálastit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="phrase">bruke albuen</t>
+            <xg>
+               <x>Oabbá gardnjálasttii su: Geahča mat!</x>
+               <xt>Søstera støtte albuen i henne: Se!</xt>
             </xg>
          </tg>
       </mg>
@@ -29941,7 +29956,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">guosmmehit</l>
+         <l context="dat" pos="V">guosmmehit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -33329,6 +33344,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l context="mun" pos="V">nimmurdit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="phrase">uttrykke sin misnøye</t>
+            <t pos="V" src="fad">murre</t>
+            <xg>
+               <x>Mearrádusa geažil leat olusat nimmurdan.</x>
+               <xt>På grunn av avgjørelsen har mange uttrykt sin misnøye.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l context="mun" pos="V">nimmardit</l>
       </lg>
       <mg>
@@ -34528,7 +34558,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">šearasmuvvat</l>
+         <l context="dat" pos="V">šearasmuvvat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -34539,7 +34569,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">šearasmit</l>
+         <l context="dat" pos="V">šearasmit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -34708,7 +34738,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">ráppaštit</l>
+         <l context="dat" pos="V">ráppaštit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -35232,7 +35262,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">boahnárastit</l>
+         <l context="dat" pos="V">boahnárastit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -37449,7 +37479,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">ganastit</l>
+         <l context="dat" pos="V">ganastit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -39391,7 +39421,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">vuođđuduvvat</l>
+         <l context="dat" pos="V">vuođđuduvvat</l>
          <algu lekseemi_id="86505" sanue_id="6312"/>
       </lg>
       <mg>
