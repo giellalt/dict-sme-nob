@@ -17,8 +17,13 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 - [North Sámi dictionary page](https://dicts.uit.no/smedicts.eng.html)
 
 
+# Leksikografi høsten 2026
+
+... kommer
 
 #  Møtereferat
+
+... kommer
 
 ## smenob
 
