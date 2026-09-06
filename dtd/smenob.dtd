@@ -107,7 +107,7 @@
 
 <!ELEMENT tg (re?,  ( ((t, l_ref?, morph_expl?) ))+, xg* ) >
 <!ATTLIST tg
-      xml:lang ( nob | eng | fra | fin ) #REQUIRED
+      xml:lang ( nob ) #REQUIRED
       check CDATA #IMPLIED
 >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
