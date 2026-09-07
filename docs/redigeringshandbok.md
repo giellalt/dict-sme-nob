@@ -11,10 +11,9 @@ Skriv ned her etter kvart.
 
 ***
 ***
-# TEKNISK
+# TEKNISK, for programmerer:
 
-# Brukergrensesnitt (css)
-
+# Brukergrensesnitt (css) 
 - Nummerer mg-ar, ikkje berre kulepunkt
 - Luft mellom mg-ane
 - Problem: nobsme "gi"
@@ -41,6 +40,30 @@ Vi må se på dtd for
 --- konvers motsetning, to forskjellige perspektiver på samme sak, f.eks. kjøpe selge, gi få, mor barn, ektemann hustru
 --- kompletterende motsetning, handling som naturlig følges av en annen, f.eks. spørsmål svar, angrep forsvar, snakke lytte
 
+***
+***
+
+# TEKNISK for leksikograf
+
+# xml-strukturen  
+
+
+  <e> 
+      <lg>
+         <l pos="N">álša</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">energi</t>
+            <xg>
+               <x>álššaid alde</x>
+               <xt>i god form</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+- e : entry. Dette er et lemma. 
 
 # Redigering i XMLmind
 ## (Windows)
