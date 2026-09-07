@@ -47,23 +47,37 @@ Vi må se på dtd for
 
 # xml-strukturen  
 
+e : entry (hovedelementet med alle informasjon til hvert lemma)
 
-  <e> 
-      <lg>
-         <l pos="N">álša</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">energi</t>
-            <xg>
-               <x>álššaid alde</x>
-               <xt>i god form</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
+lg : lemma group 
+- l : lemma, med informasjon om pos (Part of Speech)
+- algu : informasjon til algu-databasen (legges til av programmerer)
 
-- e : entry. Dette er et lemma. 
+dg: definition group, som inneholder:
+- d : definition
+- dt : definition translation
+
+mg : meaning group (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etterhverandre
+
+tg : translation group, innafor mg (denne kan inneholde flere beslektede oversettinger). Det kan være flere tg etter hverandre
+- re : restriction, begrensning av betydninga (hvis nødvending), på norsk
+- t : translation, som kan også være 
+--  t_type="expl" - explanation
+--  t_type="phrase" - flere enn ett ord
+
+xg : eksempel group (hver xg inneholder bare ett eksempel)
+- x : eksempel på kildespråk
+- xt : eksempel translation
+
+Etter siste mg, kan det legges til
+
+ig : idiom group, som inneholder
+- i : idiom eller fast uttrykk
+- id : forklaring på kildespråk
+- it : forklaring på målspråk
+  
+
+ 
 
 # Redigering i XMLmind
 ## (Windows)
