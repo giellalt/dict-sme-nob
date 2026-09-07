@@ -1,6 +1,6 @@
 
 
-Arbetsseminar i samisk lexikografi
+Workshop i samisk lexikografi
 ==============================
 ### 28.09.-02.10.2026 (V 40)
 
@@ -21,7 +21,7 @@ Arbetsseminar i samisk lexikografi
 - Smart teknisk bruk av SIKOR (Korp) 
 
 
-11.00	Trond, Anders, Flammi: 
+11.00	Trond, Anders, Flammie: 
 - Installerar XML-mind på alla nya medarbetares datormaskiner
 
 12.00	Lunch
@@ -77,7 +77,9 @@ Trond, Lene:
 -  Träna på att skriva definitioner i grensesnittet
 -  Träna på innsjekking i Github
 
-16.00	Middag...?
+16.00	Avslutning för dagen
+
+18.00	Middag...?
 
 ## Torsdag 1 oktober 2026
 
@@ -110,4 +112,4 @@ Uppsummering av workshopen och diskussion:
 - Planer för framtida lexikograficentret
 - Planer för framtida samarbetsmöten
 
-16.00	Seminarieslut
+16.00	Avslutning av workshopen
