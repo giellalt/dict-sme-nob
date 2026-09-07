@@ -550,20 +550,6 @@ oabbá mg2: nissonolbmot daid ektui geain lea seamma/oktasaš beroštumit dahje 
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
-## čoahkkelohku def
-
-čoahkkelohku: lohku/lohkosátni/sátni mii muitala galli olbmos lea sáhka
-
-Oahpa: Čoahkkelogut leat substantiivvat
-
-## ortnetlohku def
-
-ortnetlohku: lohku(sátni) mii čujuha sadjái muhtin ortnegis
-
-BOB: tall som angir plass i en rekke; 
-rekketall; 
-til forskjell fra grunntall (3)
-
 ## kvartála
 
 Ikke helt fornøyd med definisjonen i mg2. 
