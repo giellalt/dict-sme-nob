@@ -1,21 +1,24 @@
 
 
-Workshop i samisk leksikografi
+Arbetsseminar i samisk lexikografi
 ==============================
-- 28.09.-02.10.2026 (V 40)
-- UiT Tromsø
+### 28.09.-02.10.2026 (V 40)
+
+### UiT Tromsø
+
 
 # Preliminärt programm
 
 
 ## Måndag, 28 september 2026
 
-09.00	Elisabeth: 
-  - Introduktion, bli kjent med varandra: alla får 5 min för att presentera sig
+09.00	Elisabeth (alla):
+
+ -  Introduktion, bli kjent med varandra: alla får 5 min för att presentera sig
 
 10.00	Trond, Lene: 
-	- Introduktion i NDS infrastruktur
-	- Smart teknisk bruk av SIKOR (Korp) 
+- Introduktion i NDS infrastruktur
+- Smart teknisk bruk av SIKOR (Korp) 
 
 
 11.00	Trond, Anders, Flammi: 
@@ -31,7 +34,7 @@ Workshop i samisk leksikografi
 -  Hva gjøres ved dialektforskjeller i norsk?
 -  Valg av språkprøver og idiomer   
 
-16.00	Aktivitet...?
+16.00	Fritidsaktivitet...?
 
 ## Tirsdag 29 september 2026
 
@@ -40,7 +43,8 @@ Workshop i samisk leksikografi
 - Presentation av redigeringshandboken för arbetet med den enspråkiga nordsamiska ordboken
 
 10.00	Klara: 
--Presentation av redigeringshåndboken för ordboksarbetet som föregår i Bergen
+
+- Presentation av redigeringshåndboken för ordboksarbetet som föregår i Bergen
 
 - Diskussion
 
@@ -48,13 +52,14 @@ Workshop i samisk leksikografi
 
 13.00	Klara:
 -  Arbetsfördelning: Vem ska jobba med vilka delar av ordboken? Hur gör vi det i Bergen?
+-  Diskussion: Hur ska vi i Tromsø fördela arbetet?
 
 Praktiskt arbete: 
 -  Trond, Lene: Upplärning i bruk av grensesnittet, innsjekking i Github osv.
 -  Träning på bruk av grensesnittet, innsjekking i Github
 
 	
-16.00	Aktivitet...?
+16.00	Fritid
 
 ## Onsdag 30 september 2026
 
@@ -70,7 +75,7 @@ Praktiskt arbete:
 -  Trena på att skriva definitioner i grensesnittet
 -  Trena på innsjekking i Github
 
-16.00	Middag/aktivitet...?
+16.00	Middag...?
 
 ## Torsdag 1 oktober 2026
 
@@ -79,11 +84,12 @@ Praktiskt arbete:
 -  Diskussion
 
 12.00	Lunch
+
 13.00	Praktiskt arbete:
 -  Trena på att skriva definitioner i grensesnittet
 -  Trena på innsjekking i Github
 
-16.00	Aktivitet/middag...?
+16.00	Fritid
 
 ## Fredag 2 oktober 2026
 09.00	Klara: 
@@ -94,12 +100,12 @@ Brede:
 
 -  Diskussion av vårt och Bergens grensesnitt: fördelar, nackdelar, eventuella förbättringar på sikt i vårt grensesnitt
 
-11.00	- Uppsummering av workshopen
+12.00 Lunch
+
+13.00 Elisabeth (alla):
+
+Uppsummering av workshopen och diskussion:
 - Planer för framtida lexikograficentret
+- Planer för framtida samarbetsmöten
 
-13.00	Lunch
-
-	Praktiskt arbete:
--  Trena på att skriva definitioner i grensesnittet
--  Trena på innsjekking i Github
-
+16.00	Seminarieslut
