@@ -14,7 +14,7 @@ Arbetsseminar i samisk lexikografi
 
 09.00	Elisabeth (alla):
 
- -  Introduktion, bli kjent med varandra: alla får 5 min för att presentera sig
+ -  Introduktion, bli kända med varandra: alla får 5 min för att presentera sig
 
 10.00	Trond, Lene: 
 - Introduktion i NDS infrastruktur
@@ -34,7 +34,7 @@ Arbetsseminar i samisk lexikografi
 -  Hva gjøres ved dialektforskjeller i norsk?
 -  Valg av språkprøver og idiomer   
 
-16.00	Fritidsaktivitet...?
+16.00 Avslutning för dagen
 
 ## Tirsdag 29 september 2026
 
@@ -55,11 +55,13 @@ Arbetsseminar i samisk lexikografi
 -  Diskussion: Hur ska vi i Tromsø fördela arbetet?
 
 Praktiskt arbete: 
--  Trond, Lene: Upplärning i bruk av grensesnittet, innsjekking i Github osv.
+
+Trond, Lene: 
+-  Upplärning i bruk av grensesnittet, innsjekking i Github osv.
 -  Träning på bruk av grensesnittet, innsjekking i Github
 
 	
-16.00	Fritid
+16.00	Avslutning för dagen
 
 ## Onsdag 30 september 2026
 
@@ -72,8 +74,8 @@ Praktiskt arbete:
 12.00	Lunch
 
 13.00	Praktiskt arbete: 
--  Trena på att skriva definitioner i grensesnittet
--  Trena på innsjekking i Github
+-  Träna på att skriva definitioner i grensesnittet
+-  Träna på innsjekking i Github
 
 16.00	Middag...?
 
@@ -86,10 +88,10 @@ Praktiskt arbete:
 12.00	Lunch
 
 13.00	Praktiskt arbete:
--  Trena på att skriva definitioner i grensesnittet
--  Trena på innsjekking i Github
+-  Träna på att skriva definitioner i grensesnittet
+-  Träna på innsjekking i Github
 
-16.00	Fritid
+16.00	Avslutning för dagen
 
 ## Fredag 2 oktober 2026
 09.00	Klara: 
