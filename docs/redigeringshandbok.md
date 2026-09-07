@@ -11,10 +11,9 @@ Skriv ned her etter kvart.
 
 ***
 ***
-# TEKNISK
+# TEKNISK, for programmerer:
 
-# Brukergrensesnitt (css)
-
+# Brukergrensesnitt (css) 
 - Nummerer mg-ar, ikkje berre kulepunkt
 - Luft mellom mg-ane
 - Problem: nobsme "gi"
@@ -41,6 +40,44 @@ Vi må se på dtd for
 --- konvers motsetning, to forskjellige perspektiver på samme sak, f.eks. kjøpe selge, gi få, mor barn, ektemann hustru
 --- kompletterende motsetning, handling som naturlig følges av en annen, f.eks. spørsmål svar, angrep forsvar, snakke lytte
 
+***
+***
+
+# TEKNISK for leksikograf
+
+# xml-strukturen  
+
+e : entry (hovedelementet med alle informasjon til hvert lemma)
+
+lg : lemma group 
+- l : lemma, med informasjon om pos (Part of Speech)
+- algu : informasjon til algu-databasen (legges til av programmerer)
+
+dg: definition group, som inneholder:
+- d : definition
+- dt : definition translation
+
+mg : meaning group (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etterhverandre
+
+tg : translation group, innafor mg (denne kan inneholde flere beslektede oversettinger). Det kan være flere tg etter hverandre
+- re : restriction, begrensning av betydninga (hvis nødvending), på norsk
+- t : translation, som kan også være 
+--  t_type="expl" - explanation
+--  t_type="phrase" - flere enn ett ord
+
+xg : eksempel group (hver xg inneholder bare ett eksempel)
+- x : eksempel på kildespråk
+- xt : eksempel translation
+
+Etter siste mg, kan det legges til
+
+ig : idiom group, som inneholder
+- i : idiom eller fast uttrykk
+- id : forklaring på kildespråk
+- it : forklaring på målspråk
+  
+
+ 
 
 # Redigering i XMLmind
 ## (Windows)

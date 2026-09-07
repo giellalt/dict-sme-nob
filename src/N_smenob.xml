@@ -9316,6 +9316,9 @@
          <l pos="N">gussanávet</l>
       </lg>
       <mg>
+         <dg>
+            <d>návet oaivvilduvvon gusaide</d>
+         </dg>
          <tg xml:lang="nob">
             <t pos="N">kufjøs</t>
          </tg>
@@ -13247,7 +13250,8 @@
    <e>
       <lg freq="611">
          <l pos="N">kulturlávdegoddi</l>
-         <l pos="N">kulttorlávdegoddi</l>
+	 <!--         <l pos="N">kulttorlávdegoddi</l>
+	      awaiting make -f make-bildict fix -->
       </lg>
       <mg>
          <tg xml:lang="nob">
