@@ -36,7 +36,7 @@ Workshop i samisk lexikografi
 
 16.00 Avslutning för dagen
 
-## Tirsdag 29 september 2026
+## Tisdag 29 september 2026
 
 09.00	Risten: 
 - Status quo för arbetet med den enspråkiga nordsamiska ordboken: Hur föregår arbetet? Första resultat? Utmaningar? osv.
@@ -44,7 +44,7 @@ Workshop i samisk lexikografi
 
 10.00	Klara: 
 
-- Presentation av redigeringshåndboken för ordboksarbetet som föregår i Bergen
+- Presentation av redigeringshandboken för ordboksarbetet som föregår i Bergen
 
 - Diskussion
 
