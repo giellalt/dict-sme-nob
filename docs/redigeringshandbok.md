@@ -14,10 +14,8 @@ Skriv ned her etter kvart.
 # TEKNISK, for programmerer:
 
 # Brukergrensesnitt (css) 
-- Nummerer mg-ar, ikkje berre kulepunkt
 - Luft mellom mg-ane
-- Problem: nobsme "gi"
-- det går ikkje fram at det er mange mg-ar
+– eksempelsetninger bør være i mindre font
 
 # Genering av flere ordbøker fra samme kildekode
 Fra samme kildekode kan vi generere forskjellige ordbøker:
@@ -86,7 +84,9 @@ Navigering i det treet:
 - ctrl+J (etter)
 - ctrl+H (før)
 
-Legg til dg (definisjon) og xg (eksempel)
+Legg til dg (definisjon). Hvis det er flere mg med samme norske oversettelse, må det også legges til dt (translation) 
+
+Legg til xg (eksempel)
 
 Husk å velge pos og xml:lang
 
