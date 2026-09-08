@@ -7,7 +7,7 @@ Workshop i samisk lexikografi
 ### UiT Tromsø
 
 
-# Preliminärt programm
+# Preliminärt Program
 
 
 ## Måndag, 28 september 2026
@@ -79,7 +79,7 @@ Trond, Lene:
 
 16.00	Avslutning för dagen
 
-18.00	Middag...?
+18.00	Middag
 
 ## Torsdag 1 oktober 2026
 
