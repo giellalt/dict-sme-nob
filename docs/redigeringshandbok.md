@@ -43,12 +43,12 @@ Vi må se på dtd for
 
 # TEKNISK for leksikograf
 
-# xml-strukturen med terminologien vi bruker 
+# xml-strukturen og terminologien vi bruker 
 
 &lt;e&gt; : **entry** (hovedelementet med alle informasjon til hvert lemma)
 
 &lt;lg&gt; : **lemma group** 
-- &lt;l&gt; : lemma, med informasjon om pos (Part of Speech)
+- &lt;l&gt; : lemma, med informasjon om **pos** (Part of Speech)
 - &lt;algu&gt; : informasjon til algu-databasen (legges til av programmerer)
 
 &lt;dg&gt;: **definition group** (ikke obligatorisk), som inneholder:
@@ -59,7 +59,7 @@ Vi må se på dtd for
 
 &lt;tg&gt; : **translation group**, innafor mg (denne kan inneholde flere beslektede oversettinger). Denne må inneholde **xml:lang** Det kan være flere tg etter hverandre
 - &lt;re&gt; : **restriction**, begrensning av betydninga (hvis nødvending), på norsk
-- &lt;t&gt; : **translation**, som kan også være 
+- &lt;t&gt; : **translation**, med informasjon om **pos**, men den kan også være 
 --  t_type="expl" - explanation
 --  t_type="phrase" - flere enn ett ord
 
