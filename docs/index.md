@@ -19,7 +19,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 # Leksikografi høsten 2026
 
-###Workshop: Enspråkiga samiska ordböcker (28.09.-02.10.2026)
+### Workshop: Enspråkiga samiska ordböcker (28.09.-02.10.2026)
 
 [Program](seminarprogram_2026.html)
 
