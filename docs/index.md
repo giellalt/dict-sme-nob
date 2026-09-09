@@ -19,15 +19,12 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 # Leksikografi høsten 2026
 
-... kommer
+[Program](seminarprogram_2026.html)
 
 #  Møtereferat
 
-... kommer
-
-## smenob
-
-* 2024:
+- 2026: [3.9.][meetings/260903.html]
+- 2024:
    [5.9.](meetings/240905.html)
 
 ## Generelle
