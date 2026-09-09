@@ -23,7 +23,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 #  Møtereferat
 
-- 2026: [3.9.][meetings/260903.html]
+- 2026: [3.9.](meetings/260903.html)
 - 2024:
    [5.9.](meetings/240905.html)
 
