@@ -51,7 +51,7 @@ lg : lemma group
 - l : lemma, med informasjon om pos (Part of Speech)
 - algu : informasjon til algu-databasen (legges til av programmerer)
 
-dg: definition group, som inneholder:
+dg: definition group (ikke obligatorisk), som inneholder:
 - d : definition
 - dt : definition translation
 
@@ -80,7 +80,7 @@ ig : idiom group, som inneholder
 # Redigering i XMLmind
 ## (Windows)
 Navigering i det treet:
--     ctrl+↑ og ctrl+↓
+- ctrl+↑ og ctrl+↓
 - ctrl+J (etter)
 - ctrl+H (før)
 
