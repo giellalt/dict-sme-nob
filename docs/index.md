@@ -25,7 +25,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 #  Møtereferat
 
-- 2026: [3.9.](meetings/260903.html)
+- 2026: [16.1.](meetings/260116.html), [05.2.](meetings/260205.html), [19.3.](meetings/260319.html), [26.3.](meetings/260326.html), [22.6.](meetings/260622.html), [11.8.](meetings/260811.html), [28.8.](meetings/260828.html), [3.9.](meetings/260903.html)
 - 2024:
    [5.9.](meetings/240905.html)
 
