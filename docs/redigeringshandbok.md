@@ -113,7 +113,7 @@ Vi har litt konservativt språk i eksemplene
 ***
 # KILDER
 
-Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc., spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
+Det kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc., spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
 Skal dette være en regel?
 
@@ -384,7 +384,7 @@ máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørf
 **Konklusjon:**
 - Fullstendige setninger starter med stor bokstav, avsluttes med tegnsetting (punktum, spørretegn)
 - Ufullstendige setninger med liten bokstav, uten tegnsetting
-- Unngå parentes i eksempelsetninger
+- Unngå parentes i eksempelsetninger (med mindre bruken er naturlig slik som i "Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).")
 - Eksempelsetningene bør være selvstendige setninger, ikke peke til noe utenfor setningen.
 F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 
@@ -846,21 +846,3 @@ Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkás
 
 
 **Konklusjon**: Legg først og fremst inn betydninga som er dokumentert i andre ordbøker. Hvis den andre bruken er omfattende så kan man vurdere å legge det inn med re: (i nyere betydning).
-
-## parenteser
-
-Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
-
-Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain. --> nei. Det ville ikke vært naturlig å ha veardit i parentes etter forkortelsen i en "vanlig" setning.
-
-Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6). --> ok. Her er bruken naturlig.
-
-Dan gal lean vajálduhttán.
-Det har jeg (virkelig) glemt.
-
-**Konklusjon**: Fjerne parentesene.
-
-
-
-
-
