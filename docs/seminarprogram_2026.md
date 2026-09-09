@@ -1,7 +1,8 @@
 
 
-Workshop i samisk lexikografi
-==============================
+Workshop 
+========
+# Enspråkiga samiska ordböcker
 ### 28.09.-02.10.2026 (V 40)
 
 ### UiT Tromsø
