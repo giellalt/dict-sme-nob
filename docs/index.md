@@ -29,7 +29,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 ## Generelle
 
-* 2026: [16.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/meetings/dicts/250116.html)
+* 2026: [16.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260116.html)
 
 # Eldre dokumentasjon
 
