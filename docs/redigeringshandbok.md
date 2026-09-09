@@ -43,36 +43,36 @@ Vi må se på dtd for
 
 # TEKNISK for leksikograf
 
-# xml-strukturen  
+# xml-strukturen med terminologien vi bruker 
 
-e : entry (hovedelementet med alle informasjon til hvert lemma)
+&lt;e&gt; : **entry** (hovedelementet med alle informasjon til hvert lemma)
 
-lg : lemma group 
-- l : lemma, med informasjon om pos (Part of Speech)
-- algu : informasjon til algu-databasen (legges til av programmerer)
+&lt;lg&gt; : **lemma group** 
+- &lt;l&gt; : lemma, med informasjon om pos (Part of Speech)
+- &lt;algu&gt; : informasjon til algu-databasen (legges til av programmerer)
 
-dg: definition group (ikke obligatorisk), som inneholder:
-- d : definition
-- dt : definition translation
+&lt;dg&gt;: **definition group** (ikke obligatorisk), som inneholder:
+- &lt;d&gt; : definition
+- &lt;dt&gt;: definition translation
 
-mg : meaning group (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etterhverandre
+&lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etterhverandre
 
-tg : translation group, innafor mg (denne kan inneholde flere beslektede oversettinger). Det kan være flere tg etter hverandre
-- re : restriction, begrensning av betydninga (hvis nødvending), på norsk
-- t : translation, som kan også være 
+&lt;tg&gt; : **translation group**, innafor mg (denne kan inneholde flere beslektede oversettinger). Denne må inneholde **xml:lang** Det kan være flere tg etter hverandre
+- &lt;re&gt; : **restriction**, begrensning av betydninga (hvis nødvending), på norsk
+- &lt;t&gt; : **translation**, som kan også være 
 --  t_type="expl" - explanation
 --  t_type="phrase" - flere enn ett ord
 
-xg : eksempel group (hver xg inneholder bare ett eksempel)
-- x : eksempel på kildespråk
-- xt : eksempel translation
+&lt;xg&gt; : **example group** (hver xg inneholder bare ett eksempel)
+- &lt;x&gt; : eksempel på kildespråk
+- &lt;xt&gt; : eksempel translation
 
-Etter siste mg, kan det legges til
+Etter siste &lt;mg&gt;, kan det legges til
 
-ig : idiom group, som inneholder
-- i : idiom eller fast uttrykk
-- id : forklaring på kildespråk
-- it : forklaring på målspråk
+&lt;ig&gt; : **idiom group**, som inneholder
+- &lt;i&gt; : idiom eller fast uttrykk
+- &lt;id&gt; : forklaring på kildespråk
+- &lt;it&gt; : forklaring på målspråk
   
 
  
