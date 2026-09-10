@@ -550,14 +550,6 @@ oabbá mg2: nissonolbmot daid ektui geain lea seamma/oktasaš beroštumit dahje 
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
-## kvartála
-
-Ikke helt fornøyd med definisjonen i mg2. 
-
-kvartála mg1: áigodat mii bistá golbma mánu
-
-kvartála mg2: viessojoavku (gávpogis) man njeallje gáhta birastahttet
-
 
 ## Iežas dat ferte gámadit.
 
@@ -607,22 +599,6 @@ F.eks.:
 
 boadnji: náitalan dievdu / almmáilaš náittosguoibmi
 
-
-## viđadas
-
-Hvordan definere femtedel, fjerdedel osv.?
-
-BOB: hver av fem like deler
-
-NOB: kvar av dei fem jamstore delane som noko kan delast i
-
-NAOB: hver av fem like deler som en helhet kan deles i ; femdel
-
-DK: hver af fem lige store dele som en helhed kan deles op i fx tre femtedele = 3/5
-
-SE: en del av (något som tänks uppdelat i) fem lika stora delar betraktad i relation till helheten
-
-viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkit/juohkásit
 
 ## metaforisk, abstrakt betydning
 
