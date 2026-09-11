@@ -285,6 +285,10 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 **Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
 
+# antonymer
+
+Hvordan begrense?
+
 # Kvinnelig og mannlig
 Nissonlaš og almmáilaš brukes i ordboka. Eks:
 nissonlaš/almmáilaš stáhtaoaivámuš
@@ -642,11 +646,6 @@ nuoraidskuvla:
 Når skal det under idiomer og når bare under eksempel?
 
 EKS....
-
-
-## antonymer
-
-Hvordan begrense
 
 
 ## Skal alle varianter legges til i ordboka?
