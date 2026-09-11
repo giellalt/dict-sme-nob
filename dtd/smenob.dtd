@@ -24,7 +24,7 @@
             BergslandMagga | Lagercrantz | nsr | utsi | aj )  #IMPLIED
 >
 
-<!ELEMENT lg (l+, lemma_ref*, lsub*, lc*, analysis*, mini_paradigm*, algu*, orig*) >
+<!ELEMENT lg (l+, lemma_ref*, lsub*, analysis*, mini_paradigm*, algu*, orig*) >
 <!ELEMENT lemma_ref (#PCDATA) > <!-- navigating in static articles -->
 <!ATTLIST lemma_ref lemmaID CDATA #IMPLIED >
 <!ATTLIST lg freq CDATA #IMPLIED >
