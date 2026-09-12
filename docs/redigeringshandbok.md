@@ -45,7 +45,7 @@ Vi må se på dtd for
 
 # xml-strukturen og terminologien vi bruker 
 
-&lt;e&gt; : **entry** (hovedelementet med alle informasjon til hvert lemma)
+&lt;e&gt; : **entry** (hovedelementet med all informasjon til hvert lemma)
 
 &lt;lg&gt; : **lemma group** 
 - &lt;l&gt; : lemma, med informasjon om **pos** (Part of Speech)
@@ -55,7 +55,7 @@ Vi må se på dtd for
 - &lt;d&gt; : definition
 - &lt;dt&gt;: definition translation
 
-&lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etterhverandre
+&lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etter hverandre
 
 &lt;tg&gt; : **translation group**, innafor mg (denne kan inneholde flere beslektede oversettinger). Denne må inneholde **xml:lang** Det kan være flere tg etter hverandre
 - &lt;re&gt; : **restriction**, begrensning av betydninga (hvis nødvending), på norsk
@@ -79,10 +79,10 @@ Etter siste &lt;mg&gt;, kan det legges til
 
 # Redigering i XMLmind
 ## (Windows)
-Navigering i det treet:
-- ctrl+↑ og ctrl+↓
-- ctrl+J (etter)
-- ctrl+H (før)
+Navigering i "treet":
+- ctrl+↑ og ctrl+↓ (opp og ned i hierarkiet)
+- ctrl+J (legger til etter)
+- ctrl+H (legger til før)
 
 Legg til dg (definisjon). Hvis det er flere mg med samme norske oversettelse, må det også legges til dt (translation) 
 
@@ -127,8 +127,7 @@ Gruppering? (slik at en ikke trenger logge hvert enkelt ord)
 SME-> NOB viser bare den vanligste varianten (= lemma) slik som det er nå.
 
 **Konklusjon:**
-Ulike variantformer i samme oppslag,i SME feks
-universitehta (subst.), universiteahtta (subst.) i samme oppslag. Legges inn som variant av lemma, med vN for å kunnne gi riktig bøyningsparadigme. v1 er default for lemma. Dvs at v1 er optional i genereringa, mens v2 osv er obligatoriske.
+Ulike variantformer i samme oppslag, i SME f.eks. universitehta (subst.), universiteahtta (subst.) i samme oppslag. Legges inn som variant av lemma, med vN for å kunnne gi riktig bøyningsparadigme. v1 er default for lemma. Dvs at v1 er optional i genereringa, mens v2 osv. er obligatoriske.
 
     <lg>
       <l pos="N">universitehta</l>
@@ -236,21 +235,21 @@ Vi må bli enige om attributtene.
 Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
 
 
-# Tallord-artikler
+## Tallord-artikler
 - čieža = vuođđolohku 7; sju
 - Diibmu lea čieža. = Klokka er sju.
 - osb.
 - Eksempel med alder, klokke og liknende
 
-# Ordenstall
+## Ordenstall
 
 viđat: nummir 5 muhtun ortnega mielde
 
-# Samlingstall
+## Samlingstall
 
 golmmas: golbma olbmo
 
-# nolla - bare numeral?
+## nolla - bare numeral?
 
 Er nolla/nulla bare numeral?
 
@@ -262,13 +261,13 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 
 **Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
 
-# Fargeord
+## Fargeord
 Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
 mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
 
 Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
 
-# synonymer
+## synonymer
 
 Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
@@ -285,11 +284,11 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 **Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
 
-# antonymer
+## antonymer
 
 Hvordan begrense?
 
-# Kvinnelig og mannlig
+## Kvinnelig og mannlig
 Nissonlaš og almmáilaš brukes i ordboka. Eks:
 nissonlaš/almmáilaš stáhtaoaivámuš
 
