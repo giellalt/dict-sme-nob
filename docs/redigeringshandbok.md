@@ -378,6 +378,14 @@ máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørf
 
 **Konklusjon**: skrive "biegga mii boahtá máttil". máttil betyr "fra sør", men ifølge Sammallahti kan det også bety "i sør", så ikke helt entydig der...
 
+## adjektiv
+
+Noen eksempler på definisjoner:
+
+alitčalmmat: geas leat alit čalmmit
+
+guhkedáleš: mii lea guhkit go govdat
+
 
 ***
 ***
@@ -793,14 +801,6 @@ arvigoahtit: arvi álgá dahje arvvit álget
 
 
 Bør ha eget dokument for avledninger.
-
-
-## definisjoner formulering
-
-
-álgogeassi: geasi álgooassi
-
-
 
 ## čuohtenáre
 
