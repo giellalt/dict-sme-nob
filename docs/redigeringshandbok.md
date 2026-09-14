@@ -422,6 +422,30 @@ Videre bør alle ord som er brukt i eksempelsetninger (og definisjoner) være me
 **Konklusjon:**
 Etter semantikk, grunnbetydninga først, med mindre den er misvisende for brukeren
 
+## metaforisk, abstrakt betydning
+
+På norsk ofte "i overført betydning".
+
+Hvordan markere det? Formulering...
+Skal det være i re?
+
+Forslag:
+- sirdojuvvon mearkkašupmi/mearkkašumis
+- abstrávtalaččat
+- figuratiivvalaččat
+
+
+F.eks. njealječiegat:
+
+1. mas leat njeallje čiega ja njeallje siiddu
+
+2. eahpenjuovžil
+
+Først konkret betydning, så den abstrakte. 
+
+**Konklusjon**: Vanskelig å vurdere hvordan man skal begrense når det skal markeres og når ikke. Når det gjelder formulering, ikke bestemt enda. 
+Risten legger til kommentar ("overført") i XMLmind på de ordene der det er aktuelt å markere overført betydning. Da kan man enkelt finne de ordene i ettertid hvis man har lyst til å legge inn markering på dem.
+
 ## reŋgot
 
 reŋgot: bargat reaŋgan // (trans.) bargat reaŋgan, omd: reŋgot badjeolbmuid
@@ -491,6 +515,16 @@ Her er det problemer med md-formatteringa:
 
 OBS: Dette må vi beskrive...
 
+## Iežas dat ferte gámadit.
+
+mo jorgalit dárogillii?
+
+Mearkkašupmi: Olmmoš ferte ieš birget iige galgga vuordit ahte earát veahkehit.
+
+Det er forskjell på om man er i smenob eller nobsme:
+
+i smenob: bare oversette/forklare idiomet til norsk
+i nobsme: da kan man lete etter parallellen/ekvivalenten
 
 
 ***
@@ -561,18 +595,6 @@ oabbá mg2: nissonolbmot daid ektui geain lea seamma/oktasaš beroštumit dahje 
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
-
-## Iežas dat ferte gámadit.
-
-mo jorgalit dárogillii?
-
-Mearkkašupmi: Olmmoš ferte ieš birget iige galgga vuordit ahte earát veahkehit.
-
-Det er forskjell på om man er i smenob eller nobsme:
-
-i smenob: bare oversette/forklare idiomet til norsk
-i nobsme: da kan man lete etter parallellen/ekvivalenten
-
 ## Referere til et annet ord i definisjon, og dermed ikke gjenta definisjonen
 
 F.eks. bivttastit mg2:
@@ -609,34 +631,6 @@ vuoidat bihkain (omd. fátnasa ja sabehiid)
 F.eks.:
 
 boadnji: náitalan dievdu / almmáilaš náittosguoibmi
-
-
-## metaforisk, abstrakt betydning
-
-På norsk ofte "i overført betydning".
-
-Hvordan markere det? Formulering...
-Skal det være i re?
-
-Forslag:
-
-sirdojuvvon mearkkašupmi/mearkkašumis
-
-abstrávtalaččat
-
-figuratiivvalaččat
-
-
-F.eks. njealječiegat:
-
-1. mas leat njeallje čiega ja njeallje siiddu
-
-2. eahpenjuovžil
-
-Først konkret betydning, så den abstrakte. 
-
-**Konklusjon**: Vanskelig å vurdere hvordan man skal begrense når det skal markeres og når ikke. Når det gjelder formulering, ikke bestemt enda. 
-Risten legger til kommentar ("overført") i XMLmind på de ordene der det er aktuelt å markere overført betydning. Da kan man enkelt finne de ordene i ettertid hvis man har lyst til å legge inn markering på dem.
 
 
 ## skuvla
