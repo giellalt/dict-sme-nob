@@ -8765,15 +8765,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="dat" pos="V">njolggiidit</l>
+         <l context="dat" pos="V">njolgidit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lunte</t>
             <xg>
-               <x>Ovcci vuomi njolggiida ovtta veaiggis.</x>
+               <x>Ovcci vuomi njolgida ovtta veaiggis.</x>
                <xt>Ni skogdaler lunter den i løpet av en skumringstid.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">njolggiidit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="phrase">begynne å lunte</t>
          </tg>
       </mg>
    </e>
