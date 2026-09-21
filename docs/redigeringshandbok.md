@@ -43,46 +43,46 @@ Vi må se på dtd for
 
 # TEKNISK for leksikograf
 
-# xml-strukturen  
+# xml-strukturen og terminologien vi bruker 
 
-e : entry (hovedelementet med alle informasjon til hvert lemma)
+&lt;e&gt; : **entry** (hovedelementet med all informasjon til hvert lemma)
 
-lg : lemma group 
-- l : lemma, med informasjon om pos (Part of Speech)
-- algu : informasjon til algu-databasen (legges til av programmerer)
+&lt;lg&gt; : **lemma group** 
+- &lt;l&gt; : lemma, med informasjon om **pos** (Part of Speech)
+- &lt;algu&gt; : informasjon til algu-databasen (legges til av programmerer)
 
-dg: definition group, som inneholder:
-- d : definition
-- dt : definition translation
+&lt;dg&gt;: **definition group** (ikke obligatorisk), som inneholder:
+- &lt;d&gt; : definition
+- &lt;dt&gt;: definition translation
 
-mg : meaning group (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etterhverandre
+&lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etter hverandre
 
-tg : translation group, innafor mg (denne kan inneholde flere beslektede oversettinger). Det kan være flere tg etter hverandre
-- re : restriction, begrensning av betydninga (hvis nødvending), på norsk
-- t : translation, som kan også være 
+&lt;tg&gt; : **translation group**, innafor mg (denne kan inneholde flere beslektede oversettinger). Denne må inneholde **xml:lang** Det kan være flere tg etter hverandre
+- &lt;re&gt; : **restriction**, begrensning av betydninga (hvis nødvending), på norsk
+- &lt;t&gt; : **translation**, med informasjon om **pos**, men den kan også være 
 --  t_type="expl" - explanation
 --  t_type="phrase" - flere enn ett ord
 
-xg : eksempel group (hver xg inneholder bare ett eksempel)
-- x : eksempel på kildespråk
-- xt : eksempel translation
+&lt;xg&gt; : **example group** (hver xg inneholder bare ett eksempel)
+- &lt;x&gt; : eksempel på kildespråk
+- &lt;xt&gt; : eksempel translation
 
-Etter siste mg, kan det legges til
+Etter siste &lt;mg&gt;, kan det legges til
 
-ig : idiom group, som inneholder
-- i : idiom eller fast uttrykk
-- id : forklaring på kildespråk
-- it : forklaring på målspråk
+&lt;ig&gt; : **idiom group**, som inneholder
+- &lt;i&gt; : idiom eller fast uttrykk
+- &lt;id&gt; : forklaring på kildespråk
+- &lt;it&gt; : forklaring på målspråk
   
 
  
 
 # Redigering i XMLmind
 ## (Windows)
-Navigering i det treet:
--     ctrl+↑ og ctrl+↓
-- ctrl+J (etter)
-- ctrl+H (før)
+Navigering i "treet":
+- ctrl+↑ og ctrl+↓ (opp og ned i hierarkiet)
+- ctrl+J (legger til etter)
+- ctrl+H (legger til før)
 
 Legg til dg (definisjon). Hvis det er flere mg med samme norske oversettelse, må det også legges til dt (translation) 
 
@@ -113,7 +113,7 @@ Vi har litt konservativt språk i eksemplene
 ***
 # KILDER
 
-Kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc., spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
+Det kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc., spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
 Skal dette være en regel?
 
@@ -127,8 +127,7 @@ Gruppering? (slik at en ikke trenger logge hvert enkelt ord)
 SME-> NOB viser bare den vanligste varianten (= lemma) slik som det er nå.
 
 **Konklusjon:**
-Ulike variantformer i samme oppslag,i SME feks
-universitehta (subst.), universiteahtta (subst.) i samme oppslag. Legges inn som variant av lemma, med vN for å kunnne gi riktig bøyningsparadigme. v1 er default for lemma. Dvs at v1 er optional i genereringa, mens v2 osv er obligatoriske.
+Ulike variantformer i samme oppslag, i SME f.eks. universitehta (subst.), universiteahtta (subst.) i samme oppslag. Legges inn som variant av lemma, med vN for å kunnne gi riktig bøyningsparadigme. v1 er default for lemma. Dvs at v1 er optional i genereringa, mens v2 osv. er obligatoriske.
 
     <lg>
       <l pos="N">universitehta</l>
@@ -236,21 +235,21 @@ Vi må bli enige om attributtene.
 Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
 
 
-# Tallord-artikler
+## Tallord-artikler
 - čieža = vuođđolohku 7; sju
 - Diibmu lea čieža. = Klokka er sju.
 - osb.
 - Eksempel med alder, klokke og liknende
 
-# Ordenstall
+## Ordenstall
 
 viđat: nummir 5 muhtun ortnega mielde
 
-# Samlingstall
+## Samlingstall
 
 golmmas: golbma olbmo
 
-# nolla - bare numeral?
+## nolla - bare numeral?
 
 Er nolla/nulla bare numeral?
 
@@ -262,13 +261,13 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 
 **Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
 
-# Fargeord
+## Fargeord
 Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
 mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
 
 Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
 
-# synonymer
+## synonymer
 
 Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
@@ -285,7 +284,11 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 **Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
 
-# Kvinnelig og mannlig
+## antonymer
+
+Hvordan begrense?
+
+## Kvinnelig og mannlig
 Nissonlaš og almmáilaš brukes i ordboka. Eks:
 nissonlaš/almmáilaš stáhtaoaivámuš
 
@@ -375,6 +378,14 @@ máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørf
 
 **Konklusjon**: skrive "biegga mii boahtá máttil". máttil betyr "fra sør", men ifølge Sammallahti kan det også bety "i sør", så ikke helt entydig der...
 
+## adjektiv
+
+Noen eksempler på definisjoner:
+
+alitčalmmat: geas leat alit čalmmit
+
+guhkedáleš: mii lea guhkit go govdat
+
 
 ***
 ***
@@ -384,7 +395,7 @@ máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørf
 **Konklusjon:**
 - Fullstendige setninger starter med stor bokstav, avsluttes med tegnsetting (punktum, spørretegn)
 - Ufullstendige setninger med liten bokstav, uten tegnsetting
-- Unngå parentes i eksempelsetninger
+- Unngå parentes i eksempelsetninger (med mindre bruken er naturlig slik som i "Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).")
 - Eksempelsetningene bør være selvstendige setninger, ikke peke til noe utenfor setningen.
 F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 
@@ -410,6 +421,30 @@ Videre bør alle ord som er brukt i eksempelsetninger (og definisjoner) være me
 
 **Konklusjon:**
 Etter semantikk, grunnbetydninga først, med mindre den er misvisende for brukeren
+
+## metaforisk, abstrakt betydning
+
+På norsk ofte "i overført betydning".
+
+Hvordan markere det? Formulering...
+Skal det være i re?
+
+Forslag:
+- sirdojuvvon mearkkašupmi/mearkkašumis
+- abstrávtalaččat
+- figuratiivvalaččat
+
+
+F.eks. njealječiegat:
+
+1. mas leat njeallje čiega ja njeallje siiddu
+
+2. eahpenjuovžil
+
+Først konkret betydning, så den abstrakte. 
+
+**Konklusjon**: Vanskelig å vurdere hvordan man skal begrense når det skal markeres og når ikke. Når det gjelder formulering, ikke bestemt enda. 
+Risten legger til kommentar ("overført") i XMLmind på de ordene der det er aktuelt å markere overført betydning. Da kan man enkelt finne de ordene i ettertid hvis man har lyst til å legge inn markering på dem.
 
 ## reŋgot
 
@@ -480,6 +515,16 @@ Her er det problemer med md-formatteringa:
 
 OBS: Dette må vi beskrive...
 
+## Iežas dat ferte gámadit.
+
+mo jorgalit dárogillii?
+
+Mearkkašupmi: Olmmoš ferte ieš birget iige galgga vuordit ahte earát veahkehit.
+
+Det er forskjell på om man er i smenob eller nobsme:
+
+i smenob: bare oversette/forklare idiomet til norsk
+i nobsme: da kan man lete etter parallellen/ekvivalenten
 
 
 ***
@@ -550,26 +595,6 @@ oabbá mg2: nissonolbmot daid ektui geain lea seamma/oktasaš beroštumit dahje 
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
 
-## kvartála
-
-Ikke helt fornøyd med definisjonen i mg2. 
-
-kvartála mg1: áigodat mii bistá golbma mánu
-
-kvartála mg2: viessojoavku (gávpogis) man njeallje gáhta birastahttet
-
-
-## Iežas dat ferte gámadit.
-
-mo jorgalit dárogillii?
-
-Mearkkašupmi: Olmmoš ferte ieš birget iige galgga vuordit ahte earát veahkehit.
-
-Det er forskjell på om man er i smenob eller nobsme:
-
-i smenob: bare oversette/forklare idiomet til norsk
-i nobsme: da kan man lete etter parallellen/ekvivalenten
-
 ## Referere til et annet ord i definisjon, og dermed ikke gjenta definisjonen
 
 F.eks. bivttastit mg2:
@@ -608,50 +633,6 @@ F.eks.:
 boadnji: náitalan dievdu / almmáilaš náittosguoibmi
 
 
-## viđadas
-
-Hvordan definere femtedel, fjerdedel osv.?
-
-BOB: hver av fem like deler
-
-NOB: kvar av dei fem jamstore delane som noko kan delast i
-
-NAOB: hver av fem like deler som en helhet kan deles i ; femdel
-
-DK: hver af fem lige store dele som en helhed kan deles op i fx tre femtedele = 3/5
-
-SE: en del av (något som tänks uppdelat i) fem lika stora delar betraktad i relation till helheten
-
-viđadas: juohke dain viđa seamma/ovtta stuoru/stuorra osiin masa/maidda (muhtin) ollisvuohta sáhttá juohkit/juohkásit
-
-## metaforisk, abstrakt betydning
-
-På norsk ofte "i overført betydning".
-
-Hvordan markere det? Formulering...
-Skal det være i re?
-
-Forslag:
-
-sirdojuvvon mearkkašupmi/mearkkašumis
-
-abstrávtalaččat
-
-figuratiivvalaččat
-
-
-F.eks. njealječiegat:
-
-1. mas leat njeallje čiega ja njeallje siiddu
-
-2. eahpenjuovžil
-
-Først konkret betydning, så den abstrakte. 
-
-**Konklusjon**: Vanskelig å vurdere hvordan man skal begrense når det skal markeres og når ikke. Når det gjelder formulering, ikke bestemt enda. 
-Risten legger til kommentar ("overført") i XMLmind på de ordene der det er aktuelt å markere overført betydning. Da kan man enkelt finne de ordene i ettertid hvis man har lyst til å legge inn markering på dem.
-
-
 ## skuvla
 
 I hvilken rekkefølge bør definisjonene være? Synes det er vanskelig å vurdere hvilken som er "grunnbetydninga".
@@ -666,11 +647,6 @@ nuoraidskuvla:
 Når skal det under idiomer og når bare under eksempel?
 
 EKS....
-
-
-## antonymer
-
-Hvordan begrense
 
 
 ## Skal alle varianter legges til i ordboka?
@@ -820,14 +796,6 @@ arvigoahtit: arvi álgá dahje arvvit álget
 
 Bør ha eget dokument for avledninger.
 
-
-## definisjoner formulering
-
-
-álgogeassi: geasi álgooassi
-
-
-
 ## čuohtenáre
 
 čuohtenáre - virker som det er brukt både om "ca. 100" og "hundrevis", men "ca. 100" ser ut til å være den primære bruken. Bør begge betydningene legges til i ordboka?
@@ -846,21 +814,3 @@ Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkás
 
 
 **Konklusjon**: Legg først og fremst inn betydninga som er dokumentert i andre ordbøker. Hvis den andre bruken er omfattende så kan man vurdere å legge det inn med re: (i nyere betydning).
-
-## parenteser
-
-Hvilke regler skal vi ha for parentes i eksempelsetninger? Bør det unngås?
-
-Ášši lea čielggas, vrd. (veardit) sámedikki dieđáhusain. --> nei. Det ville ikke vært naturlig å ha veardit i parentes etter forkortelsen i en "vanlig" setning.
-
-Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6). --> ok. Her er bruken naturlig.
-
-Dan gal lean vajálduhttán.
-Det har jeg (virkelig) glemt.
-
-**Konklusjon**: Fjerne parentesene.
-
-
-
-
-

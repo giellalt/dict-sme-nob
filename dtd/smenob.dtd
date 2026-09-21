@@ -24,7 +24,7 @@
             BergslandMagga | Lagercrantz | nsr | utsi | aj )  #IMPLIED
 >
 
-<!ELEMENT lg (l+, lemma_ref*, lsub*, lc*, analysis*, mini_paradigm*, algu*, orig*) >
+<!ELEMENT lg (l+, lemma_ref*, lsub*, analysis*, mini_paradigm*, algu*, orig*) >
 <!ELEMENT lemma_ref (#PCDATA) > <!-- navigating in static articles -->
 <!ATTLIST lemma_ref lemmaID CDATA #IMPLIED >
 <!ATTLIST lg freq CDATA #IMPLIED >
@@ -47,7 +47,7 @@
             Num | CC | CS | Phrase | fp-cmp ) #REQUIRED
       attr ( no ) #IMPLIED
       id CDATA #IMPLIED
-      nr ( Sg | Du | Pl ) #IMPLIED
+      nr ( Sg | Du | Pl | PlT ) #IMPLIED
       context CDATA #IMPLIED
       type ( Rel | Pers | Indef | Refl | Dem | G3 | G7 | NomAg | Ord
       | Prop | Recipr | Coll | Interr |ACR | ABBR ) #IMPLIED
@@ -115,7 +115,7 @@
 
 <!ELEMENT t (#PCDATA) >
 <!ATTLIST t t_type ( expl | grammarexpl | phrase ) #IMPLIED  >
-<!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
+<!ATTLIST t nr ( Sg | Pl | PlT ) #IMPLIED  >
 <!ATTLIST t pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle | Num | CC | CS | fp-cmp ) #IMPLIED  >
 <!ATTLIST t reg CDATA #IMPLIED >
 <!ATTLIST t country CDATA #IMPLIED >
