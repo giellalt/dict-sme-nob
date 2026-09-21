@@ -9,6 +9,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 - [Redigeringshandbok](redigeringshandbok.md)
 - [Arbeidsplan 2024](arbeidsplan.html)
 - [Testing dict-FSTs ](https://giellalt.github.io/dicts/TestingDictFST.html)
+- [Seminarprogram september 2026](https://giellalt.github.io/dicts/samileks/seminarprogram_2026.html)
 
 
 # Online-sátnegirjjit
@@ -27,9 +28,6 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
    [18.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-03-18.html) 
   
 
-## Workshop: Enspråkiga samiska ordböcker (28.09.-02.10.2026)
-
-[Program](seminarprogram_2026.html)
 
 #  Møtereferat
 
