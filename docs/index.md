@@ -27,8 +27,6 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
    [18.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-03-18.html) 
   
 
-# Seminarer och konferenser
-## 2026:
 ## Workshop: Enspråkiga samiska ordböcker (28.09.-02.10.2026)
 
 [Program](seminarprogram_2026.html)
