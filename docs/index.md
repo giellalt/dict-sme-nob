@@ -1,4 +1,4 @@
-# Documentation for North Sámi ⇒ Norwegian Bokmål
+# Documentation for the North Sámi ⇒ Norwegian Bokmål and monolingual North Sámi dictionary
 
 Please see [this page](https://giellalt.github.io/dicts/) for more general information on how to work with dictionaries, and the various publishing alternatives.
 
@@ -27,15 +27,13 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
    [18.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-03-18.html) 
   
 
-# Leksikografi
-
-## Seminarer och konferenser
-### 2026:
-### Workshop: Enspråkiga samiska ordböcker (28.09.-02.10.2026)
+# Seminarer och konferenser
+## 2026:
+## Workshop: Enspråkiga samiska ordböcker (28.09.-02.10.2026)
 
 [Program](seminarprogram_2026.html)
 
-##  Møtereferat
+#  Møtereferat
 
 - 2026: [16.1.](meetings/260116.html), 
  [05.2.](meetings/260205.html), 
