@@ -13,7 +13,7 @@ Workshop
 
 ## Måndag, 28 september 2026
 
-#### Rum: A 3021
+**Rum: A 3021**
 
 09.00	Elisabeth (alla):
 
@@ -41,7 +41,7 @@ Workshop
 
 ## Tisdag 29 september 2026
 
-#### Rum: A 3021
+**Rum: A 3021**
 
 09.00	Risten: 
 - Status quo för arbetet med den enspråkiga nordsamiska ordboken: Hur föregår arbetet? Första resultat? Utmaningar? osv.
@@ -70,7 +70,7 @@ Trond, Lene:
 
 ## Onsdag 30 september 2026
 
-#### Rum: A 3021
+**Rum: A 3021**
 
 09.00	Trond (Klara):
 -  Skriving av definisjoner, prioritering av lemmaer
@@ -90,7 +90,7 @@ Trond, Lene:
 
 ## Torsdag 1 oktober 2026
 
-#### Rum: A 3021
+**Rum: A 3021**
 09.00	Lene (Klara):
 -  Hur ska vi hantera dialektskillnader?
 -  Diskussion
@@ -106,7 +106,7 @@ Trond, Lene:
 16.00	Avslutning för dagen
 
 ## Fredag 2 oktober 2026
-#### Rum: A 3021
+**Rum: A 3021**
 09.00	Klara: 
 - Presenterar grensesnittet som lexikograferna i Bergen använder för ordboksarbetet
 
