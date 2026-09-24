@@ -32,13 +32,13 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 #  Møtereferat
 
 - 2026: [16.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260116.html)
- [05.2.]https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260205.html), 
- [19.3.]https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260319.html), 
- [26.3.]https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260326.html), 
- [22.6.]https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260622.html), 
- [11.8.]https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260811.html), 
- [28.8.]https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260828.html), 
- [3.9.]https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260903.html), 
+ [05.2.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260205.html), 
+ [19.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260319.html), 
+ [26.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260326.html), 
+ [22.6.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260622.html), 
+ [11.8.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260811.html), 
+ [28.8.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260828.html), 
+ [3.9.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260903.html), 
  [21.9.](meetings/260921.html)
 
 - 2024:
