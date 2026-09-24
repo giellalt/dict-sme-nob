@@ -97,7 +97,7 @@ Trond, Lene:
 
 12.00	Lunch
 
-#### Rum: A 2021 (!)
+<span style="color:red">**Rum: A 2021**</span>
 
 13.00	Praktiskt arbete:
 -  Träna på att skriva definitioner i grensesnittet
