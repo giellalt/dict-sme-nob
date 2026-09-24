@@ -9,7 +9,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 - [Redigeringshandbok](redigeringshandbok.md)
 - [Arbeidsplan 2024](arbeidsplan.html)
 - [Testing dict-FSTs ](https://giellalt.github.io/dicts/TestingDictFST.html)
-- [Seminarprogram september 2026](https://giellalt.github.io/dicts/samileks/seminarprogram_2026.html)
+- [Seminarprogram september 2026](seminarprogram_2026.html)
 
 
 # Online-sátnegirjjit
