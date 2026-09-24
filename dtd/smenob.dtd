@@ -77,7 +77,7 @@
 <!ATTLIST algu
       sanue_id CDATA #REQUIRED >
 
-<!ELEMENT mg (l_ref?, dg?, sg?, antg?, tg+ ) >
+<!ELEMENT mg (l_ref?, re? , dg?, sg?, antg?, tg+ ) >
 <!ATTLIST mg id CDATA #IMPLIED >
 <!ATTLIST mg src CDATA #IMPLIED >
 <!ATTLIST mg c CDATA #IMPLIED > <!-- comment -->
@@ -103,6 +103,10 @@
 <!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
 
+<!ELEMENT re  ( #PCDATA )>
+<!ATTLIST re
+fra_ref CDATA #IMPLIED
+>
 
 
 <!ELEMENT tg (re?,  ( ((t, l_ref?, morph_expl?) ))+, xg* ) >
