@@ -83,7 +83,7 @@ Etter siste &lt;mg&gt;, kan det legges til
  
 
 # Redigering i XMLmind
-## (Windows)
+
 Navigering i "treet":
 - ctrl+↑ og ctrl+↓ (opp og ned i hierarkiet)
 - ctrl+J (legg til etter)
