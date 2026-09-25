@@ -86,8 +86,15 @@ Etter siste &lt;mg&gt;, kan det legges til
 ## (Windows)
 Navigering i "treet":
 - ctrl+↑ og ctrl+↓ (opp og ned i hierarkiet)
-- ctrl+J (legger til etter)
-- ctrl+H (legger til før)
+- ctrl+J (legg til etter)
+- ctrl+H (legg til før på Windows)
+- ctrl+B (legg til før på Mac)
+- ctrl+E (legg til attributt)
+- ctrl+C (kopier)
+- ctrl+V (lim inn)
+- ctrl+Z (angre)
+- ctrl+S (lagre)
+
 
 Legg til dg (definisjon). Hvis det er flere mg med samme norske oversettelse, må det også legges til dt (translation) 
 
