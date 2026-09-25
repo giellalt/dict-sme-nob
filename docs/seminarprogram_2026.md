@@ -19,8 +19,8 @@ Workshop
 
  -  Introduktion, bli kända med varandra: alla får 5 min för att presentera sig
 
-10.00 - 10.30 Instituttleiinga
-- Vi får instituttleiinga på besøk og presenterer oss.
+10.00 Instituttsledelsen (alla)
+- Institutsledelsen kommer på besøk och vi presenterar oss
 
 10.30	Trond, Lene: 
 - Introduktion i NDS infrastruktur
@@ -108,6 +108,7 @@ Trond, Lene:
 
 ## Fredag 2 oktober 2026
 **Rum: A 3021**
+
 09.00	Klara: 
 - Presenterar grensesnittet som lexikograferna i Bergen använder för ordboksarbetet
 
