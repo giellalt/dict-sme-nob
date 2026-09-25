@@ -87,7 +87,7 @@ Trond, Lene:
 
 16.00	Avslutning för dagen
 
-18.00	Middag
+18.00	Middag i "Mathallen" (Grønnegata 60 i Tromsø centrum)
 
 ## Torsdag 1 oktober 2026
 
