@@ -20,7 +20,7 @@ Workshop
  -  Introduktion, bli kända med varandra: alla får 5 min för att presentera sig
 
 10.00 Instituttsledelsen (alla)
-- Institutsledelsen kommer på besøk och vi presenterar oss
+- Instituttsledelsen kommer på besøk och vi presenterar oss
 
 10.30	Trond, Lene: 
 - Introduktion i NDS infrastruktur
