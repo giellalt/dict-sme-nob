@@ -45,23 +45,28 @@ Vi må se på dtd for
 
 # xml-strukturen og terminologien vi bruker 
 
-&lt;e&gt; : **entry** (hovedelementet med all informasjon til hvert lemma)
+&lt;e&gt; : **entry** (hovedelementet med all informasjon til hvert lemma. 
+Vi skiller mellom lemmaer som har forskjellig etymologi f.eks. vuovdi (skog) -- vuovdi (selger) og  busse (buss) -- busse (pose))
 
 &lt;lg&gt; : **lemma group** 
-- &lt;l&gt; : lemma, med informasjon om **pos** (Part of Speech)
+- &lt;l&gt; : lemma, med informasjon om **pos** (Part of Speech). Vi legger til attributt for å skille mellom homonyme lemmaer, med NomAg, f.eks. vuovdi (skog) og vuovdi NomAg (selger), eller G3, f.eks. vuorri (omgang) og vuorri G3 (fisk). Hvis homonymene har samme morfologi, bruker vi id=1, id=2, f.eks. busse (buss) og busse (pose)). H
+
 - &lt;algu&gt; : informasjon til algu-databasen (legges til av programmerer)
 
 &lt;dg&gt;: **definition group** (ikke obligatorisk), som inneholder:
 - &lt;d&gt; : definition
 - &lt;dt&gt;: definition translation
 
-&lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etter hverandre
+&lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etter hverandre. mg er for betydningsforskjeller (som begrunnes i kildespråket??). Ved flere meninggroups må det skrives en
+
+&lt;re&gt; : **restriction**, begrensning av betydninga, på norsk
+
 
 &lt;tg&gt; : **translation group**, innafor mg (denne kan inneholde flere beslektede oversettinger). Denne må inneholde **xml:lang** Det kan være flere tg etter hverandre
 - &lt;re&gt; : **restriction**, begrensning av betydninga (hvis nødvending), på norsk
 - &lt;t&gt; : **translation**, med informasjon om **pos**, men den kan også være 
 --  t_type="expl" - explanation
---  t_type="phrase" - flere enn ett ord
+--  t_type="phrase" - flere enn ett ord. Synonymer legges som flere &lt;t&gt; i samme &lt;tg&gt;
 
 &lt;xg&gt; : **example group** (hver xg inneholder bare ett eksempel)
 - &lt;x&gt; : eksempel på kildespråk
@@ -78,11 +83,18 @@ Etter siste &lt;mg&gt;, kan det legges til
  
 
 # Redigering i XMLmind
-## (Windows)
+
 Navigering i "treet":
 - ctrl+↑ og ctrl+↓ (opp og ned i hierarkiet)
-- ctrl+J (legger til etter)
-- ctrl+H (legger til før)
+- ctrl+J (legg til etter)
+- ctrl+H (legg til før på Windows)
+- ctrl+B (legg til før på Mac)
+- ctrl+E (legg til attributt)
+- ctrl+C (kopier)
+- ctrl+V (lim inn)
+- ctrl+Z (angre)
+- ctrl+S (lagre)
+
 
 Legg til dg (definisjon). Hvis det er flere mg med samme norske oversettelse, må det også legges til dt (translation) 
 
