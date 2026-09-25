@@ -8,7 +8,7 @@ Workshop
 ### UiT Tromsø
 
 
-# Preliminärt Program
+# Program
 
 
 ## Måndag, 28 september 2026
