@@ -19,13 +19,14 @@ Workshop
 
  -  Introduktion, bli kända med varandra: alla får 5 min för att presentera sig
 
-10.00	Trond, Lene: 
+10.00 - 10.30 Instituttleiinga
+- Vi får instituttleiinga på besøk og presenterer oss.
+
+10.30	Trond, Lene: 
 - Introduktion i NDS infrastruktur
 - Smart teknisk bruk av SIKOR (Korp) 
+- Tekniske spørmål om XML-mind (Trond, Anders, Flammie)
 
-
-11.00	Trond, Anders, Flammie: 
-- Installerar XML-mind på alla nya medarbetares datormaskiner
 
 12.00	Lunch
 
