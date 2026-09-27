@@ -103,8 +103,6 @@
 <!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
 
-<!ELEMENT re (#PCDATA) >
-
 
 <!ELEMENT tg (re?,  ( ((t, l_ref?, morph_expl?) ))+, xg* ) >
 <!ATTLIST tg
