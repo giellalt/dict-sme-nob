@@ -1695,20 +1695,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="mun" pos="V">skielgut</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="phrase">se skjevt på</t>
-            <xg>
-               <x>Dan dihte olbmot leat skilgon midjiide.</x>
-               <xt>På grunn av dette har folk sett skjevt på oss.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l context="mun" pos="V">spáppastallat</l>
       </lg>
       <mg>
@@ -3866,7 +3852,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg freq="207">
          <l context="mun" pos="V">vikkahit</l>
-	 <!--         <l context="mun" pos="V">fikkahit</l>
+         <!--         <l context="mun" pos="V">fikkahit</l>
 	      make -f bildict
      does not axxept two lemmas. TODO: FIX -->
       </lg>
@@ -22959,7 +22945,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om ed</re>
+            <re>om ed</re>
             <t pos="V">avlegge</t>
             <xg>
                <x>Gonagas vuortnui váli Vuođđoláhkii allamenolaš seremoniijas Stuoradikkis.</x>
@@ -24073,7 +24059,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg freq="21">
-         <l context="mun" pos="V">čiktit</l>
+         <l context="mun" id="1" pos="V">čiktit</l>
          <algu lekseemi_id="63869" sanue_id="47177"/>
       </lg>
       <mg>
@@ -24084,7 +24070,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg freq="21">
-         <l context="mun" pos="V">čiktit</l>
+         <l context="mun" id="2" pos="V">čiktit</l>
          <algu lekseemi_id="14375" sanue_id="5471"/>
       </lg>
       <mg>
