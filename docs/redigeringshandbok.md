@@ -127,7 +127,7 @@ Vi har litt konservativt språk i eksemplene
 
 Det kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc., spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
-Skal dette være en regel?
+Skal dette være en regel???
 
 ***
 ***
@@ -155,7 +155,7 @@ i ordbøkene oversatt som manus/manuskript, til forskjell fra giehtačála (hån
 Men det er mange eksempler i korpus der det er brukt med betydninga håndskrift.
 
 
-giehtačálus / giehtačála
+###giehtačálus / giehtačála
 
 for giehtačálus
 
@@ -190,7 +190,7 @@ For å markere at et ord er "uheldig":
 Hvis man er usikker på om man skal legge til l_pref eller ikke, så kan man legge til en kommentar i xml.
 
 
-## oktonaseadni, muhto oktováhnen
+### oktonaseadni, muhto oktováhnen
 
 SIKOR:
 oktonaseadni: 1
@@ -210,31 +210,8 @@ Hvis den ene er tvilsom, kan man vurdere å innføre 'bruk heller'-element, ala 
 
 Disse tingene bør diskuteres når det dukker opp slike ord.
 
-
-# Avledninger
-
-## Informasjon om avledning
-
-**Konklusjon:**
-Vi gir informasjon om at lemma er en avledning slik i lemmagroup lg i elementet orig:
-*borrat + suorggis -dit*   (med lenke)
-
-## Homonymi med forskjellige avledninger
-
-Hvis det er homonymi mellom to forskjellige avledninger, skal det føres som to forskjellige lemmaer eller som to betydninger (mg)? 
-
-Eks. 
-*borahit* (kausativ, tar objekt, betyr å gi andre mat)
-*borahit* (refleksiv, tar ikke objekt, betyr å spise på seg selv)
-
-I andre samiske ordbøker behandles disse som to lemmaer
-
-For begge vil opphav være *borrat + suorggis -dit* 
-Hvis man på et seinere tidspunkt ønsker å gå mer informasjon, evt lenke til avledningstypen, vil det ikke være det samme for disse to, og det kan også være et argument for å føre dem som to lemmaer.
-
-**Konklusjon:**
-???
-
+***
+***
 
 # Språklig variasjon i lemma og betydning
 
@@ -243,41 +220,14 @@ Vi bruker to parametre, som attributter:
 - Dialektvariasjon (østlig, vestlig, tornesamisk, sjøsamisk)
 - Variasjon mellom ulike administrative organisasjoner (land Norge, Sverige, Finland)
 
-Vi må bli enige om attributtene.
+Vi må bli enige om attributtene.???
 Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
 
-
-## Tallord-artikler
-- čieža = vuođđolohku 7; sju
-- Diibmu lea čieža. = Klokka er sju.
-- osb.
-- Eksempel med alder, klokke og liknende
-
-## Ordenstall
-
-viđat: nummir 5 muhtun ortnega mielde
-
-## Samlingstall
-
-golmmas: golbma olbmo
-
-## nolla - bare numeral?
-
-Er nolla/nulla bare numeral?
-
-	Lean duhtavaš go doallat nulla, čiekčan livččii sáhttán mannat goappeš guvlui.
+***
+***
 
 
-Samme med miljárda, miljovdna, duhát osv.
-I BOB er f.eks. "tusen" både substantiv og kvantor.
-
-**Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
-
-## Fargeord
-Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
-mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
-
-Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
+# Synonymer og antonymer
 
 ## synonymer
 
@@ -300,9 +250,35 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 Hvordan begrense?
 
-## Kvinnelig og mannlig
-Nissonlaš og almmáilaš brukes i ordboka. Eks:
-nissonlaš/almmáilaš stáhtaoaivámuš
+***
+***
+
+# Avledninger
+
+## Informasjon om avledning
+
+**Konklusjon:**
+Vi gir informasjon om at lemma er en avledning slik i lemmagroup lg i elementet orig:
+*borrat + suorggis -dit*   (med lenke)
+
+## Homonymi med forskjellige avledninger
+
+Hvis det er homonymi mellom to forskjellige avledninger, skal det føres som to forskjellige lemmaer eller som to betydninger (mg)? 
+
+Eks. 
+*borahit* (kausativ, tar objekt, betyr å gi andre mat)
+*borahit* (refleksiv, tar ikke objekt, betyr å spise på seg selv)
+
+I andre samiske ordbøker behandles disse som to lemmaer
+
+For begge vil opphav være *borrat + suorggis -hit* 
+Hvis man på et seinere tidspunkt ønsker å gå mer informasjon, evt lenke til avledningstypen, vil det ikke være det samme for disse to, og det kan også være et argument for å føre dem som to lemmaer.
+
+**Konklusjon:**
+???
+
+***
+***
 
 # Referere til andre ord
 For eksempel jamfør og til forskjell fra... på norsk, 
@@ -321,6 +297,49 @@ motsatt...f.eks. høyre/venstre - nuppegežiid?
 
 som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ... 
 
+
+***
+***
+
+
+#MØNSTER FOR ARTIKLER
+
+## Tallord-artikler
+- čieža = vuođđolohku 7; sju
+- Diibmu lea čieža. = Klokka er sju.
+- osb.
+- Eksempel med alder, klokke og liknende
+
+### Ordenstall
+
+viđat: nummir 5 muhtun ortnega mielde
+
+### Samlingstall
+
+golmmas: golbma olbmo
+
+### nolla - bare numeral?
+
+Er nolla/nulla bare numeral?
+
+	Lean duhtavaš go doallat nulla, čiekčan livččii sáhttán mannat goappeš guvlui.
+
+
+Samme med miljárda, miljovdna, duhát osv.
+I BOB er f.eks. "tusen" både substantiv og kvantor.
+
+**Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
+
+## Fargeord
+Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
+mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
+
+Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
+
+
+## Kvinnelig og mannlig
+Nissonlaš og almmáilaš brukes i ordboka. Eks:
+nissonlaš/almmáilaš stáhtaoaivámuš
 
 
 
