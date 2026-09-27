@@ -20531,7 +20531,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">potte</t>
-            <t pos="N">nattpotte</t>
          </tg>
       </mg>
    </e>
@@ -36094,7 +36093,7 @@
    </e>
    <e>
       <lg freq="5093">
-         <l pos="N">luohkká</l>
+         <l id="3" pos="N">luohkká</l>
          <algu lekseemi_id="81166" sanue_id="20098"/>
       </lg>
       <mg>
@@ -50681,7 +50680,6 @@
          <algu lekseemi_id="13945" sanue_id="5383"/>
       </lg>
       <mg>
-         <re>fugl</re>
          <tg xml:lang="nob">
             <t pos="N">hakkespett</t>
          </tg>
@@ -50698,7 +50696,6 @@
          <algu lekseemi_id="13944" sanue_id="5377"/>
       </lg>
       <mg>
-         <re>pigmentflekk</re>
          <tg xml:lang="nob">
             <t pos="N">fregne</t>
          </tg>
@@ -262800,7 +262797,6 @@
          <algu lekseemi_id="19980" sanue_id="26422"/>
       </lg>
       <mg>
-         <re>beholder</re>
          <tg xml:lang="nob">
             <t pos="N">pose</t>
          </tg>
@@ -262813,7 +262809,6 @@
       </lg>
       <mg>
          <dg>
-            <re>kjøretøy</re>
             <d>stuorit mohtorfievru (mii ii jođe ruovdemáđii mielde) mas lea sadji máŋga mátkkošteddjiide</d>
          </dg>
          <tg xml:lang="nob">
@@ -279736,7 +279731,7 @@
    </e>
    <e src="fad">
       <lg freq="2">
-         <l pos="N" nr="PlT">bellodatduorggat</l>
+         <l nr="PlT" pos="N">bellodatduorggat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279746,7 +279741,7 @@
    </e>
    <e src="fad">
       <lg freq="0">
-         <l pos="N" nr="PlT">dutkansearat</l>
+         <l nr="PlT" pos="N">dutkansearat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279756,7 +279751,7 @@
    </e>
    <e src="fad">
       <lg freq="43">
-         <l pos="N" nr="PlT">valáštallandoalut</l>
+         <l nr="PlT" pos="N">valáštallandoalut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279766,7 +279761,7 @@
    </e>
    <e src="fad">
       <lg freq="10">
-         <l pos="N" nr="PlT">musihkkariemut</l>
+         <l nr="PlT" pos="N">musihkkariemut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279776,7 +279771,7 @@
    </e>
    <e src="fad">
       <lg freq="17">
-         <l pos="N" nr="PlT">seaŋgagávnnit</l>
+         <l nr="PlT" pos="N">seaŋgagávnnit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279786,7 +279781,7 @@
    </e>
    <e src="fad">
       <lg freq="5">
-         <l pos="N" nr="PlT">konfirmašundoalut</l>
+         <l nr="PlT" pos="N">konfirmašundoalut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279797,7 +279792,7 @@
    </e>
    <e src="fad">
       <lg freq="4">
-         <l pos="N" nr="PlT">dutkkalmasat</l>
+         <l nr="PlT" pos="N">dutkkalmasat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279807,7 +279802,7 @@
    </e>
    <e src="fad">
       <lg freq="27">
-         <l pos="N" nr="PlT">čoakkálmasat</l>
+         <l nr="PlT" pos="N">čoakkálmasat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279818,7 +279813,7 @@
    </e>
    <e>
       <lg freq="76">
-         <l pos="N" nr="PlT">čoakkalmasat</l>
+         <l nr="PlT" pos="N">čoakkalmasat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279829,7 +279824,7 @@
    </e>
    <e src="fad">
       <lg freq="46">
-         <l pos="N" nr="PlT">čállinmearkkat</l>
+         <l nr="PlT" pos="N">čállinmearkkat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279839,7 +279834,7 @@
    </e>
    <e src="fad">
       <lg freq="15">
-         <l pos="N" nr="PlT">mátkkoštangolut</l>
+         <l nr="PlT" pos="N">mátkkoštangolut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279849,7 +279844,7 @@
    </e>
    <e src="fad">
       <lg freq="60">
-         <l pos="N" nr="PlT">jáffut</l>
+         <l nr="PlT" pos="N">jáffut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -279858,5 +279853,6 @@
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"/>
+   <xhtml:script src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>
