@@ -103,18 +103,15 @@
 <!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
 
-<!ELEMENT re  ( #PCDATA )>
-<!ATTLIST re
-fra_ref CDATA #IMPLIED
->
+<!ELEMENT re (#PCDATA) >
 
 
 <!ELEMENT tg (re?,  ( ((t, l_ref?, morph_expl?) ))+, xg* ) >
 <!ATTLIST tg
       xml:lang ( nob ) #REQUIRED
-      check CDATA #IMPLIED
->
-<!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
+      check CDATA #IMPLIED >
+
+<!ELEMENT re (#PCDATA) >
 <!ATTLIST re x ( fad ) #IMPLIED >
 
 <!ELEMENT t (#PCDATA) >
