@@ -30,14 +30,7 @@ Vi må se på dtd for
 - varianter (v1, v2 osv)
 - ordavledninger
 - source
-- antonymer (flere typer antonymer). Hva skal være med? Her fra Fjeld og Vikør 6. kap:
--- kontradiktorisk motsetning (enten/eller), f.eks. gift ugift
--- kontrær motsetning,
---- artsmotsetning, f.eks. mann kvinne, hane høne
---- gradsmotsetning, de kan sammenliknes, f.eks. varm kald, tom full
---- konvers motsetning, to forskjellige perspektiver på samme sak, f.eks. kjøpe selge, gi få, mor barn, ektemann hustru
---- kompletterende motsetning, handling som naturlig følges av en annen, f.eks. spørsmål svar, angrep forsvar, snakke lytte
-
+- antonymer 
 ***
 ***
 
@@ -233,15 +226,15 @@ Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
 
 Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
-1. nolla - nulla (ort.) --> ikke synonym
+1. nolla - nulla (ort.) --> ikke synonym, men ortografiske varianter
 
-2. buđetnjuvddus - buđetmeastu (delvis annet ord) --> bør sette inn synonym
+2. buđetnjuvddus - buđetmeastu  --> bør sette inn synonym
 
 3. čalbmálagaid - njunnálagaid --> bør være synonym
 
 4. árga - árgabeaivi --> bør sette inn synonym
 
-5. áhkku - muore (dialekt, ganske ulikt)
+5. áhkku - muore (dialekt)
 
 
 **Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
@@ -249,6 +242,14 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 ## antonymer
 
 Hvordan begrense?
+
+Flere typer antonymer. Hva skal være med? Her fra Fjeld og Vikør 6. kap:
+-- kontradiktorisk motsetning (enten/eller), f.eks. gift ugift
+-- kontrær motsetning,
+--- artsmotsetning, f.eks. mann kvinne, hane høne
+--- gradsmotsetning, de kan sammenliknes, f.eks. varm kald, tom full
+--- konvers motsetning, to forskjellige perspektiver på samme sak, f.eks. kjøpe selge, gi få, mor barn, ektemann hustru
+--- kompletterende motsetning, handling som naturlig følges av en annen, f.eks. spørsmål svar, angrep forsvar, snakke lytte
 
 ***
 ***
