@@ -53,18 +53,27 @@ Vi skiller mellom lemmaer som har forskjellig etymologi f.eks. vuovdi (skog) -- 
 
 - &lt;algu&gt; : informasjon til algu-databasen (legges til av programmerer)
 
-&lt;dg&gt;: **definition group** (ikke obligatorisk), som inneholder:
-- &lt;d&gt; : definition
-- &lt;dt&gt;: definition translation
+
 
 &lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etter hverandre. mg er for betydningsforskjeller (som begrunnes i kildespråket??). Ved flere meninggroups må det skrives en
 
 &lt;re&gt; : **restriction**, begrensning av betydninga, på norsk
 
+&lt;dg&gt;: **definition group** (ikke obligatorisk), som inneholder:
+- &lt;d&gt; : definition
+- &lt;dt&gt;: definition translation (Hvis det er flere mg med samme norske oversettelse, må det også legges til dt) 
+
+
+&lt;sg&gt;: **synonym group** (ikke obligatorisk), som inneholder en eller flere:
+- &lt;s&gt; : synonym
+
+&lt;antg&gt;: **antonym group** (ikke obligatorisk), som inneholder en eller flere:
+- &lt;ant&gt; : synonym
+
 
 &lt;tg&gt; : **translation group**, innafor mg (denne kan inneholde flere beslektede oversettinger). Denne må inneholde **xml:lang** Det kan være flere tg etter hverandre
 - &lt;re&gt; : **restriction**, begrensning av betydninga (hvis nødvending), på norsk
-- &lt;t&gt; : **translation**, med informasjon om **pos**, men den kan også være 
+- &lt;t&gt; : **translation**, Legg til **pos**, men den kan også være 
 --  t_type="expl" - explanation
 --  t_type="phrase" - flere enn ett ord. Synonymer legges som flere &lt;t&gt; i samme &lt;tg&gt;
 
@@ -85,28 +94,17 @@ Etter siste &lt;mg&gt;, kan det legges til
 # Redigering i XMLmind
 
 Navigering i "treet":
-| Funksjon | Mac | Windows |
-|---|---|---|
-| Opp i hierarkiet | cmd+↑ | ctrl+↑ |
-| Ned i hierarkiet | cmd+↓ | ctrl+↓ |
-| Legg til etter | cmd+J | ctrl+J |
-| Legg til før | cmd+B | ctrl+H |
-| Legg til attributt | cmd+E | ctrl+E |
-| Kopier | cmd+C | ctrl+C |
-| Lim inn | cmd+V | ctrl+V |
-| Angre | cmd+Z | ctrl+Z |
-| Lagre | cmd+S | ctrl+S |
-
-
-Legg til dg (definisjon). Hvis det er flere mg med samme norske oversettelse, må det også legges til dt (translation) 
-
-Legg til xg (eksempel)
-
-Husk å velge pos og xml:lang
-
-Synonymer legges til i sg, antonymer i antg
-
-Eventuelle idiomer legges til i ig, oversettelse i it
+| Funksjon | Mac | Windows | Lenes huskeregler |
+|---|---|---|---|
+| Opp i hierarkiet | cmd+↑ | ctrl+↑ | |
+| Ned i hierarkiet | cmd+↓ | ctrl+↓ | |
+| Legg til etter | cmd+J | ctrl+J | Jälkeen |
+| Legg til før | cmd+B | ctrl+H | Before |
+| Legg til attributt | cmd+E | ctrl+E | Expand |
+| Kopier | cmd+C | ctrl+C | Copy |
+| Lim inn | cmd+V | ctrl+V | Vlim inn :-) |
+| Angre | cmd+Z | ctrl+Z |  |
+| Lagre | cmd+S | ctrl+S | Save |
 
 
 
