@@ -17,7 +17,7 @@ Skriv ned her etter kvart.
 - Luft mellom mg-ane
 – eksempelsetninger bør være i mindre font
 
-# Genering av flere ordbøker fra samme kildekode
+# Generering av flere ordbøker fra samme kildekode
 Fra samme kildekode kan vi generere forskjellige ordbøker:
 
 Tospråklige: Samisk-norsk (samisk-finsk)
@@ -303,23 +303,6 @@ som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ...
 ***
 ***
 
-
-#MØNSTER FOR ARTIKLER
-
-## Tallord-artikler
-- čieža = vuođđolohku 7; sju
-- Diibmu lea čieža. = Klokka er sju.
-- osb.
-- Eksempel med alder, klokke og liknende
-
-### Ordenstall
-
-viđat: nummir 5 muhtun ortnega mielde
-
-### Samlingstall
-
-golmmas: golbma olbmo
-
 ### nolla - bare numeral?
 
 Er nolla/nulla bare numeral?
@@ -349,20 +332,29 @@ nissonlaš/almmáilaš stáhtaoaivámuš
 ***
 # DEFINISJONER
 
-**Konklusjon:**
 Realdefinisjon + eventuelle synonym
 - Unngå 2.person i definisjonene
 - Unngå skråstrek 
 
-## parentes
-har bestemte roller for å framheve strukturen (f.eks. i re)
-kan bruke parentes i definisjoner, f.eks:
+## Parentes
+Man kan bruke parentes i definisjoner for å vise til noe prototypisk men som ikke er obligatorisk, f.eks:
 *(njealječiegat) breahtta dahje pláhta mii geavahuvvo lávdespeallamii*
-
 
 Enn så lenge de samiske definisjonene ikke vises på nettsida:
 Hvis et ord har flere dg-er i sme, legg også til dt (oversettelse til norsk). Dette for å unngå forvirring om hvorfor et ord er listet opp flere ganger i ordboka. 
 
+#MØNSTER FOR DEFINISJONER
+
+## Tallord-artikler
+- čieža = vuođđolohku 7; sju
+
+### Ordenstall
+
+viđat: nummir 5 muhtun ortnega mielde
+
+### Samlingstall
+
+golmmas: golbma olbmo
 ## samme definisjon
 
 f.eks.
@@ -378,13 +370,11 @@ i BOB er det gjort slik: *tomannshus* har bare en lenke til *tomannsbolig*
 
 ## oaniduvvon
 
-Er det greit å skrive "oaniduvvon" for "forkortet":
+"oaniduvvon" kan brukes som på norsk "forkortet":
 
 miljovdna:
 
 	vuođđolohku 1 000 000, oaniduvvon milj.
-
-**Konklusjon**: "oaniduvvon" lea ok.
 
 ## Gjennomsiktighet i definisjoner
 
@@ -399,7 +389,7 @@ F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
 
 **Konklusjon**: Sammensatte ord: man trenger ikke å definere hvert av ordene på nytt.
 
-3 er nok best i dette tilfellet.
+Nummer 3 er nok best i dette tilfellet.
 
 ## biegga
 
@@ -413,6 +403,8 @@ máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørf
 
 ## adjektiv
 
+**Konklusjon**: greit å bruke relativpronomen mii/gii i definisjoner. Det er det vi har blitt enige om per nå.
+
 Noen eksempler på definisjoner:
 
 alitčalmmat: geas leat alit čalmmit
@@ -420,34 +412,6 @@ alitčalmmat: geas leat alit čalmmit
 guhkedáleš: mii lea guhkit go govdat
 
 
-***
-***
-# EKSEMPELSETNINGER
-
-## Formelt
-**Konklusjon:**
-- Fullstendige setninger starter med stor bokstav, avsluttes med tegnsetting (punktum, spørretegn)
-- Ufullstendige setninger med liten bokstav, uten tegnsetting
-- Unngå parentes i eksempelsetninger (med mindre bruken er naturlig slik som i "Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).")
-- Eksempelsetningene bør være selvstendige setninger, ikke peke til noe utenfor setningen.
-F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
-
-
-## Språkleg
-**Konklusjon:**
-- Gjerne autentiske, men de bør kuttes ned, fjerne 'støy' i setninga
-- Første eksempelsetning bør være typisk bruk av ordet
-- Vis reksjon, bruk substantiv for å vise kasusbruk
-- Bruk generiske substantiv (gutten, dama...) og pronomen, ikkje eigennamn
-- Bør være nøytrale: Unngå stedsnavn, religion, visse grupper - stigmatisering, stereotyper, etc
-- for man/en: bruk f.eks. *olmmoš, dievdoolmmoš, nissonolmmoš*
-
-
-Videre bør alle ord som er brukt i eksempelsetninger (og definisjoner) være med i ordboka. Legg derfor til ord hvis du ser det mangler.
-
-
-***
-***
 # FLERE BETYDNINGER (mg)
 
 ## I hvilken rekkefølge skal ulike betydninger være?  
@@ -506,7 +470,37 @@ Så grunnregelen blir at man har den intransitive betydninga som mg1, med mindre
 
 ***
 ***
-# OVERSETTINGER
+
+# EKSEMPELSETNINGER
+
+## Formelt
+**Konklusjon:**
+- Fullstendige setninger starter med stor bokstav, avsluttes med tegnsetting (punktum, spørretegn)
+- Ufullstendige setninger med liten bokstav, uten tegnsetting
+- Unngå parentes i eksempelsetninger (med mindre bruken er naturlig slik som i "Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).")
+- Eksempelsetningene bør være selvstendige setninger, ikke peke til noe utenfor setningen.
+F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
+
+
+## Språkleg
+**Konklusjon:**
+- Gjerne autentiske, men de bør kuttes ned, fjerne 'støy' i setninga
+- Første eksempelsetning bør være typisk bruk av ordet
+- Vis reksjon, bruk substantiv for å vise kasusbruk
+- Bruk generiske substantiv (gutten, dama...) og pronomen, ikkje eigennamn
+- Bør være nøytrale: Unngå stedsnavn, religion, visse grupper - stigmatisering, stereotyper, etc
+- for man/en: bruk f.eks. *olmmoš, dievdoolmmoš, nissonolmmoš*
+
+
+Videre bør alle ord som er brukt i eksempelsetninger (og definisjoner) være med i ordboka. Legg derfor til ord hvis du ser det mangler.
+
+
+# Tallord
+- Diibmu lea čieža. = Klokka er sju.
+- osb.
+- Eksempel med alder, klokke og liknende
+
+# OVERSETTINGER AV EKSEMPLER
 
 
 ## Hvor idiomatiske skal oversettelsene være?
@@ -559,6 +553,11 @@ Det er forskjell på om man er i smenob eller nobsme:
 i smenob: bare oversette/forklare idiomet til norsk
 i nobsme: da kan man lete etter parallellen/ekvivalenten
 
+## idiomer, faste uttrykk
+
+Når skal det under idiomer og når bare under eksempel?
+
+EKS....
 
 ***
 ***
@@ -624,6 +623,12 @@ BOB ("bror"): særlig i flertall: mann eller folk i forhold til person(er) av an
 
 oabbá mg2: nissonolbmot daid ektui geain lea seamma/oktasaš beroštumit dahje ...
 
+## perspektiv i def
+
+F.eks.:
+
+boadnji: náitalan dievdu / almmáilaš náittosguoibmi
+
 ***
 ***
 # DIVERSE NOTATER, bør redigeres eller fjernes
@@ -659,12 +664,6 @@ Et annet spm er om man skal legge til eksempler, ord som ofte brukes med verbet:
 
 vuoidat bihkain (omd. fátnasa ja sabehiid)
 
-## perspektiv i def
-
-F.eks.:
-
-boadnji: náitalan dievdu / almmáilaš náittosguoibmi
-
 
 ## skuvla
 
@@ -673,13 +672,6 @@ I hvilken rekkefølge bør definisjonene være? Synes det er vanskelig å vurder
 nuoraidskuvla: 
 1. gávccát gitta logát ceahki vuođđoskuvllas 
 2. nuoraidskuvlla visti
-
-
-## idiomer, faste uttrykk
-
-Når skal det under idiomer og når bare under eksempel?
-
-EKS....
 
 
 ## Skal alle varianter legges til i ordboka?
@@ -773,32 +765,12 @@ Og i så fall, hvilket skilletegn skal man ha mellom definisjonene? Semikolon?
 
 
 ## adjektiver definisjoner formulering
-
-Ser at jeg har skrevet noen av definisjonene med "mii" eller "gii", f.eks.:
-	
-	mii lea guhkit go govdat 
-
-Men bør vel kanskje heller være
-	
-	lea guhkit go govdat
-
-?
-
-
-
-
-Men hva med et ord som alitčalmmat:
-
-	geas leat alit čalmmit
-
-Bør det skrives
-
-	leat alit čalmmit
-
-?
-
-
 **Konklusjon**: greit å bruke mii/gii i definisjoner.
+
+alitčalmmat: geas leat alit čalmmit
+
+guhkedáleš: mii lea guhkit go govdat
+
 
 
 Hadde også vært interessant å ta dette opp med Klara Sjo. Se f.eks. frekk, vennlig... i BOB.
