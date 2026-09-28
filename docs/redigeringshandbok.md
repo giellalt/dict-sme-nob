@@ -182,6 +182,38 @@ For å markere at et ord er "uheldig":
 
 Hvis man er usikker på om man skal legge til l_pref eller ikke, så kan man legge til en kommentar i xml.
 
+***
+***
+
+### nolla - bare numeral?
+
+Er nolla/nulla bare numeral?
+
+	Lean duhtavaš go doallat nulla, čiekčan livččii sáhttán mannat goappeš guvlui.
+
+
+Samme med miljárda, miljovdna, duhát osv.
+I BOB er f.eks. "tusen" både substantiv og kvantor.
+
+**Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
+
+## sammensetninger: 
+- áddjá, eadni, jna.
+- eadni: eatnibellodat, eatniorganisašuvdna,
+
+**Konklusjon:**
+(hvis produktivt): brukt som forledd..., pluss eks
+*geavahuvvo goallossániid mearusin ....*
+
+
+## noaord, tabuord: 
+áddjá: guovža (buddosnamma - tabuord)
+
+**Konklusjon:**
+    áddjá: guovža som egen <mg>
+
+
+
 
 ### oktonaseadni, muhto oktováhnen
 
@@ -278,53 +310,6 @@ Hvis man på et seinere tidspunkt ønsker å gå mer informasjon, evt lenke til 
 **Konklusjon:**
 ???
 
-***
-***
-
-# Referere til andre ord
-For eksempel jamfør og til forskjell fra... på norsk, 
-
-På samisk geahča eller gč., evt. jamfør = vrd. + komitatiiva (= veardádala)
-
-Eller legge til i l_ref?
-
-mii earuha + LOK (til forskjell fra) ??
-evt. mii fas earuha + AKK + LOK
-
-Eks: 
-.. mii fas earuha giehtasealggi giehtaváimmus
-
-motsatt...f.eks. høyre/venstre - nuppegežiid?
-
-som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ... 
-
-
-***
-***
-
-### nolla - bare numeral?
-
-Er nolla/nulla bare numeral?
-
-	Lean duhtavaš go doallat nulla, čiekčan livččii sáhttán mannat goappeš guvlui.
-
-
-Samme med miljárda, miljovdna, duhát osv.
-I BOB er f.eks. "tusen" både substantiv og kvantor.
-
-**Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
-
-## Fargeord
-Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
-mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
-
-Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
-
-
-## Kvinnelig og mannlig
-Nissonlaš og almmáilaš brukes i ordboka. Eks:
-nissonlaš/almmáilaš stáhtaoaivámuš
-
 
 
 ***
@@ -342,18 +327,6 @@ Man kan bruke parentes i definisjoner for å vise til noe prototypisk men som ik
 Enn så lenge de samiske definisjonene ikke vises på nettsida:
 Hvis et ord har flere dg-er i sme, legg også til dt (oversettelse til norsk). Dette for å unngå forvirring om hvorfor et ord er listet opp flere ganger i ordboka. 
 
-#MØNSTER FOR DEFINISJONER
-
-## Tallord-artikler
-- čieža = vuođđolohku 7; sju
-
-### Ordenstall
-
-viđat: nummir 5 muhtun ortnega mielde
-
-### Samlingstall
-
-golmmas: golbma olbmo
 ## samme definisjon
 
 f.eks.
@@ -366,6 +339,20 @@ Skal definisjonen gjentas?
 i BOB er det gjort slik: *tomannshus* har bare en lenke til *tomannsbolig*
 
 **Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenker man til det andre ordet.
+
+
+# MØNSTER FOR DEFINISJONER
+
+## Tallord-artikler
+- čieža = vuođđolohku 7; sju
+
+### Ordenstall
+
+viđat: nummir 5 muhtun ortnega mielde
+
+### Samlingstall
+
+golmmas: golbma olbmo
 
 ## oaniduvvon
 
@@ -390,6 +377,51 @@ F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
 
 Nummer 3 er nok best i dette tilfellet.
 
+***
+***
+
+# Referere til andre ord
+For eksempel jamfør og til forskjell fra... på norsk, 
+
+På samisk geahča eller gč., evt. jamfør = vrd. + komitatiiva (= veardádala)
+
+Eller legge til i l_ref?
+
+mii earuha + LOK (til forskjell fra) ??
+evt. mii fas earuha + AKK + LOK
+
+Eks: 
+.. mii fas earuha giehtasealggi giehtaváimmus
+
+motsatt...f.eks. høyre/venstre - nuppegežiid?
+
+som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ... 
+
+
+
+## Adjektiv
+
+**Konklusjon**: greit å bruke relativpronomen mii/gii i definisjoner. Det er det vi har blitt enige om per nå.
+
+Noen eksempler på definisjoner:
+
+- alitčalmmat: geas leat alit čalmmit
+
+- guhkedáleš: mii lea guhkit go govdat
+
+
+
+## Fargeord
+Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
+mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
+
+Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
+
+
+## Kvinnelig og mannlig
+Nissonlaš og almmáilaš brukes i ordboka. Eks:
+nissonlaš/almmáilaš stáhtaoaivámuš
+
 ## biegga
 
 máttabiegga: biegga mii bossu/boahtá máddin
@@ -399,16 +431,6 @@ biegga mii boahtá máttil
 máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørfra* som menes?
 
 **Konklusjon**: skrive "biegga mii boahtá máttil". máttil betyr "fra sør", men ifølge Sammallahti kan det også bety "i sør", så ikke helt entydig der...
-
-## adjektiv
-
-**Konklusjon**: greit å bruke relativpronomen mii/gii i definisjoner. Det er det vi har blitt enige om per nå.
-
-Noen eksempler på definisjoner:
-
-alitčalmmat: geas leat alit čalmmit
-
-guhkedáleš: mii lea guhkit go govdat
 
 
 # FLERE BETYDNINGER (mg)
@@ -450,21 +472,6 @@ skal det være to mg'er?
 
 **Konklusjon**: Ja, to mg'er. Spørsmålet er i hvilken rekkefølge mg'ene skal være. Den trans. betydninga er helt klart mest frekvent i SIKOR. Men hvis man følger "enkelhets" prinsipp, så intrans. først, så trans. Slik er det også gjort i Konrad Nielsen. 
 Så grunnregelen blir at man har den intransitive betydninga som mg1, med mindre man har noen gode grunner til å ikke gjøre det slik.
-
-## sammensetninger: 
-- áddjá, eadni, jna.
-- eadni: eatnibellodat, eatniorganisašuvdna,
-
-**Konklusjon:**
-(hvis produktivt): brukt som forledd..., pluss eks
-*geavahuvvo goallossániid mearusin ....*
-
-
-## noaord, tabuord: 
-áddjá: guovža (buddosnamma - tabuord)
-
-**Konklusjon:**
-    áddjá: guovža som egen <mg>
 
 
 ***
