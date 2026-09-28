@@ -85,15 +85,17 @@ Etter siste &lt;mg&gt;, kan det legges til
 # Redigering i XMLmind
 
 Navigering i "treet":
-- ctrl+↑ og ctrl+↓ (opp og ned i hierarkiet)
-- ctrl+J (legg til etter)
-- ctrl+H (legg til før på Windows)
-- ctrl+B (legg til før på Mac)
-- ctrl+E (legg til attributt)
-- ctrl+C (kopier)
-- ctrl+V (lim inn)
-- ctrl+Z (angre)
-- ctrl+S (lagre)
+| Funksjon | Mac | Windows |
+|---|---|---|
+| Opp i hierarkiet | cmd+↑ | ctrl+↑ |
+| Ned i hierarkiet | cmd+↓ | ctrl+↓ |
+| Legg til etter | cmd+J | ctrl+J |
+| Legg til før | cmd+B | ctrl+H |
+| Legg til attributt | cmd+E | ctrl+E |
+| Kopier | cmd+C | ctrl+C |
+| Lim inn | cmd+V | ctrl+V |
+| Angre | cmd+Z | ctrl+Z |
+| Lagre | cmd+S | ctrl+S |
 
 
 Legg til dg (definisjon). Hvis det er flere mg med samme norske oversettelse, må det også legges til dt (translation) 
