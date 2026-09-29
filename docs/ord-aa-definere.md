@@ -26,7 +26,7 @@ Men etter kva slags frekvens?
 
 ## Frekvenslister
 
-- [Alle søk i sme-nob i 2025](../inc/defwords/smenob.20205.freq.html)
+- [Alle søk i sme-nob i 2025](lister/smenob.20205.freq.html)
 
 
 ## etter semantikk
