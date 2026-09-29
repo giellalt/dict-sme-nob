@@ -1,4 +1,5 @@
-# Documentation for two North Sámi dictionaries
+Documentation for two North Sámi dictionaries
+=============================================
 - North Saami ⇒ Norwegian Bokmål
 - Monolingual North Sámi dictionary
 
@@ -6,7 +7,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 
 
-# Definišuvdnasátnegirjji dokumentašuvdna
+## Definišuvdnasátnegirjji dokumentašuvdna
 
 - [Redigeringshandbok](redigeringshandbok.md)
 - [Arbeidsplan 2024](arbeidsplan.html)
@@ -14,14 +15,14 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 - [Seminarprogram september 2026](seminarprogram_2026.html)
 - [Plan for ordforråd å definere](ord-aa-definere.html)
 
-# Links
+## Links
 
 - [Neahtadigisánit between North Sámi, Finnish, Norwegian and Spanish](https://sanit.oahpa.no/)
 - [North Sámi dictionary page](https://dicts.uit.no/smedicts.eng.html)
 
 
 
-#  Møtereferat
+##  Møtereferat
 
 - 2026: [16.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260116.html)
  [05.2.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260205.html),
@@ -37,7 +38,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 
 
-## Eldre møtereferat
+### Eldre møtereferat
 
 * 2011:
   [23.8. 2011](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2011-08-23.html)  //
