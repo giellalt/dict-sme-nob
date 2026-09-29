@@ -89,14 +89,14 @@ Etter siste &lt;mg&gt;, kan det legges til
 Navigering i "treet":
 | Funksjon | Mac | Windows | Lenes huskeregler |
 |---|---|---|---|
-| Opp i hierarkiet | cmd+↑ | ctrl+↑ | |
-| Ned i hierarkiet | cmd+↓ | ctrl+↓ | |
+| Opp i hierarkiet | cmd+↑ | ctrl+↑ | - |
+| Ned i hierarkiet | cmd+↓ | ctrl+↓ | - |
 | Legg til etter | cmd+J | ctrl+J | Jälkeen |
 | Legg til før | cmd+B | ctrl+H | Before/Høyere |
 | Legg til attributt | cmd+E | ctrl+E | Ekspander |
 | Kopier | cmd+C | ctrl+C | Copy |
 | Lim inn | cmd+V | ctrl+V | Vlim inn :-) |
-| Angre | cmd+Z | ctrl+Z |  |
+| Angre | cmd+Z | ctrl+Z | - |
 | Lagre | cmd+S | ctrl+S | Save |
 | Finn ord | cmd+F | ctrl+F | Finn dette  |
 | Søk | cmd+G | ctrl+G | Gå for å finne det |
