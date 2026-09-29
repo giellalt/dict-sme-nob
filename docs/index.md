@@ -1,4 +1,6 @@
-# Documentation for the North Sámi ⇒ Norwegian Bokmål and monolingual North Sámi dictionary
+# Documentation for two North Sámi dictionaries
+- North Saami ⇒ Norwegian Bokmål
+- Monolingual North Sámi dictionary
 
 Please see [this page](https://giellalt.github.io/dicts/) for more general information on how to work with dictionaries, and the various publishing alternatives.
 
@@ -8,38 +10,38 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 - [Redigeringshandbok](redigeringshandbok.md)
 - [Arbeidsplan 2024](arbeidsplan.html)
-- [Testing dict-FSTs ](https://giellalt.github.io/dicts/TestingDictFST.html)
+- [Testing dict-FSTs](https://giellalt.github.io/dicts/TestingDictFST.html)
 - [Seminarprogram september 2026](seminarprogram_2026.html)
+- [Plan for ordforråd å definere](ord-aa-definere.html)
 
+# Links
 
-# Online-sátnegirjjit
-
-- [Neahtadigisánit for North Sámi, Finnish, Norwegian and Spanish](https://sanit.oahpa.no/)
+- [Neahtadigisánit between North Sámi, Finnish, Norwegian and Spanish](https://sanit.oahpa.no/)
 - [North Sámi dictionary page](https://dicts.uit.no/smedicts.eng.html)
 
-
-# Eldre dokumentasjon
-
-* 2011:
-  [23.8. 2011](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2011-08-23.html)  // 
-  [3.11. 2011](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2011-11-03.html)
-* 2009:
-   [28.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-01-28.txt)  //
-   [18.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-03-18.html) 
-  
 
 
 #  Møtereferat
 
 - 2026: [16.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260116.html)
- [05.2.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260205.html), 
- [19.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260319.html), 
- [26.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260326.html), 
- [22.6.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260622.html), 
- [11.8.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260811.html), 
- [28.8.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260828.html), 
- [3.9.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260903.html), 
+ [05.2.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260205.html),
+ [19.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260319.html),
+ [26.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260326.html),
+ [22.6.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260622.html),
+ [11.8.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260811.html),
+ [28.8.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260828.html),
+ [3.9.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/260903.html),
  [21.9.](meetings/260921.html)
-
 - 2024:
    [5.9.](meetings/240905.html)
+
+
+
+## Eldre møtereferat
+
+* 2011:
+  [23.8. 2011](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2011-08-23.html)  //
+  [3.11. 2011](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2011-11-03.html)
+* 2009:
+   [28.1.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-01-28.txt)  //
+   [18.3.](https://divvungiellatekno.github.io/giellalt.uit.no/admin/dicts/Meeting_2009-03-18.html)
