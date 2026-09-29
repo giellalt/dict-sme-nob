@@ -25,12 +25,15 @@ Samisk definisjonsordbok
 Samisk definisjonsordbok med norske (finske) oversettelser
 
 ## dtd
+
 Vi må se på dtd for 
+
 - dialektmarkering
 - varianter (v1, v2 osv)
 - ordavledninger
 - source
 - antonymer 
+
 ***
 ***
 
@@ -151,7 +154,7 @@ i ordbøkene oversatt som manus/manuskript, til forskjell fra giehtačála (hån
 Men det er mange eksempler i korpus der det er brukt med betydninga håndskrift.
 
 
-####giehtačálus / giehtačála
+#### giehtačálus / giehtačála
 
 for giehtačálus
 
@@ -160,30 +163,30 @@ for giehtačálus
 
 
 Admin:
-Olgešspálttas gávnnat skoviid maid sáhtát čállit olggus ja deavdit giehtačállosiin dehe deavdit njuolga dihtoris .
+>Olgešspálttas gávnnat skoviid maid sáhtát čállit olggus ja deavdit giehtačállosiin dehe deavdit njuolga dihtoris .
 geavahit bustávaid ja geahččaladdat sániiguin , iežas giehtačállosiin ja dihtoriin
 Oahppit sáhttet čállit fáttá birra juogo giehtačállosiin dahje dihtorii .
 Čállit iešguđetlágan teavsttaid giehtačállosiin ja dihtoriin
 sáhttá ávžžuhit jearahallama čađahit almmá atnit giehtačállosa veahkkin .
 
-Non fiction:
+>Non fiction:
 Lea muhtumin leamaš váttis dulkot giehtačállosa, ja danin eat leat nagodan bájuhit visot ollásit .
 čállit sániid dahje álkes teavstta govaide giehtačálusin dahje tastaturan
 
-fiction: 
+>fiction: 
 Mu šliettihan gieđat vuoiŋŋastedje giehtačállosa alde ja jorgaledje ain gulul dego niegus siiddu .
 Lea got oaidnán ahte ii lean eatni giehtačálus?
 
-news:
+>news:
 Giehtačálus reivves lea maid hui fiinnis .
 De maid garvit dan ahte namat čállojit boastut go lea váttis ipmirdit giehtačállosa, ja dat dáhpáhuvva dávja .
 Čáppa giehtačállosiin, fiidnámus reivebáhpiriin , son ovdanbuktá sávaldagaidis iešguđetlágan olbmuide .
 
-**Konklusjon:**
-For å markere at et ord er "uheldig": 
-- element l_pref (lemma_preferred) som dukker opp i grensesnittet om 'geavat baicce' (= bruk heller)
+**Konklusjon:** For å markere at et ord er "uheldig": 
 
-Hvis man er usikker på om man skal legge til l_pref eller ikke, så kan man legge til en kommentar i xml.
+- element `l_pref` (lemma_preferred) som dukker opp i grensesnittet om 'geavat baicce' (= bruk heller)
+
+Hvis man er usikker på om man skal legge til `l_pref` eller ikke, så kan man legge til en kommentar i xml.
 
 ***
 ***
@@ -201,6 +204,7 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 **Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
 
 ### sammensetninger: 
+
 - áddjá, eadni, jna.
 - eadni: eatnibellodat, eatniorganisašuvdna,
 
@@ -220,6 +224,7 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 
 #### oktonaseadni, muhto oktováhnen
 
+```
 SIKOR:
 oktonaseadni: 1
 oktoeadni: 3
@@ -227,6 +232,7 @@ oktonasáhčči: 0
 oktoáhčči: 2
 oktonasváhnen: 1
 oktováhnen: 35+
+```
 
 **Konklusjon**: Ja, legge til i smenob + synonym begge veier. 
 
@@ -234,7 +240,7 @@ Det er kanskje forskjell på hvordan ordene brukes på norsk vs. finsk side.
 
 Det kan også være forskjell på hvordan et ord faktisk brukes vs. hva Giellagáldu har normert.
 
-Hvis den ene er tvilsom, kan man vurdere å innføre 'bruk heller'-element, ala l_ref som gir 'se også'.
+Hvis den ene er tvilsom, kan man vurdere å innføre 'bruk heller'-element, ala `l_ref` som gir 'se også'.
 
 Disse tingene bør diskuteres når det dukker opp slike ord.
 
@@ -245,11 +251,13 @@ Disse tingene bør diskuteres når det dukker opp slike ord.
 
 **Konklusjon:**
 Vi bruker to parametre, som attributter:
+
 - Dialektvariasjon (østlig, vestlig, tornesamisk, sjøsamisk)
 - Variasjon mellom ulike administrative organisasjoner (land Norge, Sverige, Finland)
 
 Vi må bli enige om attributtene.???
-Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
+
+Hvordan evt. merke synonym: *áhkku - muore* (dialekt, ganske ulikt)
 
 ***
 ***
@@ -262,13 +270,9 @@ Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
 Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 1. nolla - nulla (ort.) --> ikke synonym, men ortografiske varianter
-
 2. buđetnjuvddus - buđetmeastu  --> bør sette inn synonym
-
 3. čalbmálagaid - njunnálagaid --> bør være synonym
-
 4. árga - árgabeaivi --> bør sette inn synonym
-
 5. áhkku - muore (dialekt)
 
 
@@ -279,12 +283,12 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 Hvordan begrense?
 
 Flere typer antonymer. Hva skal være med? Her fra Fjeld og Vikør 6. kap:
--- kontradiktorisk motsetning (enten/eller), f.eks. gift ugift
--- kontrær motsetning,
---- artsmotsetning, f.eks. mann kvinne, hane høne
---- gradsmotsetning, de kan sammenliknes, f.eks. varm kald, tom full
---- konvers motsetning, to forskjellige perspektiver på samme sak, f.eks. kjøpe selge, gi få, mor barn, ektemann hustru
---- kompletterende motsetning, handling som naturlig følges av en annen, f.eks. spørsmål svar, angrep forsvar, snakke lytte
+- kontradiktorisk motsetning (enten/eller), f.eks. gift ugift
+- kontrær motsetning,
+	- artsmotsetning, f.eks. mann kvinne, hane høne
+	- gradsmotsetning, de kan sammenliknes, f.eks. varm kald, tom full
+	- konvers motsetning, to forskjellige perspektiver på samme sak, f.eks. kjøpe selge, gi få, mor barn, ektemann hustru
+	- kompletterende motsetning, handling som naturlig følges av en annen, f.eks. spørsmål svar, angrep forsvar, snakke lytte
 
 ***
 ***
@@ -301,9 +305,10 @@ Vi gir informasjon om at lemma er en avledning slik i lemmagroup lg i elementet 
 
 Hvis det er homonymi mellom to forskjellige avledninger, skal det føres som to forskjellige lemmaer eller som to betydninger (mg)? 
 
-Eks. 
-*borahit* (kausativ, tar objekt, betyr å gi andre mat)
-*borahit* (refleksiv, tar ikke objekt, betyr å spise på seg selv)
+Eks.
+ 
+- *borahit* (kausativ, tar objekt, betyr å gi andre mat)
+- *borahit* (refleksiv, tar ikke objekt, betyr å spise på seg selv)
 
 I andre samiske ordbøker behandles disse som to lemmaer
 
@@ -320,11 +325,13 @@ Hvis man på et seinere tidspunkt ønsker å gå mer informasjon, evt lenke til 
 ## DEFINISJONER
 
 Realdefinisjon + eventuelle synonym
+
 - Unngå 2.person i definisjonene
 - Unngå skråstrek 
 
 ### Parentes
 Man kan bruke parentes i definisjoner for å vise til noe prototypisk men som ikke er obligatorisk, f.eks:
+
 *(njealječiegat) breahtta dahje pláhta mii geavahuvvo lávdespeallamii*
 
 Enn så lenge de samiske definisjonene ikke vises på nettsida:
@@ -334,8 +341,8 @@ Hvis et ord har flere dg-er i sme, legg også til dt (oversettelse til norsk). D
 
 f.eks.
 
-guovttebearašásodat: viessu mas leat guokte ássanovttadaga
-guovttebearašviessu: viessu mas leat guokte ássanovttadaga
+- guovttebearašásodat: viessu mas leat guokte ássanovttadaga
+- guovttebearašviessu: viessu mas leat guokte ássanovttadaga
 
 Skal definisjonen gjentas?
 
@@ -370,9 +377,7 @@ miljovdna:
 F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
 
 1. olmmoš gii neaktá deháleamos rolla filmmas...
-
 2. olmmoš gii neaktá váldorolla filmmas...
-
 3. neavttár geas lea váldorolla filmmas...
 
 
@@ -394,9 +399,9 @@ mii earuha + LOK (til forskjell fra) ??
 evt. mii fas earuha + AKK + LOK
 
 Eks: 
-.. mii fas earuha giehtasealggi giehtaváimmus
 
-motsatt...f.eks. høyre/venstre - nuppegežiid?
+- .. mii fas earuha giehtasealggi giehtaváimmus
+- motsatt...f.eks. høyre/venstre - nuppegežiid?
 
 som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ... 
 
@@ -409,12 +414,12 @@ som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ...
 Noen eksempler på definisjoner:
 
 - alitčalmmat: geas leat alit čalmmit
-
 - guhkedáleš: mii lea guhkit go govdat
 
 
 
 ### Fargeord
+
 Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
 mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
 
@@ -687,29 +692,32 @@ nuoraidskuvla:
 
 For eksempel: 
 
+```
 	gáfegohppu
 	gáffegohppu
 	káffegohppu
 	gáffekohppa
 	káffekohppa
 osv.
+```
 
 Her er det også et poeng at f.eks. *káffegohppu* blander to dialekter, *káffe* og *gohppu*. Bør det "frarådes" eller gi error i analysatoren?
 
 et annet eksempel:
+```
 	iđitgáffe
 	iđitgáfe
 	iđitkáffe
 	iđitkáfe
-
+```
 
 **Konklusjon**: det bør være mulig å søke på alle lemmaene. Spørsmålet er hvordan det skal gjøres.
 
 Gjøre det som i BOB? Der får man alle variantene opp når man søker på et ord. Men variantene er i samme artikkel. Se f.eks. *høytlønnet*.
 
-ođđa noda lset = lemma set. Jos lset de čajet dan, muđui čájet l.
+ođđa noda `lset` = lemma set. Jos lset de čajet dan, muđui čájet l.
 
-l_ref "se": 
+`l_ref` "se": 
 
 ordbokene: 
 
@@ -726,11 +734,9 @@ dk: (FYSIK) enhed for måling som alle andre enheder i et bestemt målesystem by
 
 mihttoovttadat mii lea 
 
-
 mihttoovttadat (målenhet): 
 
 definerejuvvon ovttadat mii geavahuvvo vuođđun man nu mihtideapmái, omd. mehter guhkkodaga mihtideapmái, sekunda áiggi mihtideapmái
-
 
 lossodatovttadat (lengdeenhet): mihttoovttadat mii geavahuvvo mihttidit lossodaga
 
@@ -739,10 +745,10 @@ lossodatovttadat (lengdeenhet): mihttoovttadat mii geavahuvvo mihttidit lossodag
 
 Mo daid defineret?
 
-BOB: noen som har (start)nummer fem
-NAOB: størrelse med tallverdi 5 ; sifferet 5
-DK: person, genstand el.lign. der har nr. 5 i et bestemt system fx en buslinje
-SE: siffran 5
+- BOB: noen som har (start)nummer fem
+- NAOB: størrelse med tallverdi 5 ; sifferet 5
+- DK: person, genstand el.lign. der har nr. 5 i et bestemt system fx en buslinje
+- SE: siffran 5
 
 
 ### birra(n)beaivi
@@ -769,16 +775,15 @@ Og i så fall, hvilket skilletegn skal man ha mellom definisjonene? Semikolon?
 
 **Konklusjon**: semikolon er greit.
 
-
 "oaniduvvon mrd." er en tilleggsopplysning. Et eget element eller attributt for å legge inn forkortelser?
 
 
 ### adjektiver definisjoner formulering
+
 **Konklusjon**: greit å bruke mii/gii i definisjoner.
 
-alitčalmmat: geas leat alit čalmmit
-
-guhkedáleš: mii lea guhkit go govdat
+- alitčalmmat: geas leat alit čalmmit
+- guhkedáleš: mii lea guhkit go govdat
 
 
 
@@ -796,9 +801,7 @@ Må diskuteres.
 F.eks. hvordan få frem forskjellen mellom arvigoahtit, arvát, arvváskit...
 
 1. Hvordan få frem forskjellene i betydning
-
 2. Morfologien
-
 3. Referering til andre ord. Hvis man søker på "arvit" skal man da få opp "arvát"? Alle arvit-ordene?
 
 
@@ -816,15 +819,16 @@ Bør ha eget dokument for avledninger.
 
 Noen eksempler fra korpus:
 
-Jiehkit, uđđasat ja eará geologalaš proseassat leat čuohtenáre duháhiid jagiid mielde hábmen eanadaga.
+> Jiehkit, uđđasat ja eará geologalaš proseassat leat čuohtenáre duháhiid jagiid mielde hábmen eanadaga.
 
-Ealli guollebivdohápman čuohtenáre jagiid
+> Ealli guollebivdohápman čuohtenáre jagiid
 
-Biedjovákkeguovllus ledje gottit duháhiid jagiid ja (lojes) bohccot fas leat leamašan čuohtenáre jagiid.
+> Biedjovákkeguovllus ledje gottit duháhiid jagiid ja (lojes) bohccot fas leat leamašan čuohtenáre jagiid.
 
-Eará videoid, maid Evelina láve juohkit, leat sullii čuohtenáre olbmo geahččan
+> Eará videoid, maid Evelina láve juohkit, leat sullii čuohtenáre olbmo geahččan
 
-Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkásaš
+> Vuosttaš logenáre jagiid geavahedje dáid dietnasiid eanaš dađistaga jahkásaš
 
 
 **Konklusjon**: Legg først og fremst inn betydninga som er dokumentert i andre ordbøker. Hvis den andre bruken er omfattende så kan man vurdere å legge det inn med re: (i nyere betydning).
+
