@@ -49,6 +49,24 @@
   <xsl:apply-templates/>
 </xsl:template>
 
+<xsl:template match="re">
+  (<xsl:apply-templates/>)
+</xsl:template>
+
+<!-- Hide sme definition nodes etc. -->
+<xsl:template match="dg">
+</xsl:template>
+
+<xsl:template match="sg">
+</xsl:template>
+
+<xsl:template match="antg">
+</xsl:template>
+
+<xsl:template match="ig">
+</xsl:template>
+<!---->
+
 <xsl:template match="tg">
   <xsl:apply-templates/>
 </xsl:template>
