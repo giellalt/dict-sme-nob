@@ -87,6 +87,7 @@ Etter siste &lt;mg&gt;, kan det legges til
 ## Redigering i XMLmind
 
 Navigering i "treet":
+
 | Funksjon | Mac | Windows | Lenes huskeregler |
 |---|---|---|---|
 | Opp i hierarkiet | cmd+↑ | ctrl+↑ | - |
