@@ -11,20 +11,20 @@ Skriv ned her etter kvart.
 
 ***
 ***
-# TEKNISK, for programmerer:
+## TEKNISK, for programmerer:
 
-# Brukergrensesnitt (css) 
+## Brukergrensesnitt (css) 
 - Luft mellom mg-ane
 – eksempelsetninger bør være i mindre font
 
-# Generering av flere ordbøker fra samme kildekode
+## Generering av flere ordbøker fra samme kildekode
 Fra samme kildekode kan vi generere forskjellige ordbøker:
 
 Tospråklige: Samisk-norsk (samisk-finsk)
 Samisk definisjonsordbok
 Samisk definisjonsordbok med norske (finske) oversettelser
 
-# dtd
+## dtd
 Vi må se på dtd for 
 - dialektmarkering
 - varianter (v1, v2 osv)
@@ -34,9 +34,9 @@ Vi må se på dtd for
 ***
 ***
 
-# TEKNISK for leksikograf
+## TEKNISK for leksikograf
 
-# xml-strukturen og terminologien vi bruker 
+## xml-strukturen og terminologien vi bruker 
 
 &lt;e&gt; : **entry** (hovedelementet med all informasjon til hvert lemma. 
 Vi skiller mellom lemmaer som har forskjellig etymologi f.eks. vuovdi (skog) -- vuovdi (selger) og  busse (buss) -- busse (pose))
@@ -84,7 +84,7 @@ Etter siste &lt;mg&gt;, kan det legges til
 
  
 
-# Redigering i XMLmind
+## Redigering i XMLmind
 
 Navigering i "treet":
 | Funksjon | Mac | Windows | Lenes huskeregler |
@@ -105,7 +105,7 @@ Navigering i "treet":
 
 ***
 ***
-# REDAKSJONSSPRÅK
+## REDAKSJONSSPRÅK
 
 Hvor puristisk skal ordboken være? 
 F.eks: Kan amas fungere som subjunksjon (amas eai bora), eller skal vi holde på at det er nektende supinum (amasat borrat)?
@@ -118,7 +118,7 @@ Vi har litt konservativt språk i eksemplene
 
 ***
 ***
-# KILDER
+## KILDER
 
 Det kan være lurt å legge til info om hvor man har funnet en oversettelse, definisjon, etc., spesielt hvis man er litt usikker. Legges til under source, f.eks. etternavn + årstall på utgivelse.
 
@@ -126,9 +126,9 @@ Skal dette være en regel???
 
 ***
 ***
-# LEMMA
+## LEMMA
 
-# Lemmautvalg
+## Lemmautvalg
 Gruppering? (slik at en ikke trenger logge hvert enkelt ord)
 
 SME-> NOB viser bare den vanligste varianten (= lemma) slik som det er nå.
@@ -142,15 +142,15 @@ Ulike variantformer i samme oppslag, i SME f.eks. universitehta (subst.), univer
     </lg>
 
 
-# "Uheldige" ord
+## "Uheldige" ord
 
 
-## Feil bruk av ord?
+### Feil bruk av ord?
 i ordbøkene oversatt som manus/manuskript, til forskjell fra giehtačála (håndskrift).
 Men det er mange eksempler i korpus der det er brukt med betydninga håndskrift.
 
 
-###giehtačálus / giehtačála
+####giehtačálus / giehtačála
 
 for giehtačálus
 
@@ -187,7 +187,7 @@ Hvis man er usikker på om man skal legge til l_pref eller ikke, så kan man leg
 ***
 ***
 
-### nolla - bare numeral?
+#### nolla - bare numeral?
 
 Er nolla/nulla bare numeral?
 
@@ -199,7 +199,7 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 
 **Konklusjon**: Disse numeralene kan legges inn i substantiv-fila også. De må da også legges inn i analysatoren.
 
-## sammensetninger: 
+### sammensetninger: 
 - áddjá, eadni, jna.
 - eadni: eatnibellodat, eatniorganisašuvdna,
 
@@ -208,7 +208,7 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 *geavahuvvo goallossániid mearusin ....*
 
 
-## noaord, tabuord: 
+### noaord, tabuord: 
 áddjá: guovža (buddosnamma - tabuord)
 
 **Konklusjon:**
@@ -217,7 +217,7 @@ I BOB er f.eks. "tusen" både substantiv og kvantor.
 
 
 
-### oktonaseadni, muhto oktováhnen
+#### oktonaseadni, muhto oktováhnen
 
 SIKOR:
 oktonaseadni: 1
@@ -240,7 +240,7 @@ Disse tingene bør diskuteres når det dukker opp slike ord.
 ***
 ***
 
-# Språklig variasjon i lemma og betydning
+## Språklig variasjon i lemma og betydning
 
 **Konklusjon:**
 Vi bruker to parametre, som attributter:
@@ -254,9 +254,9 @@ Hvordan evt. merke synonym: áhkku - muore (dialekt, ganske ulikt)
 ***
 
 
-# Synonymer og antonymer
+## Synonymer og antonymer
 
-## synonymer
+### synonymer
 
 Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
@@ -273,7 +273,7 @@ Når skal man legge til synonymer? Hvor like (evt. ulike) må ordene være?
 
 **Konklusjon**: Reint ortografiske forskjellige ord skal ikke legges inn som synonym. Dialektalt ulike ord bør heller ikke legges inn som synonym. Man kan tenke på det slik: ville jeg brukt ord2 istedenfor ord1 for å variere språket?
 
-## antonymer
+### antonymer
 
 Hvordan begrense?
 
@@ -288,15 +288,15 @@ Flere typer antonymer. Hva skal være med? Her fra Fjeld og Vikør 6. kap:
 ***
 ***
 
-# Avledninger
+## Avledninger
 
-## Informasjon om avledning
+### Informasjon om avledning
 
 **Konklusjon:**
 Vi gir informasjon om at lemma er en avledning slik i lemmagroup lg i elementet orig:
 *borrat + suorggis -dit*   (med lenke)
 
-## Homonymi med forskjellige avledninger
+### Homonymi med forskjellige avledninger
 
 Hvis det er homonymi mellom to forskjellige avledninger, skal det føres som to forskjellige lemmaer eller som to betydninger (mg)? 
 
@@ -316,20 +316,20 @@ Hvis man på et seinere tidspunkt ønsker å gå mer informasjon, evt lenke til 
 
 ***
 ***
-# DEFINISJONER
+## DEFINISJONER
 
 Realdefinisjon + eventuelle synonym
 - Unngå 2.person i definisjonene
 - Unngå skråstrek 
 
-## Parentes
+### Parentes
 Man kan bruke parentes i definisjoner for å vise til noe prototypisk men som ikke er obligatorisk, f.eks:
 *(njealječiegat) breahtta dahje pláhta mii geavahuvvo lávdespeallamii*
 
 Enn så lenge de samiske definisjonene ikke vises på nettsida:
 Hvis et ord har flere dg-er i sme, legg også til dt (oversettelse til norsk). Dette for å unngå forvirring om hvorfor et ord er listet opp flere ganger i ordboka. 
 
-## samme definisjon
+### samme definisjon
 
 f.eks.
 
@@ -343,20 +343,20 @@ i BOB er det gjort slik: *tomannshus* har bare en lenke til *tomannsbolig*
 **Konklusjon**: Ja, definisjonen gjentas med mindre ordet bør "frarådes" å bruke. I så fall lenker man til det andre ordet.
 
 
-# MØNSTER FOR DEFINISJONER
+## MØNSTER FOR DEFINISJONER
 
-## Tallord-artikler
+### Tallord-artikler
 - čieža = vuođđolohku 7; sju
 
-### Ordenstall
+#### Ordenstall
 
 viđat: nummir 5 muhtun ortnega mielde
 
-### Samlingstall
+#### Samlingstall
 
 golmmas: golbma olbmo
 
-## oaniduvvon
+### oaniduvvon
 
 "oaniduvvon" kan brukes som på norsk "forkortet":
 
@@ -364,7 +364,7 @@ miljovdna:
 
 	vuođđolohku 1 000 000, oaniduvvon milj.
 
-## Gjennomsiktighet i definisjoner
+### Gjennomsiktighet i definisjoner
 
 F.eks. váldorollaneavttár (fra mest til minst gjennomsiktig):
 
@@ -382,7 +382,7 @@ Nummer 3 er nok best i dette tilfellet.
 ***
 ***
 
-# Referere til andre ord
+## Referere til andre ord
 For eksempel jamfør og til forskjell fra... på norsk, 
 
 På samisk geahča eller gč., evt. jamfør = vrd. + komitatiiva (= veardádala)
@@ -401,7 +401,7 @@ som forledd/etterledd (mearusoassi/vuođđooassi) i ord som ...
 
 
 
-## Adjektiv
+### Adjektiv
 
 **Konklusjon**: greit å bruke relativpronomen mii/gii i definisjoner. Det er det vi har blitt enige om per nå.
 
@@ -413,18 +413,18 @@ Noen eksempler på definisjoner:
 
 
 
-## Fargeord
+### Fargeord
 Definisjonene trenger ikke å være så tekniske. Dette holder for 'rødt' f.eks.:
 mas lea ivdni mii sulastahttá vara; okta vuođđoivnniin
 
 Man trenger heller ikke å skrive hva de ulike fargene symboliserer.
 
 
-## Kvinnelig og mannlig
+### Kvinnelig og mannlig
 Nissonlaš og almmáilaš brukes i ordboka. Eks:
 nissonlaš/almmáilaš stáhtaoaivámuš
 
-## biegga
+### biegga
 
 máttabiegga: biegga mii bossu/boahtá máddin
 
@@ -435,14 +435,14 @@ máddin kan bety både *sørfra* og *sørpå*. Hvordan få frem at det er *sørf
 **Konklusjon**: skrive "biegga mii boahtá máttil". máttil betyr "fra sør", men ifølge Sammallahti kan det også bety "i sør", så ikke helt entydig der...
 
 
-# FLERE BETYDNINGER (mg)
+## FLERE BETYDNINGER (mg)
 
-## I hvilken rekkefølge skal ulike betydninger være?  
+### I hvilken rekkefølge skal ulike betydninger være?  
 
 **Konklusjon:**
 Etter semantikk, grunnbetydninga først, med mindre den er misvisende for brukeren
 
-## metaforisk, abstrakt betydning
+### metaforisk, abstrakt betydning
 
 På norsk ofte "i overført betydning".
 
@@ -466,7 +466,7 @@ Først konkret betydning, så den abstrakte.
 **Konklusjon**: Vanskelig å vurdere hvordan man skal begrense når det skal markeres og når ikke. Når det gjelder formulering, ikke bestemt enda. 
 Risten legger til kommentar ("overført") i XMLmind på de ordene der det er aktuelt å markere overført betydning. Da kan man enkelt finne de ordene i ettertid hvis man har lyst til å legge inn markering på dem.
 
-## reŋgot
+### reŋgot
 
 reŋgot: bargat reaŋgan // (trans.) bargat reaŋgan, omd: reŋgot badjeolbmuid
 
@@ -479,9 +479,9 @@ Så grunnregelen blir at man har den intransitive betydninga som mg1, med mindre
 ***
 ***
 
-# EKSEMPELSETNINGER
+## EKSEMPELSETNINGER
 
-## Formelt
+### Formelt
 **Konklusjon:**
 - Fullstendige setninger starter med stor bokstav, avsluttes med tegnsetting (punktum, spørretegn)
 - Ufullstendige setninger med liten bokstav, uten tegnsetting
@@ -490,7 +490,7 @@ Så grunnregelen blir at man har den intransitive betydninga som mg1, med mindre
 F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 
 
-## Språkleg
+### Språkleg
 **Konklusjon:**
 - Gjerne autentiske, men de bør kuttes ned, fjerne 'støy' i setninga
 - Første eksempelsetning bør være typisk bruk av ordet
@@ -503,15 +503,15 @@ F.eks.: *De álggii nieida vuoiddadit. => Nieida álggii vuoiddadit.*
 Videre bør alle ord som er brukt i eksempelsetninger (og definisjoner) være med i ordboka. Legg derfor til ord hvis du ser det mangler.
 
 
-# Tallord
+## Tallord
 - Diibmu lea čieža. = Klokka er sju.
 - osb.
 - Eksempel med alder, klokke og liknende
 
-# OVERSETTINGER AV EKSEMPLER
+## OVERSETTINGER AV EKSEMPLER
 
 
-## Hvor idiomatiske skal oversettelsene være?
+### Hvor idiomatiske skal oversettelsene være?
 
 *Son guovlala giikkáriin oidnojit go lottit.* Hvordan oversette? 
 
@@ -531,9 +531,9 @@ Duorastaga dievai kulturviessu maŋimuš stullui.
 ***
 ***
 
-# IDIOMATISKE UTTRYKK OG ORDTAK
+## IDIOMATISKE UTTRYKK OG ORDTAK
 
-## Ord og uttrykk som har idiomatiske versjoner på begge steder
+### Ord og uttrykk som har idiomatiske versjoner på begge steder
 Ordtak og idiomatisk uttryk bør stå på begge språk med den idiomatiske versjonen, td.
 grav (subst.) = (subst.) hávdi
 
@@ -546,11 +546,11 @@ Her er det problemer med md-formatteringa:
       <td>Den som graver en grav, faller selv i den.</td> 
       </ig>
 
-## Ord og uttrykk som bare finnes i et språk
+### Ord og uttrykk som bare finnes i et språk
 
 OBS: Dette må vi beskrive...
 
-## Iežas dat ferte gámadit.
+### Iežas dat ferte gámadit.
 
 mo jorgalit dárogillii?
 
@@ -561,7 +561,7 @@ Det er forskjell på om man er i smenob eller nobsme:
 i smenob: bare oversette/forklare idiomet til norsk
 i nobsme: da kan man lete etter parallellen/ekvivalenten
 
-## idiomer, faste uttrykk
+### idiomer, faste uttrykk
 
 Når skal det under idiomer og når bare under eksempel?
 
@@ -569,9 +569,9 @@ EKS....
 
 ***
 ***
-# SLEKTSKAPSTERMER
+## SLEKTSKAPSTERMER
 
-##  vilbealle, oambealle: vuosttaš, nubbi, goalmmát 
+###  vilbealle, oambealle: vuosttaš, nubbi, goalmmát 
 hvor skal disse forklaringene legges? 
 
 ig? xg?
@@ -579,7 +579,7 @@ ig? xg?
 sivjjot (svigerinne): eamida oabbá (= konas søster)
 (jus lea dievdu) vielja eamit (= (og hvis man er mann) brorens kone)
 
-## likekjønnet ekteskap 
+### likekjønnet ekteskap 
 
 Naba oappá eamit? mo dalle? (= hva med søsters kone? bruker man samme ord da?)
 
@@ -588,7 +588,7 @@ må spørre noen som vet
 
 máhka, spile....
 
-## Kjønnsspesifikke eller -uspesifikke termer
+### Kjønnsspesifikke eller -uspesifikke termer
 
 - eatni dahje áhči - váhnema?
 - eamida dahje isida - beallelačča/náittosguoimmi/eallinguoimmi?
@@ -596,7 +596,7 @@ máhka, spile....
 **Konklusjon:**
 váhnen og eallinguoibmi
 
-## tilkommende/sássa
+### tilkommende/sássa
 
 mo dadjat sámegillii?
 
@@ -609,7 +609,7 @@ olmmoš gii vurdojuvvo/áigu/galgá šaddat olbmo vivvan
 
 **Konklusjon**: olmmoš gii áigu šaddat olbmo vivvan
 
-## oabbá mg2
+### oabbá mg2
 
 oabbá lea definerejuvvon ná dál:
 mg1: nieida dahje nisu geas lea seamma áhčči dahje eadni go nuppi olbmos
@@ -631,7 +631,7 @@ BOB ("bror"): særlig i flertall: mann eller folk i forhold til person(er) av an
 
 oabbá mg2: nissonolbmot daid ektui geain lea seamma/oktasaš beroštumit dahje ...
 
-## perspektiv i def
+### perspektiv i def
 
 F.eks.:
 
@@ -639,9 +639,9 @@ boadnji: náitalan dievdu / almmáilaš náittosguoibmi
 
 ***
 ***
-# DIVERSE NOTATER, bør redigeres eller fjernes
+## DIVERSE NOTATER, bør redigeres eller fjernes
 
-## Referere til et annet ord i definisjon, og dermed ikke gjenta definisjonen
+### Referere til et annet ord i definisjon, og dermed ikke gjenta definisjonen
 
 F.eks. bivttastit mg2:
 
@@ -654,7 +654,7 @@ coggat biktasiid iežas dahje nuppi ala
 Samme med: 
 submet: adderet
 
-## bihkkadit
+### bihkkadit
 
 Legge til mg2?
 
@@ -673,7 +673,7 @@ Et annet spm er om man skal legge til eksempler, ord som ofte brukes med verbet:
 vuoidat bihkain (omd. fátnasa ja sabehiid)
 
 
-## skuvla
+### skuvla
 
 I hvilken rekkefølge bør definisjonene være? Synes det er vanskelig å vurdere hvilken som er "grunnbetydninga".
 
@@ -682,7 +682,7 @@ nuoraidskuvla:
 2. nuoraidskuvlla visti
 
 
-## Skal alle varianter legges til i ordboka?
+### Skal alle varianter legges til i ordboka?
 
 For eksempel: 
 
@@ -715,7 +715,7 @@ ordbokene:
 kvensk ordbok: 
 
 
-## mihttoovttadagat
+### mihttoovttadagat
 
 Hva er forskjellen mellom grunnenhet og målenhet? Hvordan få frem den forskjellen?
 
@@ -734,7 +734,7 @@ definerejuvvon ovttadat mii geavahuvvo vuođđun man nu mihtideapmái, omd. meht
 lossodatovttadat (lengdeenhet): mihttoovttadat mii geavahuvvo mihttidit lossodaga
 
 
-## ovtteš, guvtteš, golmmeš jna.
+### ovtteš, guvtteš, golmmeš jna.
 
 Mo daid defineret?
 
@@ -744,7 +744,7 @@ DK: person, genstand el.lign. der har nr. 5 i et bestemt system fx en buslinje
 SE: siffran 5
 
 
-## birra(n)beaivi
+### birra(n)beaivi
 
 Finnes som substantiv i ordboka. Lurer på om det også er et adjektiv/adverb? Noe av bruken kan tyde på det:
 
@@ -758,7 +758,7 @@ Ođđa muitosadji galgá leat olámuttos birranbeaivvi
 **Konklusjon**: vente litt med å eventuelt legge til som adj/adv i ordboka, ettersom det ikke er så mange eksempler på det. Sjekk igjen når vi får nytt korpus. Det finnes heller ikke i andre ordbøker. Kan legges til "ventelista".
 
 
-## Flere forklaringer i én definisjon
+### Flere forklaringer i én definisjon
 
 F.eks. miljárda:
 
@@ -772,7 +772,7 @@ Og i så fall, hvilket skilletegn skal man ha mellom definisjonene? Semikolon?
 "oaniduvvon mrd." er en tilleggsopplysning. Et eget element eller attributt for å legge inn forkortelser?
 
 
-## adjektiver definisjoner formulering
+### adjektiver definisjoner formulering
 **Konklusjon**: greit å bruke mii/gii i definisjoner.
 
 alitčalmmat: geas leat alit čalmmit
@@ -783,12 +783,12 @@ guhkedáleš: mii lea guhkit go govdat
 
 Hadde også vært interessant å ta dette opp med Klara Sjo. Se f.eks. frekk, vennlig... i BOB.
 
-## gii/guhte
+### gii/guhte
 
 olmmoš gii.../olmmoš guhte...
 
 
-## avledninger
+### avledninger
 
 Må diskuteres.
 
@@ -809,7 +809,7 @@ arvigoahtit: arvi álgá dahje arvvit álget
 
 Bør ha eget dokument for avledninger.
 
-## čuohtenáre
+### čuohtenáre
 
 čuohtenáre - virker som det er brukt både om "ca. 100" og "hundrevis", men "ca. 100" ser ut til å være den primære bruken. Bør begge betydningene legges til i ordboka?
 
