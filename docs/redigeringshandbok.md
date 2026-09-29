@@ -48,7 +48,7 @@ Vi skiller mellom lemmaer som har forskjellig etymologi f.eks. vuovdi (skog) -- 
 
 
 
-&lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etter hverandre. mg er for betydningsforskjeller (som begrunnes i kildespråket??). Ved flere meninggroups må det skrives en
+&lt;mg&gt; : **meaning group** (denne inneholder all informasjon til en betydning av lemmaet). Det kan være flere mg etter hverandre. mg er for betydningsforskjeller (som begrunnes i kildespråket??). Ved flere meninggroups kan man vurdere å skrive en
 
 &lt;re&gt; : **restriction**, begrensning av betydninga, på norsk
 
