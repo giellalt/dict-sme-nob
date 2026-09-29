@@ -4,16 +4,16 @@ Drøfting av ord å definere
 Dokumentet ser på ulike måtar å ordne og prioritere ordforrådet som
 skal definerast.
 
-# Prinsipp for gruppering
+## Prinsipp for gruppering
 - alfabetisk
 - etter frekvens
 - etter semantikk
 - etter type
 
-# alfabetisk
+## alfabetisk
 Ikkje så bra i den digitale tidsalderen (?)
 
-# etter frekvens
+## etter frekvens
 Men etter kva slags frekvens?
 
 - Frekvens i all tekst
@@ -24,7 +24,12 @@ Men etter kva slags frekvens?
   - ...
 - Frekvens i søkeloggen for ordboka
 
-# etter semantikk
+## Frekvenslister
+
+- [Alle søk i sme-nob i 2025](../inc/defwords/smenob.20205.freq.md)
+
+
+## etter semantikk
 
 Måten å finne semantiske felt på:
 1. Finn ei semantisk avgrensa liste på norsk
@@ -40,7 +45,7 @@ Moglege kjelder:
 - ...
 
 
-# etter type
+## etter type
 - skal vi prioritere å definere definisjonsordforrådet?
 - definere delar av samansetjingar
 - definere samansetjingar
@@ -48,7 +53,7 @@ Moglege kjelder:
 - funksjonsord
 - ...
 
-# Definere sett i samanheng
+## Definere sett i samanheng
 
 - vekedagar
 - del av heilheit
