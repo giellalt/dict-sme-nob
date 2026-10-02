@@ -12,6 +12,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 ## Links
 
+- [Documentation of the North Saami monolingual dictionary](https://giellalt.github.io/dict-sme/)
 - [Neahtadigisánit between North Sámi, Finnish, Norwegian and Spanish](https://sanit.oahpa.no/)
 - [North Sámi dictionary page](https://dicts.uit.no/smedicts.eng.html)
 
