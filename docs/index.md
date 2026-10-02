@@ -1,7 +1,6 @@
-Documentation for two North Sámi dictionaries
-=============================================
-- North Saami ⇒ Norwegian Bokmål
-- Monolingual North Sámi dictionary
+Documentation for the North Sámi - Norwegian dictionary
+=======================================================
+
 
 Please see [this page](https://giellalt.github.io/dicts/) for more general information on how to work with dictionaries, and the various publishing alternatives.
 
@@ -9,11 +8,7 @@ Please see [this page](https://giellalt.github.io/dicts/) for more general infor
 
 ## Definišuvdnasátnegirjji dokumentašuvdna
 
-- [Redigeringshandbok](redigeringshandbok.md)
-- [Arbeidsplan 2024](arbeidsplan.html)
 - [Testing dict-FSTs](https://giellalt.github.io/dicts/TestingDictFST.html)
-- [Seminarprogram september 2026](seminarprogram_2026.html)
-- [Plan for ordforråd å definere](ord-aa-definere.html)
 
 ## Links
 
