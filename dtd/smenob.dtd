@@ -84,23 +84,11 @@
 <!ATTLIST mg x ( fad ) #IMPLIED >
 <!ATTLIST mg sem ( metaphor ) #IMPLIED > <!-- med, bot, zool, ? -->
 
-<!-- definition  -->
-<!ELEMENT dg ( re?, d, dt? ) >
-<!ELEMENT d (#PCDATA) >
-<!ELEMENT dt (#PCDATA) >
-
-
-<!-- synonym, antonym --> 
-<!ELEMENT sg ( s+ ) >
-<!ELEMENT s (#PCDATA) >
-<!ELEMENT antg ( ant+ ) >
-<!ELEMENT ant (#PCDATA) >
 
 <!-- Idiom phrases, faste uttrykk -->
 <!ELEMENT ig ( i+, id?, it+)+ >
 <!ELEMENT i (#PCDATA) >
 <!ATTLIST i src CDATA #IMPLIED >
-<!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
 
 
