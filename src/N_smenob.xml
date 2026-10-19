@@ -96,6 +96,16 @@
    </e>
    <e>
       <lg>
+         <l pos="N">ostočáhci</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">barkevann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">juolgegeavri</l>
       </lg>
       <mg>
@@ -111,6 +121,13 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">anelse</t>
+            <xg>
+               <x>oana oažžut das</x>
+               <xt>få anelse om noe</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="nob">
+            <t>usikker erindring</t>
          </tg>
       </mg>
    </e>
@@ -4824,6 +4841,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">masseenhet</t>
             <t pos="N">tyngdeenhet</t>
          </tg>
       </mg>
@@ -22672,7 +22690,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">sennegress nok til et par komager</t>
+            <t t_type="expl">sennegress nok til et par kommager</t>
          </tg>
       </mg>
    </e>
@@ -27775,7 +27793,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bortkommenhet</t>
-            <t pos="N">forvillelse</t>
+            <t pos="N">villfarelse</t>
          </tg>
       </mg>
       <mg>
@@ -29877,7 +29895,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">komagsying</t>
+            <t pos="N">kommagsying</t>
             <t pos="N">skallesying</t>
          </tg>
       </mg>
@@ -30948,7 +30966,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">vannblemmme</t>
+            <t pos="N">vannblemme</t>
          </tg>
       </mg>
    </e>
@@ -32573,7 +32591,7 @@
       <mg>
          <tg xml:lang="nob">
             <re>del av fottøy</re>
-            <t t_type="expl">bakerste del av komag eller sokk</t>
+            <t t_type="expl">bakerste del av kommag eller sokk</t>
          </tg>
       </mg>
    </e>
@@ -41676,7 +41694,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="expl">snodd eller flettet snor for å feste båndet til komag eller skalle</t>
+            <t t_type="expl">snodd eller flettet snor for å feste båndet til kommag eller skalle</t>
          </tg>
       </mg>
    </e>
@@ -165216,11 +165234,6 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">hjørnestolpe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">grunnlag</t>
             <t t_type="phrase">bærende kraft</t>
          </tg>
@@ -193796,6 +193809,16 @@
    <e>
       <lg>
          <l pos="N">nannánjiekŋa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fastlandsis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nannánjiehkki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -264749,7 +264772,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">helligsted</t>
+            <t pos="N" t_type="phrase">hellig sted</t>
          </tg>
       </mg>
    </e>
@@ -268897,13 +268920,13 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">inarisame</t>
+            <t pos="N">enaresame</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>om språk</re>
-            <t pos="N">inarisamisk</t>
+            <t pos="N">enaresamisk</t>
          </tg>
       </mg>
    </e>
@@ -274717,7 +274740,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">førstekandidat</t>
+            <t pos="N">motkandidat</t>
          </tg>
       </mg>
    </e>
@@ -276093,7 +276116,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">karasjokværing</t>
+            <t pos="N" t_type="phrase">person fra Karasjok</t>
          </tg>
       </mg>
    </e>
@@ -276153,7 +276176,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">komagspiss</t>
+            <t pos="N">kommagtupp</t>
          </tg>
       </mg>
    </e>
