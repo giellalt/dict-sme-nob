@@ -234641,12 +234641,23 @@
    </e>
    <e>
       <lg>
-         <l pos="N">leaira</l>
+         <l id="2" pos="N">leaira</l>
          <algu lekseemi_id="81247" sanue_id="78253"/>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">leir</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l id="1" pos="N">leaira</l>
+         <algu lekseemi_id="81247" sanue_id="78253"/>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lær</t>
          </tg>
       </mg>
    </e>
@@ -270538,6 +270549,16 @@
    <e>
       <lg>
          <l pos="N">litnetkantuvra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ligningskontor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">livnnetkantuvra</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
