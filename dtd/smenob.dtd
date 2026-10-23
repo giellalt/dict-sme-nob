@@ -46,7 +46,7 @@
       pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle |
             Num | CC | CS | Phrase | fp-cmp ) #REQUIRED
       attr ( no ) #IMPLIED
-      id CDATA #IMPLIED
+      hid ( 1 | 2 | 3) #IMPLIED
       nr ( Sg | Du | Pl | PlT ) #IMPLIED
       context CDATA #IMPLIED
       type ( Rel | Pers | Indef | Refl | Dem | G3 | G7 | NomAg | Ord
