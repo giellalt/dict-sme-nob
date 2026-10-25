@@ -71,7 +71,7 @@ For the full license text, see the link above.</lic>
             <re>fram og tilbake</re>
             <t pos="V">svinge</t>
             <xg>
-               <x>Báttit fiškašadde biekka ovddas.</x>
+               <x>Báttit fiškasadde biekka ovddas.</x>
                <xt>Tauene svingte i vinden.</xt>
             </xg>
          </tg>
@@ -534,8 +534,40 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t t_type="phrase">bli bein</t>
+            <t t_type="phrase">rette seg</t>
+            <xg>
+               <x>Roahkki njuolggai.</x>
+               <xt>Kroken rettet seg ut.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="phrase">ordne seg</t>
+            <xg>
+               <x>Áššit njulget.</x>
+               <xt>Sakene ordner seg.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">monoftongere</t>
+            <xg>
+               <x>Diftoŋŋa njuolgá.</x>
+               <xt>Diftongen monoftongerer.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">krepere</t>
             <t pos="V">stupe</t>
+            <xg>
+               <x>Uksa bávkkehii ja son njuolggai láhttái .</x>
+               <xt>Det smalt i døra og han stupte på golvet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4068,9 +4100,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om lyd</re>
             <t pos="V">ødsle</t>
             <t t_type="phrase">sløse bort</t>
+            <xg>
+               <x>Heaika ii duvhllidan ruđa.</x>
+               <xt>Heaika sløste ikke bort penger.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11100,6 +11135,16 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l context="mun" pos="V">suruhuddat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">synde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="mun" pos="V">suddudit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -20469,7 +20514,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="phrase">bli blandet</t>
-            <t pos="V">rotet</t>
          </tg>
       </mg>
       <mg>
@@ -20522,6 +20566,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="phrase">somle seg til</t>
+            <xg>
+               <x>In goassege sealgga dan dahkat.</x>
+               <xt>Jeg klarer aldri å få somlet meg til å gjøre det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23357,7 +23405,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="phrase">hefte bort</t>
+            <t pos="V">hefte</t>
+            <xg>
+               <x>In ájit guhká gávppis.</x>
+               <xt>Jeg hefter ikke lenge i butikken.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="V">oppholde</t>
+            <xg>
+               <x>Sáhtát go ájihit máná dan botta go málestan?</x>
+               <xt>Kan du oppholde barnet mens jeg lager mat?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -40465,7 +40524,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>tornesamisk</re>
-            <t dial="torne" pos="V">båle</t>
+            <t t_type="phrase">ha bål</t>
          </tg>
       </mg>
    </e>
@@ -43316,7 +43375,33 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l context="mun" pos="V">vuorjašuhttit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>gjøre noen bekymret</re>
+            <t pos="V">bekymre</t>
+            <xg>
+               <x>Olbmuid stuora kredihttavealggit vuorjašuhttet min.</x>
+               <xt>De store kredittgjelda blant folk bekymrer oss.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l context="mun" pos="V">devkkodahttit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om metall</re>
+            <t t_type="phrase">få til å anløpe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l context="dat" pos="V">devkkodit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
