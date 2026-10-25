@@ -89,6 +89,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l context="dilli" pos="A">vuorjašuhtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bekymringsfull</t>
+            <xg>
+               <x>Dát ášši lea erenoamážit vuorjašuhtti.</x>
+               <xt>Denne saka er spesielt bekymringsfull.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">liehmos</l>
       </lg>
       <mg>
@@ -17885,18 +17899,47 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg freq="219">
-         <l context="olmmoš" pos="A">oktageardán</l>
+         <l context="ášši" pos="A">oktageardán</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <re>usammensatt</re>
             <t pos="A">enkel</t>
             <xg>
-               <x>ovttageardánis vuohki</x>
+               <x>oktageardán vuohki</x>
                <xt>enkel måte</xt>
             </xg>
             <xg>
-               <x>ovttageardánis dieđut</x>
+               <x>oktageardán dieđut</x>
+               <xt>enkel informasjon</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg src="fad">
+         <tg xml:lang="nob">
+            <t pos="A">primitiv</t>
+         </tg>
+      </mg>
+      <mg src="fad">
+         <tg xml:lang="nob">
+            <t pos="A">naiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg freq="219">
+         <l context="ášši" pos="A">ovttageardán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>usammensatt</re>
+            <t pos="A">enkel</t>
+            <xg>
+               <x>ovttageardán vuohki</x>
+               <xt>enkel måte</xt>
+            </xg>
+            <xg>
+               <x>ovttageardán dieđut</x>
                <xt>enkel informasjon</xt>
             </xg>
          </tg>
