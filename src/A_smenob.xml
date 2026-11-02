@@ -137,7 +137,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l context="olmmoš" pos="A">luondduviđá</l>
+         <l context="dilli" pos="A">luondduviđá</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -390,7 +390,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">slurvete</t>
+            <t pos="A">slurvet</t>
             <t pos="A">skjødesløs</t>
          </tg>
       </mg>
@@ -867,12 +867,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">opak</t>
-            <t pos="A">ugjennomsiktig</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -966,7 +960,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">glissent</t>
+            <t pos="A">glissen</t>
          </tg>
       </mg>
       <mg>
@@ -3186,6 +3180,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">overdådig</t>
+            <t pos="A">ubegrenset</t>
             <xg>
                <x>Elle lea meareheapme juovlaskeaŋkkaid ektui.</x>
                <xt>Elle er overdådig i forhold til julegaver.</xt>
@@ -5286,7 +5281,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">rart</t>
+            <t pos="A">merkelig</t>
             <xg>
                <x>Gummá go ii boahtán.</x>
                <xt>Merkelig at hun ikke kom.</xt>
@@ -6323,6 +6318,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">umåtelig</t>
+            <t pos="A">ubegrenset</t>
+            <xg>
+               <x>Elle lea meariheapme juovlaskeaŋkkaid ektui.</x>
+               <xt>Elle er overdådig i forhold til julegaver.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8186,6 +8186,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <lg>
+         <l context="olmmoš" pos="A">njolvvas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mismodig</t>
+            <t pos="A">motfallen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">smalskuldret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg freq="97">
          <l context="jietna" pos="A">válddálaš</l>
       </lg>
@@ -8996,7 +9012,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">bleik</t>
-            <t pos="A">blek</t>
          </tg>
       </mg>
    </e>
@@ -21241,9 +21256,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">månedlang</t>
+            <t t_type="phrase">som varer en måned</t>
             <xg>
-               <x>golmma mánnosaš kursa</x>
+               <x>golmmamánnosaš kursa</x>
                <xt>tre måneder langt kurs</xt>
             </xg>
          </tg>
@@ -21252,7 +21267,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">månedsgammel</t>
             <xg>
-               <x>guđa mánnosaš mánná</x>
+               <x>guđamánnosaš mánná</x>
                <xt>seks måneder gammelt barn</xt>
             </xg>
          </tg>
@@ -21288,14 +21303,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">ukelang</t>
+            <t t_type="phrase">som varer ei uke</t>
             <xg>
-               <x>golmma vahkkosaš kursa</x>
+               <x>golmmavahkkosaš kursa</x>
                <xt>tre uker langt kurs</xt>
             </xg>
             <xg>
                <x>vahkkosaš ruovttueksámen</x>
-               <xt>én uke lang hjemmeeksamen</xt>
+               <xt>ei uke lang hjemmeeksamen</xt>
             </xg>
          </tg>
       </mg>
@@ -21303,7 +21318,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">ukegammel</t>
             <xg>
-               <x>Nuoramus oassálasti lei dušše viđa vahkkosaš.</x>
+               <x>Nuoramus oassálasti lei dušše viđavahkkosaš.</x>
                <xt>Den yngste deltakeren var bare fem uker gammel.</xt>
             </xg>
          </tg>
@@ -22087,7 +22102,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">likblek</t>
+            <t pos="A">likbleik</t>
+            <t t_type="phrase">sykelig bleik</t>
          </tg>
       </mg>
    </e>
@@ -23250,7 +23266,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">skummelt</t>
+            <t pos="A">skummel</t>
          </tg>
       </mg>
    </e>
@@ -23262,6 +23278,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">uhyggelig</t>
+            <t pos="A">nifs</t>
          </tg>
       </mg>
    </e>
@@ -25595,7 +25612,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">høyt</t>
+            <t pos="A">høy</t>
             <xg>
                <x>Viessu lea viđa dállogearddi allosaš.</x>
                <xt>Huset er fem etasjer høyt.</xt>
