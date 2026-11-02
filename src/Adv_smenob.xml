@@ -312,7 +312,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">bekymret</t>
+            <t pos="A">bekymret</t>
+            <xg>
+               <x>Mun lean fuolas dálá dilis.</x>
+               <xt>Jeg er bekymret for dagens situasjon.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2097,7 +2101,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">skeivt</t>
+            <t pos="Adv">skjevt</t>
             <xg>
                <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
                <xt>Gutten tråkket skjevt, og plutselig var han liggende.</xt>
@@ -2106,7 +2110,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">i snurr</t>
+            <t pos="Adv">med snurr</t>
+            <xg>
+               <x>Boagán lea botnjut.</x>
+               <xt>Det er snurr på beltet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3491,7 +3499,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">på skrå</t>
+            <t t_type="phrase">på skrå</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="A">skjev</t>
          </tg>
       </mg>
    </e>
@@ -3575,8 +3586,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">trangt</t>
-            <t pos="A">fullt</t>
+            <t pos="Adv">trangt</t>
+            <t pos="Adv">fullt</t>
          </tg>
       </mg>
    </e>
@@ -5184,8 +5195,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">igjen</t>
-            <t pos="A">stengt</t>
+            <t pos="Adv">igjen</t>
+            <t pos="Adv">stengt</t>
             <xg>
                <x>Uksa lea gitta.</x>
                <xt>Døra er igjen.</xt>
@@ -5209,7 +5220,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">avhengig</t>
             <xg>
-               <x src="SIKOR">Gielddalaš iešstivren lea gitta dain mearrádusain maid Stuorradiggi lea mearridan láhkaaddin.</x>
+               <x src="SIKOR">Gielddalaš iešstivren lea gitta dain mearrádusain maid Stuorradiggi lea mearridan
+               láhkaaddin.</x>
                <xt>Kommunalt selvstyre er avhengig av de avgjørelsene som Stortinget har gjort som lovgiver.</xt>
             </xg>
             <xg>
@@ -5548,9 +5560,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Bárdni ii lean fuomášan dán iehčanassii.</x>
                <xt>Gutten har ikke funnet ut dette på egen hånd.</xt>
-           </xg>
+            </xg>
             <xg>
-               <x>De fertejedje buohkat bargat iehčanassii, ja mun veahkehin buohkaid dađi mielde go sii dárbbašedje.</x>
+               <x>De fertejedje buohkat bargat iehčanassii, ja mun veahkehin buohkaid dađi mielde go sii
+               dárbbašedje.</x>
                <xt>Så måtte alle arbeide på egen hånd, og jeg hjalp alle etter hvert som de trengte det.</xt>
             </xg>
          </tg>
@@ -5918,7 +5931,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om strikking</re>
+            <re>om strikking</re>
             <t pos="Adv">vrangt</t>
             <xg>
                <x>Gođe 2 čalmmi njuolgut ja 2 čalmmi jorgut.</x>
@@ -8950,7 +8963,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">til når</t>
+            <t pos="Adv">ftil når</t>
             <xg>
                <x>Goassážii mii galgat geargat?</x>
                <xt>Når skal vi være ferdig?</xt>
@@ -8995,6 +9008,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">daglig</t>
+            <xg>
+               <x>Muhtin bargguid bargat beaivválaččat, eará bargguid bargat ges vahkkosaččat dahje mánnosaččat.</x>
+               <xt>Noen oppgaver gjør vi daglig, andre oppgaver gjør vi igjen ukentlig eller månedlig.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10986,12 +11003,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">på skrå</t>
+            <t t_type="phrase">på skrå</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="nob">
-            <t pos="A">skjeiv</t>
+            <t pos="A">skjev</t>
          </tg>
       </mg>
    </e>
