@@ -86,10 +86,16 @@
 
 
 <!-- Idiom phrases, faste uttrykk -->
-<!ELEMENT ig ( i+, it+)+ >
+<!ELEMENT ig ( i+, it+, ixg*)+ >
 <!ELEMENT i (#PCDATA) >
 <!ATTLIST i src CDATA #IMPLIED >
 <!ELEMENT it (#PCDATA) >
+
+<!ELEMENT ixg ((ix, ixt+)+)>
+<!ELEMENT ix (#PCDATA)>
+<!ATTLIST ix src CDATA #IMPLIED >
+<!ELEMENT ixt (#PCDATA)>
+<!ATTLIST ixt src CDATA #IMPLIED >
 
 
 <!ELEMENT tg (re?,  ( ((t, l_ref?, morph_expl?) ))+, xg* ) >
