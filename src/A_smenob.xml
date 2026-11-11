@@ -125,7 +125,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">nyttig</t>
             <xg>
                <x>Oahppat lohkat ja čállit lea gávnnálaš.</x>
-               <xt>Det er er nyttig å lære å lese og skrive. </xt>
+               <xt>Det er er nyttig å lære å lese og skrive.</xt>
             </xg>
          </tg>
       </mg>
@@ -5354,10 +5354,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">angående</t>
+            <t pos="A">vedkommende</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t t_type="phrase">som angår</t>
             <xg>
                <x>dasa guoskevaš</x>
                <xt>noe som angår den</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="A">aktuell</t>
+            <xg>
+               <x>guoskevaš searvvit</x>
+               <xt>aktuelle foreninger</xt>
             </xg>
          </tg>
       </mg>
@@ -10519,10 +10529,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">alene</t>
+            <t pos="A">avsides</t>
             <xg>
                <x>Várrevielttis oidnen guhkás ja njárggas oidnojedje moadde oktonas viesu.</x>
-               <xt>Fra fjellsiden så jeg langt og på neset skimtet jeg et par hus som sto alene.</xt>
+               <xt>Fra fjellsiden så jeg langt og på neset skimtet jeg et par avsides hus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">alene</t>
+            <t t_type="phrase">for seg selv</t>
+            <xg>
+               <x>oktonas dovdu</x>
+               <xt>følelse av å være alene</xt>
             </xg>
          </tg>
       </mg>
