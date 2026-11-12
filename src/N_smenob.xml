@@ -86,6 +86,20 @@
    </e>
    <e>
       <lg>
+         <l pos="N">guoskanšearbma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">berøringsskjerm</t>
+            <xg>
+               <x>Dihtordulbosa stivre guoskanšearpmain.</x>
+               <xt>Nettbrette styrer man med berøringsskjerm.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">álbmotvádjolus</l>
       </lg>
       <mg>
@@ -234713,7 +234727,6 @@
    <e>
       <lg>
          <l hid="2" pos="N">leaira</l>
-         <algu lekseemi_id="81247" sanue_id="78253"/>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -234724,7 +234737,6 @@
    <e>
       <lg>
          <l hid="1" pos="N">leaira</l>
-         <algu lekseemi_id="81247" sanue_id="78253"/>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -259699,6 +259711,24 @@
             </xg>
             <xg>
                <x>Bussá goarjada soffás.</x>
+               <xt>Katta ligger sammenkrøket i sofaen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg freq="0">
+         <l pos="N">gissi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">katt</t>
+            <xg>
+               <x>Nubbi gissi njávgu, ja nubbi botná.</x>
+               <xt>Den ene katta mjauer, og den andre maler.</xt>
+            </xg>
+            <xg>
+               <x>Gissi goarjada soffás.</x>
                <xt>Katta ligger sammenkrøket i sofaen.</xt>
             </xg>
          </tg>
