@@ -3011,8 +3011,12 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">nattverd</t>
             <t pos="N">kveldsmat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nattverd</t>
             <xg>
                <x>Sis lea vuoigatvuohta oažžut eahkedaččaid sámegillii.</x>
                <xt>De har rett til å få nattverd på samisk.</xt>
@@ -49080,6 +49084,8 @@
          <tg xml:lang="nob">
             <t pos="N">prikk</t>
             <t pos="N">punkt</t>
+         </tg>
+         <tg xml:lang="nob">
             <t pos="N">punktum</t>
          </tg>
       </mg>
@@ -63424,16 +63430,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jordbrukssjef</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">landbrukssjef</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skogbrukssjef</t>
          </tg>
       </mg>
    </e>
@@ -64294,7 +64291,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">barnehagepersonale</t>
+            <t pos="N">barnehageplan</t>
          </tg>
       </mg>
       <mg>
@@ -79606,16 +79603,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="0">
-         <l pos="N">buhcciidviessobátnedivššohat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sykehusklinikk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="2">
          <l pos="N">buohccedivššárváili</l>
       </lg>
@@ -85098,7 +85085,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">realkompetansevurdering</t>
+            <t pos="N">realkompetanse</t>
          </tg>
       </mg>
    </e>
@@ -88344,7 +88331,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">rettsforpliktelse</t>
+            <t pos="N">rettssystem</t>
          </tg>
       </mg>
    </e>
@@ -111073,7 +111060,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="phrase">sperregrense for utjevningsmadat</t>
+            <t t_type="phrase">sperregrense for utjevningsmandat</t>
          </tg>
       </mg>
    </e>
@@ -115030,8 +115017,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om enkeltindivid_XXX</re>
-            <t pos="N">lokalbefolkning</t>
+            <t t_type="phrase">lokal person</t>
          </tg>
       </mg>
    </e>
@@ -120592,16 +120578,6 @@
       </mg>
    </e>
    <e src="fad">
-      <lg freq="0">
-         <l pos="N">guolleoastinásahus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">eggproduksjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
       <lg freq="5">
          <l pos="N">bruttoálbmotbuvttadus</l>
       </lg>
@@ -122667,16 +122643,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">overkapasitet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="9">
-         <l pos="N">áššeolmmái</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sysselmann</t>
          </tg>
       </mg>
    </e>
@@ -125606,7 +125572,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>forsyning_XXX</re>
+            <re>om forsyning</re>
             <t pos="N">tilgang</t>
          </tg>
       </mg>
@@ -148932,21 +148898,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kulturbarriere</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg freq="5">
-         <l pos="N">kulturcaggi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kulturbarriere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kulturbærer</t>
          </tg>
       </mg>
    </e>
@@ -268126,16 +268077,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">miellabuohcceláhka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">medpasientslov</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="NomAg">hubmi</l>
       </lg>
       <mg>
@@ -273662,7 +273603,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">berømmelse</t>
+            <t pos="N">kraftløshet</t>
          </tg>
       </mg>
    </e>
@@ -275453,7 +275394,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">sangkonkurranse</t>
+            <t pos="N">sangkonsert</t>
          </tg>
       </mg>
    </e>
